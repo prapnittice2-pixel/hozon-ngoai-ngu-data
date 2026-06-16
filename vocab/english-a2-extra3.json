@@ -1,0 +1,1922 @@
+[
+  {
+    "w": "backpack",
+    "m": "ba lô",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bakery",
+    "m": "tiệm bánh",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "balcony",
+    "m": "ban công",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "bandage",
+    "m": "băng gạc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "barbecue",
+    "m": "tiệc nướng ngoài trời",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "bargain",
+    "m": "món hời; mặc cả",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "basement",
+    "m": "tầng hầm",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "battery charger",
+    "m": "bộ sạc pin",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "bench",
+    "m": "ghế dài",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "birthday party",
+    "m": "tiệc sinh nhật",
+    "cat": "giải trí"
+  },
+  {
+    "w": "blanket",
+    "m": "chăn, mền",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "blender",
+    "m": "máy xay sinh tố",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "blood test",
+    "m": "xét nghiệm máu",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "board game",
+    "m": "trò chơi cờ bàn",
+    "cat": "giải trí"
+  },
+  {
+    "w": "boarding pass",
+    "m": "thẻ lên máy bay",
+    "cat": "du lịch"
+  },
+  {
+    "w": "boil",
+    "m": "luộc, đun sôi",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "bookshelf",
+    "m": "kệ sách",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bracelet",
+    "m": "vòng tay",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "brake",
+    "m": "phanh xe",
+    "cat": "giao thông"
+  },
+  {
+    "w": "breeze",
+    "m": "gió nhẹ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "briefcase",
+    "m": "cặp công sở",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bubble",
+    "m": "bong bóng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "budget",
+    "m": "ngân sách cá nhân",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "bunk bed",
+    "m": "giường tầng",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "burglar",
+    "m": "kẻ trộm đột nhập",
+    "cat": "xã hội"
+  },
+  {
+    "w": "bus stop",
+    "m": "trạm xe buýt",
+    "cat": "giao thông"
+  },
+  {
+    "w": "cabin",
+    "m": "cabin; nhà gỗ nhỏ",
+    "cat": "du lịch"
+  },
+  {
+    "w": "cafeteria",
+    "m": "căng tin",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "calculator",
+    "m": "máy tính bỏ túi",
+    "cat": "học tập"
+  },
+  {
+    "w": "calendar",
+    "m": "lịch",
+    "cat": "thời gian"
+  },
+  {
+    "w": "campfire",
+    "m": "lửa trại",
+    "cat": "du lịch"
+  },
+  {
+    "w": "can opener",
+    "m": "đồ khui hộp",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "carpet",
+    "m": "thảm trải sàn",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "cartoon",
+    "m": "phim hoạt hình",
+    "cat": "giải trí"
+  },
+  {
+    "w": "cashier",
+    "m": "thu ngân",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "ceiling",
+    "m": "trần nhà",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "chapter",
+    "m": "chương sách",
+    "cat": "học tập"
+  },
+  {
+    "w": "charity",
+    "m": "từ thiện",
+    "cat": "xã hội"
+  },
+  {
+    "w": "checkout",
+    "m": "quầy thanh toán; trả phòng",
+    "cat": "du lịch"
+  },
+  {
+    "w": "cheerful",
+    "m": "vui tươi",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "chimney",
+    "m": "ống khói",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "clinic",
+    "m": "phòng khám",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "cloakroom",
+    "m": "phòng gửi đồ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "clumsy",
+    "m": "vụng về",
+    "cat": "tính từ"
+  },
+  {
+    "w": "coastline",
+    "m": "đường bờ biển",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "cosy",
+    "m": "ấm cúng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cottage",
+    "m": "nhà tranh ở quê",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "countryside walk",
+    "m": "đi dạo đồng quê",
+    "cat": "giải trí"
+  },
+  {
+    "w": "coupon",
+    "m": "phiếu giảm giá",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "crosswalk",
+    "m": "vạch sang đường",
+    "cat": "giao thông"
+  },
+  {
+    "w": "cruise",
+    "m": "du thuyền; chuyến đi biển",
+    "cat": "du lịch"
+  },
+  {
+    "w": "cupboard",
+    "m": "tủ chén",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "curtain",
+    "m": "rèm cửa",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "cushion",
+    "m": "gối tựa",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "daily routine",
+    "m": "thói quen hằng ngày",
+    "cat": "đời sống"
+  },
+  {
+    "w": "dairy",
+    "m": "sản phẩm từ sữa",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "deadline",
+    "m": "hạn chót",
+    "cat": "công việc"
+  },
+  {
+    "w": "deliver",
+    "m": "giao hàng",
+    "cat": "hành động"
+  },
+  {
+    "w": "dentist appointment",
+    "m": "hẹn khám nha",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "departure",
+    "m": "sự khởi hành",
+    "cat": "du lịch"
+  },
+  {
+    "w": "deposit",
+    "m": "tiền đặt cọc",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "dessert",
+    "m": "món tráng miệng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "detour",
+    "m": "đường vòng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "diary",
+    "m": "nhật ký",
+    "cat": "đời sống"
+  },
+  {
+    "w": "dizzy",
+    "m": "chóng mặt",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "doorbell",
+    "m": "chuông cửa",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "dormitory",
+    "m": "ký túc xá",
+    "cat": "học tập"
+  },
+  {
+    "w": "downtown",
+    "m": "trung tâm thành phố",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "drawer",
+    "m": "ngăn kéo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "dressing room",
+    "m": "phòng thử đồ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "driveway",
+    "m": "lối xe vào nhà",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "drugstore",
+    "m": "tiệm thuốc",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "dustbin",
+    "m": "thùng rác",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "duty-free",
+    "m": "miễn thuế",
+    "cat": "du lịch"
+  },
+  {
+    "w": "earring",
+    "m": "hoa tai",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "elevator",
+    "m": "thang máy",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "emergency exit",
+    "m": "lối thoát hiểm",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "envelope",
+    "m": "phong bì",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "eraser",
+    "m": "cục tẩy",
+    "cat": "học tập"
+  },
+  {
+    "w": "errand",
+    "m": "việc vặt phải đi làm",
+    "cat": "đời sống"
+  },
+  {
+    "w": "escalator",
+    "m": "thang cuốn",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "exchange rate",
+    "m": "tỷ giá hối đoái",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "eyebrow",
+    "m": "lông mày",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "fabric",
+    "m": "vải",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "fairy tale",
+    "m": "truyện cổ tích",
+    "cat": "giải trí"
+  },
+  {
+    "w": "fare",
+    "m": "tiền vé xe",
+    "cat": "giao thông"
+  },
+  {
+    "w": "faucet",
+    "m": "vòi nước",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "feather",
+    "m": "lông vũ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "fence",
+    "m": "hàng rào",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "ferry",
+    "m": "phà",
+    "cat": "giao thông"
+  },
+  {
+    "w": "firework",
+    "m": "pháo hoa",
+    "cat": "giải trí"
+  },
+  {
+    "w": "first aid",
+    "m": "sơ cứu",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "fitting room",
+    "m": "phòng thử quần áo",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "flashlight",
+    "m": "đèn pin",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "flavor",
+    "m": "hương vị",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "flea market",
+    "m": "chợ trời",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "flight attendant",
+    "m": "tiếp viên hàng không",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "flour",
+    "m": "bột mì",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "folder",
+    "m": "thư mục; bìa kẹp hồ sơ",
+    "cat": "học tập"
+  },
+  {
+    "w": "footpath",
+    "m": "đường mòn đi bộ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "forecast",
+    "m": "dự báo",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "fountain",
+    "m": "đài phun nước",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "freezer",
+    "m": "ngăn đông",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "frying pan",
+    "m": "chảo rán",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "furniture",
+    "m": "đồ nội thất",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "garage",
+    "m": "nhà để xe",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "garbage",
+    "m": "rác",
+    "cat": "môi trường"
+  },
+  {
+    "w": "gate",
+    "m": "cổng",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "generous",
+    "m": "hào phóng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "gentle",
+    "m": "dịu dàng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "giraffe",
+    "m": "hươu cao cổ",
+    "cat": "động vật"
+  },
+  {
+    "w": "glue",
+    "m": "keo dán",
+    "cat": "học tập"
+  },
+  {
+    "w": "grocery",
+    "m": "tạp hóa, thực phẩm",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "guidebook",
+    "m": "sách hướng dẫn du lịch",
+    "cat": "du lịch"
+  },
+  {
+    "w": "gym membership",
+    "m": "thẻ tập gym",
+    "cat": "thể thao"
+  },
+  {
+    "w": "hairdryer",
+    "m": "máy sấy tóc",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "hallway",
+    "m": "hành lang",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "handkerchief",
+    "m": "khăn tay",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "hanger",
+    "m": "móc treo quần áo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "headlight",
+    "m": "đèn pha xe",
+    "cat": "giao thông"
+  },
+  {
+    "w": "heater",
+    "m": "máy sưởi",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "helmet",
+    "m": "mũ bảo hiểm",
+    "cat": "giao thông"
+  },
+  {
+    "w": "hide and seek",
+    "m": "trò trốn tìm",
+    "cat": "giải trí"
+  },
+  {
+    "w": "hiking trail",
+    "m": "đường mòn leo núi",
+    "cat": "du lịch"
+  },
+  {
+    "w": "homesick",
+    "m": "nhớ nhà",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "hometown",
+    "m": "quê nhà",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "honeymoon",
+    "m": "tuần trăng mật",
+    "cat": "du lịch"
+  },
+  {
+    "w": "hospitality",
+    "m": "lòng hiếu khách",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "housework",
+    "m": "việc nhà",
+    "cat": "đời sống"
+  },
+  {
+    "w": "hug",
+    "m": "cái ôm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "hurricane",
+    "m": "siêu bão",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "iceberg",
+    "m": "tảng băng trôi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "indoor",
+    "m": "trong nhà",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ingredient",
+    "m": "nguyên liệu nấu ăn",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "injection",
+    "m": "mũi tiêm",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "insect bite",
+    "m": "vết côn trùng cắn",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "instant noodle",
+    "m": "mì ăn liền",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "intersection",
+    "m": "ngã tư",
+    "cat": "giao thông"
+  },
+  {
+    "w": "interview",
+    "m": "buổi phỏng vấn",
+    "cat": "công việc"
+  },
+  {
+    "w": "ironing",
+    "m": "việc ủi đồ",
+    "cat": "đời sống"
+  },
+  {
+    "w": "itinerary",
+    "m": "lịch trình chuyến đi",
+    "cat": "du lịch"
+  },
+  {
+    "w": "jar",
+    "m": "hũ, lọ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "jealous",
+    "m": "ghen tị",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "jewelry",
+    "m": "trang sức",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "jog",
+    "m": "chạy bộ chậm",
+    "cat": "thể thao"
+  },
+  {
+    "w": "jug",
+    "m": "bình rót",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "junk food",
+    "m": "đồ ăn vặt không lành mạnh",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "kettle",
+    "m": "ấm đun nước",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "keyboard",
+    "m": "bàn phím",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "kindergarten",
+    "m": "trường mẫu giáo",
+    "cat": "học tập"
+  },
+  {
+    "w": "ladder",
+    "m": "cái thang",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "landlord",
+    "m": "chủ nhà cho thuê",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "laundry",
+    "m": "đồ giặt; tiệm giặt",
+    "cat": "đời sống"
+  },
+  {
+    "w": "lawn",
+    "m": "bãi cỏ",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "leaflet",
+    "m": "tờ rơi",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "leftover",
+    "m": "đồ ăn thừa",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "lifeguard",
+    "m": "nhân viên cứu hộ",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "lighthouse",
+    "m": "hải đăng",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "litter",
+    "m": "rác vứt bừa",
+    "cat": "môi trường"
+  },
+  {
+    "w": "living room",
+    "m": "phòng khách",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "lock",
+    "m": "ổ khóa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "locker",
+    "m": "tủ khóa cá nhân",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "lollipop",
+    "m": "kẹo mút",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "lost and found",
+    "m": "quầy đồ thất lạc",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "loudspeaker",
+    "m": "loa phóng thanh",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "luggage",
+    "m": "hành lý",
+    "cat": "du lịch"
+  },
+  {
+    "w": "lullaby",
+    "m": "bài hát ru",
+    "cat": "giải trí"
+  },
+  {
+    "w": "mailbox",
+    "m": "hộp thư",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "makeup",
+    "m": "đồ trang điểm",
+    "cat": "đời sống"
+  },
+  {
+    "w": "marble",
+    "m": "viên bi; đá cẩm thạch",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "mattress",
+    "m": "đệm",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "microwave",
+    "m": "lò vi sóng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "miss the bus",
+    "m": "lỡ chuyến xe buýt",
+    "cat": "giao thông"
+  },
+  {
+    "w": "mosquito net",
+    "m": "màn chống muỗi",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "motorway",
+    "m": "đường cao tốc",
+    "cat": "giao thông"
+  },
+  {
+    "w": "mug",
+    "m": "cốc vại",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "nap",
+    "m": "giấc ngủ ngắn",
+    "cat": "đời sống"
+  },
+  {
+    "w": "napkin",
+    "m": "khăn ăn",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "necklace",
+    "m": "vòng cổ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "neighborhood",
+    "m": "khu phố",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "nephew",
+    "m": "cháu trai",
+    "cat": "gia đình"
+  },
+  {
+    "w": "niece",
+    "m": "cháu gái",
+    "cat": "gia đình"
+  },
+  {
+    "w": "nightmare",
+    "m": "ác mộng",
+    "cat": "đời sống"
+  },
+  {
+    "w": "notice board",
+    "m": "bảng thông báo",
+    "cat": "học tập"
+  },
+  {
+    "w": "oven",
+    "m": "lò nướng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "overslept",
+    "m": "ngủ quên",
+    "cat": "đời sống"
+  },
+  {
+    "w": "overtime",
+    "m": "làm thêm giờ",
+    "cat": "công việc"
+  },
+  {
+    "w": "painkiller",
+    "m": "thuốc giảm đau",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "pajamas",
+    "m": "đồ ngủ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pan",
+    "m": "chảo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "parcel",
+    "m": "bưu kiện",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "parking lot",
+    "m": "bãi đỗ xe",
+    "cat": "giao thông"
+  },
+  {
+    "w": "passport control",
+    "m": "kiểm soát hộ chiếu",
+    "cat": "du lịch"
+  },
+  {
+    "w": "pavement",
+    "m": "vỉa hè",
+    "cat": "giao thông"
+  },
+  {
+    "w": "paycheck",
+    "m": "tiền lương nhận",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "pedestrian",
+    "m": "người đi bộ",
+    "cat": "giao thông"
+  },
+  {
+    "w": "pepper",
+    "m": "hạt tiêu; ớt chuông",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "petrol station",
+    "m": "trạm xăng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "picnic",
+    "m": "dã ngoại",
+    "cat": "giải trí"
+  },
+  {
+    "w": "pillow",
+    "m": "cái gối",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "pillowcase",
+    "m": "vỏ gối",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "platform",
+    "m": "sân ga",
+    "cat": "giao thông"
+  },
+  {
+    "w": "playground",
+    "m": "sân chơi",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "plug",
+    "m": "phích cắm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "plumber",
+    "m": "thợ sửa ống nước",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "pocket money",
+    "m": "tiền tiêu vặt",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "polka dot",
+    "m": "chấm bi",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "porridge",
+    "m": "cháo yến mạch",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "postcard",
+    "m": "bưu thiếp",
+    "cat": "du lịch"
+  },
+  {
+    "w": "poster",
+    "m": "áp phích",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pottery",
+    "m": "đồ gốm",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "prescription",
+    "m": "đơn thuốc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "public holiday",
+    "m": "ngày nghỉ lễ",
+    "cat": "thời gian"
+  },
+  {
+    "w": "puddle",
+    "m": "vũng nước",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "pullover",
+    "m": "áo len chui đầu",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "puppet",
+    "m": "con rối",
+    "cat": "giải trí"
+  },
+  {
+    "w": "purse",
+    "m": "ví nữ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "puzzle",
+    "m": "trò xếp hình",
+    "cat": "giải trí"
+  },
+  {
+    "w": "quilt",
+    "m": "chăn bông",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "raincoat",
+    "m": "áo mưa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "razor",
+    "m": "dao cạo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "receipt",
+    "m": "hóa đơn",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "reception",
+    "m": "quầy lễ tân",
+    "cat": "du lịch"
+  },
+  {
+    "w": "recipe",
+    "m": "công thức nấu ăn",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "refund",
+    "m": "hoàn tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "remote control",
+    "m": "điều khiển từ xa",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "rent",
+    "m": "tiền thuê nhà",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "reservation",
+    "m": "sự đặt chỗ",
+    "cat": "du lịch"
+  },
+  {
+    "w": "rooftop",
+    "m": "sân thượng",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "roommate",
+    "m": "bạn cùng phòng",
+    "cat": "người"
+  },
+  {
+    "w": "roundabout",
+    "m": "vòng xuyến",
+    "cat": "giao thông"
+  },
+  {
+    "w": "rubber boots",
+    "m": "ủng cao su",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "rush hour",
+    "m": "giờ cao điểm",
+    "cat": "giao thông"
+  },
+  {
+    "w": "sandal",
+    "m": "dép xăng đan",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "saucepan",
+    "m": "nồi có cán",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "scenery",
+    "m": "phong cảnh",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "schedule",
+    "m": "lịch trình",
+    "cat": "thời gian"
+  },
+  {
+    "w": "scooter",
+    "m": "xe tay ga; xe trượt",
+    "cat": "giao thông"
+  },
+  {
+    "w": "seafront",
+    "m": "mặt tiền biển",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "seatbelt",
+    "m": "dây an toàn",
+    "cat": "giao thông"
+  },
+  {
+    "w": "second-hand",
+    "m": "đồ cũ, đã qua sử dụng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "shampoo",
+    "m": "dầu gội",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "shelf",
+    "m": "kệ",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "shopping cart",
+    "m": "xe đẩy siêu thị",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "shower gel",
+    "m": "sữa tắm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "sideboard",
+    "m": "tủ buýp phê",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "sidewalk",
+    "m": "vỉa hè",
+    "cat": "giao thông"
+  },
+  {
+    "w": "sightseeing",
+    "m": "tham quan ngắm cảnh",
+    "cat": "du lịch"
+  },
+  {
+    "w": "signature",
+    "m": "chữ ký",
+    "cat": "công việc"
+  },
+  {
+    "w": "sink",
+    "m": "bồn rửa",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "sleeve",
+    "m": "tay áo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "slipper",
+    "m": "dép đi trong nhà",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "snack",
+    "m": "đồ ăn nhẹ",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "sneeze",
+    "m": "hắt hơi",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "snorkeling",
+    "m": "lặn ống thở",
+    "cat": "du lịch"
+  },
+  {
+    "w": "souvenir",
+    "m": "quà lưu niệm",
+    "cat": "du lịch"
+  },
+  {
+    "w": "spicy",
+    "m": "cay",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "sponge",
+    "m": "miếng bọt biển",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "sprain",
+    "m": "bong gân",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "staircase",
+    "m": "cầu thang bộ",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "stationery",
+    "m": "văn phòng phẩm",
+    "cat": "học tập"
+  },
+  {
+    "w": "steering wheel",
+    "m": "vô lăng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "stepmother",
+    "m": "mẹ kế",
+    "cat": "gia đình"
+  },
+  {
+    "w": "sticky rice",
+    "m": "xôi, gạo nếp",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "stool",
+    "m": "ghế đẩu",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "stopover",
+    "m": "điểm dừng chân quá cảnh",
+    "cat": "du lịch"
+  },
+  {
+    "w": "strawberry jam",
+    "m": "mứt dâu",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "stroller",
+    "m": "xe đẩy em bé",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "suburb",
+    "m": "ngoại ô",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "subway station",
+    "m": "ga tàu điện ngầm",
+    "cat": "giao thông"
+  },
+  {
+    "w": "sunbathe",
+    "m": "tắm nắng",
+    "cat": "du lịch"
+  },
+  {
+    "w": "sunburn",
+    "m": "cháy nắng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "sunrise",
+    "m": "bình minh",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "sunscreen",
+    "m": "kem chống nắng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "surfboard",
+    "m": "ván lướt sóng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "sweater",
+    "m": "áo len",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "swing",
+    "m": "xích đu",
+    "cat": "giải trí"
+  },
+  {
+    "w": "syrup",
+    "m": "siro",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "tablecloth",
+    "m": "khăn trải bàn",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "takeaway",
+    "m": "đồ ăn mang về",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "tap water",
+    "m": "nước máy",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "teapot",
+    "m": "ấm trà",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "teaspoon",
+    "m": "thìa cà phê",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "tent",
+    "m": "lều",
+    "cat": "du lịch"
+  },
+  {
+    "w": "terrace",
+    "m": "sân hiên",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "thermometer",
+    "m": "nhiệt kế",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "thunderstorm",
+    "m": "giông bão",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "timetable",
+    "m": "thời khóa biểu",
+    "cat": "thời gian"
+  },
+  {
+    "w": "tip",
+    "m": "tiền boa; mẹo nhỏ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "toll",
+    "m": "phí cầu đường",
+    "cat": "giao thông"
+  },
+  {
+    "w": "toothpaste",
+    "m": "kem đánh răng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "tow truck",
+    "m": "xe kéo cứu hộ",
+    "cat": "giao thông"
+  },
+  {
+    "w": "tracksuit",
+    "m": "bộ đồ thể thao",
+    "cat": "thể thao"
+  },
+  {
+    "w": "traffic light",
+    "m": "đèn giao thông",
+    "cat": "giao thông"
+  },
+  {
+    "w": "tray",
+    "m": "cái khay",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "trolley",
+    "m": "xe đẩy",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "tuition",
+    "m": "học phí",
+    "cat": "học tập"
+  },
+  {
+    "w": "tunnel",
+    "m": "đường hầm",
+    "cat": "giao thông"
+  },
+  {
+    "w": "tweezers",
+    "m": "cái nhíp",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "umbrella stand",
+    "m": "giá để ô",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "underpass",
+    "m": "hầm chui",
+    "cat": "giao thông"
+  },
+  {
+    "w": "vacancy",
+    "m": "phòng trống; vị trí tuyển",
+    "cat": "du lịch"
+  },
+  {
+    "w": "vacuum cleaner",
+    "m": "máy hút bụi",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "vending machine",
+    "m": "máy bán hàng tự động",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "vet",
+    "m": "bác sĩ thú y",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "view",
+    "m": "tầm nhìn, cảnh",
+    "cat": "du lịch"
+  },
+  {
+    "w": "voucher",
+    "m": "phiếu quà tặng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "waiting room",
+    "m": "phòng chờ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "wallet",
+    "m": "ví tiền",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "wardrobe",
+    "m": "tủ quần áo",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "washing powder",
+    "m": "bột giặt",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "waterfall",
+    "m": "thác nước",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "watering can",
+    "m": "bình tưới cây",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "waterproof",
+    "m": "chống nước",
+    "cat": "tính từ"
+  },
+  {
+    "w": "wheelchair",
+    "m": "xe lăn",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "whisk",
+    "m": "cây đánh trứng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "windscreen",
+    "m": "kính chắn gió",
+    "cat": "giao thông"
+  },
+  {
+    "w": "wrapping paper",
+    "m": "giấy gói quà",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "wrist",
+    "m": "cổ tay",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "x-ray",
+    "m": "chụp X-quang",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "yawn",
+    "m": "ngáp",
+    "cat": "đời sống"
+  },
+  {
+    "w": "yogurt",
+    "m": "sữa chua",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "zebra crossing",
+    "m": "vạch kẻ sang đường",
+    "cat": "giao thông"
+  },
+  {
+    "w": "zipper",
+    "m": "khóa kéo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "afford",
+    "m": "đủ tiền mua",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "apologize",
+    "m": "xin lỗi",
+    "cat": "hành động"
+  },
+  {
+    "w": "argue",
+    "m": "tranh cãi",
+    "cat": "hành động"
+  },
+  {
+    "w": "arrange",
+    "m": "sắp xếp",
+    "cat": "hành động"
+  },
+  {
+    "w": "attach",
+    "m": "đính kèm",
+    "cat": "hành động"
+  },
+  {
+    "w": "attend",
+    "m": "tham dự",
+    "cat": "hành động"
+  },
+  {
+    "w": "avoid",
+    "m": "tránh",
+    "cat": "hành động"
+  },
+  {
+    "w": "behave",
+    "m": "cư xử",
+    "cat": "hành động"
+  },
+  {
+    "w": "belong",
+    "m": "thuộc về",
+    "cat": "hành động"
+  },
+  {
+    "w": "book a table",
+    "m": "đặt bàn",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "borrow",
+    "m": "mượn",
+    "cat": "hành động"
+  },
+  {
+    "w": "celebrate",
+    "m": "ăn mừng",
+    "cat": "hành động"
+  },
+  {
+    "w": "chat",
+    "m": "tán gẫu",
+    "cat": "hành động"
+  },
+  {
+    "w": "collect",
+    "m": "sưu tầm, thu gom",
+    "cat": "hành động"
+  },
+  {
+    "w": "compare prices",
+    "m": "so sánh giá",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "complain",
+    "m": "phàn nàn",
+    "cat": "hành động"
+  },
+  {
+    "w": "confirm",
+    "m": "xác nhận",
+    "cat": "hành động"
+  },
+  {
+    "w": "crash",
+    "m": "đâm xe; sập",
+    "cat": "giao thông"
+  },
+  {
+    "w": "decorate",
+    "m": "trang trí",
+    "cat": "hành động"
+  },
+  {
+    "w": "disturb",
+    "m": "làm phiền",
+    "cat": "hành động"
+  },
+  {
+    "w": "download",
+    "m": "tải xuống",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "earn",
+    "m": "kiếm tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "exchange",
+    "m": "đổi, trao đổi",
+    "cat": "hành động"
+  },
+  {
+    "w": "feed the cat",
+    "m": "cho mèo ăn",
+    "cat": "đời sống"
+  },
+  {
+    "w": "fix",
+    "m": "sửa chữa",
+    "cat": "hành động"
+  },
+  {
+    "w": "greet",
+    "m": "chào hỏi",
+    "cat": "hành động"
+  },
+  {
+    "w": "hang out",
+    "m": "đi chơi với bạn",
+    "cat": "giải trí"
+  },
+  {
+    "w": "hire",
+    "m": "thuê người; thuê đồ",
+    "cat": "công việc"
+  },
+  {
+    "w": "invite",
+    "m": "mời",
+    "cat": "hành động"
+  },
+  {
+    "w": "iron clothes",
+    "m": "ủi quần áo",
+    "cat": "đời sống"
+  },
+  {
+    "w": "knock",
+    "m": "gõ cửa",
+    "cat": "hành động"
+  },
+  {
+    "w": "lend",
+    "m": "cho mượn",
+    "cat": "hành động"
+  },
+  {
+    "w": "lock the door",
+    "m": "khóa cửa",
+    "cat": "đời sống"
+  },
+  {
+    "w": "miss",
+    "m": "bỏ lỡ; nhớ",
+    "cat": "hành động"
+  },
+  {
+    "w": "mop the floor",
+    "m": "lau nhà",
+    "cat": "đời sống"
+  },
+  {
+    "w": "obey",
+    "m": "vâng lời",
+    "cat": "hành động"
+  },
+  {
+    "w": "order food",
+    "m": "gọi món",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "pack",
+    "m": "đóng gói hành lý",
+    "cat": "du lịch"
+  },
+  {
+    "w": "park the car",
+    "m": "đỗ xe",
+    "cat": "giao thông"
+  },
+  {
+    "w": "plant trees",
+    "m": "trồng cây",
+    "cat": "môi trường"
+  },
+  {
+    "w": "polish",
+    "m": "đánh bóng",
+    "cat": "hành động"
+  },
+  {
+    "w": "postpone",
+    "m": "hoãn lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "promise",
+    "m": "hứa",
+    "cat": "hành động"
+  },
+  {
+    "w": "protect",
+    "m": "bảo vệ",
+    "cat": "hành động"
+  },
+  {
+    "w": "recommend",
+    "m": "giới thiệu, gợi ý",
+    "cat": "hành động"
+  },
+  {
+    "w": "register",
+    "m": "đăng ký",
+    "cat": "hành động"
+  },
+  {
+    "w": "repair",
+    "m": "sửa",
+    "cat": "hành động"
+  },
+  {
+    "w": "reply",
+    "m": "trả lời",
+    "cat": "hành động"
+  },
+  {
+    "w": "rescue",
+    "m": "giải cứu",
+    "cat": "hành động"
+  },
+  {
+    "w": "retire",
+    "m": "nghỉ hưu",
+    "cat": "công việc"
+  },
+  {
+    "w": "save money",
+    "m": "tiết kiệm tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "share",
+    "m": "chia sẻ",
+    "cat": "hành động"
+  },
+  {
+    "w": "sign",
+    "m": "ký tên",
+    "cat": "hành động"
+  },
+  {
+    "w": "sweep",
+    "m": "quét",
+    "cat": "đời sống"
+  },
+  {
+    "w": "translate",
+    "m": "dịch",
+    "cat": "học tập"
+  },
+  {
+    "w": "upload",
+    "m": "tải lên",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "warn",
+    "m": "cảnh báo",
+    "cat": "hành động"
+  },
+  {
+    "w": "water the plants",
+    "m": "tưới cây",
+    "cat": "đời sống"
+  },
+  {
+    "w": "whisper",
+    "m": "thì thầm",
+    "cat": "hành động"
+  },
+  {
+    "w": "wrap",
+    "m": "gói",
+    "cat": "hành động"
+  }
+]

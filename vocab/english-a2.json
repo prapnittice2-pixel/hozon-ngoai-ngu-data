@@ -1,0 +1,2502 @@
+[
+  {
+    "w": "sunny",
+    "m": "nắng",
+    "cat": "weather"
+  },
+  {
+    "w": "cloudy",
+    "m": "nhiều mây",
+    "cat": "weather"
+  },
+  {
+    "w": "rainy",
+    "m": "mưa",
+    "cat": "weather"
+  },
+  {
+    "w": "windy",
+    "m": "có gió",
+    "cat": "weather"
+  },
+  {
+    "w": "snowy",
+    "m": "có tuyết",
+    "cat": "weather"
+  },
+  {
+    "w": "warm",
+    "m": "ấm áp",
+    "cat": "weather"
+  },
+  {
+    "w": "cool",
+    "m": "mát mẻ",
+    "cat": "weather"
+  },
+  {
+    "w": "temperature",
+    "m": "nhiệt độ",
+    "cat": "weather"
+  },
+  {
+    "w": "weather forecast",
+    "m": "dự báo thời tiết",
+    "cat": "weather"
+  },
+  {
+    "w": "storm",
+    "m": "cơn bão",
+    "cat": "weather"
+  },
+  {
+    "w": "fog",
+    "m": "sương mù",
+    "cat": "weather"
+  },
+  {
+    "w": "thunder",
+    "m": "sấm",
+    "cat": "weather"
+  },
+  {
+    "w": "lightning",
+    "m": "tia sét",
+    "cat": "weather"
+  },
+  {
+    "w": "rainbow",
+    "m": "cầu vồng",
+    "cat": "weather"
+  },
+  {
+    "w": "humidity",
+    "m": "độ ẩm",
+    "cat": "weather"
+  },
+  {
+    "w": "freezing",
+    "m": "đóng băng, rất lạnh",
+    "cat": "weather"
+  },
+  {
+    "w": "degree",
+    "m": "độ (nhiệt độ)",
+    "cat": "weather"
+  },
+  {
+    "w": "season",
+    "m": "mùa",
+    "cat": "weather"
+  },
+  {
+    "w": "spring",
+    "m": "mùa xuân",
+    "cat": "weather"
+  },
+  {
+    "w": "summer",
+    "m": "mùa hè",
+    "cat": "weather"
+  },
+  {
+    "w": "autumn",
+    "m": "mùa thu",
+    "cat": "weather"
+  },
+  {
+    "w": "winter",
+    "m": "mùa đông",
+    "cat": "weather"
+  },
+  {
+    "w": "bus",
+    "m": "xe buýt",
+    "cat": "transport"
+  },
+  {
+    "w": "train",
+    "m": "tàu hỏa",
+    "cat": "transport"
+  },
+  {
+    "w": "plane",
+    "m": "máy bay",
+    "cat": "transport"
+  },
+  {
+    "w": "taxi",
+    "m": "xe taxi",
+    "cat": "transport"
+  },
+  {
+    "w": "bicycle",
+    "m": "xe đạp",
+    "cat": "transport"
+  },
+  {
+    "w": "subway",
+    "m": "tàu điện ngầm",
+    "cat": "transport"
+  },
+  {
+    "w": "airport",
+    "m": "sân bay",
+    "cat": "transport"
+  },
+  {
+    "w": "arrive",
+    "m": "đến nơi",
+    "cat": "transport"
+  },
+  {
+    "w": "depart",
+    "m": "khởi hành",
+    "cat": "transport"
+  },
+  {
+    "w": "drive",
+    "m": "lái xe",
+    "cat": "transport"
+  },
+  {
+    "w": "fly",
+    "m": "bay",
+    "cat": "transport"
+  },
+  {
+    "w": "ride",
+    "m": "cưỡi, đi xe",
+    "cat": "transport"
+  },
+  {
+    "w": "journey",
+    "m": "chuyến đi",
+    "cat": "transport"
+  },
+  {
+    "w": "ticket",
+    "m": "vé",
+    "cat": "transport"
+  },
+  {
+    "w": "platform",
+    "m": "sân ga, bến",
+    "cat": "transport"
+  },
+  {
+    "w": "schedule",
+    "m": "lịch trình",
+    "cat": "transport"
+  },
+  {
+    "w": "traffic",
+    "m": "giao thông",
+    "cat": "transport"
+  },
+  {
+    "w": "road",
+    "m": "con đường",
+    "cat": "transport"
+  },
+  {
+    "w": "map",
+    "m": "bản đồ",
+    "cat": "transport"
+  },
+  {
+    "w": "direction",
+    "m": "phương hướng, chỉ đường",
+    "cat": "transport"
+  },
+  {
+    "w": "turn left",
+    "m": "rẽ trái",
+    "cat": "transport"
+  },
+  {
+    "w": "turn right",
+    "m": "rẽ phải",
+    "cat": "transport"
+  },
+  {
+    "w": "straight ahead",
+    "m": "đi thẳng",
+    "cat": "transport"
+  },
+  {
+    "w": "cheap",
+    "m": "rẻ",
+    "cat": "shopping"
+  },
+  {
+    "w": "expensive",
+    "m": "đắt",
+    "cat": "shopping"
+  },
+  {
+    "w": "price",
+    "m": "giá cả",
+    "cat": "shopping"
+  },
+  {
+    "w": "discount",
+    "m": "giảm giá",
+    "cat": "shopping"
+  },
+  {
+    "w": "receipt",
+    "m": "biên lai, hóa đơn",
+    "cat": "shopping"
+  },
+  {
+    "w": "afford",
+    "m": "đủ tiền để mua",
+    "cat": "shopping"
+  },
+  {
+    "w": "market",
+    "m": "chợ",
+    "cat": "shopping"
+  },
+  {
+    "w": "supermarket",
+    "m": "siêu thị",
+    "cat": "shopping"
+  },
+  {
+    "w": "pay",
+    "m": "trả tiền",
+    "cat": "shopping"
+  },
+  {
+    "w": "cashier",
+    "m": "thu ngân",
+    "cat": "shopping"
+  },
+  {
+    "w": "sale",
+    "m": "đợt khuyến mãi",
+    "cat": "shopping"
+  },
+  {
+    "w": "refund",
+    "m": "hoàn tiền",
+    "cat": "shopping"
+  },
+  {
+    "w": "size",
+    "m": "cỡ số, kích cỡ",
+    "cat": "shopping"
+  },
+  {
+    "w": "change",
+    "m": "tiền thối lại",
+    "cat": "shopping"
+  },
+  {
+    "w": "credit card",
+    "m": "thẻ tín dụng",
+    "cat": "shopping"
+  },
+  {
+    "w": "cash",
+    "m": "tiền mặt",
+    "cat": "shopping"
+  },
+  {
+    "w": "shopping bag",
+    "m": "túi mua hàng",
+    "cat": "shopping"
+  },
+  {
+    "w": "try on",
+    "m": "thử (quần áo)",
+    "cat": "shopping"
+  },
+  {
+    "w": "sick",
+    "m": "ốm, bệnh",
+    "cat": "health"
+  },
+  {
+    "w": "doctor",
+    "m": "bác sĩ",
+    "cat": "health"
+  },
+  {
+    "w": "nurse",
+    "m": "y tá",
+    "cat": "health"
+  },
+  {
+    "w": "medicine",
+    "m": "thuốc",
+    "cat": "health"
+  },
+  {
+    "w": "headache",
+    "m": "đau đầu",
+    "cat": "health"
+  },
+  {
+    "w": "fever",
+    "m": "sốt",
+    "cat": "health"
+  },
+  {
+    "w": "tired",
+    "m": "mệt mỏi",
+    "cat": "health"
+  },
+  {
+    "w": "exercise",
+    "m": "tập thể dục",
+    "cat": "health"
+  },
+  {
+    "w": "diet",
+    "m": "chế độ ăn kiêng",
+    "cat": "health"
+  },
+  {
+    "w": "rest",
+    "m": "nghỉ ngơi",
+    "cat": "health"
+  },
+  {
+    "w": "recover",
+    "m": "hồi phục",
+    "cat": "health"
+  },
+  {
+    "w": "pain",
+    "m": "đau đớn",
+    "cat": "health"
+  },
+  {
+    "w": "injury",
+    "m": "chấn thương",
+    "cat": "health"
+  },
+  {
+    "w": "appointment",
+    "m": "cuộc hẹn khám bệnh",
+    "cat": "health"
+  },
+  {
+    "w": "pharmacy",
+    "m": "nhà thuốc",
+    "cat": "health"
+  },
+  {
+    "w": "ambulance",
+    "m": "xe cứu thương",
+    "cat": "health"
+  },
+  {
+    "w": "stomachache",
+    "m": "đau bụng",
+    "cat": "health"
+  },
+  {
+    "w": "toothache",
+    "m": "đau răng",
+    "cat": "health"
+  },
+  {
+    "w": "cough",
+    "m": "ho",
+    "cat": "health"
+  },
+  {
+    "w": "cold",
+    "m": "cảm lạnh",
+    "cat": "health"
+  },
+  {
+    "w": "flu",
+    "m": "cúm",
+    "cat": "health"
+  },
+  {
+    "w": "healthy",
+    "m": "khỏe mạnh",
+    "cat": "health"
+  },
+  {
+    "w": "excited",
+    "m": "hào hứng, phấn khích",
+    "cat": "emotion"
+  },
+  {
+    "w": "nervous",
+    "m": "lo lắng, hồi hộp",
+    "cat": "emotion"
+  },
+  {
+    "w": "worried",
+    "m": "lo lắng",
+    "cat": "emotion"
+  },
+  {
+    "w": "bored",
+    "m": "chán",
+    "cat": "emotion"
+  },
+  {
+    "w": "surprised",
+    "m": "ngạc nhiên",
+    "cat": "emotion"
+  },
+  {
+    "w": "angry",
+    "m": "tức giận",
+    "cat": "emotion"
+  },
+  {
+    "w": "proud",
+    "m": "tự hào",
+    "cat": "emotion"
+  },
+  {
+    "w": "embarrassed",
+    "m": "xấu hổ",
+    "cat": "emotion"
+  },
+  {
+    "w": "lonely",
+    "m": "cô đơn",
+    "cat": "emotion"
+  },
+  {
+    "w": "scared",
+    "m": "sợ hãi",
+    "cat": "emotion"
+  },
+  {
+    "w": "confused",
+    "m": "bối rối",
+    "cat": "emotion"
+  },
+  {
+    "w": "disappointed",
+    "m": "thất vọng",
+    "cat": "emotion"
+  },
+  {
+    "w": "relaxed",
+    "m": "thoải mái, thư giãn",
+    "cat": "emotion"
+  },
+  {
+    "w": "grateful",
+    "m": "biết ơn",
+    "cat": "emotion"
+  },
+  {
+    "w": "jealous",
+    "m": "ghen tuông",
+    "cat": "emotion"
+  },
+  {
+    "w": "confident",
+    "m": "tự tin",
+    "cat": "emotion"
+  },
+  {
+    "w": "shy",
+    "m": "nhút nhát",
+    "cat": "emotion"
+  },
+  {
+    "w": "cheerful",
+    "m": "vui vẻ",
+    "cat": "emotion"
+  },
+  {
+    "w": "upset",
+    "m": "buồn bực, khó chịu",
+    "cat": "emotion"
+  },
+  {
+    "w": "calm",
+    "m": "bình tĩnh",
+    "cat": "emotion"
+  },
+  {
+    "w": "swim",
+    "m": "bơi",
+    "cat": "hobby"
+  },
+  {
+    "w": "cook",
+    "m": "nấu ăn",
+    "cat": "hobby"
+  },
+  {
+    "w": "draw",
+    "m": "vẽ",
+    "cat": "hobby"
+  },
+  {
+    "w": "paint",
+    "m": "vẽ tranh",
+    "cat": "hobby"
+  },
+  {
+    "w": "sing",
+    "m": "hát",
+    "cat": "hobby"
+  },
+  {
+    "w": "dance",
+    "m": "nhảy múa",
+    "cat": "hobby"
+  },
+  {
+    "w": "collect",
+    "m": "sưu tầm",
+    "cat": "hobby"
+  },
+  {
+    "w": "photograph",
+    "m": "chụp ảnh",
+    "cat": "hobby"
+  },
+  {
+    "w": "garden",
+    "m": "làm vườn",
+    "cat": "hobby"
+  },
+  {
+    "w": "camp",
+    "m": "cắm trại",
+    "cat": "hobby"
+  },
+  {
+    "w": "hike",
+    "m": "leo núi, đi bộ dã ngoại",
+    "cat": "hobby"
+  },
+  {
+    "w": "travel",
+    "m": "du lịch",
+    "cat": "hobby"
+  },
+  {
+    "w": "read",
+    "m": "đọc sách",
+    "cat": "hobby"
+  },
+  {
+    "w": "watch",
+    "m": "xem",
+    "cat": "hobby"
+  },
+  {
+    "w": "listen to music",
+    "m": "nghe nhạc",
+    "cat": "hobby"
+  },
+  {
+    "w": "play sports",
+    "m": "chơi thể thao",
+    "cat": "hobby"
+  },
+  {
+    "w": "basketball",
+    "m": "bóng rổ",
+    "cat": "hobby"
+  },
+  {
+    "w": "football",
+    "m": "bóng đá",
+    "cat": "hobby"
+  },
+  {
+    "w": "tennis",
+    "m": "quần vợt",
+    "cat": "hobby"
+  },
+  {
+    "w": "chess",
+    "m": "cờ vua",
+    "cat": "hobby"
+  },
+  {
+    "w": "fishing",
+    "m": "câu cá",
+    "cat": "hobby"
+  },
+  {
+    "w": "breakfast",
+    "m": "bữa sáng",
+    "cat": "food"
+  },
+  {
+    "w": "lunch",
+    "m": "bữa trưa",
+    "cat": "food"
+  },
+  {
+    "w": "dinner",
+    "m": "bữa tối",
+    "cat": "food"
+  },
+  {
+    "w": "recipe",
+    "m": "công thức nấu ăn",
+    "cat": "food"
+  },
+  {
+    "w": "ingredient",
+    "m": "nguyên liệu",
+    "cat": "food"
+  },
+  {
+    "w": "bake",
+    "m": "nướng bánh",
+    "cat": "food"
+  },
+  {
+    "w": "fry",
+    "m": "chiên, rán",
+    "cat": "food"
+  },
+  {
+    "w": "boil",
+    "m": "luộc, đun sôi",
+    "cat": "food"
+  },
+  {
+    "w": "sweet",
+    "m": "ngọt",
+    "cat": "food"
+  },
+  {
+    "w": "salty",
+    "m": "mặn",
+    "cat": "food"
+  },
+  {
+    "w": "spicy",
+    "m": "cay",
+    "cat": "food"
+  },
+  {
+    "w": "fresh",
+    "m": "tươi",
+    "cat": "food"
+  },
+  {
+    "w": "vegetarian",
+    "m": "ăn chay, đồ ăn chay",
+    "cat": "food"
+  },
+  {
+    "w": "menu",
+    "m": "thực đơn",
+    "cat": "food"
+  },
+  {
+    "w": "order",
+    "m": "gọi món, đặt hàng",
+    "cat": "food"
+  },
+  {
+    "w": "delicious",
+    "m": "ngon",
+    "cat": "food"
+  },
+  {
+    "w": "taste",
+    "m": "mùi vị",
+    "cat": "food"
+  },
+  {
+    "w": "portion",
+    "m": "khẩu phần",
+    "cat": "food"
+  },
+  {
+    "w": "snack",
+    "m": "đồ ăn vặt",
+    "cat": "food"
+  },
+  {
+    "w": "dessert",
+    "m": "tráng miệng",
+    "cat": "food"
+  },
+  {
+    "w": "chopsticks",
+    "m": "đũa",
+    "cat": "food"
+  },
+  {
+    "w": "fork",
+    "m": "cái dĩa",
+    "cat": "food"
+  },
+  {
+    "w": "knife",
+    "m": "dao",
+    "cat": "food"
+  },
+  {
+    "w": "spoon",
+    "m": "thìa",
+    "cat": "food"
+  },
+  {
+    "w": "plate",
+    "m": "đĩa",
+    "cat": "food"
+  },
+  {
+    "w": "cup",
+    "m": "tách, cốc",
+    "cat": "food"
+  },
+  {
+    "w": "job",
+    "m": "công việc",
+    "cat": "work"
+  },
+  {
+    "w": "boss",
+    "m": "sếp",
+    "cat": "work"
+  },
+  {
+    "w": "colleague",
+    "m": "đồng nghiệp",
+    "cat": "work"
+  },
+  {
+    "w": "meeting",
+    "m": "cuộc họp",
+    "cat": "work"
+  },
+  {
+    "w": "project",
+    "m": "dự án",
+    "cat": "work"
+  },
+  {
+    "w": "deadline",
+    "m": "hạn chót",
+    "cat": "work"
+  },
+  {
+    "w": "salary",
+    "m": "lương",
+    "cat": "work"
+  },
+  {
+    "w": "office",
+    "m": "văn phòng",
+    "cat": "work"
+  },
+  {
+    "w": "test",
+    "m": "bài kiểm tra",
+    "cat": "work"
+  },
+  {
+    "w": "exam",
+    "m": "kỳ thi",
+    "cat": "work"
+  },
+  {
+    "w": "grade",
+    "m": "điểm số",
+    "cat": "work"
+  },
+  {
+    "w": "pass",
+    "m": "đậu, qua",
+    "cat": "work"
+  },
+  {
+    "w": "fail",
+    "m": "trượt, rớt",
+    "cat": "work"
+  },
+  {
+    "w": "university",
+    "m": "đại học",
+    "cat": "work"
+  },
+  {
+    "w": "course",
+    "m": "khóa học",
+    "cat": "work"
+  },
+  {
+    "w": "student",
+    "m": "học sinh, sinh viên",
+    "cat": "work"
+  },
+  {
+    "w": "teacher",
+    "m": "giáo viên",
+    "cat": "work"
+  },
+  {
+    "w": "class",
+    "m": "lớp học",
+    "cat": "work"
+  },
+  {
+    "w": "lesson",
+    "m": "bài học",
+    "cat": "work"
+  },
+  {
+    "w": "homework",
+    "m": "bài tập về nhà",
+    "cat": "work"
+  },
+  {
+    "w": "bedroom",
+    "m": "phòng ngủ",
+    "cat": "house"
+  },
+  {
+    "w": "bathroom",
+    "m": "phòng tắm",
+    "cat": "house"
+  },
+  {
+    "w": "kitchen",
+    "m": "nhà bếp",
+    "cat": "house"
+  },
+  {
+    "w": "living room",
+    "m": "phòng khách",
+    "cat": "house"
+  },
+  {
+    "w": "furniture",
+    "m": "đồ nội thất",
+    "cat": "house"
+  },
+  {
+    "w": "sofa",
+    "m": "ghế sofa",
+    "cat": "house"
+  },
+  {
+    "w": "floor",
+    "m": "sàn nhà, tầng",
+    "cat": "house"
+  },
+  {
+    "w": "ceiling",
+    "m": "trần nhà",
+    "cat": "house"
+  },
+  {
+    "w": "rent",
+    "m": "thuê nhà, tiền thuê",
+    "cat": "house"
+  },
+  {
+    "w": "neighbor",
+    "m": "hàng xóm",
+    "cat": "house"
+  },
+  {
+    "w": "lamp",
+    "m": "đèn bàn",
+    "cat": "house"
+  },
+  {
+    "w": "curtain",
+    "m": "rèm cửa",
+    "cat": "house"
+  },
+  {
+    "w": "carpet",
+    "m": "thảm",
+    "cat": "house"
+  },
+  {
+    "w": "shelf",
+    "m": "kệ sách",
+    "cat": "house"
+  },
+  {
+    "w": "refrigerator",
+    "m": "tủ lạnh",
+    "cat": "house"
+  },
+  {
+    "w": "washing machine",
+    "m": "máy giặt",
+    "cat": "house"
+  },
+  {
+    "w": "air conditioner",
+    "m": "máy lạnh",
+    "cat": "house"
+  },
+  {
+    "w": "sink",
+    "m": "bồn rửa",
+    "cat": "house"
+  },
+  {
+    "w": "shower",
+    "m": "vòi sen",
+    "cat": "house"
+  },
+  {
+    "w": "toilet",
+    "m": "nhà vệ sinh",
+    "cat": "house"
+  },
+  {
+    "w": "mobile",
+    "m": "điện thoại di động",
+    "cat": "technology"
+  },
+  {
+    "w": "internet",
+    "m": "mạng internet",
+    "cat": "technology"
+  },
+  {
+    "w": "app",
+    "m": "ứng dụng",
+    "cat": "technology"
+  },
+  {
+    "w": "website",
+    "m": "trang web",
+    "cat": "technology"
+  },
+  {
+    "w": "email",
+    "m": "thư điện tử",
+    "cat": "technology"
+  },
+  {
+    "w": "message",
+    "m": "tin nhắn",
+    "cat": "technology"
+  },
+  {
+    "w": "download",
+    "m": "tải xuống",
+    "cat": "technology"
+  },
+  {
+    "w": "password",
+    "m": "mật khẩu",
+    "cat": "technology"
+  },
+  {
+    "w": "screen",
+    "m": "màn hình",
+    "cat": "technology"
+  },
+  {
+    "w": "camera",
+    "m": "máy ảnh, camera",
+    "cat": "technology"
+  },
+  {
+    "w": "computer",
+    "m": "máy tính",
+    "cat": "technology"
+  },
+  {
+    "w": "laptop",
+    "m": "máy tính xách tay",
+    "cat": "technology"
+  },
+  {
+    "w": "keyboard",
+    "m": "bàn phím",
+    "cat": "technology"
+  },
+  {
+    "w": "mouse",
+    "m": "chuột máy tính",
+    "cat": "technology"
+  },
+  {
+    "w": "printer",
+    "m": "máy in",
+    "cat": "technology"
+  },
+  {
+    "w": "battery",
+    "m": "pin",
+    "cat": "technology"
+  },
+  {
+    "w": "charger",
+    "m": "sạc pin",
+    "cat": "technology"
+  },
+  {
+    "w": "wifi",
+    "m": "mạng không dây",
+    "cat": "technology"
+  },
+  {
+    "w": "game",
+    "m": "trò chơi",
+    "cat": "technology"
+  },
+  {
+    "w": "video call",
+    "m": "gọi video",
+    "cat": "technology"
+  },
+  {
+    "w": "take a photo",
+    "m": "chụp ảnh",
+    "cat": "technology"
+  },
+  {
+    "w": "send",
+    "m": "gửi",
+    "cat": "technology"
+  },
+  {
+    "w": "receive",
+    "m": "nhận",
+    "cat": "technology"
+  },
+  {
+    "w": "search",
+    "m": "tìm kiếm",
+    "cat": "technology"
+  },
+  {
+    "w": "upload",
+    "m": "tải lên",
+    "cat": "technology"
+  },
+  {
+    "w": "share",
+    "m": "chia sẻ",
+    "cat": "technology"
+  },
+  {
+    "w": "post",
+    "m": "đăng (bài)",
+    "cat": "technology"
+  },
+  {
+    "w": "usually",
+    "m": "thường thường",
+    "cat": "adverb"
+  },
+  {
+    "w": "often",
+    "m": "thường xuyên",
+    "cat": "adverb"
+  },
+  {
+    "w": "sometimes",
+    "m": "đôi khi",
+    "cat": "adverb"
+  },
+  {
+    "w": "never",
+    "m": "không bao giờ",
+    "cat": "adverb"
+  },
+  {
+    "w": "always",
+    "m": "luôn luôn",
+    "cat": "adverb"
+  },
+  {
+    "w": "already",
+    "m": "đã rồi",
+    "cat": "adverb"
+  },
+  {
+    "w": "still",
+    "m": "vẫn còn",
+    "cat": "adverb"
+  },
+  {
+    "w": "just",
+    "m": "vừa, chỉ",
+    "cat": "adverb"
+  },
+  {
+    "w": "again",
+    "m": "lại, một lần nữa",
+    "cat": "adverb"
+  },
+  {
+    "w": "together",
+    "m": "cùng nhau",
+    "cat": "adverb"
+  },
+  {
+    "w": "alone",
+    "m": "một mình",
+    "cat": "adverb"
+  },
+  {
+    "w": "outside",
+    "m": "ở ngoài",
+    "cat": "adverb"
+  },
+  {
+    "w": "inside",
+    "m": "ở trong",
+    "cat": "adverb"
+  },
+  {
+    "w": "early",
+    "m": "sớm",
+    "cat": "adverb"
+  },
+  {
+    "w": "late",
+    "m": "muộn, trễ",
+    "cat": "adverb"
+  },
+  {
+    "w": "maybe",
+    "m": "có thể, có lẽ",
+    "cat": "adverb"
+  },
+  {
+    "w": "of course",
+    "m": "tất nhiên rồi",
+    "cat": "adverb"
+  },
+  {
+    "w": "really",
+    "m": "thực sự",
+    "cat": "adverb"
+  },
+  {
+    "w": "enough",
+    "m": "đủ rồi",
+    "cat": "adverb"
+  },
+  {
+    "w": "too",
+    "m": "quá, cũng",
+    "cat": "adverb"
+  },
+  {
+    "w": "almost",
+    "m": "gần như, hầu như",
+    "cat": "adverb"
+  },
+  {
+    "w": "before",
+    "m": "trước",
+    "cat": "connector"
+  },
+  {
+    "w": "after",
+    "m": "sau",
+    "cat": "connector"
+  },
+  {
+    "w": "because",
+    "m": "bởi vì",
+    "cat": "connector"
+  },
+  {
+    "w": "so",
+    "m": "vì vậy",
+    "cat": "connector"
+  },
+  {
+    "w": "if",
+    "m": "nếu",
+    "cat": "connector"
+  },
+  {
+    "w": "when",
+    "m": "khi",
+    "cat": "connector"
+  },
+  {
+    "w": "while",
+    "m": "trong khi",
+    "cat": "connector"
+  },
+  {
+    "w": "then",
+    "m": "sau đó, thì",
+    "cat": "connector"
+  },
+  {
+    "w": "both",
+    "m": "cả hai",
+    "cat": "connector"
+  },
+  {
+    "w": "either",
+    "m": "hoặc là... hoặc là",
+    "cat": "connector"
+  },
+  {
+    "w": "neither",
+    "m": "cũng không... cũng không",
+    "cat": "connector"
+  },
+  {
+    "w": "another",
+    "m": "một cái khác",
+    "cat": "connector"
+  },
+  {
+    "w": "other",
+    "m": "khác",
+    "cat": "connector"
+  },
+  {
+    "w": "every",
+    "m": "mỗi",
+    "cat": "connector"
+  },
+  {
+    "w": "each",
+    "m": "mỗi (từng cái)",
+    "cat": "connector"
+  },
+  {
+    "w": "different",
+    "m": "khác nhau",
+    "cat": "adjective"
+  },
+  {
+    "w": "same",
+    "m": "giống nhau",
+    "cat": "adjective"
+  },
+  {
+    "w": "popular",
+    "m": "phổ biến",
+    "cat": "adjective"
+  },
+  {
+    "w": "interesting",
+    "m": "thú vị",
+    "cat": "adjective"
+  },
+  {
+    "w": "boring",
+    "m": "nhàm chán",
+    "cat": "adjective"
+  },
+  {
+    "w": "funny",
+    "m": "buồn cười, hài hước",
+    "cat": "adjective"
+  },
+  {
+    "w": "serious",
+    "m": "nghiêm túc",
+    "cat": "adjective"
+  },
+  {
+    "w": "careful",
+    "m": "cẩn thận",
+    "cat": "adjective"
+  },
+  {
+    "w": "friendly",
+    "m": "thân thiện",
+    "cat": "adjective"
+  },
+  {
+    "w": "busy",
+    "m": "bận rộn",
+    "cat": "adjective"
+  },
+  {
+    "w": "ready",
+    "m": "sẵn sàng",
+    "cat": "adjective"
+  },
+  {
+    "w": "safe",
+    "m": "an toàn",
+    "cat": "adjective"
+  },
+  {
+    "w": "dangerous",
+    "m": "nguy hiểm",
+    "cat": "adjective"
+  },
+  {
+    "w": "quiet",
+    "m": "yên tĩnh",
+    "cat": "adjective"
+  },
+  {
+    "w": "loud",
+    "m": "ồn ào",
+    "cat": "adjective"
+  },
+  {
+    "w": "sweet",
+    "m": "ngọt ngào",
+    "cat": "adjective"
+  },
+  {
+    "w": "kind",
+    "m": "tốt bụng",
+    "cat": "adjective"
+  },
+  {
+    "w": "clever",
+    "m": "thông minh",
+    "cat": "adjective"
+  },
+  {
+    "w": "brave",
+    "m": "can đảm",
+    "cat": "adjective"
+  },
+  {
+    "w": "lazy",
+    "m": "lười biếng",
+    "cat": "adjective"
+  },
+  {
+    "w": "agree",
+    "m": "đồng ý",
+    "cat": "verb"
+  },
+  {
+    "w": "disagree",
+    "m": "không đồng ý",
+    "cat": "verb"
+  },
+  {
+    "w": "decide",
+    "m": "quyết định",
+    "cat": "verb"
+  },
+  {
+    "w": "choose",
+    "m": "chọn lựa",
+    "cat": "verb"
+  },
+  {
+    "w": "remember",
+    "m": "nhớ",
+    "cat": "verb"
+  },
+  {
+    "w": "forget",
+    "m": "quên",
+    "cat": "verb"
+  },
+  {
+    "w": "understand",
+    "m": "hiểu",
+    "cat": "verb"
+  },
+  {
+    "w": "explain",
+    "m": "giải thích",
+    "cat": "verb"
+  },
+  {
+    "w": "describe",
+    "m": "miêu tả",
+    "cat": "verb"
+  },
+  {
+    "w": "plan",
+    "m": "lên kế hoạch",
+    "cat": "verb"
+  },
+  {
+    "w": "try",
+    "m": "cố gắng, thử",
+    "cat": "verb"
+  },
+  {
+    "w": "start",
+    "m": "bắt đầu",
+    "cat": "verb"
+  },
+  {
+    "w": "finish",
+    "m": "hoàn thành",
+    "cat": "verb"
+  },
+  {
+    "w": "stop",
+    "m": "dừng lại",
+    "cat": "verb"
+  },
+  {
+    "w": "continue",
+    "m": "tiếp tục",
+    "cat": "verb"
+  },
+  {
+    "w": "change",
+    "m": "thay đổi",
+    "cat": "verb"
+  },
+  {
+    "w": "wait",
+    "m": "đợi, chờ",
+    "cat": "verb"
+  },
+  {
+    "w": "return",
+    "m": "trở lại, trả lại",
+    "cat": "verb"
+  },
+  {
+    "w": "enjoy",
+    "m": "thưởng thức, tận hưởng",
+    "cat": "verb"
+  },
+  {
+    "w": "follow",
+    "m": "theo, đi theo",
+    "cat": "verb"
+  },
+  {
+    "w": "lose",
+    "m": "mất, thua",
+    "cat": "verb"
+  },
+  {
+    "w": "win",
+    "m": "thắng, chiến thắng",
+    "cat": "verb"
+  },
+  {
+    "w": "show",
+    "m": "chỉ, cho xem",
+    "cat": "verb"
+  },
+  {
+    "w": "tell",
+    "m": "nói, kể",
+    "cat": "verb"
+  },
+  {
+    "w": "meet",
+    "m": "gặp gỡ",
+    "cat": "verb"
+  },
+  {
+    "w": "invite",
+    "m": "mời",
+    "cat": "verb"
+  },
+  {
+    "w": "visit",
+    "m": "thăm, ghé thăm",
+    "cat": "verb"
+  },
+  {
+    "w": "hope",
+    "m": "hy vọng",
+    "cat": "verb"
+  },
+  {
+    "w": "worry",
+    "m": "lo lắng",
+    "cat": "verb"
+  },
+  {
+    "w": "promise",
+    "m": "hứa",
+    "cat": "verb"
+  },
+  {
+    "w": "stay",
+    "m": "ở lại",
+    "cat": "verb"
+  },
+  {
+    "w": "leave",
+    "m": "rời đi",
+    "cat": "verb"
+  },
+  {
+    "w": "miss",
+    "m": "nhớ, lỡ mất",
+    "cat": "verb"
+  },
+  {
+    "w": "borrow",
+    "m": "mượn",
+    "cat": "verb"
+  },
+  {
+    "w": "lend",
+    "m": "cho mượn",
+    "cat": "verb"
+  },
+  {
+    "w": "collect",
+    "m": "thu thập, sưu tầm",
+    "cat": "verb"
+  },
+  {
+    "w": "translate",
+    "m": "dịch",
+    "cat": "verb"
+  },
+  {
+    "w": "practice",
+    "m": "luyện tập",
+    "cat": "verb"
+  },
+  {
+    "w": "prepare",
+    "m": "chuẩn bị",
+    "cat": "verb"
+  },
+  {
+    "w": "earn",
+    "m": "kiếm tiền",
+    "cat": "verb"
+  },
+  {
+    "w": "spend",
+    "m": "tiêu tiền, dành thời gian",
+    "cat": "verb"
+  },
+  {
+    "w": "save",
+    "m": "tiết kiệm, cứu",
+    "cat": "verb"
+  },
+  {
+    "w": "suggest",
+    "m": "đề xuất",
+    "cat": "verb"
+  },
+  {
+    "w": "offer",
+    "m": "đề nghị, cung cấp",
+    "cat": "verb"
+  },
+  {
+    "w": "accept",
+    "m": "chấp nhận",
+    "cat": "verb"
+  },
+  {
+    "w": "refuse",
+    "m": "từ chối",
+    "cat": "verb"
+  },
+  {
+    "w": "repeat",
+    "m": "lặp lại",
+    "cat": "verb"
+  },
+  {
+    "w": "check",
+    "m": "kiểm tra",
+    "cat": "verb"
+  },
+  {
+    "w": "compare",
+    "m": "so sánh",
+    "cat": "verb"
+  },
+  {
+    "w": "imagine",
+    "m": "tưởng tượng",
+    "cat": "verb"
+  },
+  {
+    "w": "depend",
+    "m": "phụ thuộc vào",
+    "cat": "verb"
+  },
+  {
+    "w": "guess",
+    "m": "đoán",
+    "cat": "verb"
+  },
+  {
+    "w": "prove",
+    "m": "chứng minh",
+    "cat": "verb"
+  },
+  {
+    "w": "notice",
+    "m": "nhận thấy",
+    "cat": "verb"
+  },
+  {
+    "w": "prefer",
+    "m": "thích hơn",
+    "cat": "verb"
+  },
+  {
+    "w": "indicate",
+    "m": "chỉ ra",
+    "cat": "verb"
+  },
+  {
+    "w": "achieve",
+    "m": "đạt được",
+    "cat": "verb"
+  },
+  {
+    "w": "manage",
+    "m": "xoay sở, quản lý",
+    "cat": "verb"
+  },
+  {
+    "w": "seem",
+    "m": "có vẻ như",
+    "cat": "verb"
+  },
+  {
+    "w": "happen",
+    "m": "xảy ra",
+    "cat": "verb"
+  },
+  {
+    "w": "increase",
+    "m": "tăng lên",
+    "cat": "verb"
+  },
+  {
+    "w": "decrease",
+    "m": "giảm xuống",
+    "cat": "verb"
+  },
+  {
+    "w": "connect",
+    "m": "kết nối",
+    "cat": "verb"
+  },
+  {
+    "w": "develop",
+    "m": "phát triển",
+    "cat": "verb"
+  },
+  {
+    "w": "reduce",
+    "m": "giảm",
+    "cat": "verb"
+  },
+  {
+    "w": "improve",
+    "m": "cải thiện",
+    "cat": "verb"
+  },
+  {
+    "w": "break",
+    "m": "vỡ, nghỉ giải lao",
+    "cat": "verb"
+  },
+  {
+    "w": "fix",
+    "m": "sửa chữa",
+    "cat": "verb"
+  },
+  {
+    "w": "create",
+    "m": "tạo ra",
+    "cat": "verb"
+  },
+  {
+    "w": "design",
+    "m": "thiết kế",
+    "cat": "verb"
+  },
+  {
+    "w": "produce",
+    "m": "sản xuất",
+    "cat": "verb"
+  },
+  {
+    "w": "publish",
+    "m": "xuất bản, đăng",
+    "cat": "verb"
+  },
+  {
+    "w": "review",
+    "m": "xem lại, đánh giá",
+    "cat": "verb"
+  },
+  {
+    "w": "report",
+    "m": "báo cáo",
+    "cat": "verb"
+  },
+  {
+    "w": "celebrate",
+    "m": "kỷ niệm, ăn mừng",
+    "cat": "verb"
+  },
+  {
+    "w": "attend",
+    "m": "tham dự",
+    "cat": "verb"
+  },
+  {
+    "w": "perform",
+    "m": "biểu diễn",
+    "cat": "verb"
+  },
+  {
+    "w": "advertise",
+    "m": "quảng cáo",
+    "cat": "verb"
+  },
+  {
+    "w": "apologize",
+    "m": "xin lỗi",
+    "cat": "verb"
+  },
+  {
+    "w": "congratulate",
+    "m": "chúc mừng",
+    "cat": "verb"
+  },
+  {
+    "w": "introduce",
+    "m": "giới thiệu",
+    "cat": "verb"
+  },
+  {
+    "w": "interview",
+    "m": "phỏng vấn",
+    "cat": "verb"
+  },
+  {
+    "w": "polite",
+    "m": "lịch sự",
+    "cat": "adjective"
+  },
+  {
+    "w": "rude",
+    "m": "thô lỗ",
+    "cat": "adjective"
+  },
+  {
+    "w": "helpful",
+    "m": "hữu ích",
+    "cat": "adjective"
+  },
+  {
+    "w": "patient",
+    "m": "kiên nhẫn",
+    "cat": "adjective"
+  },
+  {
+    "w": "creative",
+    "m": "sáng tạo",
+    "cat": "adjective"
+  },
+  {
+    "w": "intelligent",
+    "m": "thông minh",
+    "cat": "adjective"
+  },
+  {
+    "w": "honest",
+    "m": "trung thực",
+    "cat": "adjective"
+  },
+  {
+    "w": "generous",
+    "m": "hào phóng",
+    "cat": "adjective"
+  },
+  {
+    "w": "responsible",
+    "m": "có trách nhiệm",
+    "cat": "adjective"
+  },
+  {
+    "w": "independent",
+    "m": "độc lập",
+    "cat": "adjective"
+  },
+  {
+    "w": "organized",
+    "m": "ngăn nắp, có tổ chức",
+    "cat": "adjective"
+  },
+  {
+    "w": "messy",
+    "m": "lộn xộn",
+    "cat": "adjective"
+  },
+  {
+    "w": "flexible",
+    "m": "linh hoạt",
+    "cat": "adjective"
+  },
+  {
+    "w": "reliable",
+    "m": "đáng tin cậy",
+    "cat": "adjective"
+  },
+  {
+    "w": "modern",
+    "m": "hiện đại",
+    "cat": "adjective"
+  },
+  {
+    "w": "traditional",
+    "m": "truyền thống",
+    "cat": "adjective"
+  },
+  {
+    "w": "available",
+    "m": "sẵn có, rảnh",
+    "cat": "adjective"
+  },
+  {
+    "w": "possible",
+    "m": "có thể",
+    "cat": "adjective"
+  },
+  {
+    "w": "normal",
+    "m": "bình thường",
+    "cat": "adjective"
+  },
+  {
+    "w": "unusual",
+    "m": "không bình thường",
+    "cat": "adjective"
+  },
+  {
+    "w": "specific",
+    "m": "cụ thể",
+    "cat": "adjective"
+  },
+  {
+    "w": "general",
+    "m": "chung, tổng quát",
+    "cat": "adjective"
+  },
+  {
+    "w": "similar",
+    "m": "giống nhau",
+    "cat": "adjective"
+  },
+  {
+    "w": "complex",
+    "m": "phức tạp",
+    "cat": "adjective"
+  },
+  {
+    "w": "basic",
+    "m": "cơ bản",
+    "cat": "adjective"
+  },
+  {
+    "w": "typical",
+    "m": "điển hình",
+    "cat": "adjective"
+  },
+  {
+    "w": "successful",
+    "m": "thành công",
+    "cat": "adjective"
+  },
+  {
+    "w": "perfect",
+    "m": "hoàn hảo",
+    "cat": "adjective"
+  },
+  {
+    "w": "natural",
+    "m": "tự nhiên",
+    "cat": "adjective"
+  },
+  {
+    "w": "main",
+    "m": "chính, chủ yếu",
+    "cat": "adjective"
+  },
+  {
+    "w": "afraid",
+    "m": "sợ hãi",
+    "cat": "adjective"
+  },
+  {
+    "w": "pleased",
+    "m": "hài lòng",
+    "cat": "adjective"
+  },
+  {
+    "w": "satisfied",
+    "m": "thỏa mãn",
+    "cat": "adjective"
+  },
+  {
+    "w": "strange",
+    "m": "lạ lùng",
+    "cat": "adjective"
+  },
+  {
+    "w": "familiar",
+    "m": "quen thuộc",
+    "cat": "adjective"
+  },
+  {
+    "w": "personal",
+    "m": "cá nhân",
+    "cat": "adjective"
+  },
+  {
+    "w": "national",
+    "m": "quốc gia",
+    "cat": "adjective"
+  },
+  {
+    "w": "local",
+    "m": "địa phương",
+    "cat": "adjective"
+  },
+  {
+    "w": "global",
+    "m": "toàn cầu",
+    "cat": "adjective"
+  },
+  {
+    "w": "recent",
+    "m": "gần đây",
+    "cat": "adjective"
+  },
+  {
+    "w": "future",
+    "m": "tương lai",
+    "cat": "time"
+  },
+  {
+    "w": "past",
+    "m": "quá khứ",
+    "cat": "time"
+  },
+  {
+    "w": "century",
+    "m": "thế kỷ",
+    "cat": "time"
+  },
+  {
+    "w": "decade",
+    "m": "thập kỷ",
+    "cat": "time"
+  },
+  {
+    "w": "deadline",
+    "m": "hạn chót",
+    "cat": "time"
+  },
+  {
+    "w": "schedule",
+    "m": "lịch trình",
+    "cat": "time"
+  },
+  {
+    "w": "occasion",
+    "m": "dịp, lễ",
+    "cat": "time"
+  },
+  {
+    "w": "period",
+    "m": "khoảng thời gian, chu kỳ",
+    "cat": "time"
+  },
+  {
+    "w": "moment",
+    "m": "khoảnh khắc",
+    "cat": "time"
+  },
+  {
+    "w": "second",
+    "m": "giây",
+    "cat": "time"
+  },
+  {
+    "w": "midnight",
+    "m": "nửa đêm",
+    "cat": "time"
+  },
+  {
+    "w": "noon",
+    "m": "trưa",
+    "cat": "time"
+  },
+  {
+    "w": "weekend",
+    "m": "cuối tuần",
+    "cat": "time"
+  },
+  {
+    "w": "holiday",
+    "m": "ngày nghỉ",
+    "cat": "time"
+  },
+  {
+    "w": "birthday",
+    "m": "sinh nhật",
+    "cat": "time"
+  },
+  {
+    "w": "anniversary",
+    "m": "ngày kỷ niệm",
+    "cat": "time"
+  },
+  {
+    "w": "appointment",
+    "m": "cuộc hẹn",
+    "cat": "time"
+  },
+  {
+    "w": "suddenly",
+    "m": "đột nhiên",
+    "cat": "adverb"
+  },
+  {
+    "w": "quickly",
+    "m": "nhanh chóng",
+    "cat": "adverb"
+  },
+  {
+    "w": "carefully",
+    "m": "cẩn thận",
+    "cat": "adverb"
+  },
+  {
+    "w": "clearly",
+    "m": "rõ ràng",
+    "cat": "adverb"
+  },
+  {
+    "w": "directly",
+    "m": "trực tiếp",
+    "cat": "adverb"
+  },
+  {
+    "w": "easily",
+    "m": "dễ dàng",
+    "cat": "adverb"
+  },
+  {
+    "w": "finally",
+    "m": "cuối cùng",
+    "cat": "adverb"
+  },
+  {
+    "w": "finally",
+    "m": "cuối cùng",
+    "cat": "adverb"
+  },
+  {
+    "w": "immediately",
+    "m": "ngay lập tức",
+    "cat": "adverb"
+  },
+  {
+    "w": "exactly",
+    "m": "chính xác",
+    "cat": "adverb"
+  },
+  {
+    "w": "probably",
+    "m": "có lẽ",
+    "cat": "adverb"
+  },
+  {
+    "w": "regularly",
+    "m": "đều đặn",
+    "cat": "adverb"
+  },
+  {
+    "w": "recently",
+    "m": "gần đây",
+    "cat": "adverb"
+  },
+  {
+    "w": "unfortunately",
+    "m": "thật không may",
+    "cat": "adverb"
+  },
+  {
+    "w": "successfully",
+    "m": "thành công",
+    "cat": "adverb"
+  },
+  {
+    "w": "accident",
+    "m": "tai nạn",
+    "cat": "event"
+  },
+  {
+    "w": "emergency",
+    "m": "tình huống khẩn cấp",
+    "cat": "event"
+  },
+  {
+    "w": "news",
+    "m": "tin tức",
+    "cat": "event"
+  },
+  {
+    "w": "event",
+    "m": "sự kiện",
+    "cat": "event"
+  },
+  {
+    "w": "activity",
+    "m": "hoạt động",
+    "cat": "event"
+  },
+  {
+    "w": "experience",
+    "m": "kinh nghiệm, trải nghiệm",
+    "cat": "event"
+  },
+  {
+    "w": "adventure",
+    "m": "cuộc phiêu lưu",
+    "cat": "event"
+  },
+  {
+    "w": "festival",
+    "m": "lễ hội",
+    "cat": "event"
+  },
+  {
+    "w": "parade",
+    "m": "diễu hành",
+    "cat": "event"
+  },
+  {
+    "w": "competition",
+    "m": "cuộc thi",
+    "cat": "event"
+  },
+  {
+    "w": "prize",
+    "m": "giải thưởng",
+    "cat": "event"
+  },
+  {
+    "w": "contest",
+    "m": "cuộc thi",
+    "cat": "event"
+  },
+  {
+    "w": "performance",
+    "m": "buổi biểu diễn",
+    "cat": "event"
+  },
+  {
+    "w": "exhibition",
+    "m": "triển lãm",
+    "cat": "event"
+  },
+  {
+    "w": "concert",
+    "m": "buổi hòa nhạc",
+    "cat": "event"
+  },
+  {
+    "w": "museum",
+    "m": "bảo tàng",
+    "cat": "place"
+  },
+  {
+    "w": "cinema",
+    "m": "rạp chiếu phim",
+    "cat": "place"
+  },
+  {
+    "w": "theater",
+    "m": "nhà hát",
+    "cat": "place"
+  },
+  {
+    "w": "stadium",
+    "m": "sân vận động",
+    "cat": "place"
+  },
+  {
+    "w": "gym",
+    "m": "phòng tập thể dục",
+    "cat": "place"
+  },
+  {
+    "w": "swimming pool",
+    "m": "bể bơi",
+    "cat": "place"
+  },
+  {
+    "w": "playground",
+    "m": "sân chơi",
+    "cat": "place"
+  },
+  {
+    "w": "garden",
+    "m": "khu vườn",
+    "cat": "place"
+  },
+  {
+    "w": "bookstore",
+    "m": "hiệu sách",
+    "cat": "place"
+  },
+  {
+    "w": "bakery",
+    "m": "tiệm bánh",
+    "cat": "place"
+  },
+  {
+    "w": "pharmacy",
+    "m": "nhà thuốc",
+    "cat": "place"
+  },
+  {
+    "w": "government",
+    "m": "chính phủ",
+    "cat": "society"
+  },
+  {
+    "w": "company",
+    "m": "công ty",
+    "cat": "society"
+  },
+  {
+    "w": "team",
+    "m": "đội nhóm",
+    "cat": "society"
+  },
+  {
+    "w": "group",
+    "m": "nhóm",
+    "cat": "society"
+  },
+  {
+    "w": "club",
+    "m": "câu lạc bộ",
+    "cat": "society"
+  },
+  {
+    "w": "society",
+    "m": "xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "organization",
+    "m": "tổ chức",
+    "cat": "society"
+  },
+  {
+    "w": "member",
+    "m": "thành viên",
+    "cat": "society"
+  },
+  {
+    "w": "leader",
+    "m": "người lãnh đạo",
+    "cat": "society"
+  },
+  {
+    "w": "system",
+    "m": "hệ thống",
+    "cat": "society"
+  },
+  {
+    "w": "service",
+    "m": "dịch vụ",
+    "cat": "society"
+  },
+  {
+    "w": "product",
+    "m": "sản phẩm",
+    "cat": "society"
+  },
+  {
+    "w": "environment",
+    "m": "môi trường",
+    "cat": "society"
+  },
+  {
+    "w": "population",
+    "m": "dân số",
+    "cat": "society"
+  },
+  {
+    "w": "century",
+    "m": "thế kỷ",
+    "cat": "society"
+  },
+  {
+    "w": "topic",
+    "m": "chủ đề",
+    "cat": "advanced"
+  },
+  {
+    "w": "detail",
+    "m": "chi tiết",
+    "cat": "advanced"
+  },
+  {
+    "w": "example",
+    "m": "ví dụ",
+    "cat": "advanced"
+  },
+  {
+    "w": "reason",
+    "m": "lý do",
+    "cat": "advanced"
+  },
+  {
+    "w": "result",
+    "m": "kết quả",
+    "cat": "advanced"
+  },
+  {
+    "w": "problem",
+    "m": "vấn đề",
+    "cat": "advanced"
+  },
+  {
+    "w": "question",
+    "m": "câu hỏi",
+    "cat": "advanced"
+  },
+  {
+    "w": "answer",
+    "m": "câu trả lời",
+    "cat": "advanced"
+  },
+  {
+    "w": "decision",
+    "m": "quyết định",
+    "cat": "advanced"
+  },
+  {
+    "w": "idea",
+    "m": "ý tưởng",
+    "cat": "advanced"
+  },
+  {
+    "w": "fact",
+    "m": "sự thật",
+    "cat": "advanced"
+  },
+  {
+    "w": "information",
+    "m": "thông tin",
+    "cat": "advanced"
+  },
+  {
+    "w": "advice",
+    "m": "lời khuyên",
+    "cat": "advanced"
+  },
+  {
+    "w": "message",
+    "m": "tin nhắn, thông điệp",
+    "cat": "advanced"
+  },
+  {
+    "w": "report",
+    "m": "báo cáo",
+    "cat": "advanced"
+  },
+  {
+    "w": "news",
+    "m": "tin tức",
+    "cat": "advanced"
+  },
+  {
+    "w": "story",
+    "m": "câu chuyện",
+    "cat": "advanced"
+  },
+  {
+    "w": "opinion",
+    "m": "ý kiến",
+    "cat": "advanced"
+  },
+  {
+    "w": "plan",
+    "m": "kế hoạch",
+    "cat": "advanced"
+  },
+  {
+    "w": "goal",
+    "m": "mục tiêu",
+    "cat": "advanced"
+  },
+  {
+    "w": "chance",
+    "m": "cơ hội",
+    "cat": "advanced"
+  },
+  {
+    "w": "choice",
+    "m": "sự lựa chọn",
+    "cat": "advanced"
+  },
+  {
+    "w": "effort",
+    "m": "nỗ lực",
+    "cat": "advanced"
+  },
+  {
+    "w": "progress",
+    "m": "tiến độ",
+    "cat": "advanced"
+  },
+  {
+    "w": "problem",
+    "m": "vấn đề",
+    "cat": "advanced"
+  },
+  {
+    "w": "question",
+    "m": "câu hỏi",
+    "cat": "advanced"
+  },
+  {
+    "w": "purpose",
+    "m": "mục đích",
+    "cat": "advanced"
+  },
+  {
+    "w": "benefit",
+    "m": "lợi ích",
+    "cat": "advanced"
+  },
+  {
+    "w": "quality",
+    "m": "chất lượng",
+    "cat": "advanced"
+  },
+  {
+    "w": "level",
+    "m": "trình độ, mức độ",
+    "cat": "advanced"
+  }
+]

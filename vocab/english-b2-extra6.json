@@ -1,0 +1,1252 @@
+[
+  {
+    "w": "negotiate",
+    "m": "đàm phán, thương lượng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "outsource",
+    "m": "thuê ngoài, chuyển việc ra ngoài",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "revenue",
+    "m": "doanh thu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "stakeholder",
+    "m": "bên liên quan",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "merger",
+    "m": "sự sáp nhập công ty",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "acquisition",
+    "m": "sự mua lại, thâu tóm",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "procurement",
+    "m": "sự thu mua, mua sắm doanh nghiệp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "logistics",
+    "m": "hậu cần, kho vận",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "franchise",
+    "m": "nhượng quyền thương mại",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "subsidiary",
+    "m": "công ty con",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "headquarters",
+    "m": "trụ sở chính",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "entrepreneur",
+    "m": "doanh nhân khởi nghiệp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "enterprise",
+    "m": "doanh nghiệp, công ty",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "corporation",
+    "m": "tập đoàn, công ty cổ phần",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "consortium",
+    "m": "tổ hợp công ty, liên danh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "monopoly",
+    "m": "sự độc quyền",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "competitor",
+    "m": "đối thủ cạnh tranh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "benchmark",
+    "m": "chuẩn so sánh, mốc chuẩn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "turnover",
+    "m": "doanh số; tỷ lệ nghỉ việc",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "profitability",
+    "m": "khả năng sinh lời",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "overheads",
+    "m": "chi phí cố định chung",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "expenditure",
+    "m": "khoản chi tiêu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "quotation",
+    "m": "bản báo giá",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "tender",
+    "m": "hồ sơ đấu thầu; đấu thầu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "invoice",
+    "m": "hóa đơn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "warranty",
+    "m": "chế độ bảo hành",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "liability",
+    "m": "trách nhiệm pháp lý; khoản nợ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "asset",
+    "m": "tài sản",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "inventory",
+    "m": "hàng tồn kho",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "wholesale",
+    "m": "bán buôn, bán sỉ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "retailer",
+    "m": "nhà bán lẻ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "supplier",
+    "m": "nhà cung cấp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "distributor",
+    "m": "nhà phân phối",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "shipment",
+    "m": "lô hàng, chuyến hàng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "consignment",
+    "m": "lô hàng ký gửi",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "workforce",
+    "m": "lực lượng lao động",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "recruitment",
+    "m": "sự tuyển dụng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "redundancy",
+    "m": "sự cắt giảm nhân sự",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "resignation",
+    "m": "sự từ chức",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "appraisal",
+    "m": "buổi đánh giá năng lực nhân viên",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "payroll",
+    "m": "bảng lương, quỹ lương",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "remuneration",
+    "m": "thù lao, tiền công",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "incentive",
+    "m": "khoản khuyến khích, ưu đãi",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "commission",
+    "m": "tiền hoa hồng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "probation",
+    "m": "thời gian thử việc",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "vacancy",
+    "m": "vị trí tuyển dụng còn trống",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "credentials",
+    "m": "bằng cấp, chứng chỉ năng lực",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "expertise",
+    "m": "chuyên môn sâu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "delegation",
+    "m": "sự ủy quyền; phái đoàn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "subordinate",
+    "m": "cấp dưới",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "supervisor",
+    "m": "người giám sát",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "executive",
+    "m": "quản lý cấp cao, giám đốc điều hành",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "shareholder",
+    "m": "cổ đông",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "dividend",
+    "m": "cổ tức",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "audit",
+    "m": "cuộc kiểm toán",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "compliance",
+    "m": "sự tuân thủ quy định",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "bankruptcy",
+    "m": "sự phá sản",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "insolvency",
+    "m": "tình trạng mất khả năng thanh toán",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "liquidation",
+    "m": "sự thanh lý công ty",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "downsizing",
+    "m": "sự thu hẹp quy mô nhân sự",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "restructuring",
+    "m": "sự tái cơ cấu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "diversification",
+    "m": "sự đa dạng hóa",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "globalization",
+    "m": "toàn cầu hóa",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "startup",
+    "m": "công ty khởi nghiệp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "venture",
+    "m": "dự án kinh doanh mạo hiểm",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "patent",
+    "m": "bằng sáng chế",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "trademark",
+    "m": "nhãn hiệu đã đăng ký",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "branding",
+    "m": "việc xây dựng thương hiệu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "forecast",
+    "m": "dự báo",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "projection",
+    "m": "số liệu dự phóng, ước tính",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "quota",
+    "m": "hạn ngạch, chỉ tiêu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "milestone",
+    "m": "cột mốc quan trọng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "deliverable",
+    "m": "sản phẩm bàn giao",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "feasibility",
+    "m": "tính khả thi",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "viability",
+    "m": "khả năng tồn tại lâu dài",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "scalability",
+    "m": "khả năng mở rộng quy mô",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "productivity",
+    "m": "năng suất",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "streamline",
+    "m": "tinh gọn hóa quy trình",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "delegate",
+    "m": "ủy thác, giao việc",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "liaise",
+    "m": "liên lạc phối hợp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "mediate",
+    "m": "hòa giải, làm trung gian",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "arbitration",
+    "m": "sự phân xử bằng trọng tài",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "settlement",
+    "m": "sự dàn xếp, thỏa thuận giải quyết",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "contractor",
+    "m": "nhà thầu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "subcontract",
+    "m": "giao thầu lại",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "freelancer",
+    "m": "người làm nghề tự do",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "consultancy",
+    "m": "công ty tư vấn; nghề tư vấn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "brokerage",
+    "m": "hoạt động môi giới",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "middleman",
+    "m": "người trung gian",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "bargaining",
+    "m": "sự mặc cả, thương lượng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "concession",
+    "m": "sự nhượng bộ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "stipulation",
+    "m": "điều khoản quy định",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "clause",
+    "m": "điều khoản hợp đồng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "breach",
+    "m": "sự vi phạm hợp đồng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "termination",
+    "m": "sự chấm dứt hợp đồng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "renewal",
+    "m": "sự gia hạn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "takeover",
+    "m": "vụ thâu tóm công ty",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "buyout",
+    "m": "thương vụ mua đứt cổ phần",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "conglomerate",
+    "m": "tập đoàn đa ngành",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "downturn",
+    "m": "đợt suy giảm kinh doanh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "workload",
+    "m": "khối lượng công việc",
+    "cat": "business"
+  },
+  {
+    "w": "workflow",
+    "m": "luồng công việc",
+    "cat": "business"
+  },
+  {
+    "w": "morale",
+    "m": "tinh thần làm việc",
+    "cat": "business"
+  },
+  {
+    "w": "burnout",
+    "m": "sự kiệt sức vì công việc",
+    "cat": "business"
+  },
+  {
+    "w": "multitask",
+    "m": "làm nhiều việc cùng lúc",
+    "cat": "business"
+  },
+  {
+    "w": "prioritize",
+    "m": "sắp xếp theo thứ tự ưu tiên",
+    "cat": "business"
+  },
+  {
+    "w": "reschedule",
+    "m": "dời lịch, sắp xếp lại lịch",
+    "cat": "business"
+  },
+  {
+    "w": "agenda",
+    "m": "chương trình nghị sự",
+    "cat": "business"
+  },
+  {
+    "w": "minutes",
+    "m": "biên bản cuộc họp",
+    "cat": "business"
+  },
+  {
+    "w": "memorandum",
+    "m": "bản ghi nhớ, công văn nội bộ",
+    "cat": "business"
+  },
+  {
+    "w": "briefing",
+    "m": "buổi báo cáo tóm tắt",
+    "cat": "business"
+  },
+  {
+    "w": "debrief",
+    "m": "họp rút kinh nghiệm",
+    "cat": "business"
+  },
+  {
+    "w": "brainstorm",
+    "m": "động não tìm ý tưởng",
+    "cat": "business"
+  },
+  {
+    "w": "consensus",
+    "m": "sự đồng thuận",
+    "cat": "business"
+  },
+  {
+    "w": "mentorship",
+    "m": "sự kèm cặp, cố vấn",
+    "cat": "business"
+  },
+  {
+    "w": "apprenticeship",
+    "m": "chế độ học việc",
+    "cat": "business"
+  },
+  {
+    "w": "secondment",
+    "m": "sự biệt phái nhân viên",
+    "cat": "business"
+  },
+  {
+    "w": "sabbatical",
+    "m": "kỳ nghỉ phép dài hạn",
+    "cat": "business"
+  },
+  {
+    "w": "tenure",
+    "m": "nhiệm kỳ; biên chế",
+    "cat": "business"
+  },
+  {
+    "w": "seniority",
+    "m": "thâm niên",
+    "cat": "business"
+  },
+  {
+    "w": "hierarchy",
+    "m": "hệ thống cấp bậc",
+    "cat": "business"
+  },
+  {
+    "w": "accountability",
+    "m": "trách nhiệm giải trình",
+    "cat": "business"
+  },
+  {
+    "w": "transparency",
+    "m": "sự minh bạch",
+    "cat": "business"
+  },
+  {
+    "w": "integrity",
+    "m": "sự chính trực",
+    "cat": "business"
+  },
+  {
+    "w": "professionalism",
+    "m": "tính chuyên nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "competence",
+    "m": "năng lực",
+    "cat": "business"
+  },
+  {
+    "w": "proficiency",
+    "m": "sự thành thạo",
+    "cat": "business"
+  },
+  {
+    "w": "aptitude",
+    "m": "năng khiếu",
+    "cat": "business"
+  },
+  {
+    "w": "initiative",
+    "m": "sự chủ động; sáng kiến",
+    "cat": "business"
+  },
+  {
+    "w": "perseverance",
+    "m": "sự kiên trì",
+    "cat": "business"
+  },
+  {
+    "w": "punctuality",
+    "m": "sự đúng giờ",
+    "cat": "business"
+  },
+  {
+    "w": "absenteeism",
+    "m": "tình trạng vắng mặt thường xuyên",
+    "cat": "business"
+  },
+  {
+    "w": "grievance",
+    "m": "sự bất bình, khiếu nại lao động",
+    "cat": "business"
+  },
+  {
+    "w": "harassment",
+    "m": "sự quấy rối",
+    "cat": "business"
+  },
+  {
+    "w": "favoritism",
+    "m": "sự thiên vị",
+    "cat": "business"
+  },
+  {
+    "w": "nepotism",
+    "m": "thiên vị người thân, gia đình trị",
+    "cat": "business"
+  },
+  {
+    "w": "whistleblower",
+    "m": "người tố giác nội bộ",
+    "cat": "business"
+  },
+  {
+    "w": "confidentiality",
+    "m": "tính bảo mật",
+    "cat": "business"
+  },
+  {
+    "w": "disclosure",
+    "m": "sự tiết lộ, công bố thông tin",
+    "cat": "business"
+  },
+  {
+    "w": "networking",
+    "m": "việc xây dựng quan hệ công việc",
+    "cat": "business"
+  },
+  {
+    "w": "headhunt",
+    "m": "săn đầu người, chiêu mộ nhân tài",
+    "cat": "business"
+  },
+  {
+    "w": "referral",
+    "m": "sự giới thiệu",
+    "cat": "business"
+  },
+  {
+    "w": "testimonial",
+    "m": "lời chứng thực, nhận xét",
+    "cat": "business"
+  },
+  {
+    "w": "portfolio",
+    "m": "hồ sơ năng lực; danh mục đầu tư",
+    "cat": "business"
+  },
+  {
+    "w": "specialization",
+    "m": "sự chuyên môn hóa",
+    "cat": "business"
+  },
+  {
+    "w": "supervision",
+    "m": "sự giám sát",
+    "cat": "business"
+  },
+  {
+    "w": "coordination",
+    "m": "sự điều phối",
+    "cat": "business"
+  },
+  {
+    "w": "implementation",
+    "m": "sự triển khai thực hiện",
+    "cat": "business"
+  },
+  {
+    "w": "execution",
+    "m": "sự thực thi",
+    "cat": "business"
+  },
+  {
+    "w": "metric",
+    "m": "chỉ số đo lường",
+    "cat": "business"
+  },
+  {
+    "w": "quarterly",
+    "m": "hàng quý",
+    "cat": "business"
+  },
+  {
+    "w": "fiscal",
+    "m": "thuộc tài khóa, ngân sách",
+    "cat": "business"
+  },
+  {
+    "w": "overtime",
+    "m": "giờ làm thêm",
+    "cat": "business"
+  },
+  {
+    "w": "rotation",
+    "m": "sự luân chuyển ca, vị trí",
+    "cat": "business"
+  },
+  {
+    "w": "telecommute",
+    "m": "làm việc từ xa",
+    "cat": "business"
+  },
+  {
+    "w": "relocate",
+    "m": "chuyển địa điểm",
+    "cat": "business"
+  },
+  {
+    "w": "redeploy",
+    "m": "điều chuyển nhân lực",
+    "cat": "business"
+  },
+  {
+    "w": "understaffed",
+    "m": "thiếu nhân lực",
+    "cat": "business"
+  },
+  {
+    "w": "overstaffed",
+    "m": "thừa nhân lực",
+    "cat": "business"
+  },
+  {
+    "w": "backlog",
+    "m": "công việc tồn đọng",
+    "cat": "business"
+  },
+  {
+    "w": "bottleneck",
+    "m": "nút thắt cổ chai, điểm nghẽn",
+    "cat": "business"
+  },
+  {
+    "w": "contingency",
+    "m": "phương án dự phòng; tình huống bất ngờ",
+    "cat": "business"
+  },
+  {
+    "w": "protocol",
+    "m": "quy trình chuẩn, nghi thức",
+    "cat": "business"
+  },
+  {
+    "w": "directive",
+    "m": "chỉ thị",
+    "cat": "business"
+  },
+  {
+    "w": "mandate",
+    "m": "sự ủy nhiệm; nhiệm vụ được giao",
+    "cat": "business"
+  },
+  {
+    "w": "authorize",
+    "m": "cho phép, ủy quyền",
+    "cat": "business"
+  },
+  {
+    "w": "expedite",
+    "m": "đẩy nhanh tiến độ",
+    "cat": "business"
+  },
+  {
+    "w": "finalize",
+    "m": "hoàn tất, chốt lại",
+    "cat": "business"
+  },
+  {
+    "w": "consolidate",
+    "m": "củng cố, hợp nhất",
+    "cat": "business"
+  },
+  {
+    "w": "standardize",
+    "m": "chuẩn hóa",
+    "cat": "business"
+  },
+  {
+    "w": "allegation",
+    "m": "lời cáo buộc",
+    "cat": "media"
+  },
+  {
+    "w": "controversy",
+    "m": "cuộc tranh cãi",
+    "cat": "media"
+  },
+  {
+    "w": "coverage",
+    "m": "sự đưa tin",
+    "cat": "media"
+  },
+  {
+    "w": "censorship",
+    "m": "sự kiểm duyệt",
+    "cat": "media"
+  },
+  {
+    "w": "propaganda",
+    "m": "sự tuyên truyền một chiều",
+    "cat": "media"
+  },
+  {
+    "w": "tabloid",
+    "m": "báo lá cải",
+    "cat": "media"
+  },
+  {
+    "w": "broadsheet",
+    "m": "báo chính thống khổ lớn",
+    "cat": "media"
+  },
+  {
+    "w": "editorial",
+    "m": "bài xã luận",
+    "cat": "media"
+  },
+  {
+    "w": "columnist",
+    "m": "người phụ trách chuyên mục",
+    "cat": "media"
+  },
+  {
+    "w": "correspondent",
+    "m": "phóng viên thường trú",
+    "cat": "media"
+  },
+  {
+    "w": "journalism",
+    "m": "nghề báo, báo chí",
+    "cat": "media"
+  },
+  {
+    "w": "broadcast",
+    "m": "phát sóng; chương trình phát sóng",
+    "cat": "media"
+  },
+  {
+    "w": "bulletin",
+    "m": "bản tin",
+    "cat": "media"
+  },
+  {
+    "w": "headline",
+    "m": "tít báo, tiêu đề lớn",
+    "cat": "media"
+  },
+  {
+    "w": "byline",
+    "m": "dòng ghi tên tác giả bài báo",
+    "cat": "media"
+  },
+  {
+    "w": "circulation",
+    "m": "số lượng phát hành",
+    "cat": "media"
+  },
+  {
+    "w": "readership",
+    "m": "lượng độc giả",
+    "cat": "media"
+  },
+  {
+    "w": "viewership",
+    "m": "lượng người xem",
+    "cat": "media"
+  },
+  {
+    "w": "subscriber",
+    "m": "người đăng ký theo dõi",
+    "cat": "media"
+  },
+  {
+    "w": "paywall",
+    "m": "tường phí nội dung trả tiền",
+    "cat": "media"
+  },
+  {
+    "w": "clickbait",
+    "m": "tít câu view, mồi nhử nhấp chuột",
+    "cat": "media"
+  },
+  {
+    "w": "misinformation",
+    "m": "thông tin sai lệch",
+    "cat": "media"
+  },
+  {
+    "w": "disinformation",
+    "m": "thông tin xuyên tạc có chủ đích",
+    "cat": "media"
+  },
+  {
+    "w": "hoax",
+    "m": "trò lừa bịp, tin giả",
+    "cat": "media"
+  },
+  {
+    "w": "rumor",
+    "m": "tin đồn",
+    "cat": "media"
+  },
+  {
+    "w": "scandal",
+    "m": "vụ bê bối",
+    "cat": "media"
+  },
+  {
+    "w": "expose",
+    "m": "phơi bày, vạch trần",
+    "cat": "media"
+  },
+  {
+    "w": "leak",
+    "m": "sự rò rỉ thông tin",
+    "cat": "media"
+  },
+  {
+    "w": "scoop",
+    "m": "tin độc quyền nóng hổi",
+    "cat": "media"
+  },
+  {
+    "w": "exclusive",
+    "m": "tin độc quyền; dành riêng",
+    "cat": "media"
+  },
+  {
+    "w": "anonymity",
+    "m": "tình trạng ẩn danh",
+    "cat": "media"
+  },
+  {
+    "w": "attribution",
+    "m": "sự dẫn nguồn",
+    "cat": "media"
+  },
+  {
+    "w": "defamation",
+    "m": "sự phỉ báng, bôi nhọ",
+    "cat": "media"
+  },
+  {
+    "w": "libel",
+    "m": "tội bôi nhọ bằng văn bản",
+    "cat": "media"
+  },
+  {
+    "w": "slander",
+    "m": "tội vu khống bằng lời nói",
+    "cat": "media"
+  },
+  {
+    "w": "retraction",
+    "m": "sự rút lại bài báo, phát ngôn",
+    "cat": "media"
+  },
+  {
+    "w": "rebuttal",
+    "m": "lời phản bác",
+    "cat": "media"
+  },
+  {
+    "w": "spokesperson",
+    "m": "người phát ngôn",
+    "cat": "media"
+  },
+  {
+    "w": "publicist",
+    "m": "chuyên viên quảng bá",
+    "cat": "media"
+  },
+  {
+    "w": "publicity",
+    "m": "sự quảng bá, chú ý của công luận",
+    "cat": "media"
+  },
+  {
+    "w": "press release",
+    "m": "thông cáo báo chí",
+    "cat": "media"
+  },
+  {
+    "w": "press conference",
+    "m": "cuộc họp báo",
+    "cat": "media"
+  },
+  {
+    "w": "newsworthy",
+    "m": "đáng đưa tin",
+    "cat": "media"
+  },
+  {
+    "w": "sensationalism",
+    "m": "chủ nghĩa giật gân",
+    "cat": "media"
+  },
+  {
+    "w": "sensationalize",
+    "m": "thổi phồng giật gân",
+    "cat": "media"
+  },
+  {
+    "w": "bias",
+    "m": "sự thiên vị, thiên kiến",
+    "cat": "media"
+  },
+  {
+    "w": "impartial",
+    "m": "không thiên vị, công tâm",
+    "cat": "media"
+  },
+  {
+    "w": "objectivity",
+    "m": "tính khách quan",
+    "cat": "media"
+  },
+  {
+    "w": "credibility",
+    "m": "độ tin cậy, uy tín",
+    "cat": "media"
+  },
+  {
+    "w": "authenticity",
+    "m": "tính xác thực",
+    "cat": "media"
+  },
+  {
+    "w": "verification",
+    "m": "sự kiểm chứng",
+    "cat": "media"
+  },
+  {
+    "w": "fact-check",
+    "m": "kiểm chứng thông tin",
+    "cat": "media"
+  },
+  {
+    "w": "documentary",
+    "m": "phim tài liệu",
+    "cat": "media"
+  },
+  {
+    "w": "footage",
+    "m": "đoạn phim tư liệu",
+    "cat": "media"
+  },
+  {
+    "w": "livestream",
+    "m": "phát trực tiếp trên mạng",
+    "cat": "media"
+  },
+  {
+    "w": "podcast",
+    "m": "chương trình âm thanh trực tuyến",
+    "cat": "media"
+  },
+  {
+    "w": "transcript",
+    "m": "bản chép lại lời nói",
+    "cat": "media"
+  },
+  {
+    "w": "caption",
+    "m": "chú thích ảnh, video",
+    "cat": "media"
+  },
+  {
+    "w": "subtitle",
+    "m": "phụ đề",
+    "cat": "media"
+  },
+  {
+    "w": "dub",
+    "m": "lồng tiếng",
+    "cat": "media"
+  },
+  {
+    "w": "trailer",
+    "m": "đoạn phim giới thiệu",
+    "cat": "media"
+  },
+  {
+    "w": "premiere",
+    "m": "buổi công chiếu ra mắt",
+    "cat": "media"
+  },
+  {
+    "w": "rerun",
+    "m": "chương trình phát lại",
+    "cat": "media"
+  },
+  {
+    "w": "syndicate",
+    "m": "phát hành qua nhiều kênh",
+    "cat": "media"
+  },
+  {
+    "w": "infotainment",
+    "m": "chương trình tin tức giải trí",
+    "cat": "media"
+  },
+  {
+    "w": "outlet",
+    "m": "cơ quan truyền thông",
+    "cat": "media"
+  },
+  {
+    "w": "mainstream",
+    "m": "chính thống, đại chúng",
+    "cat": "media"
+  },
+  {
+    "w": "viral",
+    "m": "lan truyền mạnh trên mạng",
+    "cat": "media"
+  },
+  {
+    "w": "trending",
+    "m": "đang thịnh hành",
+    "cat": "media"
+  },
+  {
+    "w": "influencer",
+    "m": "người có sức ảnh hưởng trên mạng",
+    "cat": "media"
+  },
+  {
+    "w": "engagement",
+    "m": "mức độ tương tác",
+    "cat": "media"
+  },
+  {
+    "w": "moderation",
+    "m": "sự kiểm duyệt nội dung diễn đàn",
+    "cat": "media"
+  },
+  {
+    "w": "troll",
+    "m": "kẻ khiêu khích trên mạng",
+    "cat": "media"
+  },
+  {
+    "w": "backlash",
+    "m": "làn sóng phản đối dữ dội",
+    "cat": "media"
+  },
+  {
+    "w": "outcry",
+    "m": "sự phản đối kịch liệt của công chúng",
+    "cat": "media"
+  },
+  {
+    "w": "uproar",
+    "m": "sự náo động, phẫn nộ",
+    "cat": "media"
+  },
+  {
+    "w": "hype",
+    "m": "sự thổi phồng, cường điệu",
+    "cat": "media"
+  },
+  {
+    "w": "smear",
+    "m": "bôi nhọ, nói xấu",
+    "cat": "media"
+  },
+  {
+    "w": "spin",
+    "m": "bóp méo thông tin theo hướng có lợi",
+    "cat": "media"
+  },
+  {
+    "w": "soundbite",
+    "m": "câu phát biểu ngắn gây chú ý",
+    "cat": "media"
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "w": "旅游",
+    "p": "lǚ yóu",
+    "m": "du lịch",
+    "cat": "travel"
+  },
+  {
+    "w": "旅馆",
+    "p": "lǚ guǎn",
+    "m": "nhà trọ, khách sạn nhỏ",
+    "cat": "travel"
+  },
+  {
+    "w": "宾馆",
+    "p": "bīn guǎn",
+    "m": "khách sạn",
+    "cat": "travel"
+  },
+  {
+    "w": "护照",
+    "p": "hù zhào",
+    "m": "hộ chiếu",
+    "cat": "travel"
+  },
+  {
+    "w": "签证",
+    "p": "qiān zhèng",
+    "m": "thị thực, visa",
+    "cat": "travel"
+  },
+  {
+    "w": "航班",
+    "p": "háng bān",
+    "m": "chuyến bay",
+    "cat": "travel"
+  },
+  {
+    "w": "机场",
+    "p": "jī chǎng",
+    "m": "sân bay",
+    "cat": "travel"
+  },
+  {
+    "w": "出发",
+    "p": "chū fā",
+    "m": "khởi hành, xuất phát",
+    "cat": "travel"
+  },
+  {
+    "w": "到达",
+    "p": "dào dá",
+    "m": "đến nơi, tới nơi",
+    "cat": "travel"
+  },
+  {
+    "w": "行李",
+    "p": "xíng lǐ",
+    "m": "hành lý",
+    "cat": "travel"
+  },
+  {
+    "w": "地图",
+    "p": "dì tú",
+    "m": "bản đồ",
+    "cat": "travel"
+  },
+  {
+    "w": "导游",
+    "p": "dǎo yóu",
+    "m": "hướng dẫn viên du lịch",
+    "cat": "travel"
+  },
+  {
+    "w": "景点",
+    "p": "jǐng diǎn",
+    "m": "điểm tham quan",
+    "cat": "travel"
+  },
+  {
+    "w": "参观",
+    "p": "cān guān",
+    "m": "tham quan",
+    "cat": "travel"
+  },
+  {
+    "w": "爬山",
+    "p": "pá shān",
+    "m": "leo núi",
+    "cat": "travel"
+  },
+  {
+    "w": "海边",
+    "p": "hǎi biān",
+    "m": "bờ biển",
+    "cat": "travel"
+  },
+  {
+    "w": "游览",
+    "p": "yóu lǎn",
+    "m": "tham quan, dạo xem",
+    "cat": "travel"
+  },
+  {
+    "w": "打算",
+    "p": "dǎ suàn",
+    "m": "dự định",
+    "cat": "travel"
+  },
+  {
+    "w": "行程",
+    "p": "xíng chéng",
+    "m": "lịch trình chuyến đi",
+    "cat": "travel"
+  },
+  {
+    "w": "购票",
+    "p": "gòu piào",
+    "m": "mua vé",
+    "cat": "travel"
+  },
+  {
+    "w": "订房",
+    "p": "dìng fáng",
+    "m": "đặt phòng",
+    "cat": "travel"
+  },
+  {
+    "w": "地址",
+    "p": "dì zhǐ",
+    "m": "địa chỉ",
+    "cat": "travel"
+  },
+  {
+    "w": "方向",
+    "p": "fāng xiàng",
+    "m": "hướng, phương hướng",
+    "cat": "travel"
+  },
+  {
+    "w": "迷路",
+    "p": "mí lù",
+    "m": "lạc đường",
+    "cat": "travel"
+  },
+  {
+    "w": "附近",
+    "p": "fù jìn",
+    "m": "gần đây, xung quanh",
+    "cat": "travel"
+  },
+  {
+    "w": "周围",
+    "p": "zhōu wéi",
+    "m": "xung quanh",
+    "cat": "travel"
+  },
+  {
+    "w": "距离",
+    "p": "jù lí",
+    "m": "khoảng cách",
+    "cat": "travel"
+  },
+  {
+    "w": "问路",
+    "p": "wèn lù",
+    "m": "hỏi đường",
+    "cat": "travel"
+  },
+  {
+    "w": "路",
+    "p": "lù",
+    "m": "đường, con đường",
+    "cat": "travel"
+  },
+  {
+    "w": "时间",
+    "p": "shí jiān",
+    "m": "thời gian",
+    "cat": "travel"
+  },
+  {
+    "w": "超市",
+    "p": "chāo shì",
+    "m": "siêu thị",
+    "cat": "shopping"
+  },
+  {
+    "w": "商场",
+    "p": "shāng chǎng",
+    "m": "trung tâm thương mại",
+    "cat": "shopping"
+  },
+  {
+    "w": "价格",
+    "p": "jià gé",
+    "m": "giá cả",
+    "cat": "shopping"
+  },
+  {
+    "w": "便宜",
+    "p": "pián yi",
+    "m": "rẻ, giá rẻ",
+    "cat": "shopping"
+  },
+  {
+    "w": "打折",
+    "p": "dǎ zhé",
+    "m": "giảm giá",
+    "cat": "shopping"
+  },
+  {
+    "w": "牌子",
+    "p": "pái zi",
+    "m": "thương hiệu",
+    "cat": "shopping"
+  },
+  {
+    "w": "质量",
+    "p": "zhì liàng",
+    "m": "chất lượng",
+    "cat": "shopping"
+  },
+  {
+    "w": "选择",
+    "p": "xuǎn zé",
+    "m": "lựa chọn",
+    "cat": "shopping"
+  },
+  {
+    "w": "试穿",
+    "p": "shì chuān",
+    "m": "mặc thử",
+    "cat": "shopping"
+  },
+  {
+    "w": "适合",
+    "p": "shì hé",
+    "m": "phù hợp",
+    "cat": "shopping"
+  },
+  {
+    "w": "满意",
+    "p": "mǎn yì",
+    "m": "hài lòng",
+    "cat": "shopping"
+  },
+  {
+    "w": "特价",
+    "p": "tè jià",
+    "m": "giá đặc biệt",
+    "cat": "shopping"
+  },
+  {
+    "w": "促销",
+    "p": "cù xiāo",
+    "m": "khuyến mãi",
+    "cat": "shopping"
+  },
+  {
+    "w": "退货",
+    "p": "tuì huò",
+    "m": "trả hàng",
+    "cat": "shopping"
+  },
+  {
+    "w": "换货",
+    "p": "huàn huò",
+    "m": "đổi hàng",
+    "cat": "shopping"
+  },
+  {
+    "w": "收银台",
+    "p": "shōu yín tái",
+    "m": "quầy thu ngân",
+    "cat": "shopping"
+  },
+  {
+    "w": "排队",
+    "p": "pái duì",
+    "m": "xếp hàng",
+    "cat": "shopping"
+  },
+  {
+    "w": "结账",
+    "p": "jié zhàng",
+    "m": "thanh toán",
+    "cat": "shopping"
+  },
+  {
+    "w": "购物袋",
+    "p": "gòu wù dài",
+    "m": "túi mua sắm",
+    "cat": "shopping"
+  },
+  {
+    "w": "礼品",
+    "p": "lǐ pǐn",
+    "m": "quà tặng",
+    "cat": "shopping"
+  },
+  {
+    "w": "健康",
+    "p": "jiàn kāng",
+    "m": "sức khỏe, khỏe mạnh",
+    "cat": "health"
+  },
+  {
+    "w": "营养",
+    "p": "yíng yǎng",
+    "m": "dinh dưỡng",
+    "cat": "health"
+  },
+  {
+    "w": "锻炼",
+    "p": "duàn liàn",
+    "m": "tập luyện",
+    "cat": "health"
+  },
+  {
+    "w": "休息",
+    "p": "xiū xi",
+    "m": "nghỉ ngơi",
+    "cat": "health"
+  },
+  {
+    "w": "睡眠",
+    "p": "shuì mián",
+    "m": "giấc ngủ",
+    "cat": "health"
+  },
+  {
+    "w": "感觉",
+    "p": "gǎn jué",
+    "m": "cảm giác",
+    "cat": "health"
+  },
+  {
+    "w": "疼",
+    "p": "téng",
+    "m": "đau",
+    "cat": "health"
+  },
+  {
+    "w": "舒服",
+    "p": "shū fu",
+    "m": "dễ chịu",
+    "cat": "health"
+  },
+  {
+    "w": "难受",
+    "p": "nán shòu",
+    "m": "khó chịu",
+    "cat": "health"
+  },
+  {
+    "w": "精神",
+    "p": "jīng shén",
+    "m": "tinh thần, sức sống",
+    "cat": "health"
+  },
+  {
+    "w": "体重",
+    "p": "tǐ zhòng",
+    "m": "cân nặng",
+    "cat": "health"
+  },
+  {
+    "w": "减肥",
+    "p": "jiǎn féi",
+    "m": "giảm cân",
+    "cat": "health"
+  },
+  {
+    "w": "饮食",
+    "p": "yǐn shí",
+    "m": "ăn uống, chế độ ăn",
+    "cat": "health"
+  },
+  {
+    "w": "饮料",
+    "p": "yǐn liào",
+    "m": "đồ uống",
+    "cat": "health"
+  },
+  {
+    "w": "蔬菜",
+    "p": "shū cài",
+    "m": "rau củ",
+    "cat": "health"
+  },
+  {
+    "w": "肉",
+    "p": "ròu",
+    "m": "thịt",
+    "cat": "health"
+  },
+  {
+    "w": "鱼",
+    "p": "yú",
+    "m": "cá",
+    "cat": "health"
+  },
+  {
+    "w": "水果",
+    "p": "shuǐ guǒ",
+    "m": "trái cây",
+    "cat": "health"
+  },
+  {
+    "w": "面包",
+    "p": "miàn bāo",
+    "m": "bánh mì",
+    "cat": "health"
+  },
+  {
+    "w": "牛奶",
+    "p": "niú nǎi",
+    "m": "sữa bò",
+    "cat": "health"
+  },
+  {
+    "w": "鸡",
+    "p": "jī",
+    "m": "gà",
+    "cat": "health"
+  },
+  {
+    "w": "猪肉",
+    "p": "zhū ròu",
+    "m": "thịt lợn",
+    "cat": "health"
+  },
+  {
+    "w": "牛肉",
+    "p": "niú ròu",
+    "m": "thịt bò",
+    "cat": "health"
+  },
+  {
+    "w": "羊肉",
+    "p": "yáng ròu",
+    "m": "thịt cừu",
+    "cat": "health"
+  },
+  {
+    "w": "海鲜",
+    "p": "hǎi xiān",
+    "m": "hải sản",
+    "cat": "health"
+  },
+  {
+    "w": "医院",
+    "p": "yī yuàn",
+    "m": "bệnh viện",
+    "cat": "health"
+  },
+  {
+    "w": "医生",
+    "p": "yī shēng",
+    "m": "bác sĩ",
+    "cat": "health"
+  },
+  {
+    "w": "药",
+    "p": "yào",
+    "m": "thuốc",
+    "cat": "health"
+  },
+  {
+    "w": "生病",
+    "p": "shēng bìng",
+    "m": "bị bệnh, ốm",
+    "cat": "health"
+  },
+  {
+    "w": "治疗",
+    "p": "zhì liáo",
+    "m": "điều trị",
+    "cat": "health"
+  },
+  {
+    "w": "发烧",
+    "p": "fā shāo",
+    "m": "sốt",
+    "cat": "health"
+  },
+  {
+    "w": "感冒",
+    "p": "gǎn mào",
+    "m": "cảm lạnh, cảm cúm",
+    "cat": "health"
+  },
+  {
+    "w": "过敏",
+    "p": "guò mǐn",
+    "m": "dị ứng",
+    "cat": "health"
+  },
+  {
+    "w": "工作",
+    "p": "gōng zuò",
+    "m": "công việc, làm việc",
+    "cat": "work"
+  },
+  {
+    "w": "公司",
+    "p": "gōng sī",
+    "m": "công ty",
+    "cat": "work"
+  },
+  {
+    "w": "同事",
+    "p": "tóng shì",
+    "m": "đồng nghiệp",
+    "cat": "work"
+  },
+  {
+    "w": "经理",
+    "p": "jīng lǐ",
+    "m": "giám đốc, quản lý",
+    "cat": "work"
+  },
+  {
+    "w": "老板",
+    "p": "lǎo bǎn",
+    "m": "ông chủ, sếp",
+    "cat": "work"
+  },
+  {
+    "w": "工资",
+    "p": "gōng zī",
+    "m": "lương, tiền lương",
+    "cat": "work"
+  },
+  {
+    "w": "职业",
+    "p": "zhí yè",
+    "m": "nghề nghiệp",
+    "cat": "work"
+  },
+  {
+    "w": "简历",
+    "p": "jiǎn lì",
+    "m": "sơ yếu lý lịch, CV",
+    "cat": "work"
+  },
+  {
+    "w": "面试",
+    "p": "miàn shì",
+    "m": "phỏng vấn",
+    "cat": "work"
+  },
+  {
+    "w": "合同",
+    "p": "hé tong",
+    "m": "hợp đồng",
+    "cat": "work"
+  },
+  {
+    "w": "会议",
+    "p": "huì yì",
+    "m": "cuộc họp, hội nghị",
+    "cat": "work"
+  },
+  {
+    "w": "办公室",
+    "p": "bàn gōng shì",
+    "m": "văn phòng",
+    "cat": "work"
+  },
+  {
+    "w": "部门",
+    "p": "bù mén",
+    "m": "bộ phận, phòng ban",
+    "cat": "work"
+  },
+  {
+    "w": "任务",
+    "p": "rèn wu",
+    "m": "nhiệm vụ",
+    "cat": "work"
+  },
+  {
+    "w": "完成",
+    "p": "wán chéng",
+    "m": "hoàn thành",
+    "cat": "work"
+  },
+  {
+    "w": "负责",
+    "p": "fù zé",
+    "m": "chịu trách nhiệm",
+    "cat": "work"
+  },
+  {
+    "w": "报告",
+    "p": "bào gào",
+    "m": "báo cáo",
+    "cat": "work"
+  },
+  {
+    "w": "计划",
+    "p": "jì huà",
+    "m": "kế hoạch",
+    "cat": "work"
+  },
+  {
+    "w": "安排",
+    "p": "ān pái",
+    "m": "sắp xếp, bố trí",
+    "cat": "work"
+  },
+  {
+    "w": "休假",
+    "p": "xiū jià",
+    "m": "nghỉ phép",
+    "cat": "work"
+  },
+  {
+    "w": "加班",
+    "p": "jiā bān",
+    "m": "làm thêm giờ",
+    "cat": "work"
+  },
+  {
+    "w": "出差",
+    "p": "chū chāi",
+    "m": "đi công tác",
+    "cat": "work"
+  },
+  {
+    "w": "业务",
+    "p": "yè wù",
+    "m": "nghiệp vụ",
+    "cat": "work"
+  },
+  {
+    "w": "项目",
+    "p": "xiàng mù",
+    "m": "dự án",
+    "cat": "work"
+  },
+  {
+    "w": "目标",
+    "p": "mù biāo",
+    "m": "mục tiêu",
+    "cat": "work"
+  },
+  {
+    "w": "学校",
+    "p": "xué xiào",
+    "m": "trường học",
+    "cat": "education"
+  },
+  {
+    "w": "大学",
+    "p": "dà xué",
+    "m": "đại học",
+    "cat": "education"
+  },
+  {
+    "w": "老师",
+    "p": "lǎo shī",
+    "m": "giáo viên, thầy cô",
+    "cat": "education"
+  },
+  {
+    "w": "学生",
+    "p": "xué shēng",
+    "m": "học sinh, sinh viên",
+    "cat": "education"
+  },
+  {
+    "w": "课程",
+    "p": "kè chéng",
+    "m": "chương trình học, môn học",
+    "cat": "education"
+  },
+  {
+    "w": "教室",
+    "p": "jiào shì",
+    "m": "phòng học",
+    "cat": "education"
+  },
+  {
+    "w": "作业",
+    "p": "zuò yè",
+    "m": "bài tập về nhà",
+    "cat": "education"
+  },
+  {
+    "w": "考试",
+    "p": "kǎo shì",
+    "m": "kỳ thi",
+    "cat": "education"
+  },
+  {
+    "w": "成绩",
+    "p": "chéng jì",
+    "m": "thành tích, điểm số",
+    "cat": "education"
+  },
+  {
+    "w": "图书馆",
+    "p": "tú shū guǎn",
+    "m": "thư viện",
+    "cat": "education"
+  },
+  {
+    "w": "知识",
+    "p": "zhī shi",
+    "m": "kiến thức",
+    "cat": "education"
+  },
+  {
+    "w": "学习",
+    "p": "xué xí",
+    "m": "học, học tập",
+    "cat": "education"
+  },
+  {
+    "w": "练习",
+    "p": "liàn xí",
+    "m": "luyện tập",
+    "cat": "education"
+  },
+  {
+    "w": "讨论",
+    "p": "tǎo lùn",
+    "m": "thảo luận",
+    "cat": "education"
+  },
+  {
+    "w": "理解",
+    "p": "lǐ jiě",
+    "m": "hiểu, thấu hiểu",
+    "cat": "education"
+  },
+  {
+    "w": "记忆",
+    "p": "jì yì",
+    "m": "ký ức, ghi nhớ",
+    "cat": "education"
+  },
+  {
+    "w": "笔记",
+    "p": "bǐ jì",
+    "m": "ghi chú",
+    "cat": "education"
+  },
+  {
+    "w": "毕业",
+    "p": "bì yè",
+    "m": "tốt nghiệp",
+    "cat": "education"
+  },
+  {
+    "w": "专业",
+    "p": "zhuān yè",
+    "m": "chuyên ngành",
+    "cat": "education"
+  },
+  {
+    "w": "奖学金",
+    "p": "jiǎng xué jīn",
+    "m": "học bổng",
+    "cat": "education"
+  },
+  {
+    "w": "汉字",
+    "p": "hàn zì",
+    "m": "chữ Hán",
+    "cat": "education"
+  },
+  {
+    "w": "语法",
+    "p": "yǔ fǎ",
+    "m": "ngữ pháp",
+    "cat": "education"
+  },
+  {
+    "w": "词汇",
+    "p": "cí huì",
+    "m": "từ vựng",
+    "cat": "education"
+  },
+  {
+    "w": "翻译",
+    "p": "fān yì",
+    "m": "dịch thuật",
+    "cat": "education"
+  },
+  {
+    "w": "外语",
+    "p": "wài yǔ",
+    "m": "ngoại ngữ",
+    "cat": "education"
+  },
+  {
+    "w": "节日",
+    "p": "jié rì",
+    "m": "ngày lễ, ngày hội",
+    "cat": "culture"
+  },
+  {
+    "w": "春节",
+    "p": "chūn jié",
+    "m": "Tết Nguyên Đán",
+    "cat": "culture"
+  },
+  {
+    "w": "中秋节",
+    "p": "zhōng qiū jié",
+    "m": "Tết Trung Thu",
+    "cat": "culture"
+  },
+  {
+    "w": "传统",
+    "p": "chuán tǒng",
+    "m": "truyền thống",
+    "cat": "culture"
+  },
+  {
+    "w": "习俗",
+    "p": "xí sú",
+    "m": "phong tục, tập quán",
+    "cat": "culture"
+  },
+  {
+    "w": "文化",
+    "p": "wén huà",
+    "m": "văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "历史",
+    "p": "lì shǐ",
+    "m": "lịch sử",
+    "cat": "culture"
+  },
+  {
+    "w": "故事",
+    "p": "gù shi",
+    "m": "câu chuyện",
+    "cat": "culture"
+  },
+  {
+    "w": "民族",
+    "p": "mín zú",
+    "m": "dân tộc",
+    "cat": "culture"
+  },
+  {
+    "w": "家庭",
+    "p": "jiā tíng",
+    "m": "gia đình",
+    "cat": "culture"
+  },
+  {
+    "w": "邻居",
+    "p": "lín jū",
+    "m": "hàng xóm",
+    "cat": "culture"
+  },
+  {
+    "w": "社区",
+    "p": "shè qū",
+    "m": "cộng đồng",
+    "cat": "culture"
+  },
+  {
+    "w": "活动",
+    "p": "huó dòng",
+    "m": "hoạt động",
+    "cat": "culture"
+  },
+  {
+    "w": "表演",
+    "p": "biǎo yǎn",
+    "m": "biểu diễn",
+    "cat": "culture"
+  },
+  {
+    "w": "艺术",
+    "p": "yì shù",
+    "m": "nghệ thuật",
+    "cat": "culture"
+  },
+  {
+    "w": "音乐",
+    "p": "yīn yuè",
+    "m": "âm nhạc",
+    "cat": "culture"
+  },
+  {
+    "w": "电影",
+    "p": "diàn yǐng",
+    "m": "phim, điện ảnh",
+    "cat": "culture"
+  },
+  {
+    "w": "书",
+    "p": "shū",
+    "m": "sách",
+    "cat": "culture"
+  },
+  {
+    "w": "杂志",
+    "p": "zá zhì",
+    "m": "tạp chí",
+    "cat": "culture"
+  },
+  {
+    "w": "新闻",
+    "p": "xīn wén",
+    "m": "tin tức",
+    "cat": "culture"
+  },
+  {
+    "w": "博物馆",
+    "p": "bó wù guǎn",
+    "m": "bảo tàng",
+    "cat": "culture"
+  },
+  {
+    "w": "文学",
+    "p": "wén xué",
+    "m": "văn học",
+    "cat": "culture"
+  },
+  {
+    "w": "舞蹈",
+    "p": "wǔ dǎo",
+    "m": "vũ điệu, múa",
+    "cat": "culture"
+  },
+  {
+    "w": "武术",
+    "p": "wǔ shù",
+    "m": "võ thuật",
+    "cat": "culture"
+  },
+  {
+    "w": "书法",
+    "p": "shū fǎ",
+    "m": "thư pháp",
+    "cat": "culture"
+  },
+  {
+    "w": "高兴",
+    "p": "gāo xìng",
+    "m": "vui vẻ, vui mừng",
+    "cat": "emotions"
+  },
+  {
+    "w": "开心",
+    "p": "kāi xīn",
+    "m": "vui lòng, sung sướng",
+    "cat": "emotions"
+  },
+  {
+    "w": "快乐",
+    "p": "kuài lè",
+    "m": "hạnh phúc, vui vẻ",
+    "cat": "emotions"
+  },
+  {
+    "w": "难过",
+    "p": "nán guò",
+    "m": "buồn, đau khổ",
+    "cat": "emotions"
+  },
+  {
+    "w": "伤心",
+    "p": "shāng xīn",
+    "m": "đau lòng, buồn bã",
+    "cat": "emotions"
+  },
+  {
+    "w": "生气",
+    "p": "shēng qì",
+    "m": "tức giận",
+    "cat": "emotions"
+  },
+  {
+    "w": "害怕",
+    "p": "hài pà",
+    "m": "sợ hãi",
+    "cat": "emotions"
+  },
+  {
+    "w": "担心",
+    "p": "dān xīn",
+    "m": "lo lắng",
+    "cat": "emotions"
+  },
+  {
+    "w": "紧张",
+    "p": "jǐn zhāng",
+    "m": "căng thẳng, hồi hộp",
+    "cat": "emotions"
+  },
+  {
+    "w": "放松",
+    "p": "fàng sōng",
+    "m": "thư giãn",
+    "cat": "emotions"
+  },
+  {
+    "w": "失望",
+    "p": "shī wàng",
+    "m": "thất vọng",
+    "cat": "emotions"
+  },
+  {
+    "w": "后悔",
+    "p": "hòu huǐ",
+    "m": "hối hận",
+    "cat": "emotions"
+  },
+  {
+    "w": "感谢",
+    "p": "gǎn xiè",
+    "m": "cảm ơn, biết ơn",
+    "cat": "emotions"
+  },
+  {
+    "w": "感动",
+    "p": "gǎn dòng",
+    "m": "cảm động, xúc động",
+    "cat": "emotions"
+  },
+  {
+    "w": "惊讶",
+    "p": "jīng yà",
+    "m": "ngạc nhiên",
+    "cat": "emotions"
+  },
+  {
+    "w": "好奇",
+    "p": "hào qí",
+    "m": "tò mò",
+    "cat": "emotions"
+  },
+  {
+    "w": "兴趣",
+    "p": "xìng qù",
+    "m": "hứng thú, sở thích",
+    "cat": "emotions"
+  },
+  {
+    "w": "爱好",
+    "p": "ài hào",
+    "m": "sở thích",
+    "cat": "emotions"
+  },
+  {
+    "w": "热情",
+    "p": "rè qíng",
+    "m": "nhiệt tình",
+    "cat": "emotions"
+  },
+  {
+    "w": "希望",
+    "p": "xī wàng",
+    "m": "hy vọng",
+    "cat": "emotions"
+  },
+  {
+    "w": "花",
+    "p": "huā",
+    "m": "hoa",
+    "cat": "nature"
+  },
+  {
+    "w": "树",
+    "p": "shù",
+    "m": "cây",
+    "cat": "nature"
+  },
+  {
+    "w": "草",
+    "p": "cǎo",
+    "m": "cỏ",
+    "cat": "nature"
+  },
+  {
+    "w": "山",
+    "p": "shān",
+    "m": "núi",
+    "cat": "nature"
+  },
+  {
+    "w": "河",
+    "p": "hé",
+    "m": "sông",
+    "cat": "nature"
+  },
+  {
+    "w": "湖",
+    "p": "hú",
+    "m": "hồ",
+    "cat": "nature"
+  },
+  {
+    "w": "海",
+    "p": "hǎi",
+    "m": "biển",
+    "cat": "nature"
+  },
+  {
+    "w": "天空",
+    "p": "tiān kōng",
+    "m": "bầu trời",
+    "cat": "nature"
+  },
+  {
+    "w": "太阳",
+    "p": "tài yáng",
+    "m": "mặt trời",
+    "cat": "nature"
+  },
+  {
+    "w": "月亮",
+    "p": "yuè liang",
+    "m": "mặt trăng",
+    "cat": "nature"
+  },
+  {
+    "w": "星星",
+    "p": "xīng xing",
+    "m": "ngôi sao",
+    "cat": "nature"
+  },
+  {
+    "w": "云",
+    "p": "yún",
+    "m": "đám mây",
+    "cat": "nature"
+  },
+  {
+    "w": "风",
+    "p": "fēng",
+    "m": "gió",
+    "cat": "nature"
+  },
+  {
+    "w": "雨",
+    "p": "yǔ",
+    "m": "mưa",
+    "cat": "nature"
+  },
+  {
+    "w": "雪",
+    "p": "xuě",
+    "m": "tuyết",
+    "cat": "nature"
+  },
+  {
+    "w": "季节",
+    "p": "jì jié",
+    "m": "mùa trong năm",
+    "cat": "nature"
+  },
+  {
+    "w": "春天",
+    "p": "chūn tiān",
+    "m": "mùa xuân",
+    "cat": "nature"
+  },
+  {
+    "w": "夏天",
+    "p": "xià tiān",
+    "m": "mùa hè",
+    "cat": "nature"
+  },
+  {
+    "w": "秋天",
+    "p": "qiū tiān",
+    "m": "mùa thu",
+    "cat": "nature"
+  },
+  {
+    "w": "冬天",
+    "p": "dōng tiān",
+    "m": "mùa đông",
+    "cat": "nature"
+  },
+  {
+    "w": "因此",
+    "p": "yīn cǐ",
+    "m": "vì vậy, do đó",
+    "cat": "grammar"
+  },
+  {
+    "w": "所以",
+    "p": "suǒ yǐ",
+    "m": "cho nên, vì thế",
+    "cat": "grammar"
+  },
+  {
+    "w": "虽然",
+    "p": "suī rán",
+    "m": "mặc dù",
+    "cat": "grammar"
+  },
+  {
+    "w": "但是",
+    "p": "dàn shì",
+    "m": "nhưng mà",
+    "cat": "grammar"
+  },
+  {
+    "w": "即使",
+    "p": "jí shǐ",
+    "m": "dù cho, cho dù",
+    "cat": "grammar"
+  },
+  {
+    "w": "除非",
+    "p": "chú fēi",
+    "m": "trừ khi",
+    "cat": "grammar"
+  },
+  {
+    "w": "只有",
+    "p": "zhǐ yǒu",
+    "m": "chỉ có, chỉ khi",
+    "cat": "grammar"
+  },
+  {
+    "w": "无论",
+    "p": "wú lùn",
+    "m": "dù thế nào, bất kể",
+    "cat": "grammar"
+  },
+  {
+    "w": "尽管",
+    "p": "jǐn guǎn",
+    "m": "dù rằng, mặc dù",
+    "cat": "grammar"
+  },
+  {
+    "w": "而且",
+    "p": "ér qiě",
+    "m": "hơn nữa, mà còn",
+    "cat": "grammar"
+  },
+  {
+    "w": "不但",
+    "p": "bù dàn",
+    "m": "không chỉ",
+    "cat": "grammar"
+  },
+  {
+    "w": "既然",
+    "p": "jì rán",
+    "m": "đã thế, đã vậy",
+    "cat": "grammar"
+  },
+  {
+    "w": "一方面",
+    "p": "yī fāng miàn",
+    "m": "một mặt",
+    "cat": "grammar"
+  },
+  {
+    "w": "另一方面",
+    "p": "lìng yī fāng miàn",
+    "m": "mặt khác",
+    "cat": "grammar"
+  },
+  {
+    "w": "其实",
+    "p": "qí shí",
+    "m": "thực ra",
+    "cat": "grammar"
+  },
+  {
+    "w": "确实",
+    "p": "què shí",
+    "m": "thực sự, quả thật",
+    "cat": "grammar"
+  },
+  {
+    "w": "显然",
+    "p": "xiǎn rán",
+    "m": "rõ ràng là",
+    "cat": "grammar"
+  },
+  {
+    "w": "似乎",
+    "p": "sì hū",
+    "m": "dường như",
+    "cat": "grammar"
+  },
+  {
+    "w": "好像",
+    "p": "hǎo xiàng",
+    "m": "có vẻ như",
+    "cat": "grammar"
+  },
+  {
+    "w": "应该",
+    "p": "yīng gāi",
+    "m": "nên, phải nên",
+    "cat": "grammar"
+  },
+  {
+    "w": "必须",
+    "p": "bì xū",
+    "m": "phải, cần phải",
+    "cat": "grammar"
+  },
+  {
+    "w": "能够",
+    "p": "néng gòu",
+    "m": "có thể",
+    "cat": "grammar"
+  },
+  {
+    "w": "可以",
+    "p": "kě yǐ",
+    "m": "có thể, được phép",
+    "cat": "grammar"
+  },
+  {
+    "w": "不得不",
+    "p": "bù dé bù",
+    "m": "bắt buộc phải",
+    "cat": "grammar"
+  },
+  {
+    "w": "宁愿",
+    "p": "nìng yuàn",
+    "m": "thà rằng",
+    "cat": "grammar"
+  },
+  {
+    "w": "宁可",
+    "p": "nìng kě",
+    "m": "thà là",
+    "cat": "grammar"
+  },
+  {
+    "w": "主要",
+    "p": "zhǔ yào",
+    "m": "chủ yếu",
+    "cat": "grammar"
+  },
+  {
+    "w": "一般",
+    "p": "yī bān",
+    "m": "thông thường, nói chung",
+    "cat": "grammar"
+  },
+  {
+    "w": "通常",
+    "p": "tōng cháng",
+    "m": "thường thường",
+    "cat": "grammar"
+  },
+  {
+    "w": "有时候",
+    "p": "yǒu shí hou",
+    "m": "đôi khi, thỉnh thoảng",
+    "cat": "grammar"
+  },
+  {
+    "w": "偶尔",
+    "p": "ǒu ěr",
+    "m": "thỉnh thoảng",
+    "cat": "grammar"
+  },
+  {
+    "w": "往往",
+    "p": "wǎng wǎng",
+    "m": "thường thường, hay",
+    "cat": "grammar"
+  },
+  {
+    "w": "总的来说",
+    "p": "zǒng de lái shuō",
+    "m": "nói chung, tổng thể mà nói",
+    "cat": "grammar"
+  },
+  {
+    "w": "当然",
+    "p": "dāng rán",
+    "m": "tất nhiên",
+    "cat": "grammar"
+  },
+  {
+    "w": "不过",
+    "p": "bù guò",
+    "m": "nhưng, tuy nhiên",
+    "cat": "grammar"
+  },
+  {
+    "w": "原因",
+    "p": "yuán yīn",
+    "m": "nguyên nhân, lý do",
+    "cat": "grammar"
+  },
+  {
+    "w": "变化",
+    "p": "biàn huà",
+    "m": "thay đổi, biến đổi",
+    "cat": "grammar"
+  },
+  {
+    "w": "影响",
+    "p": "yǐng xiǎng",
+    "m": "ảnh hưởng",
+    "cat": "grammar"
+  },
+  {
+    "w": "重要",
+    "p": "zhòng yào",
+    "m": "quan trọng",
+    "cat": "grammar"
+  },
+  {
+    "w": "特别",
+    "p": "tè bié",
+    "m": "đặc biệt",
+    "cat": "grammar"
+  },
+  {
+    "w": "一直",
+    "p": "yī zhí",
+    "m": "suốt, cứ, mãi",
+    "cat": "grammar"
+  },
+  {
+    "w": "突然",
+    "p": "tū rán",
+    "m": "đột nhiên",
+    "cat": "grammar"
+  },
+  {
+    "w": "已经",
+    "p": "yǐ jīng",
+    "m": "đã, rồi",
+    "cat": "grammar"
+  },
+  {
+    "w": "马上",
+    "p": "mǎ shàng",
+    "m": "ngay lập tức",
+    "cat": "grammar"
+  },
+  {
+    "w": "以后",
+    "p": "yǐ hòu",
+    "m": "sau này, sau đó",
+    "cat": "grammar"
+  },
+  {
+    "w": "以前",
+    "p": "yǐ qián",
+    "m": "trước đây",
+    "cat": "grammar"
+  },
+  {
+    "w": "认为",
+    "p": "rèn wéi",
+    "m": "cho rằng, nghĩ rằng",
+    "cat": "grammar"
+  },
+  {
+    "w": "决定",
+    "p": "jué dìng",
+    "m": "quyết định",
+    "cat": "grammar"
+  },
+  {
+    "w": "同意",
+    "p": "tóng yì",
+    "m": "đồng ý",
+    "cat": "grammar"
+  },
+  {
+    "w": "比较",
+    "p": "bǐ jiào",
+    "m": "so sánh, tương đối",
+    "cat": "grammar"
+  },
+  {
+    "w": "注意",
+    "p": "zhù yì",
+    "m": "chú ý, để ý",
+    "cat": "grammar"
+  },
+  {
+    "w": "继续",
+    "p": "jì xù",
+    "m": "tiếp tục",
+    "cat": "grammar"
+  },
+  {
+    "w": "开始",
+    "p": "kāi shǐ",
+    "m": "bắt đầu",
+    "cat": "grammar"
+  },
+  {
+    "w": "结束",
+    "p": "jié shù",
+    "m": "kết thúc",
+    "cat": "grammar"
+  },
+  {
+    "w": "准备",
+    "p": "zhǔn bèi",
+    "m": "chuẩn bị",
+    "cat": "grammar"
+  },
+  {
+    "w": "需要",
+    "p": "xū yào",
+    "m": "cần, cần thiết",
+    "cat": "grammar"
+  },
+  {
+    "w": "方便",
+    "p": "fāng biàn",
+    "m": "tiện lợi, thuận tiện",
+    "cat": "grammar"
+  },
+  {
+    "w": "困难",
+    "p": "kùn nán",
+    "m": "khó khăn",
+    "cat": "grammar"
+  },
+  {
+    "w": "容易",
+    "p": "róng yì",
+    "m": "dễ dàng",
+    "cat": "grammar"
+  },
+  {
+    "w": "清楚",
+    "p": "qīng chǔ",
+    "m": "rõ ràng",
+    "cat": "grammar"
+  },
+  {
+    "w": "帮助",
+    "p": "bāng zhù",
+    "m": "giúp đỡ, hỗ trợ",
+    "cat": "work"
+  },
+  {
+    "w": "联系",
+    "p": "lián xì",
+    "m": "liên lạc, liên hệ",
+    "cat": "work"
+  },
+  {
+    "w": "解决",
+    "p": "jiě jué",
+    "m": "giải quyết",
+    "cat": "work"
+  },
+  {
+    "w": "结果",
+    "p": "jié guǒ",
+    "m": "kết quả",
+    "cat": "work"
+  },
+  {
+    "w": "成功",
+    "p": "chéng gōng",
+    "m": "thành công",
+    "cat": "work"
+  },
+  {
+    "w": "经验",
+    "p": "jīng yàn",
+    "m": "kinh nghiệm",
+    "cat": "work"
+  },
+  {
+    "w": "机会",
+    "p": "jī huì",
+    "m": "cơ hội",
+    "cat": "work"
+  },
+  {
+    "w": "发展",
+    "p": "fā zhǎn",
+    "m": "phát triển",
+    "cat": "work"
+  },
+  {
+    "w": "服务",
+    "p": "fú wù",
+    "m": "dịch vụ, phục vụ",
+    "cat": "work"
+  },
+  {
+    "w": "客户",
+    "p": "kè hù",
+    "m": "khách hàng",
+    "cat": "work"
+  },
+  {
+    "w": "合作",
+    "p": "hé zuò",
+    "m": "hợp tác",
+    "cat": "work"
+  },
+  {
+    "w": "管理",
+    "p": "guǎn lǐ",
+    "m": "quản lý",
+    "cat": "work"
+  },
+  {
+    "w": "交流",
+    "p": "jiāo liú",
+    "m": "giao lưu, trao đổi",
+    "cat": "education"
+  },
+  {
+    "w": "发现",
+    "p": "fā xiàn",
+    "m": "phát hiện",
+    "cat": "education"
+  },
+  {
+    "w": "研究",
+    "p": "yán jiū",
+    "m": "nghiên cứu",
+    "cat": "education"
+  },
+  {
+    "w": "了解",
+    "p": "liǎo jiě",
+    "m": "hiểu biết, tìm hiểu",
+    "cat": "education"
+  },
+  {
+    "w": "方法",
+    "p": "fāng fǎ",
+    "m": "phương pháp, cách thức",
+    "cat": "education"
+  },
+  {
+    "w": "努力",
+    "p": "nǔ lì",
+    "m": "nỗ lực, cố gắng",
+    "cat": "education"
+  },
+  {
+    "w": "进步",
+    "p": "jìn bù",
+    "m": "tiến bộ",
+    "cat": "education"
+  },
+  {
+    "w": "提高",
+    "p": "tí gāo",
+    "m": "nâng cao, cải thiện",
+    "cat": "education"
+  },
+  {
+    "w": "回答",
+    "p": "huí dá",
+    "m": "trả lời",
+    "cat": "education"
+  },
+  {
+    "w": "自信",
+    "p": "zì xìn",
+    "m": "tự tin",
+    "cat": "emotions"
+  },
+  {
+    "w": "勇气",
+    "p": "yǒng qì",
+    "m": "can đảm, dũng khí",
+    "cat": "emotions"
+  },
+  {
+    "w": "压力",
+    "p": "yā lì",
+    "m": "áp lực",
+    "cat": "emotions"
+  },
+  {
+    "w": "相信",
+    "p": "xiāng xìn",
+    "m": "tin tưởng",
+    "cat": "emotions"
+  },
+  {
+    "w": "感情",
+    "p": "gǎn qíng",
+    "m": "tình cảm",
+    "cat": "emotions"
+  },
+  {
+    "w": "骄傲",
+    "p": "jiāo ào",
+    "m": "tự hào, kiêu ngạo",
+    "cat": "emotions"
+  },
+  {
+    "w": "谦虚",
+    "p": "qiān xū",
+    "m": "khiêm tốn",
+    "cat": "emotions"
+  },
+  {
+    "w": "参加",
+    "p": "cān jiā",
+    "m": "tham gia, tham dự",
+    "cat": "culture"
+  },
+  {
+    "w": "庆祝",
+    "p": "qìng zhù",
+    "m": "kỷ niệm, chúc mừng",
+    "cat": "culture"
+  },
+  {
+    "w": "邀请",
+    "p": "yāo qǐng",
+    "m": "mời, lời mời",
+    "cat": "culture"
+  },
+  {
+    "w": "关系",
+    "p": "guān xi",
+    "m": "quan hệ, mối quan hệ",
+    "cat": "culture"
+  },
+  {
+    "w": "家人",
+    "p": "jiā rén",
+    "m": "người thân, gia đình",
+    "cat": "culture"
+  },
+  {
+    "w": "父母",
+    "p": "fù mǔ",
+    "m": "cha mẹ",
+    "cat": "culture"
+  },
+  {
+    "w": "结婚",
+    "p": "jié hūn",
+    "m": "kết hôn",
+    "cat": "culture"
+  },
+  {
+    "w": "孩子",
+    "p": "hái zi",
+    "m": "trẻ em, con cái",
+    "cat": "culture"
+  },
+  {
+    "w": "生活",
+    "p": "shēng huó",
+    "m": "cuộc sống, sinh hoạt",
+    "cat": "culture"
+  },
+  {
+    "w": "环境",
+    "p": "huán jìng",
+    "m": "môi trường",
+    "cat": "nature"
+  },
+  {
+    "w": "空气",
+    "p": "kōng qì",
+    "m": "không khí",
+    "cat": "nature"
+  },
+  {
+    "w": "气候",
+    "p": "qì hòu",
+    "m": "khí hậu",
+    "cat": "nature"
+  },
+  {
+    "w": "自然",
+    "p": "zì rán",
+    "m": "tự nhiên",
+    "cat": "nature"
+  },
+  {
+    "w": "保护",
+    "p": "bǎo hù",
+    "m": "bảo vệ",
+    "cat": "nature"
+  }
+]

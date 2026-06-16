@@ -1,0 +1,1757 @@
+[
+  {
+    "w": "photosynthesis",
+    "m": "quang hợp",
+    "cat": "science"
+  },
+  {
+    "w": "chlorophyll",
+    "m": "diệp lục",
+    "cat": "science"
+  },
+  {
+    "w": "ecosystem",
+    "m": "hệ sinh thái",
+    "cat": "science"
+  },
+  {
+    "w": "biome",
+    "m": "quần xã sinh vật",
+    "cat": "science"
+  },
+  {
+    "w": "habitat",
+    "m": "môi trường sống",
+    "cat": "science"
+  },
+  {
+    "w": "organism",
+    "m": "sinh vật",
+    "cat": "science"
+  },
+  {
+    "w": "microorganism",
+    "m": "vi sinh vật",
+    "cat": "science"
+  },
+  {
+    "w": "bacterium",
+    "m": "vi khuẩn",
+    "cat": "science"
+  },
+  {
+    "w": "fungus",
+    "m": "nấm",
+    "cat": "science"
+  },
+  {
+    "w": "enzyme",
+    "m": "enzyme, men",
+    "cat": "science"
+  },
+  {
+    "w": "protein",
+    "m": "chất đạm",
+    "cat": "science"
+  },
+  {
+    "w": "chromosome",
+    "m": "nhiễm sắc thể",
+    "cat": "science"
+  },
+  {
+    "w": "nucleus",
+    "m": "nhân tế bào",
+    "cat": "science"
+  },
+  {
+    "w": "membrane",
+    "m": "màng tế bào",
+    "cat": "science"
+  },
+  {
+    "w": "mitochondria",
+    "m": "ty thể",
+    "cat": "science"
+  },
+  {
+    "w": "organelle",
+    "m": "bào quan",
+    "cat": "science"
+  },
+  {
+    "w": "tissue",
+    "m": "mô",
+    "cat": "science"
+  },
+  {
+    "w": "hormone",
+    "m": "hoóc môn, nội tiết tố",
+    "cat": "science"
+  },
+  {
+    "w": "neuron",
+    "m": "nơ-ron thần kinh",
+    "cat": "science"
+  },
+  {
+    "w": "synapse",
+    "m": "khớp thần kinh",
+    "cat": "science"
+  },
+  {
+    "w": "reproduction",
+    "m": "sự sinh sản",
+    "cat": "science"
+  },
+  {
+    "w": "mutation",
+    "m": "sự đột biến",
+    "cat": "science"
+  },
+  {
+    "w": "adaptation",
+    "m": "sự thích nghi",
+    "cat": "science"
+  },
+  {
+    "w": "evolution",
+    "m": "sự tiến hóa",
+    "cat": "science"
+  },
+  {
+    "w": "natural selection",
+    "m": "chọn lọc tự nhiên",
+    "cat": "science"
+  },
+  {
+    "w": "extinction",
+    "m": "sự tuyệt chủng",
+    "cat": "science"
+  },
+  {
+    "w": "species",
+    "m": "loài",
+    "cat": "science"
+  },
+  {
+    "w": "vertebrate",
+    "m": "động vật có xương sống",
+    "cat": "science"
+  },
+  {
+    "w": "invertebrate",
+    "m": "động vật không xương sống",
+    "cat": "science"
+  },
+  {
+    "w": "mammal",
+    "m": "động vật có vú",
+    "cat": "science"
+  },
+  {
+    "w": "amphibian",
+    "m": "động vật lưỡng cư",
+    "cat": "science"
+  },
+  {
+    "w": "reptile",
+    "m": "động vật bò sát",
+    "cat": "science"
+  },
+  {
+    "w": "crustacean",
+    "m": "động vật giáp xác",
+    "cat": "science"
+  },
+  {
+    "w": "larva",
+    "m": "ấu trùng",
+    "cat": "science"
+  },
+  {
+    "w": "pollination",
+    "m": "sự thụ phấn",
+    "cat": "science"
+  },
+  {
+    "w": "germination",
+    "m": "sự nảy mầm",
+    "cat": "science"
+  },
+  {
+    "w": "respiration",
+    "m": "sự hô hấp",
+    "cat": "science"
+  },
+  {
+    "w": "circulation",
+    "m": "sự tuần hoàn",
+    "cat": "science"
+  },
+  {
+    "w": "digestion",
+    "m": "sự tiêu hóa",
+    "cat": "science"
+  },
+  {
+    "w": "secretion",
+    "m": "sự bài tiết",
+    "cat": "science"
+  },
+  {
+    "w": "atom",
+    "m": "nguyên tử",
+    "cat": "science"
+  },
+  {
+    "w": "molecule",
+    "m": "phân tử",
+    "cat": "science"
+  },
+  {
+    "w": "electron",
+    "m": "điện tử",
+    "cat": "science"
+  },
+  {
+    "w": "proton",
+    "m": "proton",
+    "cat": "science"
+  },
+  {
+    "w": "neutron",
+    "m": "neutron",
+    "cat": "science"
+  },
+  {
+    "w": "isotope",
+    "m": "đồng vị",
+    "cat": "science"
+  },
+  {
+    "w": "compound",
+    "m": "hợp chất",
+    "cat": "science"
+  },
+  {
+    "w": "element",
+    "m": "nguyên tố",
+    "cat": "science"
+  },
+  {
+    "w": "reaction",
+    "m": "phản ứng",
+    "cat": "science"
+  },
+  {
+    "w": "oxidation",
+    "m": "sự oxy hóa",
+    "cat": "science"
+  },
+  {
+    "w": "combustion",
+    "m": "sự đốt cháy",
+    "cat": "science"
+  },
+  {
+    "w": "solubility",
+    "m": "độ tan",
+    "cat": "science"
+  },
+  {
+    "w": "density",
+    "m": "mật độ, tỷ trọng",
+    "cat": "science"
+  },
+  {
+    "w": "viscosity",
+    "m": "độ nhớt",
+    "cat": "science"
+  },
+  {
+    "w": "acidity",
+    "m": "độ axit",
+    "cat": "science"
+  },
+  {
+    "w": "alkaline",
+    "m": "có tính kiềm",
+    "cat": "science"
+  },
+  {
+    "w": "catalyst",
+    "m": "chất xúc tác",
+    "cat": "science"
+  },
+  {
+    "w": "solvent",
+    "m": "dung môi",
+    "cat": "science"
+  },
+  {
+    "w": "compound",
+    "m": "hợp chất hóa học",
+    "cat": "science"
+  },
+  {
+    "w": "velocity",
+    "m": "vận tốc",
+    "cat": "science"
+  },
+  {
+    "w": "acceleration",
+    "m": "gia tốc",
+    "cat": "science"
+  },
+  {
+    "w": "friction",
+    "m": "ma sát",
+    "cat": "science"
+  },
+  {
+    "w": "gravity",
+    "m": "trọng lực",
+    "cat": "science"
+  },
+  {
+    "w": "momentum",
+    "m": "động lượng",
+    "cat": "science"
+  },
+  {
+    "w": "inertia",
+    "m": "quán tính",
+    "cat": "science"
+  },
+  {
+    "w": "kinetic",
+    "m": "thuộc động năng",
+    "cat": "science"
+  },
+  {
+    "w": "thermal",
+    "m": "thuộc nhiệt",
+    "cat": "science"
+  },
+  {
+    "w": "voltage",
+    "m": "điện áp",
+    "cat": "science"
+  },
+  {
+    "w": "current",
+    "m": "dòng điện",
+    "cat": "science"
+  },
+  {
+    "w": "resistance",
+    "m": "điện trở",
+    "cat": "science"
+  },
+  {
+    "w": "frequency",
+    "m": "tần số",
+    "cat": "science"
+  },
+  {
+    "w": "amplitude",
+    "m": "biên độ",
+    "cat": "science"
+  },
+  {
+    "w": "wavelength",
+    "m": "bước sóng",
+    "cat": "science"
+  },
+  {
+    "w": "radiation",
+    "m": "bức xạ",
+    "cat": "science"
+  },
+  {
+    "w": "magnetism",
+    "m": "từ tính",
+    "cat": "science"
+  },
+  {
+    "w": "refraction",
+    "m": "sự khúc xạ",
+    "cat": "science"
+  },
+  {
+    "w": "reflection",
+    "m": "sự phản xạ",
+    "cat": "science"
+  },
+  {
+    "w": "diffraction",
+    "m": "sự nhiễu xạ",
+    "cat": "science"
+  },
+  {
+    "w": "spectrum",
+    "m": "quang phổ",
+    "cat": "science"
+  },
+  {
+    "w": "trajectory",
+    "m": "quỹ đạo",
+    "cat": "science"
+  },
+  {
+    "w": "equilibrium",
+    "m": "trạng thái cân bằng",
+    "cat": "science"
+  },
+  {
+    "w": "anatomy",
+    "m": "giải phẫu học",
+    "cat": "medicine"
+  },
+  {
+    "w": "physiology",
+    "m": "sinh lý học",
+    "cat": "medicine"
+  },
+  {
+    "w": "pathology",
+    "m": "bệnh lý học",
+    "cat": "medicine"
+  },
+  {
+    "w": "oncology",
+    "m": "ung thư học",
+    "cat": "medicine"
+  },
+  {
+    "w": "cardiology",
+    "m": "tim mạch học",
+    "cat": "medicine"
+  },
+  {
+    "w": "neurology",
+    "m": "thần kinh học",
+    "cat": "medicine"
+  },
+  {
+    "w": "dermatology",
+    "m": "da liễu học",
+    "cat": "medicine"
+  },
+  {
+    "w": "pediatrics",
+    "m": "nhi khoa",
+    "cat": "medicine"
+  },
+  {
+    "w": "psychiatry",
+    "m": "tâm thần học",
+    "cat": "medicine"
+  },
+  {
+    "w": "surgery",
+    "m": "phẫu thuật",
+    "cat": "medicine"
+  },
+  {
+    "w": "anesthesia",
+    "m": "sự gây mê",
+    "cat": "medicine"
+  },
+  {
+    "w": "diagnosis",
+    "m": "sự chẩn đoán",
+    "cat": "medicine"
+  },
+  {
+    "w": "prognosis",
+    "m": "tiên lượng",
+    "cat": "medicine"
+  },
+  {
+    "w": "symptom",
+    "m": "triệu chứng",
+    "cat": "medicine"
+  },
+  {
+    "w": "syndrome",
+    "m": "hội chứng",
+    "cat": "medicine"
+  },
+  {
+    "w": "inflammation",
+    "m": "sự viêm",
+    "cat": "medicine"
+  },
+  {
+    "w": "infection",
+    "m": "sự nhiễm trùng",
+    "cat": "medicine"
+  },
+  {
+    "w": "immunity",
+    "m": "miễn dịch",
+    "cat": "medicine"
+  },
+  {
+    "w": "vaccine",
+    "m": "vắc xin",
+    "cat": "medicine"
+  },
+  {
+    "w": "antibiotic",
+    "m": "kháng sinh",
+    "cat": "medicine"
+  },
+  {
+    "w": "antibody",
+    "m": "kháng thể",
+    "cat": "medicine"
+  },
+  {
+    "w": "pathogen",
+    "m": "mầm bệnh",
+    "cat": "medicine"
+  },
+  {
+    "w": "epidemic",
+    "m": "dịch bệnh",
+    "cat": "medicine"
+  },
+  {
+    "w": "pandemic",
+    "m": "đại dịch",
+    "cat": "medicine"
+  },
+  {
+    "w": "contagious",
+    "m": "dễ lây",
+    "cat": "medicine"
+  },
+  {
+    "w": "chronic",
+    "m": "mãn tính",
+    "cat": "medicine"
+  },
+  {
+    "w": "acute",
+    "m": "cấp tính",
+    "cat": "medicine"
+  },
+  {
+    "w": "benign",
+    "m": "lành tính",
+    "cat": "medicine"
+  },
+  {
+    "w": "malignant",
+    "m": "ác tính",
+    "cat": "medicine"
+  },
+  {
+    "w": "tumor",
+    "m": "khối u",
+    "cat": "medicine"
+  },
+  {
+    "w": "biopsy",
+    "m": "sinh thiết",
+    "cat": "medicine"
+  },
+  {
+    "w": "transfusion",
+    "m": "truyền máu",
+    "cat": "medicine"
+  },
+  {
+    "w": "transplant",
+    "m": "cấy ghép",
+    "cat": "medicine"
+  },
+  {
+    "w": "prosthesis",
+    "m": "bộ phận giả",
+    "cat": "medicine"
+  },
+  {
+    "w": "rehabilitation",
+    "m": "phục hồi chức năng",
+    "cat": "medicine"
+  },
+  {
+    "w": "metabolism",
+    "m": "sự trao đổi chất",
+    "cat": "medicine"
+  },
+  {
+    "w": "nutrient",
+    "m": "chất dinh dưỡng",
+    "cat": "medicine"
+  },
+  {
+    "w": "deficiency",
+    "m": "sự thiếu hụt",
+    "cat": "medicine"
+  },
+  {
+    "w": "dosage",
+    "m": "liều lượng",
+    "cat": "medicine"
+  },
+  {
+    "w": "prescription",
+    "m": "đơn thuốc",
+    "cat": "medicine"
+  },
+  {
+    "w": "algorithm",
+    "m": "thuật toán",
+    "cat": "tech"
+  },
+  {
+    "w": "encryption",
+    "m": "mã hóa",
+    "cat": "tech"
+  },
+  {
+    "w": "database",
+    "m": "cơ sở dữ liệu",
+    "cat": "tech"
+  },
+  {
+    "w": "bandwidth",
+    "m": "băng thông",
+    "cat": "tech"
+  },
+  {
+    "w": "firewall",
+    "m": "tường lửa",
+    "cat": "tech"
+  },
+  {
+    "w": "server",
+    "m": "máy chủ",
+    "cat": "tech"
+  },
+  {
+    "w": "protocol",
+    "m": "giao thức",
+    "cat": "tech"
+  },
+  {
+    "w": "interface",
+    "m": "giao diện",
+    "cat": "tech"
+  },
+  {
+    "w": "processor",
+    "m": "bộ xử lý",
+    "cat": "tech"
+  },
+  {
+    "w": "semiconductor",
+    "m": "chất bán dẫn",
+    "cat": "tech"
+  },
+  {
+    "w": "microchip",
+    "m": "vi mạch",
+    "cat": "tech"
+  },
+  {
+    "w": "circuit",
+    "m": "mạch điện",
+    "cat": "tech"
+  },
+  {
+    "w": "hardware",
+    "m": "phần cứng",
+    "cat": "tech"
+  },
+  {
+    "w": "software",
+    "m": "phần mềm",
+    "cat": "tech"
+  },
+  {
+    "w": "compiler",
+    "m": "trình biên dịch",
+    "cat": "tech"
+  },
+  {
+    "w": "debugging",
+    "m": "gỡ lỗi",
+    "cat": "tech"
+  },
+  {
+    "w": "latency",
+    "m": "độ trễ",
+    "cat": "tech"
+  },
+  {
+    "w": "cache",
+    "m": "bộ nhớ đệm",
+    "cat": "tech"
+  },
+  {
+    "w": "backup",
+    "m": "bản sao lưu",
+    "cat": "tech"
+  },
+  {
+    "w": "malware",
+    "m": "phần mềm độc hại",
+    "cat": "tech"
+  },
+  {
+    "w": "phishing",
+    "m": "lừa đảo trực tuyến",
+    "cat": "tech"
+  },
+  {
+    "w": "authentication",
+    "m": "sự xác thực",
+    "cat": "tech"
+  },
+  {
+    "w": "virtualization",
+    "m": "ảo hóa",
+    "cat": "tech"
+  },
+  {
+    "w": "scalability",
+    "m": "khả năng mở rộng",
+    "cat": "tech"
+  },
+  {
+    "w": "redundancy",
+    "m": "sự dự phòng",
+    "cat": "tech"
+  },
+  {
+    "w": "latitude",
+    "m": "vĩ độ",
+    "cat": "science"
+  },
+  {
+    "w": "longitude",
+    "m": "kinh độ",
+    "cat": "science"
+  },
+  {
+    "w": "equator",
+    "m": "đường xích đạo",
+    "cat": "science"
+  },
+  {
+    "w": "hemisphere",
+    "m": "bán cầu",
+    "cat": "science"
+  },
+  {
+    "w": "continent",
+    "m": "lục địa",
+    "cat": "science"
+  },
+  {
+    "w": "peninsula",
+    "m": "bán đảo",
+    "cat": "science"
+  },
+  {
+    "w": "archipelago",
+    "m": "quần đảo",
+    "cat": "science"
+  },
+  {
+    "w": "plateau",
+    "m": "cao nguyên",
+    "cat": "science"
+  },
+  {
+    "w": "glacier",
+    "m": "sông băng",
+    "cat": "science"
+  },
+  {
+    "w": "tundra",
+    "m": "đài nguyên",
+    "cat": "science"
+  },
+  {
+    "w": "savanna",
+    "m": "thảo nguyên nhiệt đới",
+    "cat": "science"
+  },
+  {
+    "w": "estuary",
+    "m": "cửa sông",
+    "cat": "science"
+  },
+  {
+    "w": "sediment",
+    "m": "trầm tích",
+    "cat": "science"
+  },
+  {
+    "w": "erosion",
+    "m": "sự xói mòn",
+    "cat": "science"
+  },
+  {
+    "w": "tectonic",
+    "m": "thuộc kiến tạo địa chất",
+    "cat": "science"
+  },
+  {
+    "w": "seismic",
+    "m": "thuộc địa chấn",
+    "cat": "science"
+  },
+  {
+    "w": "volcanic",
+    "m": "thuộc núi lửa",
+    "cat": "science"
+  },
+  {
+    "w": "magma",
+    "m": "mắc ma",
+    "cat": "science"
+  },
+  {
+    "w": "strata",
+    "m": "các tầng địa chất",
+    "cat": "science"
+  },
+  {
+    "w": "fossil",
+    "m": "hóa thạch",
+    "cat": "science"
+  },
+  {
+    "w": "mineral",
+    "m": "khoáng vật",
+    "cat": "science"
+  },
+  {
+    "w": "ore",
+    "m": "quặng",
+    "cat": "science"
+  },
+  {
+    "w": "crystalline",
+    "m": "thuộc tinh thể",
+    "cat": "science"
+  },
+  {
+    "w": "precipitation",
+    "m": "lượng mưa; sự kết tủa",
+    "cat": "science"
+  },
+  {
+    "w": "humidity",
+    "m": "độ ẩm",
+    "cat": "science"
+  },
+  {
+    "w": "atmosphere",
+    "m": "khí quyển",
+    "cat": "science"
+  },
+  {
+    "w": "ozone",
+    "m": "tầng ô-zôn",
+    "cat": "science"
+  },
+  {
+    "w": "meteorology",
+    "m": "khí tượng học",
+    "cat": "science"
+  },
+  {
+    "w": "climatology",
+    "m": "khí hậu học",
+    "cat": "science"
+  },
+  {
+    "w": "hydrology",
+    "m": "thủy văn học",
+    "cat": "science"
+  },
+  {
+    "w": "constitution",
+    "m": "hiến pháp",
+    "cat": "law"
+  },
+  {
+    "w": "amendment",
+    "m": "sự sửa đổi (luật)",
+    "cat": "law"
+  },
+  {
+    "w": "legislature",
+    "m": "cơ quan lập pháp",
+    "cat": "law"
+  },
+  {
+    "w": "judiciary",
+    "m": "ngành tư pháp",
+    "cat": "law"
+  },
+  {
+    "w": "prosecutor",
+    "m": "công tố viên",
+    "cat": "law"
+  },
+  {
+    "w": "attorney",
+    "m": "luật sư",
+    "cat": "law"
+  },
+  {
+    "w": "plaintiff",
+    "m": "nguyên đơn",
+    "cat": "law"
+  },
+  {
+    "w": "defendant",
+    "m": "bị đơn",
+    "cat": "law"
+  },
+  {
+    "w": "witness",
+    "m": "nhân chứng",
+    "cat": "law"
+  },
+  {
+    "w": "verdict",
+    "m": "phán quyết",
+    "cat": "law"
+  },
+  {
+    "w": "sentence",
+    "m": "bản án",
+    "cat": "law"
+  },
+  {
+    "w": "appeal",
+    "m": "kháng cáo",
+    "cat": "law"
+  },
+  {
+    "w": "custody",
+    "m": "sự giam giữ; quyền nuôi con",
+    "cat": "law"
+  },
+  {
+    "w": "bail",
+    "m": "tiền bảo lãnh",
+    "cat": "law"
+  },
+  {
+    "w": "warrant",
+    "m": "lệnh (bắt, khám)",
+    "cat": "law"
+  },
+  {
+    "w": "felony",
+    "m": "trọng tội",
+    "cat": "law"
+  },
+  {
+    "w": "misdemeanor",
+    "m": "tội nhẹ",
+    "cat": "law"
+  },
+  {
+    "w": "perjury",
+    "m": "tội khai man",
+    "cat": "law"
+  },
+  {
+    "w": "libel",
+    "m": "tội phỉ báng (viết)",
+    "cat": "law"
+  },
+  {
+    "w": "slander",
+    "m": "tội vu khống (nói)",
+    "cat": "law"
+  },
+  {
+    "w": "fraud",
+    "m": "gian lận",
+    "cat": "law"
+  },
+  {
+    "w": "embezzlement",
+    "m": "tội tham ô",
+    "cat": "law"
+  },
+  {
+    "w": "extortion",
+    "m": "tội tống tiền",
+    "cat": "law"
+  },
+  {
+    "w": "negligence",
+    "m": "sự cẩu thả (pháp lý)",
+    "cat": "law"
+  },
+  {
+    "w": "defamation",
+    "m": "sự phỉ báng",
+    "cat": "law"
+  },
+  {
+    "w": "copyright",
+    "m": "bản quyền",
+    "cat": "law"
+  },
+  {
+    "w": "patent",
+    "m": "bằng sáng chế",
+    "cat": "law"
+  },
+  {
+    "w": "trademark",
+    "m": "nhãn hiệu",
+    "cat": "law"
+  },
+  {
+    "w": "contract",
+    "m": "hợp đồng",
+    "cat": "law"
+  },
+  {
+    "w": "clause",
+    "m": "điều khoản",
+    "cat": "law"
+  },
+  {
+    "w": "deductible",
+    "m": "khoản khấu trừ",
+    "cat": "economics"
+  },
+  {
+    "w": "mortgage",
+    "m": "khoản vay thế chấp",
+    "cat": "economics"
+  },
+  {
+    "w": "insolvency",
+    "m": "sự mất khả năng thanh toán",
+    "cat": "economics"
+  },
+  {
+    "w": "bankruptcy",
+    "m": "sự phá sản",
+    "cat": "economics"
+  },
+  {
+    "w": "arbitrage",
+    "m": "kinh doanh chênh lệch giá",
+    "cat": "economics"
+  },
+  {
+    "w": "portfolio",
+    "m": "danh mục đầu tư",
+    "cat": "economics"
+  },
+  {
+    "w": "derivative",
+    "m": "công cụ phái sinh",
+    "cat": "economics"
+  },
+  {
+    "w": "hedge",
+    "m": "phòng ngừa rủi ro",
+    "cat": "economics"
+  },
+  {
+    "w": "recession",
+    "m": "suy thoái kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "stagflation",
+    "m": "lạm phát đình đốn",
+    "cat": "economics"
+  },
+  {
+    "w": "monopoly",
+    "m": "độc quyền",
+    "cat": "economics"
+  },
+  {
+    "w": "oligopoly",
+    "m": "độc quyền nhóm",
+    "cat": "economics"
+  },
+  {
+    "w": "deregulation",
+    "m": "sự bãi bỏ quy định",
+    "cat": "economics"
+  },
+  {
+    "w": "privatization",
+    "m": "sự tư nhân hóa",
+    "cat": "economics"
+  },
+  {
+    "w": "nationalization",
+    "m": "sự quốc hữu hóa",
+    "cat": "economics"
+  },
+  {
+    "w": "remittance",
+    "m": "kiều hối",
+    "cat": "economics"
+  },
+  {
+    "w": "depreciation",
+    "m": "sự khấu hao",
+    "cat": "economics"
+  },
+  {
+    "w": "amortization",
+    "m": "sự khấu hao dần",
+    "cat": "economics"
+  },
+  {
+    "w": "liquidity",
+    "m": "tính thanh khoản",
+    "cat": "economics"
+  },
+  {
+    "w": "solvency",
+    "m": "khả năng thanh toán",
+    "cat": "economics"
+  },
+  {
+    "w": "democracy",
+    "m": "nền dân chủ",
+    "cat": "politics"
+  },
+  {
+    "w": "oligarchy",
+    "m": "chế độ đầu sỏ",
+    "cat": "politics"
+  },
+  {
+    "w": "autocracy",
+    "m": "chế độ chuyên quyền",
+    "cat": "politics"
+  },
+  {
+    "w": "totalitarian",
+    "m": "toàn trị",
+    "cat": "politics"
+  },
+  {
+    "w": "authoritarian",
+    "m": "độc đoán",
+    "cat": "politics"
+  },
+  {
+    "w": "federalism",
+    "m": "chủ nghĩa liên bang",
+    "cat": "politics"
+  },
+  {
+    "w": "sovereignty",
+    "m": "chủ quyền",
+    "cat": "politics"
+  },
+  {
+    "w": "diplomacy",
+    "m": "ngoại giao",
+    "cat": "politics"
+  },
+  {
+    "w": "treaty",
+    "m": "hiệp ước",
+    "cat": "politics"
+  },
+  {
+    "w": "sanction",
+    "m": "lệnh trừng phạt",
+    "cat": "politics"
+  },
+  {
+    "w": "embargo",
+    "m": "lệnh cấm vận",
+    "cat": "politics"
+  },
+  {
+    "w": "coalition",
+    "m": "liên minh",
+    "cat": "politics"
+  },
+  {
+    "w": "referendum",
+    "m": "trưng cầu dân ý",
+    "cat": "politics"
+  },
+  {
+    "w": "constituency",
+    "m": "khu vực bầu cử",
+    "cat": "politics"
+  },
+  {
+    "w": "incumbent",
+    "m": "đương nhiệm",
+    "cat": "politics"
+  },
+  {
+    "w": "lobbyist",
+    "m": "người vận động hành lang",
+    "cat": "politics"
+  },
+  {
+    "w": "propaganda",
+    "m": "tuyên truyền",
+    "cat": "politics"
+  },
+  {
+    "w": "dissident",
+    "m": "người bất đồng chính kiến",
+    "cat": "politics"
+  },
+  {
+    "w": "insurgency",
+    "m": "cuộc nổi dậy",
+    "cat": "politics"
+  },
+  {
+    "w": "coup",
+    "m": "cuộc đảo chính",
+    "cat": "politics"
+  },
+  {
+    "w": "regime",
+    "m": "chế độ cai trị",
+    "cat": "politics"
+  },
+  {
+    "w": "manifesto",
+    "m": "bản tuyên ngôn",
+    "cat": "politics"
+  },
+  {
+    "w": "ratify",
+    "m": "phê chuẩn",
+    "cat": "politics"
+  },
+  {
+    "w": "veto",
+    "m": "quyền phủ quyết",
+    "cat": "politics"
+  },
+  {
+    "w": "impeachment",
+    "m": "sự luận tội",
+    "cat": "politics"
+  },
+  {
+    "w": "renewable energy",
+    "m": "năng lượng tái tạo",
+    "cat": "môi trường"
+  },
+  {
+    "w": "biodiversity",
+    "m": "đa dạng sinh học",
+    "cat": "môi trường"
+  },
+  {
+    "w": "deforestation",
+    "m": "nạn phá rừng",
+    "cat": "môi trường"
+  },
+  {
+    "w": "desertification",
+    "m": "sa mạc hóa",
+    "cat": "môi trường"
+  },
+  {
+    "w": "carbon footprint",
+    "m": "dấu chân carbon",
+    "cat": "môi trường"
+  },
+  {
+    "w": "greenhouse effect",
+    "m": "hiệu ứng nhà kính",
+    "cat": "môi trường"
+  },
+  {
+    "w": "global warming",
+    "m": "nóng lên toàn cầu",
+    "cat": "môi trường"
+  },
+  {
+    "w": "sustainability",
+    "m": "tính bền vững",
+    "cat": "môi trường"
+  },
+  {
+    "w": "conservation",
+    "m": "sự bảo tồn",
+    "cat": "môi trường"
+  },
+  {
+    "w": "contamination",
+    "m": "sự ô nhiễm",
+    "cat": "môi trường"
+  },
+  {
+    "w": "pollutant",
+    "m": "chất gây ô nhiễm",
+    "cat": "môi trường"
+  },
+  {
+    "w": "recycling",
+    "m": "sự tái chế",
+    "cat": "môi trường"
+  },
+  {
+    "w": "compost",
+    "m": "phân hữu cơ",
+    "cat": "môi trường"
+  },
+  {
+    "w": "emission",
+    "m": "khí thải",
+    "cat": "môi trường"
+  },
+  {
+    "w": "depletion",
+    "m": "sự cạn kiệt",
+    "cat": "môi trường"
+  },
+  {
+    "w": "ecosystem services",
+    "m": "dịch vụ hệ sinh thái",
+    "cat": "môi trường"
+  },
+  {
+    "w": "renewable",
+    "m": "tái tạo được",
+    "cat": "môi trường"
+  },
+  {
+    "w": "organic",
+    "m": "hữu cơ",
+    "cat": "môi trường"
+  },
+  {
+    "w": "biodegradable",
+    "m": "phân hủy sinh học",
+    "cat": "môi trường"
+  },
+  {
+    "w": "watershed",
+    "m": "lưu vực sông",
+    "cat": "môi trường"
+  },
+  {
+    "w": "cognition",
+    "m": "nhận thức",
+    "cat": "psychology"
+  },
+  {
+    "w": "perception",
+    "m": "tri giác",
+    "cat": "psychology"
+  },
+  {
+    "w": "motivation",
+    "m": "động lực",
+    "cat": "psychology"
+  },
+  {
+    "w": "reinforcement",
+    "m": "sự củng cố",
+    "cat": "psychology"
+  },
+  {
+    "w": "conditioning",
+    "m": "sự điều kiện hóa",
+    "cat": "psychology"
+  },
+  {
+    "w": "cognition bias",
+    "m": "thiên kiến nhận thức",
+    "cat": "psychology"
+  },
+  {
+    "w": "introvert",
+    "m": "người hướng nội",
+    "cat": "psychology"
+  },
+  {
+    "w": "extrovert",
+    "m": "người hướng ngoại",
+    "cat": "psychology"
+  },
+  {
+    "w": "neurosis",
+    "m": "chứng nhiễu tâm",
+    "cat": "psychology"
+  },
+  {
+    "w": "phobia",
+    "m": "chứng ám ảnh sợ",
+    "cat": "psychology"
+  },
+  {
+    "w": "trauma",
+    "m": "sang chấn tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "resilience",
+    "m": "khả năng phục hồi tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "empathy",
+    "m": "sự đồng cảm",
+    "cat": "psychology"
+  },
+  {
+    "w": "intuition",
+    "m": "trực giác",
+    "cat": "psychology"
+  },
+  {
+    "w": "subconscious",
+    "m": "tiềm thức",
+    "cat": "psychology"
+  },
+  {
+    "w": "temperament",
+    "m": "khí chất",
+    "cat": "psychology"
+  },
+  {
+    "w": "disposition",
+    "m": "khuynh hướng tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "self-esteem",
+    "m": "lòng tự trọng",
+    "cat": "psychology"
+  },
+  {
+    "w": "anxiety",
+    "m": "sự lo âu",
+    "cat": "psychology"
+  },
+  {
+    "w": "obsession",
+    "m": "sự ám ảnh",
+    "cat": "psychology"
+  },
+  {
+    "w": "narrative",
+    "m": "lối tự sự",
+    "cat": "literature"
+  },
+  {
+    "w": "protagonist",
+    "m": "nhân vật chính",
+    "cat": "literature"
+  },
+  {
+    "w": "antagonist",
+    "m": "nhân vật phản diện",
+    "cat": "literature"
+  },
+  {
+    "w": "climax",
+    "m": "cao trào",
+    "cat": "literature"
+  },
+  {
+    "w": "metaphor",
+    "m": "ẩn dụ",
+    "cat": "literature"
+  },
+  {
+    "w": "simile",
+    "m": "so sánh tu từ",
+    "cat": "literature"
+  },
+  {
+    "w": "personification",
+    "m": "nhân hóa",
+    "cat": "literature"
+  },
+  {
+    "w": "irony",
+    "m": "sự mỉa mai",
+    "cat": "literature"
+  },
+  {
+    "w": "symbolism",
+    "m": "chủ nghĩa tượng trưng",
+    "cat": "literature"
+  },
+  {
+    "w": "foreshadowing",
+    "m": "sự báo trước",
+    "cat": "literature"
+  },
+  {
+    "w": "imagery",
+    "m": "hình ảnh thơ văn",
+    "cat": "literature"
+  },
+  {
+    "w": "alliteration",
+    "m": "phép điệp âm đầu",
+    "cat": "literature"
+  },
+  {
+    "w": "prose",
+    "m": "văn xuôi",
+    "cat": "literature"
+  },
+  {
+    "w": "verse",
+    "m": "thơ, câu thơ",
+    "cat": "literature"
+  },
+  {
+    "w": "stanza",
+    "m": "khổ thơ",
+    "cat": "literature"
+  },
+  {
+    "w": "genre",
+    "m": "thể loại",
+    "cat": "literature"
+  },
+  {
+    "w": "manuscript",
+    "m": "bản thảo",
+    "cat": "literature"
+  },
+  {
+    "w": "anthology",
+    "m": "tuyển tập",
+    "cat": "literature"
+  },
+  {
+    "w": "memoir",
+    "m": "hồi ký",
+    "cat": "literature"
+  },
+  {
+    "w": "epic",
+    "m": "sử thi",
+    "cat": "literature"
+  },
+  {
+    "w": "sculpture",
+    "m": "điêu khắc",
+    "cat": "art"
+  },
+  {
+    "w": "portrait",
+    "m": "chân dung",
+    "cat": "art"
+  },
+  {
+    "w": "landscape",
+    "m": "tranh phong cảnh",
+    "cat": "art"
+  },
+  {
+    "w": "canvas",
+    "m": "vải vẽ tranh",
+    "cat": "art"
+  },
+  {
+    "w": "palette",
+    "m": "bảng màu",
+    "cat": "art"
+  },
+  {
+    "w": "perspective",
+    "m": "phối cảnh",
+    "cat": "art"
+  },
+  {
+    "w": "composition",
+    "m": "bố cục",
+    "cat": "art"
+  },
+  {
+    "w": "texture",
+    "m": "kết cấu bề mặt",
+    "cat": "art"
+  },
+  {
+    "w": "silhouette",
+    "m": "hình bóng",
+    "cat": "art"
+  },
+  {
+    "w": "mural",
+    "m": "bích họa",
+    "cat": "art"
+  },
+  {
+    "w": "fresco",
+    "m": "tranh tường ướt",
+    "cat": "art"
+  },
+  {
+    "w": "engraving",
+    "m": "tranh khắc",
+    "cat": "art"
+  },
+  {
+    "w": "ceramics",
+    "m": "đồ gốm sứ",
+    "cat": "art"
+  },
+  {
+    "w": "choreography",
+    "m": "biên đạo múa",
+    "cat": "art"
+  },
+  {
+    "w": "improvisation",
+    "m": "sự ứng tác",
+    "cat": "art"
+  },
+  {
+    "w": "composer",
+    "m": "nhà soạn nhạc",
+    "cat": "art"
+  },
+  {
+    "w": "symphony",
+    "m": "bản giao hưởng",
+    "cat": "art"
+  },
+  {
+    "w": "orchestra",
+    "m": "dàn nhạc",
+    "cat": "art"
+  },
+  {
+    "w": "acoustics",
+    "m": "âm học",
+    "cat": "art"
+  },
+  {
+    "w": "aesthetics",
+    "m": "thẩm mỹ học",
+    "cat": "art"
+  },
+  {
+    "w": "curriculum",
+    "m": "chương trình giảng dạy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "pedagogy",
+    "m": "phương pháp sư phạm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "literacy",
+    "m": "khả năng đọc viết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "numeracy",
+    "m": "khả năng tính toán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "scholarship",
+    "m": "học bổng; sự uyên bác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "thesis",
+    "m": "luận văn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dissertation",
+    "m": "luận án",
+    "cat": "học thuật"
+  },
+  {
+    "w": "seminar",
+    "m": "hội thảo chuyên đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "tutorial",
+    "m": "buổi phụ đạo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "accreditation",
+    "m": "sự công nhận, kiểm định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "plagiarism",
+    "m": "sự đạo văn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "citation",
+    "m": "trích dẫn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "peer review",
+    "m": "bình duyệt đồng cấp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "interdisciplinary",
+    "m": "liên ngành",
+    "cat": "học thuật"
+  },
+  {
+    "w": "empiricism",
+    "m": "chủ nghĩa kinh nghiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "rationale",
+    "m": "cơ sở lý luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "methodology",
+    "m": "phương pháp luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "correlation",
+    "m": "mối tương quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "variable",
+    "m": "biến số",
+    "cat": "học thuật"
+  },
+  {
+    "w": "hypothesis",
+    "m": "giả thuyết",
+    "cat": "học thuật"
+  }
+]

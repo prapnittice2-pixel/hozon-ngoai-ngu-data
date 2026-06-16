@@ -1,0 +1,1180 @@
+{
+  "hsk7Lessons": [
+    {
+      "title": "Bài 1: Văn học & Nghệ thuật",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 15,
+      "order": 1,
+      "content": {
+        "image": "/images/lessons/colors.svg",
+        "intro": "Bài học giới thiệu từ vựng HSK7 về văn học và nghệ thuật Trung Hoa, giúp bạn đọc hiểu các bài bình luận văn nghệ và diễn đạt cảm nhận thẩm mỹ một cách trang trọng.",
+        "vocabulary": [
+          {
+            "word": "文学",
+            "pinyin": "wén xué",
+            "meaning": "Văn học",
+            "example": "中国古典文学有着悠久的历史和深厚的底蕴。",
+            "example_vi": "Văn học cổ điển Trung Quốc có lịch sử lâu đời và nền tảng sâu dày.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "艺术",
+            "pinyin": "yì shù",
+            "meaning": "Nghệ thuật",
+            "example": "这座城市的街头艺术吸引了许多游客前来观赏。",
+            "example_vi": "Nghệ thuật đường phố của thành phố này thu hút rất nhiều du khách đến thưởng lãm.",
+            "tags": [
+              "nghệ thuật"
+            ]
+          },
+          {
+            "word": "鉴赏",
+            "pinyin": "jiàn shǎng",
+            "meaning": "Thưởng thức / giám định",
+            "example": "他从小就培养了鉴赏古代书画的能力。",
+            "example_vi": "Anh ấy từ nhỏ đã rèn luyện được khả năng thưởng thức và giám định thư họa cổ.",
+            "tags": [
+              "nghệ thuật"
+            ]
+          },
+          {
+            "word": "创作",
+            "pinyin": "chuàng zuò",
+            "meaning": "Sáng tác",
+            "example": "这位作家正在创作一部反映乡村生活的长篇小说。",
+            "example_vi": "Nhà văn này đang sáng tác một bộ tiểu thuyết dài phản ánh cuộc sống nông thôn.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "意境",
+            "pinyin": "yì jìng",
+            "meaning": "Ý cảnh",
+            "example": "这首唐诗的意境深远，令人回味无穷。",
+            "example_vi": "Ý cảnh của bài thơ Đường này sâu xa, khiến người ta ngẫm mãi không thôi.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "典故",
+            "pinyin": "diǎn gù",
+            "meaning": "Điển tích",
+            "example": "他的文章善于引用历史典故，富有文采。",
+            "example_vi": "Văn chương của ông giỏi trích dẫn điển tích lịch sử, rất giàu văn vẻ.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "美学",
+            "pinyin": "měi xué",
+            "meaning": "Mỹ học",
+            "example": "中国传统美学强调含蓄与和谐之美。",
+            "example_vi": "Mỹ học truyền thống Trung Quốc nhấn mạnh vẻ đẹp hàm súc và hài hòa.",
+            "tags": [
+              "nghệ thuật"
+            ]
+          },
+          {
+            "word": "雕塑",
+            "pinyin": "diāo sù",
+            "meaning": "Điêu khắc",
+            "example": "广场中央矗立着一座纪念英雄的青铜雕塑。",
+            "example_vi": "Giữa quảng trường sừng sững một bức tượng điêu khắc bằng đồng tưởng niệm các anh hùng.",
+            "tags": [
+              "nghệ thuật"
+            ]
+          },
+          {
+            "word": "笔墨",
+            "pinyin": "bǐ mò",
+            "meaning": "Bút mực / văn chương",
+            "example": "这位画家的笔墨功夫深厚，作品意趣盎然。",
+            "example_vi": "Công phu bút mực của họa sĩ này rất sâu dày, tác phẩm tràn đầy ý vị.",
+            "tags": [
+              "nghệ thuật"
+            ]
+          },
+          {
+            "word": "传承",
+            "pinyin": "chuán chéng",
+            "meaning": "Truyền thừa",
+            "example": "非物质文化遗产需要一代代人的传承与保护。",
+            "example_vi": "Di sản văn hóa phi vật thể cần được các thế hệ truyền thừa và bảo vệ.",
+            "tags": [
+              "văn hóa"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "以……为…… — Lấy ... làm ...",
+            "explanation": "Cấu trúc văn viết trang trọng dùng để nêu rõ đối tượng được coi là trung tâm, tiêu chuẩn hoặc nền tảng. Thường gặp trong văn bản học thuật và bình luận nghệ thuật.",
+            "examples": [
+              "中国画以意境为灵魂。= Tranh Trung Quốc lấy ý cảnh làm linh hồn.",
+              "这部小说以历史事件为背景，描写了普通人的命运。= Bộ tiểu thuyết này lấy sự kiện lịch sử làm bối cảnh, miêu tả số phận của những con người bình thường."
+            ]
+          },
+          {
+            "title": "堪称 — Đáng được gọi là / xứng danh",
+            "explanation": "Động từ văn viết mang sắc thái khen ngợi cao, dùng để đánh giá một sự vật đạt tới trình độ xuất sắc, thường đi với danh ngữ như 杰作、一绝、典范.",
+            "examples": [
+              "这幅山水画堪称传世之作。= Bức tranh sơn thủy này đáng được gọi là kiệt tác lưu truyền hậu thế.",
+              "他的书法刚柔并济，堪称一绝。= Thư pháp của ông cương nhu hòa quyện, xứng danh tuyệt kỹ."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ 「意境」 có nghĩa là gì?",
+            "options": [
+              "Ý cảnh",
+              "Điển tích",
+              "Điêu khắc",
+              "Mỹ học"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Sáng tác\"?",
+            "options": [
+              "鉴赏",
+              "创作",
+              "传承",
+              "笔墨"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "文学",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Văn học",
+              "Nghệ thuật",
+              "Mỹ học",
+              "Truyền thừa"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "雕塑",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Bút mực",
+              "Ý cảnh",
+              "Điêu khắc",
+              "Điển tích"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 非物质文化遗产需要一代代人的___与保护。",
+            "options": [
+              "传承",
+              "雕塑",
+              "典故",
+              "美学"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Nghệ thuật\"",
+            "options": [
+              "艺术"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 2: Triết học Nho gia",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 15,
+      "order": 2,
+      "content": {
+        "image": "/images/lessons/family.svg",
+        "intro": "Bài học cung cấp từ vựng HSK7 về tư tưởng Nho gia — nền tảng triết học có ảnh hưởng sâu rộng đến văn hóa Đông Á, giúp bạn đọc hiểu các văn bản bàn về đạo đức và triết lý sống.",
+        "vocabulary": [
+          {
+            "word": "儒家",
+            "pinyin": "rú jiā",
+            "meaning": "Nho gia",
+            "example": "儒家思想对东亚文化产生了深远的影响。",
+            "example_vi": "Tư tưởng Nho gia đã có ảnh hưởng sâu xa đến văn hóa Đông Á.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "仁义",
+            "pinyin": "rén yì",
+            "meaning": "Nhân nghĩa",
+            "example": "古人把仁义视为做人最基本的准则。",
+            "example_vi": "Người xưa coi nhân nghĩa là chuẩn mực cơ bản nhất của đạo làm người.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "礼制",
+            "pinyin": "lǐ zhì",
+            "meaning": "Lễ chế",
+            "example": "周代的礼制规范了社会各阶层的行为。",
+            "example_vi": "Lễ chế thời nhà Chu đã quy phạm hành vi của các tầng lớp trong xã hội.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "道德",
+            "pinyin": "dào dé",
+            "meaning": "Đạo đức",
+            "example": "一个社会的进步离不开道德水平的提高。",
+            "example_vi": "Sự tiến bộ của một xã hội không thể tách rời việc nâng cao trình độ đạo đức.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "君子",
+            "pinyin": "jūn zǐ",
+            "meaning": "Quân tử",
+            "example": "孔子说，君子坦荡荡，小人长戚戚。",
+            "example_vi": "Khổng Tử nói: quân tử thản nhiên rộng rãi, tiểu nhân luôn lo lắng u sầu.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "修身",
+            "pinyin": "xiū shēn",
+            "meaning": "Tu thân",
+            "example": "古人讲究修身齐家治国平天下。",
+            "example_vi": "Người xưa chú trọng tu thân, tề gia, trị quốc, bình thiên hạ.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "天命",
+            "pinyin": "tiān mìng",
+            "meaning": "Thiên mệnh",
+            "example": "五十而知天命，是孔子对人生阶段的总结。",
+            "example_vi": "Năm mươi tuổi biết thiên mệnh — đó là lời tổng kết của Khổng Tử về các giai đoạn cuộc đời.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "义务",
+            "pinyin": "yì wù",
+            "meaning": "Nghĩa vụ",
+            "example": "赡养父母是每个子女应尽的义务。",
+            "example_vi": "Phụng dưỡng cha mẹ là nghĩa vụ mà mỗi người con phải làm tròn.",
+            "tags": [
+              "đạo đức"
+            ]
+          },
+          {
+            "word": "诚信",
+            "pinyin": "chéng xìn",
+            "meaning": "Thành tín",
+            "example": "诚信是儒家提倡的重要美德之一。",
+            "example_vi": "Thành tín là một trong những đức tính quan trọng mà Nho gia đề xướng.",
+            "tags": [
+              "đạo đức"
+            ]
+          },
+          {
+            "word": "和谐",
+            "pinyin": "hé xié",
+            "meaning": "Hài hòa",
+            "example": "儒家追求人与人之间和谐相处的理想社会。",
+            "example_vi": "Nho gia theo đuổi một xã hội lý tưởng nơi con người chung sống hài hòa với nhau.",
+            "tags": [
+              "triết học"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "所谓……，就是…… — Cái gọi là ..., chính là ...",
+            "explanation": "Cấu trúc định nghĩa trang trọng, thường dùng trong văn bản học thuật để giải thích một khái niệm trước khi bàn luận sâu hơn.",
+            "examples": [
+              "所谓君子，就是品德高尚、言行一致的人。= Cái gọi là quân tử, chính là người phẩm đức cao thượng, lời nói đi đôi với việc làm.",
+              "所谓修身，就是不断完善自己的品格与修养。= Cái gọi là tu thân, chính là không ngừng hoàn thiện phẩm cách và tu dưỡng của bản thân."
+            ]
+          },
+          {
+            "title": "视……为…… — Coi ... là ...",
+            "explanation": "Cấu trúc văn viết tương đương 把……看作, mang sắc thái trang trọng, thường dùng khi nêu quan điểm, đánh giá mang tính khái quát trong văn nghị luận.",
+            "examples": [
+              "古人视诚信为立身之本。= Người xưa coi thành tín là gốc rễ để lập thân.",
+              "儒家视和谐为社会的最高理想。= Nho gia coi hài hòa là lý tưởng cao nhất của xã hội."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Trong tư tưởng Nho gia, 「君子」 chỉ ai?",
+            "options": [
+              "Người có phẩm đức cao thượng",
+              "Vua chúa",
+              "Quan lại triều đình",
+              "Người giàu có"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Tu thân\"?",
+            "options": [
+              "天命",
+              "诚信",
+              "修身",
+              "礼制"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "儒家",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Nho gia",
+              "Đạo đức",
+              "Nhân nghĩa",
+              "Lễ chế"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "和谐",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Thành tín",
+              "Nghĩa vụ",
+              "Hài hòa",
+              "Thiên mệnh"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 赡养父母是每个子女应尽的___。",
+            "options": [
+              "义务",
+              "天命",
+              "君子",
+              "仁义"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Đạo đức\"",
+            "options": [
+              "道德"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 3: Pháp luật & Tư pháp",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 15,
+      "order": 3,
+      "content": {
+        "image": "/images/lessons/comparison.svg",
+        "intro": "Bài học trang bị từ vựng HSK7 về pháp luật và hệ thống tư pháp, giúp bạn đọc hiểu tin tức pháp lý và các văn bản hành chính trang trọng.",
+        "vocabulary": [
+          {
+            "word": "法制",
+            "pinyin": "fǎ zhì",
+            "meaning": "Pháp chế",
+            "example": "健全的法制是社会稳定的重要保障。",
+            "example_vi": "Pháp chế kiện toàn là sự bảo đảm quan trọng cho ổn định xã hội.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "司法",
+            "pinyin": "sī fǎ",
+            "meaning": "Tư pháp",
+            "example": "司法机关必须依法独立行使审判权。",
+            "example_vi": "Cơ quan tư pháp phải độc lập thực thi quyền xét xử theo pháp luật.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "诉讼",
+            "pinyin": "sù sòng",
+            "meaning": "Tố tụng",
+            "example": "双方协商不成，最终走上了诉讼的道路。",
+            "example_vi": "Hai bên thương lượng không thành, cuối cùng phải đi theo con đường tố tụng.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "判决",
+            "pinyin": "pàn jué",
+            "meaning": "Phán quyết",
+            "example": "法院的判决结果将于下周正式公布。",
+            "example_vi": "Kết quả phán quyết của tòa án sẽ được công bố chính thức vào tuần sau.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "辩护",
+            "pinyin": "biàn hù",
+            "meaning": "Biện hộ",
+            "example": "每个被告人都有获得律师辩护的权利。",
+            "example_vi": "Mỗi bị cáo đều có quyền được luật sư biện hộ.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "仲裁",
+            "pinyin": "zhòng cái",
+            "meaning": "Trọng tài",
+            "example": "这起商业纠纷将提交国际仲裁机构处理。",
+            "example_vi": "Vụ tranh chấp thương mại này sẽ được đưa lên cơ quan trọng tài quốc tế xử lý.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "立法",
+            "pinyin": "lì fǎ",
+            "meaning": "Lập pháp",
+            "example": "立法机关正在审议一部新的环境保护法。",
+            "example_vi": "Cơ quan lập pháp đang thẩm định một bộ luật bảo vệ môi trường mới.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "执法",
+            "pinyin": "zhí fǎ",
+            "meaning": "Thực thi pháp luật",
+            "example": "执法人员必须严格按照法定程序办事。",
+            "example_vi": "Nhân viên thực thi pháp luật phải làm việc nghiêm ngặt theo trình tự luật định.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "权益",
+            "pinyin": "quán yì",
+            "meaning": "Quyền lợi",
+            "example": "这部法律旨在保护消费者的合法权益。",
+            "example_vi": "Bộ luật này nhằm bảo vệ quyền lợi hợp pháp của người tiêu dùng.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "制裁",
+            "pinyin": "zhì cái",
+            "meaning": "Chế tài",
+            "example": "任何违法行为都将受到法律的制裁。",
+            "example_vi": "Mọi hành vi vi phạm pháp luật đều sẽ chịu sự chế tài của pháp luật.",
+            "tags": [
+              "pháp luật"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "旨在 — Nhằm mục đích",
+            "explanation": "Động từ văn viết trang trọng đứng sau chủ ngữ là văn kiện, chính sách, hoạt động, dùng để nêu mục đích. Rất phổ biến trong văn bản pháp luật và báo chí chính luận.",
+            "examples": [
+              "这项规定旨在维护市场的公平秩序。= Quy định này nhằm duy trì trật tự công bằng của thị trường.",
+              "该法案旨在保障劳动者的合法权益。= Dự luật này nhằm bảo đảm quyền lợi hợp pháp của người lao động."
+            ]
+          },
+          {
+            "title": "一旦……，就/将…… — Một khi ..., thì/sẽ ...",
+            "explanation": "Cấu trúc giả định trang trọng nhấn mạnh hệ quả tất yếu xảy ra ngay khi điều kiện được thỏa mãn, thường gặp trong điều khoản hợp đồng và văn bản pháp lý.",
+            "examples": [
+              "一旦合同生效，双方就必须履行各自的义务。= Một khi hợp đồng có hiệu lực, hai bên phải thực hiện nghĩa vụ của mình.",
+              "一旦查实违法行为，将依法严肃处理。= Một khi xác minh được hành vi vi phạm, sẽ xử lý nghiêm theo pháp luật."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ 「诉讼」 có nghĩa là gì?",
+            "options": [
+              "Tố tụng",
+              "Phán quyết",
+              "Biện hộ",
+              "Trọng tài"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Lập pháp\"?",
+            "options": [
+              "执法",
+              "立法",
+              "司法",
+              "法制"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "判决",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Phán quyết",
+              "Chế tài",
+              "Quyền lợi",
+              "Tố tụng"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "权益",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Pháp chế",
+              "Biện hộ",
+              "Quyền lợi",
+              "Trọng tài"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 任何违法行为都将受到法律的___。",
+            "options": [
+              "制裁",
+              "辩护",
+              "仲裁",
+              "立法"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Tư pháp\"",
+            "options": [
+              "司法"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 4: Khoa học & Công nghệ",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 15,
+      "order": 4,
+      "content": {
+        "image": "/images/lessons/future.svg",
+        "intro": "Bài học giới thiệu từ vựng HSK7 về khoa học công nghệ hiện đại — từ trí tuệ nhân tạo đến hàng không vũ trụ, giúp bạn đọc hiểu các bài báo khoa học phổ thông.",
+        "vocabulary": [
+          {
+            "word": "科技",
+            "pinyin": "kē jì",
+            "meaning": "Khoa học công nghệ",
+            "example": "科技的飞速发展改变了人们的生活方式。",
+            "example_vi": "Sự phát triển vũ bão của khoa học công nghệ đã thay đổi lối sống của con người.",
+            "tags": [
+              "khoa học"
+            ]
+          },
+          {
+            "word": "创新",
+            "pinyin": "chuàng xīn",
+            "meaning": "Đổi mới sáng tạo",
+            "example": "创新是推动社会进步的核心动力。",
+            "example_vi": "Đổi mới sáng tạo là động lực cốt lõi thúc đẩy xã hội tiến bộ.",
+            "tags": [
+              "khoa học"
+            ]
+          },
+          {
+            "word": "数字化",
+            "pinyin": "shù zì huà",
+            "meaning": "Số hóa",
+            "example": "许多传统企业正在加快数字化转型的步伐。",
+            "example_vi": "Nhiều doanh nghiệp truyền thống đang đẩy nhanh bước chuyển đổi số.",
+            "tags": [
+              "công nghệ"
+            ]
+          },
+          {
+            "word": "人工智能",
+            "pinyin": "rén gōng zhì néng",
+            "meaning": "Trí tuệ nhân tạo",
+            "example": "人工智能技术已广泛应用于医疗和教育领域。",
+            "example_vi": "Công nghệ trí tuệ nhân tạo đã được ứng dụng rộng rãi trong lĩnh vực y tế và giáo dục.",
+            "tags": [
+              "công nghệ"
+            ]
+          },
+          {
+            "word": "基因",
+            "pinyin": "jī yīn",
+            "meaning": "Gene",
+            "example": "科学家通过基因编辑技术治疗罕见疾病。",
+            "example_vi": "Các nhà khoa học dùng công nghệ chỉnh sửa gene để điều trị bệnh hiếm gặp.",
+            "tags": [
+              "khoa học"
+            ]
+          },
+          {
+            "word": "量子",
+            "pinyin": "liàng zǐ",
+            "meaning": "Lượng tử",
+            "example": "量子计算机的运算速度远远超过传统计算机。",
+            "example_vi": "Tốc độ tính toán của máy tính lượng tử vượt xa máy tính truyền thống.",
+            "tags": [
+              "khoa học"
+            ]
+          },
+          {
+            "word": "纳米",
+            "pinyin": "nà mǐ",
+            "meaning": "Nano",
+            "example": "纳米材料在医学领域具有广阔的应用前景。",
+            "example_vi": "Vật liệu nano có triển vọng ứng dụng rộng lớn trong lĩnh vực y học.",
+            "tags": [
+              "khoa học"
+            ]
+          },
+          {
+            "word": "航天",
+            "pinyin": "háng tiān",
+            "meaning": "Hàng không vũ trụ",
+            "example": "中国的航天事业近年来取得了举世瞩目的成就。",
+            "example_vi": "Ngành hàng không vũ trụ Trung Quốc những năm gần đây đạt được thành tựu khiến cả thế giới chú ý.",
+            "tags": [
+              "khoa học"
+            ]
+          },
+          {
+            "word": "突破",
+            "pinyin": "tū pò",
+            "meaning": "Đột phá",
+            "example": "研究团队在新能源电池技术上取得了重大突破。",
+            "example_vi": "Nhóm nghiên cứu đã đạt được đột phá quan trọng về công nghệ pin năng lượng mới.",
+            "tags": [
+              "khoa học"
+            ]
+          },
+          {
+            "word": "应用",
+            "pinyin": "yìng yòng",
+            "meaning": "Ứng dụng",
+            "example": "这项技术的实际应用还需要进一步验证。",
+            "example_vi": "Việc ứng dụng thực tế của công nghệ này còn cần kiểm chứng thêm.",
+            "tags": [
+              "công nghệ"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "随着……的……，…… — Cùng với sự ... của ...",
+            "explanation": "Cấu trúc mở đầu câu trang trọng nêu bối cảnh biến đổi, vế sau trình bày kết quả hoặc xu thế kèm theo. Đây là khuôn câu kinh điển trong văn bản khoa học và báo chí.",
+            "examples": [
+              "随着科技的进步，人们的生活越来越便利。= Cùng với sự tiến bộ của khoa học công nghệ, cuộc sống con người ngày càng tiện lợi.",
+              "随着人工智能的普及，许多行业正在发生深刻的变革。= Cùng với sự phổ cập của trí tuệ nhân tạo, nhiều ngành nghề đang diễn ra biến đổi sâu sắc."
+            ]
+          },
+          {
+            "title": "在……领域/方面取得…… — Đạt được ... trong lĩnh vực ...",
+            "explanation": "Khuôn diễn đạt thành tựu trang trọng, thường kết hợp với các danh ngữ như 重大突破、显著成效、举世瞩目的成就 trong văn viết học thuật và tin tức.",
+            "examples": [
+              "我国在航天领域取得了重大突破。= Nước ta đã đạt được đột phá quan trọng trong lĩnh vực hàng không vũ trụ.",
+              "该公司在数字化转型方面取得了显著成效。= Công ty này đạt hiệu quả rõ rệt trong chuyển đổi số."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ 「突破」 có nghĩa là gì?",
+            "options": [
+              "Đột phá",
+              "Ứng dụng",
+              "Đổi mới",
+              "Số hóa"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Trí tuệ nhân tạo\"?",
+            "options": [
+              "量子",
+              "人工智能",
+              "纳米",
+              "基因"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "航天",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Hàng không vũ trụ",
+              "Lượng tử",
+              "Gene",
+              "Nano"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "创新",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Số hóa",
+              "Ứng dụng",
+              "Đổi mới sáng tạo",
+              "Đột phá"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 随着___的进步，人们的生活越来越便利。",
+            "options": [
+              "科技",
+              "基因",
+              "纳米",
+              "雕塑"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Số hóa\"",
+            "options": [
+              "数字化"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 5: Môi trường bền vững",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 15,
+      "order": 5,
+      "content": {
+        "image": "/images/lessons/weather.svg",
+        "intro": "Bài học cung cấp từ vựng HSK7 về môi trường và phát triển bền vững, giúp bạn theo dõi các bản tin khí hậu và văn kiện chính sách môi trường.",
+        "vocabulary": [
+          {
+            "word": "可持续",
+            "pinyin": "kě chí xù",
+            "meaning": "Bền vững",
+            "example": "可持续发展已成为全球共同追求的目标。",
+            "example_vi": "Phát triển bền vững đã trở thành mục tiêu chung mà toàn cầu theo đuổi.",
+            "tags": [
+              "môi trường"
+            ]
+          },
+          {
+            "word": "生态",
+            "pinyin": "shēng tài",
+            "meaning": "Sinh thái",
+            "example": "保护生态环境就是保护人类自己的家园。",
+            "example_vi": "Bảo vệ môi trường sinh thái chính là bảo vệ ngôi nhà của chính loài người.",
+            "tags": [
+              "môi trường"
+            ]
+          },
+          {
+            "word": "碳排放",
+            "pinyin": "tàn pái fàng",
+            "meaning": "Phát thải carbon",
+            "example": "各国承诺逐步减少碳排放，应对全球变暖。",
+            "example_vi": "Các nước cam kết từng bước giảm phát thải carbon để ứng phó với sự nóng lên toàn cầu.",
+            "tags": [
+              "môi trường"
+            ]
+          },
+          {
+            "word": "气候变化",
+            "pinyin": "qì hòu biàn huà",
+            "meaning": "Biến đổi khí hậu",
+            "example": "气候变化对农业生产造成了严重的影响。",
+            "example_vi": "Biến đổi khí hậu đã gây ảnh hưởng nghiêm trọng đến sản xuất nông nghiệp.",
+            "tags": [
+              "môi trường"
+            ]
+          },
+          {
+            "word": "生物多样性",
+            "pinyin": "shēng wù duō yàng xìng",
+            "meaning": "Đa dạng sinh học",
+            "example": "热带雨林是地球上生物多样性最丰富的地区。",
+            "example_vi": "Rừng mưa nhiệt đới là khu vực có đa dạng sinh học phong phú nhất trên Trái Đất.",
+            "tags": [
+              "môi trường"
+            ]
+          },
+          {
+            "word": "新能源",
+            "pinyin": "xīn néng yuán",
+            "meaning": "Năng lượng mới",
+            "example": "新能源汽车的市场份额正在逐年上升。",
+            "example_vi": "Thị phần xe năng lượng mới đang tăng lên theo từng năm.",
+            "tags": [
+              "năng lượng"
+            ]
+          },
+          {
+            "word": "节能减排",
+            "pinyin": "jié néng jiǎn pái",
+            "meaning": "Tiết kiệm năng lượng giảm phát thải",
+            "example": "工厂通过技术改造实现了节能减排的目标。",
+            "example_vi": "Nhà máy đã đạt mục tiêu tiết kiệm năng lượng giảm phát thải nhờ cải tạo công nghệ.",
+            "tags": [
+              "năng lượng"
+            ]
+          },
+          {
+            "word": "绿色发展",
+            "pinyin": "lǜ sè fā zhǎn",
+            "meaning": "Phát triển xanh",
+            "example": "绿色发展理念正在深入人心。",
+            "example_vi": "Triết lý phát triển xanh đang đi sâu vào lòng người.",
+            "tags": [
+              "môi trường"
+            ]
+          },
+          {
+            "word": "保护区",
+            "pinyin": "bǎo hù qū",
+            "meaning": "Khu bảo tồn",
+            "example": "这个自然保护区栖息着许多珍稀的野生动物。",
+            "example_vi": "Khu bảo tồn thiên nhiên này là nơi cư trú của nhiều động vật hoang dã quý hiếm.",
+            "tags": [
+              "môi trường"
+            ]
+          },
+          {
+            "word": "污染",
+            "pinyin": "wū rǎn",
+            "meaning": "Ô nhiễm",
+            "example": "治理空气污染需要全社会的共同努力。",
+            "example_vi": "Xử lý ô nhiễm không khí cần sự nỗ lực chung của toàn xã hội.",
+            "tags": [
+              "môi trường"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "对……造成/产生……影响 — Gây ra / tạo ra ảnh hưởng đối với ...",
+            "explanation": "Khuôn câu văn viết nêu tác động của một hiện tượng lên đối tượng. 造成 thường đi với ảnh hưởng tiêu cực, 产生 trung tính; tân ngữ thường kèm định ngữ như 严重的、深远的、负面的.",
+            "examples": [
+              "气候变化对粮食安全造成了严重的威胁。= Biến đổi khí hậu đã gây ra mối đe dọa nghiêm trọng đối với an ninh lương thực.",
+              "过度开发对生态系统产生了负面的影响。= Khai thác quá mức đã tạo ra ảnh hưởng tiêu cực đối với hệ sinh thái."
+            ]
+          },
+          {
+            "title": "通过……实现/达到…… — Thông qua ... để thực hiện / đạt được ...",
+            "explanation": "Cấu trúc trang trọng nêu phương thức ở vế trước và mục tiêu đạt được ở vế sau, thường gặp trong báo cáo chính sách và văn bản kế hoạch.",
+            "examples": [
+              "工厂通过技术改造实现了节能减排。= Nhà máy thông qua cải tạo công nghệ đã thực hiện được tiết kiệm năng lượng giảm phát thải.",
+              "我们要通过绿色发展实现人与自然的和谐共生。= Chúng ta phải thông qua phát triển xanh để đạt được sự cộng sinh hài hòa giữa con người và tự nhiên."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ 「生态」 có nghĩa là gì?",
+            "options": [
+              "Sinh thái",
+              "Ô nhiễm",
+              "Bền vững",
+              "Khu bảo tồn"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Biến đổi khí hậu\"?",
+            "options": [
+              "碳排放",
+              "新能源",
+              "气候变化",
+              "绿色发展"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "污染",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Ô nhiễm",
+              "Sinh thái",
+              "Năng lượng mới",
+              "Phát thải carbon"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "可持续",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Phát triển xanh",
+              "Đa dạng sinh học",
+              "Bền vững",
+              "Khu bảo tồn"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 各国承诺逐步减少___，应对全球变暖。",
+            "options": [
+              "碳排放",
+              "保护区",
+              "生物多样性",
+              "新能源"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Ô nhiễm\"",
+            "options": [
+              "污染"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 6: Quan hệ quốc tế",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 15,
+      "order": 6,
+      "content": {
+        "image": "/images/lessons/places.svg",
+        "intro": "Bài học giới thiệu từ vựng HSK7 về ngoại giao và quan hệ quốc tế, giúp bạn đọc hiểu các bản tin thời sự quốc tế và văn kiện ngoại giao trang trọng.",
+        "vocabulary": [
+          {
+            "word": "外交",
+            "pinyin": "wài jiāo",
+            "meaning": "Ngoại giao",
+            "example": "两国通过外交途径解决了边界问题。",
+            "example_vi": "Hai nước đã giải quyết vấn đề biên giới thông qua con đường ngoại giao.",
+            "tags": [
+              "quốc tế"
+            ]
+          },
+          {
+            "word": "主权",
+            "pinyin": "zhǔ quán",
+            "meaning": "Chủ quyền",
+            "example": "尊重国家主权是国际关系的基本准则。",
+            "example_vi": "Tôn trọng chủ quyền quốc gia là chuẩn tắc cơ bản của quan hệ quốc tế.",
+            "tags": [
+              "quốc tế"
+            ]
+          },
+          {
+            "word": "多边",
+            "pinyin": "duō biān",
+            "meaning": "Đa phương",
+            "example": "多边合作机制有助于维护世界的和平与稳定。",
+            "example_vi": "Cơ chế hợp tác đa phương giúp duy trì hòa bình và ổn định thế giới.",
+            "tags": [
+              "quốc tế"
+            ]
+          },
+          {
+            "word": "合作",
+            "pinyin": "hé zuò",
+            "meaning": "Hợp tác",
+            "example": "双方在经贸领域开展了广泛的合作。",
+            "example_vi": "Hai bên đã triển khai hợp tác rộng rãi trong lĩnh vực kinh tế thương mại.",
+            "tags": [
+              "quốc tế"
+            ]
+          },
+          {
+            "word": "峰会",
+            "pinyin": "fēng huì",
+            "meaning": "Hội nghị thượng đỉnh",
+            "example": "本届气候峰会吸引了上百个国家的领导人出席。",
+            "example_vi": "Hội nghị thượng đỉnh khí hậu lần này thu hút lãnh đạo của hơn trăm quốc gia tham dự.",
+            "tags": [
+              "quốc tế"
+            ]
+          },
+          {
+            "word": "条约",
+            "pinyin": "tiáo yuē",
+            "meaning": "Hiệp ước",
+            "example": "两国正式签署了友好合作条约。",
+            "example_vi": "Hai nước đã chính thức ký kết hiệp ước hợp tác hữu nghị.",
+            "tags": [
+              "quốc tế"
+            ]
+          },
+          {
+            "word": "争端",
+            "pinyin": "zhēng duān",
+            "meaning": "Tranh chấp",
+            "example": "国际争端应当通过和平方式加以解决。",
+            "example_vi": "Tranh chấp quốc tế cần được giải quyết bằng phương thức hòa bình.",
+            "tags": [
+              "quốc tế"
+            ]
+          },
+          {
+            "word": "共识",
+            "pinyin": "gòng shí",
+            "meaning": "Đồng thuận",
+            "example": "经过多轮谈判，双方终于达成了共识。",
+            "example_vi": "Sau nhiều vòng đàm phán, hai bên cuối cùng đã đạt được đồng thuận.",
+            "tags": [
+              "quốc tế"
+            ]
+          },
+          {
+            "word": "倡议",
+            "pinyin": "chàng yì",
+            "meaning": "Sáng kiến",
+            "example": "这一倡议得到了许多国家的积极响应。",
+            "example_vi": "Sáng kiến này đã nhận được sự hưởng ứng tích cực của nhiều quốc gia.",
+            "tags": [
+              "quốc tế"
+            ]
+          },
+          {
+            "word": "制裁",
+            "pinyin": "zhì cái",
+            "meaning": "Chế tài / trừng phạt",
+            "example": "经济制裁往往会影响普通民众的生活。",
+            "example_vi": "Trừng phạt kinh tế thường ảnh hưởng đến cuộc sống của người dân bình thường.",
+            "tags": [
+              "quốc tế"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "就……达成…… — Về vấn đề ... đạt được ...",
+            "explanation": "Giới từ 就 trong văn viết dẫn ra phạm vi hoặc vấn đề được bàn luận, kết hợp với 达成共识/达成一致/达成协议 tạo thành khuôn diễn đạt kinh điển trong tin tức ngoại giao.",
+            "examples": [
+              "双方就贸易问题达成了重要共识。= Hai bên đã đạt được đồng thuận quan trọng về vấn đề thương mại.",
+              "各国就减排目标达成了一致意见。= Các nước đã đạt được ý kiến nhất trí về mục tiêu giảm phát thải."
+            ]
+          },
+          {
+            "title": "应当 + động từ / 加以 + động từ — Cần phải ... (văn viết)",
+            "explanation": "应当 là dạng trang trọng của 应该 trong văn bản pháp lý và ngoại giao; 加以 đứng trước động từ song âm tiết (解决、处理、改进) thay cho cách nói trực tiếp, làm câu văn thêm trang trọng.",
+            "examples": [
+              "国际争端应当通过对话加以解决。= Tranh chấp quốc tế cần được giải quyết thông qua đối thoại.",
+              "对于合理的倡议，各方应当予以积极支持。= Đối với những sáng kiến hợp lý, các bên cần tích cực ủng hộ."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ 「峰会」 có nghĩa là gì?",
+            "options": [
+              "Hội nghị thượng đỉnh",
+              "Hiệp ước",
+              "Sáng kiến",
+              "Đồng thuận"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Chủ quyền\"?",
+            "options": [
+              "外交",
+              "争端",
+              "多边",
+              "主权"
+            ],
+            "ans": 3
+          },
+          {
+            "type": "listen",
+            "word": "条约",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Hiệp ước",
+              "Tranh chấp",
+              "Hợp tác",
+              "Chế tài"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "共识",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Sáng kiến",
+              "Đa phương",
+              "Đồng thuận",
+              "Ngoại giao"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 经过多轮谈判，双方终于达成了___。",
+            "options": [
+              "共识",
+              "制裁",
+              "争端",
+              "主权"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Hợp tác\"",
+            "options": [
+              "合作"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    }
+  ]
+}

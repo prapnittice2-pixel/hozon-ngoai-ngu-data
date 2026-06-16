@@ -1,0 +1,732 @@
+[
+  {
+    "w": "scaffolding",
+    "m": "giàn giáo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "foundation",
+    "m": "nền móng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "beam",
+    "m": "xà, dầm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pillar",
+    "m": "cột trụ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "column",
+    "m": "cột",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "arch",
+    "m": "vòm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "dome",
+    "m": "mái vòm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "facade",
+    "m": "mặt tiền",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "balcony",
+    "m": "ban công",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "porch",
+    "m": "hiên nhà",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "corridor",
+    "m": "hành lang",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "staircase",
+    "m": "cầu thang",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "banister",
+    "m": "tay vịn cầu thang",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "threshold",
+    "m": "ngưỡng cửa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "chimney",
+    "m": "ống khói",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "gutter",
+    "m": "máng xối",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "shutter",
+    "m": "cửa chớp",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "awning",
+    "m": "mái hiên che",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "partition",
+    "m": "vách ngăn",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "insulation",
+    "m": "vật liệu cách nhiệt",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "plumbing",
+    "m": "hệ thống ống nước",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "wiring",
+    "m": "hệ thống dây điện",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "ventilation",
+    "m": "hệ thống thông gió",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "thermostat",
+    "m": "bộ điều nhiệt",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "tile",
+    "m": "gạch lát",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "brick",
+    "m": "viên gạch",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "cement",
+    "m": "xi măng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "concrete",
+    "m": "bê tông",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "plaster",
+    "m": "vữa trát",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "timber",
+    "m": "gỗ xây dựng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "plywood",
+    "m": "gỗ dán",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "hovercraft",
+    "m": "tàu đệm khí",
+    "cat": "giao thông"
+  },
+  {
+    "w": "submarine",
+    "m": "tàu ngầm",
+    "cat": "giao thông"
+  },
+  {
+    "w": "yacht",
+    "m": "du thuyền",
+    "cat": "giao thông"
+  },
+  {
+    "w": "canoe",
+    "m": "xuồng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "kayak",
+    "m": "thuyền kayak",
+    "cat": "giao thông"
+  },
+  {
+    "w": "raft",
+    "m": "bè",
+    "cat": "giao thông"
+  },
+  {
+    "w": "barge",
+    "m": "sà lan",
+    "cat": "giao thông"
+  },
+  {
+    "w": "ferry",
+    "m": "phà",
+    "cat": "giao thông"
+  },
+  {
+    "w": "tram",
+    "m": "tàu điện",
+    "cat": "giao thông"
+  },
+  {
+    "w": "trolley",
+    "m": "xe điện bánh hơi",
+    "cat": "giao thông"
+  },
+  {
+    "w": "carriage",
+    "m": "toa tàu, xe ngựa",
+    "cat": "giao thông"
+  },
+  {
+    "w": "wagon",
+    "m": "toa hàng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "van",
+    "m": "xe tải nhỏ",
+    "cat": "giao thông"
+  },
+  {
+    "w": "lorry",
+    "m": "xe tải",
+    "cat": "giao thông"
+  },
+  {
+    "w": "truck",
+    "m": "xe tải",
+    "cat": "giao thông"
+  },
+  {
+    "w": "trailer",
+    "m": "rơ-moóc",
+    "cat": "giao thông"
+  },
+  {
+    "w": "bulldozer",
+    "m": "máy ủi",
+    "cat": "giao thông"
+  },
+  {
+    "w": "crane",
+    "m": "cần cẩu",
+    "cat": "giao thông"
+  },
+  {
+    "w": "forklift",
+    "m": "xe nâng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "tractor",
+    "m": "máy kéo",
+    "cat": "giao thông"
+  },
+  {
+    "w": "ambulance",
+    "m": "xe cứu thương",
+    "cat": "giao thông"
+  },
+  {
+    "w": "glider",
+    "m": "tàu lượn",
+    "cat": "giao thông"
+  },
+  {
+    "w": "parachute",
+    "m": "dù nhảy",
+    "cat": "giao thông"
+  },
+  {
+    "w": "scooter",
+    "m": "xe tay ga",
+    "cat": "giao thông"
+  },
+  {
+    "w": "unicycle",
+    "m": "xe đạp một bánh",
+    "cat": "giao thông"
+  },
+  {
+    "w": "sledge",
+    "m": "xe trượt tuyết",
+    "cat": "giao thông"
+  },
+  {
+    "w": "cabin",
+    "m": "khoang lái",
+    "cat": "giao thông"
+  },
+  {
+    "w": "cockpit",
+    "m": "buồng lái máy bay",
+    "cat": "giao thông"
+  },
+  {
+    "w": "runway",
+    "m": "đường băng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "terminal",
+    "m": "nhà ga sân bay",
+    "cat": "giao thông"
+  },
+  {
+    "w": "platform",
+    "m": "sân ga",
+    "cat": "giao thông"
+  },
+  {
+    "w": "junction",
+    "m": "giao lộ",
+    "cat": "giao thông"
+  },
+  {
+    "w": "toll booth",
+    "m": "trạm thu phí",
+    "cat": "giao thông"
+  },
+  {
+    "w": "crossing",
+    "m": "chỗ qua đường",
+    "cat": "giao thông"
+  },
+  {
+    "w": "diversion",
+    "m": "đường tránh",
+    "cat": "giao thông"
+  },
+  {
+    "w": "congestion",
+    "m": "sự ùn tắc",
+    "cat": "giao thông"
+  },
+  {
+    "w": "detour",
+    "m": "đường vòng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "shortcut",
+    "m": "đường tắt",
+    "cat": "giao thông"
+  },
+  {
+    "w": "itinerary",
+    "m": "lịch trình",
+    "cat": "du lịch"
+  },
+  {
+    "w": "expedition",
+    "m": "chuyến thám hiểm",
+    "cat": "du lịch"
+  },
+  {
+    "w": "voyage",
+    "m": "chuyến hải hành",
+    "cat": "du lịch"
+  },
+  {
+    "w": "excursion",
+    "m": "chuyến tham quan ngắn",
+    "cat": "du lịch"
+  },
+  {
+    "w": "pilgrimage",
+    "m": "cuộc hành hương",
+    "cat": "du lịch"
+  },
+  {
+    "w": "safari",
+    "m": "chuyến săn ảnh thú",
+    "cat": "du lịch"
+  },
+  {
+    "w": "cruise",
+    "m": "chuyến du ngoạn biển",
+    "cat": "du lịch"
+  },
+  {
+    "w": "stopover",
+    "m": "điểm dừng chân",
+    "cat": "du lịch"
+  },
+  {
+    "w": "layover",
+    "m": "thời gian quá cảnh",
+    "cat": "du lịch"
+  },
+  {
+    "w": "destination",
+    "m": "điểm đến",
+    "cat": "du lịch"
+  },
+  {
+    "w": "departure",
+    "m": "sự khởi hành",
+    "cat": "du lịch"
+  },
+  {
+    "w": "arrival",
+    "m": "sự đến nơi",
+    "cat": "du lịch"
+  },
+  {
+    "w": "checkpoint",
+    "m": "trạm kiểm soát",
+    "cat": "du lịch"
+  },
+  {
+    "w": "customs",
+    "m": "hải quan",
+    "cat": "du lịch"
+  },
+  {
+    "w": "immigration",
+    "m": "nhập cảnh",
+    "cat": "du lịch"
+  },
+  {
+    "w": "boarding",
+    "m": "sự lên tàu/máy bay",
+    "cat": "du lịch"
+  },
+  {
+    "w": "luggage",
+    "m": "hành lý",
+    "cat": "du lịch"
+  },
+  {
+    "w": "backpack",
+    "m": "ba lô",
+    "cat": "du lịch"
+  },
+  {
+    "w": "compass",
+    "m": "la bàn",
+    "cat": "du lịch"
+  },
+  {
+    "w": "landmark",
+    "m": "địa danh nổi tiếng",
+    "cat": "du lịch"
+  },
+  {
+    "w": "attraction",
+    "m": "điểm thu hút du khách",
+    "cat": "du lịch"
+  },
+  {
+    "w": "resort",
+    "m": "khu nghỉ dưỡng",
+    "cat": "du lịch"
+  },
+  {
+    "w": "hostel",
+    "m": "nhà trọ giá rẻ",
+    "cat": "du lịch"
+  },
+  {
+    "w": "campsite",
+    "m": "khu cắm trại",
+    "cat": "du lịch"
+  },
+  {
+    "w": "guesthouse",
+    "m": "nhà nghỉ",
+    "cat": "du lịch"
+  },
+  {
+    "w": "vacancy",
+    "m": "phòng trống",
+    "cat": "du lịch"
+  },
+  {
+    "w": "checkout",
+    "m": "sự trả phòng",
+    "cat": "du lịch"
+  },
+  {
+    "w": "concierge",
+    "m": "nhân viên hỗ trợ khách",
+    "cat": "du lịch"
+  },
+  {
+    "w": "porter",
+    "m": "người khuân hành lý",
+    "cat": "du lịch"
+  },
+  {
+    "w": "tariff",
+    "m": "biểu giá",
+    "cat": "du lịch"
+  },
+  {
+    "w": "brochure",
+    "m": "tờ rơi quảng cáo",
+    "cat": "du lịch"
+  },
+  {
+    "w": "sightseeing",
+    "m": "ngắm cảnh",
+    "cat": "du lịch"
+  },
+  {
+    "w": "wander",
+    "m": "đi lang thang khám phá",
+    "cat": "du lịch"
+  },
+  {
+    "w": "explore",
+    "m": "khám phá",
+    "cat": "du lịch"
+  },
+  {
+    "w": "navigate",
+    "m": "định hướng dẫn đường",
+    "cat": "du lịch"
+  },
+  {
+    "w": "trek",
+    "m": "đi bộ đường dài gian nan",
+    "cat": "du lịch"
+  },
+  {
+    "w": "roam",
+    "m": "rong ruổi",
+    "cat": "du lịch"
+  },
+  {
+    "w": "abundance",
+    "m": "sự phong phú dồi dào",
+    "cat": "học thuật"
+  },
+  {
+    "w": "clarity",
+    "m": "sự rõ ràng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "coherence",
+    "m": "sự mạch lạc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "consistency",
+    "m": "sự nhất quán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "continuity",
+    "m": "sự liên tục",
+    "cat": "học thuật"
+  },
+  {
+    "w": "diversity",
+    "m": "sự đa dạng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "emphasis",
+    "m": "sự nhấn mạnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "essence",
+    "m": "bản chất cốt lõi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "framework",
+    "m": "khung lý thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "hierarchy",
+    "m": "hệ thống thứ bậc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "intensity",
+    "m": "cường độ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "magnitude",
+    "m": "độ lớn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "mechanism",
+    "m": "cơ chế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "paradox",
+    "m": "nghịch lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "perspective",
+    "m": "góc nhìn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "phenomenon",
+    "m": "hiện tượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "premise",
+    "m": "tiền đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "rationale",
+    "m": "cơ sở lý luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "spectrum",
+    "m": "phổ, dải",
+    "cat": "học thuật"
+  },
+  {
+    "w": "synthesis",
+    "m": "sự tổng hợp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "transition",
+    "m": "sự chuyển tiếp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "validity",
+    "m": "tính hợp lệ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "variation",
+    "m": "sự biến thiên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "correlation",
+    "m": "sự tương quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "distinction",
+    "m": "sự phân biệt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "interpretation",
+    "m": "sự diễn giải",
+    "cat": "học thuật"
+  },
+  {
+    "w": "assumption",
+    "m": "giả định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "contradiction",
+    "m": "sự mâu thuẫn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "implication",
+    "m": "hàm ý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "justification",
+    "m": "sự biện minh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "speculation",
+    "m": "sự suy đoán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "presumption",
+    "m": "sự suy đoán mặc định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "proposition",
+    "m": "mệnh đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "hypothesis",
+    "m": "giả thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "deduction",
+    "m": "sự suy diễn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "induction",
+    "m": "sự quy nạp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "abstraction",
+    "m": "sự trừu tượng hóa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "generalisation",
+    "m": "sự khái quát hóa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "classification",
+    "m": "sự phân loại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "differentiation",
+    "m": "sự phân biệt hóa",
+    "cat": "học thuật"
+  }
+]

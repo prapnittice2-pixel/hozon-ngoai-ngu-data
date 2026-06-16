@@ -1,0 +1,2279 @@
+{
+  "hsk5Lessons": [
+    {
+      "title": "Bài 1: Chính Trị & Xã Hội",
+      "type": "vocabulary",
+      "xp": 30,
+      "min": 15,
+      "order": 1,
+      "content": {
+        "image": "/images/lessons/generic.svg",
+        "intro": "Học từ vựng nâng cao về chính trị và xã hội — các chủ đề thường gặp trong báo chí, thảo luận chính sách và văn bản hành chính.",
+        "vocabulary": [
+          {
+            "word": "政治",
+            "pinyin": "zhèng zhì",
+            "meaning": "Chính trị",
+            "example": "政治制度对社会发展影响深远。",
+            "example_vi": "Chế độ chính trị ảnh hưởng sâu sắc đến sự phát triển xã hội.",
+            "tags": [
+              "chính trị"
+            ]
+          },
+          {
+            "word": "民主",
+            "pinyin": "mín zhǔ",
+            "meaning": "Dân chủ",
+            "example": "民主是现代社会的核心价值。",
+            "example_vi": "Dân chủ là giá trị cốt lõi của xã hội hiện đại.",
+            "tags": [
+              "chính trị"
+            ]
+          },
+          {
+            "word": "法律",
+            "pinyin": "fǎ lǜ",
+            "meaning": "Pháp luật",
+            "example": "每个公民都必须遵守法律。",
+            "example_vi": "Mỗi công dân đều phải tuân thủ pháp luật.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "政策",
+            "pinyin": "zhèng cè",
+            "meaning": "Chính sách",
+            "example": "政府制定了新的经济政策。",
+            "example_vi": "Chính phủ đã ban hành chính sách kinh tế mới.",
+            "tags": [
+              "chính trị"
+            ]
+          },
+          {
+            "word": "社会主义",
+            "pinyin": "shè huì zhǔ yì",
+            "meaning": "Chủ nghĩa xã hội",
+            "example": "中国坚持走社会主义道路。",
+            "example_vi": "Trung Quốc kiên định đi theo con đường chủ nghĩa xã hội.",
+            "tags": [
+              "chính trị",
+              "lý luận"
+            ]
+          },
+          {
+            "word": "公民",
+            "pinyin": "gōng mín",
+            "meaning": "Công dân",
+            "example": "公民有权利参与选举。",
+            "example_vi": "Công dân có quyền tham gia bầu cử.",
+            "tags": [
+              "xã hội"
+            ]
+          },
+          {
+            "word": "议会",
+            "pinyin": "yì huì",
+            "meaning": "Nghị viện",
+            "example": "议会通过了新的法案。",
+            "example_vi": "Nghị viện đã thông qua dự luật mới.",
+            "tags": [
+              "chính trị"
+            ]
+          },
+          {
+            "word": "宪法",
+            "pinyin": "xiàn fǎ",
+            "meaning": "Hiến pháp",
+            "example": "宪法是国家的根本大法。",
+            "example_vi": "Hiến pháp là luật cơ bản của quốc gia.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "改革",
+            "pinyin": "gǎi gé",
+            "meaning": "Cải cách",
+            "example": "这次改革对社会产生了重大影响。",
+            "example_vi": "Cuộc cải cách này có tác động lớn đến xã hội.",
+            "tags": [
+              "chính trị",
+              "xã hội"
+            ]
+          },
+          {
+            "word": "稳定",
+            "pinyin": "wěn dìng",
+            "meaning": "Ổn định",
+            "example": "社会稳定是发展的前提。",
+            "example_vi": "Ổn định xã hội là tiền đề của sự phát triển.",
+            "tags": [
+              "xã hội"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "对...产生影响 — Có ảnh hưởng đến...",
+            "explanation": "Cấu trúc \"对...产生影响\" diễn đạt việc một sự vật/sự việc gây ra ảnh hưởng đến đối tượng khác. \"产生\" có thể thay bằng \"造成\" (gây ra), \"带来\" (mang lại).",
+            "examples": [
+              "政策对经济产生了深远影响。 = Chính sách có ảnh hưởng sâu sắc đến kinh tế.",
+              "改革对社会结构产生了巨大变化。 = Cải cách tạo ra thay đổi lớn đối với cơ cấu xã hội."
+            ]
+          },
+          {
+            "title": "坚持 + V/N — Kiên trì / Kiên định...",
+            "explanation": "\"坚持\" nghĩa là kiên trì hoặc bảo lưu lập trường. Theo sau có thể là động từ hoặc danh từ. Dùng để nhấn mạnh sự nhất quán trong hành động hoặc quan điểm.",
+            "examples": [
+              "我们坚持改革开放的方针。 = Chúng ta kiên định đường lối cải cách mở cửa.",
+              "政府坚持以人为本的理念。 = Chính phủ kiên trì lý niệm lấy con người làm trung tâm."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"宪法\" có nghĩa là gì?",
+            "options": [
+              "Chính sách",
+              "Hiến pháp",
+              "Nghị viện",
+              "Cải cách"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Công dân\"?",
+            "options": [
+              "议会",
+              "民主",
+              "公民",
+              "稳定"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "政治",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Pháp luật",
+              "Chính trị",
+              "Dân chủ",
+              "Ổn định"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "改革",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Hiến pháp",
+              "Nghị viện",
+              "Cải cách",
+              "Chính sách"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Chọn từ đúng: \"___是国家的根本大法。\"",
+            "options": [
+              "政策",
+              "民主",
+              "宪法",
+              "改革"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Dân chủ\":",
+            "options": [
+              "民主"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 2: Kinh Tế Vĩ Mô",
+      "type": "vocabulary",
+      "xp": 30,
+      "min": 15,
+      "order": 2,
+      "content": {
+        "image": "/images/lessons/money.svg",
+        "intro": "Từ vựng chuyên ngành về kinh tế vĩ mô, tài chính và đầu tư — cần thiết để đọc hiểu báo kinh tế và tham gia thảo luận tài chính.",
+        "vocabulary": [
+          {
+            "word": "通货膨胀",
+            "pinyin": "tōng huò péng zhàng",
+            "meaning": "Lạm phát",
+            "example": "通货膨胀导致物价上涨。",
+            "example_vi": "Lạm phát khiến giá cả tăng lên.",
+            "tags": [
+              "kinh tế"
+            ]
+          },
+          {
+            "word": "国内生产总值",
+            "pinyin": "guó nèi shēng chǎn zǒng zhí",
+            "meaning": "GDP (Tổng sản phẩm quốc nội)",
+            "example": "今年国内生产总值增长了6%。",
+            "example_vi": "Năm nay GDP tăng trưởng 6%.",
+            "tags": [
+              "kinh tế",
+              "thống kê"
+            ]
+          },
+          {
+            "word": "财政",
+            "pinyin": "cái zhèng",
+            "meaning": "Tài chính (nhà nước)",
+            "example": "政府采取积极的财政政策。",
+            "example_vi": "Chính phủ áp dụng chính sách tài chính tích cực.",
+            "tags": [
+              "kinh tế",
+              "chính phủ"
+            ]
+          },
+          {
+            "word": "贸易逆差",
+            "pinyin": "mào yì nì chā",
+            "meaning": "Thâm hụt thương mại",
+            "example": "贸易逆差对国内经济有压力。",
+            "example_vi": "Thâm hụt thương mại tạo áp lực cho kinh tế trong nước.",
+            "tags": [
+              "thương mại"
+            ]
+          },
+          {
+            "word": "利率",
+            "pinyin": "lì lǜ",
+            "meaning": "Lãi suất",
+            "example": "央行决定降低利率以刺激经济。",
+            "example_vi": "Ngân hàng trung ương quyết định giảm lãi suất để kích thích kinh tế.",
+            "tags": [
+              "ngân hàng"
+            ]
+          },
+          {
+            "word": "股市",
+            "pinyin": "gǔ shì",
+            "meaning": "Thị trường chứng khoán",
+            "example": "股市波动对投资者情绪影响很大。",
+            "example_vi": "Biến động thị trường chứng khoán ảnh hưởng lớn đến tâm lý nhà đầu tư.",
+            "tags": [
+              "đầu tư"
+            ]
+          },
+          {
+            "word": "外汇储备",
+            "pinyin": "wài huì chǔ bèi",
+            "meaning": "Dự trữ ngoại hối",
+            "example": "中国的外汇储备居世界前列。",
+            "example_vi": "Dự trữ ngoại hối của Trung Quốc đứng hàng đầu thế giới.",
+            "tags": [
+              "tài chính"
+            ]
+          },
+          {
+            "word": "供给",
+            "pinyin": "gōng jǐ",
+            "meaning": "Cung (kinh tế)",
+            "example": "供给侧改革是当前的重要任务。",
+            "example_vi": "Cải cách phía cung là nhiệm vụ quan trọng hiện tại.",
+            "tags": [
+              "kinh tế"
+            ]
+          },
+          {
+            "word": "需求",
+            "pinyin": "xū qiú",
+            "meaning": "Cầu (kinh tế)",
+            "example": "市场需求决定产品的价格。",
+            "example_vi": "Cầu thị trường quyết định giá cả sản phẩm.",
+            "tags": [
+              "kinh tế"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "导致 — Dẫn đến / Gây ra",
+            "explanation": "\"导致\" là động từ chỉ nguyên nhân dẫn đến kết quả tiêu cực hoặc đáng chú ý. Khác với \"使\" hay \"让\", \"导致\" thường đi với kết quả có tầm quan trọng lớn hơn.",
+            "examples": [
+              "经济衰退导致失业率上升。 = Suy thoái kinh tế dẫn đến tỷ lệ thất nghiệp tăng.",
+              "政策失误导致财政赤字扩大。 = Sai lầm chính sách dẫn đến thâm hụt tài chính mở rộng."
+            ]
+          },
+          {
+            "title": "居...前列 / 居...之首 — Đứng đầu / Đứng trong hàng đầu",
+            "explanation": "\"居...前列\" hoặc \"居...之首\" diễn tả vị trí xếp hạng cao. Cấu trúc này thường xuất hiện trong văn bản báo chí và thống kê.",
+            "examples": [
+              "该国经济总量居世界前列。 = Tổng lượng kinh tế của quốc gia đó đứng hàng đầu thế giới.",
+              "这家企业的利润居行业之首。 = Lợi nhuận của doanh nghiệp này đứng đầu ngành."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"通货膨胀\" có nghĩa là gì?",
+            "options": [
+              "Giảm phát",
+              "Lạm phát",
+              "Lãi suất",
+              "Thâm hụt"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Lãi suất\"?",
+            "options": [
+              "股市",
+              "利率",
+              "需求",
+              "财政"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "股市",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Lãi suất",
+              "Tài chính",
+              "Thị trường chứng khoán",
+              "GDP"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "需求",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Cung",
+              "Cầu",
+              "Lạm phát",
+              "Ngoại hối"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Chọn từ đúng: \"央行决定降低___以刺激经济。\"",
+            "options": [
+              "股市",
+              "财政",
+              "利率",
+              "供给"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Lạm phát\":",
+            "options": [
+              "通货膨胀"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 3: Ngôn Ngữ Học Thuật",
+      "type": "vocabulary",
+      "xp": 30,
+      "min": 15,
+      "order": 3,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Học các biểu đạt học thuật và từ ngữ chính thức dùng trong bài luận, báo cáo nghiên cứu và thảo luận khoa học bằng tiếng Trung.",
+        "vocabulary": [
+          {
+            "word": "论述",
+            "pinyin": "lùn shù",
+            "meaning": "Luận thuật / Trình bày lý luận",
+            "example": "请就这个问题进行论述。",
+            "example_vi": "Hãy trình bày lý luận về vấn đề này.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "阐述",
+            "pinyin": "chǎn shù",
+            "meaning": "Trình bày / Giải trình",
+            "example": "作者详细阐述了自己的观点。",
+            "example_vi": "Tác giả đã trình bày chi tiết quan điểm của mình.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "概念",
+            "pinyin": "gài niàn",
+            "meaning": "Khái niệm",
+            "example": "这个概念在哲学中有重要意义。",
+            "example_vi": "Khái niệm này có ý nghĩa quan trọng trong triết học.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "假设",
+            "pinyin": "jiǎ shè",
+            "meaning": "Giả thuyết / Giả định",
+            "example": "我们首先提出一个假设。",
+            "example_vi": "Trước tiên chúng ta đưa ra một giả thuyết.",
+            "tags": [
+              "nghiên cứu"
+            ]
+          },
+          {
+            "word": "验证",
+            "pinyin": "yàn zhèng",
+            "meaning": "Kiểm chứng / Xác minh",
+            "example": "实验结果验证了这个假设。",
+            "example_vi": "Kết quả thực nghiệm đã kiểm chứng giả thuyết này.",
+            "tags": [
+              "nghiên cứu"
+            ]
+          },
+          {
+            "word": "综述",
+            "pinyin": "zōng shù",
+            "meaning": "Tổng thuật / Tổng quan tài liệu",
+            "example": "这篇综述总结了近十年的研究成果。",
+            "example_vi": "Bài tổng quan này tổng kết thành quả nghiên cứu mười năm gần đây.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "引用",
+            "pinyin": "yǐn yòng",
+            "meaning": "Trích dẫn",
+            "example": "论文中需要正确引用文献。",
+            "example_vi": "Trong luận văn cần trích dẫn tài liệu đúng cách.",
+            "tags": [
+              "viết"
+            ]
+          },
+          {
+            "word": "局限性",
+            "pinyin": "jú xiàn xìng",
+            "meaning": "Hạn chế / Giới hạn",
+            "example": "这种方法有一定的局限性。",
+            "example_vi": "Phương pháp này có những hạn chế nhất định.",
+            "tags": [
+              "phân tích"
+            ]
+          },
+          {
+            "word": "客观",
+            "pinyin": "kè guān",
+            "meaning": "Khách quan",
+            "example": "学术研究需要保持客观的态度。",
+            "example_vi": "Nghiên cứu học thuật cần duy trì thái độ khách quan.",
+            "tags": [
+              "học thuật"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "就...而言 — Xét về mặt... / Đối với...",
+            "explanation": "\"就...而言\" là cấu trúc học thuật thường dùng để giới hạn phạm vi bàn luận. Tương đương \"về mặt...\" hoặc \"xét từ góc độ...\" trong tiếng Việt.",
+            "examples": [
+              "就研究方法而言，本文采用定量分析。 = Về mặt phương pháp nghiên cứu, bài này dùng phân tích định lượng.",
+              "就实用性而言，这个方案更为合理。 = Xét về tính thực tiễn, phương án này hợp lý hơn."
+            ]
+          },
+          {
+            "title": "不仅...而且... — Không chỉ... mà còn...",
+            "explanation": "Cặp liên từ \"不仅...而且...\" dùng để bổ sung thông tin, nhấn mạnh nhiều hơn một điểm. Trong văn học thuật thường thay \"而且\" bằng \"更\" hoặc \"还\" để tăng sắc thái.",
+            "examples": [
+              "这项研究不仅具有理论价值，而且有实践意义。 = Nghiên cứu này không chỉ có giá trị lý luận mà còn có ý nghĩa thực tiễn.",
+              "他不仅掌握了方法，而且深入理解了理论。 = Anh ấy không chỉ nắm vững phương pháp mà còn hiểu sâu lý luận."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"假设\" có nghĩa là gì?",
+            "options": [
+              "Khái niệm",
+              "Trích dẫn",
+              "Giả thuyết",
+              "Khách quan"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Kiểm chứng\"?",
+            "options": [
+              "论述",
+              "验证",
+              "综述",
+              "阐述"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "概念",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Hạn chế",
+              "Tổng quan",
+              "Khái niệm",
+              "Giả thuyết"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "局限性",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Khách quan",
+              "Hạn chế",
+              "Trích dẫn",
+              "Trình bày"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Chọn từ đúng: \"学术研究需要保持___的态度。\"",
+            "options": [
+              "假设",
+              "引用",
+              "客观",
+              "论述"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Trích dẫn\":",
+            "options": [
+              "引用"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 4: Thành Ngữ Phổ Biến",
+      "type": "vocabulary",
+      "xp": 30,
+      "min": 15,
+      "order": 4,
+      "content": {
+        "image": "/images/lessons/hobbies.svg",
+        "intro": "Thành ngữ 4 chữ (成语 chéngyǔ) là đặc trưng nổi bật của tiếng Trung, thường có nguồn gốc lịch sử hoặc văn học cổ đại. Học các thành ngữ phổ biến nhất ở cấp HSK5.",
+        "vocabulary": [
+          {
+            "word": "一石二鸟",
+            "pinyin": "yī shí èr niǎo",
+            "meaning": "Nhất cử lưỡng tiện (một mũi tên trúng hai đích)",
+            "example": "这个方案一石二鸟，既省钱又省时。",
+            "example_vi": "Phương án này nhất cử lưỡng tiện, vừa tiết kiệm tiền vừa tiết kiệm thời gian.",
+            "tags": [
+              "thành ngữ"
+            ]
+          },
+          {
+            "word": "半途而废",
+            "pinyin": "bàn tú ér fèi",
+            "meaning": "Bỏ dở giữa chừng",
+            "example": "做事不能半途而废，要坚持到底。",
+            "example_vi": "Làm việc không thể bỏ dở giữa chừng, phải kiên trì đến cùng.",
+            "tags": [
+              "thành ngữ"
+            ]
+          },
+          {
+            "word": "马到成功",
+            "pinyin": "mǎ dào chéng gōng",
+            "meaning": "Thành công ngay lập tức (ngựa đến là thắng)",
+            "example": "祝你马到成功，旗开得胜！",
+            "example_vi": "Chúc bạn thành công ngay lập tức, ra quân là thắng!",
+            "tags": [
+              "thành ngữ",
+              "chúc mừng"
+            ]
+          },
+          {
+            "word": "画蛇添足",
+            "pinyin": "huà shé tiān zú",
+            "meaning": "Vẽ rắn thêm chân (làm thêm việc thừa)",
+            "example": "这篇文章的结尾有点画蛇添足。",
+            "example_vi": "Phần kết của bài viết này có chút vẽ rắn thêm chân.",
+            "tags": [
+              "thành ngữ"
+            ]
+          },
+          {
+            "word": "亡羊补牢",
+            "pinyin": "wáng yáng bǔ láo",
+            "meaning": "Mất dê mới vá chuồng (muộn còn hơn không)",
+            "example": "虽然亡羊补牢，但为时不晚。",
+            "example_vi": "Tuy mất dê mới vá chuồng, nhưng còn hơn không bao giờ.",
+            "tags": [
+              "thành ngữ"
+            ]
+          },
+          {
+            "word": "守株待兔",
+            "pinyin": "shǒu zhū dài tù",
+            "meaning": "Ôm cây chờ thỏ (trông chờ may mắn)",
+            "example": "不能守株待兔，要主动出击。",
+            "example_vi": "Không thể ôm cây chờ thỏ, phải chủ động ra tay.",
+            "tags": [
+              "thành ngữ"
+            ]
+          },
+          {
+            "word": "对牛弹琴",
+            "pinyin": "duì niú tán qín",
+            "meaning": "Đàn gảy tai trâu (nói chuyện không ai hiểu)",
+            "example": "对他解释这些理论，简直是对牛弹琴。",
+            "example_vi": "Giải thích những lý luận này cho anh ta, chẳng khác nào đàn gảy tai trâu.",
+            "tags": [
+              "thành ngữ"
+            ]
+          },
+          {
+            "word": "掩耳盗铃",
+            "pinyin": "yǎn ěr dào líng",
+            "meaning": "Bịt tai trộm chuông (tự lừa dối)",
+            "example": "掩耳盗铃的做法解决不了问题。",
+            "example_vi": "Cách làm tự lừa dối không thể giải quyết vấn đề.",
+            "tags": [
+              "thành ngữ"
+            ]
+          },
+          {
+            "word": "三人行必有我师",
+            "pinyin": "sān rén xíng bì yǒu wǒ shī",
+            "meaning": "Trong ba người đi cùng ắt có người là thầy ta",
+            "example": "三人行必有我师，要虚心向他人学习。",
+            "example_vi": "Trong ba người đi cùng ắt có người là thầy ta, hãy khiêm tốn học hỏi người khác.",
+            "tags": [
+              "thành ngữ",
+              "Khổng Tử"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "虽然...但是... — Tuy... nhưng...",
+            "explanation": "Cặp liên từ nhượng bộ \"虽然...但是...\" (hoặc \"虽然...却...\") dùng để thừa nhận một điều nhưng đưa ra ý kiến trái ngược. Trong văn viết thường lược bỏ \"虽然\" khi chủ ngữ không đổi.",
+            "examples": [
+              "虽然路途遥远，但是他坚持走完了。 = Tuy đường xa, nhưng anh ấy vẫn kiên trì đi hết.",
+              "虽然困难重重，但是我们没有放弃。 = Tuy khó khăn chồng chất, nhưng chúng ta không bỏ cuộc."
+            ]
+          },
+          {
+            "title": "与其...不如... — Thay vì... thì hơn là...",
+            "explanation": "\"与其...不如...\" dùng để so sánh hai lựa chọn và đề xuất lựa chọn tốt hơn. Phần sau \"不如\" là hành động được khuyến nghị.",
+            "examples": [
+              "与其守株待兔，不如主动出击。 = Thay vì ngồi chờ may mắn, thì hơn là chủ động ra tay.",
+              "与其抱怨，不如想办法解决问题。 = Thay vì than thở, thì hơn là nghĩ cách giải quyết vấn đề."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"画蛇添足\" có nghĩa là gì?",
+            "options": [
+              "Bỏ dở giữa chừng",
+              "Đàn gảy tai trâu",
+              "Vẽ rắn thêm chân",
+              "Ôm cây chờ thỏ"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Thành ngữ nào có nghĩa \"Mất dê mới vá chuồng\"?",
+            "options": [
+              "马到成功",
+              "亡羊补牢",
+              "掩耳盗铃",
+              "半途而废"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "马到成功",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Bỏ dở giữa chừng",
+              "Đàn gảy tai trâu",
+              "Thành công ngay lập tức",
+              "Tự lừa dối"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "对牛弹琴",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Đàn gảy tai trâu",
+              "Ôm cây chờ thỏ",
+              "Nhất cử lưỡng tiện",
+              "Vẽ rắn thêm chân"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "fill",
+            "q": "Chọn thành ngữ đúng: \"做事不能___，要坚持到底。\"",
+            "options": [
+              "马到成功",
+              "半途而废",
+              "一石二鸟",
+              "亡羊补牢"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "type",
+            "q": "Nhập thành ngữ tiếng Trung có nghĩa \"Nhất cử lưỡng tiện\":",
+            "options": [
+              "一石二鸟"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 5: Khái Niệm Trừu Tượng",
+      "type": "vocabulary",
+      "xp": 30,
+      "min": 15,
+      "order": 5,
+      "content": {
+        "image": "/images/lessons/nature.svg",
+        "intro": "Từ vựng về các khái niệm trừu tượng, triết lý nhân sinh và tư duy — cần thiết để diễn đạt suy nghĩ sâu sắc và thảo luận về ý nghĩa cuộc sống.",
+        "vocabulary": [
+          {
+            "word": "价值观",
+            "pinyin": "jià zhí guān",
+            "meaning": "Quan niệm giá trị / Hệ giá trị",
+            "example": "每个人的价值观都不同。",
+            "example_vi": "Hệ giá trị của mỗi người đều khác nhau.",
+            "tags": [
+              "triết học",
+              "nhân sinh"
+            ]
+          },
+          {
+            "word": "意义",
+            "pinyin": "yì yì",
+            "meaning": "Ý nghĩa",
+            "example": "追求生命的意义是人类的本能。",
+            "example_vi": "Tìm kiếm ý nghĩa cuộc sống là bản năng của con người.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "境界",
+            "pinyin": "jìng jiè",
+            "meaning": "Cảnh giới / Tầm vóc tinh thần",
+            "example": "他的艺术已经达到了很高的境界。",
+            "example_vi": "Nghệ thuật của ông đã đạt đến cảnh giới rất cao.",
+            "tags": [
+              "tinh thần"
+            ]
+          },
+          {
+            "word": "本质",
+            "pinyin": "běn zhì",
+            "meaning": "Bản chất",
+            "example": "要透过现象看清事物的本质。",
+            "example_vi": "Phải nhìn xuyên qua hiện tượng để thấy rõ bản chất của sự vật.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "矛盾",
+            "pinyin": "máo dùn",
+            "meaning": "Mâu thuẫn",
+            "example": "这两种观点之间存在矛盾。",
+            "example_vi": "Giữa hai quan điểm này tồn tại mâu thuẫn.",
+            "tags": [
+              "triết học",
+              "logic"
+            ]
+          },
+          {
+            "word": "辩证",
+            "pinyin": "biàn zhèng",
+            "meaning": "Biện chứng",
+            "example": "要用辩证的方法看待问题。",
+            "example_vi": "Phải dùng phương pháp biện chứng để nhìn nhận vấn đề.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "意识",
+            "pinyin": "yì shí",
+            "meaning": "Ý thức",
+            "example": "环境保护意识需要从小培养。",
+            "example_vi": "Ý thức bảo vệ môi trường cần được bồi dưỡng từ nhỏ.",
+            "tags": [
+              "tâm lý"
+            ]
+          },
+          {
+            "word": "感悟",
+            "pinyin": "gǎn wù",
+            "meaning": "Sự ngộ ra / Cảm nhận sâu sắc",
+            "example": "读完这本书，我有了很多感悟。",
+            "example_vi": "Đọc xong cuốn sách này, tôi có nhiều cảm nhận sâu sắc.",
+            "tags": [
+              "tinh thần"
+            ]
+          },
+          {
+            "word": "超越",
+            "pinyin": "chāo yuè",
+            "meaning": "Vượt qua / Siêu việt",
+            "example": "艺术能让人超越现实的束缚。",
+            "example_vi": "Nghệ thuật có thể giúp con người vượt qua những ràng buộc của thực tại.",
+            "tags": [
+              "triết học"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "透过...看... — Nhìn xuyên qua... để thấy...",
+            "explanation": "\"透过\" nghĩa là \"nhìn xuyên qua\" hoặc \"thông qua\", dùng để diễn đạt việc nhìn vượt ra ngoài bề ngoài để thấy bản chất. Thường dùng trong văn viết hàm súc.",
+            "examples": [
+              "透过现象看本质是辩证思维的核心。 = Nhìn xuyên qua hiện tượng để thấy bản chất là cốt lõi của tư duy biện chứng.",
+              "透过他的言语，我感悟到他的痛苦。 = Qua lời nói của anh ấy, tôi cảm nhận được nỗi đau của anh."
+            ]
+          },
+          {
+            "title": "在于 — Nằm ở / Cốt ở",
+            "explanation": "\"在于\" diễn tả bản chất hoặc điểm mấu chốt của vấn đề. Tương đương \"nằm ở chỗ...\" hay \"cốt là ở...\" trong tiếng Việt.",
+            "examples": [
+              "成功的关键在于坚持不懈的努力。 = Chìa khóa của thành công nằm ở sự kiên trì không ngừng.",
+              "教育的意义在于培养独立思考的能力。 = Ý nghĩa của giáo dục nằm ở việc bồi dưỡng khả năng tư duy độc lập."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"本质\" có nghĩa là gì?",
+            "options": [
+              "Ý thức",
+              "Mâu thuẫn",
+              "Bản chất",
+              "Cảnh giới"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Biện chứng\"?",
+            "options": [
+              "意义",
+              "感悟",
+              "超越",
+              "辩证"
+            ],
+            "ans": 3
+          },
+          {
+            "type": "listen",
+            "word": "价值观",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Ý nghĩa",
+              "Hệ giá trị",
+              "Mâu thuẫn",
+              "Ý thức"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "超越",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Bản chất",
+              "Cảm nhận sâu sắc",
+              "Vượt qua",
+              "Cảnh giới"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Chọn từ đúng: \"这两种观点之间存在___。\"",
+            "options": [
+              "意义",
+              "矛盾",
+              "境界",
+              "本质"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Cảnh giới / Tầm vóc tinh thần\":",
+            "options": [
+              "境界"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 6: Viết Văn Chính Thức",
+      "type": "vocabulary",
+      "xp": 30,
+      "min": 15,
+      "order": 6,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Học các từ ngữ và mẫu câu dùng trong văn viết chính thức — bài luận, báo cáo, thư tín và văn bản hành chính. Đây là kỹ năng thiết yếu ở cấp độ HSK5.",
+        "vocabulary": [
+          {
+            "word": "综上所述",
+            "pinyin": "zōng shàng suǒ shù",
+            "meaning": "Tóm lại những điều đã trình bày",
+            "example": "综上所述，我认为这个政策是合理的。",
+            "example_vi": "Tóm lại những điều đã trình bày, tôi cho rằng chính sách này là hợp lý.",
+            "tags": [
+              "viết",
+              "kết luận"
+            ]
+          },
+          {
+            "word": "鉴于",
+            "pinyin": "jiàn yú",
+            "meaning": "Xét về / Căn cứ vào",
+            "example": "鉴于以上情况，特此通知。",
+            "example_vi": "Căn cứ vào tình hình trên, đặc biệt thông báo như sau.",
+            "tags": [
+              "hành chính"
+            ]
+          },
+          {
+            "word": "拟",
+            "pinyin": "nǐ",
+            "meaning": "Dự kiến / Đề xuất (văn phong hành chính)",
+            "example": "本公司拟于下月召开年度会议。",
+            "example_vi": "Công ty dự kiến triệu tập hội nghị thường niên vào tháng tới.",
+            "tags": [
+              "hành chính"
+            ]
+          },
+          {
+            "word": "特此",
+            "pinyin": "tè cǐ",
+            "meaning": "Đặc biệt / Nay đặc biệt (kết thúc thông báo)",
+            "example": "特此通知，请各部门知悉。",
+            "example_vi": "Nay đặc biệt thông báo, kính đề nghị các phòng ban biết.",
+            "tags": [
+              "hành chính"
+            ]
+          },
+          {
+            "word": "就此",
+            "pinyin": "jiù cǐ",
+            "meaning": "Từ đây / Vì vậy / Tại đây",
+            "example": "就此问题，我方提出以下建议。",
+            "example_vi": "Về vấn đề này, phía chúng tôi đề xuất những kiến nghị sau.",
+            "tags": [
+              "viết"
+            ]
+          },
+          {
+            "word": "诚然",
+            "pinyin": "chéng rán",
+            "meaning": "Đương nhiên / Thừa nhận rằng",
+            "example": "诚然，这种做法有一定的局限性。",
+            "example_vi": "Đương nhiên, cách làm này có những hạn chế nhất định.",
+            "tags": [
+              "viết",
+              "nhượng bộ"
+            ]
+          },
+          {
+            "word": "值得注意的是",
+            "pinyin": "zhí de zhù yì de shì",
+            "meaning": "Điều đáng chú ý là",
+            "example": "值得注意的是，数据显示呈下降趋势。",
+            "example_vi": "Điều đáng chú ý là, dữ liệu cho thấy xu hướng giảm.",
+            "tags": [
+              "phân tích"
+            ]
+          },
+          {
+            "word": "不可否认",
+            "pinyin": "bù kě fǒu rèn",
+            "meaning": "Không thể phủ nhận",
+            "example": "不可否认，科技进步改善了人类生活。",
+            "example_vi": "Không thể phủ nhận, tiến bộ khoa học kỹ thuật đã cải thiện cuộc sống con người.",
+            "tags": [
+              "viết",
+              "lập luận"
+            ]
+          },
+          {
+            "word": "有目共睹",
+            "pinyin": "yǒu mù gòng dǔ",
+            "meaning": "Ai cũng thấy / Rõ ràng như ban ngày",
+            "example": "他的贡献是有目共睹的。",
+            "example_vi": "Đóng góp của ông là điều ai cũng thấy.",
+            "tags": [
+              "viết"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "诚然...但是/然而... — Đương nhiên... nhưng...",
+            "explanation": "\"诚然\" dùng để thừa nhận một luận điểm của phía đối lập trước khi bác bỏ hoặc đưa ra ý kiến riêng. Đây là kỹ thuật lập luận quan trọng trong văn nghị luận.",
+            "examples": [
+              "诚然，改革需要时间，但我们不能无限期等待。 = Đương nhiên cải cách cần thời gian, nhưng chúng ta không thể chờ đợi vô thời hạn.",
+              "诚然技术有局限性，然而它仍是最优选择。 = Đương nhiên công nghệ có hạn chế, tuy nhiên nó vẫn là lựa chọn tối ưu nhất."
+            ]
+          },
+          {
+            "title": "鉴于...特此... — Căn cứ vào... nay đặc biệt...",
+            "explanation": "Cấu trúc \"鉴于...特此...\" rất phổ biến trong thông báo và văn bản hành chính. \"鉴于\" đưa ra lý do, \"特此\" dẫn vào nội dung thông báo/quyết định.",
+            "examples": [
+              "鉴于天气原因，活动特此取消。 = Căn cứ vào lý do thời tiết, hoạt động nay đặc biệt bị hủy.",
+              "鉴于以上分析，特此提出以下建议。 = Căn cứ vào phân tích trên, nay đặc biệt đề xuất các kiến nghị sau."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"综上所述\" thường xuất hiện ở đâu trong bài viết?",
+            "options": [
+              "Mở đầu",
+              "Thân bài",
+              "Kết luận",
+              "Tiêu đề"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Từ nào có nghĩa \"Không thể phủ nhận\"?",
+            "options": [
+              "诚然",
+              "鉴于",
+              "不可否认",
+              "特此"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "鉴于",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Tóm lại",
+              "Căn cứ vào",
+              "Đặc biệt",
+              "Đương nhiên"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "有目共睹",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Điều đáng chú ý",
+              "Không thể phủ nhận",
+              "Ai cũng thấy",
+              "Từ đây"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Chọn từ đúng: \"___，这种做法有一定的局限性。\"",
+            "options": [
+              "特此",
+              "诚然",
+              "就此",
+              "拟"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Điều đáng chú ý là\":",
+            "options": [
+              "值得注意的是"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    }
+  ],
+  "hsk6Lessons": [
+    {
+      "title": "Bài 1: Văn Học Cổ Điển",
+      "type": "vocabulary",
+      "xp": 35,
+      "min": 15,
+      "order": 1,
+      "content": {
+        "image": "/images/lessons/hobbies.svg",
+        "intro": "Văn học cổ điển Trung Quốc là kho tàng tri thức vô giá. Ở cấp độ HSK6, bạn cần hiểu các khái niệm, thể loại và thuật ngữ quan trọng trong văn học cổ điển.",
+        "vocabulary": [
+          {
+            "word": "诗经",
+            "pinyin": "shī jīng",
+            "meaning": "Kinh Thi (tuyển tập thơ cổ nhất)",
+            "example": "《诗经》是中国最早的诗歌总集。",
+            "example_vi": "Kinh Thi là tuyển tập thơ sớm nhất của Trung Quốc.",
+            "tags": [
+              "văn học",
+              "cổ điển"
+            ]
+          },
+          {
+            "word": "意境",
+            "pinyin": "yì jìng",
+            "meaning": "Ý cảnh / Không khí nghệ thuật",
+            "example": "这首诗的意境深远，令人回味无穷。",
+            "example_vi": "Ý cảnh của bài thơ này sâu xa, khiến người đọc suy ngẫm mãi.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "比兴",
+            "pinyin": "bǐ xìng",
+            "meaning": "Tỉ hứng (ẩn dụ và khởi hứng trong thơ)",
+            "example": "《诗经》常用比兴手法表达情感。",
+            "example_vi": "Kinh Thi thường dùng thủ pháp tỉ hứng để biểu đạt tình cảm.",
+            "tags": [
+              "văn học",
+              "tu từ"
+            ]
+          },
+          {
+            "word": "典故",
+            "pinyin": "diǎn gù",
+            "meaning": "Điển cố / Điển tích",
+            "example": "这句话引用了一个著名的典故。",
+            "example_vi": "Câu này trích dẫn một điển cố nổi tiếng.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "格律",
+            "pinyin": "gé lǜ",
+            "meaning": "Thanh luật / Vần điệu trong thơ cổ",
+            "example": "律诗的格律十分严格。",
+            "example_vi": "Thanh luật của thơ luật rất nghiêm ngặt.",
+            "tags": [
+              "thơ"
+            ]
+          },
+          {
+            "word": "风雅颂",
+            "pinyin": "fēng yǎ sòng",
+            "meaning": "Phong Nhã Tụng (ba phần của Kinh Thi)",
+            "example": "《诗经》分为风、雅、颂三部分。",
+            "example_vi": "Kinh Thi chia thành ba phần: Phong, Nhã và Tụng.",
+            "tags": [
+              "văn học",
+              "cổ điển"
+            ]
+          },
+          {
+            "word": "离骚",
+            "pinyin": "lí sāo",
+            "meaning": "Li Tao (tác phẩm của Khuất Nguyên)",
+            "example": "《离骚》是屈原的代表作，充满爱国情怀。",
+            "example_vi": "Li Tao là tác phẩm tiêu biểu của Khuất Nguyên, tràn đầy tình yêu đất nước.",
+            "tags": [
+              "văn học",
+              "cổ điển"
+            ]
+          },
+          {
+            "word": "婉约",
+            "pinyin": "wǎn yuē",
+            "meaning": "Uyển ước (phong cách thơ từ uyển chuyển)",
+            "example": "李清照的词风婉约细腻。",
+            "example_vi": "Phong cách từ của Lý Thanh Chiếu uyển ước tinh tế.",
+            "tags": [
+              "thơ",
+              "phong cách"
+            ]
+          },
+          {
+            "word": "豪放",
+            "pinyin": "háo fàng",
+            "meaning": "Hào phóng (phong cách thơ từ mạnh mẽ)",
+            "example": "苏轼的词豪放大气，别具一格。",
+            "example_vi": "Thơ từ của Tô Thức hào phóng khoáng đạt, mang phong cách riêng biệt.",
+            "tags": [
+              "thơ",
+              "phong cách"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "令人...无穷 — Khiến người ta... vô tận",
+            "explanation": "\"令人...无穷\" là cấu trúc văn học diễn tả tác động mạnh mẽ và kéo dài của một sự vật đến người thưởng thức. Thường dùng trong phê bình văn học và nghệ thuật.",
+            "examples": [
+              "这幅画令人回味无穷。 = Bức tranh này khiến người xem suy ngẫm mãi không thôi.",
+              "他的音乐令人陶醉无穷。 = Âm nhạc của ông khiến người nghe say mê vô tận."
+            ]
+          },
+          {
+            "title": "充满...情怀 — Tràn đầy tình cảm / tâm tình...",
+            "explanation": "\"充满...情怀\" diễn tả trạng thái tràn đầy một loại tình cảm sâu sắc nào đó. \"情怀\" thường chỉ tình cảm lớn lao, có chiều sâu như yêu nước, lãng mạn.",
+            "examples": [
+              "他的诗充满爱国情怀和浪漫色彩。 = Thơ ông tràn đầy tình yêu nước và sắc màu lãng mạn.",
+              "这部小说充满人文情怀，感人至深。 = Tiểu thuyết này tràn đầy tình cảm nhân văn, cảm động lòng người."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"意境\" trong thơ có nghĩa là gì?",
+            "options": [
+              "Vần điệu",
+              "Điển cố",
+              "Không khí nghệ thuật",
+              "Ẩn dụ"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Ai là tác giả của \"离骚\"?",
+            "options": [
+              "Tô Thức",
+              "Lý Thanh Chiếu",
+              "Khuất Nguyên",
+              "Khổng Tử"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "典故",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Ý cảnh",
+              "Điển cố",
+              "Thanh luật",
+              "Phong cách"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "婉约",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Hào phóng",
+              "Tỉ hứng",
+              "Uyển ước",
+              "Điển tích"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Chọn từ đúng: \"苏轼的词___大气，别具一格。\"",
+            "options": [
+              "婉约",
+              "格律",
+              "豪放",
+              "比兴"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Điển cố / Điển tích\":",
+            "options": [
+              "典故"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 2: Triết Học Trung Hoa",
+      "type": "vocabulary",
+      "xp": 35,
+      "min": 15,
+      "order": 2,
+      "content": {
+        "image": "/images/lessons/nature.svg",
+        "intro": "Triết học Trung Quốc với Nho giáo, Đạo giáo và Phật giáo đã định hình văn hóa và tư tưởng Đông Á. Hiểu các khái niệm triết học là chìa khóa để đọc hiểu văn bản cổ điển và hiện đại.",
+        "vocabulary": [
+          {
+            "word": "仁义礼智信",
+            "pinyin": "rén yì lǐ zhì xìn",
+            "meaning": "Nhân Nghĩa Lễ Trí Tín (Ngũ thường Nho giáo)",
+            "example": "仁义礼智信是儒家的核心道德观。",
+            "example_vi": "Nhân Nghĩa Lễ Trí Tín là quan niệm đạo đức cốt lõi của Nho giáo.",
+            "tags": [
+              "Nho giáo",
+              "triết học"
+            ]
+          },
+          {
+            "word": "道法自然",
+            "pinyin": "dào fǎ zì rán",
+            "meaning": "Đạo pháp tự nhiên (thuận theo tự nhiên)",
+            "example": "老子说\"道法自然\"，强调顺应天道。",
+            "example_vi": "Lão Tử nói \"đạo pháp tự nhiên\", nhấn mạnh việc thuận theo thiên đạo.",
+            "tags": [
+              "Đạo giáo"
+            ]
+          },
+          {
+            "word": "无为而治",
+            "pinyin": "wú wéi ér zhì",
+            "meaning": "Vô vi nhi trị (trị quốc bằng không can thiệp)",
+            "example": "无为而治是道家的政治理想。",
+            "example_vi": "Vô vi nhi trị là lý tưởng chính trị của Đạo gia.",
+            "tags": [
+              "Đạo giáo",
+              "chính trị"
+            ]
+          },
+          {
+            "word": "中庸",
+            "pinyin": "zhōng yōng",
+            "meaning": "Trung dung (đường lối trung hòa)",
+            "example": "儒家强调中庸之道，不走极端。",
+            "example_vi": "Nho giáo nhấn mạnh đạo trung dung, không đi đến thái cực.",
+            "tags": [
+              "Nho giáo"
+            ]
+          },
+          {
+            "word": "阴阳",
+            "pinyin": "yīn yáng",
+            "meaning": "Âm dương",
+            "example": "阴阳是中国哲学的基本范畴。",
+            "example_vi": "Âm dương là phạm trù cơ bản của triết học Trung Quốc.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "因果",
+            "pinyin": "yīn guǒ",
+            "meaning": "Nhân quả",
+            "example": "佛教认为万事皆有因果。",
+            "example_vi": "Phật giáo cho rằng mọi việc đều có nhân quả.",
+            "tags": [
+              "Phật giáo"
+            ]
+          },
+          {
+            "word": "修身齐家",
+            "pinyin": "xiū shēn qí jiā",
+            "meaning": "Tu thân tề gia (tu dưỡng bản thân rồi mới quản gia đình)",
+            "example": "修身齐家治国平天下是儒家的人生理想。",
+            "example_vi": "Tu thân tề gia trị quốc bình thiên hạ là lý tưởng nhân sinh của Nho giáo.",
+            "tags": [
+              "Nho giáo"
+            ]
+          },
+          {
+            "word": "格物致知",
+            "pinyin": "gé wù zhì zhī",
+            "meaning": "Cách vật trí tri (khám phá sự vật để đạt tri thức)",
+            "example": "格物致知是儒家认识论的重要概念。",
+            "example_vi": "Cách vật trí tri là khái niệm quan trọng trong nhận thức luận của Nho giáo.",
+            "tags": [
+              "Nho giáo",
+              "tri thức"
+            ]
+          },
+          {
+            "word": "涅槃",
+            "pinyin": "niè pán",
+            "meaning": "Niết bàn (giải thoát tuyệt đối)",
+            "example": "涅槃是佛教修行的最高境界。",
+            "example_vi": "Niết bàn là cảnh giới tu hành cao nhất của Phật giáo.",
+            "tags": [
+              "Phật giáo"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "强调 + 动宾 — Nhấn mạnh + Hành động",
+            "explanation": "\"强调\" (nhấn mạnh, chú trọng) thường dùng trong phân tích tư tưởng và triết học để chỉ ra điểm trọng tâm của một học thuyết hay quan điểm.",
+            "examples": [
+              "儒家强调仁爱与礼义的重要性。 = Nho giáo nhấn mạnh tầm quan trọng của nhân ái và lễ nghĩa.",
+              "道家强调顺应自然，反对人为干预。 = Đạo gia nhấn mạnh việc thuận theo tự nhiên, phản đối can thiệp nhân tạo."
+            ]
+          },
+          {
+            "title": "认为...皆... — Cho rằng... đều...",
+            "explanation": "\"认为...皆...\" diễn đạt quan điểm phổ quát của một trường phái. \"皆\" là từ cổ nghĩa là \"tất cả / đều\", thường dùng trong văn cổ điển và văn phong trang trọng.",
+            "examples": [
+              "佛教认为万物皆苦，需从苦中解脱。 = Phật giáo cho rằng vạn vật đều khổ, cần thoát khỏi khổ đau.",
+              "道家认为万事皆有其自然规律。 = Đạo gia cho rằng mọi việc đều có quy luật tự nhiên của nó."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"中庸\" trong Nho giáo có nghĩa là gì?",
+            "options": [
+              "Vô vi",
+              "Nhân quả",
+              "Đường lối trung hòa",
+              "Âm dương"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "\"涅槃\" thuộc tư tưởng nào?",
+            "options": [
+              "Nho giáo",
+              "Đạo giáo",
+              "Phật giáo",
+              "Pháp gia"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "阴阳",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Nhân quả",
+              "Âm dương",
+              "Trung dung",
+              "Vô vi"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "无为而治",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Tu thân tề gia",
+              "Vô vi nhi trị",
+              "Cách vật trí tri",
+              "Đạo pháp tự nhiên"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Chọn từ đúng: \"___是佛教修行的最高境界。\"",
+            "options": [
+              "中庸",
+              "阴阳",
+              "涅槃",
+              "仁义"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Âm dương\":",
+            "options": [
+              "阴阳"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 3: Khoa Học & Nghiên Cứu",
+      "type": "vocabulary",
+      "xp": 35,
+      "min": 15,
+      "order": 3,
+      "content": {
+        "image": "/images/lessons/technology.svg",
+        "intro": "Từ vựng chuyên ngành về nghiên cứu khoa học, phương pháp luận và trình bày kết quả — cần thiết cho môi trường học thuật và chuyên nghiệp cấp cao.",
+        "vocabulary": [
+          {
+            "word": "方法论",
+            "pinyin": "fāng fǎ lùn",
+            "meaning": "Phương pháp luận",
+            "example": "这项研究采用了创新的方法论。",
+            "example_vi": "Nghiên cứu này áp dụng phương pháp luận sáng tạo.",
+            "tags": [
+              "nghiên cứu"
+            ]
+          },
+          {
+            "word": "实证",
+            "pinyin": "shí zhèng",
+            "meaning": "Thực chứng / Bằng chứng thực nghiệm",
+            "example": "实证研究需要大量数据支持。",
+            "example_vi": "Nghiên cứu thực chứng cần sự hỗ trợ của lượng lớn dữ liệu.",
+            "tags": [
+              "nghiên cứu"
+            ]
+          },
+          {
+            "word": "定量分析",
+            "pinyin": "dìng liàng fēn xī",
+            "meaning": "Phân tích định lượng",
+            "example": "定量分析使用统计方法处理数据。",
+            "example_vi": "Phân tích định lượng sử dụng phương pháp thống kê để xử lý dữ liệu.",
+            "tags": [
+              "nghiên cứu",
+              "thống kê"
+            ]
+          },
+          {
+            "word": "定性研究",
+            "pinyin": "dìng xìng yán jiū",
+            "meaning": "Nghiên cứu định tính",
+            "example": "定性研究通过访谈深入了解现象。",
+            "example_vi": "Nghiên cứu định tính thông qua phỏng vấn để hiểu sâu hiện tượng.",
+            "tags": [
+              "nghiên cứu"
+            ]
+          },
+          {
+            "word": "对照组",
+            "pinyin": "duì zhào zǔ",
+            "meaning": "Nhóm đối chứng",
+            "example": "实验设置了实验组和对照组。",
+            "example_vi": "Thí nghiệm thiết lập nhóm thực nghiệm và nhóm đối chứng.",
+            "tags": [
+              "thí nghiệm"
+            ]
+          },
+          {
+            "word": "显著性",
+            "pinyin": "xiǎn zhù xìng",
+            "meaning": "Tính có ý nghĩa thống kê / Độ rõ rệt",
+            "example": "结果的显著性通过p值来衡量。",
+            "example_vi": "Tính có ý nghĩa thống kê của kết quả được đo bằng giá trị p.",
+            "tags": [
+              "thống kê"
+            ]
+          },
+          {
+            "word": "推论",
+            "pinyin": "tuī lùn",
+            "meaning": "Suy luận / Kết luận suy ra",
+            "example": "从实验数据中可以得出合理推论。",
+            "example_vi": "Từ dữ liệu thực nghiệm có thể rút ra suy luận hợp lý.",
+            "tags": [
+              "logic",
+              "nghiên cứu"
+            ]
+          },
+          {
+            "word": "可重复性",
+            "pinyin": "kě chóng fù xìng",
+            "meaning": "Tính có thể lặp lại / Khả năng tái tạo",
+            "example": "科学实验必须具有可重复性。",
+            "example_vi": "Thí nghiệm khoa học phải có tính có thể lặp lại.",
+            "tags": [
+              "nghiên cứu"
+            ]
+          },
+          {
+            "word": "同行评审",
+            "pinyin": "tóng háng píng shěn",
+            "meaning": "Bình duyệt đồng nghiệp / Phản biện ngang hàng",
+            "example": "论文发表前需经过同行评审。",
+            "example_vi": "Trước khi đăng luận văn cần qua bình duyệt đồng nghiệp.",
+            "tags": [
+              "học thuật"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "通过...来... — Thông qua... để...",
+            "explanation": "\"通过...来...\" diễn đạt phương tiện hoặc phương pháp được sử dụng để đạt một mục đích. \"通过\" chỉ phương tiện, \"来\" kết nối với hành động mục đích.",
+            "examples": [
+              "通过大量实验来验证这一假设。 = Thông qua nhiều thí nghiệm để kiểm chứng giả thuyết này.",
+              "通过统计分析来得出可靠的结论。 = Thông qua phân tích thống kê để rút ra kết luận đáng tin cậy."
+            ]
+          },
+          {
+            "title": "在...基础上 — Trên cơ sở...",
+            "explanation": "\"在...基础上\" diễn tả việc xây dựng hoặc phát triển từ nền tảng đã có. Thường dùng trong văn khoa học để chỉ rõ nghiên cứu được tiến hành từ đâu.",
+            "examples": [
+              "在前人研究的基础上，本文提出了新的理论框架。 = Trên cơ sở nghiên cứu của người đi trước, bài này đề xuất khung lý thuyết mới.",
+              "在现有数据的基础上，我们进行了深入分析。 = Trên cơ sở dữ liệu hiện có, chúng tôi tiến hành phân tích chuyên sâu."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"对照组\" trong thí nghiệm khoa học là gì?",
+            "options": [
+              "Nhóm thực nghiệm",
+              "Nhóm đối chứng",
+              "Nhóm kiểm soát ngẫu nhiên",
+              "Nhóm phân tích"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Phương pháp luận\"?",
+            "options": [
+              "实证",
+              "推论",
+              "方法论",
+              "显著性"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "同行评审",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Phân tích định lượng",
+              "Bình duyệt đồng nghiệp",
+              "Tính lặp lại",
+              "Suy luận"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "定量分析",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Nghiên cứu định tính",
+              "Phân tích định lượng",
+              "Thực chứng",
+              "Giả thuyết"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Chọn từ đúng: \"科学实验必须具有___。\"",
+            "options": [
+              "显著性",
+              "同行评审",
+              "可重复性",
+              "方法论"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Suy luận\":",
+            "options": [
+              "推论"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 4: Ngôn Ngữ Pháp Lý",
+      "type": "vocabulary",
+      "xp": 35,
+      "min": 15,
+      "order": 4,
+      "content": {
+        "image": "/images/lessons/generic.svg",
+        "intro": "Ngôn ngữ pháp lý và chính trị đòi hỏi độ chính xác cao. Đây là từ vựng cần thiết để đọc hiểu văn bản pháp luật, hợp đồng và tài liệu chính trị.",
+        "vocabulary": [
+          {
+            "word": "司法",
+            "pinyin": "sī fǎ",
+            "meaning": "Tư pháp",
+            "example": "司法独立是法治社会的基本原则。",
+            "example_vi": "Tư pháp độc lập là nguyên tắc cơ bản của xã hội pháp quyền.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "诉讼",
+            "pinyin": "sù sòng",
+            "meaning": "Tố tụng / Kiện tụng",
+            "example": "诉讼程序必须严格遵守法定程序。",
+            "example_vi": "Trình tự tố tụng phải tuân thủ nghiêm ngặt thủ tục pháp định.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "裁决",
+            "pinyin": "cái jué",
+            "meaning": "Phán quyết / Trọng tài",
+            "example": "仲裁机构作出了最终裁决。",
+            "example_vi": "Cơ quan trọng tài đã đưa ra phán quyết cuối cùng.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "合同条款",
+            "pinyin": "hé tong tiáo kuǎn",
+            "meaning": "Điều khoản hợp đồng",
+            "example": "双方对合同条款达成一致。",
+            "example_vi": "Hai bên đã đạt được sự đồng thuận về các điều khoản hợp đồng.",
+            "tags": [
+              "pháp luật",
+              "thương mại"
+            ]
+          },
+          {
+            "word": "违约",
+            "pinyin": "wéi yuē",
+            "meaning": "Vi phạm hợp đồng / Không thực hiện cam kết",
+            "example": "一方违约须承担相应的法律责任。",
+            "example_vi": "Bên vi phạm hợp đồng phải chịu trách nhiệm pháp lý tương ứng.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "管辖权",
+            "pinyin": "guǎn xiá quán",
+            "meaning": "Quyền tài phán / Thẩm quyền",
+            "example": "本案的管辖权归当地法院。",
+            "example_vi": "Quyền tài phán của vụ án này thuộc về tòa án địa phương.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "申诉",
+            "pinyin": "shēn sù",
+            "meaning": "Kháng cáo / Khiếu nại",
+            "example": "被告有权就此判决提出申诉。",
+            "example_vi": "Bị cáo có quyền kháng cáo phán quyết này.",
+            "tags": [
+              "pháp luật"
+            ]
+          },
+          {
+            "word": "主权",
+            "pinyin": "zhǔ quán",
+            "meaning": "Chủ quyền",
+            "example": "任何国家不得侵犯他国主权。",
+            "example_vi": "Không quốc gia nào được xâm phạm chủ quyền của nước khác.",
+            "tags": [
+              "chính trị",
+              "quốc tế"
+            ]
+          },
+          {
+            "word": "条约",
+            "pinyin": "tiáo yuē",
+            "meaning": "Hiệp ước / Điều ước",
+            "example": "两国签署了双边贸易条约。",
+            "example_vi": "Hai nước đã ký kết hiệp ước thương mại song phương.",
+            "tags": [
+              "ngoại giao"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "须...才能 — Phải... mới có thể...",
+            "explanation": "\"须\" là từ pháp lý thay cho \"必须\" (phải), mang tính bắt buộc. Cấu trúc \"须...才能...\" nhấn mạnh điều kiện tiên quyết để một hành động được thực hiện hợp pháp.",
+            "examples": [
+              "须经法院批准，才能执行该决定。 = Phải được tòa án phê chuẩn mới có thể thi hành quyết định đó.",
+              "须双方同意，合同才能修改。 = Phải được cả hai bên đồng ý, hợp đồng mới có thể sửa đổi."
+            ]
+          },
+          {
+            "title": "依据...规定 — Theo quy định của...",
+            "explanation": "\"依据...规定\" (hoặc \"根据...规定\") là cấu trúc pháp lý chuẩn dùng để trích dẫn căn cứ pháp lý. Thường xuất hiện ở đầu câu trong văn bản pháp lý.",
+            "examples": [
+              "依据《合同法》的规定，违约方须赔偿损失。 = Theo quy định của Luật Hợp đồng, bên vi phạm phải bồi thường thiệt hại.",
+              "根据国际法的规定，各国主权平等。 = Theo quy định của luật quốc tế, chủ quyền các nước bình đẳng nhau."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"裁决\" có nghĩa là gì?",
+            "options": [
+              "Tố tụng",
+              "Phán quyết",
+              "Kháng cáo",
+              "Điều khoản"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Chủ quyền\"?",
+            "options": [
+              "条约",
+              "司法",
+              "主权",
+              "管辖权"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "违约",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Kháng cáo",
+              "Tư pháp",
+              "Vi phạm hợp đồng",
+              "Phán quyết"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "申诉",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Tố tụng",
+              "Điều ước",
+              "Thẩm quyền",
+              "Kháng cáo"
+            ],
+            "ans": 3
+          },
+          {
+            "type": "fill",
+            "q": "Chọn từ đúng: \"两国签署了双边贸易___。\"",
+            "options": [
+              "司法",
+              "条约",
+              "诉讼",
+              "裁决"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Tư pháp\":",
+            "options": [
+              "司法"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 5: Tu Từ & Hùng Biện",
+      "type": "vocabulary",
+      "xp": 35,
+      "min": 15,
+      "order": 5,
+      "content": {
+        "image": "/images/lessons/hobbies.svg",
+        "intro": "Tu từ học và nghệ thuật hùng biện là đỉnh cao của ngôn ngữ. Ở cấp độ HSK6, bạn cần nắm vững các biện pháp tu từ và phong cách ngôn ngữ trong văn bản văn học và hùng biện.",
+        "vocabulary": [
+          {
+            "word": "排比",
+            "pinyin": "pái bǐ",
+            "meaning": "Phép điệp cấu (liệt kê song song)",
+            "example": "这篇演讲大量使用排比句，气势磅礴。",
+            "example_vi": "Bài diễn văn này sử dụng nhiều câu điệp cấu, khí thế hùng hồn.",
+            "tags": [
+              "tu từ"
+            ]
+          },
+          {
+            "word": "夸张",
+            "pinyin": "kuā zhāng",
+            "meaning": "Phép phóng đại",
+            "example": "夸张是诗歌中常用的修辞手法。",
+            "example_vi": "Phóng đại là biện pháp tu từ thường dùng trong thơ.",
+            "tags": [
+              "tu từ"
+            ]
+          },
+          {
+            "word": "反问",
+            "pinyin": "fǎn wèn",
+            "meaning": "Câu hỏi tu từ (hỏi mà không cần trả lời)",
+            "example": "这难道不是我们应尽的责任吗？",
+            "example_vi": "Đây lẽ nào không phải là trách nhiệm chúng ta phải làm?",
+            "tags": [
+              "tu từ"
+            ]
+          },
+          {
+            "word": "借代",
+            "pinyin": "jiè dài",
+            "meaning": "Phép hoán dụ (dùng thứ liên quan thay thứ được nói đến)",
+            "example": "\"让笔杆子说话\"使用了借代手法。",
+            "example_vi": "\"Hãy để cây bút lên tiếng\" sử dụng phép hoán dụ.",
+            "tags": [
+              "tu từ"
+            ]
+          },
+          {
+            "word": "通感",
+            "pinyin": "tōng gǎn",
+            "meaning": "Phép chuyển cảm giác / Synesthesia",
+            "example": "朱自清在散文中巧妙运用通感。",
+            "example_vi": "Chu Tự Thanh khéo léo sử dụng phép chuyển cảm giác trong tản văn.",
+            "tags": [
+              "tu từ",
+              "văn học"
+            ]
+          },
+          {
+            "word": "对偶",
+            "pinyin": "duì ǒu",
+            "meaning": "Phép đối ngẫu / Câu đối",
+            "example": "对联是中国传统的对偶艺术形式。",
+            "example_vi": "Câu đối là hình thức nghệ thuật đối ngẫu truyền thống của Trung Quốc.",
+            "tags": [
+              "tu từ",
+              "văn hóa"
+            ]
+          },
+          {
+            "word": "顿挫",
+            "pinyin": "dùn cuò",
+            "meaning": "Trầm bổng / Nhịp điệu lên xuống",
+            "example": "他的演讲抑扬顿挫，引人入胜。",
+            "example_vi": "Bài diễn thuyết của ông trầm bổng lên xuống, thu hút người nghe.",
+            "tags": [
+              "hùng biện"
+            ]
+          },
+          {
+            "word": "气势",
+            "pinyin": "qì shì",
+            "meaning": "Khí thế / Sức mạnh diễn ngôn",
+            "example": "这段话气势磅礴，令人震撼。",
+            "example_vi": "Đoạn này khí thế hùng mạnh, khiến người ta xúc động.",
+            "tags": [
+              "hùng biện"
+            ]
+          },
+          {
+            "word": "感召力",
+            "pinyin": "gǎn zhào lì",
+            "meaning": "Sức thu hút / Khả năng truyền cảm hứng",
+            "example": "优秀的领导者具有强大的感召力。",
+            "example_vi": "Lãnh đạo xuất sắc có sức thu hút mạnh mẽ.",
+            "tags": [
+              "hùng biện",
+              "lãnh đạo"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "难道不是...吗？ — Lẽ nào lại không... sao?",
+            "explanation": "\"难道...吗\" là cấu trúc câu hỏi tu từ (反问 fǎnwèn) dùng để khẳng định mạnh mẽ bằng hình thức phủ định. Người nói không cần câu trả lời — câu trả lời đã ngầm hiểu.",
+            "examples": [
+              "难道我们不应该保护环境吗？ = Lẽ nào chúng ta lại không cần bảo vệ môi trường?",
+              "难道这不是显而易见的事实吗？ = Lẽ nào đây không phải là sự thật hiển nhiên?"
+            ]
+          },
+          {
+            "title": "抑扬顿挫 — Trầm bổng / Có nhịp điệu",
+            "explanation": "\"抑扬顿挫\" là thành ngữ mô tả giọng nói hoặc văn phong có sự lên xuống nhịp nhàng, làm tăng sức thuyết phục. Thường dùng để khen ngợi bài diễn văn hoặc thơ.",
+            "examples": [
+              "好的演讲者说话抑扬顿挫，听众不会感到枯燥。 = Người diễn thuyết giỏi nói chuyện trầm bổng, khán giả không cảm thấy nhàm chán.",
+              "这首诗读来抑扬顿挫，极富音乐感。 = Đọc bài thơ này lên xuống nhịp nhàng, rất giàu cảm giác âm nhạc."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"排比\" là biện pháp tu từ gì?",
+            "options": [
+              "Phóng đại",
+              "Hoán dụ",
+              "Phép điệp cấu",
+              "Câu hỏi tu từ"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Từ nào mô tả nhịp điệu trầm bổng trong diễn thuyết?",
+            "options": [
+              "气势",
+              "感召力",
+              "顿挫",
+              "通感"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "夸张",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Phép đối ngẫu",
+              "Phóng đại",
+              "Hoán dụ",
+              "Điệp cấu"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "对偶",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Câu hỏi tu từ",
+              "Chuyển cảm giác",
+              "Phép đối ngẫu",
+              "Khí thế"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Chọn từ đúng: \"优秀的领导者具有强大的___。\"",
+            "options": [
+              "排比",
+              "反问",
+              "感召力",
+              "顿挫"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Câu hỏi tu từ\":",
+            "options": [
+              "反问"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 6: Ngữ Pháp Nâng Cao",
+      "type": "vocabulary",
+      "xp": 35,
+      "min": 15,
+      "order": 6,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Nắm vững các cấu trúc ngữ pháp phức tạp là yêu cầu tối quan trọng ở cấp độ HSK6. Bài học này tập trung vào các mẫu ngữ pháp đặc trưng xuất hiện trong văn viết cấp cao.",
+        "vocabulary": [
+          {
+            "word": "固然",
+            "pinyin": "gù rán",
+            "meaning": "Dù sao cũng / Cố nhiên là (nhượng bộ)",
+            "example": "这方法固然有效，但成本太高。",
+            "example_vi": "Phương pháp này dù sao cũng hiệu quả, nhưng chi phí quá cao.",
+            "tags": [
+              "ngữ pháp",
+              "nhượng bộ"
+            ]
+          },
+          {
+            "word": "何况",
+            "pinyin": "hé kuàng",
+            "meaning": "Huống hồ / Hơn nữa (tăng thêm lý lẽ)",
+            "example": "小事尚且难做，何况这么大的项目。",
+            "example_vi": "Việc nhỏ còn khó làm, huống hồ dự án lớn như vậy.",
+            "tags": [
+              "ngữ pháp"
+            ]
+          },
+          {
+            "word": "宁可...也不... ",
+            "pinyin": "nìng kě...yě bù...",
+            "meaning": "Thà... còn hơn... (lựa chọn kiên quyết)",
+            "example": "我宁可独自前行，也不半途而废。",
+            "example_vi": "Tôi thà một mình tiến bước, còn hơn bỏ dở giữa chừng.",
+            "tags": [
+              "ngữ pháp",
+              "biểu cảm"
+            ]
+          },
+          {
+            "word": "非但...反而...",
+            "pinyin": "fēi dàn...fǎn ér...",
+            "meaning": "Không những không... mà ngược lại còn...",
+            "example": "他非但没有道谢，反而提出批评。",
+            "example_vi": "Anh ta không những không cảm ơn mà ngược lại còn đưa ra phê bình.",
+            "tags": [
+              "ngữ pháp"
+            ]
+          },
+          {
+            "word": "莫不",
+            "pinyin": "mò bù",
+            "meaning": "Không ai không / Mọi người đều",
+            "example": "听到这个消息，众人莫不震惊。",
+            "example_vi": "Nghe tin này, mọi người đều kinh ngạc.",
+            "tags": [
+              "ngữ pháp",
+              "văn cổ"
+            ]
+          },
+          {
+            "word": "何尝",
+            "pinyin": "hé cháng",
+            "meaning": "Chưa từng / Nào phải không (phủ định nhẹ)",
+            "example": "这又何尝不是一种挑战呢？",
+            "example_vi": "Điều này nào phải không phải là một thách thức?",
+            "tags": [
+              "ngữ pháp"
+            ]
+          },
+          {
+            "word": "姑且",
+            "pinyin": "gū qiě",
+            "meaning": "Tạm thời / Cứ cho là (nhượng bộ tạm thời)",
+            "example": "姑且不论结果，过程本身就有意义。",
+            "example_vi": "Tạm thời không bàn đến kết quả, bản thân quá trình đã có ý nghĩa.",
+            "tags": [
+              "ngữ pháp"
+            ]
+          },
+          {
+            "word": "纵使",
+            "pinyin": "zòng shǐ",
+            "meaning": "Dù cho / Dẫu cho (điều kiện cực đoan)",
+            "example": "纵使困难重重，我们也不退缩。",
+            "example_vi": "Dù cho khó khăn chồng chất, chúng ta cũng không lùi bước.",
+            "tags": [
+              "ngữ pháp",
+              "điều kiện"
+            ]
+          },
+          {
+            "word": "无非",
+            "pinyin": "wú fēi",
+            "meaning": "Chẳng qua là / Không gì ngoài",
+            "example": "他的抱怨无非是想引起注意。",
+            "example_vi": "Sự phàn nàn của anh ta chẳng qua là muốn thu hút sự chú ý.",
+            "tags": [
+              "ngữ pháp"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "固然...但是/然而... — Dù sao... nhưng...",
+            "explanation": "\"固然\" là liên từ nhượng bộ mạnh hơn \"虽然\", thừa nhận một điều là đúng nhưng tiếp theo đưa ra điểm hạn chế hoặc phản biện. Thường dùng trong văn nghị luận cấp cao.",
+            "examples": [
+              "固然才华重要，但努力同样不可或缺。 = Dù sao tài năng quan trọng, nhưng nỗ lực cũng không thể thiếu.",
+              "固然改革存在风险，然而不改革风险更大。 = Dù sao cải cách tồn tại rủi ro, tuy nhiên không cải cách rủi ro còn lớn hơn."
+            ]
+          },
+          {
+            "title": "非但...反而... — Không những không... mà ngược lại...",
+            "explanation": "\"非但...反而...\" diễn tả kết quả hoàn toàn trái ngược với kỳ vọng. Mạnh hơn \"不但...而且...\", được dùng khi muốn nhấn mạnh sự nghịch lý hoặc bất ngờ.",
+            "examples": [
+              "他的道歉非但没有解决问题，反而加剧了矛盾。 = Lời xin lỗi của anh ta không những không giải quyết vấn đề mà ngược lại còn làm trầm trọng thêm mâu thuẫn.",
+              "这个政策非但无效，反而造成了更大的损失。 = Chính sách này không những không hiệu quả mà ngược lại còn gây ra thiệt hại lớn hơn."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"固然\" có chức năng gì trong câu?",
+            "options": [
+              "Tăng thêm lý lẽ",
+              "Nhượng bộ",
+              "Phủ định",
+              "So sánh"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "\"无非\" có nghĩa là gì?",
+            "options": [
+              "Dù cho",
+              "Tạm thời",
+              "Chẳng qua là",
+              "Huống hồ"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "纵使",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Tạm thời",
+              "Chưa từng",
+              "Dù cho",
+              "Không ai không"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "何况",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Huống hồ",
+              "Chẳng qua là",
+              "Dù sao",
+              "Dẫu cho"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "fill",
+            "q": "Chọn từ đúng: \"他___没有道谢，___提出批评。\"",
+            "options": [
+              "虽然...但是",
+              "非但...反而",
+              "固然...然而",
+              "宁可...也不"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Huống hồ\":",
+            "options": [
+              "何况"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    }
+  ]
+}

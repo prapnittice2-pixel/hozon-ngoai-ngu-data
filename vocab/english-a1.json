@@ -1,0 +1,2502 @@
+[
+  {
+    "w": "hello",
+    "m": "xin chào",
+    "cat": "greeting"
+  },
+  {
+    "w": "hi",
+    "m": "chào (thân mật)",
+    "cat": "greeting"
+  },
+  {
+    "w": "goodbye",
+    "m": "tạm biệt",
+    "cat": "greeting"
+  },
+  {
+    "w": "bye",
+    "m": "tạm biệt (thân mật)",
+    "cat": "greeting"
+  },
+  {
+    "w": "thank you",
+    "m": "cảm ơn",
+    "cat": "greeting"
+  },
+  {
+    "w": "thanks",
+    "m": "cảm ơn (thân mật)",
+    "cat": "greeting"
+  },
+  {
+    "w": "sorry",
+    "m": "xin lỗi",
+    "cat": "greeting"
+  },
+  {
+    "w": "excuse me",
+    "m": "xin lỗi / cho hỏi",
+    "cat": "greeting"
+  },
+  {
+    "w": "please",
+    "m": "làm ơn",
+    "cat": "greeting"
+  },
+  {
+    "w": "yes",
+    "m": "có, vâng",
+    "cat": "greeting"
+  },
+  {
+    "w": "no",
+    "m": "không",
+    "cat": "greeting"
+  },
+  {
+    "w": "okay",
+    "m": "được, ổn",
+    "cat": "greeting"
+  },
+  {
+    "w": "good morning",
+    "m": "chào buổi sáng",
+    "cat": "greeting"
+  },
+  {
+    "w": "good afternoon",
+    "m": "chào buổi chiều",
+    "cat": "greeting"
+  },
+  {
+    "w": "good evening",
+    "m": "chào buổi tối",
+    "cat": "greeting"
+  },
+  {
+    "w": "good night",
+    "m": "chúc ngủ ngon",
+    "cat": "greeting"
+  },
+  {
+    "w": "how are you",
+    "m": "bạn có khỏe không",
+    "cat": "greeting"
+  },
+  {
+    "w": "nice to meet you",
+    "m": "rất vui được gặp bạn",
+    "cat": "greeting"
+  },
+  {
+    "w": "welcome",
+    "m": "chào mừng",
+    "cat": "greeting"
+  },
+  {
+    "w": "I",
+    "m": "tôi",
+    "cat": "pronoun"
+  },
+  {
+    "w": "you",
+    "m": "bạn, anh, chị",
+    "cat": "pronoun"
+  },
+  {
+    "w": "he",
+    "m": "anh ấy, ông ấy",
+    "cat": "pronoun"
+  },
+  {
+    "w": "she",
+    "m": "cô ấy, bà ấy",
+    "cat": "pronoun"
+  },
+  {
+    "w": "it",
+    "m": "nó (đồ vật, con vật)",
+    "cat": "pronoun"
+  },
+  {
+    "w": "we",
+    "m": "chúng tôi, chúng ta",
+    "cat": "pronoun"
+  },
+  {
+    "w": "they",
+    "m": "họ, chúng",
+    "cat": "pronoun"
+  },
+  {
+    "w": "me",
+    "m": "tôi (tân ngữ)",
+    "cat": "pronoun"
+  },
+  {
+    "w": "him",
+    "m": "anh ấy (tân ngữ)",
+    "cat": "pronoun"
+  },
+  {
+    "w": "her",
+    "m": "cô ấy (tân ngữ)",
+    "cat": "pronoun"
+  },
+  {
+    "w": "us",
+    "m": "chúng tôi (tân ngữ)",
+    "cat": "pronoun"
+  },
+  {
+    "w": "them",
+    "m": "họ (tân ngữ)",
+    "cat": "pronoun"
+  },
+  {
+    "w": "my",
+    "m": "của tôi",
+    "cat": "pronoun"
+  },
+  {
+    "w": "your",
+    "m": "của bạn",
+    "cat": "pronoun"
+  },
+  {
+    "w": "his",
+    "m": "của anh ấy",
+    "cat": "pronoun"
+  },
+  {
+    "w": "her",
+    "m": "của cô ấy",
+    "cat": "pronoun"
+  },
+  {
+    "w": "our",
+    "m": "của chúng tôi",
+    "cat": "pronoun"
+  },
+  {
+    "w": "their",
+    "m": "của họ",
+    "cat": "pronoun"
+  },
+  {
+    "w": "this",
+    "m": "cái này",
+    "cat": "pronoun"
+  },
+  {
+    "w": "that",
+    "m": "cái đó",
+    "cat": "pronoun"
+  },
+  {
+    "w": "one",
+    "m": "một",
+    "cat": "number"
+  },
+  {
+    "w": "two",
+    "m": "hai",
+    "cat": "number"
+  },
+  {
+    "w": "three",
+    "m": "ba",
+    "cat": "number"
+  },
+  {
+    "w": "four",
+    "m": "bốn",
+    "cat": "number"
+  },
+  {
+    "w": "five",
+    "m": "năm",
+    "cat": "number"
+  },
+  {
+    "w": "six",
+    "m": "sáu",
+    "cat": "number"
+  },
+  {
+    "w": "seven",
+    "m": "bảy",
+    "cat": "number"
+  },
+  {
+    "w": "eight",
+    "m": "tám",
+    "cat": "number"
+  },
+  {
+    "w": "nine",
+    "m": "chín",
+    "cat": "number"
+  },
+  {
+    "w": "ten",
+    "m": "mười",
+    "cat": "number"
+  },
+  {
+    "w": "eleven",
+    "m": "mười một",
+    "cat": "number"
+  },
+  {
+    "w": "twelve",
+    "m": "mười hai",
+    "cat": "number"
+  },
+  {
+    "w": "thirteen",
+    "m": "mười ba",
+    "cat": "number"
+  },
+  {
+    "w": "fourteen",
+    "m": "mười bốn",
+    "cat": "number"
+  },
+  {
+    "w": "fifteen",
+    "m": "mười lăm",
+    "cat": "number"
+  },
+  {
+    "w": "sixteen",
+    "m": "mười sáu",
+    "cat": "number"
+  },
+  {
+    "w": "seventeen",
+    "m": "mười bảy",
+    "cat": "number"
+  },
+  {
+    "w": "eighteen",
+    "m": "mười tám",
+    "cat": "number"
+  },
+  {
+    "w": "nineteen",
+    "m": "mười chín",
+    "cat": "number"
+  },
+  {
+    "w": "twenty",
+    "m": "hai mươi",
+    "cat": "number"
+  },
+  {
+    "w": "hundred",
+    "m": "trăm",
+    "cat": "number"
+  },
+  {
+    "w": "thousand",
+    "m": "nghìn",
+    "cat": "number"
+  },
+  {
+    "w": "zero",
+    "m": "không",
+    "cat": "number"
+  },
+  {
+    "w": "first",
+    "m": "thứ nhất",
+    "cat": "number"
+  },
+  {
+    "w": "second",
+    "m": "thứ hai",
+    "cat": "number"
+  },
+  {
+    "w": "third",
+    "m": "thứ ba",
+    "cat": "number"
+  },
+  {
+    "w": "mother",
+    "m": "mẹ",
+    "cat": "family"
+  },
+  {
+    "w": "father",
+    "m": "bố, cha",
+    "cat": "family"
+  },
+  {
+    "w": "brother",
+    "m": "anh trai, em trai",
+    "cat": "family"
+  },
+  {
+    "w": "sister",
+    "m": "chị gái, em gái",
+    "cat": "family"
+  },
+  {
+    "w": "son",
+    "m": "con trai",
+    "cat": "family"
+  },
+  {
+    "w": "daughter",
+    "m": "con gái",
+    "cat": "family"
+  },
+  {
+    "w": "grandmother",
+    "m": "bà nội, bà ngoại",
+    "cat": "family"
+  },
+  {
+    "w": "grandfather",
+    "m": "ông nội, ông ngoại",
+    "cat": "family"
+  },
+  {
+    "w": "aunt",
+    "m": "cô, dì, bác gái",
+    "cat": "family"
+  },
+  {
+    "w": "uncle",
+    "m": "chú, dượng, bác trai",
+    "cat": "family"
+  },
+  {
+    "w": "baby",
+    "m": "em bé",
+    "cat": "family"
+  },
+  {
+    "w": "child",
+    "m": "đứa trẻ",
+    "cat": "family"
+  },
+  {
+    "w": "parents",
+    "m": "bố mẹ",
+    "cat": "family"
+  },
+  {
+    "w": "family",
+    "m": "gia đình",
+    "cat": "family"
+  },
+  {
+    "w": "husband",
+    "m": "chồng",
+    "cat": "family"
+  },
+  {
+    "w": "wife",
+    "m": "vợ",
+    "cat": "family"
+  },
+  {
+    "w": "friend",
+    "m": "bạn bè",
+    "cat": "family"
+  },
+  {
+    "w": "Monday",
+    "m": "thứ Hai",
+    "cat": "time"
+  },
+  {
+    "w": "Tuesday",
+    "m": "thứ Ba",
+    "cat": "time"
+  },
+  {
+    "w": "Wednesday",
+    "m": "thứ Tư",
+    "cat": "time"
+  },
+  {
+    "w": "Thursday",
+    "m": "thứ Năm",
+    "cat": "time"
+  },
+  {
+    "w": "Friday",
+    "m": "thứ Sáu",
+    "cat": "time"
+  },
+  {
+    "w": "Saturday",
+    "m": "thứ Bảy",
+    "cat": "time"
+  },
+  {
+    "w": "Sunday",
+    "m": "Chủ nhật",
+    "cat": "time"
+  },
+  {
+    "w": "January",
+    "m": "tháng Một",
+    "cat": "time"
+  },
+  {
+    "w": "February",
+    "m": "tháng Hai",
+    "cat": "time"
+  },
+  {
+    "w": "March",
+    "m": "tháng Ba",
+    "cat": "time"
+  },
+  {
+    "w": "April",
+    "m": "tháng Tư",
+    "cat": "time"
+  },
+  {
+    "w": "May",
+    "m": "tháng Năm",
+    "cat": "time"
+  },
+  {
+    "w": "June",
+    "m": "tháng Sáu",
+    "cat": "time"
+  },
+  {
+    "w": "July",
+    "m": "tháng Bảy",
+    "cat": "time"
+  },
+  {
+    "w": "August",
+    "m": "tháng Tám",
+    "cat": "time"
+  },
+  {
+    "w": "September",
+    "m": "tháng Chín",
+    "cat": "time"
+  },
+  {
+    "w": "October",
+    "m": "tháng Mười",
+    "cat": "time"
+  },
+  {
+    "w": "November",
+    "m": "tháng Mười Một",
+    "cat": "time"
+  },
+  {
+    "w": "December",
+    "m": "tháng Mười Hai",
+    "cat": "time"
+  },
+  {
+    "w": "today",
+    "m": "hôm nay",
+    "cat": "time"
+  },
+  {
+    "w": "tomorrow",
+    "m": "ngày mai",
+    "cat": "time"
+  },
+  {
+    "w": "yesterday",
+    "m": "hôm qua",
+    "cat": "time"
+  },
+  {
+    "w": "morning",
+    "m": "buổi sáng",
+    "cat": "time"
+  },
+  {
+    "w": "afternoon",
+    "m": "buổi chiều",
+    "cat": "time"
+  },
+  {
+    "w": "evening",
+    "m": "buổi tối",
+    "cat": "time"
+  },
+  {
+    "w": "night",
+    "m": "ban đêm",
+    "cat": "time"
+  },
+  {
+    "w": "week",
+    "m": "tuần",
+    "cat": "time"
+  },
+  {
+    "w": "month",
+    "m": "tháng",
+    "cat": "time"
+  },
+  {
+    "w": "year",
+    "m": "năm",
+    "cat": "time"
+  },
+  {
+    "w": "hour",
+    "m": "giờ",
+    "cat": "time"
+  },
+  {
+    "w": "minute",
+    "m": "phút",
+    "cat": "time"
+  },
+  {
+    "w": "now",
+    "m": "bây giờ",
+    "cat": "time"
+  },
+  {
+    "w": "later",
+    "m": "sau này",
+    "cat": "time"
+  },
+  {
+    "w": "red",
+    "m": "màu đỏ",
+    "cat": "color"
+  },
+  {
+    "w": "blue",
+    "m": "màu xanh dương",
+    "cat": "color"
+  },
+  {
+    "w": "green",
+    "m": "màu xanh lá",
+    "cat": "color"
+  },
+  {
+    "w": "yellow",
+    "m": "màu vàng",
+    "cat": "color"
+  },
+  {
+    "w": "white",
+    "m": "màu trắng",
+    "cat": "color"
+  },
+  {
+    "w": "black",
+    "m": "màu đen",
+    "cat": "color"
+  },
+  {
+    "w": "orange",
+    "m": "màu cam",
+    "cat": "color"
+  },
+  {
+    "w": "pink",
+    "m": "màu hồng",
+    "cat": "color"
+  },
+  {
+    "w": "purple",
+    "m": "màu tím",
+    "cat": "color"
+  },
+  {
+    "w": "brown",
+    "m": "màu nâu",
+    "cat": "color"
+  },
+  {
+    "w": "grey",
+    "m": "màu xám",
+    "cat": "color"
+  },
+  {
+    "w": "head",
+    "m": "đầu",
+    "cat": "body"
+  },
+  {
+    "w": "hand",
+    "m": "bàn tay",
+    "cat": "body"
+  },
+  {
+    "w": "eye",
+    "m": "mắt",
+    "cat": "body"
+  },
+  {
+    "w": "ear",
+    "m": "tai",
+    "cat": "body"
+  },
+  {
+    "w": "nose",
+    "m": "mũi",
+    "cat": "body"
+  },
+  {
+    "w": "mouth",
+    "m": "miệng",
+    "cat": "body"
+  },
+  {
+    "w": "hair",
+    "m": "tóc",
+    "cat": "body"
+  },
+  {
+    "w": "face",
+    "m": "khuôn mặt",
+    "cat": "body"
+  },
+  {
+    "w": "arm",
+    "m": "cánh tay",
+    "cat": "body"
+  },
+  {
+    "w": "leg",
+    "m": "chân",
+    "cat": "body"
+  },
+  {
+    "w": "foot",
+    "m": "bàn chân",
+    "cat": "body"
+  },
+  {
+    "w": "back",
+    "m": "lưng",
+    "cat": "body"
+  },
+  {
+    "w": "stomach",
+    "m": "bụng",
+    "cat": "body"
+  },
+  {
+    "w": "tooth",
+    "m": "răng",
+    "cat": "body"
+  },
+  {
+    "w": "finger",
+    "m": "ngón tay",
+    "cat": "body"
+  },
+  {
+    "w": "school",
+    "m": "trường học",
+    "cat": "place"
+  },
+  {
+    "w": "home",
+    "m": "nhà",
+    "cat": "place"
+  },
+  {
+    "w": "hospital",
+    "m": "bệnh viện",
+    "cat": "place"
+  },
+  {
+    "w": "shop",
+    "m": "cửa hàng",
+    "cat": "place"
+  },
+  {
+    "w": "park",
+    "m": "công viên",
+    "cat": "place"
+  },
+  {
+    "w": "restaurant",
+    "m": "nhà hàng",
+    "cat": "place"
+  },
+  {
+    "w": "bank",
+    "m": "ngân hàng",
+    "cat": "place"
+  },
+  {
+    "w": "office",
+    "m": "văn phòng",
+    "cat": "place"
+  },
+  {
+    "w": "church",
+    "m": "nhà thờ",
+    "cat": "place"
+  },
+  {
+    "w": "library",
+    "m": "thư viện",
+    "cat": "place"
+  },
+  {
+    "w": "station",
+    "m": "nhà ga, trạm",
+    "cat": "place"
+  },
+  {
+    "w": "city",
+    "m": "thành phố",
+    "cat": "place"
+  },
+  {
+    "w": "country",
+    "m": "đất nước",
+    "cat": "place"
+  },
+  {
+    "w": "street",
+    "m": "đường phố",
+    "cat": "place"
+  },
+  {
+    "w": "eat",
+    "m": "ăn",
+    "cat": "food"
+  },
+  {
+    "w": "drink",
+    "m": "uống",
+    "cat": "food"
+  },
+  {
+    "w": "water",
+    "m": "nước",
+    "cat": "food"
+  },
+  {
+    "w": "rice",
+    "m": "cơm, gạo",
+    "cat": "food"
+  },
+  {
+    "w": "bread",
+    "m": "bánh mì",
+    "cat": "food"
+  },
+  {
+    "w": "apple",
+    "m": "táo",
+    "cat": "food"
+  },
+  {
+    "w": "milk",
+    "m": "sữa",
+    "cat": "food"
+  },
+  {
+    "w": "egg",
+    "m": "trứng",
+    "cat": "food"
+  },
+  {
+    "w": "meat",
+    "m": "thịt",
+    "cat": "food"
+  },
+  {
+    "w": "fish",
+    "m": "cá",
+    "cat": "food"
+  },
+  {
+    "w": "vegetable",
+    "m": "rau",
+    "cat": "food"
+  },
+  {
+    "w": "fruit",
+    "m": "trái cây",
+    "cat": "food"
+  },
+  {
+    "w": "coffee",
+    "m": "cà phê",
+    "cat": "food"
+  },
+  {
+    "w": "tea",
+    "m": "trà",
+    "cat": "food"
+  },
+  {
+    "w": "sugar",
+    "m": "đường",
+    "cat": "food"
+  },
+  {
+    "w": "salt",
+    "m": "muối",
+    "cat": "food"
+  },
+  {
+    "w": "orange",
+    "m": "cam (trái cây)",
+    "cat": "food"
+  },
+  {
+    "w": "banana",
+    "m": "chuối",
+    "cat": "food"
+  },
+  {
+    "w": "chicken",
+    "m": "gà",
+    "cat": "food"
+  },
+  {
+    "w": "soup",
+    "m": "súp, canh",
+    "cat": "food"
+  },
+  {
+    "w": "be",
+    "m": "là, thì, ở",
+    "cat": "verb"
+  },
+  {
+    "w": "have",
+    "m": "có",
+    "cat": "verb"
+  },
+  {
+    "w": "go",
+    "m": "đi",
+    "cat": "verb"
+  },
+  {
+    "w": "come",
+    "m": "đến, lại",
+    "cat": "verb"
+  },
+  {
+    "w": "see",
+    "m": "nhìn, thấy",
+    "cat": "verb"
+  },
+  {
+    "w": "buy",
+    "m": "mua",
+    "cat": "verb"
+  },
+  {
+    "w": "make",
+    "m": "làm, tạo ra",
+    "cat": "verb"
+  },
+  {
+    "w": "do",
+    "m": "làm",
+    "cat": "verb"
+  },
+  {
+    "w": "like",
+    "m": "thích",
+    "cat": "verb"
+  },
+  {
+    "w": "want",
+    "m": "muốn",
+    "cat": "verb"
+  },
+  {
+    "w": "need",
+    "m": "cần",
+    "cat": "verb"
+  },
+  {
+    "w": "say",
+    "m": "nói",
+    "cat": "verb"
+  },
+  {
+    "w": "get",
+    "m": "lấy, nhận được",
+    "cat": "verb"
+  },
+  {
+    "w": "take",
+    "m": "lấy, mang",
+    "cat": "verb"
+  },
+  {
+    "w": "work",
+    "m": "làm việc",
+    "cat": "verb"
+  },
+  {
+    "w": "play",
+    "m": "chơi",
+    "cat": "verb"
+  },
+  {
+    "w": "walk",
+    "m": "đi bộ",
+    "cat": "verb"
+  },
+  {
+    "w": "run",
+    "m": "chạy",
+    "cat": "verb"
+  },
+  {
+    "w": "sit",
+    "m": "ngồi",
+    "cat": "verb"
+  },
+  {
+    "w": "stand",
+    "m": "đứng",
+    "cat": "verb"
+  },
+  {
+    "w": "open",
+    "m": "mở",
+    "cat": "verb"
+  },
+  {
+    "w": "close",
+    "m": "đóng",
+    "cat": "verb"
+  },
+  {
+    "w": "read",
+    "m": "đọc",
+    "cat": "verb"
+  },
+  {
+    "w": "write",
+    "m": "viết",
+    "cat": "verb"
+  },
+  {
+    "w": "listen",
+    "m": "nghe",
+    "cat": "verb"
+  },
+  {
+    "w": "speak",
+    "m": "nói chuyện",
+    "cat": "verb"
+  },
+  {
+    "w": "sleep",
+    "m": "ngủ",
+    "cat": "verb"
+  },
+  {
+    "w": "wake",
+    "m": "thức dậy",
+    "cat": "verb"
+  },
+  {
+    "w": "help",
+    "m": "giúp đỡ",
+    "cat": "verb"
+  },
+  {
+    "w": "give",
+    "m": "cho, tặng",
+    "cat": "verb"
+  },
+  {
+    "w": "ask",
+    "m": "hỏi",
+    "cat": "verb"
+  },
+  {
+    "w": "know",
+    "m": "biết",
+    "cat": "verb"
+  },
+  {
+    "w": "think",
+    "m": "nghĩ",
+    "cat": "verb"
+  },
+  {
+    "w": "feel",
+    "m": "cảm thấy",
+    "cat": "verb"
+  },
+  {
+    "w": "use",
+    "m": "dùng, sử dụng",
+    "cat": "verb"
+  },
+  {
+    "w": "call",
+    "m": "gọi, gọi điện",
+    "cat": "verb"
+  },
+  {
+    "w": "look",
+    "m": "nhìn",
+    "cat": "verb"
+  },
+  {
+    "w": "find",
+    "m": "tìm thấy",
+    "cat": "verb"
+  },
+  {
+    "w": "eat",
+    "m": "ăn",
+    "cat": "verb"
+  },
+  {
+    "w": "drink",
+    "m": "uống",
+    "cat": "verb"
+  },
+  {
+    "w": "love",
+    "m": "yêu thương",
+    "cat": "verb"
+  },
+  {
+    "w": "live",
+    "m": "sống, ở",
+    "cat": "verb"
+  },
+  {
+    "w": "study",
+    "m": "học",
+    "cat": "verb"
+  },
+  {
+    "w": "good",
+    "m": "tốt",
+    "cat": "adjective"
+  },
+  {
+    "w": "bad",
+    "m": "xấu, tệ",
+    "cat": "adjective"
+  },
+  {
+    "w": "big",
+    "m": "to, lớn",
+    "cat": "adjective"
+  },
+  {
+    "w": "small",
+    "m": "nhỏ",
+    "cat": "adjective"
+  },
+  {
+    "w": "new",
+    "m": "mới",
+    "cat": "adjective"
+  },
+  {
+    "w": "old",
+    "m": "cũ, già",
+    "cat": "adjective"
+  },
+  {
+    "w": "hot",
+    "m": "nóng",
+    "cat": "adjective"
+  },
+  {
+    "w": "cold",
+    "m": "lạnh",
+    "cat": "adjective"
+  },
+  {
+    "w": "happy",
+    "m": "vui, hạnh phúc",
+    "cat": "adjective"
+  },
+  {
+    "w": "sad",
+    "m": "buồn",
+    "cat": "adjective"
+  },
+  {
+    "w": "fast",
+    "m": "nhanh",
+    "cat": "adjective"
+  },
+  {
+    "w": "slow",
+    "m": "chậm",
+    "cat": "adjective"
+  },
+  {
+    "w": "beautiful",
+    "m": "đẹp",
+    "cat": "adjective"
+  },
+  {
+    "w": "nice",
+    "m": "tốt, dễ chịu",
+    "cat": "adjective"
+  },
+  {
+    "w": "clean",
+    "m": "sạch",
+    "cat": "adjective"
+  },
+  {
+    "w": "dirty",
+    "m": "bẩn",
+    "cat": "adjective"
+  },
+  {
+    "w": "right",
+    "m": "đúng, phải",
+    "cat": "adjective"
+  },
+  {
+    "w": "wrong",
+    "m": "sai",
+    "cat": "adjective"
+  },
+  {
+    "w": "easy",
+    "m": "dễ",
+    "cat": "adjective"
+  },
+  {
+    "w": "hard",
+    "m": "khó, cứng",
+    "cat": "adjective"
+  },
+  {
+    "w": "free",
+    "m": "miễn phí, tự do",
+    "cat": "adjective"
+  },
+  {
+    "w": "important",
+    "m": "quan trọng",
+    "cat": "adjective"
+  },
+  {
+    "w": "long",
+    "m": "dài",
+    "cat": "adjective"
+  },
+  {
+    "w": "short",
+    "m": "ngắn, thấp",
+    "cat": "adjective"
+  },
+  {
+    "w": "high",
+    "m": "cao",
+    "cat": "adjective"
+  },
+  {
+    "w": "low",
+    "m": "thấp",
+    "cat": "adjective"
+  },
+  {
+    "w": "young",
+    "m": "trẻ",
+    "cat": "adjective"
+  },
+  {
+    "w": "tall",
+    "m": "cao (người)",
+    "cat": "adjective"
+  },
+  {
+    "w": "full",
+    "m": "đầy, no",
+    "cat": "adjective"
+  },
+  {
+    "w": "empty",
+    "m": "rỗng, trống",
+    "cat": "adjective"
+  },
+  {
+    "w": "tired",
+    "m": "mệt",
+    "cat": "adjective"
+  },
+  {
+    "w": "hungry",
+    "m": "đói",
+    "cat": "adjective"
+  },
+  {
+    "w": "thirsty",
+    "m": "khát",
+    "cat": "adjective"
+  },
+  {
+    "w": "sick",
+    "m": "ốm, bệnh",
+    "cat": "adjective"
+  },
+  {
+    "w": "what",
+    "m": "cái gì, gì",
+    "cat": "question"
+  },
+  {
+    "w": "who",
+    "m": "ai",
+    "cat": "question"
+  },
+  {
+    "w": "where",
+    "m": "ở đâu",
+    "cat": "question"
+  },
+  {
+    "w": "when",
+    "m": "khi nào",
+    "cat": "question"
+  },
+  {
+    "w": "why",
+    "m": "tại sao",
+    "cat": "question"
+  },
+  {
+    "w": "how",
+    "m": "như thế nào",
+    "cat": "question"
+  },
+  {
+    "w": "which",
+    "m": "cái nào",
+    "cat": "question"
+  },
+  {
+    "w": "how much",
+    "m": "bao nhiêu tiền",
+    "cat": "question"
+  },
+  {
+    "w": "how many",
+    "m": "bao nhiêu (đếm được)",
+    "cat": "question"
+  },
+  {
+    "w": "how old",
+    "m": "bao nhiêu tuổi",
+    "cat": "question"
+  },
+  {
+    "w": "cat",
+    "m": "con mèo",
+    "cat": "animal"
+  },
+  {
+    "w": "dog",
+    "m": "con chó",
+    "cat": "animal"
+  },
+  {
+    "w": "bird",
+    "m": "con chim",
+    "cat": "animal"
+  },
+  {
+    "w": "horse",
+    "m": "con ngựa",
+    "cat": "animal"
+  },
+  {
+    "w": "cow",
+    "m": "con bò",
+    "cat": "animal"
+  },
+  {
+    "w": "pig",
+    "m": "con lợn",
+    "cat": "animal"
+  },
+  {
+    "w": "book",
+    "m": "cuốn sách",
+    "cat": "object"
+  },
+  {
+    "w": "pen",
+    "m": "bút",
+    "cat": "object"
+  },
+  {
+    "w": "bag",
+    "m": "túi xách",
+    "cat": "object"
+  },
+  {
+    "w": "key",
+    "m": "chìa khóa",
+    "cat": "object"
+  },
+  {
+    "w": "phone",
+    "m": "điện thoại",
+    "cat": "object"
+  },
+  {
+    "w": "car",
+    "m": "ô tô",
+    "cat": "object"
+  },
+  {
+    "w": "money",
+    "m": "tiền",
+    "cat": "object"
+  },
+  {
+    "w": "door",
+    "m": "cái cửa",
+    "cat": "object"
+  },
+  {
+    "w": "table",
+    "m": "cái bàn",
+    "cat": "object"
+  },
+  {
+    "w": "chair",
+    "m": "cái ghế",
+    "cat": "object"
+  },
+  {
+    "w": "bed",
+    "m": "cái giường",
+    "cat": "object"
+  },
+  {
+    "w": "window",
+    "m": "cửa sổ",
+    "cat": "object"
+  },
+  {
+    "w": "and",
+    "m": "và",
+    "cat": "function"
+  },
+  {
+    "w": "or",
+    "m": "hoặc",
+    "cat": "function"
+  },
+  {
+    "w": "but",
+    "m": "nhưng",
+    "cat": "function"
+  },
+  {
+    "w": "in",
+    "m": "trong, ở",
+    "cat": "function"
+  },
+  {
+    "w": "on",
+    "m": "trên",
+    "cat": "function"
+  },
+  {
+    "w": "at",
+    "m": "tại, lúc",
+    "cat": "function"
+  },
+  {
+    "w": "to",
+    "m": "đến, tới",
+    "cat": "function"
+  },
+  {
+    "w": "for",
+    "m": "cho, vì",
+    "cat": "function"
+  },
+  {
+    "w": "with",
+    "m": "với",
+    "cat": "function"
+  },
+  {
+    "w": "from",
+    "m": "từ",
+    "cat": "function"
+  },
+  {
+    "w": "of",
+    "m": "của",
+    "cat": "function"
+  },
+  {
+    "w": "not",
+    "m": "không",
+    "cat": "function"
+  },
+  {
+    "w": "very",
+    "m": "rất",
+    "cat": "function"
+  },
+  {
+    "w": "a",
+    "m": "một (mạo từ)",
+    "cat": "function"
+  },
+  {
+    "w": "the",
+    "m": "cái, chiếc (mạo từ xác định)",
+    "cat": "function"
+  },
+  {
+    "w": "some",
+    "m": "một số, một chút",
+    "cat": "function"
+  },
+  {
+    "w": "many",
+    "m": "nhiều",
+    "cat": "function"
+  },
+  {
+    "w": "here",
+    "m": "ở đây",
+    "cat": "function"
+  },
+  {
+    "w": "there",
+    "m": "ở đó",
+    "cat": "function"
+  },
+  {
+    "w": "name",
+    "m": "tên",
+    "cat": "basic"
+  },
+  {
+    "w": "man",
+    "m": "đàn ông",
+    "cat": "basic"
+  },
+  {
+    "w": "woman",
+    "m": "phụ nữ",
+    "cat": "basic"
+  },
+  {
+    "w": "people",
+    "m": "người, mọi người",
+    "cat": "basic"
+  },
+  {
+    "w": "house",
+    "m": "căn nhà",
+    "cat": "basic"
+  },
+  {
+    "w": "room",
+    "m": "phòng",
+    "cat": "basic"
+  },
+  {
+    "w": "food",
+    "m": "thức ăn",
+    "cat": "basic"
+  },
+  {
+    "w": "water",
+    "m": "nước",
+    "cat": "basic"
+  },
+  {
+    "w": "day",
+    "m": "ngày",
+    "cat": "basic"
+  },
+  {
+    "w": "time",
+    "m": "thời gian",
+    "cat": "basic"
+  },
+  {
+    "w": "number",
+    "m": "số",
+    "cat": "basic"
+  },
+  {
+    "w": "word",
+    "m": "từ ngữ",
+    "cat": "basic"
+  },
+  {
+    "w": "color",
+    "m": "màu sắc",
+    "cat": "basic"
+  },
+  {
+    "w": "size",
+    "m": "kích thước",
+    "cat": "basic"
+  },
+  {
+    "w": "price",
+    "m": "giá cả",
+    "cat": "basic"
+  },
+  {
+    "w": "sun",
+    "m": "mặt trời",
+    "cat": "nature"
+  },
+  {
+    "w": "moon",
+    "m": "mặt trăng",
+    "cat": "nature"
+  },
+  {
+    "w": "rain",
+    "m": "mưa",
+    "cat": "nature"
+  },
+  {
+    "w": "snow",
+    "m": "tuyết",
+    "cat": "nature"
+  },
+  {
+    "w": "water",
+    "m": "nước",
+    "cat": "nature"
+  },
+  {
+    "w": "sky",
+    "m": "bầu trời",
+    "cat": "nature"
+  },
+  {
+    "w": "tree",
+    "m": "cây",
+    "cat": "nature"
+  },
+  {
+    "w": "flower",
+    "m": "bông hoa",
+    "cat": "nature"
+  },
+  {
+    "w": "grass",
+    "m": "cỏ",
+    "cat": "nature"
+  },
+  {
+    "w": "river",
+    "m": "con sông",
+    "cat": "nature"
+  },
+  {
+    "w": "sea",
+    "m": "biển",
+    "cat": "nature"
+  },
+  {
+    "w": "mountain",
+    "m": "núi",
+    "cat": "nature"
+  },
+  {
+    "w": "road",
+    "m": "con đường",
+    "cat": "nature"
+  },
+  {
+    "w": "wind",
+    "m": "gió",
+    "cat": "nature"
+  },
+  {
+    "w": "fire",
+    "m": "lửa",
+    "cat": "nature"
+  },
+  {
+    "w": "stone",
+    "m": "đá",
+    "cat": "nature"
+  },
+  {
+    "w": "ground",
+    "m": "mặt đất",
+    "cat": "nature"
+  },
+  {
+    "w": "light",
+    "m": "ánh sáng",
+    "cat": "nature"
+  },
+  {
+    "w": "dark",
+    "m": "tối",
+    "cat": "nature"
+  },
+  {
+    "w": "hot",
+    "m": "nóng",
+    "cat": "nature"
+  },
+  {
+    "w": "cold",
+    "m": "lạnh",
+    "cat": "nature"
+  },
+  {
+    "w": "animal",
+    "m": "động vật",
+    "cat": "animal"
+  },
+  {
+    "w": "rabbit",
+    "m": "con thỏ",
+    "cat": "animal"
+  },
+  {
+    "w": "chicken",
+    "m": "con gà",
+    "cat": "animal"
+  },
+  {
+    "w": "duck",
+    "m": "con vịt",
+    "cat": "animal"
+  },
+  {
+    "w": "fish",
+    "m": "con cá",
+    "cat": "animal"
+  },
+  {
+    "w": "mouse",
+    "m": "con chuột",
+    "cat": "animal"
+  },
+  {
+    "w": "lion",
+    "m": "con sư tử",
+    "cat": "animal"
+  },
+  {
+    "w": "tiger",
+    "m": "con hổ",
+    "cat": "animal"
+  },
+  {
+    "w": "elephant",
+    "m": "con voi",
+    "cat": "animal"
+  },
+  {
+    "w": "monkey",
+    "m": "con khỉ",
+    "cat": "animal"
+  },
+  {
+    "w": "bear",
+    "m": "con gấu",
+    "cat": "animal"
+  },
+  {
+    "w": "shirt",
+    "m": "áo sơ mi",
+    "cat": "clothing"
+  },
+  {
+    "w": "pants",
+    "m": "quần",
+    "cat": "clothing"
+  },
+  {
+    "w": "dress",
+    "m": "váy đầm",
+    "cat": "clothing"
+  },
+  {
+    "w": "shoes",
+    "m": "giày",
+    "cat": "clothing"
+  },
+  {
+    "w": "hat",
+    "m": "mũ",
+    "cat": "clothing"
+  },
+  {
+    "w": "coat",
+    "m": "áo khoác",
+    "cat": "clothing"
+  },
+  {
+    "w": "socks",
+    "m": "tất, vớ",
+    "cat": "clothing"
+  },
+  {
+    "w": "glasses",
+    "m": "kính mắt",
+    "cat": "clothing"
+  },
+  {
+    "w": "ring",
+    "m": "nhẫn",
+    "cat": "clothing"
+  },
+  {
+    "w": "watch",
+    "m": "đồng hồ đeo tay",
+    "cat": "clothing"
+  },
+  {
+    "w": "hospital",
+    "m": "bệnh viện",
+    "cat": "place"
+  },
+  {
+    "w": "airport",
+    "m": "sân bay",
+    "cat": "place"
+  },
+  {
+    "w": "hotel",
+    "m": "khách sạn",
+    "cat": "place"
+  },
+  {
+    "w": "post office",
+    "m": "bưu điện",
+    "cat": "place"
+  },
+  {
+    "w": "supermarket",
+    "m": "siêu thị",
+    "cat": "place"
+  },
+  {
+    "w": "factory",
+    "m": "nhà máy",
+    "cat": "place"
+  },
+  {
+    "w": "farm",
+    "m": "nông trại",
+    "cat": "place"
+  },
+  {
+    "w": "beach",
+    "m": "bãi biển",
+    "cat": "place"
+  },
+  {
+    "w": "forest",
+    "m": "rừng",
+    "cat": "place"
+  },
+  {
+    "w": "lake",
+    "m": "cái hồ",
+    "cat": "place"
+  },
+  {
+    "w": "bridge",
+    "m": "cái cầu",
+    "cat": "place"
+  },
+  {
+    "w": "send",
+    "m": "gửi",
+    "cat": "verb"
+  },
+  {
+    "w": "bring",
+    "m": "mang đến",
+    "cat": "verb"
+  },
+  {
+    "w": "carry",
+    "m": "mang, vác",
+    "cat": "verb"
+  },
+  {
+    "w": "pull",
+    "m": "kéo",
+    "cat": "verb"
+  },
+  {
+    "w": "push",
+    "m": "đẩy",
+    "cat": "verb"
+  },
+  {
+    "w": "cut",
+    "m": "cắt",
+    "cat": "verb"
+  },
+  {
+    "w": "clean",
+    "m": "dọn dẹp",
+    "cat": "verb"
+  },
+  {
+    "w": "wash",
+    "m": "rửa",
+    "cat": "verb"
+  },
+  {
+    "w": "cook",
+    "m": "nấu ăn",
+    "cat": "verb"
+  },
+  {
+    "w": "pay",
+    "m": "trả tiền",
+    "cat": "verb"
+  },
+  {
+    "w": "wait",
+    "m": "chờ đợi",
+    "cat": "verb"
+  },
+  {
+    "w": "meet",
+    "m": "gặp gỡ",
+    "cat": "verb"
+  },
+  {
+    "w": "talk",
+    "m": "nói chuyện",
+    "cat": "verb"
+  },
+  {
+    "w": "answer",
+    "m": "trả lời",
+    "cat": "verb"
+  },
+  {
+    "w": "learn",
+    "m": "học hỏi",
+    "cat": "verb"
+  },
+  {
+    "w": "teach",
+    "m": "dạy",
+    "cat": "verb"
+  },
+  {
+    "w": "show",
+    "m": "chỉ cho xem",
+    "cat": "verb"
+  },
+  {
+    "w": "remember",
+    "m": "nhớ",
+    "cat": "verb"
+  },
+  {
+    "w": "forget",
+    "m": "quên",
+    "cat": "verb"
+  },
+  {
+    "w": "try",
+    "m": "thử",
+    "cat": "verb"
+  },
+  {
+    "w": "stop",
+    "m": "dừng lại",
+    "cat": "verb"
+  },
+  {
+    "w": "start",
+    "m": "bắt đầu",
+    "cat": "verb"
+  },
+  {
+    "w": "finish",
+    "m": "kết thúc",
+    "cat": "verb"
+  },
+  {
+    "w": "follow",
+    "m": "đi theo",
+    "cat": "verb"
+  },
+  {
+    "w": "turn",
+    "m": "quay, rẽ",
+    "cat": "verb"
+  },
+  {
+    "w": "lose",
+    "m": "mất, thua",
+    "cat": "verb"
+  },
+  {
+    "w": "win",
+    "m": "thắng",
+    "cat": "verb"
+  },
+  {
+    "w": "laugh",
+    "m": "cười",
+    "cat": "verb"
+  },
+  {
+    "w": "cry",
+    "m": "khóc",
+    "cat": "verb"
+  },
+  {
+    "w": "smile",
+    "m": "mỉm cười",
+    "cat": "verb"
+  },
+  {
+    "w": "swim",
+    "m": "bơi",
+    "cat": "verb"
+  },
+  {
+    "w": "jump",
+    "m": "nhảy",
+    "cat": "verb"
+  },
+  {
+    "w": "fly",
+    "m": "bay",
+    "cat": "verb"
+  },
+  {
+    "w": "drive",
+    "m": "lái xe",
+    "cat": "verb"
+  },
+  {
+    "w": "sing",
+    "m": "hát",
+    "cat": "verb"
+  },
+  {
+    "w": "dance",
+    "m": "nhảy múa",
+    "cat": "verb"
+  },
+  {
+    "w": "draw",
+    "m": "vẽ",
+    "cat": "verb"
+  },
+  {
+    "w": "build",
+    "m": "xây dựng",
+    "cat": "verb"
+  },
+  {
+    "w": "break",
+    "m": "vỡ, bẻ gãy",
+    "cat": "verb"
+  },
+  {
+    "w": "fix",
+    "m": "sửa chữa",
+    "cat": "verb"
+  },
+  {
+    "w": "warm",
+    "m": "ấm áp",
+    "cat": "adjective"
+  },
+  {
+    "w": "cool",
+    "m": "mát mẻ",
+    "cat": "adjective"
+  },
+  {
+    "w": "bright",
+    "m": "sáng, rực rỡ",
+    "cat": "adjective"
+  },
+  {
+    "w": "dark",
+    "m": "tối",
+    "cat": "adjective"
+  },
+  {
+    "w": "heavy",
+    "m": "nặng",
+    "cat": "adjective"
+  },
+  {
+    "w": "light",
+    "m": "nhẹ",
+    "cat": "adjective"
+  },
+  {
+    "w": "wide",
+    "m": "rộng",
+    "cat": "adjective"
+  },
+  {
+    "w": "narrow",
+    "m": "hẹp",
+    "cat": "adjective"
+  },
+  {
+    "w": "round",
+    "m": "tròn",
+    "cat": "adjective"
+  },
+  {
+    "w": "square",
+    "m": "vuông",
+    "cat": "adjective"
+  },
+  {
+    "w": "flat",
+    "m": "phẳng",
+    "cat": "adjective"
+  },
+  {
+    "w": "deep",
+    "m": "sâu",
+    "cat": "adjective"
+  },
+  {
+    "w": "soft",
+    "m": "mềm",
+    "cat": "adjective"
+  },
+  {
+    "w": "loud",
+    "m": "to (âm thanh)",
+    "cat": "adjective"
+  },
+  {
+    "w": "quiet",
+    "m": "yên tĩnh",
+    "cat": "adjective"
+  },
+  {
+    "w": "late",
+    "m": "muộn, trễ",
+    "cat": "adjective"
+  },
+  {
+    "w": "early",
+    "m": "sớm",
+    "cat": "adjective"
+  },
+  {
+    "w": "alone",
+    "m": "một mình",
+    "cat": "adjective"
+  },
+  {
+    "w": "together",
+    "m": "cùng nhau",
+    "cat": "adjective"
+  },
+  {
+    "w": "safe",
+    "m": "an toàn",
+    "cat": "adjective"
+  },
+  {
+    "w": "dangerous",
+    "m": "nguy hiểm",
+    "cat": "adjective"
+  },
+  {
+    "w": "phone number",
+    "m": "số điện thoại",
+    "cat": "basic"
+  },
+  {
+    "w": "address",
+    "m": "địa chỉ",
+    "cat": "basic"
+  },
+  {
+    "w": "age",
+    "m": "tuổi",
+    "cat": "basic"
+  },
+  {
+    "w": "job",
+    "m": "công việc",
+    "cat": "basic"
+  },
+  {
+    "w": "language",
+    "m": "ngôn ngữ",
+    "cat": "basic"
+  },
+  {
+    "w": "question",
+    "m": "câu hỏi",
+    "cat": "basic"
+  },
+  {
+    "w": "answer",
+    "m": "câu trả lời",
+    "cat": "basic"
+  },
+  {
+    "w": "message",
+    "m": "tin nhắn",
+    "cat": "basic"
+  },
+  {
+    "w": "problem",
+    "m": "vấn đề",
+    "cat": "basic"
+  },
+  {
+    "w": "idea",
+    "m": "ý kiến, ý tưởng",
+    "cat": "basic"
+  },
+  {
+    "w": "place",
+    "m": "nơi chốn",
+    "cat": "basic"
+  },
+  {
+    "w": "thing",
+    "m": "đồ vật, thứ",
+    "cat": "basic"
+  },
+  {
+    "w": "way",
+    "m": "cách, con đường",
+    "cat": "basic"
+  },
+  {
+    "w": "part",
+    "m": "phần",
+    "cat": "basic"
+  },
+  {
+    "w": "world",
+    "m": "thế giới",
+    "cat": "basic"
+  },
+  {
+    "w": "life",
+    "m": "cuộc sống",
+    "cat": "basic"
+  },
+  {
+    "w": "school bag",
+    "m": "cặp sách",
+    "cat": "object"
+  },
+  {
+    "w": "notebook",
+    "m": "vở, sổ tay",
+    "cat": "object"
+  },
+  {
+    "w": "ruler",
+    "m": "thước kẻ",
+    "cat": "object"
+  },
+  {
+    "w": "pencil",
+    "m": "bút chì",
+    "cat": "object"
+  },
+  {
+    "w": "eraser",
+    "m": "cục tẩy",
+    "cat": "object"
+  },
+  {
+    "w": "scissors",
+    "m": "cái kéo",
+    "cat": "object"
+  },
+  {
+    "w": "clock",
+    "m": "đồng hồ treo tường",
+    "cat": "object"
+  },
+  {
+    "w": "lamp",
+    "m": "đèn",
+    "cat": "object"
+  },
+  {
+    "w": "mirror",
+    "m": "gương",
+    "cat": "object"
+  },
+  {
+    "w": "umbrella",
+    "m": "ô, dù",
+    "cat": "object"
+  },
+  {
+    "w": "ticket",
+    "m": "vé",
+    "cat": "object"
+  },
+  {
+    "w": "map",
+    "m": "bản đồ",
+    "cat": "object"
+  },
+  {
+    "w": "picture",
+    "m": "bức tranh, ảnh",
+    "cat": "object"
+  },
+  {
+    "w": "gift",
+    "m": "quà tặng",
+    "cat": "object"
+  },
+  {
+    "w": "toy",
+    "m": "đồ chơi",
+    "cat": "object"
+  },
+  {
+    "w": "ball",
+    "m": "quả bóng",
+    "cat": "object"
+  },
+  {
+    "w": "also",
+    "m": "cũng",
+    "cat": "function"
+  },
+  {
+    "w": "too",
+    "m": "cũng, quá",
+    "cat": "function"
+  },
+  {
+    "w": "again",
+    "m": "lại",
+    "cat": "function"
+  },
+  {
+    "w": "never",
+    "m": "không bao giờ",
+    "cat": "function"
+  },
+  {
+    "w": "always",
+    "m": "luôn luôn",
+    "cat": "function"
+  },
+  {
+    "w": "sometimes",
+    "m": "đôi khi",
+    "cat": "function"
+  },
+  {
+    "w": "often",
+    "m": "thường xuyên",
+    "cat": "function"
+  },
+  {
+    "w": "every",
+    "m": "mỗi",
+    "cat": "function"
+  },
+  {
+    "w": "all",
+    "m": "tất cả",
+    "cat": "function"
+  },
+  {
+    "w": "both",
+    "m": "cả hai",
+    "cat": "function"
+  },
+  {
+    "w": "about",
+    "m": "về, khoảng",
+    "cat": "function"
+  },
+  {
+    "w": "after",
+    "m": "sau",
+    "cat": "function"
+  },
+  {
+    "w": "before",
+    "m": "trước",
+    "cat": "function"
+  },
+  {
+    "w": "between",
+    "m": "giữa",
+    "cat": "function"
+  },
+  {
+    "w": "behind",
+    "m": "phía sau",
+    "cat": "function"
+  },
+  {
+    "w": "near",
+    "m": "gần",
+    "cat": "function"
+  },
+  {
+    "w": "far",
+    "m": "xa",
+    "cat": "function"
+  },
+  {
+    "w": "under",
+    "m": "dưới",
+    "cat": "function"
+  },
+  {
+    "w": "above",
+    "m": "phía trên",
+    "cat": "function"
+  },
+  {
+    "w": "next to",
+    "m": "bên cạnh",
+    "cat": "function"
+  },
+  {
+    "w": "because",
+    "m": "vì, bởi vì",
+    "cat": "function"
+  },
+  {
+    "w": "so",
+    "m": "vì vậy",
+    "cat": "function"
+  },
+  {
+    "w": "if",
+    "m": "nếu",
+    "cat": "function"
+  },
+  {
+    "w": "but",
+    "m": "nhưng",
+    "cat": "function"
+  },
+  {
+    "w": "when",
+    "m": "khi",
+    "cat": "function"
+  },
+  {
+    "w": "than",
+    "m": "hơn",
+    "cat": "function"
+  },
+  {
+    "w": "like",
+    "m": "như, giống như",
+    "cat": "function"
+  },
+  {
+    "w": "same",
+    "m": "giống nhau",
+    "cat": "adjective"
+  },
+  {
+    "w": "different",
+    "m": "khác nhau",
+    "cat": "adjective"
+  },
+  {
+    "w": "favorite",
+    "m": "yêu thích nhất",
+    "cat": "adjective"
+  },
+  {
+    "w": "right",
+    "m": "bên phải",
+    "cat": "adjective"
+  },
+  {
+    "w": "left",
+    "m": "bên trái",
+    "cat": "adjective"
+  },
+  {
+    "w": "front",
+    "m": "phía trước",
+    "cat": "adjective"
+  },
+  {
+    "w": "back",
+    "m": "phía sau",
+    "cat": "adjective"
+  },
+  {
+    "w": "middle",
+    "m": "ở giữa",
+    "cat": "adjective"
+  },
+  {
+    "w": "outside",
+    "m": "bên ngoài",
+    "cat": "adjective"
+  },
+  {
+    "w": "inside",
+    "m": "bên trong",
+    "cat": "adjective"
+  },
+  {
+    "w": "hundred",
+    "m": "trăm",
+    "cat": "number"
+  },
+  {
+    "w": "first",
+    "m": "đầu tiên",
+    "cat": "number"
+  },
+  {
+    "w": "last",
+    "m": "cuối cùng, vừa rồi",
+    "cat": "adjective"
+  }
+]

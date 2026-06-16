@@ -1,0 +1,4388 @@
+[
+  {
+    "w": "abstruse",
+    "p": "",
+    "m": "khó hiểu, huyền bí, uyên thâm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "acrimony",
+    "p": "",
+    "m": "sự cay nghiệt, thái độ chua cay trong lời nói",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "adumbrate",
+    "p": "",
+    "m": "phác thảo sơ lược, gợi ý mờ nhạt",
+    "cat": "hành động"
+  },
+  {
+    "w": "aegis",
+    "p": "",
+    "m": "sự bảo trợ, sự che chở (của tổ chức quyền lực)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "afflatus",
+    "p": "",
+    "m": "nguồn cảm hứng thần thánh, sự thôi thúc sáng tạo",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "agglutinative",
+    "p": "",
+    "m": "có tính kết dính, thuộc ngôn ngữ kết dính",
+    "cat": "học thuật"
+  },
+  {
+    "w": "agonistic",
+    "p": "",
+    "m": "mang tính tranh luận, liên quan đến xung đột",
+    "cat": "tính từ"
+  },
+  {
+    "w": "aleatory",
+    "p": "",
+    "m": "phụ thuộc vào may rủi, ngẫu nhiên",
+    "cat": "tính từ"
+  },
+  {
+    "w": "aleatoric",
+    "p": "",
+    "m": "thuộc về tính ngẫu nhiên trong âm nhạc/nghệ thuật",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "alienation effect",
+    "p": "",
+    "m": "hiệu ứng xa cách (trong sân khấu Brecht)",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "allopatric",
+    "p": "",
+    "m": "(sinh vật) sống ở vùng địa lý tách biệt",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "ambivalence",
+    "p": "",
+    "m": "sự lưỡng lự, cảm xúc mâu thuẫn lẫn nhau",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "ameliorate",
+    "p": "",
+    "m": "cải thiện, làm giảm nhẹ (tình trạng xấu)",
+    "cat": "hành động"
+  },
+  {
+    "w": "anachronism",
+    "p": "",
+    "m": "sự không phù hợp thời đại, điều lỗi thời",
+    "cat": "học thuật"
+  },
+  {
+    "w": "anathema",
+    "p": "",
+    "m": "điều bị nguyền rủa, đối tượng bị ghét bỏ mạnh mẽ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "ancillary",
+    "p": "",
+    "m": "phụ trợ, hỗ trợ bổ sung",
+    "cat": "tính từ"
+  },
+  {
+    "w": "annihilate",
+    "p": "",
+    "m": "tiêu diệt hoàn toàn, xóa sổ",
+    "cat": "hành động"
+  },
+  {
+    "w": "anomie",
+    "p": "",
+    "m": "trạng thái vô chuẩn mực xã hội, sự tan rã chuẩn mực",
+    "cat": "xã hội"
+  },
+  {
+    "w": "antecedent",
+    "p": "",
+    "m": "tiền đề, sự kiện/điều kiện đi trước",
+    "cat": "học thuật"
+  },
+  {
+    "w": "antinomy",
+    "p": "",
+    "m": "mâu thuẫn giữa hai nguyên tắc hợp lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "aphoristic",
+    "p": "",
+    "m": "mang tính cách ngôn, súc tích và thâm thúy",
+    "cat": "tính từ"
+  },
+  {
+    "w": "apocryphal",
+    "p": "",
+    "m": "không có căn cứ xác thực, nghi vấn về tính xác thực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "apologist",
+    "p": "",
+    "m": "người bào chữa, người biện hộ cho một lập trường",
+    "cat": "người"
+  },
+  {
+    "w": "apostasy",
+    "p": "",
+    "m": "sự bội giáo, từ bỏ tín ngưỡng/đảng phái",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "apposite",
+    "p": "",
+    "m": "thích hợp, đúng chỗ, đúng lúc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "approbation",
+    "p": "",
+    "m": "sự chấp thuận chính thức, sự tán thành",
+    "cat": "học thuật"
+  },
+  {
+    "w": "arcane",
+    "p": "",
+    "m": "bí ẩn, ít người biết đến, huyền bí",
+    "cat": "tính từ"
+  },
+  {
+    "w": "arduous",
+    "p": "",
+    "m": "gian khổ, đòi hỏi nhiều nỗ lực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "argot",
+    "p": "",
+    "m": "tiếng lóng của một nhóm nghề nghiệp/xã hội",
+    "cat": "học thuật"
+  },
+  {
+    "w": "articulate",
+    "p": "",
+    "m": "diễn đạt rõ ràng mạch lạc, có khả năng phát biểu tốt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "artifice",
+    "p": "",
+    "m": "thủ thuật khéo léo, sự xảo quyệt",
+    "cat": "hành động"
+  },
+  {
+    "w": "ascertain",
+    "p": "",
+    "m": "xác minh, tìm hiểu chắc chắn",
+    "cat": "hành động"
+  },
+  {
+    "w": "asperity",
+    "p": "",
+    "m": "sự gay gắt, tính khắc nghiệt (lời nói/hoàn cảnh)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "assiduous",
+    "p": "",
+    "m": "cần cù, kiên trì, chuyên cần",
+    "cat": "tính từ"
+  },
+  {
+    "w": "atavism",
+    "p": "",
+    "m": "sự tái hiện đặc tính tổ tiên, tính hồi quy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "attenuate",
+    "p": "",
+    "m": "làm giảm bớt, làm yếu đi",
+    "cat": "hành động"
+  },
+  {
+    "w": "audacity",
+    "p": "",
+    "m": "sự táo bạo, dám làm điều liều lĩnh",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "austerity",
+    "p": "",
+    "m": "sự khắc khổ, chính sách thắt lưng buộc bụng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "autochthonous",
+    "p": "",
+    "m": "bản địa, có nguồn gốc từ nơi đó",
+    "cat": "tính từ"
+  },
+  {
+    "w": "autonomy",
+    "p": "",
+    "m": "quyền tự chủ, tính tự trị",
+    "cat": "chính trị"
+  },
+  {
+    "w": "axiomatic",
+    "p": "",
+    "m": "hiển nhiên không cần chứng minh, mang tính công lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "balderdash",
+    "p": "",
+    "m": "lời nói vô nghĩa, nhảm nhí",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "banality",
+    "p": "",
+    "m": "sự tầm thường, thiếu độc đáo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "baroque",
+    "p": "",
+    "m": "phong cách baroque, cầu kỳ và phức tạp",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "beleaguer",
+    "p": "",
+    "m": "bao vây, gây phiền não liên tục",
+    "cat": "hành động"
+  },
+  {
+    "w": "bellicose",
+    "p": "",
+    "m": "hiếu chiến, hay gây xung đột",
+    "cat": "tính từ"
+  },
+  {
+    "w": "benighted",
+    "p": "",
+    "m": "dốt nát, lạc hậu, u mê",
+    "cat": "tính từ"
+  },
+  {
+    "w": "bifurcate",
+    "p": "",
+    "m": "chia đôi, phân nhánh",
+    "cat": "hành động"
+  },
+  {
+    "w": "blandishment",
+    "p": "",
+    "m": "lời tâng bốc, sự dỗ dành ngọt ngào",
+    "cat": "hành động"
+  },
+  {
+    "w": "bowdlerize",
+    "p": "",
+    "m": "kiểm duyệt, cắt bỏ phần nhạy cảm",
+    "cat": "hành động"
+  },
+  {
+    "w": "brackish",
+    "p": "",
+    "m": "nước lợ, có vị mặn nhẹ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "brinkmanship",
+    "p": "",
+    "m": "nghệ thuật đẩy tình huống đến bờ vực để thương lượng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "bromide",
+    "p": "",
+    "m": "câu nói sáo rỗng, nhận xét nhàm chán",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "bucolic",
+    "p": "",
+    "m": "thuộc về đồng quê, mang vẻ yên bình của nông thôn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "byzantine",
+    "p": "",
+    "m": "phức tạp rắc rối (về hành chính/quy trình)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cacophony",
+    "p": "",
+    "m": "tiếng ồn ào hỗn loạn, âm thanh chói tai",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "calumny",
+    "p": "",
+    "m": "lời vu khống, sự nói xấu sai sự thật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "canon",
+    "p": "",
+    "m": "quy chuẩn, tác phẩm kinh điển được công nhận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "capacious",
+    "p": "",
+    "m": "rộng rãi, có sức chứa lớn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "capitulate",
+    "p": "",
+    "m": "đầu hàng sau khi kháng cự, nhượng bộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "capricious",
+    "p": "",
+    "m": "bất thường, hay thay đổi thất thường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cardinal",
+    "p": "",
+    "m": "cơ bản, tối quan trọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "castigate",
+    "p": "",
+    "m": "phê bình nặng nề, trừng phạt nghiêm khắc",
+    "cat": "hành động"
+  },
+  {
+    "w": "caustic",
+    "p": "",
+    "m": "cay chua, sắc bén (lời nói/phê bình)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "celerity",
+    "p": "",
+    "m": "sự nhanh nhẹn, tốc độ nhanh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "chicanery",
+    "p": "",
+    "m": "thủ đoạn gian lận, sự lừa đảo khéo léo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "chimerical",
+    "p": "",
+    "m": "ảo tưởng, không có cơ sở thực tế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "circumlocution",
+    "p": "",
+    "m": "cách nói vòng vo, dùng nhiều từ thay vì nói thẳng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "clandestine",
+    "p": "",
+    "m": "bí mật, lén lút",
+    "cat": "tính từ"
+  },
+  {
+    "w": "coagulate",
+    "p": "",
+    "m": "đông tụ, đặc lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "codicil",
+    "p": "",
+    "m": "phụ lục di chúc, điều khoản bổ sung",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cogent",
+    "p": "",
+    "m": "thuyết phục mạnh mẽ, có lý luận chặt chẽ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cognoscenti",
+    "p": "",
+    "m": "những người am hiểu sâu về lĩnh vực nghệ thuật/văn hóa",
+    "cat": "người"
+  },
+  {
+    "w": "colloquy",
+    "p": "",
+    "m": "cuộc đàm thoại trang trọng, hội đàm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "commensurate",
+    "p": "",
+    "m": "tương xứng, cân đối",
+    "cat": "tính từ"
+  },
+  {
+    "w": "compendious",
+    "p": "",
+    "m": "súc tích nhưng đầy đủ, toàn diện trong ngắn gọn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "complaisant",
+    "p": "",
+    "m": "dễ tính, sẵn lòng làm hài lòng người khác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "complicity",
+    "p": "",
+    "m": "sự đồng lõa, tham gia vào hành vi sai trái",
+    "cat": "xã hội"
+  },
+  {
+    "w": "compunction",
+    "p": "",
+    "m": "sự ăn năn, cảm giác hối hận về hành vi sai",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "concatenate",
+    "p": "",
+    "m": "nối liền, kết chuỗi liên tiếp",
+    "cat": "hành động"
+  },
+  {
+    "w": "conceit",
+    "p": "",
+    "m": "hình ảnh ẩn dụ bất ngờ (trong thơ), tự phụ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "condescension",
+    "p": "",
+    "m": "thái độ trịch thượng, coi thường người khác",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "confabulate",
+    "p": "",
+    "m": "bịa đặt ký ức (trong tâm lý học), trò chuyện thân mật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "conflate",
+    "p": "",
+    "m": "gộp chung nhầm lẫn, kết hợp hai thứ không nên ghép",
+    "cat": "hành động"
+  },
+  {
+    "w": "congruence",
+    "p": "",
+    "m": "sự tương đồng, sự phù hợp lẫn nhau",
+    "cat": "học thuật"
+  },
+  {
+    "w": "consanguinity",
+    "p": "",
+    "m": "quan hệ huyết thống, họ hàng cùng dòng máu",
+    "cat": "gia đình"
+  },
+  {
+    "w": "contentious",
+    "p": "",
+    "m": "gây tranh cãi, hay gây xung đột",
+    "cat": "tính từ"
+  },
+  {
+    "w": "contiguous",
+    "p": "",
+    "m": "tiếp giáp, liền kề nhau",
+    "cat": "tính từ"
+  },
+  {
+    "w": "contrite",
+    "p": "",
+    "m": "hối hận sâu sắc, thực sự ăn năn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "contumacious",
+    "p": "",
+    "m": "cứng đầu chống đối, không phục tùng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "convoluted",
+    "p": "",
+    "m": "rắc rối phức tạp, khó theo dõi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "corroborate",
+    "p": "",
+    "m": "xác nhận, cung cấp bằng chứng hỗ trợ",
+    "cat": "hành động"
+  },
+  {
+    "w": "counterintuitive",
+    "p": "",
+    "m": "trái với trực giác thông thường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "credulous",
+    "p": "",
+    "m": "dễ tin, nhẹ dạ cả tin",
+    "cat": "tính từ"
+  },
+  {
+    "w": "culpability",
+    "p": "",
+    "m": "trách nhiệm về lỗi lầm, tội lỗi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cupidity",
+    "p": "",
+    "m": "lòng tham, ham muốn tiền bạc quá mức",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "cursory",
+    "p": "",
+    "m": "hời hợt, làm qua loa không kỹ càng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dauntless",
+    "p": "",
+    "m": "gan dạ không sợ hãi, kiên cường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "debacle",
+    "p": "",
+    "m": "thất bại thảm hại, sự sụp đổ hoàn toàn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "decorum",
+    "p": "",
+    "m": "phép tắc lịch sự, hành vi đúng mực",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "deference",
+    "p": "",
+    "m": "sự kính trọng, nhường nhịn tôn trọng người khác",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "deft",
+    "p": "",
+    "m": "khéo léo, nhanh nhẹn trong thực hiện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "deleterious",
+    "p": "",
+    "m": "có hại, gây tổn hại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "demagogue",
+    "p": "",
+    "m": "kẻ mị dân, chính khách kích động quần chúng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "demarcate",
+    "p": "",
+    "m": "phân ranh giới, xác định giới hạn rõ ràng",
+    "cat": "hành động"
+  },
+  {
+    "w": "demiurge",
+    "p": "",
+    "m": "thực thể sáng tạo vũ trụ (triết học Plato)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "deontology",
+    "p": "",
+    "m": "đạo đức học nghĩa vụ, lý thuyết đạo đức theo quy tắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "deprecate",
+    "p": "",
+    "m": "không tán thành, chê bai, coi thường",
+    "cat": "hành động"
+  },
+  {
+    "w": "deracinate",
+    "p": "",
+    "m": "bứng gốc rễ, mất đi nguồn cội văn hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "desultory",
+    "p": "",
+    "m": "tản mạn, thiếu kế hoạch, không tập trung",
+    "cat": "tính từ"
+  },
+  {
+    "w": "determinism",
+    "p": "",
+    "m": "thuyết tất định, mọi sự kiện đều do nguyên nhân trước",
+    "cat": "học thuật"
+  },
+  {
+    "w": "diatribe",
+    "p": "",
+    "m": "bài phê bình gay gắt, lời chỉ trích dữ dội",
+    "cat": "học thuật"
+  },
+  {
+    "w": "didactic",
+    "p": "",
+    "m": "có tính giáo huấn, nhằm mục đích giảng dạy",
+    "cat": "tính từ"
+  },
+  {
+    "w": "diffidence",
+    "p": "",
+    "m": "sự thiếu tự tin, rụt rè ngại ngùng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "dilatory",
+    "p": "",
+    "m": "hay trì hoãn, chậm chạp cố ý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "disabuse",
+    "p": "",
+    "m": "giải thích sự thật, sửa quan niệm sai lầm",
+    "cat": "hành động"
+  },
+  {
+    "w": "disconcert",
+    "p": "",
+    "m": "làm bối rối, gây mất tự tin",
+    "cat": "hành động"
+  },
+  {
+    "w": "discursive",
+    "p": "",
+    "m": "lan man, đề cập nhiều chủ đề không liên kết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "disinterested",
+    "p": "",
+    "m": "vô tư khách quan, không có lợi ích cá nhân",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dissemble",
+    "p": "",
+    "m": "che giấu cảm xúc thật, giả vờ",
+    "cat": "hành động"
+  },
+  {
+    "w": "dissonance",
+    "p": "",
+    "m": "sự bất hòa âm, sự mâu thuẫn không hài hòa",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "dogmatism",
+    "p": "",
+    "m": "thái độ độc đoán, áp đặt quan điểm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dormant",
+    "p": "",
+    "m": "tiềm ẩn, tạm ngủ chưa hoạt động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dubiety",
+    "p": "",
+    "m": "sự ngờ vực, trạng thái không chắc chắn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "duplicity",
+    "p": "",
+    "m": "sự hai mặt, giả dối trong hành vi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ebullience",
+    "p": "",
+    "m": "sự sôi nổi nhiệt tình, tràn đầy sinh khí",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "eclectic",
+    "p": "",
+    "m": "chiết trung, lấy từ nhiều nguồn khác nhau",
+    "cat": "tính từ"
+  },
+  {
+    "w": "effete",
+    "p": "",
+    "m": "suy yếu không còn hiệu quả, kiệt sức",
+    "cat": "tính từ"
+  },
+  {
+    "w": "efficacious",
+    "p": "",
+    "m": "có hiệu quả, đem lại kết quả mong muốn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "effrontery",
+    "p": "",
+    "m": "sự trơ tráo, táo tợn không biết xấu hổ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "egalitarianism",
+    "p": "",
+    "m": "chủ nghĩa bình đẳng, quan điểm mọi người bình đẳng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "egregious",
+    "p": "",
+    "m": "tồi tệ một cách nổi bật, quá đáng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "elision",
+    "p": "",
+    "m": "sự lược bỏ âm tiết/từ, bỏ qua phần không cần",
+    "cat": "học thuật"
+  },
+  {
+    "w": "elucidation",
+    "p": "",
+    "m": "sự giải thích làm rõ, sự làm sáng tỏ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "embroil",
+    "p": "",
+    "m": "lôi cuốn vào tranh cãi/rắc rối",
+    "cat": "hành động"
+  },
+  {
+    "w": "eminence grise",
+    "p": "",
+    "m": "người có ảnh hưởng lớn phía sau hậu trường",
+    "cat": "chính trị"
+  },
+  {
+    "w": "empiricism",
+    "p": "",
+    "m": "chủ nghĩa kinh nghiệm, tri thức từ quan sát thực tế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "encapsulate",
+    "p": "",
+    "m": "tóm gọn, đóng gói đầy đủ trong ngắn gọn",
+    "cat": "hành động"
+  },
+  {
+    "w": "endemic",
+    "p": "",
+    "m": "đặc hữu, phổ biến ở một vùng/nhóm cụ thể",
+    "cat": "tính từ"
+  },
+  {
+    "w": "enervate",
+    "p": "",
+    "m": "làm suy yếu sinh lực, làm mệt mỏi",
+    "cat": "hành động"
+  },
+  {
+    "w": "enigmatic",
+    "p": "",
+    "m": "bí ẩn khó hiểu, khó đoán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ennui",
+    "p": "",
+    "m": "sự chán ngán, mệt mỏi vô vị",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "entelechy",
+    "p": "",
+    "m": "tiềm năng được hiện thực hóa (triết học Aristotle)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ephemeral",
+    "p": "",
+    "m": "ngắn ngủi, thoáng qua không tồn tại lâu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "epistemology",
+    "p": "",
+    "m": "nhận thức luận, nghiên cứu bản chất tri thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "equanimity",
+    "p": "",
+    "m": "sự bình thản, thái độ điềm tĩnh trước khó khăn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "equivocate",
+    "p": "",
+    "m": "nói mơ hồ hai nghĩa để tránh cam kết",
+    "cat": "hành động"
+  },
+  {
+    "w": "ersatz",
+    "p": "",
+    "m": "giả mạo, thay thế kém chất lượng hơn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "erudition",
+    "p": "",
+    "m": "kiến thức uyên bác, học thức sâu rộng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "esoteric",
+    "p": "",
+    "m": "dành cho người am hiểu sâu, ít người biết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "espouse",
+    "p": "",
+    "m": "ủng hộ, theo đuổi (một quan điểm/sự nghiệp)",
+    "cat": "hành động"
+  },
+  {
+    "w": "etiolated",
+    "p": "",
+    "m": "xanh xao yếu ớt vì thiếu ánh sáng, suy yếu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "eulogize",
+    "p": "",
+    "m": "ca ngợi, tán dương trong lời điếu văn",
+    "cat": "hành động"
+  },
+  {
+    "w": "excoriate",
+    "p": "",
+    "m": "phê phán gay gắt, chỉ trích kịch liệt",
+    "cat": "hành động"
+  },
+  {
+    "w": "execrable",
+    "p": "",
+    "m": "cực kỳ tồi tệ, đáng ghê tởm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "exegesis",
+    "p": "",
+    "m": "sự giải thích phân tích văn bản (đặc biệt kinh thánh)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "exemplar",
+    "p": "",
+    "m": "mẫu mực, điển hình xuất sắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "exigency",
+    "p": "",
+    "m": "tình trạng khẩn cấp, đòi hỏi cấp bách",
+    "cat": "học thuật"
+  },
+  {
+    "w": "expatiate",
+    "p": "",
+    "m": "trình bày dài dòng, viết/nói chi tiết về một chủ đề",
+    "cat": "hành động"
+  },
+  {
+    "w": "expurgate",
+    "p": "",
+    "m": "kiểm duyệt, loại bỏ phần không phù hợp",
+    "cat": "hành động"
+  },
+  {
+    "w": "extemporize",
+    "p": "",
+    "m": "ứng khẩu, nói/làm tức thì không chuẩn bị",
+    "cat": "hành động"
+  },
+  {
+    "w": "extirpate",
+    "p": "",
+    "m": "diệt tận gốc, tiêu diệt hoàn toàn",
+    "cat": "hành động"
+  },
+  {
+    "w": "extraneous",
+    "p": "",
+    "m": "không liên quan, ngoài lề không cần thiết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "facile",
+    "p": "",
+    "m": "quá đơn giản hóa, hời hợt thiếu chiều sâu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fallacious",
+    "p": "",
+    "m": "sai lầm, dựa trên lý luận lỗi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fatuous",
+    "p": "",
+    "m": "ngốc nghếch vô nghĩa, thiếu trí tuệ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "febrile",
+    "p": "",
+    "m": "sốt sắng hăng hái thái quá, hưng phấn bất thường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "felicitous",
+    "p": "",
+    "m": "thích hợp tinh tế, được diễn đạt hay",
+    "cat": "tính từ"
+  },
+  {
+    "w": "feral",
+    "p": "",
+    "m": "hoang dã, sống theo bản năng tự nhiên",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fetid",
+    "p": "",
+    "m": "có mùi hôi thối nặng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "filibuster",
+    "p": "",
+    "m": "kéo dài bài phát biểu để ngăn cản bỏ phiếu",
+    "cat": "chính trị"
+  },
+  {
+    "w": "flaccid",
+    "p": "",
+    "m": "nhão, thiếu sinh lực, không rắn chắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "flagrant",
+    "p": "",
+    "m": "rõ ràng trắng trợn, vi phạm công khai",
+    "cat": "tính từ"
+  },
+  {
+    "w": "foment",
+    "p": "",
+    "m": "kích động, xúi giục (bất ổn/nổi loạn)",
+    "cat": "hành động"
+  },
+  {
+    "w": "forbearance",
+    "p": "",
+    "m": "sự nhẫn nhịn, kiên nhẫn chịu đựng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "forensic",
+    "p": "",
+    "m": "liên quan đến pháp y/tranh tụng, phục vụ tòa án",
+    "cat": "học thuật"
+  },
+  {
+    "w": "fortuitous",
+    "p": "",
+    "m": "xảy ra tình cờ may mắn, ngẫu nhiên thuận lợi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fractious",
+    "p": "",
+    "m": "khó tính hay cáu kỉnh, hay gây bất đồng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fulminate",
+    "p": "",
+    "m": "lên án dữ dội, phát biểu phẫn nộ mạnh mẽ",
+    "cat": "hành động"
+  },
+  {
+    "w": "fungible",
+    "p": "",
+    "m": "có thể thay thế lẫn nhau, tương đương nhau",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "furtive",
+    "p": "",
+    "m": "lén lút, lén lén nhìn trộm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "garrulous",
+    "p": "",
+    "m": "hay nói nhiều, ba hoa chuyện phiếm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "germane",
+    "p": "",
+    "m": "có liên quan trực tiếp, thích hợp với chủ đề",
+    "cat": "tính từ"
+  },
+  {
+    "w": "grandiloquent",
+    "p": "",
+    "m": "nói theo lối khoa trương hoa mỹ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "gratuitous",
+    "p": "",
+    "m": "không cần thiết, thêm vào không có lý do",
+    "cat": "tính từ"
+  },
+  {
+    "w": "gregarious",
+    "p": "",
+    "m": "thích giao tiếp xã hội, hướng ngoại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hapless",
+    "p": "",
+    "m": "xui xẻo, kém may mắn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hegemony",
+    "p": "",
+    "m": "quyền bá chủ, sự thống trị về chính trị/văn hóa",
+    "cat": "chính trị"
+  },
+  {
+    "w": "hermeneutics",
+    "p": "",
+    "m": "khoa diễn giải văn bản, lý thuyết diễn giải",
+    "cat": "học thuật"
+  },
+  {
+    "w": "histrionic",
+    "p": "",
+    "m": "kịch tính quá mức, diễn xuất giả tạo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "homiletic",
+    "p": "",
+    "m": "thuộc nghệ thuật thuyết giáo, mang tính đạo lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hubris",
+    "p": "",
+    "m": "sự kiêu ngạo thái quá dẫn đến sụp đổ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "iconoclast",
+    "p": "",
+    "m": "người phá bỏ thần tượng/quan niệm cũ",
+    "cat": "người"
+  },
+  {
+    "w": "idiosyncrasy",
+    "p": "",
+    "m": "thói quen đặc biệt riêng của một người",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ignominious",
+    "p": "",
+    "m": "nhục nhã, đáng xấu hổ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "imbue",
+    "p": "",
+    "m": "thấm nhuần, truyền đạt tinh thần/giá trị sâu sắc",
+    "cat": "hành động"
+  },
+  {
+    "w": "immutable",
+    "p": "",
+    "m": "bất biến, không thể thay đổi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "imperturbable",
+    "p": "",
+    "m": "không bị xáo động, điềm tĩnh tuyệt đối",
+    "cat": "tính từ"
+  },
+  {
+    "w": "impetuous",
+    "p": "",
+    "m": "bốc đồng, hành động vội vã thiếu suy nghĩ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "implacable",
+    "p": "",
+    "m": "không thể xoa dịu, không khoan nhượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "impugn",
+    "p": "",
+    "m": "nghi ngờ sự trung thực, bác bỏ tính hợp lệ",
+    "cat": "hành động"
+  },
+  {
+    "w": "inane",
+    "p": "",
+    "m": "vô nghĩa ngớ ngẩn, cực kỳ nhàm chán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inchoate",
+    "p": "",
+    "m": "mới bắt đầu chưa hoàn thiện, chưa định hình rõ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "incommensurable",
+    "p": "",
+    "m": "không thể so sánh, không có thước đo chung",
+    "cat": "tính từ"
+  },
+  {
+    "w": "incongruity",
+    "p": "",
+    "m": "sự không phù hợp, bất tương thích",
+    "cat": "học thuật"
+  },
+  {
+    "w": "inculcate",
+    "p": "",
+    "m": "khắc sâu vào tâm trí, giáo dục lặp đi lặp lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "indefatigable",
+    "p": "",
+    "m": "không biết mệt mỏi, kiên trì bền bỉ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "indolent",
+    "p": "",
+    "m": "lười biếng, không muốn làm việc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inexorable",
+    "p": "",
+    "m": "không thể ngăn cản, không lay chuyển được",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ingenuous",
+    "p": "",
+    "m": "thật thà vô tư, không có ý đồ xấu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inimical",
+    "p": "",
+    "m": "thù địch, có hại, chống lại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inimitable",
+    "p": "",
+    "m": "không thể bắt chước, độc đáo vô song",
+    "cat": "tính từ"
+  },
+  {
+    "w": "iniquitous",
+    "p": "",
+    "m": "bất công vô đạo đức, xấu xa tột độ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "insipid",
+    "p": "",
+    "m": "nhạt nhẽo, thiếu hương vị/màu sắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "interlocutor",
+    "p": "",
+    "m": "người đối thoại, người tham gia trò chuyện",
+    "cat": "người"
+  },
+  {
+    "w": "interpolate",
+    "p": "",
+    "m": "chèn thêm vào giữa, thêm dữ liệu trung gian",
+    "cat": "hành động"
+  },
+  {
+    "w": "inveterate",
+    "p": "",
+    "m": "thâm căn cố đế, thói quen khó bỏ lâu dài",
+    "cat": "tính từ"
+  },
+  {
+    "w": "invidious",
+    "p": "",
+    "m": "gây bất bình, không công bằng gây khó chịu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "irrefutable",
+    "p": "",
+    "m": "không thể bác bỏ, chắc chắn không thể phủ nhận",
+    "cat": "tính từ"
+  },
+  {
+    "w": "jargon",
+    "p": "",
+    "m": "thuật ngữ chuyên ngành khó hiểu với người ngoài",
+    "cat": "học thuật"
+  },
+  {
+    "w": "jejune",
+    "p": "",
+    "m": "ngây thơ thiếu chín chắn, thiếu dinh dưỡng trí tuệ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "juggernaut",
+    "p": "",
+    "m": "lực lượng khổng lồ không thể ngăn cản",
+    "cat": "học thuật"
+  },
+  {
+    "w": "kinship",
+    "p": "",
+    "m": "quan hệ họ hàng, sự gắn kết ruột thịt",
+    "cat": "gia đình"
+  },
+  {
+    "w": "lachrymose",
+    "p": "",
+    "m": "hay khóc, gây buồn bã thương tiếc",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "laconic",
+    "p": "",
+    "m": "ngắn gọn súc tích, ít lời nhưng đủ ý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "lassitude",
+    "p": "",
+    "m": "sự mệt mỏi rã rời, thiếu sinh lực",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "latent",
+    "p": "",
+    "m": "tiềm ẩn, chưa biểu hiện ra ngoài",
+    "cat": "tính từ"
+  },
+  {
+    "w": "laudable",
+    "p": "",
+    "m": "đáng khen ngợi, xứng đáng được tán dương",
+    "cat": "tính từ"
+  },
+  {
+    "w": "leitmotif",
+    "p": "",
+    "m": "chủ đề âm nhạc/văn học lặp lại, ý tưởng chủ đạo",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "lethargic",
+    "p": "",
+    "m": "buồn ngủ uể oải, thiếu hoạt lực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "levity",
+    "p": "",
+    "m": "thái độ không nghiêm túc, sự nhẹ dạ hài hước",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "liminal",
+    "p": "",
+    "m": "thuộc ngưỡng cửa, trạng thái chuyển tiếp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "limpid",
+    "p": "",
+    "m": "trong vắt, rõ ràng dễ hiểu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "lissome",
+    "p": "",
+    "m": "dẻo dai uyển chuyển",
+    "cat": "tính từ"
+  },
+  {
+    "w": "litigious",
+    "p": "",
+    "m": "hay kiện tụng, có xu hướng đưa ra tòa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "logorrhea",
+    "p": "",
+    "m": "chứng nói nhiều không kiểm soát",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "lugubrious",
+    "p": "",
+    "m": "ảo não u sầu, buồn bã thảm thiết",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "machiavellian",
+    "p": "",
+    "m": "mưu mô xảo quyệt theo kiểu Machiavelli",
+    "cat": "tính từ"
+  },
+  {
+    "w": "magnanimous",
+    "p": "",
+    "m": "độ lượng, rộng lượng tha thứ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "malfeasance",
+    "p": "",
+    "m": "hành vi sai trái của công chức, tội lạm quyền",
+    "cat": "chính trị"
+  },
+  {
+    "w": "malodorous",
+    "p": "",
+    "m": "có mùi hôi, bốc mùi khó chịu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "maudlin",
+    "p": "",
+    "m": "ủy mị sướt mướt, xúc động thái quá",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "meretricious",
+    "p": "",
+    "m": "hào nhoáng giả tạo, thu hút bằng vẻ ngoài lừa dối",
+    "cat": "tính từ"
+  },
+  {
+    "w": "metonymy",
+    "p": "",
+    "m": "hoán dụ, dùng từ liên quan thay thế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "milieu",
+    "p": "",
+    "m": "môi trường xã hội/văn hóa xung quanh",
+    "cat": "xã hội"
+  },
+  {
+    "w": "misanthrope",
+    "p": "",
+    "m": "người ghét loài người, kẻ thù ghét xã hội",
+    "cat": "người"
+  },
+  {
+    "w": "mitigate",
+    "p": "",
+    "m": "giảm nhẹ, làm bớt nghiêm trọng",
+    "cat": "hành động"
+  },
+  {
+    "w": "modicum",
+    "p": "",
+    "m": "một lượng nhỏ, chút xíu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "mollify",
+    "p": "",
+    "m": "xoa dịu, làm nguôi giận",
+    "cat": "hành động"
+  },
+  {
+    "w": "mordant",
+    "p": "",
+    "m": "chua cay sắc bén (phê bình/hài hước)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "moribund",
+    "p": "",
+    "m": "hấp hối, sắp chết hoặc sắp biến mất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "multifarious",
+    "p": "",
+    "m": "đa dạng phong phú, có nhiều loại khác nhau",
+    "cat": "tính từ"
+  },
+  {
+    "w": "mundane",
+    "p": "",
+    "m": "trần tục bình thường, thiếu thú vị",
+    "cat": "tính từ"
+  },
+  {
+    "w": "myopic",
+    "p": "",
+    "m": "thiển cận, thiếu tầm nhìn xa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "nadir",
+    "p": "",
+    "m": "điểm thấp nhất, đáy sâu nhất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "nascent",
+    "p": "",
+    "m": "mới hình thành, đang ở giai đoạn sơ khai",
+    "cat": "tính từ"
+  },
+  {
+    "w": "nebulous",
+    "p": "",
+    "m": "mơ hồ không rõ ràng, như đám mây mờ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "nefarious",
+    "p": "",
+    "m": "gian ác, bất lương tội lỗi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "neologism",
+    "p": "",
+    "m": "từ mới được tạo ra, tân từ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "nexus",
+    "p": "",
+    "m": "mối liên kết, điểm kết nối trung tâm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "noisome",
+    "p": "",
+    "m": "độc hại gây hại, hôi thối khó chịu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "nomenclature",
+    "p": "",
+    "m": "hệ thống thuật ngữ đặt tên trong khoa học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "non sequitur",
+    "p": "",
+    "m": "kết luận không logic, lý lẽ không liên quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "nonchalant",
+    "p": "",
+    "m": "thờ ơ bình thản, không quan tâm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "normative",
+    "p": "",
+    "m": "quy chuẩn, đề ra tiêu chuẩn cần đạt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "nugatory",
+    "p": "",
+    "m": "vô nghĩa, không có giá trị",
+    "cat": "tính từ"
+  },
+  {
+    "w": "obdurate",
+    "p": "",
+    "m": "cứng đầu không chịu thay đổi, ngoan cố",
+    "cat": "tính từ"
+  },
+  {
+    "w": "obfuscate",
+    "p": "",
+    "m": "làm mờ đục, che giấu bằng cách phức tạp hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "obloquy",
+    "p": "",
+    "m": "sự lên án công khai, tiếng xấu",
+    "cat": "xã hội"
+  },
+  {
+    "w": "obsequious",
+    "p": "",
+    "m": "nịnh hót, quá khúm núm phục tùng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "obviate",
+    "p": "",
+    "m": "ngăn chặn trước, loại bỏ sự cần thiết",
+    "cat": "hành động"
+  },
+  {
+    "w": "occlude",
+    "p": "",
+    "m": "bịt kín, ngăn chặn lối đi",
+    "cat": "hành động"
+  },
+  {
+    "w": "odious",
+    "p": "",
+    "m": "đáng ghét, ghê tởm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "officious",
+    "p": "",
+    "m": "quá nhiệt tình can thiệp, tự tiện giúp đỡ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "oligarchy",
+    "p": "",
+    "m": "chế độ quả đầu, nắm quyền bởi nhóm nhỏ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "onerous",
+    "p": "",
+    "m": "nặng nề, gây gánh nặng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ontology",
+    "p": "",
+    "m": "bản thể luận, nghiên cứu bản chất tồn tại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "opprobrium",
+    "p": "",
+    "m": "sự lên án mạnh mẽ, tiếng nhục",
+    "cat": "xã hội"
+  },
+  {
+    "w": "ostensible",
+    "p": "",
+    "m": "bề ngoài có vẻ, danh nghĩa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "overwrought",
+    "p": "",
+    "m": "quá kích động, căng thẳng thái quá",
+    "cat": "tính từ"
+  },
+  {
+    "w": "paean",
+    "p": "",
+    "m": "bài ca tụng, lời ca ngợi hân hoan",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "palimpsest",
+    "p": "",
+    "m": "bản thảo xóa viết lại, lớp lịch sử chồng nhau",
+    "cat": "học thuật"
+  },
+  {
+    "w": "panacea",
+    "p": "",
+    "m": "thuốc chữa bách bệnh, giải pháp vạn năng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "paradigmatic",
+    "p": "",
+    "m": "điển hình của mô hình, mang tính mẫu mực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pariah",
+    "p": "",
+    "m": "kẻ bị xã hội ruồng bỏ, người ngoài lề",
+    "cat": "xã hội"
+  },
+  {
+    "w": "parochial",
+    "p": "",
+    "m": "hẹp hòi địa phương, thiếu tầm nhìn rộng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "parsimonious",
+    "p": "",
+    "m": "keo kiệt, bủn xỉn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "partisan",
+    "p": "",
+    "m": "thiên vị phe phái, tín đồ trung thành",
+    "cat": "chính trị"
+  },
+  {
+    "w": "pathological",
+    "p": "",
+    "m": "bệnh lý, thuộc về bệnh hoặc bất thường",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "paucity",
+    "p": "",
+    "m": "sự thiếu hụt, số lượng quá ít",
+    "cat": "học thuật"
+  },
+  {
+    "w": "pecuniary",
+    "p": "",
+    "m": "liên quan đến tiền bạc, về mặt tài chính",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "pedantic",
+    "p": "",
+    "m": "quá câu nệ chi tiết nhỏ, học thức mà thiếu thực tế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "penchant",
+    "p": "",
+    "m": "sở thích mạnh, xu hướng thiên về",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "penury",
+    "p": "",
+    "m": "cảnh nghèo khổ cùng cực",
+    "cat": "xã hội"
+  },
+  {
+    "w": "peremptory",
+    "p": "",
+    "m": "ra lệnh không chấp nhận bác bỏ, dứt khoát",
+    "cat": "tính từ"
+  },
+  {
+    "w": "perfidy",
+    "p": "",
+    "m": "sự phản bội, hành vi bội tín",
+    "cat": "học thuật"
+  },
+  {
+    "w": "perfunctory",
+    "p": "",
+    "m": "làm chiếu lệ, qua loa thiếu quan tâm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "peripatetic",
+    "p": "",
+    "m": "hay di chuyển, đi đây đó không định cư",
+    "cat": "tính từ"
+  },
+  {
+    "w": "perspicacious",
+    "p": "",
+    "m": "tinh tế sáng suốt, nhận thức nhanh nhạy",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pertinacious",
+    "p": "",
+    "m": "kiên trì bền bỉ không từ bỏ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pervasive",
+    "p": "",
+    "m": "lan tỏa rộng khắp, thấm sâu vào mọi nơi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "phlegmatic",
+    "p": "",
+    "m": "bình thản điềm tĩnh, không dễ xúc động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "picaresque",
+    "p": "",
+    "m": "thuộc thể loại tiểu thuyết phiêu lưu hài hước",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "platitude",
+    "p": "",
+    "m": "câu nói sáo rỗng, nhận xét quá thường gặp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "plebeian",
+    "p": "",
+    "m": "thuộc tầng lớp bình dân, thiếu tinh tế",
+    "cat": "xã hội"
+  },
+  {
+    "w": "plethora",
+    "p": "",
+    "m": "số lượng quá nhiều, dư thừa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "polemic",
+    "p": "",
+    "m": "bài tranh luận gay gắt, lập luận tấn công",
+    "cat": "học thuật"
+  },
+  {
+    "w": "pontificate",
+    "p": "",
+    "m": "phán xét giáo điều, nói một cách cách trịch thượng",
+    "cat": "hành động"
+  },
+  {
+    "w": "postulate",
+    "p": "",
+    "m": "đặt ra giả thuyết, đề xuất làm tiền đề",
+    "cat": "hành động"
+  },
+  {
+    "w": "pragmatic",
+    "p": "",
+    "m": "thực dụng, tập trung vào kết quả thực tế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "precipitate",
+    "p": "",
+    "m": "thúc đẩy xảy ra đột ngột, vội vàng hấp tấp",
+    "cat": "hành động"
+  },
+  {
+    "w": "preclude",
+    "p": "",
+    "m": "ngăn chặn trước, loại trừ khả năng",
+    "cat": "hành động"
+  },
+  {
+    "w": "predilection",
+    "p": "",
+    "m": "sở thích đặc biệt, xu hướng ưa thích",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "preponderance",
+    "p": "",
+    "m": "sự chiếm đa số, ưu thế áp đảo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "presuppose",
+    "p": "",
+    "m": "tiền giả định, giả thuyết trước khi lập luận",
+    "cat": "hành động"
+  },
+  {
+    "w": "prevaricate",
+    "p": "",
+    "m": "nói vòng vo tránh sự thật, lẩn tránh",
+    "cat": "hành động"
+  },
+  {
+    "w": "primordial",
+    "p": "",
+    "m": "nguyên thủy, tồn tại từ thuở ban đầu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "probity",
+    "p": "",
+    "m": "tính liêm chính, phẩm hạnh đáng tin cậy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "proclivity",
+    "p": "",
+    "m": "xu hướng tự nhiên, khuynh hướng bẩm sinh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "prodigal",
+    "p": "",
+    "m": "phung phí, hoang phí tài nguyên",
+    "cat": "tính từ"
+  },
+  {
+    "w": "prolix",
+    "p": "",
+    "m": "dài dòng lê thê, không súc tích",
+    "cat": "tính từ"
+  },
+  {
+    "w": "propitious",
+    "p": "",
+    "m": "thuận lợi, mang điềm tốt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "prosaic",
+    "p": "",
+    "m": "tầm thường nhàm chán, thiếu trí tưởng tượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "protean",
+    "p": "",
+    "m": "linh hoạt thay đổi như Proteus, đa dạng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "provincial",
+    "p": "",
+    "m": "thiển cận địa phương, tỉnh lẻ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "proximate",
+    "p": "",
+    "m": "gần nhất, trực tiếp ngay liền trước",
+    "cat": "tính từ"
+  },
+  {
+    "w": "prudential",
+    "p": "",
+    "m": "thận trọng khôn ngoan, mang tính thực tế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pugnacious",
+    "p": "",
+    "m": "hiếu chiến, thích cãi vã xung đột",
+    "cat": "tính từ"
+  },
+  {
+    "w": "punctilious",
+    "p": "",
+    "m": "cẩn thận từng tiểu tiết, cẩn thận về nghi lễ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pusillanimous",
+    "p": "",
+    "m": "nhút nhát hèn nhát, thiếu dũng khí",
+    "cat": "tính từ"
+  },
+  {
+    "w": "quandary",
+    "p": "",
+    "m": "tình trạng khó xử, tiến thoái lưỡng nan",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "querulous",
+    "p": "",
+    "m": "hay phàn nàn, hay càu nhàu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "quiescence",
+    "p": "",
+    "m": "trạng thái yên tĩnh, không hoạt động",
+    "cat": "học thuật"
+  },
+  {
+    "w": "quintessential",
+    "p": "",
+    "m": "tiêu biểu hoàn hảo, mẫu mực điển hình nhất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "quixotic",
+    "p": "",
+    "m": "lãng mạn phi thực tế kiểu Don Quixote",
+    "cat": "tính từ"
+  },
+  {
+    "w": "rarefied",
+    "p": "",
+    "m": "xa vời khó tiếp cận, thuộc tầng lớp tinh hoa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ratiocinate",
+    "p": "",
+    "m": "lập luận logic, suy luận có hệ thống",
+    "cat": "hành động"
+  },
+  {
+    "w": "recalcitrant",
+    "p": "",
+    "m": "bướng bỉnh không phục tùng, cứng đầu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "recidivism",
+    "p": "",
+    "m": "tái phạm tội, thói quen tái phạm",
+    "cat": "xã hội"
+  },
+  {
+    "w": "recondite",
+    "p": "",
+    "m": "ít người biết, sâu xa huyền bí",
+    "cat": "tính từ"
+  },
+  {
+    "w": "rectitude",
+    "p": "",
+    "m": "sự ngay thẳng, đạo đức vững chắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "redolent",
+    "p": "",
+    "m": "thơm ngát, gợi nhớ mạnh mẽ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "refractory",
+    "p": "",
+    "m": "khó xử lý, không phục tùng điều trị",
+    "cat": "tính từ"
+  },
+  {
+    "w": "refulgent",
+    "p": "",
+    "m": "rực rỡ chói lọi, toả sáng mạnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "relegate",
+    "p": "",
+    "m": "hạ cấp, đưa xuống vị trí thấp hơn",
+    "cat": "hành động"
+  },
+  {
+    "w": "remonstrate",
+    "p": "",
+    "m": "phản đối, phàn nàn kiên quyết",
+    "cat": "hành động"
+  },
+  {
+    "w": "reparation",
+    "p": "",
+    "m": "sự bồi thường, việc khắc phục thiệt hại",
+    "cat": "chính trị"
+  },
+  {
+    "w": "repudiate",
+    "p": "",
+    "m": "bác bỏ hoàn toàn, từ chối chấp nhận",
+    "cat": "hành động"
+  },
+  {
+    "w": "resignation",
+    "p": "",
+    "m": "sự chấp nhận bình thản, từ chức",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "reticent",
+    "p": "",
+    "m": "ít nói, không muốn bày tỏ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "retributive",
+    "p": "",
+    "m": "thuộc về trừng phạt đáp trả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "revile",
+    "p": "",
+    "m": "chửi rủa, nói xấu tệ hại",
+    "cat": "hành động"
+  },
+  {
+    "w": "rhetoric",
+    "p": "",
+    "m": "hùng biện, nghệ thuật nói thuyết phục",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ribald",
+    "p": "",
+    "m": "thô tục hài hước, nói chuyện không đứng đắn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "rife",
+    "p": "",
+    "m": "đầy rẫy, phổ biến rộng khắp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "rigorous",
+    "p": "",
+    "m": "nghiêm ngặt chặt chẽ, đòi hỏi cao",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ruminative",
+    "p": "",
+    "m": "hay suy nghĩ sâu xa, trầm tư mặc tưởng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sagacious",
+    "p": "",
+    "m": "khôn ngoan sáng suốt, nhạy bén",
+    "cat": "tính từ"
+  },
+  {
+    "w": "salutary",
+    "p": "",
+    "m": "có lợi cho sức khỏe/cải thiện, mang tính giáo dục",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sanctimonious",
+    "p": "",
+    "m": "giả vờ đạo đức, đạo đức giả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sangfroid",
+    "p": "",
+    "m": "sự bình thản trong nguy hiểm, điềm tĩnh",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "sanguine",
+    "p": "",
+    "m": "lạc quan, tràn đầy hy vọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sardonic",
+    "p": "",
+    "m": "mỉa mai cay cú, giễu cợt độc ác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sartorial",
+    "p": "",
+    "m": "liên quan đến may vá/trang phục",
+    "cat": "quần áo"
+  },
+  {
+    "w": "schism",
+    "p": "",
+    "m": "sự chia rẽ, ly khai",
+    "cat": "xã hội"
+  },
+  {
+    "w": "scrupulous",
+    "p": "",
+    "m": "cẩn thận tỉ mỉ, có lương tâm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sedulous",
+    "p": "",
+    "m": "cần mẫn kiên trì, chăm chỉ không ngừng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "seminal",
+    "p": "",
+    "m": "có tầm ảnh hưởng lớn, mang tính khai sinh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "semiotic",
+    "p": "",
+    "m": "thuộc ký hiệu học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "sequester",
+    "p": "",
+    "m": "cô lập, tịch thu giữ lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "serendipity",
+    "p": "",
+    "m": "may mắn tình cờ khám phá điều tốt",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "shibboleth",
+    "p": "",
+    "m": "dấu hiệu nhận biết nhóm, niềm tin lỗi thời",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "sinuous",
+    "p": "",
+    "m": "uốn khúc, quanh co",
+    "cat": "tính từ"
+  },
+  {
+    "w": "skepticism",
+    "p": "",
+    "m": "chủ nghĩa hoài nghi, thái độ nghi vấn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "sober",
+    "p": "",
+    "m": "điềm tĩnh nghiêm túc, không cường điệu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "solecism",
+    "p": "",
+    "m": "lỗi ngữ pháp, vi phạm quy tắc xã hội",
+    "cat": "học thuật"
+  },
+  {
+    "w": "soporific",
+    "p": "",
+    "m": "gây buồn ngủ, làm mê mẩn buồn tẻ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sophistry",
+    "p": "",
+    "m": "ngụy biện, lý luận sai nhưng có vẻ hợp lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "specious",
+    "p": "",
+    "m": "có vẻ hợp lý nhưng thực ra sai",
+    "cat": "tính từ"
+  },
+  {
+    "w": "spurious",
+    "p": "",
+    "m": "giả mạo, không xác thực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "squalid",
+    "p": "",
+    "m": "bẩn thỉu nhếch nhác, đáng khinh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "stasis",
+    "p": "",
+    "m": "trạng thái đứng yên, không thay đổi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "steadfast",
+    "p": "",
+    "m": "kiên định vững chắc, không dao động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "stentorian",
+    "p": "",
+    "m": "giọng to oang oang",
+    "cat": "tính từ"
+  },
+  {
+    "w": "stolid",
+    "p": "",
+    "m": "lạnh lùng không biểu lộ cảm xúc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "strident",
+    "p": "",
+    "m": "inh ỏi gay gắt, đòi hỏi quyết liệt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "stymie",
+    "p": "",
+    "m": "cản trở, ngăn chặn tiến triển",
+    "cat": "hành động"
+  },
+  {
+    "w": "subjugate",
+    "p": "",
+    "m": "khuất phục, chinh phục hoàn toàn",
+    "cat": "hành động"
+  },
+  {
+    "w": "sublimate",
+    "p": "",
+    "m": "thăng hoa, chuyển hóa năng lượng sang hình thức cao hơn",
+    "cat": "hành động"
+  },
+  {
+    "w": "substantive",
+    "p": "",
+    "m": "có thực chất, quan trọng về nội dung",
+    "cat": "tính từ"
+  },
+  {
+    "w": "subterfuge",
+    "p": "",
+    "m": "thủ đoạn lừa dối, lý do giả tạo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "subversive",
+    "p": "",
+    "m": "phá hoại nền tảng, lật đổ trật tự hiện hành",
+    "cat": "tính từ"
+  },
+  {
+    "w": "supercilious",
+    "p": "",
+    "m": "trịch thượng, coi thường người khác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "superfluous",
+    "p": "",
+    "m": "thừa thãi không cần thiết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "supplant",
+    "p": "",
+    "m": "thay thế, chiếm chỗ của cái cũ",
+    "cat": "hành động"
+  },
+  {
+    "w": "suppression",
+    "p": "",
+    "m": "sự đàn áp, kìm nén không cho lộ ra",
+    "cat": "chính trị"
+  },
+  {
+    "w": "syllogism",
+    "p": "",
+    "m": "tam đoạn luận, suy luận diễn dịch",
+    "cat": "học thuật"
+  },
+  {
+    "w": "symptomatic",
+    "p": "",
+    "m": "là triệu chứng biểu hiện của, mang tính dấu hiệu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "syncretic",
+    "p": "",
+    "m": "hòa hợp nhiều truyền thống, kết hợp các tín ngưỡng",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "synecdoche",
+    "p": "",
+    "m": "đề dụ, dùng bộ phận thay toàn thể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "taciturn",
+    "p": "",
+    "m": "ít nói, hay im lặng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tautology",
+    "p": "",
+    "m": "điệp ý vô ích, lặp lại ý kiến không thêm thông tin",
+    "cat": "học thuật"
+  },
+  {
+    "w": "tendentious",
+    "p": "",
+    "m": "mang tính thiên lệch, phục vụ quan điểm nhất định",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tenuous",
+    "p": "",
+    "m": "mỏng manh yếu ớt, thiếu căn cứ vững chắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tergiversate",
+    "p": "",
+    "m": "thay đổi lập trường, lẩn tránh cam kết",
+    "cat": "hành động"
+  },
+  {
+    "w": "tome",
+    "p": "",
+    "m": "cuốn sách đồ sộ, quyển sách dày",
+    "cat": "học tập"
+  },
+  {
+    "w": "torpid",
+    "p": "",
+    "m": "uể oải, mê man không hoạt động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tractable",
+    "p": "",
+    "m": "dễ bảo, dễ xử lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "transgressive",
+    "p": "",
+    "m": "vi phạm ranh giới, thách thức chuẩn mực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "transmute",
+    "p": "",
+    "m": "biến đổi hoàn toàn, chuyển hóa sang dạng khác",
+    "cat": "hành động"
+  },
+  {
+    "w": "treachery",
+    "p": "",
+    "m": "sự phản bội, hành động bội nghĩa",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "trenchant",
+    "p": "",
+    "m": "sắc bén, phân tích sâu sắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "truculent",
+    "p": "",
+    "m": "hung hăng, hiếu chiến aggressively",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tumultuous",
+    "p": "",
+    "m": "hỗn loạn ồn ào, đầy biến động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "turpitude",
+    "p": "",
+    "m": "tính đê hèn, hành vi vô đạo đức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ubiquitous",
+    "p": "",
+    "m": "có mặt khắp nơi, phổ biến rộng rãi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ulterior",
+    "p": "",
+    "m": "có mục đích ẩn sau, không nói thẳng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "umbrage",
+    "p": "",
+    "m": "sự tự ái, cảm giác bị xúc phạm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "unequivocal",
+    "p": "",
+    "m": "không mơ hồ, rõ ràng dứt khoát",
+    "cat": "tính từ"
+  },
+  {
+    "w": "unilateral",
+    "p": "",
+    "m": "đơn phương, một phía quyết định",
+    "cat": "tính từ"
+  },
+  {
+    "w": "untenable",
+    "p": "",
+    "m": "không thể duy trì, không thể bảo vệ được",
+    "cat": "tính từ"
+  },
+  {
+    "w": "unwitting",
+    "p": "",
+    "m": "vô tình không biết, không cố ý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "utilitarian",
+    "p": "",
+    "m": "thực dụng chủ nghĩa, ưu tiên lợi ích đa số",
+    "cat": "học thuật"
+  },
+  {
+    "w": "vacuous",
+    "p": "",
+    "m": "rỗng tuếch, thiếu trí tuệ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "variegated",
+    "p": "",
+    "m": "đa màu sắc, phong phú đa dạng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "vehement",
+    "p": "",
+    "m": "mãnh liệt, nhiệt thành mạnh mẽ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "venerable",
+    "p": "",
+    "m": "đáng kính, cao tuổi đáng tôn trọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "verisimilitude",
+    "p": "",
+    "m": "vẻ chân thực trong hư cấu, độ tin cậy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "vernacular",
+    "p": "",
+    "m": "ngôn ngữ bình dân địa phương, tiếng thổ ngữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "vestigial",
+    "p": "",
+    "m": "còn sót lại từ xưa, cơ quan thoái hóa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "vicarious",
+    "p": "",
+    "m": "trải nghiệm gián tiếp qua người khác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "virulent",
+    "p": "",
+    "m": "cực độc hại, cực kỳ hung ác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "vitiate",
+    "p": "",
+    "m": "làm hỏng, làm giảm giá trị/hiệu quả",
+    "cat": "hành động"
+  },
+  {
+    "w": "vituperate",
+    "p": "",
+    "m": "chỉ trích tàn tệ, mắng mỏ thậm tệ",
+    "cat": "hành động"
+  },
+  {
+    "w": "vociferous",
+    "p": "",
+    "m": "la ó ầm ĩ, phản đối ồn ào",
+    "cat": "tính từ"
+  },
+  {
+    "w": "voluble",
+    "p": "",
+    "m": "nói nhiều trôi chảy, lưu loát",
+    "cat": "tính từ"
+  },
+  {
+    "w": "wanton",
+    "p": "",
+    "m": "bừa bãi vô cớ, liều lĩnh không kiềm chế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "weltanschauung",
+    "p": "",
+    "m": "thế giới quan, triết lý nhìn nhận thế giới",
+    "cat": "học thuật"
+  },
+  {
+    "w": "whimsical",
+    "p": "",
+    "m": "kỳ cục hài hước, bất thường vui vẻ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "zeitgeist",
+    "p": "",
+    "m": "tinh thần thời đại, khí quyển văn hóa của một thời kỳ",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "zealous",
+    "p": "",
+    "m": "nhiệt thành, hăng hái mạnh mẽ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "abnegate",
+    "p": "",
+    "m": "từ bỏ quyền lợi, hi sinh bản thân",
+    "cat": "hành động"
+  },
+  {
+    "w": "abstemious",
+    "p": "",
+    "m": "tiết độ, tránh xa ăn uống quá mức",
+    "cat": "tính từ"
+  },
+  {
+    "w": "accretion",
+    "p": "",
+    "m": "sự tích lũy dần, phát triển bằng cách thêm vào",
+    "cat": "học thuật"
+  },
+  {
+    "w": "acme",
+    "p": "",
+    "m": "đỉnh cao, điểm phát triển cao nhất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "acquiesce",
+    "p": "",
+    "m": "chấp nhận im lặng, đồng ý thụ động",
+    "cat": "hành động"
+  },
+  {
+    "w": "adroit",
+    "p": "",
+    "m": "khéo léo tài tình, nhanh nhẹn thành thạo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "adventitious",
+    "p": "",
+    "m": "ngẫu nhiên bên ngoài, không thuộc bản chất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "affinity",
+    "p": "",
+    "m": "sự gần gũi tự nhiên, mối quan hệ tương đồng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "aggrandize",
+    "p": "",
+    "m": "thổi phồng, đề cao bản thân quá mức",
+    "cat": "hành động"
+  },
+  {
+    "w": "albedo",
+    "p": "",
+    "m": "tỷ lệ phản chiếu ánh sáng của bề mặt",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "alleviate",
+    "p": "",
+    "m": "làm dịu bớt, giảm nhẹ đau khổ",
+    "cat": "hành động"
+  },
+  {
+    "w": "ambiguity",
+    "p": "",
+    "m": "sự mơ hồ, nghĩa không rõ ràng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "amelioration",
+    "p": "",
+    "m": "sự cải thiện, quá trình nâng lên tốt hơn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "amenable",
+    "p": "",
+    "m": "dễ chịu, sẵn sàng tuân theo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "amorphous",
+    "p": "",
+    "m": "không có hình dạng nhất định, vô định hình",
+    "cat": "tính từ"
+  },
+  {
+    "w": "analogue",
+    "p": "",
+    "m": "vật tương đồng, phần tương ứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "anecdotal",
+    "p": "",
+    "m": "dựa vào giai thoại, thiếu bằng chứng hệ thống",
+    "cat": "tính từ"
+  },
+  {
+    "w": "annex",
+    "p": "",
+    "m": "sáp nhập, chiếm đoạt lãnh thổ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "antithesis",
+    "p": "",
+    "m": "đối lập hoàn toàn, phản đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "apotheosis",
+    "p": "",
+    "m": "đỉnh cao vinh quang, tôn lên thành thần",
+    "cat": "học thuật"
+  },
+  {
+    "w": "appurtenance",
+    "p": "",
+    "m": "phụ kiện kèm theo, quyền lợi đi kèm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "apt",
+    "p": "",
+    "m": "thích hợp chính xác, có khả năng thiên về",
+    "cat": "tính từ"
+  },
+  {
+    "w": "arbitrate",
+    "p": "",
+    "m": "phân xử, giải quyết tranh chấp bằng trọng tài",
+    "cat": "hành động"
+  },
+  {
+    "w": "archetype",
+    "p": "",
+    "m": "nguyên mẫu, hình mẫu cổ điển",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ardor",
+    "p": "",
+    "m": "nhiệt huyết nồng cháy, say mê mạnh mẽ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "articulation",
+    "p": "",
+    "m": "sự diễn đạt rõ ràng, phát âm chuẩn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "aspersion",
+    "p": "",
+    "m": "lời buộc tội vu khống, nói xấu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "assuage",
+    "p": "",
+    "m": "xoa dịu, làm nhẹ bớt (lo lắng/đau đớn)",
+    "cat": "hành động"
+  },
+  {
+    "w": "attenuated",
+    "p": "",
+    "m": "bị làm yếu đi, pha loãng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "austere",
+    "p": "",
+    "m": "khắc khổ giản dị, nghiêm khắc không xa hoa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "avarice",
+    "p": "",
+    "m": "lòng tham tiền bạc, tính keo kiệt",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "avert",
+    "p": "",
+    "m": "ngăn chặn, tránh né",
+    "cat": "hành động"
+  },
+  {
+    "w": "avid",
+    "p": "",
+    "m": "ham muốn mãnh liệt, háo hức",
+    "cat": "tính từ"
+  },
+  {
+    "w": "belligerent",
+    "p": "",
+    "m": "tham chiến, hiếu chiến hung hăng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "bemoan",
+    "p": "",
+    "m": "than thở, than vãn về điều mất mát",
+    "cat": "hành động"
+  },
+  {
+    "w": "beneficent",
+    "p": "",
+    "m": "làm điều tốt, có lòng từ thiện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "benevolence",
+    "p": "",
+    "m": "lòng nhân ái, sự tốt lành hào phóng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "beseech",
+    "p": "",
+    "m": "van xin khẩn cầu",
+    "cat": "hành động"
+  },
+  {
+    "w": "bestow",
+    "p": "",
+    "m": "ban tặng, trao cho như quà",
+    "cat": "hành động"
+  },
+  {
+    "w": "blanch",
+    "p": "",
+    "m": "tái mặt vì sợ, làm trắng",
+    "cat": "hành động"
+  },
+  {
+    "w": "blight",
+    "p": "",
+    "m": "căn bệnh hủy hoại, điều tàn phá",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "boon",
+    "p": "",
+    "m": "điều may mắn, lợi ích quý giá",
+    "cat": "học thuật"
+  },
+  {
+    "w": "bourgeois",
+    "p": "",
+    "m": "tầng lớp trung lưu, mang tư tưởng tư sản",
+    "cat": "xã hội"
+  },
+  {
+    "w": "brevity",
+    "p": "",
+    "m": "tính ngắn gọn, súc tích trong ngôn từ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "brusque",
+    "p": "",
+    "m": "cộc lốc thô lỗ, thiếu lịch sự",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cadence",
+    "p": "",
+    "m": "nhịp điệu, tiết tấu trong âm nhạc/ngôn ngữ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "candor",
+    "p": "",
+    "m": "sự thẳng thắn, thành thật chân thành",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "caprice",
+    "p": "",
+    "m": "hành động bất thường, ý thích thất thường",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "catalyst",
+    "p": "",
+    "m": "chất xúc tác, nhân tố thúc đẩy thay đổi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "causation",
+    "p": "",
+    "m": "quan hệ nhân quả, nguyên nhân dẫn đến kết quả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "censure",
+    "p": "",
+    "m": "lên án chính thức, khiển trách công khai",
+    "cat": "hành động"
+  },
+  {
+    "w": "cerebral",
+    "p": "",
+    "m": "thuộc về trí tuệ, suy nghĩ hơn cảm xúc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "charisma",
+    "p": "",
+    "m": "sức hút cá nhân, khả năng thu phục người khác",
+    "cat": "người"
+  },
+  {
+    "w": "chastise",
+    "p": "",
+    "m": "quở trách, phạt để sửa đổi",
+    "cat": "hành động"
+  },
+  {
+    "w": "clarity",
+    "p": "",
+    "m": "sự trong sáng rõ ràng, dễ hiểu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "clemency",
+    "p": "",
+    "m": "lòng khoan hồng, sự tha thứ nhân từ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "coercion",
+    "p": "",
+    "m": "sự ép buộc, dùng áp lực bắt tuân thủ",
+    "cat": "xã hội"
+  },
+  {
+    "w": "coherence",
+    "p": "",
+    "m": "tính mạch lạc, sự liên kết chặt chẽ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "compellingly",
+    "p": "",
+    "m": "một cách thuyết phục mạnh mẽ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "conciliation",
+    "p": "",
+    "m": "sự hòa giải, làm dịu xung đột",
+    "cat": "học thuật"
+  },
+  {
+    "w": "condone",
+    "p": "",
+    "m": "bỏ qua, tha thứ hành vi sai trái",
+    "cat": "hành động"
+  },
+  {
+    "w": "conjectural",
+    "p": "",
+    "m": "mang tính phỏng đoán, chưa được xác minh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "conscientious",
+    "p": "",
+    "m": "tận tâm, có trách nhiệm cao",
+    "cat": "tính từ"
+  },
+  {
+    "w": "consonance",
+    "p": "",
+    "m": "sự hòa hợp, nhất quán phù hợp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "consummate",
+    "p": "",
+    "m": "hoàn hảo tuyệt đỉnh, hoàn tất trọn vẹn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "contend",
+    "p": "",
+    "m": "tranh luận, đấu tranh chống lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "contingent",
+    "p": "",
+    "m": "phụ thuộc điều kiện, không chắc chắn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "copious",
+    "p": "",
+    "m": "dồi dào phong phú, rất nhiều",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cull",
+    "p": "",
+    "m": "loại bỏ, chọn lọc từ nhóm lớn",
+    "cat": "hành động"
+  },
+  {
+    "w": "cynicism",
+    "p": "",
+    "m": "chủ nghĩa yếm thế, thái độ không tin vào điều tốt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dearth",
+    "p": "",
+    "m": "sự thiếu hụt, khan hiếm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "decimate",
+    "p": "",
+    "m": "tiêu diệt phần lớn, gây thiệt hại nặng nề",
+    "cat": "hành động"
+  },
+  {
+    "w": "decisive",
+    "p": "",
+    "m": "quyết đoán, mang tính quyết định",
+    "cat": "tính từ"
+  },
+  {
+    "w": "deduce",
+    "p": "",
+    "m": "suy diễn, rút ra kết luận từ tiền đề",
+    "cat": "hành động"
+  },
+  {
+    "w": "defamation",
+    "p": "",
+    "m": "sự phỉ báng, tội nói xấu danh dự người khác",
+    "cat": "xã hội"
+  },
+  {
+    "w": "defer",
+    "p": "",
+    "m": "trì hoãn, nhường quyền cho người khác",
+    "cat": "hành động"
+  },
+  {
+    "w": "deft",
+    "p": "",
+    "m": "khéo léo nhanh nhẹn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "delineate",
+    "p": "",
+    "m": "phác thảo rõ ràng, vạch ra chi tiết",
+    "cat": "hành động"
+  },
+  {
+    "w": "demystify",
+    "p": "",
+    "m": "giải bí ẩn, làm dễ hiểu hơn",
+    "cat": "hành động"
+  },
+  {
+    "w": "denote",
+    "p": "",
+    "m": "biểu thị, là dấu hiệu của",
+    "cat": "hành động"
+  },
+  {
+    "w": "depict",
+    "p": "",
+    "m": "mô tả, miêu tả bằng hình ảnh/lời",
+    "cat": "hành động"
+  },
+  {
+    "w": "derive",
+    "p": "",
+    "m": "suy ra, lấy nguồn gốc từ",
+    "cat": "hành động"
+  },
+  {
+    "w": "desiccate",
+    "p": "",
+    "m": "làm khô héo, tước đoạt sinh lực",
+    "cat": "hành động"
+  },
+  {
+    "w": "determinant",
+    "p": "",
+    "m": "yếu tố quyết định, nhân tố chính",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dialectic",
+    "p": "",
+    "m": "phép biện chứng, phương pháp tranh luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "differentiate",
+    "p": "",
+    "m": "phân biệt, tạo ra sự khác biệt",
+    "cat": "hành động"
+  },
+  {
+    "w": "digress",
+    "p": "",
+    "m": "lạc đề, đi lạc khỏi chủ điểm",
+    "cat": "hành động"
+  },
+  {
+    "w": "diminutive",
+    "p": "",
+    "m": "rất nhỏ, hình thức thu nhỏ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "discern",
+    "p": "",
+    "m": "nhận ra, phân biệt được",
+    "cat": "hành động"
+  },
+  {
+    "w": "disingenuous",
+    "p": "",
+    "m": "không thành thật, giả vờ trong sáng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "disparate",
+    "p": "",
+    "m": "khác nhau hoàn toàn, không tương đồng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dispositive",
+    "p": "",
+    "m": "quyết định kết quả, có tính phán quyết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dissipate",
+    "p": "",
+    "m": "tiêu tan, phung phí",
+    "cat": "hành động"
+  },
+  {
+    "w": "domain",
+    "p": "",
+    "m": "lĩnh vực, phạm vi ảnh hưởng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dormancy",
+    "p": "",
+    "m": "trạng thái tiềm ẩn không hoạt động",
+    "cat": "học thuật"
+  },
+  {
+    "w": "durable",
+    "p": "",
+    "m": "bền vững lâu dài",
+    "cat": "tính từ"
+  },
+  {
+    "w": "echelon",
+    "p": "",
+    "m": "bậc thang cấp bậc trong tổ chức",
+    "cat": "xã hội"
+  },
+  {
+    "w": "edifying",
+    "p": "",
+    "m": "có tính giáo dục, nâng cao tinh thần",
+    "cat": "tính từ"
+  },
+  {
+    "w": "efficacy",
+    "p": "",
+    "m": "hiệu quả, khả năng đem lại kết quả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "egalitarian",
+    "p": "",
+    "m": "bình đẳng, ủng hộ sự bình đẳng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "elaborate",
+    "p": "",
+    "m": "chi tiết công phu, giải thích tỉ mỉ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "eloquence",
+    "p": "",
+    "m": "sự hùng hồn, khả năng diễn đạt thuyết phục",
+    "cat": "học thuật"
+  },
+  {
+    "w": "eminent",
+    "p": "",
+    "m": "nổi tiếng xuất sắc, có địa vị cao",
+    "cat": "tính từ"
+  },
+  {
+    "w": "empirical",
+    "p": "",
+    "m": "dựa trên quan sát thực nghiệm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "encompass",
+    "p": "",
+    "m": "bao gồm, bao hàm toàn bộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "engender",
+    "p": "",
+    "m": "tạo ra, sản sinh ra",
+    "cat": "hành động"
+  },
+  {
+    "w": "episodic",
+    "p": "",
+    "m": "rời rạc theo từng tập, không liên tục",
+    "cat": "tính từ"
+  },
+  {
+    "w": "equitable",
+    "p": "",
+    "m": "công bằng, theo lẽ phải",
+    "cat": "tính từ"
+  },
+  {
+    "w": "evanescent",
+    "p": "",
+    "m": "mau tan biến, thoáng qua như ảo ảnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "evolve",
+    "p": "",
+    "m": "tiến hóa, phát triển dần dần",
+    "cat": "hành động"
+  },
+  {
+    "w": "exacerbate",
+    "p": "",
+    "m": "làm trầm trọng thêm, tệ hơn",
+    "cat": "hành động"
+  },
+  {
+    "w": "exacting",
+    "p": "",
+    "m": "đòi hỏi cao, khắt khe",
+    "cat": "tính từ"
+  },
+  {
+    "w": "exalt",
+    "p": "",
+    "m": "tôn cao, ca tụng",
+    "cat": "hành động"
+  },
+  {
+    "w": "expedient",
+    "p": "",
+    "m": "tiện lợi trong hoàn cảnh, thực dụng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "explicit",
+    "p": "",
+    "m": "rõ ràng minh bạch, không mơ hồ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "extol",
+    "p": "",
+    "m": "ca ngợi nhiệt tình, tán dương",
+    "cat": "hành động"
+  },
+  {
+    "w": "exuberant",
+    "p": "",
+    "m": "sôi nổi tràn đầy sinh lực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fallible",
+    "p": "",
+    "m": "có thể mắc sai lầm, không hoàn hảo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fastidious",
+    "p": "",
+    "m": "cẩn thận khó tính về chi tiết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "feasible",
+    "p": "",
+    "m": "khả thi, có thể thực hiện được",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fervent",
+    "p": "",
+    "m": "nhiệt tình nồng nhiệt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fidelity",
+    "p": "",
+    "m": "lòng trung thành, độ chính xác",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "finite",
+    "p": "",
+    "m": "hữu hạn, có giới hạn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "flamboyant",
+    "p": "",
+    "m": "lòe loẹt phô trương, ăn mặc nổi bật",
+    "cat": "tính từ"
+  },
+  {
+    "w": "forestall",
+    "p": "",
+    "m": "phòng ngừa trước, ngăn cản trước khi xảy ra",
+    "cat": "hành động"
+  },
+  {
+    "w": "frugal",
+    "p": "",
+    "m": "tiết kiệm, dè xẻn trong chi tiêu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "futile",
+    "p": "",
+    "m": "vô ích, không kết quả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "garner",
+    "p": "",
+    "m": "thu thập, tích lũy dần",
+    "cat": "hành động"
+  },
+  {
+    "w": "generate",
+    "p": "",
+    "m": "tạo ra, sản xuất",
+    "cat": "hành động"
+  },
+  {
+    "w": "globalization",
+    "p": "",
+    "m": "toàn cầu hóa, quá trình hội nhập thế giới",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "gluttony",
+    "p": "",
+    "m": "tính phàm ăn, sự thèm muốn quá mức",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "guile",
+    "p": "",
+    "m": "sự xảo quyệt, lòng dối trá khéo léo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "harangue",
+    "p": "",
+    "m": "bài diễn văn dài dòng chỉ trích",
+    "cat": "hành động"
+  },
+  {
+    "w": "hierarchy",
+    "p": "",
+    "m": "thứ bậc, cấu trúc phân tầng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "holistic",
+    "p": "",
+    "m": "toàn diện, nhìn nhận tổng thể",
+    "cat": "tính từ"
+  },
+  {
+    "w": "homogeneous",
+    "p": "",
+    "m": "đồng nhất, cùng loại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hyperbole",
+    "p": "",
+    "m": "cường điệu, phóng đại để nhấn mạnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "iconography",
+    "p": "",
+    "m": "hệ thống biểu tượng, nghiên cứu hình ảnh biểu trưng",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "ideology",
+    "p": "",
+    "m": "hệ tư tưởng, tập hợp niềm tin chính trị",
+    "cat": "chính trị"
+  },
+  {
+    "w": "illusory",
+    "p": "",
+    "m": "ảo tưởng, dựa trên ảo giác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "imminent",
+    "p": "",
+    "m": "sắp xảy ra, gần kề",
+    "cat": "tính từ"
+  },
+  {
+    "w": "impede",
+    "p": "",
+    "m": "cản trở, ngăn chặn tiến triển",
+    "cat": "hành động"
+  },
+  {
+    "w": "implications",
+    "p": "",
+    "m": "hệ quả ngụ ý, điều ngầm hiểu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "impudent",
+    "p": "",
+    "m": "vô lễ, trơ tráo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inadvertently",
+    "p": "",
+    "m": "một cách vô tình, không cố ý",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "inaugurate",
+    "p": "",
+    "m": "khai trương, nhậm chức chính thức",
+    "cat": "hành động"
+  },
+  {
+    "w": "incisive",
+    "p": "",
+    "m": "sắc bén thấu đáo, đến thẳng vấn đề",
+    "cat": "tính từ"
+  },
+  {
+    "w": "incontrovertible",
+    "p": "",
+    "m": "không thể tranh cãi, hiển nhiên",
+    "cat": "tính từ"
+  },
+  {
+    "w": "indignation",
+    "p": "",
+    "m": "sự phẫn nộ, giận dữ vì bất công",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "induce",
+    "p": "",
+    "m": "gây ra, thúc đẩy",
+    "cat": "hành động"
+  },
+  {
+    "w": "infallible",
+    "p": "",
+    "m": "không thể sai lầm, hoàn toàn đáng tin",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ingenious",
+    "p": "",
+    "m": "sáng tạo khéo léo, thông minh tài tình",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inherent",
+    "p": "",
+    "m": "cố hữu, vốn có trong bản chất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "injunction",
+    "p": "",
+    "m": "lệnh cấm của tòa án, chỉ thị bắt buộc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "insatiable",
+    "p": "",
+    "m": "không thể thỏa mãn, tham lam vô độ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "insidious",
+    "p": "",
+    "m": "ngấm ngầm gây hại, độc hại theo cách tinh vi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "integrity",
+    "p": "",
+    "m": "tính chính trực, đạo đức vẹn toàn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ironic",
+    "p": "",
+    "m": "mang tính mỉa mai, trái với điều mong đợi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "judicious",
+    "p": "",
+    "m": "sáng suốt khôn ngoan trong phán xét",
+    "cat": "tính từ"
+  },
+  {
+    "w": "juxtapose",
+    "p": "",
+    "m": "đặt cạnh nhau để so sánh tương phản",
+    "cat": "hành động"
+  },
+  {
+    "w": "labyrinthine",
+    "p": "",
+    "m": "rắc rối như mê cung, phức tạp khó thoát",
+    "cat": "tính từ"
+  },
+  {
+    "w": "largesse",
+    "p": "",
+    "m": "sự hào phóng, việc tặng quà rộng rãi",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "legitimacy",
+    "p": "",
+    "m": "tính hợp pháp, sự chính đáng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "lethargy",
+    "p": "",
+    "m": "sự uể oải mệt mỏi, thiếu năng lượng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "loftily",
+    "p": "",
+    "m": "một cách kiêu kỳ, cao ngạo",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "longevity",
+    "p": "",
+    "m": "tuổi thọ, sự tồn tại lâu dài",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "lucid",
+    "p": "",
+    "m": "sáng suốt minh bạch, rõ ràng dễ hiểu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "magnify",
+    "p": "",
+    "m": "phóng đại, làm to hơn",
+    "cat": "hành động"
+  },
+  {
+    "w": "malignant",
+    "p": "",
+    "m": "ác tính nguy hiểm, có hại cố ý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "malleable",
+    "p": "",
+    "m": "dễ uốn nắn, dễ chịu ảnh hưởng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "manifest",
+    "p": "",
+    "m": "thể hiện rõ ràng, biểu lộ ra ngoài",
+    "cat": "hành động"
+  },
+  {
+    "w": "meticulous",
+    "p": "",
+    "m": "tỉ mỉ cẩn thận từng chi tiết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "misnomer",
+    "p": "",
+    "m": "tên gọi sai, cách gọi không chính xác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "mobilize",
+    "p": "",
+    "m": "huy động, tập hợp lực lượng",
+    "cat": "hành động"
+  },
+  {
+    "w": "modest",
+    "p": "",
+    "m": "khiêm tốn, không phô trương",
+    "cat": "tính từ"
+  },
+  {
+    "w": "momentous",
+    "p": "",
+    "m": "có tầm quan trọng lớn, trọng đại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "moratorium",
+    "p": "",
+    "m": "lệnh tạm hoãn, thời gian hoãn thực hiện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "mutually exclusive",
+    "p": "",
+    "m": "loại trừ lẫn nhau, không thể cùng tồn tại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "noncompliance",
+    "p": "",
+    "m": "sự không tuân thủ, vi phạm quy định",
+    "cat": "xã hội"
+  },
+  {
+    "w": "nuance",
+    "p": "",
+    "m": "sắc thái tinh tế, sự khác biệt nhỏ trong ý nghĩa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "objective",
+    "p": "",
+    "m": "khách quan, không bị cảm xúc chi phối",
+    "cat": "tính từ"
+  },
+  {
+    "w": "oblivion",
+    "p": "",
+    "m": "sự lãng quên, rơi vào không được nhớ đến",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ominous",
+    "p": "",
+    "m": "báo điềm xấu, đáng lo ngại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "overarching",
+    "p": "",
+    "m": "bao trùm tất cả, quan trọng hơn mọi thứ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "overt",
+    "p": "",
+    "m": "công khai, không che giấu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "paradigm shift",
+    "p": "",
+    "m": "sự chuyển đổi mô hình tư duy căn bản",
+    "cat": "học thuật"
+  },
+  {
+    "w": "paradoxical",
+    "p": "",
+    "m": "mâu thuẫn nhưng có thể đúng, nghịch lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pathos",
+    "p": "",
+    "m": "cảm xúc thương cảm gợi lên trong người xem",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "patronizing",
+    "p": "",
+    "m": "trịch thượng giả vờ tốt bụng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pernicious",
+    "p": "",
+    "m": "tai hại ngầm, gây hại nghiêm trọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "perpetuate",
+    "p": "",
+    "m": "làm cho tồn tại mãi, duy trì liên tục",
+    "cat": "hành động"
+  },
+  {
+    "w": "pertinent",
+    "p": "",
+    "m": "liên quan chặt chẽ, thích hợp với vấn đề",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pessimistic",
+    "p": "",
+    "m": "bi quan, nhìn nhận tiêu cực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pivotal",
+    "p": "",
+    "m": "then chốt, mang tính bước ngoặt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "plausible",
+    "p": "",
+    "m": "có vẻ hợp lý, đáng tin cậy",
+    "cat": "tính từ"
+  },
+  {
+    "w": "polarize",
+    "p": "",
+    "m": "phân cực, chia rẽ thành hai phe đối lập",
+    "cat": "hành động"
+  },
+  {
+    "w": "polemical",
+    "p": "",
+    "m": "mang tính tranh luận gay gắt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "postulate",
+    "p": "",
+    "m": "giả thuyết cơ bản, tiền đề chưa chứng minh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "precedent",
+    "p": "",
+    "m": "tiền lệ, trường hợp đi trước làm chuẩn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "precept",
+    "p": "",
+    "m": "nguyên tắc hành động, quy tắc đạo đức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "preeminent",
+    "p": "",
+    "m": "xuất sắc nhất, vượt trội hơn tất cả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "presumptuous",
+    "p": "",
+    "m": "lố bịch tự cao, vượt giới hạn thái độ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "procrastinate",
+    "p": "",
+    "m": "trì hoãn, dây dưa việc cần làm",
+    "cat": "hành động"
+  },
+  {
+    "w": "profound",
+    "p": "",
+    "m": "sâu sắc, có chiều sâu trí tuệ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "proliferate",
+    "p": "",
+    "m": "sinh sôi nảy nở, tăng nhanh chóng",
+    "cat": "hành động"
+  },
+  {
+    "w": "propaganda",
+    "p": "",
+    "m": "tuyên truyền, thông tin thiên lệch phục vụ chính trị",
+    "cat": "chính trị"
+  },
+  {
+    "w": "proportionate",
+    "p": "",
+    "m": "tương xứng cân đối",
+    "cat": "tính từ"
+  },
+  {
+    "w": "prosper",
+    "p": "",
+    "m": "thịnh vượng, phát đạt",
+    "cat": "hành động"
+  },
+  {
+    "w": "protagonist",
+    "p": "",
+    "m": "nhân vật chính, người đứng đầu phong trào",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "provocation",
+    "p": "",
+    "m": "sự khiêu khích, hành vi gây kích động",
+    "cat": "học thuật"
+  },
+  {
+    "w": "proximity",
+    "p": "",
+    "m": "sự gần gũi, khoảng cách gần",
+    "cat": "học thuật"
+  },
+  {
+    "w": "purport",
+    "p": "",
+    "m": "tự nhận là, có mục đích tuyên bố",
+    "cat": "hành động"
+  },
+  {
+    "w": "quell",
+    "p": "",
+    "m": "dập tắt, kìm nén mạnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "quintessence",
+    "p": "",
+    "m": "tinh chất, ví dụ hoàn hảo nhất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "reactionary",
+    "p": "",
+    "m": "bảo thủ phản động, chống lại tiến bộ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "rebuke",
+    "p": "",
+    "m": "khiển trách mạnh mẽ, mắng mỏ chính thức",
+    "cat": "hành động"
+  },
+  {
+    "w": "reciprocal",
+    "p": "",
+    "m": "tương hỗ, có đi có lại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "reconcile",
+    "p": "",
+    "m": "hòa giải, đối chiếu cho phù hợp",
+    "cat": "hành động"
+  },
+  {
+    "w": "recurrent",
+    "p": "",
+    "m": "tái diễn, xảy ra nhiều lần",
+    "cat": "tính từ"
+  },
+  {
+    "w": "redress",
+    "p": "",
+    "m": "khắc phục thiệt hại, bồi thường",
+    "cat": "hành động"
+  },
+  {
+    "w": "refrain",
+    "p": "",
+    "m": "kiêng, nhịn không làm",
+    "cat": "hành động"
+  },
+  {
+    "w": "rehabilitate",
+    "p": "",
+    "m": "phục hồi, tái hòa nhập",
+    "cat": "hành động"
+  },
+  {
+    "w": "reinforce",
+    "p": "",
+    "m": "củng cố, tăng cường",
+    "cat": "hành động"
+  },
+  {
+    "w": "relentless",
+    "p": "",
+    "m": "không ngừng nghỉ, kiên quyết không khoan nhượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "remnant",
+    "p": "",
+    "m": "phần còn sót lại, dấu vết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "render",
+    "p": "",
+    "m": "tạo ra, trả lại, làm cho",
+    "cat": "hành động"
+  },
+  {
+    "w": "repercussion",
+    "p": "",
+    "m": "hậu quả gián tiếp, tác động dội lại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "replete",
+    "p": "",
+    "m": "đầy ắp, no nê thỏa mãn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "resilience",
+    "p": "",
+    "m": "khả năng phục hồi, tính bền bỉ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "resolve",
+    "p": "",
+    "m": "quyết tâm, giải quyết vấn đề",
+    "cat": "hành động"
+  },
+  {
+    "w": "resurgence",
+    "p": "",
+    "m": "sự hồi sinh, trỗi dậy trở lại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "reverberate",
+    "p": "",
+    "m": "vang vọng, có tác động lan rộng",
+    "cat": "hành động"
+  },
+  {
+    "w": "rigor",
+    "p": "",
+    "m": "sự nghiêm ngặt, độ chặt chẽ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "robust",
+    "p": "",
+    "m": "mạnh mẽ bền vững, kiên cường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "rudimentary",
+    "p": "",
+    "m": "sơ khai cơ bản, chưa phát triển",
+    "cat": "tính từ"
+  },
+  {
+    "w": "salient",
+    "p": "",
+    "m": "nổi bật quan trọng, đáng chú ý nhất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sanction",
+    "p": "",
+    "m": "chấp thuận chính thức, biện pháp trừng phạt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "scrutinize",
+    "p": "",
+    "m": "xem xét kỹ lưỡng, kiểm tra chặt chẽ",
+    "cat": "hành động"
+  },
+  {
+    "w": "secular",
+    "p": "",
+    "m": "thế tục, không liên quan tôn giáo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "seemingly",
+    "p": "",
+    "m": "có vẻ như, bề ngoài",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "segregate",
+    "p": "",
+    "m": "phân tách, tách biệt nhóm",
+    "cat": "hành động"
+  },
+  {
+    "w": "seminal work",
+    "p": "",
+    "m": "công trình khai sinh ảnh hưởng lớn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "sever",
+    "p": "",
+    "m": "cắt đứt, chấm dứt quan hệ",
+    "cat": "hành động"
+  },
+  {
+    "w": "sinister",
+    "p": "",
+    "m": "gian ác, báo điều xấu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "skeptical",
+    "p": "",
+    "m": "hoài nghi, không dễ tin",
+    "cat": "tính từ"
+  },
+  {
+    "w": "slander",
+    "p": "",
+    "m": "vu khống bằng lời nói, nói xấu sai sự thật",
+    "cat": "xã hội"
+  },
+  {
+    "w": "solidarity",
+    "p": "",
+    "m": "đoàn kết, sự gắn bó tương trợ",
+    "cat": "xã hội"
+  },
+  {
+    "w": "sovereignty",
+    "p": "",
+    "m": "chủ quyền, quyền tự trị tối cao",
+    "cat": "chính trị"
+  },
+  {
+    "w": "speculative",
+    "p": "",
+    "m": "mang tính đầu cơ, dựa trên phỏng đoán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "squander",
+    "p": "",
+    "m": "lãng phí, phung phí tài nguyên",
+    "cat": "hành động"
+  },
+  {
+    "w": "stagnation",
+    "p": "",
+    "m": "sự đình trệ, ngừng phát triển",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "stringent",
+    "p": "",
+    "m": "nghiêm ngặt chặt chẽ, khắt khe",
+    "cat": "tính từ"
+  },
+  {
+    "w": "subjectivity",
+    "p": "",
+    "m": "tính chủ quan, quan điểm cá nhân",
+    "cat": "học thuật"
+  },
+  {
+    "w": "subsequently",
+    "p": "",
+    "m": "sau đó, tiếp theo",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "subtle",
+    "p": "",
+    "m": "tinh tế, khó nhận ra",
+    "cat": "tính từ"
+  },
+  {
+    "w": "succinct",
+    "p": "",
+    "m": "ngắn gọn súc tích",
+    "cat": "tính từ"
+  },
+  {
+    "w": "superficial",
+    "p": "",
+    "m": "hời hợt, chỉ ở bề mặt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "suppress",
+    "p": "",
+    "m": "trấn áp, kìm nén",
+    "cat": "hành động"
+  },
+  {
+    "w": "surmise",
+    "p": "",
+    "m": "phỏng đoán, suy đoán thiếu bằng chứng",
+    "cat": "hành động"
+  },
+  {
+    "w": "susceptible",
+    "p": "",
+    "m": "dễ bị ảnh hưởng, dễ bị tổn thương",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sustain",
+    "p": "",
+    "m": "duy trì, chịu đựng",
+    "cat": "hành động"
+  },
+  {
+    "w": "synthesis",
+    "p": "",
+    "m": "sự tổng hợp, kết hợp thành thể thống nhất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "tacit",
+    "p": "",
+    "m": "ngầm hiểu, không nói ra nhưng được nhận biết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tangential",
+    "p": "",
+    "m": "lệch hướng, không trực tiếp liên quan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tantamount",
+    "p": "",
+    "m": "tương đương như, thực chất giống như",
+    "cat": "tính từ"
+  },
+  {
+    "w": "temporal",
+    "p": "",
+    "m": "thuộc về thời gian, tạm thời",
+    "cat": "tính từ"
+  },
+  {
+    "w": "testament",
+    "p": "",
+    "m": "bằng chứng, di chúc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "theoretical",
+    "p": "",
+    "m": "lý thuyết, chỉ tồn tại trên lý thuyết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "trajectory",
+    "p": "",
+    "m": "quỹ đạo, hướng phát triển",
+    "cat": "học thuật"
+  },
+  {
+    "w": "transient",
+    "p": "",
+    "m": "tạm thời ngắn ngủi, không lâu dài",
+    "cat": "tính từ"
+  },
+  {
+    "w": "trepidation",
+    "p": "",
+    "m": "sự run rẩy lo sợ, nỗi bất an",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "trivialize",
+    "p": "",
+    "m": "coi nhẹ, làm giảm tầm quan trọng",
+    "cat": "hành động"
+  },
+  {
+    "w": "ubiquity",
+    "p": "",
+    "m": "sự hiện diện khắp nơi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "unambiguous",
+    "p": "",
+    "m": "rõ ràng không mơ hồ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "underlying",
+    "p": "",
+    "m": "cơ bản tiềm ẩn, là nền tảng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "undermine",
+    "p": "",
+    "m": "làm suy yếu ngầm, đào hầm dưới",
+    "cat": "hành động"
+  },
+  {
+    "w": "unprecedented",
+    "p": "",
+    "m": "chưa từng có tiền lệ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "validate",
+    "p": "",
+    "m": "xác nhận hợp lệ, chứng minh đúng",
+    "cat": "hành động"
+  },
+  {
+    "w": "vanguard",
+    "p": "",
+    "m": "tiên phong, đội ngũ đi đầu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "venerate",
+    "p": "",
+    "m": "tôn kính, thờ phụng sâu sắc",
+    "cat": "hành động"
+  },
+  {
+    "w": "veracity",
+    "p": "",
+    "m": "sự thật thà, tính chính xác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "verbose",
+    "p": "",
+    "m": "dài dòng dư thừa lời",
+    "cat": "tính từ"
+  },
+  {
+    "w": "viable",
+    "p": "",
+    "m": "khả thi, có thể tồn tại hoạt động được",
+    "cat": "tính từ"
+  },
+  {
+    "w": "vicissitude",
+    "p": "",
+    "m": "sự thay đổi thất thường, biến cố cuộc đời",
+    "cat": "học thuật"
+  },
+  {
+    "w": "vindicate",
+    "p": "",
+    "m": "minh oan, chứng minh sự đúng đắn",
+    "cat": "hành động"
+  },
+  {
+    "w": "volatile",
+    "p": "",
+    "m": "dễ bốc hơi, bất ổn thất thường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "warranted",
+    "p": "",
+    "m": "có cơ sở, được biện hộ hợp lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "watershed",
+    "p": "",
+    "m": "bước ngoặt, điểm phân chia quan trọng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "wield",
+    "p": "",
+    "m": "sử dụng, nắm giữ (quyền lực/công cụ)",
+    "cat": "hành động"
+  },
+  {
+    "w": "zenith",
+    "p": "",
+    "m": "đỉnh cao nhất, điểm tột đỉnh",
+    "cat": "học thuật"
+  }
+]

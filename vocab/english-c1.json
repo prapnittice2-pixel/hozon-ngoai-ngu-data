@@ -1,0 +1,5052 @@
+[
+  {
+    "w": "corroborate",
+    "m": "xác nhận, củng cố bằng bằng chứng",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "elucidate",
+    "m": "làm sáng tỏ, giải thích rõ",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "substantiate",
+    "m": "chứng minh, cung cấp cơ sở",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "juxtapose",
+    "m": "đặt cạnh nhau để so sánh",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "circumvent",
+    "m": "lách qua, né tránh",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "mitigate",
+    "m": "giảm nhẹ, làm bớt nghiêm trọng",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "exacerbate",
+    "m": "làm trầm trọng thêm",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "proliferate",
+    "m": "sinh sôi, tăng nhanh",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "amalgamate",
+    "m": "hợp nhất, kết hợp",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "disseminate",
+    "m": "phổ biến, truyền bá",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "promulgate",
+    "m": "ban hành, công bố chính thức",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "inculcate",
+    "m": "khắc sâu, rèn dũa",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "engender",
+    "m": "gây ra, tạo ra",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "perpetuate",
+    "m": "duy trì mãi, làm bất diệt",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "ascertain",
+    "m": "xác định, xác minh",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "contend",
+    "m": "lập luận, tranh đấu",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "postulate",
+    "m": "đặt ra giả thiết",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "presuppose",
+    "m": "giả định trước",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "extrapolate",
+    "m": "ngoại suy, dự đoán từ dữ liệu",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "enumerate",
+    "m": "liệt kê, đếm",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "delineate",
+    "m": "phác thảo, trình bày rõ ràng",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "illuminate",
+    "m": "làm sáng tỏ, chiếu sáng",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "explicate",
+    "m": "giải thích chi tiết",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "expound",
+    "m": "trình bày chi tiết",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "reiterate",
+    "m": "nhắc lại, lặp lại",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "accentuate",
+    "m": "nhấn mạnh, làm nổi bật",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "exemplify",
+    "m": "minh họa bằng ví dụ",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "manifest",
+    "m": "biểu hiện, thể hiện rõ",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "embody",
+    "m": "thể hiện, hiện thân",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "epitomize",
+    "m": "là ví dụ điển hình của",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "portray",
+    "m": "mô tả, khắc họa",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "convey",
+    "m": "truyền đạt, chuyển tải",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "articulate",
+    "m": "diễn đạt rõ ràng, có khớp nối",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "interrogate",
+    "m": "thẩm vấn, đặt câu hỏi chất vấn",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "problematize",
+    "m": "phức tạp hóa, đặt thành vấn đề",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "theorize",
+    "m": "lý thuyết hóa",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "conceptualize",
+    "m": "khái niệm hóa",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "operationalize",
+    "m": "vận hành hóa",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "contextualize",
+    "m": "đặt trong bối cảnh",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "destabilize",
+    "m": "làm mất ổn định",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "marginalize",
+    "m": "gạt ra bên lề",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "normalize",
+    "m": "bình thường hóa",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "polarize",
+    "m": "phân cực",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "galvanize",
+    "m": "kích hoạt, thúc đẩy mạnh mẽ",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "undermine",
+    "m": "làm suy yếu, phá vỡ",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "transcend",
+    "m": "vượt trên, siêu việt",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "reconcile",
+    "m": "dung hòa, hòa giải",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "conflate",
+    "m": "trộn lẫn, nhầm lẫn",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "bifurcate",
+    "m": "phân nhánh, chia đôi",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "oscillate",
+    "m": "dao động",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "converge",
+    "m": "hội tụ",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "diverge",
+    "m": "phân kỳ",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "subsume",
+    "m": "bao gồm, thuộc vào",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "encapsulate",
+    "m": "tóm gọn, bao bọc",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "interrogate assumptions",
+    "m": "thách thức các giả định",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "probe",
+    "m": "thăm dò, điều tra sâu",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "scrutinize",
+    "m": "xem xét kỹ lưỡng",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "interrogate",
+    "m": "chất vấn, phân tích kỹ",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "disentangle",
+    "m": "gỡ rối, tách bạch",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "unpack",
+    "m": "tháo ra, phân tích kỹ",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "disproportionately",
+    "m": "một cách không tương xứng",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "elide",
+    "m": "bỏ qua, lược bỏ",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "forestall",
+    "m": "ngăn ngừa trước",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "foreground",
+    "m": "đặt lên hàng đầu, làm nổi bật",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "navigate",
+    "m": "điều hướng, xử lý",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "negotiate",
+    "m": "thương lượng, điều hướng qua",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "reckon with",
+    "m": "đối mặt với, tính đến",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "grapple with",
+    "m": "vật lộn với, đối phó với",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "contend with",
+    "m": "đối mặt với, ứng phó với",
+    "cat": "academic_verbs"
+  },
+  {
+    "w": "hitherto",
+    "m": "cho đến nay, trước đây",
+    "cat": "formal"
+  },
+  {
+    "w": "pursuant to",
+    "m": "theo, phù hợp với",
+    "cat": "formal"
+  },
+  {
+    "w": "aforementioned",
+    "m": "đã đề cập trước đó",
+    "cat": "formal"
+  },
+  {
+    "w": "wheresoever",
+    "m": "bất kỳ nơi đâu",
+    "cat": "formal"
+  },
+  {
+    "w": "whomsoever",
+    "m": "bất kỳ ai",
+    "cat": "formal"
+  },
+  {
+    "w": "whatsoever",
+    "m": "bất kỳ điều gì",
+    "cat": "formal"
+  },
+  {
+    "w": "hereafter",
+    "m": "từ đây trở đi",
+    "cat": "formal"
+  },
+  {
+    "w": "therein",
+    "m": "trong đó",
+    "cat": "formal"
+  },
+  {
+    "w": "thereto",
+    "m": "đến đó, thêm vào đó",
+    "cat": "formal"
+  },
+  {
+    "w": "hereto",
+    "m": "đến đây, liên quan đến đây",
+    "cat": "formal"
+  },
+  {
+    "w": "thereupon",
+    "m": "ngay sau đó",
+    "cat": "formal"
+  },
+  {
+    "w": "herewith",
+    "m": "kèm theo đây",
+    "cat": "formal"
+  },
+  {
+    "w": "therewith",
+    "m": "cùng với đó",
+    "cat": "formal"
+  },
+  {
+    "w": "vis-à-vis",
+    "m": "đối với, so với",
+    "cat": "formal"
+  },
+  {
+    "w": "inter alia",
+    "m": "trong số những thứ khác",
+    "cat": "formal"
+  },
+  {
+    "w": "prima facie",
+    "m": "thoạt nhìn, ban đầu có vẻ",
+    "cat": "formal"
+  },
+  {
+    "w": "de facto",
+    "m": "trên thực tế",
+    "cat": "formal"
+  },
+  {
+    "w": "de jure",
+    "m": "về mặt pháp lý",
+    "cat": "formal"
+  },
+  {
+    "w": "ex officio",
+    "m": "theo chức vụ",
+    "cat": "formal"
+  },
+  {
+    "w": "ad hoc",
+    "m": "tạm thời, ứng phó từng trường hợp",
+    "cat": "formal"
+  },
+  {
+    "w": "sine qua non",
+    "m": "điều kiện thiết yếu",
+    "cat": "formal"
+  },
+  {
+    "w": "per se",
+    "m": "tự nó, về bản chất",
+    "cat": "formal"
+  },
+  {
+    "w": "a priori",
+    "m": "tiên nghiệm, trước kinh nghiệm",
+    "cat": "formal"
+  },
+  {
+    "w": "a posteriori",
+    "m": "hậu nghiệm, từ kinh nghiệm",
+    "cat": "formal"
+  },
+  {
+    "w": "mutatis mutandis",
+    "m": "với những thay đổi cần thiết",
+    "cat": "formal"
+  },
+  {
+    "w": "status quo",
+    "m": "hiện trạng",
+    "cat": "formal"
+  },
+  {
+    "w": "modus operandi",
+    "m": "phương thức hoạt động",
+    "cat": "formal"
+  },
+  {
+    "w": "quid pro quo",
+    "m": "trao đổi có đi có lại",
+    "cat": "formal"
+  },
+  {
+    "w": "caveat",
+    "m": "cảnh báo, điều kiện đặt ra",
+    "cat": "formal"
+  },
+  {
+    "w": "caveats",
+    "m": "những cảnh báo, hạn chế",
+    "cat": "formal"
+  },
+  {
+    "w": "preamble",
+    "m": "lời mở đầu, phần mở đầu",
+    "cat": "formal"
+  },
+  {
+    "w": "proviso",
+    "m": "điều khoản, điều kiện",
+    "cat": "formal"
+  },
+  {
+    "w": "stipulate",
+    "m": "quy định, yêu cầu rõ ràng",
+    "cat": "formal"
+  },
+  {
+    "w": "mandate",
+    "m": "uỷ quyền, lệnh",
+    "cat": "formal"
+  },
+  {
+    "w": "sanction",
+    "m": "phê chuẩn, chế tài",
+    "cat": "formal"
+  },
+  {
+    "w": "ratify",
+    "m": "phê chuẩn, phê duyệt chính thức",
+    "cat": "formal"
+  },
+  {
+    "w": "repeal",
+    "m": "hủy bỏ luật pháp",
+    "cat": "formal"
+  },
+  {
+    "w": "enact",
+    "m": "ban hành, thực thi luật",
+    "cat": "formal"
+  },
+  {
+    "w": "promulgate",
+    "m": "ban hành, công bố",
+    "cat": "formal"
+  },
+  {
+    "w": "rescind",
+    "m": "thu hồi, hủy bỏ",
+    "cat": "formal"
+  },
+  {
+    "w": "anaphora",
+    "m": "điệp đầu câu (tu từ)",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "chiasmus",
+    "m": "đảo ngữ đối xứng",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "litotes",
+    "m": "nói giảm bằng phủ định",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "antithesis",
+    "m": "phản đề",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "euphemism",
+    "m": "uyển ngữ",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "dysphemism",
+    "m": "ngôn từ thô tục thay thế",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "understatement",
+    "m": "nói nhẹ hơn thực tế",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "synecdoche",
+    "m": "hoán dụ theo quan hệ bộ phận-tổng thể",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "metonymy",
+    "m": "hoán dụ",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "apostrophe",
+    "m": "trực tiếp ngỏ lời với đối tượng vắng mặt",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "alliteration",
+    "m": "điệp âm đầu",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "assonance",
+    "m": "điệp âm nguyên âm",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "oxymoron",
+    "m": "nghịch ngôn (từ mâu thuẫn ghép với nhau)",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "paradox",
+    "m": "nghịch lý",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "sarcasm",
+    "m": "châm biếm chua cay",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "bathos",
+    "m": "bước xuống đột ngột từ cao cả xuống tầm thường",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "pathos",
+    "m": "xúc cảm, khơi dậy cảm xúc",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "ethos",
+    "m": "uy tín, tính đáng tin cậy",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "logos",
+    "m": "logic, lý lẽ",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "syllogism",
+    "m": "tam đoạn luận",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "enthymeme",
+    "m": "tam đoạn luận rút gọn",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "reductio ad absurdum",
+    "m": "phản chứng bằng mâu thuẫn",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "straw man",
+    "m": "ngụy biện người rơm",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "ad hominem",
+    "m": "tấn công cá nhân (ngụy biện)",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "false dichotomy",
+    "m": "ngụy biện hai cực",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "slippery slope",
+    "m": "ngụy biện dốc trơn",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "circular reasoning",
+    "m": "lập luận vòng tròn",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "hasty generalization",
+    "m": "khái quát vội vàng",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "appeal to authority",
+    "m": "viện dẫn thẩm quyền",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "post hoc",
+    "m": "ngụy biện sau cái này thì cái kia",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "tu quoque",
+    "m": "ngụy biện tu cũng vậy",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "begging the question",
+    "m": "ngụy biện tiên quyết",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "false equivalence",
+    "m": "ngụy biện tương đương sai",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "moving the goalposts",
+    "m": "ngụy biện thay đổi tiêu chí",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "eloquent",
+    "m": "hùng hồn, ăn nói lưu loát",
+    "cat": "professional"
+  },
+  {
+    "w": "succinct",
+    "m": "súc tích, ngắn gọn",
+    "cat": "professional"
+  },
+  {
+    "w": "diplomatic",
+    "m": "khéo léo, ngoại giao",
+    "cat": "professional"
+  },
+  {
+    "w": "tactful",
+    "m": "khéo léo, tế nhị",
+    "cat": "professional"
+  },
+  {
+    "w": "empathetic",
+    "m": "thấu cảm, biết đồng cảm",
+    "cat": "professional"
+  },
+  {
+    "w": "persuasive",
+    "m": "thuyết phục",
+    "cat": "professional"
+  },
+  {
+    "w": "assertive",
+    "m": "quyết đoán, dứt khoát",
+    "cat": "professional"
+  },
+  {
+    "w": "authoritative",
+    "m": "có thẩm quyền, đáng tin",
+    "cat": "professional"
+  },
+  {
+    "w": "credible",
+    "m": "đáng tin cậy",
+    "cat": "professional"
+  },
+  {
+    "w": "compelling",
+    "m": "hấp dẫn, thuyết phục mạnh",
+    "cat": "professional"
+  },
+  {
+    "w": "proactive",
+    "m": "chủ động",
+    "cat": "professional"
+  },
+  {
+    "w": "collaborative",
+    "m": "hợp tác",
+    "cat": "professional"
+  },
+  {
+    "w": "constructive",
+    "m": "xây dựng, có ích",
+    "cat": "professional"
+  },
+  {
+    "w": "impartial",
+    "m": "vô tư, không thiên vị",
+    "cat": "professional"
+  },
+  {
+    "w": "adaptive",
+    "m": "linh hoạt, có thể thích nghi",
+    "cat": "professional"
+  },
+  {
+    "w": "meticulous",
+    "m": "tỉ mỉ, cẩn thận",
+    "cat": "professional"
+  },
+  {
+    "w": "forthright",
+    "m": "thẳng thắn, trực tiếp",
+    "cat": "professional"
+  },
+  {
+    "w": "candid",
+    "m": "thành thật, thẳng thắn",
+    "cat": "professional"
+  },
+  {
+    "w": "tenacious",
+    "m": "kiên trì, bền bỉ",
+    "cat": "professional"
+  },
+  {
+    "w": "discerning",
+    "m": "tinh tế, sắc bén",
+    "cat": "professional"
+  },
+  {
+    "w": "astute",
+    "m": "thông minh, sắc sảo",
+    "cat": "professional"
+  },
+  {
+    "w": "adept",
+    "m": "thành thạo, lành nghề",
+    "cat": "professional"
+  },
+  {
+    "w": "proficient",
+    "m": "thành thạo",
+    "cat": "professional"
+  },
+  {
+    "w": "articulate",
+    "m": "diễn đạt rõ ràng",
+    "cat": "professional"
+  },
+  {
+    "w": "judicious",
+    "m": "khôn ngoan, thận trọng",
+    "cat": "professional"
+  },
+  {
+    "w": "objective",
+    "m": "khách quan",
+    "cat": "professional"
+  },
+  {
+    "w": "coherent",
+    "m": "mạch lạc, nhất quán",
+    "cat": "professional"
+  },
+  {
+    "w": "concise",
+    "m": "súc tích, ngắn gọn",
+    "cat": "professional"
+  },
+  {
+    "w": "lucid",
+    "m": "rõ ràng, dễ hiểu",
+    "cat": "professional"
+  },
+  {
+    "w": "pragmatic",
+    "m": "thực dụng, thực tế",
+    "cat": "professional"
+  },
+  {
+    "w": "methodical",
+    "m": "có phương pháp, trật tự",
+    "cat": "professional"
+  },
+  {
+    "w": "rigorous",
+    "m": "chặt chẽ",
+    "cat": "professional"
+  },
+  {
+    "w": "comprehensive",
+    "m": "toàn diện",
+    "cat": "professional"
+  },
+  {
+    "w": "insightful",
+    "m": "sâu sắc, thấu đáo",
+    "cat": "professional"
+  },
+  {
+    "w": "nuanced",
+    "m": "sắc thái, tinh tế",
+    "cat": "professional"
+  },
+  {
+    "w": "implication",
+    "m": "hàm ý, tác động",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "inference",
+    "m": "suy luận",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "objectivity",
+    "m": "tính khách quan",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "contextualize",
+    "m": "đặt vào bối cảnh",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "synthesize",
+    "m": "tổng hợp",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "critique",
+    "m": "phê bình, đánh giá phê phán",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "deconstruct",
+    "m": "giải cấu trúc, phân tích từng phần",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "reframe",
+    "m": "nhìn nhận lại, định khung lại",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "counter-argument",
+    "m": "lập luận phản biện",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "fallacy",
+    "m": "ngụy biện, lỗi lập luận",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "blind spot",
+    "m": "điểm mù, thiếu sót trong nhận thức",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "worldview",
+    "m": "thế giới quan",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "epistemology",
+    "m": "nhận thức luận",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "theoretical framework",
+    "m": "khung lý thuyết",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "conceptual model",
+    "m": "mô hình khái niệm",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "analytical lens",
+    "m": "lăng kính phân tích",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "first-order thinking",
+    "m": "tư duy bậc một, đơn giản",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "second-order thinking",
+    "m": "tư duy bậc hai, sâu hơn",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "lateral thinking",
+    "m": "tư duy ngang (sáng tạo)",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "systems thinking",
+    "m": "tư duy hệ thống",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "dialectical reasoning",
+    "m": "lập luận biện chứng",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "abductive reasoning",
+    "m": "lập luận quy nạp đến giải thích tốt nhất",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "deductive reasoning",
+    "m": "lập luận suy diễn",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "inductive reasoning",
+    "m": "lập luận quy nạp",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "critical lens",
+    "m": "lăng kính phê phán",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "meta-cognition",
+    "m": "siêu nhận thức, tự nhận thức",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "reflexivity",
+    "m": "tính phản thân, tự phê phán",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "positionality",
+    "m": "vị trí của người nghiên cứu",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "standpoint epistemology",
+    "m": "nhận thức luận từ góc độ lập trường",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "ideological critique",
+    "m": "phê bình ý thức hệ",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "power dynamics",
+    "m": "động lực quyền lực",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "vested interest",
+    "m": "lợi ích cá nhân ẩn sau",
+    "cat": "critical_thinking"
+  },
+  {
+    "w": "ethnocentrism",
+    "m": "chủ nghĩa vị chủng",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "cultural relativism",
+    "m": "chủ nghĩa tương đối văn hóa",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "implicit bias",
+    "m": "thành kiến ngầm",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "intercultural competence",
+    "m": "năng lực liên văn hóa",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "cultural intelligence",
+    "m": "trí tuệ văn hóa",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "cultural norms",
+    "m": "chuẩn mực văn hóa",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "taboo",
+    "m": "điều cấm kỵ",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "social hierarchy",
+    "m": "thứ bậc xã hội",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "power distance",
+    "m": "khoảng cách quyền lực",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "individualism",
+    "m": "chủ nghĩa cá nhân",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "collectivism",
+    "m": "chủ nghĩa tập thể",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "uncertainty avoidance",
+    "m": "né tránh bất định",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "face-saving",
+    "m": "giữ thể diện",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "honor culture",
+    "m": "văn hóa danh dự",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "dignity culture",
+    "m": "văn hóa phẩm giá",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "directness",
+    "m": "tính thẳng thắn, trực tiếp",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "indirectness",
+    "m": "tính gián tiếp, vòng vo",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "high-context culture",
+    "m": "văn hóa ngữ cảnh cao",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "low-context culture",
+    "m": "văn hóa ngữ cảnh thấp",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "cultural assimilation",
+    "m": "đồng hóa văn hóa",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "cultural integration",
+    "m": "hòa nhập văn hóa",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "multiculturalism",
+    "m": "đa văn hóa",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "cultural hegemony",
+    "m": "bá quyền văn hóa",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "cultural imperialism",
+    "m": "chủ nghĩa đế quốc văn hóa",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "diaspora",
+    "m": "cộng đồng người di cư",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "acculturation",
+    "m": "quá trình thích nghi văn hóa",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "transnationalism",
+    "m": "chủ nghĩa xuyên quốc gia",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "cosmopolitanism",
+    "m": "chủ nghĩa thế giới đại đồng",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "parochialism",
+    "m": "cục bộ địa phương, thiển cận",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "stereotyping",
+    "m": "rập khuôn, định kiến",
+    "cat": "cross_cultural"
+  },
+  {
+    "w": "draw a conclusion",
+    "m": "rút ra kết luận",
+    "cat": "collocations"
+  },
+  {
+    "w": "reach a consensus",
+    "m": "đạt đồng thuận",
+    "cat": "collocations"
+  },
+  {
+    "w": "take into account",
+    "m": "tính đến, cân nhắc",
+    "cat": "collocations"
+  },
+  {
+    "w": "come to terms with",
+    "m": "chấp nhận, thỏa hiệp với",
+    "cat": "collocations"
+  },
+  {
+    "w": "shed light on",
+    "m": "làm sáng tỏ",
+    "cat": "collocations"
+  },
+  {
+    "w": "put forward a proposal",
+    "m": "đề xuất một đề án",
+    "cat": "collocations"
+  },
+  {
+    "w": "build a case",
+    "m": "xây dựng lập luận",
+    "cat": "collocations"
+  },
+  {
+    "w": "bridge a gap",
+    "m": "thu hẹp khoảng cách",
+    "cat": "collocations"
+  },
+  {
+    "w": "fuel the debate",
+    "m": "thúc đẩy cuộc tranh luận",
+    "cat": "collocations"
+  },
+  {
+    "w": "pave the way",
+    "m": "mở đường",
+    "cat": "collocations"
+  },
+  {
+    "w": "set the tone",
+    "m": "định hướng, thiết lập giọng điệu",
+    "cat": "collocations"
+  },
+  {
+    "w": "strike a balance",
+    "m": "cân bằng",
+    "cat": "collocations"
+  },
+  {
+    "w": "strike a chord",
+    "m": "chạm đến cảm xúc",
+    "cat": "collocations"
+  },
+  {
+    "w": "throw into question",
+    "m": "đặt vào nghi ngờ",
+    "cat": "collocations"
+  },
+  {
+    "w": "cast doubt on",
+    "m": "đặt nghi vấn, gây nghi ngờ",
+    "cat": "collocations"
+  },
+  {
+    "w": "bring to light",
+    "m": "đưa ra ánh sáng",
+    "cat": "collocations"
+  },
+  {
+    "w": "call into question",
+    "m": "đặt câu hỏi về",
+    "cat": "collocations"
+  },
+  {
+    "w": "give credence to",
+    "m": "tin tưởng vào, xác nhận",
+    "cat": "collocations"
+  },
+  {
+    "w": "lend weight to",
+    "m": "ủng hộ, tăng sức nặng cho",
+    "cat": "collocations"
+  },
+  {
+    "w": "lay the groundwork",
+    "m": "đặt nền móng",
+    "cat": "collocations"
+  },
+  {
+    "w": "make a compelling case",
+    "m": "đưa ra lập luận thuyết phục",
+    "cat": "collocations"
+  },
+  {
+    "w": "offer a nuanced perspective",
+    "m": "cung cấp quan điểm tinh tế",
+    "cat": "collocations"
+  },
+  {
+    "w": "raise awareness",
+    "m": "nâng cao nhận thức",
+    "cat": "collocations"
+  },
+  {
+    "w": "spark controversy",
+    "m": "gây tranh cãi",
+    "cat": "collocations"
+  },
+  {
+    "w": "stand in stark contrast",
+    "m": "tương phản rõ nét",
+    "cat": "collocations"
+  },
+  {
+    "w": "turn the tide",
+    "m": "xoay chuyển tình thế",
+    "cat": "collocations"
+  },
+  {
+    "w": "uphold a principle",
+    "m": "duy trì nguyên tắc",
+    "cat": "collocations"
+  },
+  {
+    "w": "warrant investigation",
+    "m": "đáng được điều tra",
+    "cat": "collocations"
+  },
+  {
+    "w": "yield significant results",
+    "m": "mang lại kết quả đáng kể",
+    "cat": "collocations"
+  },
+  {
+    "w": "account for the fact that",
+    "m": "giải thích sự thật rằng",
+    "cat": "collocations"
+  },
+  {
+    "w": "draw attention to",
+    "m": "thu hút sự chú ý đến",
+    "cat": "collocations"
+  },
+  {
+    "w": "get to the heart of",
+    "m": "đến trọng tâm của",
+    "cat": "collocations"
+  },
+  {
+    "w": "go beyond the surface",
+    "m": "đi sâu hơn bề mặt",
+    "cat": "collocations"
+  },
+  {
+    "w": "hold one's ground",
+    "m": "giữ vững lập trường",
+    "cat": "collocations"
+  },
+  {
+    "w": "keep in perspective",
+    "m": "giữ đúng tỉ lệ, nhìn nhận đúng mức",
+    "cat": "collocations"
+  },
+  {
+    "w": "leave no stone unturned",
+    "m": "không bỏ sót điều gì",
+    "cat": "collocations"
+  },
+  {
+    "w": "make headway on",
+    "m": "tiến bộ trong",
+    "cat": "collocations"
+  },
+  {
+    "w": "narrow the gap between",
+    "m": "thu hẹp khoảng cách giữa",
+    "cat": "collocations"
+  },
+  {
+    "w": "play a pivotal role",
+    "m": "đóng vai trò trung tâm",
+    "cat": "collocations"
+  },
+  {
+    "w": "put into perspective",
+    "m": "đặt đúng bối cảnh, nhìn nhận đúng mức",
+    "cat": "collocations"
+  },
+  {
+    "w": "take stock of",
+    "m": "đánh giá lại, nhìn nhận lại",
+    "cat": "collocations"
+  },
+  {
+    "w": "trace back to",
+    "m": "truy ngược về",
+    "cat": "collocations"
+  },
+  {
+    "w": "turn the corner on",
+    "m": "vượt qua điểm khó khăn",
+    "cat": "collocations"
+  },
+  {
+    "w": "grapple with the implications",
+    "m": "vật lộn với những hàm ý",
+    "cat": "collocations"
+  },
+  {
+    "w": "bring to bear",
+    "m": "áp dụng, vận dụng",
+    "cat": "collocations"
+  },
+  {
+    "w": "underpin",
+    "m": "làm nền tảng cho",
+    "cat": "collocations"
+  },
+  {
+    "w": "resonate with",
+    "m": "cộng hưởng với, có sức ảnh hưởng",
+    "cat": "collocations"
+  },
+  {
+    "w": "navigate complexity",
+    "m": "điều hướng sự phức tạp",
+    "cat": "collocations"
+  },
+  {
+    "w": "pragmatism",
+    "m": "chủ nghĩa thực dụng",
+    "cat": "philosophy"
+  },
+  {
+    "w": "relativism",
+    "m": "chủ nghĩa tương đối",
+    "cat": "philosophy"
+  },
+  {
+    "w": "phenomenology",
+    "m": "hiện tượng học",
+    "cat": "philosophy"
+  },
+  {
+    "w": "empiricism",
+    "m": "chủ nghĩa kinh nghiệm",
+    "cat": "philosophy"
+  },
+  {
+    "w": "rationalism",
+    "m": "chủ nghĩa lý tính",
+    "cat": "philosophy"
+  },
+  {
+    "w": "idealism",
+    "m": "chủ nghĩa duy tâm",
+    "cat": "philosophy"
+  },
+  {
+    "w": "materialism",
+    "m": "chủ nghĩa duy vật",
+    "cat": "philosophy"
+  },
+  {
+    "w": "determinism",
+    "m": "chủ nghĩa tất định",
+    "cat": "philosophy"
+  },
+  {
+    "w": "free will",
+    "m": "ý chí tự do",
+    "cat": "philosophy"
+  },
+  {
+    "w": "cognition",
+    "m": "nhận thức, quá trình tư duy",
+    "cat": "philosophy"
+  },
+  {
+    "w": "intuition",
+    "m": "trực giác",
+    "cat": "philosophy"
+  },
+  {
+    "w": "soundness",
+    "m": "tính lành mạnh, vững chắc",
+    "cat": "philosophy"
+  },
+  {
+    "w": "consistency",
+    "m": "nhất quán",
+    "cat": "philosophy"
+  },
+  {
+    "w": "coherence",
+    "m": "mạch lạc, nhất quán",
+    "cat": "philosophy"
+  },
+  {
+    "w": "falsifiability",
+    "m": "khả năng bác bỏ (Popper)",
+    "cat": "philosophy"
+  },
+  {
+    "w": "verifiability",
+    "m": "khả năng xác minh",
+    "cat": "philosophy"
+  },
+  {
+    "w": "paradigm shift",
+    "m": "dịch chuyển mô hình",
+    "cat": "philosophy"
+  },
+  {
+    "w": "anomaly",
+    "m": "bất thường, dị thường",
+    "cat": "philosophy"
+  },
+  {
+    "w": "incommensurability",
+    "m": "không thể đo so sánh trực tiếp",
+    "cat": "philosophy"
+  },
+  {
+    "w": "holism",
+    "m": "chủ nghĩa toàn thể",
+    "cat": "philosophy"
+  },
+  {
+    "w": "reductionism",
+    "m": "chủ nghĩa quy giản",
+    "cat": "philosophy"
+  },
+  {
+    "w": "emergence",
+    "m": "tính nổi lên, hiện tượng mới nổi",
+    "cat": "philosophy"
+  },
+  {
+    "w": "supervenience",
+    "m": "phụ thuộc bậc cao",
+    "cat": "philosophy"
+  },
+  {
+    "w": "functionalism",
+    "m": "chủ nghĩa chức năng",
+    "cat": "philosophy"
+  },
+  {
+    "w": "physicalism",
+    "m": "chủ nghĩa vật lý",
+    "cat": "philosophy"
+  },
+  {
+    "w": "dualism",
+    "m": "nhị nguyên luận",
+    "cat": "philosophy"
+  },
+  {
+    "w": "pluralism",
+    "m": "đa nguyên luận",
+    "cat": "philosophy"
+  },
+  {
+    "w": "skepticism",
+    "m": "chủ nghĩa hoài nghi",
+    "cat": "philosophy"
+  },
+  {
+    "w": "solipsism",
+    "m": "chủ nghĩa duy ngã",
+    "cat": "philosophy"
+  },
+  {
+    "w": "nominalism",
+    "m": "duy danh luận",
+    "cat": "philosophy"
+  },
+  {
+    "w": "realism",
+    "m": "chủ nghĩa thực tế",
+    "cat": "philosophy"
+  },
+  {
+    "w": "naturalism",
+    "m": "chủ nghĩa tự nhiên",
+    "cat": "philosophy"
+  },
+  {
+    "w": "constructivism",
+    "m": "chủ nghĩa kiến tạo",
+    "cat": "philosophy"
+  },
+  {
+    "w": "instrumentalism",
+    "m": "chủ nghĩa công cụ",
+    "cat": "philosophy"
+  },
+  {
+    "w": "ontology",
+    "m": "bản thể luận",
+    "cat": "philosophy"
+  },
+  {
+    "w": "metaphysics",
+    "m": "siêu hình học",
+    "cat": "philosophy"
+  },
+  {
+    "w": "axiology",
+    "m": "giá trị học",
+    "cat": "philosophy"
+  },
+  {
+    "w": "teleology",
+    "m": "mục đích luận",
+    "cat": "philosophy"
+  },
+  {
+    "w": "eschatology",
+    "m": "cánh chung luận",
+    "cat": "philosophy"
+  },
+  {
+    "w": "hermeneutics",
+    "m": "giải thích học",
+    "cat": "philosophy"
+  },
+  {
+    "w": "dialectics",
+    "m": "phép biện chứng",
+    "cat": "philosophy"
+  },
+  {
+    "w": "ubiquitous",
+    "m": "hiện diện khắp nơi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "unprecedented",
+    "m": "chưa từng có tiền lệ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "inevitable",
+    "m": "không thể tránh khỏi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "ambivalent",
+    "m": "lưỡng lự, có hai cảm xúc mâu thuẫn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "contentious",
+    "m": "gây tranh cãi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "intrinsic",
+    "m": "nội tại, bản chất",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "peripheral",
+    "m": "ngoại vi, bên lề",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "tangential",
+    "m": "tiếp tuyến, không trực tiếp liên quan",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "intermittent",
+    "m": "ngắt quãng, không liên tục",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "sporadic",
+    "m": "lẻ tẻ, không thường xuyên",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "pervasive",
+    "m": "lan tràn, ảnh hưởng khắp nơi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "elusive",
+    "m": "khó nắm bắt, mơ hồ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "tenuous",
+    "m": "mong manh, yếu ớt",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "pivotal",
+    "m": "then chốt, trung tâm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "seminal",
+    "m": "có tầm ảnh hưởng lớn, quan trọng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "watershed",
+    "m": "bước ngoặt, điểm chia cắt",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "paradigmatic",
+    "m": "điển hình, mang tính mô hình",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "exemplary",
+    "m": "mẫu mực, điển hình",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "dichotomy",
+    "m": "sự chia đôi, phân chia nhị phân",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "paradoxically",
+    "m": "một cách nghịch lý",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "ostensibly",
+    "m": "bề ngoài, hình thức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "ostensible",
+    "m": "bề ngoài có vẻ như",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "purportedly",
+    "m": "được cho là, được tuyên bố là",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "ostensibly",
+    "m": "trên bề mặt, danh nghĩa là",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "invariably",
+    "m": "luôn luôn, bất biến",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "inextricably",
+    "m": "không thể tách rời",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "disproportionate",
+    "m": "không tương xứng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "discernible",
+    "m": "có thể nhận ra, nhận biết được",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "unequivocal",
+    "m": "rõ ràng, không mơ hồ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "equivocal",
+    "m": "mơ hồ, có thể hiểu hai cách",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "categorical",
+    "m": "dứt khoát, rõ ràng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "nuanced",
+    "m": "tinh tế, có nhiều sắc thái",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "multifaceted",
+    "m": "đa chiều, nhiều mặt",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "multidimensional",
+    "m": "đa chiều",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "far-reaching",
+    "m": "có tầm ảnh hưởng rộng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "wide-ranging",
+    "m": "bao quát nhiều lĩnh vực",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "compelling",
+    "m": "thuyết phục, hấp dẫn mạnh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "cogent",
+    "m": "chặt chẽ, thuyết phục",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "incisive",
+    "m": "sắc bén, thẳng thắn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "trenchant",
+    "m": "sắc sảo, mạnh mẽ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "incisiveness",
+    "m": "sự sắc bén",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "acuity",
+    "m": "sự sắc bén, khả năng nhận thức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "perspicacity",
+    "m": "tính sắc sảo, thông minh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "sagacity",
+    "m": "sự khôn ngoan",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "astuteness",
+    "m": "sự sắc sảo, thông minh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "discernment",
+    "m": "khả năng phán đoán tinh tế",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "acumen",
+    "m": "nhạy bén, tinh thông",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "erudition",
+    "m": "sự uyên bác",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "sagacious",
+    "m": "sáng suốt, khôn ngoan",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "impeccable",
+    "m": "hoàn hảo, không chê được",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "indispensable",
+    "m": "không thể thiếu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "incompatible",
+    "m": "không tương thích",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "irreversible",
+    "m": "không thể đảo ngược",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "irreconcilable",
+    "m": "không thể dung hòa",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "irrefutable",
+    "m": "không thể bác bỏ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "indelible",
+    "m": "không thể xóa, lưu mãi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "inherent tension",
+    "m": "mâu thuẫn vốn có",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "fundamental shift",
+    "m": "thay đổi cơ bản",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "significant departure",
+    "m": "sự khác biệt đáng kể",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "marked contrast",
+    "m": "sự tương phản rõ nét",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "striking parallel",
+    "m": "sự tương đồng nổi bật",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "pronounced tendency",
+    "m": "xu hướng rõ rệt",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "subtle difference",
+    "m": "sự khác biệt tinh tế",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "profound implication",
+    "m": "hàm ý sâu xa",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "underlying assumption",
+    "m": "giả định nền tảng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "implicit understanding",
+    "m": "sự hiểu biết ngầm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "corroboration",
+    "m": "sự xác nhận thêm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "substantiation",
+    "m": "sự chứng minh, căn cứ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "delineation",
+    "m": "sự phác thảo rõ ràng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "circumvention",
+    "m": "sự lách tránh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "mitigation",
+    "m": "sự giảm nhẹ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "exacerbation",
+    "m": "sự làm trầm trọng thêm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "proliferation",
+    "m": "sự lan rộng nhanh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "amalgamation",
+    "m": "sự hợp nhất",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "dissemination",
+    "m": "sự phổ biến rộng rãi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "perpetuation",
+    "m": "sự duy trì mãi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "inculcation",
+    "m": "sự khắc sâu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "extrapolation",
+    "m": "sự ngoại suy",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "elucidation",
+    "m": "sự làm sáng tỏ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "postulation",
+    "m": "sự đặt ra giả thiết",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "ascertainment",
+    "m": "sự xác định",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "enumeration",
+    "m": "sự liệt kê",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "reiteration",
+    "m": "sự nhắc lại",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "accentuation",
+    "m": "sự nhấn mạnh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "manifestation",
+    "m": "sự biểu hiện",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "articulation",
+    "m": "sự diễn đạt rõ ràng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "convergence",
+    "m": "sự hội tụ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "divergence",
+    "m": "sự phân kỳ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "oscillation",
+    "m": "sự dao động",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "bifurcation",
+    "m": "sự phân nhánh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "reconciliation",
+    "m": "sự dung hòa",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "marginalization",
+    "m": "sự gạt ra bên lề",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "normalization",
+    "m": "sự bình thường hóa",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "polarization",
+    "m": "sự phân cực",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "galvanization",
+    "m": "sự thúc đẩy mạnh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "deconstruction",
+    "m": "sự giải cấu trúc",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "reframing",
+    "m": "sự tái định nghĩa",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "troubling paradox",
+    "m": "nghịch lý đáng lo ngại",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "inherent contradiction",
+    "m": "mâu thuẫn vốn có",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "implicit assumption",
+    "m": "giả định ngầm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "underlying tension",
+    "m": "căng thẳng bên dưới",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "salient feature",
+    "m": "đặc điểm nổi bật",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "pervasive influence",
+    "m": "ảnh hưởng lan tràn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "elusive concept",
+    "m": "khái niệm khó nắm bắt",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "tenuous link",
+    "m": "mối liên hệ mong manh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "pivotal moment",
+    "m": "thời điểm then chốt",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "seminal work",
+    "m": "tác phẩm có tầm ảnh hưởng lớn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "watershed event",
+    "m": "sự kiện bước ngoặt",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "paradigmatic example",
+    "m": "ví dụ điển hình",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "exemplary practice",
+    "m": "thực hành mẫu mực",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "contentious issue",
+    "m": "vấn đề gây tranh cãi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "multifaceted challenge",
+    "m": "thách thức đa chiều",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "far-reaching consequences",
+    "m": "hệ quả ảnh hưởng rộng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "wide-ranging debate",
+    "m": "cuộc tranh luận bao quát",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "compelling argument",
+    "m": "lập luận thuyết phục",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "cogent analysis",
+    "m": "phân tích chặt chẽ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "incisive critique",
+    "m": "phê bình sắc bén",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "nuanced approach",
+    "m": "cách tiếp cận tinh tế",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "tacit agreement",
+    "m": "thỏa thuận ngầm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "tacit knowledge",
+    "m": "kiến thức ngầm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "explicit recognition",
+    "m": "sự công nhận rõ ràng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "spurious correlation",
+    "m": "tương quan giả tạo",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "robust evidence",
+    "m": "bằng chứng vững chắc",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "anecdotal evidence",
+    "m": "bằng chứng giai thoại",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "preliminary findings",
+    "m": "phát hiện ban đầu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "conclusive proof",
+    "m": "bằng chứng kết luận",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "circumstantial evidence",
+    "m": "bằng chứng gián tiếp",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "corroborating evidence",
+    "m": "bằng chứng xác nhận",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "conflicting evidence",
+    "m": "bằng chứng mâu thuẫn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "mounting evidence",
+    "m": "bằng chứng ngày càng tăng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "overwhelming evidence",
+    "m": "bằng chứng áp đảo",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "scant evidence",
+    "m": "ít bằng chứng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "lack of evidence",
+    "m": "thiếu bằng chứng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "weight of evidence",
+    "m": "sức nặng của bằng chứng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "balance of probabilities",
+    "m": "cân bằng xác suất",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "beyond reasonable doubt",
+    "m": "ngoài nghi ngờ hợp lý",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "on the balance of evidence",
+    "m": "căn cứ trên bằng chứng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "preponderance of evidence",
+    "m": "phần lớn bằng chứng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "in the absence of evidence",
+    "m": "khi không có bằng chứng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "emerging consensus",
+    "m": "sự đồng thuận đang hình thành",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "contentious claim",
+    "m": "tuyên bố gây tranh cãi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "sweeping generalization",
+    "m": "khái quát quá rộng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "categorical statement",
+    "m": "tuyên bố dứt khoát",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "nuanced position",
+    "m": "lập trường tinh tế",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "unequivocal support",
+    "m": "ủng hộ rõ ràng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "qualified endorsement",
+    "m": "tán thành có điều kiện",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "tentative conclusion",
+    "m": "kết luận tạm thời",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "definitive answer",
+    "m": "câu trả lời dứt khoát",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "open question",
+    "m": "câu hỏi còn bỏ ngỏ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "contested terrain",
+    "m": "lãnh thổ bị tranh giành",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "uncharted territory",
+    "m": "lãnh thổ chưa được khám phá",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "established fact",
+    "m": "sự thật đã được chứng minh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "accepted wisdom",
+    "m": "kiến thức được chấp nhận chung",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "conventional thinking",
+    "m": "tư duy thông thường",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "received wisdom",
+    "m": "quan niệm thừa kế",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "prevailing view",
+    "m": "quan điểm chiếm ưu thế",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "dominant narrative",
+    "m": "câu chuyện chủ đạo",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "counter-narrative",
+    "m": "câu chuyện phản biện",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "alternative perspective",
+    "m": "góc nhìn thay thế",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "dissenting view",
+    "m": "ý kiến bất đồng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "minority opinion",
+    "m": "quan điểm thiểu số",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "emerging view",
+    "m": "quan điểm mới nổi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "revisionist account",
+    "m": "giải thích lại lịch sử",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "orthodox view",
+    "m": "quan điểm chính thống",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "heterodox perspective",
+    "m": "góc nhìn không chính thống",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "mainstream consensus",
+    "m": "đồng thuận chính dòng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "fringe theory",
+    "m": "lý thuyết ngoại biên",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "speculative claim",
+    "m": "tuyên bố mang tính suy đoán",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "empirically grounded",
+    "m": "có cơ sở thực nghiệm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "theoretically driven",
+    "m": "được dẫn dắt bởi lý thuyết",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "data-driven",
+    "m": "dựa trên dữ liệu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "evidence-based",
+    "m": "dựa trên bằng chứng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "theory-informed",
+    "m": "được lý thuyết định hướng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "practice-based",
+    "m": "dựa trên thực hành",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "research-backed",
+    "m": "được hỗ trợ bởi nghiên cứu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "literature-derived",
+    "m": "rút ra từ tài liệu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "field-tested",
+    "m": "đã được thử nghiệm thực địa",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "peer-reviewed",
+    "m": "đã qua phản biện đồng nghiệp",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "rigorously tested",
+    "m": "đã kiểm tra chặt chẽ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "broadly accepted",
+    "m": "được chấp nhận rộng rãi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "widely disputed",
+    "m": "bị tranh cãi rộng rãi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "hotly contested",
+    "m": "bị tranh luận gay gắt",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "somewhat controversial",
+    "m": "khá gây tranh cãi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "deeply divisive",
+    "m": "gây chia rẽ sâu sắc",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "largely unexamined",
+    "m": "phần lớn chưa được xem xét",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "insufficiently explored",
+    "m": "chưa được khám phá đầy đủ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "well-established",
+    "m": "đã được thiết lập vững chắc",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "recently overturned",
+    "m": "mới bị bác bỏ gần đây",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "hitherto overlooked",
+    "m": "cho đến nay bị bỏ qua",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "long-standing assumption",
+    "m": "giả định lâu đời",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "uncritically accepted",
+    "m": "được chấp nhận không qua phê bình",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "axiomatic",
+    "m": "hiển nhiên, không cần chứng minh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "tautological",
+    "m": "mang tính lặp lại vô nghĩa",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "circular",
+    "m": "vòng tròn, thiếu cơ sở",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "self-defeating",
+    "m": "tự mâu thuẫn với mục tiêu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "self-referential",
+    "m": "tự tham chiếu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "self-evident",
+    "m": "tự hiển nhiên",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "self-explanatory",
+    "m": "tự giải thích",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "self-fulfilling",
+    "m": "tự thực hiện (lời tiên tri)",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "self-defeating prophecy",
+    "m": "lời tiên tri tự phủ nhận",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "Pygmalion effect",
+    "m": "hiệu ứng kỳ vọng tích cực",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "Hawthorne effect",
+    "m": "hiệu ứng Hawthorne",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "placebo effect",
+    "m": "hiệu ứng giả dược",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "nocebo effect",
+    "m": "hiệu ứng gây hại từ mong đợi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "confirmation bias",
+    "m": "thiên kiến xác nhận",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "anchoring bias",
+    "m": "thiên kiến neo đậu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "availability heuristic",
+    "m": "phương pháp heuristic về sẵn có",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "representativeness heuristic",
+    "m": "phương pháp heuristic về tính đại diện",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "framing effect",
+    "m": "hiệu ứng đóng khung",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "sunk cost fallacy",
+    "m": "ngụy biện chi phí chìm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "gambler's fallacy",
+    "m": "ngụy biện người đánh bạc",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "hindsight bias",
+    "m": "thiên kiến nhìn lại",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "Dunning-Kruger effect",
+    "m": "hiệu ứng Dunning-Kruger",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "attribution error",
+    "m": "lỗi quy nhân",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "fundamental attribution error",
+    "m": "lỗi quy nhân cơ bản",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "self-serving bias",
+    "m": "thiên kiến phục vụ bản thân",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "in-group bias",
+    "m": "thiên kiến nội nhóm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "out-group homogeneity",
+    "m": "đồng nhất hóa nhóm ngoài",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "social desirability bias",
+    "m": "thiên kiến mong muốn xã hội",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "observer effect",
+    "m": "hiệu ứng quan sát viên",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "demand characteristics",
+    "m": "đặc điểm nhu cầu thí nghiệm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "social proof",
+    "m": "bằng chứng xã hội",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "authority bias",
+    "m": "thiên kiến thẩm quyền",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "scarcity heuristic",
+    "m": "phương pháp khan hiếm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "reciprocity norm",
+    "m": "chuẩn mực có đi có lại",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "commitment and consistency",
+    "m": "cam kết và nhất quán",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "cognitive dissonance",
+    "m": "bất hòa nhận thức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "attitude-behavior gap",
+    "m": "khoảng cách thái độ-hành vi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "value-action gap",
+    "m": "khoảng cách giá trị-hành động",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "intention-behavior gap",
+    "m": "khoảng cách ý định-hành vi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "status quo bias",
+    "m": "thiên kiến hiện trạng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "loss aversion",
+    "m": "né tránh mất mát",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "risk aversion",
+    "m": "né tránh rủi ro",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "risk tolerance",
+    "m": "chịu đựng rủi ro",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "ambiguity aversion",
+    "m": "né tránh sự mơ hồ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "optimism bias",
+    "m": "thiên kiến lạc quan",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "planning fallacy",
+    "m": "ngụy biện lập kế hoạch",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "over-confidence effect",
+    "m": "hiệu ứng quá tự tin",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "above-average effect",
+    "m": "hiệu ứng tự coi mình trên mức bình thường",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "better-than-average effect",
+    "m": "hiệu ứng tốt hơn mức trung bình",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "false consensus effect",
+    "m": "hiệu ứng đồng thuận sai",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "third-person effect",
+    "m": "hiệu ứng người thứ ba",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "moral licensing",
+    "m": "cấp phép đạo đức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "moral cleansing",
+    "m": "thanh lọc đạo đức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "moral disengagement",
+    "m": "tách biệt đạo đức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "motivated reasoning",
+    "m": "lý luận có động cơ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "wishful thinking",
+    "m": "tư duy theo ý muốn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "magical thinking",
+    "m": "tư duy ma thuật",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "counterfactual thinking",
+    "m": "tư duy phản thực tế",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "prospective hindsight",
+    "m": "nhìn lại từ tương lai",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "mental simulation",
+    "m": "mô phỏng tâm lý",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "analogical reasoning",
+    "m": "lý luận bằng tương tự",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "case-based reasoning",
+    "m": "lý luận dựa trên trường hợp",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "model-based reasoning",
+    "m": "lý luận dựa trên mô hình",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "rule-based reasoning",
+    "m": "lý luận dựa trên quy tắc",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "instance-based reasoning",
+    "m": "lý luận dựa trên ví dụ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "intuitive reasoning",
+    "m": "lý luận trực giác",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "deliberate reasoning",
+    "m": "lý luận có chủ ý",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "fast thinking",
+    "m": "tư duy nhanh (System 1)",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "slow thinking",
+    "m": "tư duy chậm (System 2)",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "dual-process theory",
+    "m": "lý thuyết hai quy trình",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "bounded rationality",
+    "m": "lý trí bị giới hạn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "satisficing",
+    "m": "thoả đáng vừa đủ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "maximizing",
+    "m": "tối đa hóa",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "regret minimization",
+    "m": "giảm thiểu hối tiếc",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "expected utility",
+    "m": "lợi ích kỳ vọng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "prospect theory",
+    "m": "lý thuyết triển vọng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "nudge theory",
+    "m": "lý thuyết kích thích nhẹ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "choice architecture",
+    "m": "kiến trúc lựa chọn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "libertarian paternalism",
+    "m": "chủ nghĩa gia trưởng tự do",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "opt-in",
+    "m": "tự nguyện tham gia",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "opt-out",
+    "m": "tự nguyện rút lui",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "default option",
+    "m": "tùy chọn mặc định",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "framing",
+    "m": "đóng khung thông điệp",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "priming",
+    "m": "kích hoạt trước",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "anchoring",
+    "m": "neo đậu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "decoy effect",
+    "m": "hiệu ứng mồi nhử",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "compromise effect",
+    "m": "hiệu ứng dung hòa",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "context effects",
+    "m": "hiệu ứng bối cảnh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "mere exposure effect",
+    "m": "hiệu ứng tiếp xúc đơn thuần",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "fluency effect",
+    "m": "hiệu ứng trôi chảy",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "processing fluency",
+    "m": "sự trôi chảy xử lý",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "cognitive ease",
+    "m": "sự dễ dàng nhận thức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "cognitive strain",
+    "m": "căng thẳng nhận thức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "attentional bias",
+    "m": "thiên kiến chú ý",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "inattentional blindness",
+    "m": "mù do không chú ý",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "change blindness",
+    "m": "mù trước sự thay đổi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "perceptual set",
+    "m": "bộ nhận thức định sẵn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "top-down processing",
+    "m": "xử lý từ trên xuống",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "bottom-up processing",
+    "m": "xử lý từ dưới lên",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "schema",
+    "m": "lược đồ nhận thức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "prototype",
+    "m": "nguyên mẫu nhận thức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "exemplar",
+    "m": "ví dụ tiêu biểu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "stereotype",
+    "m": "rập khuôn, định kiến",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "script",
+    "m": "kịch bản hành vi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "frame",
+    "m": "khung nhận thức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "mental model",
+    "m": "mô hình tâm lý",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "cognitive map",
+    "m": "bản đồ nhận thức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "working memory",
+    "m": "bộ nhớ làm việc",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "long-term memory",
+    "m": "bộ nhớ dài hạn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "episodic memory",
+    "m": "bộ nhớ giai thoại",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "semantic memory",
+    "m": "bộ nhớ ngữ nghĩa",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "procedural memory",
+    "m": "bộ nhớ thủ tục",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "declarative memory",
+    "m": "bộ nhớ khai báo",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "implicit memory",
+    "m": "bộ nhớ ngầm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "explicit memory",
+    "m": "bộ nhớ tường minh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "encoding",
+    "m": "mã hóa thông tin",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "retrieval",
+    "m": "truy xuất thông tin",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "consolidation",
+    "m": "củng cố ký ức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "interference",
+    "m": "giao thoa, nhiễu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "forgetting curve",
+    "m": "đường cong quên lãng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "spacing effect",
+    "m": "hiệu ứng giãn cách",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "testing effect",
+    "m": "hiệu ứng kiểm tra",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "desirable difficulties",
+    "m": "khó khăn có lợi",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "interleaving",
+    "m": "học xen kẽ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "elaborative interrogation",
+    "m": "đặt câu hỏi mở rộng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "self-explanation",
+    "m": "tự giải thích",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "dual coding",
+    "m": "mã hóa kép",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "transfer-appropriate processing",
+    "m": "xử lý phù hợp chuyển giao",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "distributed practice",
+    "m": "thực hành phân tán",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "massed practice",
+    "m": "thực hành tập trung",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "deliberate practice",
+    "m": "thực hành có chủ ý",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "zone of proximal development",
+    "m": "vùng phát triển gần nhất",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "scaffolding",
+    "m": "hỗ trợ có cấu trúc",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "fading",
+    "m": "rút dần sự hỗ trợ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "worked example",
+    "m": "ví dụ được giải sẵn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "problem-solving",
+    "m": "giải quyết vấn đề",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "analogical transfer",
+    "m": "chuyển giao tương tự",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "near transfer",
+    "m": "chuyển giao gần",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "far transfer",
+    "m": "chuyển giao xa",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "expertise reversal effect",
+    "m": "hiệu ứng đảo chuyên môn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "cognitive load",
+    "m": "tải nhận thức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "intrinsic load",
+    "m": "tải nội tại",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "extraneous load",
+    "m": "tải thêm vào",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "germane load",
+    "m": "tải hữu ích",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "chunking",
+    "m": "nhóm thông tin",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "automaticity",
+    "m": "tính tự động",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "fluency",
+    "m": "sự trôi chảy",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "competence",
+    "m": "năng lực",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "expertise",
+    "m": "chuyên môn",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "tacit expertise",
+    "m": "chuyên môn ngầm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "adaptive expertise",
+    "m": "chuyên môn linh hoạt",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "routine expertise",
+    "m": "chuyên môn thói quen",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "transfer of learning",
+    "m": "chuyển giao học tập",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "learning transfer",
+    "m": "chuyển giao học tập",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "knowledge application",
+    "m": "áp dụng kiến thức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "knowledge construction",
+    "m": "kiến tạo kiến thức",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "meaningful learning",
+    "m": "học có ý nghĩa",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "rote learning",
+    "m": "học thuộc lòng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "deep learning",
+    "m": "học sâu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "surface learning",
+    "m": "học bề mặt",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "strategic learning",
+    "m": "học chiến lược",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "growth mindset",
+    "m": "tư duy tăng trưởng",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "fixed mindset",
+    "m": "tư duy cố định",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "meta-learning",
+    "m": "học cách học",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "self-regulated learning",
+    "m": "học tự điều chỉnh",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "intrinsic motivation",
+    "m": "động lực nội tại",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "extrinsic motivation",
+    "m": "động lực ngoại tại",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "goal orientation",
+    "m": "định hướng mục tiêu",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "mastery orientation",
+    "m": "định hướng thành thạo",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "performance orientation",
+    "m": "định hướng hiệu suất",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "self-determination theory",
+    "m": "lý thuyết tự quyết",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "autonomy",
+    "m": "quyền tự chủ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "competence",
+    "m": "năng lực",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "relatedness",
+    "m": "mối quan hệ",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "amotivation",
+    "m": "thiếu động lực",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "demotivation",
+    "m": "mất động lực",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "flow state",
+    "m": "trạng thái dòng chảy",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "engagement",
+    "m": "sự gắn kết",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "absorption",
+    "m": "sự đắm chìm",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "immersion",
+    "m": "sự đắm mình",
+    "cat": "c1_vocabulary"
+  },
+  {
+    "w": "extemporaneous",
+    "m": "ứng khẩu, ngẫu hứng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "impromptu",
+    "m": "tức thời, không chuẩn bị",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "extempore",
+    "m": "không chuẩn bị trước",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "premeditated",
+    "m": "được tính toán trước",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "deliberate",
+    "m": "có chủ tâm",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "inadvertent",
+    "m": "vô ý, không chủ tâm",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "unintentional",
+    "m": "không cố ý",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "fortuitous",
+    "m": "tình cờ, may mắn",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "incidental",
+    "m": "ngẫu nhiên, phụ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "consequential",
+    "m": "quan trọng, có hệ quả",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "inconsequential",
+    "m": "không quan trọng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "significant",
+    "m": "có ý nghĩa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "insignificant",
+    "m": "không đáng kể",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "negligible",
+    "m": "bỏ qua được",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "appreciable",
+    "m": "đáng kể",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "discernible",
+    "m": "nhận biết được",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "imperceptible",
+    "m": "không thể nhận ra",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "palpable",
+    "m": "rõ ràng, hữu hình",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "intangible",
+    "m": "vô hình, khó đo lường",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "commensurate",
+    "m": "tương xứng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "incommensurate",
+    "m": "không tương xứng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "proportionate",
+    "m": "cân xứng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "disproportionate",
+    "m": "mất cân đối",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "commensurate with",
+    "m": "tương xứng với",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "consonant with",
+    "m": "phù hợp với",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "consonance",
+    "m": "sự hài hòa, phù hợp",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "dissonance",
+    "m": "sự bất hòa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "congruence",
+    "m": "sự đồng dạng, phù hợp",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "incongruence",
+    "m": "sự không phù hợp",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "coherent",
+    "m": "mạch lạc",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "incoherent",
+    "m": "không mạch lạc",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "cogent",
+    "m": "thuyết phục, chặt chẽ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "incogent",
+    "m": "không thuyết phục",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "persuasive",
+    "m": "thuyết phục",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "unpersuasive",
+    "m": "không thuyết phục",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "compelling",
+    "m": "hấp dẫn, bắt buộc",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "uncompelling",
+    "m": "không hấp dẫn",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "convincing",
+    "m": "thuyết phục",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "unconvincing",
+    "m": "không thuyết phục",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "credible",
+    "m": "đáng tin",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "incredible",
+    "m": "không thể tin",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "plausible",
+    "m": "có lý, đáng tin",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "implausible",
+    "m": "khó tin, vô lý",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "verisimilar",
+    "m": "có vẻ thực",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "speculative",
+    "m": "mang tính suy đoán",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "conjectural",
+    "m": "dựa trên phỏng đoán",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "hypothetical",
+    "m": "giả thuyết",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "theoretical",
+    "m": "lý thuyết",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "empirical",
+    "m": "thực nghiệm",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "pragmatic",
+    "m": "thực dụng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "idealistic",
+    "m": "lý tưởng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "realistic",
+    "m": "thực tế",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "cynical",
+    "m": "hoài nghi, bi quan",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "optimistic",
+    "m": "lạc quan",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "pessimistic",
+    "m": "bi quan",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "fatalistic",
+    "m": "định mệnh luận",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "deterministic",
+    "m": "tất định",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "voluntaristic",
+    "m": "duy ý chí",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "agentive",
+    "m": "có chủ thể hành động",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "structural",
+    "m": "cấu trúc, hệ thống",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "individual-level",
+    "m": "cấp độ cá nhân",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "macro-level",
+    "m": "cấp độ vĩ mô",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "micro-level",
+    "m": "cấp độ vi mô",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "meso-level",
+    "m": "cấp độ trung mô",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "aggregate-level",
+    "m": "cấp độ tổng hợp",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "cross-national",
+    "m": "liên quốc gia",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "comparative",
+    "m": "so sánh",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "longitudinal",
+    "m": "theo dọc thời gian",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "cross-sectional",
+    "m": "cắt ngang",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "panel data",
+    "m": "dữ liệu bảng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "time series",
+    "m": "chuỗi thời gian",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "instrumental variable",
+    "m": "biến công cụ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "difference-in-differences",
+    "m": "khác biệt kép",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "regression discontinuity",
+    "m": "hồi quy gián đoạn",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "propensity score matching",
+    "m": "khớp điểm xu hướng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "randomized controlled trial",
+    "m": "thử nghiệm ngẫu nhiên có kiểm soát",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "natural experiment",
+    "m": "thí nghiệm tự nhiên",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "quasi-experiment",
+    "m": "bán thí nghiệm",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "observational study",
+    "m": "nghiên cứu quan sát",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "selection bias",
+    "m": "thiên kiến lựa chọn",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "confounding variable",
+    "m": "biến gây nhiễu",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "endogeneity",
+    "m": "nội sinh",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "reverse causality",
+    "m": "nhân quả ngược",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "omitted variable bias",
+    "m": "thiên kiến biến bỏ sót",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "measurement error",
+    "m": "sai số đo lường",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "type I error",
+    "m": "sai lầm loại I",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "type II error",
+    "m": "sai lầm loại II",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "statistical power",
+    "m": "lực thống kê",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "effect size",
+    "m": "kích thước hiệu ứng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "p-value",
+    "m": "giá trị p",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "null hypothesis",
+    "m": "giả thuyết không",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "alternative hypothesis",
+    "m": "giả thuyết thay thế",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "one-tailed test",
+    "m": "kiểm định một đuôi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "two-tailed test",
+    "m": "kiểm định hai đuôi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "multiple testing problem",
+    "m": "vấn đề kiểm định nhiều lần",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "Bonferroni correction",
+    "m": "hiệu chỉnh Bonferroni",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "false discovery rate",
+    "m": "tỷ lệ phát hiện sai",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "replication crisis",
+    "m": "khủng hoảng nhân bản",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "publication bias",
+    "m": "thiên kiến đăng tải",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "file drawer problem",
+    "m": "vấn đề ngăn kéo hồ sơ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "p-hacking",
+    "m": "hack giá trị p",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "HARKing",
+    "m": "giả thuyết sau khi kết quả biết",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "open data",
+    "m": "dữ liệu mở",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "pre-registration",
+    "m": "đăng ký nghiên cứu trước",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "reproducibility",
+    "m": "khả năng tái tạo",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "replicability",
+    "m": "khả năng nhân bản",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "generalizability",
+    "m": "khả năng khái quát",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "external validity",
+    "m": "giá trị ngoại",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "internal validity",
+    "m": "giá trị nội",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "ecological validity",
+    "m": "giá trị sinh thái",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "construct validity",
+    "m": "giá trị cấu trúc",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "criterion validity",
+    "m": "giá trị tiêu chí",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "face validity",
+    "m": "giá trị bề mặt",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "content validity",
+    "m": "giá trị nội dung",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "discriminant validity",
+    "m": "giá trị phân biệt",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "convergent validity",
+    "m": "giá trị hội tụ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "concurrent validity",
+    "m": "giá trị đồng thời",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "predictive validity",
+    "m": "giá trị dự đoán",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "incremental validity",
+    "m": "giá trị tăng thêm",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "inter-rater reliability",
+    "m": "độ tin cậy giữa người đánh giá",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "intra-rater reliability",
+    "m": "độ tin cậy trong cùng một người",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "Cronbach's alpha",
+    "m": "hệ số Cronbach Alpha",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "test-retest reliability",
+    "m": "độ tin cậy kiểm tra lại",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "parallel forms reliability",
+    "m": "độ tin cậy hình thức song song",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "split-half reliability",
+    "m": "độ tin cậy chia đôi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "item-total correlation",
+    "m": "tương quan mục-tổng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "factor analysis",
+    "m": "phân tích nhân tố",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "principal component analysis",
+    "m": "phân tích thành phần chính",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "exploratory factor analysis",
+    "m": "phân tích nhân tố khám phá",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "confirmatory factor analysis",
+    "m": "phân tích nhân tố khẳng định",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "structural equation modeling",
+    "m": "mô hình phương trình cấu trúc",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "path analysis",
+    "m": "phân tích đường dẫn",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "mediation analysis",
+    "m": "phân tích trung gian",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "moderation analysis",
+    "m": "phân tích điều tiết",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "multilevel modeling",
+    "m": "mô hình đa bậc",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "hierarchical linear model",
+    "m": "mô hình tuyến tính phân cấp",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "mixed methods",
+    "m": "phương pháp hỗn hợp",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "grounded theory",
+    "m": "lý thuyết có căn cứ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "content analysis",
+    "m": "phân tích nội dung",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "thematic analysis",
+    "m": "phân tích chủ đề",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "discourse analysis",
+    "m": "phân tích diễn ngôn",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "narrative analysis",
+    "m": "phân tích tự sự",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "phenomenological analysis",
+    "m": "phân tích hiện tượng học",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "interpretive phenomenological analysis",
+    "m": "phân tích hiện tượng học diễn giải",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "constructivist grounded theory",
+    "m": "lý thuyết căn cứ kiến tạo",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "situational analysis",
+    "m": "phân tích tình huống",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "document analysis",
+    "m": "phân tích tài liệu",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "archival research",
+    "m": "nghiên cứu tài liệu lưu trữ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "secondary analysis",
+    "m": "phân tích thứ cấp",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "big data analytics",
+    "m": "phân tích dữ liệu lớn",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "computational social science",
+    "m": "khoa học xã hội tính toán",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "digital humanities",
+    "m": "nhân văn kỹ thuật số",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "text mining",
+    "m": "khai thác văn bản",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "sentiment analysis",
+    "m": "phân tích cảm xúc",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "social network analysis",
+    "m": "phân tích mạng xã hội",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "agent-based modeling",
+    "m": "mô hình dựa trên tác nhân",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "system dynamics",
+    "m": "động lực hệ thống",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "complexity science",
+    "m": "khoa học phức tạp",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "network science",
+    "m": "khoa học mạng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "machine learning",
+    "m": "học máy",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "deep learning",
+    "m": "học sâu",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "natural language processing",
+    "m": "xử lý ngôn ngữ tự nhiên",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "computer vision",
+    "m": "thị giác máy tính",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "reinforcement learning",
+    "m": "học tăng cường",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "transfer learning",
+    "m": "học chuyển giao",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "explainable AI",
+    "m": "AI có thể giải thích",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "algorithmic accountability",
+    "m": "trách nhiệm giải trình thuật toán",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "algorithmic transparency",
+    "m": "minh bạch thuật toán",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "AI ethics",
+    "m": "đạo đức AI",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "autonomous systems",
+    "m": "hệ thống tự trị",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "human-in-the-loop",
+    "m": "con người trong vòng lặp",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "centaur model",
+    "m": "mô hình nhân mã",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "augmented intelligence",
+    "m": "trí tuệ tăng cường",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "techno-utopian",
+    "m": "người tin công nghệ sẽ cứu rỗi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "techno-dystopian",
+    "m": "lo ngại công nghệ gây hại",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "technological solutionism",
+    "m": "giải quyết tất cả bằng công nghệ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "luddism",
+    "m": "phong trào chống công nghệ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "neo-luddism",
+    "m": "tân phong trào chống công nghệ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "precautionary approach",
+    "m": "cách tiếp cận thận trọng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "responsible innovation",
+    "m": "đổi mới có trách nhiệm",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "anticipatory governance",
+    "m": "quản trị đón đầu",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "technology foresight",
+    "m": "nhìn xa về công nghệ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "futures studies",
+    "m": "nghiên cứu tương lai",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "scenario planning",
+    "m": "lập kế hoạch kịch bản",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "wild card",
+    "m": "sự kiện khó lường",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "weak signal",
+    "m": "tín hiệu yếu",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "emerging issue",
+    "m": "vấn đề mới nổi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "horizon scanning",
+    "m": "quét chân trời",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "Delphi method",
+    "m": "phương pháp Delphi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "backcasting",
+    "m": "dự báo ngược",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "roadmapping",
+    "m": "lập bản đồ lộ trình",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "cross-impact analysis",
+    "m": "phân tích tác động chéo",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "trend extrapolation",
+    "m": "ngoại suy xu hướng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "disruption narrative",
+    "m": "câu chuyện đột phá",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "transition narrative",
+    "m": "câu chuyện chuyển đổi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "resilience narrative",
+    "m": "câu chuyện phục hồi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "transformation narrative",
+    "m": "câu chuyện biến đổi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "incremental change",
+    "m": "thay đổi từng bước nhỏ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "discontinuous change",
+    "m": "thay đổi gián đoạn",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "disruptive change",
+    "m": "thay đổi phá vỡ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "transformative change",
+    "m": "thay đổi căn bản",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "revolutionary change",
+    "m": "thay đổi cách mạng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "evolutionary change",
+    "m": "thay đổi tiến hóa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "adaptive change",
+    "m": "thay đổi thích nghi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "generative change",
+    "m": "thay đổi sinh sản",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "leverage point",
+    "m": "điểm đòn bẩy",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "intervention point",
+    "m": "điểm can thiệp",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "system leverage",
+    "m": "đòn bẩy hệ thống",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "systemic change",
+    "m": "thay đổi hệ thống",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "fundamental change",
+    "m": "thay đổi cơ bản",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "cosmetic change",
+    "m": "thay đổi hình thức",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "nominal change",
+    "m": "thay đổi danh nghĩa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "substantive change",
+    "m": "thay đổi thực chất",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "enduring change",
+    "m": "thay đổi lâu bền",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "temporary change",
+    "m": "thay đổi tạm thời",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "irreversible change",
+    "m": "thay đổi không thể đảo ngược",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "path-dependent change",
+    "m": "thay đổi phụ thuộc con đường",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "punctuated equilibrium",
+    "m": "cân bằng gián đoạn",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "policy window",
+    "m": "cửa sổ cơ hội chính sách",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "agenda-setting",
+    "m": "thiết lập chương trình nghị sự",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "framing effect",
+    "m": "hiệu ứng đóng khung",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "policy cycle",
+    "m": "chu kỳ chính sách",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "policy diffusion",
+    "m": "lan truyền chính sách",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "policy transfer",
+    "m": "chuyển giao chính sách",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "policy learning",
+    "m": "học từ chính sách",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "evidence-based policy",
+    "m": "chính sách dựa trên bằng chứng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "policy evaluation",
+    "m": "đánh giá chính sách",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "implementation gap",
+    "m": "khoảng cách thực thi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "policy failure",
+    "m": "thất bại chính sách",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "unintended consequences",
+    "m": "hệ quả không mong đợi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "perverse incentive",
+    "m": "khuyến khích ngược",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "cobra effect",
+    "m": "hiệu ứng rắn hổ mang",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "goodhart's law",
+    "m": "luật Goodhart",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "campbell's law",
+    "m": "luật Campbell",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "teaching to the test",
+    "m": "dạy để thi",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "metric fixation",
+    "m": "cố định chỉ số",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "McDonaldization",
+    "m": "chuẩn hóa như McDonald's",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "rationalization",
+    "m": "hợp lý hóa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "bureaucratization",
+    "m": "quan liêu hóa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "professionalization",
+    "m": "chuyên nghiệp hóa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "credentialization",
+    "m": "bằng cấp hóa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "academization",
+    "m": "học thuật hóa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "medicalización",
+    "m": "y tế hóa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "pharmaceuticalization",
+    "m": "dược phẩm hóa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "biomedicalization",
+    "m": "sinh y học hóa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "healthism",
+    "m": "sức khỏe chủ nghĩa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "wellness industry",
+    "m": "ngành chăm sóc sức khỏe",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "therapeutic culture",
+    "m": "văn hóa trị liệu",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "psychologization",
+    "m": "tâm lý hóa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "self-help culture",
+    "m": "văn hóa tự giúp",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "prosperity gospel",
+    "m": "tin lành thịnh vượng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "positive thinking",
+    "m": "tư duy tích cực",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "manifestation",
+    "m": "biểu hiện, thực hóa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "law of attraction",
+    "m": "luật hấp dẫn",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "toxic positivity",
+    "m": "tích cực độc hại",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "spiritual bypassing",
+    "m": "né tránh bằng tâm linh",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "magical thinking",
+    "m": "tư duy ma thuật",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "pseudoscience",
+    "m": "giả khoa học",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "science denialism",
+    "m": "phủ nhận khoa học",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "anti-intellectualism",
+    "m": "bài trí thức",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "epistemic cowardice",
+    "m": "hèn nhát nhận thức",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "epistemic injustice",
+    "m": "bất công nhận thức",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "testimonial injustice",
+    "m": "bất công bằng chứng nhân",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "hermeneutical injustice",
+    "m": "bất công giải thích",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "epistemic oppression",
+    "m": "đàn áp nhận thức",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "standpoint theory",
+    "m": "lý thuyết lập trường",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "situated knowledge",
+    "m": "kiến thức có vị trí",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "partial perspective",
+    "m": "góc nhìn bộ phận",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "god trick",
+    "m": "chiêu thị Chúa (không có lập trường)",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "view from nowhere",
+    "m": "cái nhìn từ không đâu",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "strong objectivity",
+    "m": "khách quan mạnh",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "reflexive objectivity",
+    "m": "khách quan phản thân",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "feminist epistemology",
+    "m": "nhận thức luận nữ quyền",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "indigenous knowledge",
+    "m": "kiến thức bản địa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "local knowledge",
+    "m": "kiến thức địa phương",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "traditional ecological knowledge",
+    "m": "kiến thức sinh thái truyền thống",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "ethnobotany",
+    "m": "thực vật học dân tộc",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "ethnopharmacology",
+    "m": "dược lý học dân tộc",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "bioprospecting",
+    "m": "thăm dò tài nguyên sinh học",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "biopiracy",
+    "m": "cướp biển sinh học",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "benefit sharing",
+    "m": "chia sẻ lợi ích",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "Nagoya Protocol",
+    "m": "Nghị định thư Nagoya",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "free, prior and informed consent",
+    "m": "đồng ý tự do, trước và được thông báo",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "participatory research",
+    "m": "nghiên cứu tham gia",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "action research",
+    "m": "nghiên cứu hành động",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "community-based participatory research",
+    "m": "nghiên cứu tham gia cộng đồng",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "decolonial research",
+    "m": "nghiên cứu giải thuộc địa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "indigenous research methodology",
+    "m": "phương pháp nghiên cứu bản địa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "two-eyed seeing",
+    "m": "nhìn bằng hai mắt (biết hai hệ thống)",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "braiding sweetgrass",
+    "m": "kết hợp khoa học và bản địa",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "relational ontology",
+    "m": "bản thể luận quan hệ",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "more-than-human",
+    "m": "hơn con người, bao gồm phi người",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "multispecies",
+    "m": "đa loài",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "more-than-human world",
+    "m": "thế giới hơn người",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "posthumanism",
+    "m": "hậu nhân văn",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "transhumanism",
+    "m": "chủ nghĩa vượt người",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "bioethics",
+    "m": "đạo đức sinh học",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "enhancement ethics",
+    "m": "đạo đức nâng cao con người",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "genetic enhancement",
+    "m": "nâng cao di truyền",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "designer baby",
+    "m": "em bé thiết kế",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "germline editing",
+    "m": "chỉnh sửa dòng mầm",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "somatic editing",
+    "m": "chỉnh sửa tế bào thân",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "CRISPR",
+    "m": "công nghệ chỉnh sửa gene CRISPR",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "epigenome",
+    "m": "biểu gen",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "proteome",
+    "m": "proteome, tổng protein",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "microbiome",
+    "m": "hệ vi sinh vật",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "gut microbiome",
+    "m": "hệ vi sinh vật ruột",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "virome",
+    "m": "hệ virus",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "holobiont",
+    "m": "sinh vật tổng thể cùng vi sinh vật",
+    "cat": "advanced_language"
+  },
+  {
+    "w": "holobiontic",
+    "m": "thuộc về holobiont",
+    "cat": "advanced_language"
+  }
+]

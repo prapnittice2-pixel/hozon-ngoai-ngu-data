@@ -1,0 +1,672 @@
+{
+  "tính từ": {
+    "vn": "Tính từ",
+    "e": "🎨",
+    "intro": "Làm chủ tính từ để miêu tả thế giới sinh động và giàu màu sắc hơn."
+  },
+  "học thuật": {
+    "vn": "Học thuật",
+    "e": "🎓",
+    "intro": "Từ vựng học thuật giúp bạn đọc hiểu tài liệu và viết luận chuyên sâu."
+  },
+  "hành động": {
+    "vn": "Hành động",
+    "e": "🏃",
+    "intro": "Nhóm từ chỉ hành động giúp bạn kể chuyện và diễn đạt việc làm hằng ngày."
+  },
+  "thành ngữ": {
+    "vn": "Thành ngữ",
+    "e": "📜",
+    "intro": "Học các thành ngữ thông dụng — chìa khóa để diễn đạt tự nhiên như người bản xứ."
+  },
+  "mastery": {
+    "vn": "Trình độ bậc thầy",
+    "e": "🏆",
+    "intro": "Chinh phục lớp từ vựng đỉnh cao dành cho người muốn đạt trình độ bậc thầy."
+  },
+  "vocabulary": {
+    "vn": "Từ vựng",
+    "e": "📖",
+    "intro": "Kho từ vựng cốt lõi — nền tảng vững chắc cho mọi kỹ năng ngôn ngữ."
+  },
+  "advanced": {
+    "vn": "Nâng cao",
+    "e": "🚀",
+    "intro": "Bứt phá lên trình độ cao hơn với nhóm từ vựng nâng cao chọn lọc."
+  },
+  "verb": {
+    "vn": "Động từ",
+    "e": "🏃",
+    "intro": "Nhóm động từ quan trọng giúp bạn diễn đạt hành động chính xác."
+  },
+  "cảm xúc": {
+    "vn": "Cảm xúc",
+    "e": "💖",
+    "intro": "Gọi tên mọi cung bậc cảm xúc để giao tiếp tinh tế và chân thành hơn."
+  },
+  "chính trị": {
+    "vn": "Chính trị",
+    "e": "🏛️",
+    "intro": "Từ vựng chính trị giúp bạn đọc báo và theo dõi thời sự quốc tế dễ dàng."
+  },
+  "kinh doanh": {
+    "vn": "Kinh doanh",
+    "e": "💼",
+    "intro": "Trang bị từ vựng kinh doanh để tự tin đàm phán và làm việc chuyên nghiệp."
+  },
+  "xã hội": {
+    "vn": "Xã hội",
+    "e": "🌆",
+    "intro": "Hiểu và bàn luận các vấn đề xã hội bằng vốn từ phong phú, sắc bén."
+  },
+  "c1_vocabulary": {
+    "vn": "Từ vựng C1",
+    "e": "🎯",
+    "intro": "Từ vựng chuẩn C1 — bước đệm quan trọng để đạt trình độ thành thạo."
+  },
+  "trạng từ": {
+    "vn": "Trạng từ",
+    "e": "⚡",
+    "intro": "Trạng từ giúp câu nói thêm chính xác về mức độ, thời gian và cách thức."
+  },
+  "nghệ thuật": {
+    "vn": "Nghệ thuật",
+    "e": "🎭",
+    "intro": "Khám phá thế giới nghệ thuật qua những từ vựng đầy cảm hứng sáng tạo."
+  },
+  "vocabulary_extra": {
+    "vn": "Từ vựng mở rộng",
+    "e": "📕",
+    "intro": "Mở rộng vốn từ vượt khung giáo trình để diễn đạt phong phú hơn mỗi ngày."
+  },
+  "society": {
+    "vn": "Xã hội",
+    "e": "🌆",
+    "intro": "Bàn luận tự tin về cộng đồng và đời sống xã hội với nhóm từ thiết yếu này."
+  },
+  "adjective": {
+    "vn": "Tính từ",
+    "e": "🎨",
+    "intro": "Tính từ chọn lọc giúp lời nói và bài viết của bạn giàu hình ảnh hơn."
+  },
+  "advanced_language": {
+    "vn": "Ngôn ngữ nâng cao",
+    "e": "🗝️",
+    "intro": "Mở khóa cách diễn đạt tinh tế của người bản xứ trình độ cao."
+  },
+  "công nghệ": {
+    "vn": "Công nghệ",
+    "e": "💻",
+    "intro": "Cập nhật từ vựng công nghệ để bắt kịp thời đại số đang thay đổi từng ngày."
+  },
+  "văn hóa": {
+    "vn": "Văn hóa",
+    "e": "🏮",
+    "intro": "Hiểu sâu văn hóa bản địa — con đường ngắn nhất để dùng ngôn ngữ tự nhiên."
+  },
+  "literary_creation": {
+    "vn": "Sáng tác văn học",
+    "e": "✍️",
+    "intro": "Từ vựng sáng tác giúp bạn viết nên những trang văn giàu cảm xúc."
+  },
+  "economics": {
+    "vn": "Kinh tế",
+    "e": "📈",
+    "intro": "Nắm vững thuật ngữ kinh tế để đọc hiểu tin tức tài chính toàn cầu."
+  },
+  "business": {
+    "vn": "Kinh doanh",
+    "e": "💼",
+    "intro": "Từ vựng thương mại thiết yếu cho email, họp hành và đàm phán quốc tế."
+  },
+  "người": {
+    "vn": "Con người",
+    "e": "🧑",
+    "intro": "Từ vựng miêu tả con người — ngoại hình, tính cách và các mối quan hệ."
+  },
+  "environment": {
+    "vn": "Môi trường",
+    "e": "🌱",
+    "intro": "Chung tay bảo vệ hành tinh bắt đầu từ việc hiểu từ vựng môi trường."
+  },
+  "academic": {
+    "vn": "Học thuật",
+    "e": "🎓",
+    "intro": "Nhóm từ học thuật trọng yếu cho bài luận, thuyết trình và nghiên cứu."
+  },
+  "tiền bạc": {
+    "vn": "Tiền bạc",
+    "e": "💰",
+    "intro": "Tự tin nói về chi tiêu, tiết kiệm và quản lý tài chính cá nhân."
+  },
+  "học tập": {
+    "vn": "Học tập",
+    "e": "📝",
+    "intro": "Từ vựng trường lớp và học tập đồng hành cùng bạn trên ghế nhà trường."
+  },
+  "công việc": {
+    "vn": "Công việc",
+    "e": "🧰",
+    "intro": "Giao tiếp công sở trôi chảy với bộ từ vựng nghề nghiệp thiết thực."
+  },
+  "medicine": {
+    "vn": "Y học",
+    "e": "💊",
+    "intro": "Thuật ngữ y học hữu ích khi khám bệnh, đọc đơn thuốc và chăm sóc sức khỏe."
+  },
+  "social_science": {
+    "vn": "Khoa học xã hội",
+    "e": "👥",
+    "intro": "Khám phá xã hội học, nhân học qua lớp từ vựng chuyên ngành thú vị."
+  },
+  "classical_prose": {
+    "vn": "Văn ngôn cổ",
+    "e": "🏺",
+    "intro": "Bước vào thế giới văn ngôn cổ điển — tinh hoa ngàn năm của ngôn ngữ."
+  },
+  "sức khỏe": {
+    "vn": "Sức khỏe",
+    "e": "🏥",
+    "intro": "Chăm sóc bản thân tốt hơn với từ vựng về sức khỏe và bệnh viện."
+  },
+  "particle": {
+    "vn": "Trợ từ",
+    "e": "🔤",
+    "intro": "Trợ từ nhỏ bé nhưng quyết định sắc thái — học kỹ để nói chuẩn ngữ điệu."
+  },
+  "phrasal": {
+    "vn": "Cụm động từ",
+    "e": "🔗",
+    "intro": "Cụm động từ là chìa khóa nghe hiểu hội thoại đời thường của người bản xứ."
+  },
+  "language": {
+    "vn": "Ngôn ngữ",
+    "e": "🗣️",
+    "intro": "Từ vựng nói về chính ngôn ngữ — công cụ học sâu và phân tích tinh tế."
+  },
+  "thiên nhiên": {
+    "vn": "Thiên nhiên",
+    "e": "🌿",
+    "intro": "Đắm mình trong thiên nhiên qua từ vựng về núi rừng, sông biển, cỏ cây."
+  },
+  "thể thao": {
+    "vn": "Thể thao",
+    "e": "⚽",
+    "intro": "Hòa mình vào không khí thể thao với từ vựng về các môn vận động sôi nổi."
+  },
+  "đồ vật": {
+    "vn": "Đồ vật",
+    "e": "📦",
+    "intro": "Gọi tên chính xác mọi đồ vật quanh bạn trong sinh hoạt hằng ngày."
+  },
+  "food": {
+    "vn": "Ẩm thực",
+    "e": "🍜",
+    "intro": "Từ vựng về món ăn, đồ uống và văn hóa ẩm thực."
+  },
+  "science": {
+    "vn": "Khoa học",
+    "e": "🔬",
+    "intro": "Khơi dậy óc tò mò với từ vựng khoa học từ cơ bản đến chuyên sâu."
+  },
+  "health": {
+    "vn": "Sức khỏe",
+    "e": "🏥",
+    "intro": "Từ vựng sức khỏe thiết yếu để mô tả triệu chứng và lối sống lành mạnh."
+  },
+  "thời gian": {
+    "vn": "Thời gian",
+    "e": "⏰",
+    "intro": "Diễn đạt giờ giấc, lịch trình và mốc thời gian thật chính xác."
+  },
+  "work": {
+    "vn": "Công việc",
+    "e": "🧰",
+    "intro": "Từ vựng công sở giúp bạn phỏng vấn, làm việc và thăng tiến tự tin."
+  },
+  "policy": {
+    "vn": "Chính sách",
+    "e": "📋",
+    "intro": "Hiểu các chính sách công qua hệ thống từ vựng hành chính chuẩn xác."
+  },
+  "psychology": {
+    "vn": "Tâm lý học",
+    "e": "🧠",
+    "intro": "Khám phá tâm trí con người với từ vựng tâm lý học hấp dẫn."
+  },
+  "địa điểm": {
+    "vn": "Địa điểm",
+    "e": "📍",
+    "intro": "Hỏi đường, chỉ đường và mô tả mọi địa điểm một cách dễ dàng."
+  },
+  "nature": {
+    "vn": "Thiên nhiên",
+    "e": "🌿",
+    "intro": "Cảm nhận vẻ đẹp thiên nhiên qua từ vựng về cảnh quan và sinh thái."
+  },
+  "travel": {
+    "vn": "Du lịch",
+    "e": "✈️",
+    "intro": "Vi vu khắp thế giới tự tin hơn với bộ từ vựng du lịch thiết thực."
+  },
+  "place": {
+    "vn": "Địa điểm",
+    "e": "📍",
+    "intro": "Từ vựng địa điểm giúp bạn định vị và mô tả không gian rõ ràng."
+  },
+  "literature": {
+    "vn": "Văn học",
+    "e": "📖",
+    "intro": "Thưởng thức tác phẩm văn học nguyên bản với vốn từ chuyên sâu."
+  },
+  "time": {
+    "vn": "Thời gian",
+    "e": "⏰",
+    "intro": "Nói về quá khứ, hiện tại, tương lai trôi chảy với từ vựng thời gian."
+  },
+  "tech": {
+    "vn": "Công nghệ",
+    "e": "💻",
+    "intro": "Từ vựng công nghệ thông dụng cho thời đại điện thoại và internet."
+  },
+  "number": {
+    "vn": "Số đếm",
+    "e": "🔢",
+    "intro": "Đếm số, báo giá, đọc ngày tháng chuẩn xác ngay từ những bài đầu."
+  },
+  "law": {
+    "vn": "Pháp luật",
+    "e": "⚖️",
+    "intro": "Thuật ngữ pháp lý nền tảng giúp bạn hiểu hợp đồng và quyền lợi của mình."
+  },
+  "rhetoric": {
+    "vn": "Tu từ",
+    "e": "🎙️",
+    "intro": "Nghệ thuật tu từ giúp lời nói của bạn thuyết phục và cuốn hút hơn."
+  },
+  "gia đình": {
+    "vn": "Gia đình",
+    "e": "👨‍👩‍👧‍👦",
+    "intro": "Kể về gia đình thân yêu với từ vựng về các thành viên và quan hệ họ hàng."
+  },
+  "emotion": {
+    "vn": "Cảm xúc",
+    "e": "💖",
+    "intro": "Diễn tả niềm vui, nỗi buồn và mọi cảm xúc bằng từ ngữ chuẩn xác."
+  },
+  "family": {
+    "vn": "Gia đình",
+    "e": "👨‍👩‍👧‍👦",
+    "intro": "Từ vựng gia đình ấm áp — chủ đề gần gũi nhất để bắt đầu hội thoại."
+  },
+  "culture": {
+    "vn": "Văn hóa",
+    "e": "🏮",
+    "intro": "Tìm hiểu phong tục, lễ hội và bản sắc văn hóa qua từng từ vựng."
+  },
+  "education": {
+    "vn": "Giáo dục",
+    "e": "🏫",
+    "intro": "Từ vựng giáo dục cần thiết cho môi trường học đường và du học."
+  },
+  "research": {
+    "vn": "Nghiên cứu",
+    "e": "🔍",
+    "intro": "Đọc và viết báo cáo nghiên cứu chuyên nghiệp với thuật ngữ chuẩn mực."
+  },
+  "academic_verbs": {
+    "vn": "Động từ học thuật",
+    "e": "🖋️",
+    "intro": "Bộ động từ học thuật nâng tầm bài luận và thuyết trình của bạn."
+  },
+  "home": {
+    "vn": "Nhà cửa",
+    "e": "🏠",
+    "intro": "Mô tả tổ ấm của bạn với từ vựng về phòng ốc và vật dụng gia đình."
+  },
+  "transport": {
+    "vn": "Giao thông",
+    "e": "🚗",
+    "intro": "Di chuyển khắp nơi dễ dàng với từ vựng về phương tiện và đường sá."
+  },
+  "nhà ở": {
+    "vn": "Nhà ở",
+    "e": "🏠",
+    "intro": "Từ vựng nhà ở giúp bạn thuê nhà, mô tả không gian sống tự tin."
+  },
+  "giao thông": {
+    "vn": "Giao thông",
+    "e": "🚗",
+    "intro": "Tự tin hỏi đường, bắt xe và đọc biển báo với từ vựng giao thông."
+  },
+  "animal": {
+    "vn": "Động vật",
+    "e": "🐾",
+    "intro": "Khám phá thế giới động vật kỳ thú qua những từ vựng sống động."
+  },
+  "pronoun": {
+    "vn": "Đại từ",
+    "e": "👤",
+    "intro": "Dùng đúng đại từ xưng hô — nền tảng lịch sự trong mọi cuộc hội thoại."
+  },
+  "grammar": {
+    "vn": "Ngữ pháp",
+    "e": "📐",
+    "intro": "Từ vựng ngữ pháp cốt lõi giúp bạn hiểu cấu trúc câu vững vàng."
+  },
+  "quần áo": {
+    "vn": "Quần áo",
+    "e": "👕",
+    "intro": "Mua sắm và mô tả trang phục sành điệu với từ vựng quần áo."
+  },
+  "adverb": {
+    "vn": "Trạng từ",
+    "e": "⚡",
+    "intro": "Bộ trạng từ tinh chọn giúp câu văn thêm nhịp điệu và độ chính xác."
+  },
+  "body": {
+    "vn": "Cơ thể",
+    "e": "💪",
+    "intro": "Gọi tên các bộ phận cơ thể — từ vựng thiết yếu khi khám bệnh."
+  },
+  "động vật": {
+    "vn": "Động vật",
+    "e": "🐾",
+    "intro": "Từ vựng về muông thú gần gũi, dễ nhớ và đầy thú vị cho mọi lứa tuổi."
+  },
+  "technology": {
+    "vn": "Công nghệ",
+    "e": "💻",
+    "intro": "Làm chủ thuật ngữ công nghệ từ thiết bị đến phần mềm hiện đại."
+  },
+  "shopping": {
+    "vn": "Mua sắm",
+    "e": "🛒",
+    "intro": "Trả giá, chọn hàng và thanh toán trôi chảy với từ vựng mua sắm."
+  },
+  "cơ thể": {
+    "vn": "Cơ thể",
+    "e": "💪",
+    "intro": "Hiểu rõ cơ thể mình qua từ vựng về các bộ phận và giác quan."
+  },
+  "school": {
+    "vn": "Trường học",
+    "e": "🏫",
+    "intro": "Từ vựng trường lớp quen thuộc cho học sinh, sinh viên và phụ huynh."
+  },
+  "politics": {
+    "vn": "Chính trị",
+    "e": "🏛️",
+    "intro": "Thuật ngữ chính trị giúp bạn theo dõi bầu cử và tin tức quốc tế."
+  },
+  "thức ăn": {
+    "vn": "Thức ăn",
+    "e": "🍚",
+    "intro": "Gọi món, nấu nướng và khen ngon đúng điệu với từ vựng ẩm thực."
+  },
+  "số đếm": {
+    "vn": "Số đếm",
+    "e": "🔢",
+    "intro": "Thành thạo con số để mặc cả, báo giờ và trao đổi số liệu nhanh nhạy."
+  },
+  "AI": {
+    "vn": "Trí tuệ nhân tạo",
+    "e": "🤖",
+    "intro": "Bắt nhịp kỷ nguyên AI với từ vựng về trí tuệ nhân tạo nóng hổi."
+  },
+  "diplomacy": {
+    "vn": "Ngoại giao",
+    "e": "🤝",
+    "intro": "Từ vựng ngoại giao trang trọng cho đàm phán và quan hệ quốc tế."
+  },
+  "linguistics": {
+    "vn": "Ngôn ngữ học",
+    "e": "🗨️",
+    "intro": "Đào sâu cấu trúc ngôn ngữ với thuật ngữ ngôn ngữ học chuyên ngành."
+  },
+  "noun": {
+    "vn": "Danh từ",
+    "e": "🧱",
+    "intro": "Danh từ là viên gạch đầu tiên xây nên vốn từ vựng vững chắc."
+  },
+  "connector": {
+    "vn": "Từ nối",
+    "e": "🌉",
+    "intro": "Từ nối giúp câu văn liền mạch — bí quyết viết luận điểm cao."
+  },
+  "greeting": {
+    "vn": "Chào hỏi",
+    "e": "👋",
+    "intro": "Mở đầu mọi cuộc trò chuyện ấn tượng với các mẫu chào hỏi thông dụng."
+  },
+  "collocations": {
+    "vn": "Cụm từ cố định",
+    "e": "🧩",
+    "intro": "Học cụm từ cố định để dùng từ tự nhiên đúng chuẩn người bản xứ."
+  },
+  "function": {
+    "vn": "Từ chức năng",
+    "e": "⚙️",
+    "intro": "Từ chức năng nhỏ mà có võ — xương sống của mọi câu nói đúng ngữ pháp."
+  },
+  "philosophy": {
+    "vn": "Triết học",
+    "e": "🤔",
+    "intro": "Suy ngẫm về cuộc sống qua hệ thống từ vựng triết học sâu sắc."
+  },
+  "connectors": {
+    "vn": "Từ nối",
+    "e": "🌉",
+    "intro": "Bộ từ nối đa dạng giúp lập luận của bạn chặt chẽ và logic hơn."
+  },
+  "clothing": {
+    "vn": "Quần áo",
+    "e": "👕",
+    "intro": "Từ vựng thời trang giúp bạn mô tả phong cách và mua sắm dễ dàng."
+  },
+  "thời tiết": {
+    "vn": "Thời tiết",
+    "e": "🌤️",
+    "intro": "Bàn chuyện nắng mưa — chủ đề bắt chuyện quen thuộc ở mọi nơi."
+  },
+  "color": {
+    "vn": "Màu sắc",
+    "e": "🌈",
+    "intro": "Tô điểm lời nói bằng từ vựng màu sắc rực rỡ và dễ ghi nhớ."
+  },
+  "formal": {
+    "vn": "Trang trọng",
+    "e": "🎩",
+    "intro": "Từ ngữ trang trọng cho văn bản, email và các dịp giao tiếp lịch sự."
+  },
+  "date": {
+    "vn": "Ngày tháng",
+    "e": "📅",
+    "intro": "Đọc và viết ngày tháng chuẩn xác để hẹn lịch không bao giờ nhầm."
+  },
+  "hành动": {
+    "vn": "Hành động",
+    "e": "🏃",
+    "intro": "Bổ sung nhóm từ chỉ hành động giúp câu chuyện của bạn thêm sống động."
+  },
+  "professional": {
+    "vn": "Chuyên nghiệp",
+    "e": "👔",
+    "intro": "Nâng tầm hình ảnh chuyên nghiệp với từ vựng môi trường công sở cao cấp."
+  },
+  "literary_criticism": {
+    "vn": "Phê bình văn học",
+    "e": "🧐",
+    "intro": "Phân tích và đánh giá tác phẩm sắc sảo với thuật ngữ phê bình văn học."
+  },
+  "art": {
+    "vn": "Nghệ thuật",
+    "e": "🖼️",
+    "intro": "Thưởng thức hội họa, âm nhạc và điện ảnh qua từ vựng nghệ thuật."
+  },
+  "critical_thinking": {
+    "vn": "Tư duy phản biện",
+    "e": "💡",
+    "intro": "Rèn tư duy phản biện với từ vựng lập luận, phân tích và đánh giá."
+  },
+  "basic": {
+    "vn": "Cơ bản",
+    "e": "🔰",
+    "intro": "Những từ vựng cơ bản nhất — khởi đầu vững chắc cho người mới học."
+  },
+  "ethics": {
+    "vn": "Đạo đức",
+    "e": "🕊️",
+    "intro": "Bàn về đúng sai, thiện ác với hệ từ vựng đạo đức giàu chiều sâu."
+  },
+  "cross_cultural": {
+    "vn": "Giao thoa văn hóa",
+    "e": "🌍",
+    "intro": "Kết nối các nền văn hóa với từ vựng giao tiếp đa văn hóa tinh tế."
+  },
+  "object": {
+    "vn": "Đồ vật",
+    "e": "📦",
+    "intro": "Nhận biết và gọi tên đồ vật xung quanh nhanh chóng, chính xác."
+  },
+  "rhetoric_advanced": {
+    "vn": "Tu từ nâng cao",
+    "e": "🎤",
+    "intro": "Biện pháp tu từ nâng cao cho những bài viết và diễn thuyết đỉnh cao."
+  },
+  "emotions": {
+    "vn": "Cảm xúc",
+    "e": "💖",
+    "intro": "Bộ từ vựng cảm xúc phong phú giúp bạn thấu hiểu và sẻ chia."
+  },
+  "style_writing": {
+    "vn": "Phong cách viết",
+    "e": "✒️",
+    "intro": "Định hình phong cách viết riêng với từ vựng hành văn đa dạng."
+  },
+  "money": {
+    "vn": "Tiền bạc",
+    "e": "💰",
+    "intro": "Nói chuyện giá cả, lương thưởng và đầu tư bằng từ vựng tài chính."
+  },
+  "màu sắc": {
+    "vn": "Màu sắc",
+    "e": "🌈",
+    "intro": "Phân biệt mọi sắc màu và dùng chúng miêu tả thế giới quanh bạn."
+  },
+  "register": {
+    "vn": "Sắc thái ngôn ngữ",
+    "e": "🎚️",
+    "intro": "Chọn đúng sắc thái trang trọng hay thân mật cho từng tình huống."
+  },
+  "drink": {
+    "vn": "Đồ uống",
+    "e": "🥤",
+    "intro": "Gọi đồ uống chuẩn vị từ quán cà phê đến nhà hàng sang trọng."
+  },
+  "sport": {
+    "vn": "Thể thao",
+    "e": "⚽",
+    "intro": "Cổ vũ và chơi thể thao hào hứng hơn với từ vựng các môn vận động."
+  },
+  "science_discourse": {
+    "vn": "Diễn ngôn khoa học",
+    "e": "🧪",
+    "intro": "Trình bày kết quả khoa học mạch lạc với từ vựng diễn ngôn chuyên ngành."
+  },
+  "weather": {
+    "vn": "Thời tiết",
+    "e": "🌤️",
+    "intro": "Dự báo nắng mưa và mô tả khí hậu bốn mùa thật tự nhiên."
+  },
+  "hobby": {
+    "vn": "Sở thích",
+    "e": "🎸",
+    "intro": "Chia sẻ đam mê và sở thích cá nhân để kết thêm nhiều bạn mới."
+  },
+  "house": {
+    "vn": "Nhà cửa",
+    "e": "🏠",
+    "intro": "Từ vựng về ngôi nhà giúp bạn mô tả không gian sống thân thương."
+  },
+  "đồ uống": {
+    "vn": "Đồ uống",
+    "e": "🥤",
+    "intro": "Từ trà sữa đến cà phê — gọi món đồ uống yêu thích thật sành điệu."
+  },
+  "event": {
+    "vn": "Sự kiện",
+    "e": "🎉",
+    "intro": "Kể về lễ hội, tiệc tùng và các sự kiện đáng nhớ trong đời."
+  },
+  "pháp luật": {
+    "vn": "Pháp luật",
+    "e": "⚖️",
+    "intro": "Nắm từ vựng pháp luật để hiểu quy định và bảo vệ quyền lợi bản thân."
+  },
+  "conjunction": {
+    "vn": "Liên từ",
+    "e": "🪢",
+    "intro": "Liên từ kết nối các vế câu giúp diễn đạt ý tưởng mạch lạc, trôi chảy."
+  },
+  "media": {
+    "vn": "Truyền thông",
+    "e": "📺",
+    "intro": "Từ vựng báo chí, truyền hình và mạng xã hội trong thời đại thông tin."
+  },
+  "question": {
+    "vn": "Câu hỏi",
+    "e": "❓",
+    "intro": "Đặt câu hỏi đúng cách — kỹ năng vàng để duy trì mọi cuộc trò chuyện."
+  },
+  "modal": {
+    "vn": "Động từ tình thái",
+    "e": "🗯️",
+    "intro": "Động từ tình thái giúp bạn diễn đạt khả năng, nghĩa vụ và lời khuyên."
+  },
+  "hành動": {
+    "vn": "Hành động",
+    "e": "🏃",
+    "intro": "Nhóm từ hành động bổ trợ giúp bạn mô tả thao tác chi tiết hơn."
+  },
+  "学thuật": {
+    "vn": "Học thuật",
+    "e": "🎓",
+    "intro": "Từ vựng học thuật bổ sung cho bài đọc và nghiên cứu chuyên sâu."
+  },
+  "tínhođ": {
+    "vn": "Tính từ",
+    "e": "🎨",
+    "intro": "Nhóm tính từ bổ sung làm giàu thêm khả năng miêu tả của bạn."
+  },
+  "numeral": {
+    "vn": "Số từ",
+    "e": "🔢",
+    "intro": "Số từ và lượng từ giúp bạn đếm và định lượng chính xác mọi thứ."
+  },
+  "tính从": {
+    "vn": "Tính từ",
+    "e": "🎨",
+    "intro": "Tính từ mở rộng giúp lời miêu tả của bạn thêm tinh tế, đa dạng."
+  },
+  "tínhođư": {
+    "vn": "Tính từ",
+    "e": "🎨",
+    "intro": "Bổ sung tính từ nâng cao để diễn đạt sắc thái thật chuẩn xác."
+  },
+  "môi trường": {
+    "vn": "Môi trường",
+    "e": "🌱",
+    "intro": "Từ vựng môi trường giúp bạn bàn về thiên nhiên và lối sống xanh."
+  },
+  "tính đặc điểm": {
+    "vn": "Tính từ đặc điểm",
+    "e": "🎨",
+    "intro": "Tính từ chỉ đặc điểm giúp bạn khắc họa người và vật rõ nét."
+  },
+  "default": {
+    "vn": "Tổng hợp",
+    "e": "📚",
+    "intro": "Nhóm từ vựng tổng hợp giúp mở rộng vốn từ của bạn."
+  }
+}

@@ -1,0 +1,2355 @@
+{
+  "englishB1Lessons": [
+    {
+      "title": "Lesson 1: Travel & Transport",
+      "type": "vocabulary",
+      "xp": 25,
+      "min": 12,
+      "order": 1,
+      "content": {
+        "image": "/images/lessons/travel.svg",
+        "intro": "Bài học này giúp bạn nói về chuyến đi, phương tiện giao thông và lập kế hoạch du lịch bằng tiếng Anh ở trình độ B1.",
+        "vocabulary": [
+          {
+            "word": "Journey",
+            "pinyin": "/ˈdʒɜːrni/",
+            "meaning": "Chuyến đi / Hành trình",
+            "example": "The journey from Hanoi to Ho Chi Minh City takes two hours by plane.",
+            "example_vi": "Hành trình từ Hà Nội đến TP.HCM mất hai tiếng bằng máy bay.",
+            "tags": [
+              "travel",
+              "transport"
+            ]
+          },
+          {
+            "word": "Destination",
+            "pinyin": "/ˌdestɪˈneɪʃn/",
+            "meaning": "Điểm đến",
+            "example": "Paris is a popular tourist destination.",
+            "example_vi": "Paris là điểm đến du lịch nổi tiếng.",
+            "tags": [
+              "travel"
+            ]
+          },
+          {
+            "word": "Itinerary",
+            "pinyin": "/aɪˈtɪnəreri/",
+            "meaning": "Lịch trình chuyến đi",
+            "example": "We planned a detailed itinerary for our two-week trip.",
+            "example_vi": "Chúng tôi lập lịch trình chi tiết cho chuyến đi hai tuần.",
+            "tags": [
+              "travel",
+              "planning"
+            ]
+          },
+          {
+            "word": "Accommodation",
+            "pinyin": "/əˌkɒməˈdeɪʃn/",
+            "meaning": "Chỗ ở / Nơi lưu trú",
+            "example": "We booked accommodation near the city centre.",
+            "example_vi": "Chúng tôi đặt chỗ ở gần trung tâm thành phố.",
+            "tags": [
+              "travel",
+              "hotel"
+            ]
+          },
+          {
+            "word": "Departure",
+            "pinyin": "/dɪˈpɑːrtʃər/",
+            "meaning": "Sự khởi hành / Chuyến bay đi",
+            "example": "The departure gate is at the far end of the terminal.",
+            "example_vi": "Cổng khởi hành ở cuối nhà ga.",
+            "tags": [
+              "travel",
+              "airport"
+            ]
+          },
+          {
+            "word": "Boarding pass",
+            "pinyin": "/ˈbɔːrdɪŋ pæs/",
+            "meaning": "Thẻ lên máy bay",
+            "example": "Please have your boarding pass ready before entering the gate.",
+            "example_vi": "Vui lòng chuẩn bị thẻ lên máy bay trước khi vào cổng.",
+            "tags": [
+              "travel",
+              "airport"
+            ]
+          },
+          {
+            "word": "Customs",
+            "pinyin": "/ˈkʌstəmz/",
+            "meaning": "Hải quan",
+            "example": "We had to declare our goods at customs.",
+            "example_vi": "Chúng tôi phải khai báo hàng hóa tại hải quan.",
+            "tags": [
+              "travel",
+              "airport"
+            ]
+          },
+          {
+            "word": "Commute",
+            "pinyin": "/kəˈmjuːt/",
+            "meaning": "Di chuyển hàng ngày (thường đi làm)",
+            "example": "My daily commute to work takes about forty minutes.",
+            "example_vi": "Hành trình đi làm hàng ngày của tôi mất khoảng bốn mươi phút.",
+            "tags": [
+              "transport",
+              "daily-life"
+            ]
+          },
+          {
+            "word": "Fare",
+            "pinyin": "/feər/",
+            "meaning": "Giá vé (phương tiện công cộng)",
+            "example": "The bus fare has increased since last year.",
+            "example_vi": "Giá vé xe buýt đã tăng so với năm ngoái.",
+            "tags": [
+              "transport",
+              "money"
+            ]
+          },
+          {
+            "word": "Turbulence",
+            "pinyin": "/ˈtɜːrbjələns/",
+            "meaning": "Nhiễu loạn không khí (trên máy bay)",
+            "example": "The pilot warned passengers about turbulence ahead.",
+            "example_vi": "Phi công cảnh báo hành khách về nhiễu loạn phía trước.",
+            "tags": [
+              "travel",
+              "aviation"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Thì hiện tại hoàn thành (Present Perfect) — diễn tả kinh nghiệm du lịch",
+            "explanation": "Dùng \"have/has + past participle\" để nói về những trải nghiệm du lịch trong quá khứ mà không xác định thời gian cụ thể, hoặc những việc xảy ra và còn liên quan đến hiện tại.",
+            "examples": [
+              "I have visited five countries so far. = Tôi đã thăm năm quốc gia cho đến nay.",
+              "She has never missed a flight before. = Cô ấy chưa bao giờ lỡ chuyến bay trước đây."
+            ]
+          },
+          {
+            "title": "Câu điều kiện loại 1 (First Conditional) — kế hoạch du lịch",
+            "explanation": "Dùng \"If + simple present, will + base verb\" để nói về kế hoạch hoặc dự định trong tương lai có khả năng xảy ra cao.",
+            "examples": [
+              "If we arrive early, we will check in at the hotel first. = Nếu chúng ta đến sớm, chúng ta sẽ nhận phòng khách sạn trước.",
+              "If the flight is delayed, we will miss the connection. = Nếu chuyến bay bị trễ, chúng ta sẽ lỡ chuyến bay nối tiếp."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"Itinerary\" có nghĩa là gì?",
+            "options": [
+              "Hành lý",
+              "Lịch trình chuyến đi",
+              "Hộ chiếu",
+              "Thị thực"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Chọn câu đúng với thì hiện tại hoàn thành:",
+            "options": [
+              "I visit Paris last year.",
+              "I have visited Paris last year.",
+              "I have visited Paris before.",
+              "I visited Paris before."
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Journey",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Điểm đến",
+              "Hành trình",
+              "Hải quan",
+              "Giá vé"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Accommodation",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Khởi hành",
+              "Nhiễu loạn",
+              "Chỗ ở",
+              "Thẻ lên máy bay"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: \"The flight ___ was announced an hour before boarding.\"",
+            "options": [
+              "departure",
+              "commute",
+              "fare",
+              "turbulence"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là \"Hải quan\" (tại sân bay):",
+            "options": [
+              "Customs"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 2: Health & Lifestyle",
+      "type": "vocabulary",
+      "xp": 25,
+      "min": 12,
+      "order": 2,
+      "content": {
+        "image": "/images/lessons/health.svg",
+        "intro": "Bài học này giúp bạn nói về sức khỏe, triệu chứng bệnh và thói quen sống lành mạnh bằng tiếng Anh.",
+        "vocabulary": [
+          {
+            "word": "Symptom",
+            "pinyin": "/ˈsɪmptəm/",
+            "meaning": "Triệu chứng (bệnh)",
+            "example": "Fever and cough are common symptoms of a cold.",
+            "example_vi": "Sốt và ho là những triệu chứng phổ biến của cảm lạnh.",
+            "tags": [
+              "health",
+              "medicine"
+            ]
+          },
+          {
+            "word": "Diagnosis",
+            "pinyin": "/ˌdaɪəɡˈnoʊsɪs/",
+            "meaning": "Chẩn đoán bệnh",
+            "example": "The doctor made a diagnosis after examining the patient.",
+            "example_vi": "Bác sĩ đưa ra chẩn đoán sau khi khám bệnh nhân.",
+            "tags": [
+              "health",
+              "medicine"
+            ]
+          },
+          {
+            "word": "Prescription",
+            "pinyin": "/prɪˈskrɪpʃn/",
+            "meaning": "Đơn thuốc",
+            "example": "You need a prescription to buy antibiotics.",
+            "example_vi": "Bạn cần đơn thuốc để mua kháng sinh.",
+            "tags": [
+              "health",
+              "medicine"
+            ]
+          },
+          {
+            "word": "Recovery",
+            "pinyin": "/rɪˈkʌvəri/",
+            "meaning": "Sự hồi phục (sức khỏe)",
+            "example": "Her recovery after surgery was faster than expected.",
+            "example_vi": "Sự hồi phục của cô ấy sau phẫu thuật nhanh hơn dự kiến.",
+            "tags": [
+              "health"
+            ]
+          },
+          {
+            "word": "Nutrition",
+            "pinyin": "/njuːˈtrɪʃn/",
+            "meaning": "Dinh dưỡng",
+            "example": "Good nutrition is essential for a healthy body.",
+            "example_vi": "Dinh dưỡng tốt là điều cần thiết cho cơ thể khỏe mạnh.",
+            "tags": [
+              "health",
+              "lifestyle"
+            ]
+          },
+          {
+            "word": "Immune system",
+            "pinyin": "/ɪˈmjuːn ˈsɪstəm/",
+            "meaning": "Hệ miễn dịch",
+            "example": "Regular exercise helps strengthen the immune system.",
+            "example_vi": "Tập thể dục thường xuyên giúp tăng cường hệ miễn dịch.",
+            "tags": [
+              "health",
+              "biology"
+            ]
+          },
+          {
+            "word": "Allergic",
+            "pinyin": "/əˈlɜːrdʒɪk/",
+            "meaning": "Dị ứng (tính từ)",
+            "example": "She is allergic to peanuts and must avoid them.",
+            "example_vi": "Cô ấy bị dị ứng với đậu phộng và phải tránh ăn chúng.",
+            "tags": [
+              "health"
+            ]
+          },
+          {
+            "word": "Chronic",
+            "pinyin": "/ˈkrɒnɪk/",
+            "meaning": "Mãn tính / Kéo dài",
+            "example": "He has been dealing with chronic back pain for years.",
+            "example_vi": "Anh ấy đã bị đau lưng mãn tính trong nhiều năm.",
+            "tags": [
+              "health",
+              "medicine"
+            ]
+          },
+          {
+            "word": "Physiotherapy",
+            "pinyin": "/ˌfɪziəʊˈθerəpi/",
+            "meaning": "Vật lý trị liệu",
+            "example": "After his accident, he needed several months of physiotherapy.",
+            "example_vi": "Sau tai nạn, anh ấy cần vài tháng vật lý trị liệu.",
+            "tags": [
+              "health",
+              "treatment"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Should / Ought to — Lời khuyên về sức khỏe",
+            "explanation": "Dùng \"should\" hoặc \"ought to\" + động từ nguyên thể để đưa ra lời khuyên. \"Should\" thông dụng hơn trong văn nói.",
+            "examples": [
+              "You should drink at least eight glasses of water a day. = Bạn nên uống ít nhất tám ly nước mỗi ngày.",
+              "She ought to see a doctor about those symptoms. = Cô ấy nên đi khám bác sĩ về những triệu chứng đó."
+            ]
+          },
+          {
+            "title": "Câu bị động (Passive Voice) — Quy trình y tế",
+            "explanation": "Dùng \"be + past participle\" để nhấn mạnh vào hành động hoặc kết quả thay vì người thực hiện. Thường gặp trong các văn bản y tế.",
+            "examples": [
+              "The patient was examined by the specialist. = Bệnh nhân được khám bởi chuyên gia.",
+              "A new treatment has been developed by researchers. = Một phương pháp điều trị mới đã được các nhà nghiên cứu phát triển."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"Prescription\" trong tiếng Việt có nghĩa là gì?",
+            "options": [
+              "Triệu chứng",
+              "Đơn thuốc",
+              "Chẩn đoán",
+              "Hồi phục"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Câu nào dùng \"should\" đúng ngữ pháp để đưa ra lời khuyên?",
+            "options": [
+              "You should to exercise more.",
+              "You should exercising more.",
+              "You should exercise more.",
+              "You should exercised more."
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Symptom",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Hồi phục",
+              "Triệu chứng",
+              "Dinh dưỡng",
+              "Dị ứng"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Chronic",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Cấp tính",
+              "Mãn tính",
+              "Nhẹ",
+              "Nguy hiểm"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: \"A healthy diet and regular exercise boost your ___ system.\"",
+            "options": [
+              "immune",
+              "chronic",
+              "allergic",
+              "prescription"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là \"Dinh dưỡng\":",
+            "options": [
+              "Nutrition"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 3: Work & Career",
+      "type": "vocabulary",
+      "xp": 25,
+      "min": 12,
+      "order": 3,
+      "content": {
+        "image": "/images/lessons/work.svg",
+        "intro": "Bài học này giúp bạn tự tin nói về công việc, phỏng vấn và môi trường làm việc bằng tiếng Anh.",
+        "vocabulary": [
+          {
+            "word": "Interview",
+            "pinyin": "/ˈɪntərvjuː/",
+            "meaning": "Phỏng vấn",
+            "example": "She prepared carefully for the job interview.",
+            "example_vi": "Cô ấy chuẩn bị kỹ lưỡng cho buổi phỏng vấn xin việc.",
+            "tags": [
+              "work",
+              "career"
+            ]
+          },
+          {
+            "word": "Résumé",
+            "pinyin": "/ˈrezəmeɪ/",
+            "meaning": "Sơ yếu lý lịch / CV",
+            "example": "Please send your résumé to the HR department.",
+            "example_vi": "Vui lòng gửi sơ yếu lý lịch đến phòng nhân sự.",
+            "tags": [
+              "work",
+              "career"
+            ]
+          },
+          {
+            "word": "Colleague",
+            "pinyin": "/ˈkɒliːɡ/",
+            "meaning": "Đồng nghiệp",
+            "example": "My colleague helped me finish the report on time.",
+            "example_vi": "Đồng nghiệp của tôi đã giúp tôi hoàn thành báo cáo đúng hạn.",
+            "tags": [
+              "work",
+              "people"
+            ]
+          },
+          {
+            "word": "Promotion",
+            "pinyin": "/prəˈmoʊʃn/",
+            "meaning": "Sự thăng chức",
+            "example": "He received a promotion after two years of excellent work.",
+            "example_vi": "Anh ấy được thăng chức sau hai năm làm việc xuất sắc.",
+            "tags": [
+              "work",
+              "career"
+            ]
+          },
+          {
+            "word": "Deadline",
+            "pinyin": "/ˈdedlaɪn/",
+            "meaning": "Hạn chót / Thời hạn",
+            "example": "We need to submit the project before the deadline on Friday.",
+            "example_vi": "Chúng ta cần nộp dự án trước hạn chót vào thứ Sáu.",
+            "tags": [
+              "work",
+              "time"
+            ]
+          },
+          {
+            "word": "Salary",
+            "pinyin": "/ˈsæləri/",
+            "meaning": "Mức lương (theo tháng hoặc năm)",
+            "example": "The starting salary for this position is very competitive.",
+            "example_vi": "Mức lương khởi điểm cho vị trí này rất cạnh tranh.",
+            "tags": [
+              "work",
+              "money"
+            ]
+          },
+          {
+            "word": "Teamwork",
+            "pinyin": "/ˈtiːmwɜːrk/",
+            "meaning": "Làm việc nhóm",
+            "example": "Good teamwork is essential for completing complex projects.",
+            "example_vi": "Làm việc nhóm tốt là điều cần thiết để hoàn thành các dự án phức tạp.",
+            "tags": [
+              "work",
+              "skills"
+            ]
+          },
+          {
+            "word": "Negotiation",
+            "pinyin": "/nɪˌɡoʊʃiˈeɪʃn/",
+            "meaning": "Đàm phán",
+            "example": "She handled the salary negotiation very professionally.",
+            "example_vi": "Cô ấy xử lý việc đàm phán lương rất chuyên nghiệp.",
+            "tags": [
+              "work",
+              "business"
+            ]
+          },
+          {
+            "word": "Feedback",
+            "pinyin": "/ˈfiːdbæk/",
+            "meaning": "Phản hồi / Nhận xét",
+            "example": "The manager gave constructive feedback on our presentation.",
+            "example_vi": "Người quản lý đưa ra phản hồi mang tính xây dựng về bài thuyết trình của chúng tôi.",
+            "tags": [
+              "work",
+              "communication"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Thì quá khứ hoàn thành (Past Perfect) — Kinh nghiệm làm việc",
+            "explanation": "Dùng \"had + past participle\" để diễn tả một hành động xảy ra trước một hành động khác trong quá khứ. Thường gặp khi kể về kinh nghiệm hoặc tiến trình sự việc.",
+            "examples": [
+              "By the time she got the promotion, she had worked there for five years. = Khi cô ấy được thăng chức, cô ấy đã làm việc ở đó được năm năm.",
+              "He had never managed a team before he got the new job. = Anh ấy chưa bao giờ quản lý một nhóm trước khi anh ấy có công việc mới."
+            ]
+          },
+          {
+            "title": "Câu điều kiện loại 2 (Second Conditional) — Tình huống giả định ở nơi làm việc",
+            "explanation": "Dùng \"If + simple past, would + base verb\" để nói về những tình huống không có thật hoặc khó xảy ra ở hiện tại/tương lai.",
+            "examples": [
+              "If I had more experience, I would apply for the manager position. = Nếu tôi có nhiều kinh nghiệm hơn, tôi sẽ ứng tuyển vào vị trí quản lý.",
+              "If our team worked better together, we would meet every deadline. = Nếu nhóm chúng ta làm việc ăn ý hơn, chúng ta sẽ đáp ứng mọi hạn chót."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"Deadline\" trong tiếng Việt có nghĩa là gì?",
+            "options": [
+              "Lương thưởng",
+              "Hạn chót",
+              "Thăng chức",
+              "Đồng nghiệp"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Câu nào đúng với thì quá khứ hoàn thành?",
+            "options": [
+              "She worked there for five years before she got promoted.",
+              "She had worked there for five years before she got promoted.",
+              "She has worked there for five years before she got promoted.",
+              "She was working there for five years before she got promoted."
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Colleague",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Sếp",
+              "Khách hàng",
+              "Đồng nghiệp",
+              "Nhân viên mới"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Feedback",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Hướng dẫn",
+              "Phản hồi",
+              "Kế hoạch",
+              "Báo cáo"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: \"Strong ___ skills are valued in almost every workplace.\"",
+            "options": [
+              "teamwork",
+              "salary",
+              "deadline",
+              "interview"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là \"Đàm phán\":",
+            "options": [
+              "Negotiation"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 4: Technology & Internet",
+      "type": "vocabulary",
+      "xp": 25,
+      "min": 12,
+      "order": 4,
+      "content": {
+        "image": "/images/lessons/technology.svg",
+        "intro": "Bài học này giúp bạn nói về các thiết bị công nghệ, mạng xã hội và cuộc sống số bằng tiếng Anh.",
+        "vocabulary": [
+          {
+            "word": "Device",
+            "pinyin": "/dɪˈvaɪs/",
+            "meaning": "Thiết bị (điện tử)",
+            "example": "I use several devices to stay connected throughout the day.",
+            "example_vi": "Tôi sử dụng nhiều thiết bị để luôn kết nối trong ngày.",
+            "tags": [
+              "technology"
+            ]
+          },
+          {
+            "word": "Application",
+            "pinyin": "/ˌæplɪˈkeɪʃn/",
+            "meaning": "Ứng dụng (app)",
+            "example": "This application allows you to edit photos on your phone.",
+            "example_vi": "Ứng dụng này cho phép bạn chỉnh sửa ảnh trên điện thoại.",
+            "tags": [
+              "technology",
+              "software"
+            ]
+          },
+          {
+            "word": "Bandwidth",
+            "pinyin": "/ˈbændwɪdθ/",
+            "meaning": "Băng thông (internet)",
+            "example": "Streaming video requires a lot of bandwidth.",
+            "example_vi": "Xem video trực tuyến đòi hỏi nhiều băng thông.",
+            "tags": [
+              "technology",
+              "internet"
+            ]
+          },
+          {
+            "word": "Update",
+            "pinyin": "/ˈʌpdeɪt/",
+            "meaning": "Cập nhật (phần mềm)",
+            "example": "You should install the latest software update for better security.",
+            "example_vi": "Bạn nên cài bản cập nhật phần mềm mới nhất để bảo mật tốt hơn.",
+            "tags": [
+              "technology",
+              "software"
+            ]
+          },
+          {
+            "word": "Privacy",
+            "pinyin": "/ˈprɪvəsi/",
+            "meaning": "Quyền riêng tư / Sự bảo mật",
+            "example": "Protecting your online privacy is very important.",
+            "example_vi": "Bảo vệ quyền riêng tư trực tuyến của bạn rất quan trọng.",
+            "tags": [
+              "internet",
+              "security"
+            ]
+          },
+          {
+            "word": "Cyberbullying",
+            "pinyin": "/ˈsaɪbərbʊliɪŋ/",
+            "meaning": "Bắt nạt trên mạng",
+            "example": "Schools are introducing programs to prevent cyberbullying.",
+            "example_vi": "Các trường học đang triển khai chương trình ngăn ngừa bắt nạt trên mạng.",
+            "tags": [
+              "internet",
+              "social-issues"
+            ]
+          },
+          {
+            "word": "Wireless",
+            "pinyin": "/ˈwaɪərləs/",
+            "meaning": "Không dây",
+            "example": "The office has a fast wireless internet connection.",
+            "example_vi": "Văn phòng có kết nối internet không dây nhanh.",
+            "tags": [
+              "technology",
+              "internet"
+            ]
+          },
+          {
+            "word": "Algorithm",
+            "pinyin": "/ˈælɡərɪðəm/",
+            "meaning": "Thuật toán",
+            "example": "Social media algorithms decide what content you see.",
+            "example_vi": "Thuật toán mạng xã hội quyết định nội dung bạn nhìn thấy.",
+            "tags": [
+              "technology",
+              "software"
+            ]
+          },
+          {
+            "word": "Streaming",
+            "pinyin": "/ˈstriːmɪŋ/",
+            "meaning": "Phát trực tuyến",
+            "example": "Streaming services have replaced traditional TV for many people.",
+            "example_vi": "Dịch vụ phát trực tuyến đã thay thế truyền hình truyền thống với nhiều người.",
+            "tags": [
+              "technology",
+              "entertainment"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Động từ khuyết thiếu thể hiện khả năng: Can / Could / Be able to",
+            "explanation": "\"Can\" diễn tả khả năng ở hiện tại; \"could\" diễn tả khả năng trong quá khứ hoặc có tính lịch sự hơn; \"be able to\" dùng được ở mọi thì.",
+            "examples": [
+              "I can download this app for free. = Tôi có thể tải ứng dụng này miễn phí.",
+              "Ten years ago, we could not stream movies on our phones. = Mười năm trước, chúng ta không thể xem phim trực tuyến trên điện thoại."
+            ]
+          },
+          {
+            "title": "Mệnh đề quan hệ (Relative Clauses) — Định nghĩa công nghệ",
+            "explanation": "Dùng \"which\", \"that\", \"who\", \"where\" để thêm thông tin về danh từ đứng trước. \"Which/that\" cho vật; \"who\" cho người; \"where\" cho nơi chốn.",
+            "examples": [
+              "An algorithm is a set of rules that a computer follows. = Thuật toán là tập hợp các quy tắc mà máy tính tuân theo.",
+              "She is the engineer who designed this application. = Cô ấy là kỹ sư đã thiết kế ứng dụng này."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"Algorithm\" có nghĩa là gì trong tiếng Việt?",
+            "options": [
+              "Ứng dụng",
+              "Băng thông",
+              "Thuật toán",
+              "Thiết bị"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Câu nào dùng mệnh đề quan hệ đúng?",
+            "options": [
+              "A device which is portable that is very useful.",
+              "A device that you carry everywhere is very useful.",
+              "A device who is portable is very useful.",
+              "A device where you carry is very useful."
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Privacy",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Bảo mật / Quyền riêng tư",
+              "Phần mềm",
+              "Mạng lưới",
+              "Cập nhật"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "Streaming",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Tải xuống",
+              "Tải lên",
+              "Phát trực tuyến",
+              "Lưu trữ"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: \"You should update your ___ settings to protect your personal data.\"",
+            "options": [
+              "privacy",
+              "bandwidth",
+              "wireless",
+              "device"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là \"Không dây\":",
+            "options": [
+              "Wireless"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 5: News & Current Events",
+      "type": "vocabulary",
+      "xp": 25,
+      "min": 12,
+      "order": 5,
+      "content": {
+        "image": "/images/lessons/generic.svg",
+        "intro": "Bài học này giúp bạn đọc và thảo luận về tin tức, bài báo và các sự kiện thế giới bằng tiếng Anh.",
+        "vocabulary": [
+          {
+            "word": "Headline",
+            "pinyin": "/ˈhedlaɪn/",
+            "meaning": "Tiêu đề tin tức / Hàng tít lớn",
+            "example": "The earthquake made the headlines around the world.",
+            "example_vi": "Trận động đất xuất hiện trên các tiêu đề tin tức khắp thế giới.",
+            "tags": [
+              "news",
+              "media"
+            ]
+          },
+          {
+            "word": "Reporter",
+            "pinyin": "/rɪˈpɔːrtər/",
+            "meaning": "Phóng viên",
+            "example": "The reporter interviewed witnesses at the scene.",
+            "example_vi": "Phóng viên đã phỏng vấn các nhân chứng tại hiện trường.",
+            "tags": [
+              "news",
+              "media",
+              "people"
+            ]
+          },
+          {
+            "word": "Editorial",
+            "pinyin": "/ˌedɪˈtɔːriəl/",
+            "meaning": "Bài xã luận / Liên quan đến ban biên tập",
+            "example": "The editorial criticized the government's new policy.",
+            "example_vi": "Bài xã luận chỉ trích chính sách mới của chính phủ.",
+            "tags": [
+              "news",
+              "media"
+            ]
+          },
+          {
+            "word": "Broadcast",
+            "pinyin": "/ˈbrɔːdkæst/",
+            "meaning": "Phát sóng / Chương trình phát thanh-truyền hình",
+            "example": "The press conference was broadcast live on television.",
+            "example_vi": "Cuộc họp báo được phát sóng trực tiếp trên truyền hình.",
+            "tags": [
+              "news",
+              "media"
+            ]
+          },
+          {
+            "word": "Eyewitness",
+            "pinyin": "/ˈaɪwɪtnəs/",
+            "meaning": "Nhân chứng trực tiếp",
+            "example": "The eyewitness described what she had seen to the police.",
+            "example_vi": "Nhân chứng trực tiếp mô tả những gì cô ấy đã thấy với cảnh sát.",
+            "tags": [
+              "news",
+              "events"
+            ]
+          },
+          {
+            "word": "Bias",
+            "pinyin": "/ˈbaɪəs/",
+            "meaning": "Thành kiến / Sự thiên vị",
+            "example": "Readers should be aware of media bias when reading news.",
+            "example_vi": "Độc giả cần ý thức được sự thiên vị của báo chí khi đọc tin tức.",
+            "tags": [
+              "news",
+              "critical-thinking"
+            ]
+          },
+          {
+            "word": "Censorship",
+            "pinyin": "/ˈsensərʃɪp/",
+            "meaning": "Kiểm duyệt",
+            "example": "Censorship of the press is a controversial issue.",
+            "example_vi": "Kiểm duyệt báo chí là một vấn đề gây tranh cãi.",
+            "tags": [
+              "news",
+              "society"
+            ]
+          },
+          {
+            "word": "Coverage",
+            "pinyin": "/ˈkʌvərɪdʒ/",
+            "meaning": "Sự đưa tin / Phạm vi phủ sóng",
+            "example": "The event received extensive media coverage.",
+            "example_vi": "Sự kiện nhận được sự đưa tin rộng rãi từ truyền thông.",
+            "tags": [
+              "news",
+              "media"
+            ]
+          },
+          {
+            "word": "Controversy",
+            "pinyin": "/ˈkɒntrəvɜːrsi/",
+            "meaning": "Tranh cãi / Sự gây tranh luận",
+            "example": "The politician's speech caused considerable controversy.",
+            "example_vi": "Bài phát biểu của chính trị gia gây ra tranh cãi đáng kể.",
+            "tags": [
+              "news",
+              "society"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Câu tường thuật (Reported Speech) — Trích dẫn lời nói trong tin tức",
+            "explanation": "Khi tường thuật lại lời nói của người khác, động từ thường lùi về một thì. Ví dụ: \"is\" → \"was\", \"will\" → \"would\", \"can\" → \"could\".",
+            "examples": [
+              "The reporter said the president had signed the agreement. = Phóng viên nói rằng tổng thống đã ký thỏa thuận.",
+              "She told the audience that the conference would be held the following week. = Cô ấy nói với khán giả rằng hội nghị sẽ được tổ chức vào tuần tiếp theo."
+            ]
+          },
+          {
+            "title": "Câu bị động trong văn báo chí (Passive in News Reporting)",
+            "explanation": "Báo chí thường dùng câu bị động để nhấn mạnh sự kiện hơn là người thực hiện, hoặc khi người thực hiện không quan trọng hoặc chưa biết.",
+            "examples": [
+              "Three people were injured in the accident. = Ba người bị thương trong vụ tai nạn.",
+              "A new law has been passed by the parliament. = Một đạo luật mới đã được quốc hội thông qua."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"Coverage\" trong ngữ cảnh báo chí có nghĩa là gì?",
+            "options": [
+              "Bìa tạp chí",
+              "Sự đưa tin",
+              "Tiêu đề",
+              "Bình luận"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Câu tường thuật nào đúng từ câu gốc \"I will attend the conference\"?",
+            "options": [
+              "He said he will attend the conference.",
+              "He said he would attend the conference.",
+              "He said he had attended the conference.",
+              "He said he attends the conference."
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Headline",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Phóng viên",
+              "Tiêu đề tin tức",
+              "Kiểm duyệt",
+              "Nhân chứng"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Bias",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Sự khách quan",
+              "Sự đưa tin",
+              "Thành kiến",
+              "Tranh cãi"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: \"The story caused ___ because many people disagreed with the decision.\"",
+            "options": [
+              "controversy",
+              "broadcast",
+              "eyewitness",
+              "headline"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là \"Kiểm duyệt\":",
+            "options": [
+              "Censorship"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 6: Opinions & Debates",
+      "type": "vocabulary",
+      "xp": 25,
+      "min": 12,
+      "order": 6,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Bài học này giúp bạn diễn đạt quan điểm, đồng ý và không đồng ý một cách lịch sự bằng tiếng Anh.",
+        "vocabulary": [
+          {
+            "word": "Opinion",
+            "pinyin": "/əˈpɪnjən/",
+            "meaning": "Ý kiến / Quan điểm",
+            "example": "In my opinion, public transport should be free.",
+            "example_vi": "Theo ý kiến của tôi, giao thông công cộng nên được miễn phí.",
+            "tags": [
+              "discussion",
+              "language"
+            ]
+          },
+          {
+            "word": "Argument",
+            "pinyin": "/ˈɑːrɡjumənt/",
+            "meaning": "Lập luận / Tranh luận",
+            "example": "She made a strong argument in favour of renewable energy.",
+            "example_vi": "Cô ấy đưa ra lập luận thuyết phục ủng hộ năng lượng tái tạo.",
+            "tags": [
+              "discussion",
+              "logic"
+            ]
+          },
+          {
+            "word": "Perspective",
+            "pinyin": "/pərˈspektɪv/",
+            "meaning": "Quan điểm / Góc nhìn",
+            "example": "We need to consider the issue from different perspectives.",
+            "example_vi": "Chúng ta cần xem xét vấn đề từ các góc nhìn khác nhau.",
+            "tags": [
+              "discussion",
+              "thinking"
+            ]
+          },
+          {
+            "word": "Counterargument",
+            "pinyin": "/ˈkaʊntərɑːrɡjumənt/",
+            "meaning": "Lập luận phản bác",
+            "example": "A good essay should address the main counterargument.",
+            "example_vi": "Một bài luận tốt nên đề cập đến lập luận phản bác chính.",
+            "tags": [
+              "discussion",
+              "writing"
+            ]
+          },
+          {
+            "word": "Persuade",
+            "pinyin": "/pərˈsweɪd/",
+            "meaning": "Thuyết phục",
+            "example": "The speaker tried to persuade the audience to change their views.",
+            "example_vi": "Diễn giả cố gắng thuyết phục khán giả thay đổi quan điểm.",
+            "tags": [
+              "discussion",
+              "communication"
+            ]
+          },
+          {
+            "word": "Concede",
+            "pinyin": "/kənˈsiːd/",
+            "meaning": "Nhượng bộ / Thừa nhận (một phần)",
+            "example": "I concede that there are some benefits to this plan.",
+            "example_vi": "Tôi thừa nhận rằng kế hoạch này có một số lợi ích.",
+            "tags": [
+              "discussion",
+              "language"
+            ]
+          },
+          {
+            "word": "Controversial",
+            "pinyin": "/ˌkɒntrəˈvɜːrʃl/",
+            "meaning": "Gây tranh cãi (tính từ)",
+            "example": "The new law is highly controversial among citizens.",
+            "example_vi": "Đạo luật mới gây tranh cãi nhiều trong giới công dân.",
+            "tags": [
+              "discussion",
+              "society"
+            ]
+          },
+          {
+            "word": "Compromise",
+            "pinyin": "/ˈkɒmprəmaɪz/",
+            "meaning": "Sự thỏa hiệp / Tìm giải pháp trung gian",
+            "example": "Both sides agreed to a compromise after hours of negotiation.",
+            "example_vi": "Cả hai bên đồng ý thỏa hiệp sau nhiều giờ đàm phán.",
+            "tags": [
+              "discussion",
+              "conflict"
+            ]
+          },
+          {
+            "word": "Impartial",
+            "pinyin": "/ɪmˈpɑːrʃl/",
+            "meaning": "Công bằng / Không thiên vị",
+            "example": "A good judge must remain completely impartial.",
+            "example_vi": "Một thẩm phán giỏi phải hoàn toàn công bằng.",
+            "tags": [
+              "discussion",
+              "ethics"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Các cụm từ diễn đạt ý kiến và phản bác lịch sự",
+            "explanation": "Dùng các cụm từ như \"I think/believe/feel that...\", \"In my opinion...\", \"I see your point, but...\", \"I disagree because...\" để diễn đạt ý kiến một cách lịch sự và rõ ràng trong tranh luận.",
+            "examples": [
+              "I see your point, but I believe the evidence suggests otherwise. = Tôi hiểu quan điểm của bạn, nhưng tôi cho rằng bằng chứng cho thấy điều ngược lại.",
+              "That's an interesting perspective, although I disagree with the conclusion. = Đó là một góc nhìn thú vị, mặc dù tôi không đồng ý với kết luận."
+            ]
+          },
+          {
+            "title": "Câu nhượng bộ với Although / Even though / Despite",
+            "explanation": "\"Although/Even though + clause\" hoặc \"Despite + noun/gerund\" dùng để thừa nhận một phần lập luận đối lập trước khi đưa ra quan điểm của mình.",
+            "examples": [
+              "Although the plan is expensive, it could save money in the long run. = Mặc dù kế hoạch này tốn kém, nó có thể tiết kiệm tiền về lâu dài.",
+              "Despite having some drawbacks, the proposal is worth considering. = Mặc dù có một số hạn chế, đề xuất này đáng để xem xét."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"Perspective\" có nghĩa là gì?",
+            "options": [
+              "Lập luận phản bác",
+              "Góc nhìn / Quan điểm",
+              "Sự thỏa hiệp",
+              "Thuyết phục"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Câu nào dùng \"although\" đúng cách để nhượng bộ?",
+            "options": [
+              "Although but the idea is good.",
+              "Although the idea is good, it needs more funding.",
+              "Although the idea is good however it needs funding.",
+              "The idea is good although, it needs funding."
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Argument",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Ý kiến",
+              "Lập luận",
+              "Thỏa hiệp",
+              "Nhượng bộ"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Compromise",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Mâu thuẫn",
+              "Từ chối",
+              "Thỏa hiệp",
+              "Tranh cãi"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: \"A journalist should always remain ___ and report facts without personal bias.\"",
+            "options": [
+              "impartial",
+              "controversial",
+              "persuasive",
+              "opinionated"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là \"Thuyết phục\" (động từ):",
+            "options": [
+              "Persuade"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    }
+  ],
+  "englishB2Lessons": [
+    {
+      "title": "Lesson 1: Abstract Concepts",
+      "type": "vocabulary",
+      "xp": 30,
+      "min": 12,
+      "order": 1,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Bài học này giúp bạn thảo luận về các khái niệm trừu tượng, lý thuyết và ý tưởng triết học bằng tiếng Anh ở trình độ B2.",
+        "vocabulary": [
+          {
+            "word": "Abstraction",
+            "pinyin": "/æbˈstrækʃn/",
+            "meaning": "Tính trừu tượng / Khái niệm trừu tượng",
+            "example": "Mathematics relies heavily on abstraction to describe the world.",
+            "example_vi": "Toán học phụ thuộc nhiều vào tính trừu tượng để mô tả thế giới.",
+            "tags": [
+              "philosophy",
+              "thinking"
+            ]
+          },
+          {
+            "word": "Ideology",
+            "pinyin": "/ˌaɪdiˈɒlədʒi/",
+            "meaning": "Hệ tư tưởng / Ý thức hệ",
+            "example": "Different political parties are based on different ideologies.",
+            "example_vi": "Các đảng chính trị khác nhau dựa trên các hệ tư tưởng khác nhau.",
+            "tags": [
+              "philosophy",
+              "politics"
+            ]
+          },
+          {
+            "word": "Paradox",
+            "pinyin": "/ˈpærədɒks/",
+            "meaning": "Nghịch lý",
+            "example": "It is a paradox that the more choices we have, the less satisfied we feel.",
+            "example_vi": "Đây là một nghịch lý: càng có nhiều lựa chọn, chúng ta càng ít hài lòng.",
+            "tags": [
+              "philosophy",
+              "logic"
+            ]
+          },
+          {
+            "word": "Integrity",
+            "pinyin": "/ɪnˈteɡrəti/",
+            "meaning": "Tính chính trực / Liêm chính",
+            "example": "A person of integrity acts according to their values even when unobserved.",
+            "example_vi": "Người có tính chính trực hành động theo giá trị của họ ngay cả khi không ai nhìn.",
+            "tags": [
+              "ethics",
+              "character"
+            ]
+          },
+          {
+            "word": "Consciousness",
+            "pinyin": "/ˈkɒnʃəsnəs/",
+            "meaning": "Ý thức",
+            "example": "The nature of human consciousness remains one of philosophy's greatest questions.",
+            "example_vi": "Bản chất của ý thức con người vẫn là một trong những câu hỏi lớn nhất của triết học.",
+            "tags": [
+              "philosophy",
+              "psychology"
+            ]
+          },
+          {
+            "word": "Empirical",
+            "pinyin": "/ɪmˈpɪrɪkl/",
+            "meaning": "Thực nghiệm / Dựa trên bằng chứng",
+            "example": "Scientists rely on empirical evidence rather than theory alone.",
+            "example_vi": "Các nhà khoa học dựa vào bằng chứng thực nghiệm hơn là chỉ lý thuyết.",
+            "tags": [
+              "philosophy",
+              "science"
+            ]
+          },
+          {
+            "word": "Subjectivity",
+            "pinyin": "/ˌsʌbdʒekˈtɪvəti/",
+            "meaning": "Tính chủ quan",
+            "example": "Art criticism often involves a degree of subjectivity.",
+            "example_vi": "Phê bình nghệ thuật thường có một mức độ chủ quan nhất định.",
+            "tags": [
+              "philosophy",
+              "thinking"
+            ]
+          },
+          {
+            "word": "Phenomenon",
+            "pinyin": "/fɪˈnɒmɪnən/",
+            "meaning": "Hiện tượng",
+            "example": "Climate change is a global phenomenon that affects every country.",
+            "example_vi": "Biến đổi khí hậu là một hiện tượng toàn cầu ảnh hưởng đến mọi quốc gia.",
+            "tags": [
+              "science",
+              "observation"
+            ]
+          },
+          {
+            "word": "Relativity",
+            "pinyin": "/ˌreləˈtɪvəti/",
+            "meaning": "Tính tương đối",
+            "example": "The theory of relativity changed how we understand space and time.",
+            "example_vi": "Thuyết tương đối đã thay đổi cách chúng ta hiểu về không gian và thời gian.",
+            "tags": [
+              "science",
+              "physics",
+              "philosophy"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc đảo ngữ nhấn mạnh (Inversion for Emphasis)",
+            "explanation": "Đảo ngữ được dùng trong văn viết học thuật và văn nói trang trọng để nhấn mạnh. Thường bắt đầu bằng \"Not only...\", \"Never...\", \"Rarely...\" theo sau là trợ động từ + chủ ngữ.",
+            "examples": [
+              "Not only is consciousness difficult to define, but it is also impossible to measure directly. = Ý thức không chỉ khó định nghĩa mà còn không thể đo lường trực tiếp.",
+              "Rarely do philosophers agree on a single definition of truth. = Hiếm khi các triết gia đồng ý về một định nghĩa duy nhất về sự thật."
+            ]
+          },
+          {
+            "title": "Danh động từ và động từ nguyên thể làm chủ ngữ (Gerunds and Infinitives as Subjects)",
+            "explanation": "Danh động từ (-ing) và \"to + nguyên thể\" đều có thể làm chủ ngữ câu. Danh động từ mang tính tổng quát hơn; \"to + nguyên thể\" thường hàm ý cụ thể hoặc giả định.",
+            "examples": [
+              "Questioning assumptions is fundamental to philosophical thinking. = Đặt câu hỏi về các giả định là nền tảng của tư duy triết học.",
+              "To understand a paradox, one must first accept its contradictory nature. = Để hiểu một nghịch lý, người ta trước tiên phải chấp nhận bản chất mâu thuẫn của nó."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"Paradox\" có nghĩa là gì?",
+            "options": [
+              "Lý thuyết",
+              "Nghịch lý",
+              "Hệ tư tưởng",
+              "Ý thức"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Câu nào dùng đảo ngữ nhấn mạnh đúng?",
+            "options": [
+              "Not only he is talented, but he is also hardworking.",
+              "Not only is he talented, but he is also hardworking.",
+              "Not only he is talented but also hardworking.",
+              "Not only does he talented, but he is also hardworking."
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Ideology",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Triết học",
+              "Ý thức hệ",
+              "Nghịch lý",
+              "Tính trừu tượng"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Empirical",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Lý thuyết",
+              "Chủ quan",
+              "Thực nghiệm",
+              "Tương đối"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: \"The scientist based her conclusions on solid ___ data from multiple experiments.\"",
+            "options": [
+              "empirical",
+              "abstract",
+              "subjective",
+              "paradoxical"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là \"Hiện tượng\" (số ít):",
+            "options": [
+              "Phenomenon"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 2: Academic Writing",
+      "type": "vocabulary",
+      "xp": 30,
+      "min": 12,
+      "order": 2,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Bài học này giúp bạn nắm vững từ vựng và cấu trúc ngữ pháp cần thiết cho viết học thuật ở trình độ B2.",
+        "vocabulary": [
+          {
+            "word": "Thesis",
+            "pinyin": "/ˈθiːsɪs/",
+            "meaning": "Luận điểm chính / Luận văn",
+            "example": "The thesis of her essay was that education reduces inequality.",
+            "example_vi": "Luận điểm chính trong bài luận của cô ấy là giáo dục giúp giảm bất bình đẳng.",
+            "tags": [
+              "academic",
+              "writing"
+            ]
+          },
+          {
+            "word": "Hypothesis",
+            "pinyin": "/haɪˈpɒθəsɪs/",
+            "meaning": "Giả thuyết",
+            "example": "The researchers tested their hypothesis through a series of experiments.",
+            "example_vi": "Các nhà nghiên cứu kiểm tra giả thuyết của họ qua một loạt thí nghiệm.",
+            "tags": [
+              "academic",
+              "science"
+            ]
+          },
+          {
+            "word": "Citation",
+            "pinyin": "/saɪˈteɪʃn/",
+            "meaning": "Trích dẫn (tài liệu)",
+            "example": "Every claim in an academic paper must be supported by a citation.",
+            "example_vi": "Mọi luận điểm trong bài báo học thuật phải được hỗ trợ bởi trích dẫn.",
+            "tags": [
+              "academic",
+              "writing"
+            ]
+          },
+          {
+            "word": "Coherent",
+            "pinyin": "/koʊˈhɪərənt/",
+            "meaning": "Mạch lạc / Nhất quán",
+            "example": "A coherent argument presents ideas in a logical, connected order.",
+            "example_vi": "Một lập luận mạch lạc trình bày các ý tưởng theo thứ tự lôgic, liên kết.",
+            "tags": [
+              "academic",
+              "writing"
+            ]
+          },
+          {
+            "word": "Critique",
+            "pinyin": "/krɪˈtiːk/",
+            "meaning": "Phê bình / Bình luận chuyên sâu",
+            "example": "The professor asked students to write a critique of a published article.",
+            "example_vi": "Giáo sư yêu cầu sinh viên viết phê bình một bài báo đã xuất bản.",
+            "tags": [
+              "academic",
+              "writing"
+            ]
+          },
+          {
+            "word": "Paraphrase",
+            "pinyin": "/ˈpærəfreɪz/",
+            "meaning": "Diễn giải / Viết lại bằng lời khác",
+            "example": "When you paraphrase, you restate a source's idea in your own words.",
+            "example_vi": "Khi bạn diễn giải, bạn trình bày lại ý tưởng của nguồn bằng lời của chính mình.",
+            "tags": [
+              "academic",
+              "writing"
+            ]
+          },
+          {
+            "word": "Methodology",
+            "pinyin": "/ˌmeθəˈdɒlədʒi/",
+            "meaning": "Phương pháp luận",
+            "example": "The methodology section describes how the research was conducted.",
+            "example_vi": "Phần phương pháp luận mô tả cách nghiên cứu được tiến hành.",
+            "tags": [
+              "academic",
+              "research"
+            ]
+          },
+          {
+            "word": "Inference",
+            "pinyin": "/ˈɪnfərəns/",
+            "meaning": "Suy luận / Kết luận rút ra",
+            "example": "The author drew a reasonable inference from the available data.",
+            "example_vi": "Tác giả đưa ra suy luận hợp lý từ dữ liệu hiện có.",
+            "tags": [
+              "academic",
+              "logic"
+            ]
+          },
+          {
+            "word": "Plagiarism",
+            "pinyin": "/ˈpleɪdʒərɪzəm/",
+            "meaning": "Đạo văn",
+            "example": "Plagiarism is a serious academic offence that can result in expulsion.",
+            "example_vi": "Đạo văn là một vi phạm học thuật nghiêm trọng có thể dẫn đến đuổi học.",
+            "tags": [
+              "academic",
+              "ethics"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Câu bị động trong văn học thuật (Academic Passive)",
+            "explanation": "Văn học thuật thường dùng bị động để thể hiện tính khách quan, tránh dùng \"I\" hoặc \"we\". Đặc biệt phổ biến trong phần phương pháp và kết quả nghiên cứu.",
+            "examples": [
+              "The data were collected over a period of six months. = Dữ liệu được thu thập trong khoảng thời gian sáu tháng.",
+              "It has been argued that economic growth does not always lead to wellbeing. = Người ta đã lập luận rằng tăng trưởng kinh tế không phải lúc nào cũng dẫn đến hạnh phúc."
+            ]
+          },
+          {
+            "title": "Diễn đạt độ chắc chắn bằng Modal Verbs (Hedging Language)",
+            "explanation": "Trong học thuật, tránh khẳng định tuyệt đối; dùng \"may\", \"might\", \"could\", \"appear to\", \"seem to\", \"tend to\" để thể hiện sự cẩn thận trong kết luận.",
+            "examples": [
+              "These findings may suggest a correlation between the two variables. = Những phát hiện này có thể gợi ý mối tương quan giữa hai biến số.",
+              "The results appear to support the original hypothesis. = Kết quả dường như ủng hộ giả thuyết ban đầu."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"Citation\" trong học thuật có nghĩa là gì?",
+            "options": [
+              "Trích dẫn tài liệu",
+              "Phương pháp luận",
+              "Giả thuyết",
+              "Đạo văn"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Câu nào thể hiện \"hedging language\" đúng?",
+            "options": [
+              "This proves the theory.",
+              "This may support the theory.",
+              "This definitely supports the theory.",
+              "This is the proof of the theory."
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Thesis",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Trích dẫn",
+              "Đạo văn",
+              "Luận điểm chính",
+              "Phê bình"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Plagiarism",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Trích dẫn",
+              "Đạo văn",
+              "Luận văn",
+              "Diễn giải"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: \"The paper outlined a clear ___ for data collection and analysis.\"",
+            "options": [
+              "methodology",
+              "thesis",
+              "citation",
+              "inference"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là \"Giả thuyết\":",
+            "options": [
+              "Hypothesis"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 3: Society & Culture",
+      "type": "vocabulary",
+      "xp": 30,
+      "min": 12,
+      "order": 3,
+      "content": {
+        "image": "/images/lessons/hobbies.svg",
+        "intro": "Bài học này giúp bạn thảo luận về phong tục, truyền thống và chuẩn mực xã hội bằng tiếng Anh ở trình độ B2.",
+        "vocabulary": [
+          {
+            "word": "Custom",
+            "pinyin": "/ˈkʌstəm/",
+            "meaning": "Phong tục / Tập tục",
+            "example": "It is a custom in many Asian countries to remove shoes before entering a home.",
+            "example_vi": "Đây là phong tục ở nhiều nước châu Á: cởi giày trước khi vào nhà.",
+            "tags": [
+              "culture",
+              "society"
+            ]
+          },
+          {
+            "word": "Tradition",
+            "pinyin": "/trəˈdɪʃn/",
+            "meaning": "Truyền thống",
+            "example": "Celebrating the Lunar New Year is a deeply rooted tradition in Vietnam.",
+            "example_vi": "Đón Tết Nguyên Đán là một truyền thống ăn sâu bén rễ ở Việt Nam.",
+            "tags": [
+              "culture",
+              "society"
+            ]
+          },
+          {
+            "word": "Norm",
+            "pinyin": "/nɔːrm/",
+            "meaning": "Chuẩn mực xã hội",
+            "example": "Social norms govern how people behave in public spaces.",
+            "example_vi": "Chuẩn mực xã hội quy định cách mọi người hành xử ở nơi công cộng.",
+            "tags": [
+              "society",
+              "behavior"
+            ]
+          },
+          {
+            "word": "Multiculturalism",
+            "pinyin": "/ˌmʌltiˈkʌltʃərəlɪzəm/",
+            "meaning": "Chủ nghĩa đa văn hóa",
+            "example": "Multiculturalism enriches society by bringing diverse perspectives.",
+            "example_vi": "Chủ nghĩa đa văn hóa làm phong phú xã hội bằng cách mang lại những quan điểm đa dạng.",
+            "tags": [
+              "culture",
+              "politics"
+            ]
+          },
+          {
+            "word": "Stereotype",
+            "pinyin": "/ˈsteriətaɪp/",
+            "meaning": "Định kiến / Khuôn mẫu cứng nhắc",
+            "example": "It is important to challenge harmful cultural stereotypes.",
+            "example_vi": "Điều quan trọng là phải thách thức những định kiến văn hóa có hại.",
+            "tags": [
+              "society",
+              "thinking"
+            ]
+          },
+          {
+            "word": "Assimilation",
+            "pinyin": "/əˌsɪməˈleɪʃn/",
+            "meaning": "Sự đồng hóa (văn hóa)",
+            "example": "Cultural assimilation can lead to the loss of minority languages.",
+            "example_vi": "Sự đồng hóa văn hóa có thể dẫn đến mất ngôn ngữ của các dân tộc thiểu số.",
+            "tags": [
+              "culture",
+              "society"
+            ]
+          },
+          {
+            "word": "Heritage",
+            "pinyin": "/ˈherɪtɪdʒ/",
+            "meaning": "Di sản (văn hóa)",
+            "example": "Vietnam has a rich cultural heritage that spans thousands of years.",
+            "example_vi": "Việt Nam có di sản văn hóa phong phú trải dài hàng nghìn năm.",
+            "tags": [
+              "culture",
+              "history"
+            ]
+          },
+          {
+            "word": "Taboo",
+            "pinyin": "/təˈbuː/",
+            "meaning": "Điều cấm kỵ / Kiêng kỵ",
+            "example": "Discussing salaries openly is still considered a taboo in some workplaces.",
+            "example_vi": "Thảo luận công khai về mức lương vẫn bị coi là điều cấm kỵ ở một số nơi làm việc.",
+            "tags": [
+              "culture",
+              "society"
+            ]
+          },
+          {
+            "word": "Cohesion",
+            "pinyin": "/koʊˈhiːʒn/",
+            "meaning": "Sự gắn kết (xã hội)",
+            "example": "Social cohesion is essential for a stable and peaceful community.",
+            "example_vi": "Sự gắn kết xã hội là điều cần thiết cho một cộng đồng ổn định và hòa bình.",
+            "tags": [
+              "society",
+              "community"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Mệnh đề nhường bộ nâng cao: While / Whereas / Whilst",
+            "explanation": "\"While\", \"whereas\", và \"whilst\" (văn phong British) dùng để đặt hai ý tưởng tương phản trong cùng một câu, thường gặp trong thảo luận văn hóa và xã hội.",
+            "examples": [
+              "While some cultures value individualism, others prioritize the collective good. = Trong khi một số nền văn hóa coi trọng chủ nghĩa cá nhân, những nền văn hóa khác ưu tiên lợi ích tập thể.",
+              "Whereas urban areas tend to adopt new norms quickly, rural communities may preserve traditions for longer. = Trong khi các khu vực đô thị có xu hướng tiếp nhận chuẩn mực mới nhanh chóng, cộng đồng nông thôn có thể gìn giữ truyền thống lâu hơn."
+            ]
+          },
+          {
+            "title": "Câu điều kiện loại 3 (Third Conditional) — Phản tư về lịch sử và xã hội",
+            "explanation": "Dùng \"If + past perfect, would have + past participle\" để nói về những điều không có thật trong quá khứ và hệ quả tưởng tượng của chúng.",
+            "examples": [
+              "If the two cultures had not interacted, they would not have developed such a rich shared heritage. = Nếu hai nền văn hóa không giao thoa, họ đã không phát triển được di sản chung phong phú như vậy.",
+              "If the traditions had been better preserved, fewer customs would have been lost. = Nếu các truyền thống được bảo tồn tốt hơn, ít phong tục sẽ bị mất hơn."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"Taboo\" có nghĩa là gì?",
+            "options": [
+              "Truyền thống",
+              "Di sản",
+              "Điều cấm kỵ",
+              "Phong tục"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Câu nào dùng câu điều kiện loại 3 đúng?",
+            "options": [
+              "If they preserve the tradition, the culture would survive.",
+              "If they had preserved the tradition, the culture would survive.",
+              "If they had preserved the tradition, the culture would have survived.",
+              "If they preserved the tradition, the culture would have survived."
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Heritage",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Định kiến",
+              "Di sản",
+              "Đồng hóa",
+              "Gắn kết"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Stereotype",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Chuẩn mực",
+              "Phong tục",
+              "Định kiến",
+              "Truyền thống"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: \"Strong social ___ helps communities recover from difficult times together.\"",
+            "options": [
+              "cohesion",
+              "assimilation",
+              "taboo",
+              "norm"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là \"Chủ nghĩa đa văn hóa\":",
+            "options": [
+              "Multiculturalism"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 4: Science & Environment",
+      "type": "vocabulary",
+      "xp": 30,
+      "min": 12,
+      "order": 4,
+      "content": {
+        "image": "/images/lessons/nature.svg",
+        "intro": "Bài học này giúp bạn thảo luận về biến đổi khí hậu, nghiên cứu khoa học và phát triển bền vững bằng tiếng Anh.",
+        "vocabulary": [
+          {
+            "word": "Sustainability",
+            "pinyin": "/səˌsteɪnəˈbɪləti/",
+            "meaning": "Tính bền vững",
+            "example": "Sustainability requires balancing economic growth with environmental protection.",
+            "example_vi": "Tính bền vững đòi hỏi cân bằng giữa tăng trưởng kinh tế và bảo vệ môi trường.",
+            "tags": [
+              "environment",
+              "science"
+            ]
+          },
+          {
+            "word": "Carbon footprint",
+            "pinyin": "/ˈkɑːrbən ˈfʊtprɪnt/",
+            "meaning": "Dấu chân carbon / Lượng khí thải carbon",
+            "example": "Reducing your carbon footprint can be as simple as eating less meat.",
+            "example_vi": "Giảm lượng khí thải carbon của bạn có thể đơn giản như ăn ít thịt hơn.",
+            "tags": [
+              "environment",
+              "climate"
+            ]
+          },
+          {
+            "word": "Biodiversity",
+            "pinyin": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+            "meaning": "Đa dạng sinh học",
+            "example": "Deforestation is one of the greatest threats to biodiversity.",
+            "example_vi": "Phá rừng là một trong những mối đe dọa lớn nhất đối với đa dạng sinh học.",
+            "tags": [
+              "environment",
+              "biology"
+            ]
+          },
+          {
+            "word": "Renewable",
+            "pinyin": "/rɪˈnjuːəbl/",
+            "meaning": "Có thể tái tạo được (năng lượng)",
+            "example": "Solar and wind power are the most widely used renewable energy sources.",
+            "example_vi": "Năng lượng mặt trời và gió là các nguồn năng lượng tái tạo được sử dụng rộng rãi nhất.",
+            "tags": [
+              "environment",
+              "energy"
+            ]
+          },
+          {
+            "word": "Greenhouse gas",
+            "pinyin": "/ˈɡriːnhaʊs ɡæs/",
+            "meaning": "Khí nhà kính",
+            "example": "Methane and CO2 are the most significant greenhouse gases.",
+            "example_vi": "Khí metan và CO2 là những khí nhà kính quan trọng nhất.",
+            "tags": [
+              "environment",
+              "climate"
+            ]
+          },
+          {
+            "word": "Ecosystem",
+            "pinyin": "/ˈiːkoʊsɪstəm/",
+            "meaning": "Hệ sinh thái",
+            "example": "Coral reefs are among the most diverse ecosystems on the planet.",
+            "example_vi": "Rạn san hô là một trong những hệ sinh thái đa dạng nhất trên hành tinh.",
+            "tags": [
+              "environment",
+              "biology"
+            ]
+          },
+          {
+            "word": "Mitigation",
+            "pinyin": "/ˌmɪtɪˈɡeɪʃn/",
+            "meaning": "Sự giảm nhẹ (tác động)",
+            "example": "Climate mitigation strategies aim to reduce the causes of global warming.",
+            "example_vi": "Các chiến lược giảm nhẹ biến đổi khí hậu nhằm giảm nguyên nhân gây nóng lên toàn cầu.",
+            "tags": [
+              "environment",
+              "climate"
+            ]
+          },
+          {
+            "word": "Contamination",
+            "pinyin": "/kənˌtæmɪˈneɪʃn/",
+            "meaning": "Sự ô nhiễm / Nhiễm độc",
+            "example": "Water contamination poses a serious threat to public health.",
+            "example_vi": "Ô nhiễm nguồn nước gây ra mối đe dọa nghiêm trọng đối với sức khỏe cộng đồng.",
+            "tags": [
+              "environment",
+              "health"
+            ]
+          },
+          {
+            "word": "Deforestation",
+            "pinyin": "/diːˌfɒrɪˈsteɪʃn/",
+            "meaning": "Nạn phá rừng",
+            "example": "Deforestation in the Amazon has accelerated in recent decades.",
+            "example_vi": "Nạn phá rừng ở Amazon đã tăng tốc trong những thập kỷ gần đây.",
+            "tags": [
+              "environment",
+              "climate"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Câu chủ ngữ giả \"It\" trong văn khoa học (Preparatory \"It\")",
+            "explanation": "Cấu trúc \"It is + adjective + that/to...\" thường được dùng trong văn khoa học và môi trường để diễn đạt sự thật, đánh giá hoặc yêu cầu một cách khách quan.",
+            "examples": [
+              "It is widely accepted that human activity is the main cause of climate change. = Người ta thừa nhận rộng rãi rằng hoạt động của con người là nguyên nhân chính của biến đổi khí hậu.",
+              "It is crucial to reduce greenhouse gas emissions within this decade. = Điều quan trọng là phải giảm lượng khí thải nhà kính trong thập kỷ này."
+            ]
+          },
+          {
+            "title": "Động từ \"có\" theo nghĩa nguyên nhân-kết quả: Cause / Lead to / Result in",
+            "explanation": "Trong văn khoa học môi trường, thường dùng \"cause + noun\", \"lead to + noun\", \"result in + noun\" để diễn đạt mối quan hệ nhân quả chính xác hơn so với \"make\" hay \"get\".",
+            "examples": [
+              "Rising temperatures lead to more frequent and severe droughts. = Nhiệt độ tăng dẫn đến hạn hán thường xuyên và nghiêm trọng hơn.",
+              "Deforestation results in the loss of habitats for countless species. = Phá rừng dẫn đến mất môi trường sống của vô số loài."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"Biodiversity\" có nghĩa là gì?",
+            "options": [
+              "Năng lượng sinh học",
+              "Đa dạng sinh học",
+              "Hệ sinh thái",
+              "Ô nhiễm sinh học"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Câu nào dùng \"It is + adj + that\" đúng ngữ pháp học thuật?",
+            "options": [
+              "It is essential that we are reducing emissions.",
+              "It is essential that we reduce emissions.",
+              "It is essential we are reducing emissions.",
+              "It is essential to reducing emissions."
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Sustainability",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Ô nhiễm",
+              "Phá rừng",
+              "Tính bền vững",
+              "Đa dạng sinh học"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Deforestation",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Trồng rừng",
+              "Nạn phá rừng",
+              "Hạn hán",
+              "Lũ lụt"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: \"Every individual can reduce their ___ footprint by using public transport.\"",
+            "options": [
+              "carbon",
+              "green",
+              "bio",
+              "eco"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là \"Hệ sinh thái\":",
+            "options": [
+              "Ecosystem"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 5: Business & Economics",
+      "type": "vocabulary",
+      "xp": 30,
+      "min": 12,
+      "order": 5,
+      "content": {
+        "image": "/images/lessons/money.svg",
+        "intro": "Bài học này giúp bạn nói về thương mại, đầu tư, thị trường và các khái niệm kinh tế bằng tiếng Anh ở trình độ B2.",
+        "vocabulary": [
+          {
+            "word": "Investment",
+            "pinyin": "/ɪnˈvestmənt/",
+            "meaning": "Đầu tư",
+            "example": "Foreign investment has significantly boosted the local economy.",
+            "example_vi": "Đầu tư nước ngoài đã thúc đẩy đáng kể nền kinh tế địa phương.",
+            "tags": [
+              "business",
+              "economics"
+            ]
+          },
+          {
+            "word": "Fiscal",
+            "pinyin": "/ˈfɪskl/",
+            "meaning": "Liên quan đến tài chính công / Thuế khóa",
+            "example": "The government announced new fiscal policies to stimulate growth.",
+            "example_vi": "Chính phủ công bố các chính sách tài khóa mới để kích thích tăng trưởng.",
+            "tags": [
+              "economics",
+              "government"
+            ]
+          },
+          {
+            "word": "Inflation",
+            "pinyin": "/ɪnˈfleɪʃn/",
+            "meaning": "Lạm phát",
+            "example": "High inflation reduces the purchasing power of consumers.",
+            "example_vi": "Lạm phát cao làm giảm sức mua của người tiêu dùng.",
+            "tags": [
+              "economics",
+              "finance"
+            ]
+          },
+          {
+            "word": "Commodity",
+            "pinyin": "/kəˈmɒdəti/",
+            "meaning": "Hàng hóa cơ bản / Mặt hàng",
+            "example": "Oil is one of the most traded commodities in the world.",
+            "example_vi": "Dầu mỏ là một trong những hàng hóa được giao dịch nhiều nhất thế giới.",
+            "tags": [
+              "economics",
+              "trade"
+            ]
+          },
+          {
+            "word": "Monopoly",
+            "pinyin": "/məˈnɒpəli/",
+            "meaning": "Độc quyền",
+            "example": "The government broke up the company's monopoly on telecommunications.",
+            "example_vi": "Chính phủ phá vỡ thế độc quyền viễn thông của công ty.",
+            "tags": [
+              "business",
+              "economics"
+            ]
+          },
+          {
+            "word": "Subsidy",
+            "pinyin": "/ˈsʌbsɪdi/",
+            "meaning": "Trợ cấp / Hỗ trợ tài chính từ nhà nước",
+            "example": "The government provides subsidies to support domestic farmers.",
+            "example_vi": "Chính phủ cung cấp trợ cấp để hỗ trợ nông dân trong nước.",
+            "tags": [
+              "economics",
+              "government"
+            ]
+          },
+          {
+            "word": "Consortium",
+            "pinyin": "/kənˈsɔːrtiəm/",
+            "meaning": "Tập đoàn liên kết / Hiệp hội",
+            "example": "A consortium of banks agreed to fund the infrastructure project.",
+            "example_vi": "Một tập đoàn liên kết các ngân hàng đồng ý tài trợ cho dự án cơ sở hạ tầng.",
+            "tags": [
+              "business",
+              "finance"
+            ]
+          },
+          {
+            "word": "Recession",
+            "pinyin": "/rɪˈseʃn/",
+            "meaning": "Suy thoái kinh tế",
+            "example": "The country entered a recession after two quarters of negative growth.",
+            "example_vi": "Đất nước rơi vào suy thoái sau hai quý tăng trưởng âm.",
+            "tags": [
+              "economics",
+              "finance"
+            ]
+          },
+          {
+            "word": "Tariff",
+            "pinyin": "/ˈtærɪf/",
+            "meaning": "Thuế quan / Biểu thuế",
+            "example": "The new tariff on imported steel affected many manufacturers.",
+            "example_vi": "Thuế quan mới đối với thép nhập khẩu ảnh hưởng đến nhiều nhà sản xuất.",
+            "tags": [
+              "economics",
+              "trade"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc mệnh đề danh từ (Noun Clauses) trong văn kinh doanh",
+            "explanation": "Mệnh đề danh từ bắt đầu bằng \"that\", \"whether\", \"what\", \"how\" thường được dùng sau các động từ như \"suggest\", \"indicate\", \"argue\", \"believe\" trong bối cảnh kinh doanh và kinh tế.",
+            "examples": [
+              "Analysts believe that inflation will stabilize by the end of the year. = Các nhà phân tích tin rằng lạm phát sẽ ổn định vào cuối năm.",
+              "The report indicates how tariffs have affected domestic production. = Báo cáo chỉ ra thuế quan đã ảnh hưởng đến sản xuất trong nước như thế nào."
+            ]
+          },
+          {
+            "title": "Câu bị động với \"be expected to / be predicted to / be forecast to\"",
+            "explanation": "Trong báo cáo kinh tế và kinh doanh, thường dùng \"is/are expected/predicted/forecast to + base verb\" để nói về dự báo và kỳ vọng.",
+            "examples": [
+              "GDP is forecast to grow by three percent next year. = GDP được dự báo sẽ tăng trưởng ba phần trăm vào năm tới.",
+              "Interest rates are expected to rise in the second quarter. = Lãi suất được kỳ vọng sẽ tăng trong quý hai."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"Tariff\" có nghĩa là gì?",
+            "options": [
+              "Trợ cấp",
+              "Độc quyền",
+              "Thuế quan",
+              "Lạm phát"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Câu nào dùng mệnh đề danh từ đúng ngữ pháp?",
+            "options": [
+              "Analysts suggest inflation will stabilize.",
+              "Analysts suggest that inflation will stabilize.",
+              "Analysts suggest that inflation stabilizing.",
+              "Both A and B are correct"
+            ],
+            "ans": 3
+          },
+          {
+            "type": "listen",
+            "word": "Recession",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Tăng trưởng",
+              "Lạm phát",
+              "Suy thoái kinh tế",
+              "Đầu tư"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Subsidy",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Thuế",
+              "Trợ cấp",
+              "Hàng hóa",
+              "Tập đoàn"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: \"Rising ___ means that the same amount of money buys fewer goods each month.\"",
+            "options": [
+              "inflation",
+              "investment",
+              "subsidy",
+              "consortium"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là \"Độc quyền\":",
+            "options": [
+              "Monopoly"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 6: Literature & Media",
+      "type": "vocabulary",
+      "xp": 30,
+      "min": 12,
+      "order": 6,
+      "content": {
+        "image": "/images/lessons/hobbies.svg",
+        "intro": "Bài học này giúp bạn phân tích văn học, nhận diện thể loại, kể chuyện và đánh giá nội dung truyền thông bằng tiếng Anh.",
+        "vocabulary": [
+          {
+            "word": "Narrative",
+            "pinyin": "/ˈnærətɪv/",
+            "meaning": "Tự sự / Câu chuyện / Lối kể chuyện",
+            "example": "The novel uses a first-person narrative to create intimacy with the reader.",
+            "example_vi": "Tiểu thuyết sử dụng lối kể chuyện ngôi thứ nhất để tạo sự gần gũi với độc giả.",
+            "tags": [
+              "literature",
+              "storytelling"
+            ]
+          },
+          {
+            "word": "Genre",
+            "pinyin": "/ˈʒɒnrə/",
+            "meaning": "Thể loại (văn học, phim, âm nhạc)",
+            "example": "Science fiction is a genre that explores the impact of technology on society.",
+            "example_vi": "Khoa học viễn tưởng là thể loại khám phá tác động của công nghệ đến xã hội.",
+            "tags": [
+              "literature",
+              "media"
+            ]
+          },
+          {
+            "word": "Protagonist",
+            "pinyin": "/prəˈtæɡənɪst/",
+            "meaning": "Nhân vật chính",
+            "example": "The protagonist faces a moral dilemma at the heart of the story.",
+            "example_vi": "Nhân vật chính đối mặt với tình huống đạo đức khó xử ở trung tâm câu chuyện.",
+            "tags": [
+              "literature",
+              "storytelling"
+            ]
+          },
+          {
+            "word": "Metaphor",
+            "pinyin": "/ˈmetəfɔːr/",
+            "meaning": "Ẩn dụ",
+            "example": "The author uses the storm as a metaphor for the character's inner turmoil.",
+            "example_vi": "Tác giả dùng cơn bão làm ẩn dụ cho sự hỗn loạn nội tâm của nhân vật.",
+            "tags": [
+              "literature",
+              "language"
+            ]
+          },
+          {
+            "word": "Allusion",
+            "pinyin": "/əˈluːʒn/",
+            "meaning": "Ám chỉ / Điển tích (trong văn học)",
+            "example": "The poem contains several allusions to Greek mythology.",
+            "example_vi": "Bài thơ chứa nhiều ám chỉ đến thần thoại Hy Lạp.",
+            "tags": [
+              "literature",
+              "language"
+            ]
+          },
+          {
+            "word": "Satire",
+            "pinyin": "/ˈsætaɪər/",
+            "meaning": "Châm biếm (văn học)",
+            "example": "The novel is a satire of modern consumerism and social media culture.",
+            "example_vi": "Tiểu thuyết là tác phẩm châm biếm chủ nghĩa tiêu dùng hiện đại và văn hóa mạng xã hội.",
+            "tags": [
+              "literature",
+              "critique"
+            ]
+          },
+          {
+            "word": "Foreshadowing",
+            "pinyin": "/fɔːrˈʃædoʊɪŋ/",
+            "meaning": "Báo hiệu trước / Dự báo (trong văn học)",
+            "example": "The broken mirror early in the film is an example of foreshadowing.",
+            "example_vi": "Chiếc gương vỡ xuất hiện sớm trong phim là một ví dụ về kỹ thuật báo hiệu trước.",
+            "tags": [
+              "literature",
+              "storytelling"
+            ]
+          },
+          {
+            "word": "Media literacy",
+            "pinyin": "/ˈmiːdiə ˈlɪtərəsi/",
+            "meaning": "Hiểu biết truyền thông / Năng lực đọc hiểu truyền thông",
+            "example": "Media literacy helps people critically evaluate the news they consume.",
+            "example_vi": "Năng lực đọc hiểu truyền thông giúp mọi người đánh giá phê phán tin tức họ tiếp thu.",
+            "tags": [
+              "media",
+              "critical-thinking"
+            ]
+          },
+          {
+            "word": "Symbolism",
+            "pinyin": "/ˈsɪmbəlɪzəm/",
+            "meaning": "Chủ nghĩa biểu tượng / Tính biểu tượng",
+            "example": "The use of white symbolism throughout the novel represents purity and ignorance simultaneously.",
+            "example_vi": "Việc sử dụng biểu tượng màu trắng xuyên suốt tiểu thuyết đồng thời đại diện cho sự thuần khiết và sự vô minh.",
+            "tags": [
+              "literature",
+              "analysis"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Thì hiện tại đơn để tóm tắt cốt truyện (Literary Present Tense)",
+            "explanation": "Khi phân tích hoặc tóm tắt tác phẩm văn học, người ta dùng thì hiện tại đơn (không phải quá khứ), được gọi là \"literary present\" hay \"historical present\".",
+            "examples": [
+              "In the novel, the protagonist discovers that her entire life has been a lie. = Trong tiểu thuyết, nhân vật chính phát hiện ra rằng cả cuộc đời của cô là một lời nói dối.",
+              "The author uses the river as a symbol of freedom throughout the story. = Tác giả sử dụng con sông như một biểu tượng của tự do xuyên suốt câu chuyện."
+            ]
+          },
+          {
+            "title": "Cấu trúc phân tích văn học nâng cao: \"Not ... but ...\" và \"Not only ... but also ...\"",
+            "explanation": "Trong phân tích văn học và truyền thông, cấu trúc \"not...but...\" giúp sửa lại một hiểu lầm và đưa ra nhận định chính xác hơn; \"not only...but also...\" dùng để nhấn mạnh nhiều chiều ý nghĩa.",
+            "examples": [
+              "The story is not simply a love story but a critique of class inequality. = Câu chuyện không chỉ đơn thuần là một câu chuyện tình yêu mà còn là sự phê phán bất bình đẳng giai cấp.",
+              "The metaphor not only highlights the character's isolation but also reflects the broader social alienation of the era. = Ẩn dụ không chỉ nêu bật sự cô lập của nhân vật mà còn phản ánh sự xa cách xã hội rộng lớn hơn của thời đại."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"Foreshadowing\" trong phân tích văn học có nghĩa là gì?",
+            "options": [
+              "Ẩn dụ",
+              "Châm biếm",
+              "Báo hiệu trước",
+              "Điển tích"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Khi phân tích văn học, thì nào được dùng để tóm tắt cốt truyện?",
+            "options": [
+              "Quá khứ đơn",
+              "Quá khứ hoàn thành",
+              "Hiện tại đơn",
+              "Hiện tại tiếp diễn"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Metaphor",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Ẩn dụ",
+              "Hoán dụ",
+              "Biểu tượng",
+              "Điển tích"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "Satire",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Thể loại",
+              "Phê bình",
+              "Châm biếm",
+              "Nhân vật chính"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: \"The story is not a simple adventure, ___ a profound exploration of identity.\"",
+            "options": [
+              "but",
+              "and",
+              "so",
+              "yet"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là \"Tự sự / Lối kể chuyện\":",
+            "options": [
+              "Narrative"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1502 @@
+[
+  {
+    "w": "chair",
+    "p": "",
+    "m": "cái ghế",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "table",
+    "p": "",
+    "m": "cái bàn",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "bed",
+    "p": "",
+    "m": "cái giường",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "sofa",
+    "p": "",
+    "m": "ghế sofa",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "desk",
+    "p": "",
+    "m": "bàn làm việc",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "shelf",
+    "p": "",
+    "m": "cái kệ",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "door",
+    "p": "",
+    "m": "cái cửa",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "window",
+    "p": "",
+    "m": "cửa sổ",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "floor",
+    "p": "",
+    "m": "sàn nhà",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "wall",
+    "p": "",
+    "m": "bức tường",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "lamp",
+    "p": "",
+    "m": "cái đèn",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "mirror",
+    "p": "",
+    "m": "cái gương",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "carpet",
+    "p": "",
+    "m": "tấm thảm",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "curtain",
+    "p": "",
+    "m": "cái rèm",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "wardrobe",
+    "p": "",
+    "m": "tủ quần áo",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "pillow",
+    "p": "",
+    "m": "cái gối",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "blanket",
+    "p": "",
+    "m": "cái chăn",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "kitchen",
+    "p": "",
+    "m": "nhà bếp",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "bathroom",
+    "p": "",
+    "m": "phòng tắm",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "bedroom",
+    "p": "",
+    "m": "phòng ngủ",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "living room",
+    "p": "",
+    "m": "phòng khách",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "home",
+    "p": "",
+    "m": "ngôi nhà, gia đình",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "room",
+    "p": "",
+    "m": "căn phòng",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "yard",
+    "p": "",
+    "m": "sân nhà",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "plate",
+    "p": "",
+    "m": "cái đĩa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bowl",
+    "p": "",
+    "m": "cái bát",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "cup",
+    "p": "",
+    "m": "cái cốc",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "glass",
+    "p": "",
+    "m": "cái ly",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "spoon",
+    "p": "",
+    "m": "cái thìa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "fork",
+    "p": "",
+    "m": "cái nĩa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "knife",
+    "p": "",
+    "m": "con dao",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pot",
+    "p": "",
+    "m": "cái nồi",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pan",
+    "p": "",
+    "m": "cái chảo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "kettle",
+    "p": "",
+    "m": "ấm đun nước",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "fridge",
+    "p": "",
+    "m": "tủ lạnh",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "oven",
+    "p": "",
+    "m": "lò nướng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "stove",
+    "p": "",
+    "m": "bếp nấu",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "microwave",
+    "p": "",
+    "m": "lò vi sóng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bottle",
+    "p": "",
+    "m": "cái chai",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bag",
+    "p": "",
+    "m": "cái túi",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "box",
+    "p": "",
+    "m": "cái hộp",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "key",
+    "p": "",
+    "m": "cái chìa khóa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "clock",
+    "p": "",
+    "m": "đồng hồ treo tường",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pen",
+    "p": "",
+    "m": "cái bút",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pencil",
+    "p": "",
+    "m": "bút chì",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "towel",
+    "p": "",
+    "m": "khăn tắm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "soap",
+    "p": "",
+    "m": "xà phòng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "toothbrush",
+    "p": "",
+    "m": "bàn chải đánh răng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "eat",
+    "p": "",
+    "m": "ăn",
+    "cat": "hành động"
+  },
+  {
+    "w": "drink",
+    "p": "",
+    "m": "uống",
+    "cat": "hành động"
+  },
+  {
+    "w": "sleep",
+    "p": "",
+    "m": "ngủ",
+    "cat": "hành động"
+  },
+  {
+    "w": "wake up",
+    "p": "",
+    "m": "thức dậy",
+    "cat": "hành động"
+  },
+  {
+    "w": "sit",
+    "p": "",
+    "m": "ngồi",
+    "cat": "hành động"
+  },
+  {
+    "w": "stand",
+    "p": "",
+    "m": "đứng",
+    "cat": "hành động"
+  },
+  {
+    "w": "walk",
+    "p": "",
+    "m": "đi bộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "run",
+    "p": "",
+    "m": "chạy",
+    "cat": "hành động"
+  },
+  {
+    "w": "open",
+    "p": "",
+    "m": "mở",
+    "cat": "hành động"
+  },
+  {
+    "w": "close",
+    "p": "",
+    "m": "đóng",
+    "cat": "hành động"
+  },
+  {
+    "w": "wash",
+    "p": "",
+    "m": "rửa",
+    "cat": "hành động"
+  },
+  {
+    "w": "cook",
+    "p": "",
+    "m": "nấu ăn",
+    "cat": "hành động"
+  },
+  {
+    "w": "buy",
+    "p": "",
+    "m": "mua",
+    "cat": "hành động"
+  },
+  {
+    "w": "read",
+    "p": "",
+    "m": "đọc",
+    "cat": "hành động"
+  },
+  {
+    "w": "write",
+    "p": "",
+    "m": "viết",
+    "cat": "hành động"
+  },
+  {
+    "w": "listen",
+    "p": "",
+    "m": "nghe",
+    "cat": "hành động"
+  },
+  {
+    "w": "speak",
+    "p": "",
+    "m": "nói",
+    "cat": "hành động"
+  },
+  {
+    "w": "look",
+    "p": "",
+    "m": "nhìn",
+    "cat": "hành động"
+  },
+  {
+    "w": "give",
+    "p": "",
+    "m": "đưa cho",
+    "cat": "hành động"
+  },
+  {
+    "w": "take",
+    "p": "",
+    "m": "lấy",
+    "cat": "hành động"
+  },
+  {
+    "w": "put",
+    "p": "",
+    "m": "đặt",
+    "cat": "hành động"
+  },
+  {
+    "w": "go",
+    "p": "",
+    "m": "đi",
+    "cat": "hành động"
+  },
+  {
+    "w": "come",
+    "p": "",
+    "m": "đến",
+    "cat": "hành động"
+  },
+  {
+    "w": "stop",
+    "p": "",
+    "m": "dừng lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "start",
+    "p": "",
+    "m": "bắt đầu",
+    "cat": "hành động"
+  },
+  {
+    "w": "help",
+    "p": "",
+    "m": "giúp đỡ",
+    "cat": "hành động"
+  },
+  {
+    "w": "wait",
+    "p": "",
+    "m": "chờ đợi",
+    "cat": "hành động"
+  },
+  {
+    "w": "turn on",
+    "p": "",
+    "m": "bật (đèn, máy)",
+    "cat": "hành động"
+  },
+  {
+    "w": "turn off",
+    "p": "",
+    "m": "tắt (đèn, máy)",
+    "cat": "hành động"
+  },
+  {
+    "w": "carry",
+    "p": "",
+    "m": "mang vác",
+    "cat": "hành động"
+  },
+  {
+    "w": "pour",
+    "p": "",
+    "m": "rót",
+    "cat": "hành động"
+  },
+  {
+    "w": "cut",
+    "p": "",
+    "m": "cắt",
+    "cat": "hành động"
+  },
+  {
+    "w": "boil",
+    "p": "",
+    "m": "đun sôi",
+    "cat": "hành động"
+  },
+  {
+    "w": "fry",
+    "p": "",
+    "m": "chiên, rán",
+    "cat": "hành động"
+  },
+  {
+    "w": "big",
+    "p": "",
+    "m": "to, lớn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "small",
+    "p": "",
+    "m": "nhỏ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hot",
+    "p": "",
+    "m": "nóng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cold",
+    "p": "",
+    "m": "lạnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "warm",
+    "p": "",
+    "m": "ấm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cool",
+    "p": "",
+    "m": "mát",
+    "cat": "tính từ"
+  },
+  {
+    "w": "new",
+    "p": "",
+    "m": "mới",
+    "cat": "tính từ"
+  },
+  {
+    "w": "old",
+    "p": "",
+    "m": "cũ, già",
+    "cat": "tính từ"
+  },
+  {
+    "w": "good",
+    "p": "",
+    "m": "tốt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "bad",
+    "p": "",
+    "m": "xấu, tệ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fast",
+    "p": "",
+    "m": "nhanh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "slow",
+    "p": "",
+    "m": "chậm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "easy",
+    "p": "",
+    "m": "dễ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hard",
+    "p": "",
+    "m": "khó, cứng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "clean",
+    "p": "",
+    "m": "sạch",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dirty",
+    "p": "",
+    "m": "bẩn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "heavy",
+    "p": "",
+    "m": "nặng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "light",
+    "p": "",
+    "m": "nhẹ, sáng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "full",
+    "p": "",
+    "m": "đầy, no",
+    "cat": "tính từ"
+  },
+  {
+    "w": "empty",
+    "p": "",
+    "m": "trống, rỗng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "long",
+    "p": "",
+    "m": "dài",
+    "cat": "tính từ"
+  },
+  {
+    "w": "short",
+    "p": "",
+    "m": "ngắn, thấp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tall",
+    "p": "",
+    "m": "cao",
+    "cat": "tính từ"
+  },
+  {
+    "w": "wide",
+    "p": "",
+    "m": "rộng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "loud",
+    "p": "",
+    "m": "ồn ào, to tiếng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "quiet",
+    "p": "",
+    "m": "yên tĩnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "wet",
+    "p": "",
+    "m": "ướt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dry",
+    "p": "",
+    "m": "khô",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sweet",
+    "p": "",
+    "m": "ngọt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "bright",
+    "p": "",
+    "m": "sáng, rực rỡ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dark",
+    "p": "",
+    "m": "tối, tối tăm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "soft",
+    "p": "",
+    "m": "mềm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fresh",
+    "p": "",
+    "m": "tươi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "broken",
+    "p": "",
+    "m": "bị vỡ, hỏng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cheap",
+    "p": "",
+    "m": "rẻ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "expensive",
+    "p": "",
+    "m": "đắt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "today",
+    "p": "",
+    "m": "hôm nay",
+    "cat": "thời gian"
+  },
+  {
+    "w": "tomorrow",
+    "p": "",
+    "m": "ngày mai",
+    "cat": "thời gian"
+  },
+  {
+    "w": "yesterday",
+    "p": "",
+    "m": "hôm qua",
+    "cat": "thời gian"
+  },
+  {
+    "w": "morning",
+    "p": "",
+    "m": "buổi sáng",
+    "cat": "thời gian"
+  },
+  {
+    "w": "afternoon",
+    "p": "",
+    "m": "buổi chiều",
+    "cat": "thời gian"
+  },
+  {
+    "w": "evening",
+    "p": "",
+    "m": "buổi tối",
+    "cat": "thời gian"
+  },
+  {
+    "w": "night",
+    "p": "",
+    "m": "ban đêm",
+    "cat": "thời gian"
+  },
+  {
+    "w": "now",
+    "p": "",
+    "m": "bây giờ",
+    "cat": "thời gian"
+  },
+  {
+    "w": "later",
+    "p": "",
+    "m": "sau này, lát nữa",
+    "cat": "thời gian"
+  },
+  {
+    "w": "soon",
+    "p": "",
+    "m": "sớm thôi",
+    "cat": "thời gian"
+  },
+  {
+    "w": "always",
+    "p": "",
+    "m": "luôn luôn",
+    "cat": "thời gian"
+  },
+  {
+    "w": "never",
+    "p": "",
+    "m": "không bao giờ",
+    "cat": "thời gian"
+  },
+  {
+    "w": "often",
+    "p": "",
+    "m": "thường xuyên",
+    "cat": "thời gian"
+  },
+  {
+    "w": "sometimes",
+    "p": "",
+    "m": "đôi khi",
+    "cat": "thời gian"
+  },
+  {
+    "w": "every day",
+    "p": "",
+    "m": "mỗi ngày",
+    "cat": "thời gian"
+  },
+  {
+    "w": "week",
+    "p": "",
+    "m": "tuần",
+    "cat": "thời gian"
+  },
+  {
+    "w": "month",
+    "p": "",
+    "m": "tháng",
+    "cat": "thời gian"
+  },
+  {
+    "w": "year",
+    "p": "",
+    "m": "năm",
+    "cat": "thời gian"
+  },
+  {
+    "w": "hour",
+    "p": "",
+    "m": "giờ",
+    "cat": "thời gian"
+  },
+  {
+    "w": "minute",
+    "p": "",
+    "m": "phút",
+    "cat": "thời gian"
+  },
+  {
+    "w": "early",
+    "p": "",
+    "m": "sớm",
+    "cat": "thời gian"
+  },
+  {
+    "w": "late",
+    "p": "",
+    "m": "muộn, trễ",
+    "cat": "thời gian"
+  },
+  {
+    "w": "after",
+    "p": "",
+    "m": "sau",
+    "cat": "thời gian"
+  },
+  {
+    "w": "weekend",
+    "p": "",
+    "m": "cuối tuần",
+    "cat": "thời gian"
+  },
+  {
+    "w": "holiday",
+    "p": "",
+    "m": "ngày lễ",
+    "cat": "thời gian"
+  },
+  {
+    "w": "breakfast",
+    "p": "",
+    "m": "bữa sáng",
+    "cat": "thời gian"
+  },
+  {
+    "w": "lunch",
+    "p": "",
+    "m": "bữa trưa",
+    "cat": "thời gian"
+  },
+  {
+    "w": "dinner",
+    "p": "",
+    "m": "bữa tối",
+    "cat": "thời gian"
+  },
+  {
+    "w": "bread",
+    "p": "",
+    "m": "bánh mì",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "rice",
+    "p": "",
+    "m": "cơm, gạo",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "egg",
+    "p": "",
+    "m": "quả trứng",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "meat",
+    "p": "",
+    "m": "thịt",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "fish",
+    "p": "",
+    "m": "cá",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "chicken",
+    "p": "",
+    "m": "thịt gà",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "vegetable",
+    "p": "",
+    "m": "rau củ",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "apple",
+    "p": "",
+    "m": "quả táo",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "banana",
+    "p": "",
+    "m": "quả chuối",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "orange",
+    "p": "",
+    "m": "quả cam",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "tomato",
+    "p": "",
+    "m": "cà chua",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "salt",
+    "p": "",
+    "m": "muối",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "sugar",
+    "p": "",
+    "m": "đường",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "oil",
+    "p": "",
+    "m": "dầu ăn",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "soup",
+    "p": "",
+    "m": "súp, canh",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "cake",
+    "p": "",
+    "m": "bánh ngọt",
+    "cat": "thức ăn"
+  },
+  {
+    "w": "water",
+    "p": "",
+    "m": "nước",
+    "cat": "đồ uống"
+  },
+  {
+    "w": "milk",
+    "p": "",
+    "m": "sữa",
+    "cat": "đồ uống"
+  },
+  {
+    "w": "juice",
+    "p": "",
+    "m": "nước ép",
+    "cat": "đồ uống"
+  },
+  {
+    "w": "tea",
+    "p": "",
+    "m": "trà",
+    "cat": "đồ uống"
+  },
+  {
+    "w": "coffee",
+    "p": "",
+    "m": "cà phê",
+    "cat": "đồ uống"
+  },
+  {
+    "w": "happy",
+    "p": "",
+    "m": "vui, hạnh phúc",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "sad",
+    "p": "",
+    "m": "buồn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "angry",
+    "p": "",
+    "m": "tức giận",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "tired",
+    "p": "",
+    "m": "mệt mỏi",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "hungry",
+    "p": "",
+    "m": "đói bụng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "thirsty",
+    "p": "",
+    "m": "khát nước",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "scared",
+    "p": "",
+    "m": "sợ hãi",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "excited",
+    "p": "",
+    "m": "hứng thú, phấn khích",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "man",
+    "p": "",
+    "m": "đàn ông",
+    "cat": "người"
+  },
+  {
+    "w": "woman",
+    "p": "",
+    "m": "phụ nữ",
+    "cat": "người"
+  },
+  {
+    "w": "boy",
+    "p": "",
+    "m": "bé trai",
+    "cat": "người"
+  },
+  {
+    "w": "girl",
+    "p": "",
+    "m": "bé gái",
+    "cat": "người"
+  },
+  {
+    "w": "baby",
+    "p": "",
+    "m": "em bé",
+    "cat": "người"
+  },
+  {
+    "w": "friend",
+    "p": "",
+    "m": "bạn bè",
+    "cat": "người"
+  },
+  {
+    "w": "mother",
+    "p": "",
+    "m": "mẹ",
+    "cat": "gia đình"
+  },
+  {
+    "w": "father",
+    "p": "",
+    "m": "bố",
+    "cat": "gia đình"
+  },
+  {
+    "w": "brother",
+    "p": "",
+    "m": "anh/em trai",
+    "cat": "gia đình"
+  },
+  {
+    "w": "sister",
+    "p": "",
+    "m": "chị/em gái",
+    "cat": "gia đình"
+  },
+  {
+    "w": "family",
+    "p": "",
+    "m": "gia đình",
+    "cat": "gia đình"
+  },
+  {
+    "w": "school",
+    "p": "",
+    "m": "trường học",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "hospital",
+    "p": "",
+    "m": "bệnh viện",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "shop",
+    "p": "",
+    "m": "cửa hàng",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "market",
+    "p": "",
+    "m": "chợ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "park",
+    "p": "",
+    "m": "công viên",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "red",
+    "p": "",
+    "m": "màu đỏ",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "blue",
+    "p": "",
+    "m": "màu xanh lam",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "green",
+    "p": "",
+    "m": "màu xanh lá",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "yellow",
+    "p": "",
+    "m": "màu vàng",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "white",
+    "p": "",
+    "m": "màu trắng",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "black",
+    "p": "",
+    "m": "màu đen",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "one",
+    "p": "",
+    "m": "số một",
+    "cat": "số đếm"
+  },
+  {
+    "w": "two",
+    "p": "",
+    "m": "số hai",
+    "cat": "số đếm"
+  },
+  {
+    "w": "three",
+    "p": "",
+    "m": "số ba",
+    "cat": "số đếm"
+  },
+  {
+    "w": "four",
+    "p": "",
+    "m": "số bốn",
+    "cat": "số đếm"
+  },
+  {
+    "w": "five",
+    "p": "",
+    "m": "số năm",
+    "cat": "số đếm"
+  },
+  {
+    "w": "ten",
+    "p": "",
+    "m": "số mười",
+    "cat": "số đếm"
+  },
+  {
+    "w": "dog",
+    "p": "",
+    "m": "con chó",
+    "cat": "động vật"
+  },
+  {
+    "w": "cat",
+    "p": "",
+    "m": "con mèo",
+    "cat": "động vật"
+  },
+  {
+    "w": "bird",
+    "p": "",
+    "m": "con chim",
+    "cat": "động vật"
+  },
+  {
+    "w": "sun",
+    "p": "",
+    "m": "mặt trời",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "moon",
+    "p": "",
+    "m": "mặt trăng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "tree",
+    "p": "",
+    "m": "cây",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "rain",
+    "p": "",
+    "m": "mưa",
+    "cat": "thời tiết"
+  },
+  {
+    "w": "cloud",
+    "p": "",
+    "m": "đám mây",
+    "cat": "thời tiết"
+  },
+  {
+    "w": "wind",
+    "p": "",
+    "m": "gió",
+    "cat": "thời tiết"
+  },
+  {
+    "w": "snow",
+    "p": "",
+    "m": "tuyết",
+    "cat": "thời tiết"
+  },
+  {
+    "w": "car",
+    "p": "",
+    "m": "xe ô tô",
+    "cat": "giao thông"
+  },
+  {
+    "w": "bus",
+    "p": "",
+    "m": "xe buýt",
+    "cat": "giao thông"
+  },
+  {
+    "w": "bike",
+    "p": "",
+    "m": "xe đạp",
+    "cat": "giao thông"
+  },
+  {
+    "w": "shirt",
+    "p": "",
+    "m": "áo sơ mi",
+    "cat": "quần áo"
+  },
+  {
+    "w": "shoes",
+    "p": "",
+    "m": "giày",
+    "cat": "quần áo"
+  },
+  {
+    "w": "hat",
+    "p": "",
+    "m": "cái mũ",
+    "cat": "quần áo"
+  },
+  {
+    "w": "pants",
+    "p": "",
+    "m": "quần dài",
+    "cat": "quần áo"
+  },
+  {
+    "w": "head",
+    "p": "",
+    "m": "đầu",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "hand",
+    "p": "",
+    "m": "bàn tay",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "eye",
+    "p": "",
+    "m": "mắt",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "mouth",
+    "p": "",
+    "m": "miệng",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "nose",
+    "p": "",
+    "m": "mũi",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "teacher",
+    "p": "",
+    "m": "giáo viên",
+    "cat": "học tập"
+  },
+  {
+    "w": "student",
+    "p": "",
+    "m": "học sinh",
+    "cat": "học tập"
+  },
+  {
+    "w": "lesson",
+    "p": "",
+    "m": "bài học",
+    "cat": "học tập"
+  },
+  {
+    "w": "word",
+    "p": "",
+    "m": "từ ngữ",
+    "cat": "học tập"
+  },
+  {
+    "w": "question",
+    "p": "",
+    "m": "câu hỏi",
+    "cat": "học tập"
+  },
+  {
+    "w": "answer",
+    "p": "",
+    "m": "câu trả lời",
+    "cat": "học tập"
+  },
+  {
+    "w": "money",
+    "p": "",
+    "m": "tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "price",
+    "p": "",
+    "m": "giá cả",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "work",
+    "p": "",
+    "m": "làm việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "job",
+    "p": "",
+    "m": "công việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "computer",
+    "p": "",
+    "m": "máy tính",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "phone",
+    "p": "",
+    "m": "điện thoại",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "television",
+    "p": "",
+    "m": "tivi",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "very",
+    "p": "",
+    "m": "rất",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "also",
+    "p": "",
+    "m": "cũng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "too",
+    "p": "",
+    "m": "cũng, quá",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "here",
+    "p": "",
+    "m": "ở đây",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "there",
+    "p": "",
+    "m": "ở đó",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "yes",
+    "p": "",
+    "m": "vâng, có",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "no",
+    "p": "",
+    "m": "không",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "please",
+    "p": "",
+    "m": "làm ơn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "well",
+    "p": "",
+    "m": "tốt, khỏe",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "again",
+    "p": "",
+    "m": "lại, một lần nữa",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "really",
+    "p": "",
+    "m": "thực sự",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "just",
+    "p": "",
+    "m": "chỉ, vừa mới",
+    "cat": "trạng từ"
+  }
+]

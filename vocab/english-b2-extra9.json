@@ -1,0 +1,1857 @@
+[
+  {
+    "w": "surgeon",
+    "m": "bác sĩ phẫu thuật",
+    "cat": "người"
+  },
+  {
+    "w": "physician",
+    "m": "bác sĩ nội khoa",
+    "cat": "người"
+  },
+  {
+    "w": "pharmacist",
+    "m": "dược sĩ",
+    "cat": "người"
+  },
+  {
+    "w": "paramedic",
+    "m": "nhân viên cấp cứu",
+    "cat": "người"
+  },
+  {
+    "w": "therapist",
+    "m": "nhà trị liệu",
+    "cat": "người"
+  },
+  {
+    "w": "psychologist",
+    "m": "nhà tâm lý học",
+    "cat": "người"
+  },
+  {
+    "w": "economist",
+    "m": "nhà kinh tế học",
+    "cat": "người"
+  },
+  {
+    "w": "accountant",
+    "m": "kế toán viên",
+    "cat": "người"
+  },
+  {
+    "w": "auditor",
+    "m": "kiểm toán viên",
+    "cat": "người"
+  },
+  {
+    "w": "analyst",
+    "m": "chuyên viên phân tích",
+    "cat": "người"
+  },
+  {
+    "w": "consultant",
+    "m": "chuyên gia tư vấn",
+    "cat": "người"
+  },
+  {
+    "w": "entrepreneur",
+    "m": "doanh nhân khởi nghiệp",
+    "cat": "người"
+  },
+  {
+    "w": "executive",
+    "m": "giám đốc điều hành",
+    "cat": "người"
+  },
+  {
+    "w": "administrator",
+    "m": "quản trị viên",
+    "cat": "người"
+  },
+  {
+    "w": "supervisor",
+    "m": "người giám sát",
+    "cat": "người"
+  },
+  {
+    "w": "technician",
+    "m": "kỹ thuật viên",
+    "cat": "người"
+  },
+  {
+    "w": "electrician",
+    "m": "thợ điện",
+    "cat": "người"
+  },
+  {
+    "w": "plumber",
+    "m": "thợ sửa ống nước",
+    "cat": "người"
+  },
+  {
+    "w": "carpenter",
+    "m": "thợ mộc",
+    "cat": "người"
+  },
+  {
+    "w": "mechanic",
+    "m": "thợ máy",
+    "cat": "người"
+  },
+  {
+    "w": "welder",
+    "m": "thợ hàn",
+    "cat": "người"
+  },
+  {
+    "w": "blacksmith",
+    "m": "thợ rèn",
+    "cat": "người"
+  },
+  {
+    "w": "locksmith",
+    "m": "thợ khóa",
+    "cat": "người"
+  },
+  {
+    "w": "tailor",
+    "m": "thợ may",
+    "cat": "người"
+  },
+  {
+    "w": "cobbler",
+    "m": "thợ đóng giày",
+    "cat": "người"
+  },
+  {
+    "w": "jeweller",
+    "m": "thợ kim hoàn",
+    "cat": "người"
+  },
+  {
+    "w": "florist",
+    "m": "người bán hoa",
+    "cat": "người"
+  },
+  {
+    "w": "butcher",
+    "m": "người bán thịt",
+    "cat": "người"
+  },
+  {
+    "w": "baker",
+    "m": "thợ làm bánh",
+    "cat": "người"
+  },
+  {
+    "w": "barber",
+    "m": "thợ cắt tóc nam",
+    "cat": "người"
+  },
+  {
+    "w": "hairdresser",
+    "m": "thợ làm tóc",
+    "cat": "người"
+  },
+  {
+    "w": "beautician",
+    "m": "chuyên viên thẩm mỹ",
+    "cat": "người"
+  },
+  {
+    "w": "masseur",
+    "m": "người mát-xa nam",
+    "cat": "người"
+  },
+  {
+    "w": "librarian",
+    "m": "thủ thư",
+    "cat": "người"
+  },
+  {
+    "w": "curator",
+    "m": "người phụ trách bảo tàng",
+    "cat": "người"
+  },
+  {
+    "w": "archaeologist",
+    "m": "nhà khảo cổ học",
+    "cat": "người"
+  },
+  {
+    "w": "geologist",
+    "m": "nhà địa chất học",
+    "cat": "người"
+  },
+  {
+    "w": "biologist",
+    "m": "nhà sinh học",
+    "cat": "người"
+  },
+  {
+    "w": "chemist",
+    "m": "nhà hóa học",
+    "cat": "người"
+  },
+  {
+    "w": "physicist",
+    "m": "nhà vật lý học",
+    "cat": "người"
+  },
+  {
+    "w": "astronomer",
+    "m": "nhà thiên văn học",
+    "cat": "người"
+  },
+  {
+    "w": "mathematician",
+    "m": "nhà toán học",
+    "cat": "người"
+  },
+  {
+    "w": "statistician",
+    "m": "nhà thống kê",
+    "cat": "người"
+  },
+  {
+    "w": "meteorologist",
+    "m": "nhà khí tượng học",
+    "cat": "người"
+  },
+  {
+    "w": "veterinarian",
+    "m": "bác sĩ thú y",
+    "cat": "người"
+  },
+  {
+    "w": "botanist",
+    "m": "nhà thực vật học",
+    "cat": "người"
+  },
+  {
+    "w": "zoologist",
+    "m": "nhà động vật học",
+    "cat": "người"
+  },
+  {
+    "w": "linguist",
+    "m": "nhà ngôn ngữ học",
+    "cat": "người"
+  },
+  {
+    "w": "diplomat",
+    "m": "nhà ngoại giao",
+    "cat": "người"
+  },
+  {
+    "w": "ambassador",
+    "m": "đại sứ",
+    "cat": "người"
+  },
+  {
+    "w": "senator",
+    "m": "thượng nghị sĩ",
+    "cat": "người"
+  },
+  {
+    "w": "governor",
+    "m": "thống đốc",
+    "cat": "người"
+  },
+  {
+    "w": "mayor",
+    "m": "thị trưởng",
+    "cat": "người"
+  },
+  {
+    "w": "councillor",
+    "m": "ủy viên hội đồng",
+    "cat": "người"
+  },
+  {
+    "w": "magistrate",
+    "m": "thẩm phán địa phương",
+    "cat": "người"
+  },
+  {
+    "w": "detective",
+    "m": "thám tử",
+    "cat": "người"
+  },
+  {
+    "w": "sergeant",
+    "m": "trung sĩ",
+    "cat": "người"
+  },
+  {
+    "w": "lieutenant",
+    "m": "trung úy",
+    "cat": "người"
+  },
+  {
+    "w": "colonel",
+    "m": "đại tá",
+    "cat": "người"
+  },
+  {
+    "w": "admiral",
+    "m": "đô đốc",
+    "cat": "người"
+  },
+  {
+    "w": "general",
+    "m": "tướng quân",
+    "cat": "người"
+  },
+  {
+    "w": "recruit",
+    "m": "tân binh",
+    "cat": "người"
+  },
+  {
+    "w": "veteran",
+    "m": "cựu chiến binh",
+    "cat": "người"
+  },
+  {
+    "w": "refugee",
+    "m": "người tị nạn",
+    "cat": "society"
+  },
+  {
+    "w": "immigrant",
+    "m": "người nhập cư",
+    "cat": "society"
+  },
+  {
+    "w": "emigrant",
+    "m": "người di cư ra nước ngoài",
+    "cat": "society"
+  },
+  {
+    "w": "citizen",
+    "m": "công dân",
+    "cat": "society"
+  },
+  {
+    "w": "resident",
+    "m": "cư dân",
+    "cat": "society"
+  },
+  {
+    "w": "tenant",
+    "m": "người thuê nhà",
+    "cat": "society"
+  },
+  {
+    "w": "landlord",
+    "m": "chủ nhà cho thuê",
+    "cat": "society"
+  },
+  {
+    "w": "pedestrian",
+    "m": "người đi bộ",
+    "cat": "society"
+  },
+  {
+    "w": "commuter",
+    "m": "người đi làm xa",
+    "cat": "society"
+  },
+  {
+    "w": "passenger",
+    "m": "hành khách",
+    "cat": "society"
+  },
+  {
+    "w": "spectator",
+    "m": "khán giả",
+    "cat": "society"
+  },
+  {
+    "w": "audience",
+    "m": "khán thính giả",
+    "cat": "society"
+  },
+  {
+    "w": "witness",
+    "m": "nhân chứng",
+    "cat": "society"
+  },
+  {
+    "w": "bystander",
+    "m": "người ngoài cuộc",
+    "cat": "society"
+  },
+  {
+    "w": "volunteer",
+    "m": "tình nguyện viên",
+    "cat": "society"
+  },
+  {
+    "w": "apprentice",
+    "m": "người học việc",
+    "cat": "society"
+  },
+  {
+    "w": "intern",
+    "m": "thực tập sinh",
+    "cat": "society"
+  },
+  {
+    "w": "freelancer",
+    "m": "người làm tự do",
+    "cat": "society"
+  },
+  {
+    "w": "colleague",
+    "m": "đồng nghiệp",
+    "cat": "society"
+  },
+  {
+    "w": "subordinate",
+    "m": "cấp dưới",
+    "cat": "society"
+  },
+  {
+    "w": "successor",
+    "m": "người kế nhiệm",
+    "cat": "society"
+  },
+  {
+    "w": "predecessor",
+    "m": "người tiền nhiệm",
+    "cat": "society"
+  },
+  {
+    "w": "heir",
+    "m": "người thừa kế",
+    "cat": "society"
+  },
+  {
+    "w": "orphan",
+    "m": "trẻ mồ côi",
+    "cat": "society"
+  },
+  {
+    "w": "widow",
+    "m": "góa phụ",
+    "cat": "society"
+  },
+  {
+    "w": "widower",
+    "m": "người đàn ông góa vợ",
+    "cat": "society"
+  },
+  {
+    "w": "bachelor",
+    "m": "người độc thân; cử nhân",
+    "cat": "society"
+  },
+  {
+    "w": "toddler",
+    "m": "trẻ mới biết đi",
+    "cat": "society"
+  },
+  {
+    "w": "adolescent",
+    "m": "thanh thiếu niên",
+    "cat": "society"
+  },
+  {
+    "w": "teenager",
+    "m": "thiếu niên",
+    "cat": "society"
+  },
+  {
+    "w": "infant",
+    "m": "trẻ sơ sinh",
+    "cat": "society"
+  },
+  {
+    "w": "steering wheel",
+    "m": "vô lăng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "dashboard",
+    "m": "bảng điều khiển xe",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "windscreen",
+    "m": "kính chắn gió",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bumper",
+    "m": "cản xe",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "exhaust pipe",
+    "m": "ống xả",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "clutch",
+    "m": "bộ ly hợp",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "gearbox",
+    "m": "hộp số",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "radiator",
+    "m": "bộ tản nhiệt",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "carburettor",
+    "m": "bộ chế hòa khí",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "throttle",
+    "m": "van tiết lưu, ga",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "ignition",
+    "m": "hệ thống đánh lửa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "axle",
+    "m": "trục xe",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "chassis",
+    "m": "khung gầm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "suspension",
+    "m": "hệ thống giảm xóc",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "transmission",
+    "m": "hệ thống truyền động",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "odometer",
+    "m": "đồng hồ đo quãng đường",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "spanner",
+    "m": "cờ lê",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "wrench",
+    "m": "mỏ lết",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pliers",
+    "m": "kìm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "screwdriver",
+    "m": "tua vít",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "chisel",
+    "m": "cái đục",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "drill",
+    "m": "máy khoan",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "sandpaper",
+    "m": "giấy nhám",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "adhesive",
+    "m": "chất kết dính",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "lubricant",
+    "m": "chất bôi trơn",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "tweezers",
+    "m": "cái nhíp",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "magnifier",
+    "m": "kính lúp",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "telescope",
+    "m": "kính viễn vọng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "microscope",
+    "m": "kính hiển vi",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "barometer",
+    "m": "phong vũ biểu",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "thermometer",
+    "m": "nhiệt kế",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "stethoscope",
+    "m": "ống nghe y khoa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "syringe",
+    "m": "ống tiêm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "scalpel",
+    "m": "dao mổ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bandage",
+    "m": "băng gạc",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "crutch",
+    "m": "nạng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "wheelchair",
+    "m": "xe lăn",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "stretcher",
+    "m": "cáng cứu thương",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "compass",
+    "m": "la bàn",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "binoculars",
+    "m": "ống nhòm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "tripod",
+    "m": "chân máy ba chân",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "projector",
+    "m": "máy chiếu",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "amplifier",
+    "m": "bộ khuếch đại",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "microphone",
+    "m": "micro",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "generator",
+    "m": "máy phát điện",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "transformer",
+    "m": "máy biến áp",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "battery",
+    "m": "pin, ắc quy",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "socket",
+    "m": "ổ cắm điện",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "fuse",
+    "m": "cầu chì",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "valve",
+    "m": "van",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "piston",
+    "m": "pít-tông",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "gauge",
+    "m": "đồng hồ đo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "lever",
+    "m": "đòn bẩy, cần gạt",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pulley",
+    "m": "ròng rọc",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "hinge",
+    "m": "bản lề",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bolt",
+    "m": "bu lông",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "nut",
+    "m": "đai ốc",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "washer",
+    "m": "vòng đệm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "rivet",
+    "m": "đinh tán",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "clamp",
+    "m": "cái kẹp",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "violin",
+    "m": "đàn vĩ cầm",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "cello",
+    "m": "đàn xen-lô",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "flute",
+    "m": "sáo",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "clarinet",
+    "m": "kèn cla-ri-nét",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "trumpet",
+    "m": "kèn trompet",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "saxophone",
+    "m": "kèn xắc-xô",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "trombone",
+    "m": "kèn trombone",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "harp",
+    "m": "đàn hạc",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "accordion",
+    "m": "đàn xếp",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "harmonica",
+    "m": "kèn ác-mô-ni-ca",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "tambourine",
+    "m": "trống lục lạc",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "xylophone",
+    "m": "đàn phiến gỗ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "bagpipes",
+    "m": "kèn túi",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "keyboard",
+    "m": "đàn phím điện tử",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "conductor",
+    "m": "nhạc trưởng",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "soloist",
+    "m": "nghệ sĩ độc tấu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "choir",
+    "m": "dàn hợp xướng",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "melody",
+    "m": "giai điệu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "harmony",
+    "m": "hòa âm",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "rhythm",
+    "m": "nhịp điệu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "tempo",
+    "m": "nhịp độ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "lyrics",
+    "m": "lời bài hát",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "ballad",
+    "m": "ca khúc trữ tình",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "anthem",
+    "m": "bài ca chính thức",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "archery",
+    "m": "bắn cung",
+    "cat": "thể thao"
+  },
+  {
+    "w": "fencing",
+    "m": "đấu kiếm",
+    "cat": "thể thao"
+  },
+  {
+    "w": "gymnastics",
+    "m": "thể dục dụng cụ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "athletics",
+    "m": "điền kinh",
+    "cat": "thể thao"
+  },
+  {
+    "w": "wrestling",
+    "m": "đấu vật",
+    "cat": "thể thao"
+  },
+  {
+    "w": "judo",
+    "m": "võ judo",
+    "cat": "thể thao"
+  },
+  {
+    "w": "karate",
+    "m": "võ karate",
+    "cat": "thể thao"
+  },
+  {
+    "w": "rowing",
+    "m": "chèo thuyền",
+    "cat": "thể thao"
+  },
+  {
+    "w": "sailing",
+    "m": "đua thuyền buồm",
+    "cat": "thể thao"
+  },
+  {
+    "w": "canoeing",
+    "m": "chèo xuồng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "surfing",
+    "m": "lướt sóng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "snowboarding",
+    "m": "trượt ván tuyết",
+    "cat": "thể thao"
+  },
+  {
+    "w": "skateboarding",
+    "m": "trượt ván",
+    "cat": "thể thao"
+  },
+  {
+    "w": "cycling",
+    "m": "đua xe đạp",
+    "cat": "thể thao"
+  },
+  {
+    "w": "hurdles",
+    "m": "chạy vượt rào",
+    "cat": "thể thao"
+  },
+  {
+    "w": "javelin",
+    "m": "ném lao",
+    "cat": "thể thao"
+  },
+  {
+    "w": "discus",
+    "m": "ném đĩa",
+    "cat": "thể thao"
+  },
+  {
+    "w": "hockey",
+    "m": "khúc côn cầu",
+    "cat": "thể thao"
+  },
+  {
+    "w": "rugby",
+    "m": "bóng bầu dục",
+    "cat": "thể thao"
+  },
+  {
+    "w": "cricket",
+    "m": "môn cricket",
+    "cat": "thể thao"
+  },
+  {
+    "w": "squash",
+    "m": "bóng quần",
+    "cat": "thể thao"
+  },
+  {
+    "w": "referee",
+    "m": "trọng tài",
+    "cat": "thể thao"
+  },
+  {
+    "w": "umpire",
+    "m": "trọng tài (tennis, cricket)",
+    "cat": "thể thao"
+  },
+  {
+    "w": "stadium",
+    "m": "sân vận động",
+    "cat": "thể thao"
+  },
+  {
+    "w": "arena",
+    "m": "đấu trường",
+    "cat": "thể thao"
+  },
+  {
+    "w": "marathon",
+    "m": "chạy marathon",
+    "cat": "thể thao"
+  },
+  {
+    "w": "championship",
+    "m": "giải vô địch",
+    "cat": "thể thao"
+  },
+  {
+    "w": "tournament",
+    "m": "giải đấu",
+    "cat": "thể thao"
+  },
+  {
+    "w": "trophy",
+    "m": "cúp vô địch",
+    "cat": "thể thao"
+  },
+  {
+    "w": "podium",
+    "m": "bục trao giải",
+    "cat": "thể thao"
+  },
+  {
+    "w": "spinach",
+    "m": "rau bina",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "broccoli",
+    "m": "bông cải xanh",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "cauliflower",
+    "m": "súp lơ trắng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "cabbage",
+    "m": "bắp cải",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "lettuce",
+    "m": "rau diếp",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "celery",
+    "m": "cần tây",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "cucumber",
+    "m": "dưa chuột",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "aubergine",
+    "m": "cà tím",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "courgette",
+    "m": "bí ngòi",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "pumpkin",
+    "m": "bí ngô",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "radish",
+    "m": "củ cải",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "beetroot",
+    "m": "củ dền",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "turnip",
+    "m": "củ cải trắng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "asparagus",
+    "m": "măng tây",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "artichoke",
+    "m": "a-ti-sô",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "mushroom",
+    "m": "nấm",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "chickpea",
+    "m": "đậu gà",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "lentil",
+    "m": "đậu lăng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "apricot",
+    "m": "quả mơ",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "plum",
+    "m": "quả mận",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "raspberry",
+    "m": "phúc bồn tử",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "blueberry",
+    "m": "việt quất",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "blackberry",
+    "m": "mâm xôi đen",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "cranberry",
+    "m": "nam việt quất",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "pomegranate",
+    "m": "quả lựu",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "coconut",
+    "m": "quả dừa",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "avocado",
+    "m": "quả bơ",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "fig",
+    "m": "quả sung",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "date",
+    "m": "quả chà là",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "walnut",
+    "m": "quả óc chó",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "almond",
+    "m": "hạnh nhân",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "cashew",
+    "m": "hạt điều",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "hazelnut",
+    "m": "hạt phỉ",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "chestnut",
+    "m": "hạt dẻ",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "cinnamon",
+    "m": "quế",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "nutmeg",
+    "m": "nhục đậu khấu",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "turmeric",
+    "m": "nghệ",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "cumin",
+    "m": "thì là Ai Cập",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "coriander",
+    "m": "rau mùi",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "parsley",
+    "m": "mùi tây",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "basil",
+    "m": "húng quế",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "oregano",
+    "m": "lá kinh giới",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "vinegar",
+    "m": "giấm",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "mustard",
+    "m": "mù tạt",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "mayonnaise",
+    "m": "sốt mayonnaise",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "yeast",
+    "m": "men nở",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "dough",
+    "m": "bột nhào",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "batter",
+    "m": "bột nhão",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "custard",
+    "m": "kem trứng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "pastry",
+    "m": "bánh ngọt nướng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "crust",
+    "m": "vỏ bánh",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "poultry",
+    "m": "gia cầm",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "venison",
+    "m": "thịt nai",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "mutton",
+    "m": "thịt cừu già",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "sausage",
+    "m": "xúc xích",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "bacon",
+    "m": "thịt xông khói",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "sardine",
+    "m": "cá mòi",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "salmon",
+    "m": "cá hồi",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "tuna",
+    "m": "cá ngừ",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "trout",
+    "m": "cá hồi vân",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "squid",
+    "m": "mực ống",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "oyster",
+    "m": "hàu",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "mussel",
+    "m": "trai, vẹm",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "scallop",
+    "m": "sò điệp",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "lobster",
+    "m": "tôm hùm",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "continent",
+    "m": "lục địa",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "nationality",
+    "m": "quốc tịch",
+    "cat": "society"
+  },
+  {
+    "w": "frontier",
+    "m": "biên cương",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "territory",
+    "m": "lãnh thổ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "province",
+    "m": "tỉnh",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "municipality",
+    "m": "khu tự quản, thành phố",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "metropolis",
+    "m": "đô thị lớn",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "outskirts",
+    "m": "vùng ngoại ô",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "slum",
+    "m": "khu ổ chuột",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "harbour",
+    "m": "bến cảng",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "dock",
+    "m": "bến tàu",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "wharf",
+    "m": "cầu cảng",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "lighthouse",
+    "m": "hải đăng",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "observatory",
+    "m": "đài thiên văn",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "cathedral",
+    "m": "nhà thờ lớn",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "monastery",
+    "m": "tu viện",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "shrine",
+    "m": "đền thờ nhỏ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "fortress",
+    "m": "pháo đài",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "citadel",
+    "m": "thành lũy",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "monument",
+    "m": "đài tưởng niệm",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "landmark",
+    "m": "địa danh nổi bật",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "plaza",
+    "m": "quảng trường",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "boulevard",
+    "m": "đại lộ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "alley",
+    "m": "con hẻm",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "crossroads",
+    "m": "ngã tư đường",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "roundabout",
+    "m": "vòng xuyến",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "junction",
+    "m": "giao lộ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "underpass",
+    "m": "hầm chui",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "overpass",
+    "m": "cầu vượt",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "viaduct",
+    "m": "cầu cạn",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "aqueduct",
+    "m": "cầu máng dẫn nước",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "reservoir",
+    "m": "hồ chứa nước",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "dam",
+    "m": "đập nước",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "canal",
+    "m": "kênh đào",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "current account",
+    "m": "tài khoản vãng lai",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "savings account",
+    "m": "tài khoản tiết kiệm",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "overdraft",
+    "m": "thấu chi",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "interest rate",
+    "m": "lãi suất",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "installment",
+    "m": "trả góp",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "invoice",
+    "m": "hóa đơn",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "receipt",
+    "m": "biên lai",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "transaction",
+    "m": "giao dịch",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "withdrawal",
+    "m": "sự rút tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "deposit",
+    "m": "khoản tiền gửi",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "balance",
+    "m": "số dư",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "statement",
+    "m": "sao kê",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "currency",
+    "m": "tiền tệ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "exchange rate",
+    "m": "tỷ giá hối đoái",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "commission",
+    "m": "hoa hồng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "premium",
+    "m": "phí bảo hiểm",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "pension",
+    "m": "lương hưu",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "inheritance",
+    "m": "tài sản thừa kế",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "allowance",
+    "m": "tiền trợ cấp",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "wage",
+    "m": "tiền công",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "salary",
+    "m": "lương tháng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "bonus",
+    "m": "tiền thưởng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "fee",
+    "m": "lệ phí",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "fare",
+    "m": "tiền vé",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "toll",
+    "m": "phí cầu đường",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "rent",
+    "m": "tiền thuê",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "loan",
+    "m": "khoản vay",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "debt",
+    "m": "nợ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "profit",
+    "m": "lợi nhuận",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "expenditure",
+    "m": "khoản chi tiêu",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "thunderstorm",
+    "m": "giông bão có sấm",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "drizzle",
+    "m": "mưa phùn",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "downpour",
+    "m": "trận mưa như trút",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "blizzard",
+    "m": "bão tuyết",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "hailstorm",
+    "m": "mưa đá",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "frost",
+    "m": "sương giá",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "dew",
+    "m": "sương",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "mist",
+    "m": "sương mỏng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "breeze",
+    "m": "gió nhẹ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "gale",
+    "m": "gió mạnh",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "draught",
+    "m": "luồng gió lùa",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "avalanche",
+    "m": "tuyết lở",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "landslide",
+    "m": "lở đất",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "drought",
+    "m": "hạn hán",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "famine",
+    "m": "nạn đói",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "tide",
+    "m": "thủy triều",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "wave",
+    "m": "sóng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "ripple",
+    "m": "gợn sóng lăn tăn",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "current",
+    "m": "dòng chảy",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "whirlpool",
+    "m": "xoáy nước",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "meadow",
+    "m": "đồng cỏ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "pasture",
+    "m": "bãi chăn thả",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "marsh",
+    "m": "đầm lầy",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "swamp",
+    "m": "vùng đầm lầy",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "bog",
+    "m": "đầm lầy than bùn",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "cliff",
+    "m": "vách đá",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "ravine",
+    "m": "khe núi sâu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "gorge",
+    "m": "hẻm núi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "summit",
+    "m": "đỉnh núi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "slope",
+    "m": "sườn dốc",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "foothill",
+    "m": "chân đồi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "boulder",
+    "m": "tảng đá lớn",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "pebble",
+    "m": "viên sỏi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "gravel",
+    "m": "sỏi đá",
+    "cat": "thiên nhiên"
+  }
+]

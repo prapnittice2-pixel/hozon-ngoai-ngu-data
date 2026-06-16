@@ -1,0 +1,1718 @@
+[
+  {
+    "w": "逻辑",
+    "p": "luó jí",
+    "m": "logic",
+    "cat": "academic"
+  },
+  {
+    "w": "辩证",
+    "p": "biàn zhèng",
+    "m": "biện chứng",
+    "cat": "academic"
+  },
+  {
+    "w": "抽象",
+    "p": "chōu xiàng",
+    "m": "trừu tượng",
+    "cat": "academic"
+  },
+  {
+    "w": "具体",
+    "p": "jù tǐ",
+    "m": "cụ thể",
+    "cat": "academic"
+  },
+  {
+    "w": "概括",
+    "p": "gài kuò",
+    "m": "khái quát",
+    "cat": "academic"
+  },
+  {
+    "w": "归纳",
+    "p": "guī nà",
+    "m": "quy nạp",
+    "cat": "academic"
+  },
+  {
+    "w": "演绎",
+    "p": "yǎn yì",
+    "m": "diễn dịch",
+    "cat": "academic"
+  },
+  {
+    "w": "推理",
+    "p": "tuī lǐ",
+    "m": "suy luận",
+    "cat": "academic"
+  },
+  {
+    "w": "论证",
+    "p": "lùn zhèng",
+    "m": "luận chứng",
+    "cat": "academic"
+  },
+  {
+    "w": "假设",
+    "p": "jiǎ shè",
+    "m": "giả thuyết",
+    "cat": "academic"
+  },
+  {
+    "w": "前提",
+    "p": "qián tí",
+    "m": "tiền đề",
+    "cat": "academic"
+  },
+  {
+    "w": "结论",
+    "p": "jié lùn",
+    "m": "kết luận",
+    "cat": "academic"
+  },
+  {
+    "w": "依据",
+    "p": "yī jù",
+    "m": "căn cứ",
+    "cat": "academic"
+  },
+  {
+    "w": "论据",
+    "p": "lùn jù",
+    "m": "luận cứ",
+    "cat": "academic"
+  },
+  {
+    "w": "范畴",
+    "p": "fàn chóu",
+    "m": "phạm trù",
+    "cat": "academic"
+  },
+  {
+    "w": "本质",
+    "p": "běn zhì",
+    "m": "bản chất",
+    "cat": "academic"
+  },
+  {
+    "w": "内涵",
+    "p": "nèi hán",
+    "m": "hàm nghĩa, nội hàm",
+    "cat": "academic"
+  },
+  {
+    "w": "外延",
+    "p": "wài yán",
+    "m": "ngoại diên",
+    "cat": "academic"
+  },
+  {
+    "w": "实质",
+    "p": "shí zhì",
+    "m": "thực chất",
+    "cat": "academic"
+  },
+  {
+    "w": "要素",
+    "p": "yào sù",
+    "m": "yếu tố",
+    "cat": "academic"
+  },
+  {
+    "w": "机制",
+    "p": "jī zhì",
+    "m": "cơ chế",
+    "cat": "academic"
+  },
+  {
+    "w": "体制",
+    "p": "tǐ zhì",
+    "m": "thể chế",
+    "cat": "academic"
+  },
+  {
+    "w": "格局",
+    "p": "gé jú",
+    "m": "cục diện, bố cục lớn",
+    "cat": "academic"
+  },
+  {
+    "w": "框架",
+    "p": "kuàng jià",
+    "m": "khung, sườn",
+    "cat": "academic"
+  },
+  {
+    "w": "模式",
+    "p": "mó shì",
+    "m": "mô hình",
+    "cat": "academic"
+  },
+  {
+    "w": "结构",
+    "p": "jié gòu",
+    "m": "cấu trúc",
+    "cat": "academic"
+  },
+  {
+    "w": "层次",
+    "p": "céng cì",
+    "m": "tầng nấc, cấp độ",
+    "cat": "academic"
+  },
+  {
+    "w": "维度",
+    "p": "wéi dù",
+    "m": "chiều, khía cạnh",
+    "cat": "academic"
+  },
+  {
+    "w": "脉络",
+    "p": "mài luò",
+    "m": "mạch lạc, mạch nguồn",
+    "cat": "academic"
+  },
+  {
+    "w": "雏形",
+    "p": "chú xíng",
+    "m": "hình hài ban đầu",
+    "cat": "academic"
+  },
+  {
+    "w": "瓶颈",
+    "p": "píng jǐng",
+    "m": "nút thắt cổ chai",
+    "cat": "academic"
+  },
+  {
+    "w": "症结",
+    "p": "zhèng jié",
+    "m": "mấu chốt vấn đề",
+    "cat": "academic"
+  },
+  {
+    "w": "误区",
+    "p": "wù qū",
+    "m": "vùng nhận thức sai lầm",
+    "cat": "academic"
+  },
+  {
+    "w": "盲区",
+    "p": "máng qū",
+    "m": "điểm mù",
+    "cat": "academic"
+  },
+  {
+    "w": "潜力",
+    "p": "qián lì",
+    "m": "tiềm năng",
+    "cat": "academic"
+  },
+  {
+    "w": "潜能",
+    "p": "qián néng",
+    "m": "tiềm năng ẩn",
+    "cat": "academic"
+  },
+  {
+    "w": "渗透",
+    "p": "shèn tòu",
+    "m": "thẩm thấu, thâm nhập",
+    "cat": "academic"
+  },
+  {
+    "w": "贯彻",
+    "p": "guàn chè",
+    "m": "quán triệt thực hiện",
+    "cat": "policy"
+  },
+  {
+    "w": "落实",
+    "p": "luò shí",
+    "m": "thực thi cụ thể",
+    "cat": "policy"
+  },
+  {
+    "w": "拟定",
+    "p": "nǐ dìng",
+    "m": "dự thảo, soạn thảo",
+    "cat": "policy"
+  },
+  {
+    "w": "斟酌",
+    "p": "zhēn zhuó",
+    "m": "cân nhắc kỹ lưỡng",
+    "cat": "academic"
+  },
+  {
+    "w": "权衡",
+    "p": "quán héng",
+    "m": "cân nhắc lợi hại",
+    "cat": "academic"
+  },
+  {
+    "w": "遏制",
+    "p": "è zhì",
+    "m": "kiềm chế, ngăn chặn",
+    "cat": "policy"
+  },
+  {
+    "w": "杜绝",
+    "p": "dù jué",
+    "m": "chấm dứt triệt để",
+    "cat": "policy"
+  },
+  {
+    "w": "捍卫",
+    "p": "hàn wèi",
+    "m": "bảo vệ, gìn giữ",
+    "cat": "politics"
+  },
+  {
+    "w": "维系",
+    "p": "wéi xì",
+    "m": "duy trì gắn kết",
+    "cat": "society"
+  },
+  {
+    "w": "巩固",
+    "p": "gǒng gù",
+    "m": "củng cố",
+    "cat": "society"
+  },
+  {
+    "w": "强化",
+    "p": "qiáng huà",
+    "m": "tăng cường",
+    "cat": "society"
+  },
+  {
+    "w": "弱化",
+    "p": "ruò huà",
+    "m": "làm suy yếu",
+    "cat": "society"
+  },
+  {
+    "w": "深化",
+    "p": "shēn huà",
+    "m": "đi sâu, sâu sắc hóa",
+    "cat": "society"
+  },
+  {
+    "w": "优化",
+    "p": "yōu huà",
+    "m": "tối ưu hóa",
+    "cat": "academic"
+  },
+  {
+    "w": "简化",
+    "p": "jiǎn huà",
+    "m": "đơn giản hóa",
+    "cat": "academic"
+  },
+  {
+    "w": "细化",
+    "p": "xì huà",
+    "m": "chi tiết hóa",
+    "cat": "academic"
+  },
+  {
+    "w": "量化",
+    "p": "liàng huà",
+    "m": "định lượng hóa",
+    "cat": "academic"
+  },
+  {
+    "w": "规范",
+    "p": "guī fàn",
+    "m": "chuẩn mực, quy phạm",
+    "cat": "society"
+  },
+  {
+    "w": "统筹",
+    "p": "tǒng chóu",
+    "m": "điều phối tổng thể",
+    "cat": "policy"
+  },
+  {
+    "w": "兼顾",
+    "p": "jiān gù",
+    "m": "chú trọng cả hai",
+    "cat": "policy"
+  },
+  {
+    "w": "协同",
+    "p": "xié tóng",
+    "m": "phối hợp đồng bộ",
+    "cat": "work"
+  },
+  {
+    "w": "配套",
+    "p": "pèi tào",
+    "m": "đồng bộ, ăn khớp",
+    "cat": "work"
+  },
+  {
+    "w": "对接",
+    "p": "duì jiē",
+    "m": "kết nối, khớp nối",
+    "cat": "work"
+  },
+  {
+    "w": "衔接",
+    "p": "xián jiē",
+    "m": "nối tiếp liền mạch",
+    "cat": "work"
+  },
+  {
+    "w": "周密",
+    "p": "zhōu mì",
+    "m": "chu đáo tỉ mỉ",
+    "cat": "academic"
+  },
+  {
+    "w": "缜密",
+    "p": "zhěn mì",
+    "m": "chặt chẽ kín kẽ",
+    "cat": "academic"
+  },
+  {
+    "w": "严谨",
+    "p": "yán jǐn",
+    "m": "nghiêm cẩn",
+    "cat": "academic"
+  },
+  {
+    "w": "严峻",
+    "p": "yán jùn",
+    "m": "nghiêm trọng, gay gắt",
+    "cat": "society"
+  },
+  {
+    "w": "棘手",
+    "p": "jí shǒu",
+    "m": "nan giải, hóc búa",
+    "cat": "society"
+  },
+  {
+    "w": "艰巨",
+    "p": "jiān jù",
+    "m": "gian nan nặng nề",
+    "cat": "society"
+  },
+  {
+    "w": "繁琐",
+    "p": "fán suǒ",
+    "m": "rườm rà phiền phức",
+    "cat": "society"
+  },
+  {
+    "w": "卓越",
+    "p": "zhuó yuè",
+    "m": "xuất chúng",
+    "cat": "academic"
+  },
+  {
+    "w": "杰出",
+    "p": "jié chū",
+    "m": "kiệt xuất",
+    "cat": "academic"
+  },
+  {
+    "w": "显著",
+    "p": "xiǎn zhù",
+    "m": "rõ rệt, nổi bật",
+    "cat": "academic"
+  },
+  {
+    "w": "突出",
+    "p": "tū chū",
+    "m": "nổi bật",
+    "cat": "academic"
+  },
+  {
+    "w": "独特",
+    "p": "dú tè",
+    "m": "độc đáo",
+    "cat": "academic"
+  },
+  {
+    "w": "典型",
+    "p": "diǎn xíng",
+    "m": "điển hình",
+    "cat": "academic"
+  },
+  {
+    "w": "普遍",
+    "p": "pǔ biàn",
+    "m": "phổ biến",
+    "cat": "academic"
+  },
+  {
+    "w": "局限",
+    "p": "jú xiàn",
+    "m": "hạn chế, giới hạn",
+    "cat": "academic"
+  },
+  {
+    "w": "片面",
+    "p": "piàn miàn",
+    "m": "phiến diện",
+    "cat": "academic"
+  },
+  {
+    "w": "全面",
+    "p": "quán miàn",
+    "m": "toàn diện",
+    "cat": "academic"
+  },
+  {
+    "w": "系统",
+    "p": "xì tǒng",
+    "m": "hệ thống",
+    "cat": "academic"
+  },
+  {
+    "w": "综合",
+    "p": "zōng hé",
+    "m": "tổng hợp",
+    "cat": "academic"
+  },
+  {
+    "w": "协调",
+    "p": "xié tiáo",
+    "m": "hài hòa, điều hòa",
+    "cat": "society"
+  },
+  {
+    "w": "均衡",
+    "p": "jūn héng",
+    "m": "cân bằng",
+    "cat": "society"
+  },
+  {
+    "w": "失衡",
+    "p": "shī héng",
+    "m": "mất cân bằng",
+    "cat": "society"
+  },
+  {
+    "w": "差异",
+    "p": "chā yì",
+    "m": "sự khác biệt",
+    "cat": "society"
+  },
+  {
+    "w": "分歧",
+    "p": "fēn qí",
+    "m": "bất đồng",
+    "cat": "society"
+  },
+  {
+    "w": "共识",
+    "p": "gòng shí",
+    "m": "đồng thuận",
+    "cat": "society"
+  },
+  {
+    "w": "妥协",
+    "p": "tuǒ xié",
+    "m": "thỏa hiệp",
+    "cat": "society"
+  },
+  {
+    "w": "博弈",
+    "p": "bó yì",
+    "m": "sự đấu trí, cuộc chơi",
+    "cat": "society"
+  },
+  {
+    "w": "较量",
+    "p": "jiào liàng",
+    "m": "so kè, đọ sức",
+    "cat": "society"
+  },
+  {
+    "w": "抗衡",
+    "p": "kàng héng",
+    "m": "đối kháng cân sức",
+    "cat": "society"
+  },
+  {
+    "w": "制约",
+    "p": "zhì yuē",
+    "m": "ràng buộc, chế ước",
+    "cat": "society"
+  },
+  {
+    "w": "牵制",
+    "p": "qiān zhì",
+    "m": "kìm hãm, kiềm tỏa",
+    "cat": "society"
+  },
+  {
+    "w": "主导",
+    "p": "zhǔ dǎo",
+    "m": "chủ đạo, dẫn dắt",
+    "cat": "society"
+  },
+  {
+    "w": "主体",
+    "p": "zhǔ tǐ",
+    "m": "chủ thể",
+    "cat": "society"
+  },
+  {
+    "w": "客体",
+    "p": "kè tǐ",
+    "m": "khách thể",
+    "cat": "academic"
+  },
+  {
+    "w": "载体",
+    "p": "zài tǐ",
+    "m": "vật mang, phương tiện",
+    "cat": "academic"
+  },
+  {
+    "w": "媒介",
+    "p": "méi jiè",
+    "m": "trung gian, môi giới",
+    "cat": "academic"
+  },
+  {
+    "w": "纽带",
+    "p": "niǔ dài",
+    "m": "sợi dây liên kết",
+    "cat": "society"
+  },
+  {
+    "w": "桥梁",
+    "p": "qiáo liáng",
+    "m": "cầu nối",
+    "cat": "society"
+  },
+  {
+    "w": "枢纽",
+    "p": "shū niǔ",
+    "m": "đầu mối trung tâm",
+    "cat": "society"
+  },
+  {
+    "w": "核心",
+    "p": "hé xīn",
+    "m": "hạt nhân, cốt lõi",
+    "cat": "academic"
+  },
+  {
+    "w": "焦点",
+    "p": "jiāo diǎn",
+    "m": "tiêu điểm",
+    "cat": "society"
+  },
+  {
+    "w": "热点",
+    "p": "rè diǎn",
+    "m": "điểm nóng",
+    "cat": "society"
+  },
+  {
+    "w": "亮点",
+    "p": "liàng diǎn",
+    "m": "điểm sáng",
+    "cat": "society"
+  },
+  {
+    "w": "难点",
+    "p": "nán diǎn",
+    "m": "điểm khó",
+    "cat": "academic"
+  },
+  {
+    "w": "重心",
+    "p": "zhòng xīn",
+    "m": "trọng tâm",
+    "cat": "academic"
+  },
+  {
+    "w": "侧重",
+    "p": "cè zhòng",
+    "m": "thiên về, chú trọng",
+    "cat": "academic"
+  },
+  {
+    "w": "倾向",
+    "p": "qīng xiàng",
+    "m": "xu hướng, khuynh hướng",
+    "cat": "academic"
+  },
+  {
+    "w": "动态",
+    "p": "dòng tài",
+    "m": "động thái",
+    "cat": "society"
+  },
+  {
+    "w": "态势",
+    "p": "tài shì",
+    "m": "thế cục, tình thế",
+    "cat": "society"
+  },
+  {
+    "w": "局势",
+    "p": "jú shì",
+    "m": "tình hình, cục thế",
+    "cat": "politics"
+  },
+  {
+    "w": "氛围",
+    "p": "fēn wéi",
+    "m": "bầu không khí",
+    "cat": "society"
+  },
+  {
+    "w": "风气",
+    "p": "fēng qì",
+    "m": "phong khí, nếp",
+    "cat": "society"
+  },
+  {
+    "w": "潮流",
+    "p": "cháo liú",
+    "m": "trào lưu",
+    "cat": "society"
+  },
+  {
+    "w": "风尚",
+    "p": "fēng shàng",
+    "m": "phong trào thời thượng",
+    "cat": "society"
+  },
+  {
+    "w": "惯例",
+    "p": "guàn lì",
+    "m": "thông lệ",
+    "cat": "society"
+  },
+  {
+    "w": "常态",
+    "p": "cháng tài",
+    "m": "trạng thái bình thường",
+    "cat": "society"
+  },
+  {
+    "w": "例外",
+    "p": "lì wài",
+    "m": "ngoại lệ",
+    "cat": "academic"
+  },
+  {
+    "w": "特例",
+    "p": "tè lì",
+    "m": "trường hợp đặc biệt",
+    "cat": "academic"
+  },
+  {
+    "w": "先例",
+    "p": "xiān lì",
+    "m": "tiền lệ",
+    "cat": "law"
+  },
+  {
+    "w": "惯性",
+    "p": "guàn xìng",
+    "m": "quán tính",
+    "cat": "science"
+  },
+  {
+    "w": "弹性",
+    "p": "tán xìng",
+    "m": "tính linh hoạt, đàn hồi",
+    "cat": "science"
+  },
+  {
+    "w": "韧性",
+    "p": "rèn xìng",
+    "m": "sức bền, độ dẻo dai",
+    "cat": "science"
+  },
+  {
+    "w": "刚性",
+    "p": "gāng xìng",
+    "m": "tính cứng nhắc",
+    "cat": "academic"
+  },
+  {
+    "w": "局部",
+    "p": "jú bù",
+    "m": "cục bộ",
+    "cat": "academic"
+  },
+  {
+    "w": "整体",
+    "p": "zhěng tǐ",
+    "m": "chỉnh thể, tổng thể",
+    "cat": "academic"
+  },
+  {
+    "w": "宏观",
+    "p": "hóng guān",
+    "m": "vĩ mô",
+    "cat": "economics"
+  },
+  {
+    "w": "微观",
+    "p": "wēi guān",
+    "m": "vi mô",
+    "cat": "economics"
+  },
+  {
+    "w": "调控",
+    "p": "tiáo kòng",
+    "m": "điều tiết kiểm soát",
+    "cat": "economics"
+  },
+  {
+    "w": "杠杆",
+    "p": "gàng gǎn",
+    "m": "đòn bẩy",
+    "cat": "economics"
+  },
+  {
+    "w": "红利",
+    "p": "hóng lì",
+    "m": "lợi tức, cổ tức",
+    "cat": "economics"
+  },
+  {
+    "w": "瓶颈期",
+    "p": "píng jǐng qī",
+    "m": "giai đoạn bế tắc",
+    "cat": "economics"
+  },
+  {
+    "w": "产能",
+    "p": "chǎn néng",
+    "m": "năng lực sản xuất",
+    "cat": "economics"
+  },
+  {
+    "w": "过剩",
+    "p": "guò shèng",
+    "m": "dư thừa",
+    "cat": "economics"
+  },
+  {
+    "w": "短缺",
+    "p": "duǎn quē",
+    "m": "thiếu hụt",
+    "cat": "economics"
+  },
+  {
+    "w": "饱和",
+    "p": "bǎo hé",
+    "m": "bão hòa",
+    "cat": "economics"
+  },
+  {
+    "w": "萎缩",
+    "p": "wěi suō",
+    "m": "co rút, teo lại",
+    "cat": "economics"
+  },
+  {
+    "w": "复苏",
+    "p": "fù sū",
+    "m": "phục hồi",
+    "cat": "economics"
+  },
+  {
+    "w": "低迷",
+    "p": "dī mí",
+    "m": "ảm đạm, trì trệ",
+    "cat": "economics"
+  },
+  {
+    "w": "繁荣",
+    "p": "fán róng",
+    "m": "phồn vinh",
+    "cat": "economics"
+  },
+  {
+    "w": "萧条",
+    "p": "xiāo tiáo",
+    "m": "tiêu điều, suy thoái",
+    "cat": "economics"
+  },
+  {
+    "w": "波及",
+    "p": "bō jí",
+    "m": "lan tới, ảnh hưởng đến",
+    "cat": "society"
+  },
+  {
+    "w": "辐射",
+    "p": "fú shè",
+    "m": "lan tỏa, bức xạ",
+    "cat": "society"
+  },
+  {
+    "w": "连锁",
+    "p": "lián suǒ",
+    "m": "dây chuyền, liên hoàn",
+    "cat": "society"
+  },
+  {
+    "w": "叠加",
+    "p": "dié jiā",
+    "m": "chồng chất, cộng dồn",
+    "cat": "society"
+  },
+  {
+    "w": "累积",
+    "p": "lěi jī",
+    "m": "tích lũy",
+    "cat": "academic"
+  },
+  {
+    "w": "沉淀",
+    "p": "chén diàn",
+    "m": "lắng đọng, tích tụ",
+    "cat": "academic"
+  },
+  {
+    "w": "积淀",
+    "p": "jī diàn",
+    "m": "sự bồi đắp tích lũy",
+    "cat": "culture"
+  },
+  {
+    "w": "底蕴",
+    "p": "dǐ yùn",
+    "m": "chiều sâu nội tại",
+    "cat": "culture"
+  },
+  {
+    "w": "内核",
+    "p": "nèi hé",
+    "m": "lõi bên trong",
+    "cat": "academic"
+  },
+  {
+    "w": "精髓",
+    "p": "jīng suǐ",
+    "m": "tinh túy",
+    "cat": "culture"
+  },
+  {
+    "w": "精华",
+    "p": "jīng huá",
+    "m": "tinh hoa",
+    "cat": "culture"
+  },
+  {
+    "w": "糟粕",
+    "p": "zāo pò",
+    "m": "cặn bã, phần dở",
+    "cat": "culture"
+  },
+  {
+    "w": "瑰宝",
+    "p": "guī bǎo",
+    "m": "báu vật",
+    "cat": "culture"
+  },
+  {
+    "w": "结晶",
+    "p": "jié jīng",
+    "m": "kết tinh",
+    "cat": "academic"
+  },
+  {
+    "w": "升华",
+    "p": "shēng huá",
+    "m": "thăng hoa",
+    "cat": "academic"
+  },
+  {
+    "w": "蜕变",
+    "p": "tuì biàn",
+    "m": "lột xác, biến đổi",
+    "cat": "academic"
+  },
+  {
+    "w": "嬗变",
+    "p": "shàn biàn",
+    "m": "sự diễn biến, biến thiên",
+    "cat": "academic"
+  },
+  {
+    "w": "演变",
+    "p": "yǎn biàn",
+    "m": "diễn biến",
+    "cat": "academic"
+  },
+  {
+    "w": "变迁",
+    "p": "biàn qiān",
+    "m": "biến thiên, đổi dời",
+    "cat": "society"
+  },
+  {
+    "w": "转型",
+    "p": "zhuǎn xíng",
+    "m": "chuyển đổi mô hình",
+    "cat": "economics"
+  },
+  {
+    "w": "转化",
+    "p": "zhuǎn huà",
+    "m": "chuyển hóa",
+    "cat": "academic"
+  },
+  {
+    "w": "转换",
+    "p": "zhuǎn huàn",
+    "m": "chuyển đổi",
+    "cat": "academic"
+  },
+  {
+    "w": "过渡",
+    "p": "guò dù",
+    "m": "quá độ, chuyển tiếp",
+    "cat": "society"
+  },
+  {
+    "w": "衍生",
+    "p": "yǎn shēng",
+    "m": "phái sinh",
+    "cat": "academic"
+  },
+  {
+    "w": "派生",
+    "p": "pài shēng",
+    "m": "sinh ra từ, dẫn xuất",
+    "cat": "academic"
+  },
+  {
+    "w": "孕育",
+    "p": "yùn yù",
+    "m": "thai nghén, ấp ủ",
+    "cat": "academic"
+  },
+  {
+    "w": "萌芽",
+    "p": "méng yá",
+    "m": "nảy mầm, manh nha",
+    "cat": "academic"
+  },
+  {
+    "w": "兴起",
+    "p": "xīng qǐ",
+    "m": "trỗi dậy, nổi lên",
+    "cat": "society"
+  },
+  {
+    "w": "崛起",
+    "p": "jué qǐ",
+    "m": "vươn lên mạnh mẽ",
+    "cat": "society"
+  },
+  {
+    "w": "衰落",
+    "p": "shuāi luò",
+    "m": "suy tàn",
+    "cat": "society"
+  },
+  {
+    "w": "没落",
+    "p": "mò luò",
+    "m": "lụi tàn, suy vong",
+    "cat": "society"
+  },
+  {
+    "w": "瓦解",
+    "p": "wǎ jiě",
+    "m": "tan rã",
+    "cat": "society"
+  },
+  {
+    "w": "崩溃",
+    "p": "bēng kuì",
+    "m": "sụp đổ",
+    "cat": "society"
+  },
+  {
+    "w": "重组",
+    "p": "chóng zǔ",
+    "m": "tái cơ cấu",
+    "cat": "economics"
+  },
+  {
+    "w": "整合",
+    "p": "zhěng hé",
+    "m": "tích hợp, hợp nhất",
+    "cat": "economics"
+  },
+  {
+    "w": "融合",
+    "p": "róng hé",
+    "m": "hòa nhập, dung hợp",
+    "cat": "society"
+  },
+  {
+    "w": "交融",
+    "p": "jiāo róng",
+    "m": "giao hòa",
+    "cat": "culture"
+  },
+  {
+    "w": "渗入",
+    "p": "shèn rù",
+    "m": "thấm vào",
+    "cat": "academic"
+  },
+  {
+    "w": "嵌入",
+    "p": "qiàn rù",
+    "m": "nhúng vào, lồng ghép",
+    "cat": "tech"
+  },
+  {
+    "w": "植入",
+    "p": "zhí rù",
+    "m": "cấy ghép, đưa vào",
+    "cat": "tech"
+  },
+  {
+    "w": "剥离",
+    "p": "bō lí",
+    "m": "tách bóc",
+    "cat": "economics"
+  },
+  {
+    "w": "分化",
+    "p": "fēn huà",
+    "m": "phân hóa",
+    "cat": "society"
+  },
+  {
+    "w": "分裂",
+    "p": "fēn liè",
+    "m": "chia rẽ, phân liệt",
+    "cat": "society"
+  },
+  {
+    "w": "割裂",
+    "p": "gē liè",
+    "m": "cắt rời, chia cắt",
+    "cat": "society"
+  },
+  {
+    "w": "对立",
+    "p": "duì lì",
+    "m": "đối lập",
+    "cat": "academic"
+  },
+  {
+    "w": "统一",
+    "p": "tǒng yī",
+    "m": "thống nhất",
+    "cat": "politics"
+  },
+  {
+    "w": "凝聚",
+    "p": "níng jù",
+    "m": "cố kết, gắn kết",
+    "cat": "society"
+  },
+  {
+    "w": "涣散",
+    "p": "huàn sàn",
+    "m": "rời rạc, tản mát",
+    "cat": "society"
+  },
+  {
+    "w": "松懈",
+    "p": "sōng xiè",
+    "m": "lơi lỏng, chểnh mảng",
+    "cat": "society"
+  },
+  {
+    "w": "严密",
+    "p": "yán mì",
+    "m": "chặt chẽ kín kẽ",
+    "cat": "society"
+  },
+  {
+    "w": "疏忽",
+    "p": "shū hu",
+    "m": "sơ suất",
+    "cat": "society"
+  },
+  {
+    "w": "疏漏",
+    "p": "shū lòu",
+    "m": "sai sót bỏ lọt",
+    "cat": "academic"
+  },
+  {
+    "w": "纰漏",
+    "p": "pī lòu",
+    "m": "sai sót, lỗ hổng",
+    "cat": "academic"
+  },
+  {
+    "w": "漏洞",
+    "p": "lòu dòng",
+    "m": "lỗ hổng, kẽ hở",
+    "cat": "tech"
+  },
+  {
+    "w": "隐患",
+    "p": "yǐn huàn",
+    "m": "hiểm họa tiềm ẩn",
+    "cat": "society"
+  },
+  {
+    "w": "风险",
+    "p": "fēng xiǎn",
+    "m": "rủi ro",
+    "cat": "economics"
+  },
+  {
+    "w": "危机",
+    "p": "wēi jī",
+    "m": "khủng hoảng",
+    "cat": "society"
+  },
+  {
+    "w": "契机",
+    "p": "qì jī",
+    "m": "cơ duyên, thời cơ",
+    "cat": "society"
+  },
+  {
+    "w": "转机",
+    "p": "zhuǎn jī",
+    "m": "bước ngoặt tốt lên",
+    "cat": "society"
+  },
+  {
+    "w": "机遇",
+    "p": "jī yù",
+    "m": "cơ hội, vận hội",
+    "cat": "society"
+  },
+  {
+    "w": "挑战",
+    "p": "tiǎo zhàn",
+    "m": "thách thức",
+    "cat": "society"
+  },
+  {
+    "w": "机制创新",
+    "p": "jī zhì chuàng xīn",
+    "m": "đổi mới cơ chế",
+    "cat": "policy"
+  },
+  {
+    "w": "瞻仰",
+    "p": "zhān yǎng",
+    "m": "chiêm ngưỡng kính cẩn",
+    "cat": "culture"
+  },
+  {
+    "w": "踊跃",
+    "p": "yǒng yuè",
+    "m": "sôi nổi, hăng hái",
+    "cat": "emotion"
+  },
+  {
+    "w": "积极",
+    "p": "jī jí",
+    "m": "tích cực",
+    "cat": "emotion"
+  },
+  {
+    "w": "消极",
+    "p": "xiāo jí",
+    "m": "tiêu cực",
+    "cat": "emotion"
+  },
+  {
+    "w": "热忱",
+    "p": "rè chén",
+    "m": "nhiệt thành",
+    "cat": "emotion"
+  },
+  {
+    "w": "执着",
+    "p": "zhí zhuó",
+    "m": "kiên trì bám đuổi",
+    "cat": "emotion"
+  },
+  {
+    "w": "坚韧",
+    "p": "jiān rèn",
+    "m": "kiên cường dẻo dai",
+    "cat": "emotion"
+  },
+  {
+    "w": "顽强",
+    "p": "wán qiáng",
+    "m": "ngoan cường",
+    "cat": "emotion"
+  },
+  {
+    "w": "沉稳",
+    "p": "chén wěn",
+    "m": "điềm đạm vững vàng",
+    "cat": "emotion"
+  },
+  {
+    "w": "浮躁",
+    "p": "fú zào",
+    "m": "nông nổi bộp chộp",
+    "cat": "emotion"
+  },
+  {
+    "w": "急躁",
+    "p": "jí zào",
+    "m": "nóng vội",
+    "cat": "emotion"
+  },
+  {
+    "w": "豁达",
+    "p": "huò dá",
+    "m": "phóng khoáng cởi mở",
+    "cat": "emotion"
+  },
+  {
+    "w": "狭隘",
+    "p": "xiá ài",
+    "m": "hẹp hòi",
+    "cat": "emotion"
+  },
+  {
+    "w": "宽厚",
+    "p": "kuān hòu",
+    "m": "độ lượng nhân hậu",
+    "cat": "emotion"
+  },
+  {
+    "w": "刻薄",
+    "p": "kè bó",
+    "m": "cay nghiệt, khắc nghiệt",
+    "cat": "emotion"
+  },
+  {
+    "w": "圆滑",
+    "p": "yuán huá",
+    "m": "khôn khéo lươn lẹo",
+    "cat": "emotion"
+  },
+  {
+    "w": "耿直",
+    "p": "gěng zhí",
+    "m": "ngay thẳng bộc trực",
+    "cat": "emotion"
+  },
+  {
+    "w": "率真",
+    "p": "shuài zhēn",
+    "m": "chân thật thẳng thắn",
+    "cat": "emotion"
+  },
+  {
+    "w": "内敛",
+    "p": "nèi liǎn",
+    "m": "trầm lặng nội tâm",
+    "cat": "emotion"
+  },
+  {
+    "w": "张扬",
+    "p": "zhāng yáng",
+    "m": "phô trương phóng khoáng",
+    "cat": "emotion"
+  },
+  {
+    "w": "含蓄",
+    "p": "hán xù",
+    "m": "hàm súc kín đáo",
+    "cat": "emotion"
+  },
+  {
+    "w": "婉转",
+    "p": "wǎn zhuǎn",
+    "m": "uyển chuyển nhẹ nhàng",
+    "cat": "language"
+  },
+  {
+    "w": "直率",
+    "p": "zhí shuài",
+    "m": "bộc trực thẳng thắn",
+    "cat": "emotion"
+  },
+  {
+    "w": "坦诚",
+    "p": "tǎn chéng",
+    "m": "chân thành cởi mở",
+    "cat": "emotion"
+  },
+  {
+    "w": "虚伪",
+    "p": "xū wěi",
+    "m": "giả dối",
+    "cat": "emotion"
+  },
+  {
+    "w": "真挚",
+    "p": "zhēn zhì",
+    "m": "chân thành tha thiết",
+    "cat": "emotion"
+  },
+  {
+    "w": "诚挚",
+    "p": "chéng zhì",
+    "m": "thành khẩn",
+    "cat": "emotion"
+  },
+  {
+    "w": "恳切",
+    "p": "kěn qiè",
+    "m": "khẩn thiết chân thành",
+    "cat": "emotion"
+  },
+  {
+    "w": "不可思议",
+    "p": "bù kě sī yì",
+    "m": "không thể tưởng tượng",
+    "cat": "idiom"
+  },
+  {
+    "w": "千方百计",
+    "p": "qiān fāng bǎi jì",
+    "m": "trăm phương ngàn kế",
+    "cat": "idiom"
+  },
+  {
+    "w": "层出不穷",
+    "p": "céng chū bù qióng",
+    "m": "liên tục xuất hiện không ngừng",
+    "cat": "idiom"
+  },
+  {
+    "w": "络绎不绝",
+    "p": "luò yì bù jué",
+    "m": "nườm nượp không dứt",
+    "cat": "idiom"
+  },
+  {
+    "w": "应运而生",
+    "p": "yìng yùn ér shēng",
+    "m": "ra đời đúng thời",
+    "cat": "idiom"
+  },
+  {
+    "w": "势在必行",
+    "p": "shì zài bì xíng",
+    "m": "tất yếu phải làm",
+    "cat": "idiom"
+  },
+  {
+    "w": "迫在眉睫",
+    "p": "pò zài méi jié",
+    "m": "cấp bách trước mắt",
+    "cat": "idiom"
+  },
+  {
+    "w": "刻不容缓",
+    "p": "kè bù róng huǎn",
+    "m": "không thể chậm trễ",
+    "cat": "idiom"
+  },
+  {
+    "w": "势不可挡",
+    "p": "shì bù kě dǎng",
+    "m": "thế không gì cản nổi",
+    "cat": "idiom"
+  },
+  {
+    "w": "举足轻重",
+    "p": "jǔ zú qīng zhòng",
+    "m": "có vai trò then chốt",
+    "cat": "idiom"
+  },
+  {
+    "w": "不言而喻",
+    "p": "bù yán ér yù",
+    "m": "không nói cũng hiểu",
+    "cat": "idiom"
+  },
+  {
+    "w": "显而易见",
+    "p": "xiǎn ér yì jiàn",
+    "m": "hiển nhiên dễ thấy",
+    "cat": "idiom"
+  },
+  {
+    "w": "潜移默化",
+    "p": "qián yí mò huà",
+    "m": "ảnh hưởng ngấm ngầm",
+    "cat": "idiom"
+  },
+  {
+    "w": "根深蒂固",
+    "p": "gēn shēn dì gù",
+    "m": "ăn sâu bám rễ",
+    "cat": "idiom"
+  },
+  {
+    "w": "息息相关",
+    "p": "xī xī xiāng guān",
+    "m": "liên quan mật thiết",
+    "cat": "idiom"
+  },
+  {
+    "w": "相辅相成",
+    "p": "xiāng fǔ xiāng chéng",
+    "m": "bổ trợ lẫn nhau",
+    "cat": "idiom"
+  },
+  {
+    "w": "相得益彰",
+    "p": "xiāng dé yì zhāng",
+    "m": "tôn nhau cùng nổi bật",
+    "cat": "idiom"
+  },
+  {
+    "w": "相提并论",
+    "p": "xiāng tí bìng lùn",
+    "m": "đánh đồng so sánh",
+    "cat": "idiom"
+  },
+  {
+    "w": "截然不同",
+    "p": "jié rán bù tóng",
+    "m": "khác hẳn nhau",
+    "cat": "idiom"
+  },
+  {
+    "w": "大同小异",
+    "p": "dà tóng xiǎo yì",
+    "m": "giống nhiều khác ít",
+    "cat": "idiom"
+  },
+  {
+    "w": "千差万别",
+    "p": "qiān chā wàn bié",
+    "m": "muôn vàn khác biệt",
+    "cat": "idiom"
+  },
+  {
+    "w": "五花八门",
+    "p": "wǔ huā bā mén",
+    "m": "đủ kiểu đủ loại",
+    "cat": "idiom"
+  },
+  {
+    "w": "形形色色",
+    "p": "xíng xíng sè sè",
+    "m": "đủ mọi hình dạng",
+    "cat": "idiom"
+  },
+  {
+    "w": "包罗万象",
+    "p": "bāo luó wàn xiàng",
+    "m": "bao quát muôn vẻ",
+    "cat": "idiom"
+  },
+  {
+    "w": "无所不包",
+    "p": "wú suǒ bù bāo",
+    "m": "không gì không bao gồm",
+    "cat": "idiom"
+  },
+  {
+    "w": "恰如其分",
+    "p": "qià rú qí fèn",
+    "m": "vừa đúng mức",
+    "cat": "idiom"
+  },
+  {
+    "w": "恰到好处",
+    "p": "qià dào hǎo chù",
+    "m": "vừa khéo đúng chỗ",
+    "cat": "idiom"
+  },
+  {
+    "w": "独树一帜",
+    "p": "dú shù yí zhì",
+    "m": "tự lập một phong cách riêng",
+    "cat": "idiom"
+  },
+  {
+    "w": "别具一格",
+    "p": "bié jù yì gé",
+    "m": "có phong cách độc đáo",
+    "cat": "idiom"
+  },
+  {
+    "w": "别开生面",
+    "p": "bié kāi shēng miàn",
+    "m": "mở ra cục diện mới mẻ",
+    "cat": "idiom"
+  },
+  {
+    "w": "焕然一新",
+    "p": "huàn rán yì xīn",
+    "m": "đổi mới hoàn toàn",
+    "cat": "idiom"
+  },
+  {
+    "w": "耳目一新",
+    "p": "ěr mù yì xīn",
+    "m": "mới mẻ lạ mắt",
+    "cat": "idiom"
+  },
+  {
+    "w": "日益",
+    "p": "rì yì",
+    "m": "ngày càng",
+    "cat": "language"
+  },
+  {
+    "w": "逐步",
+    "p": "zhú bù",
+    "m": "từng bước",
+    "cat": "language"
+  },
+  {
+    "w": "逐渐",
+    "p": "zhú jiàn",
+    "m": "dần dần",
+    "cat": "language"
+  },
+  {
+    "w": "日趋",
+    "p": "rì qū",
+    "m": "ngày càng hướng tới",
+    "cat": "language"
+  },
+  {
+    "w": "愈发",
+    "p": "yù fā",
+    "m": "càng thêm",
+    "cat": "language"
+  },
+  {
+    "w": "势必",
+    "p": "shì bì",
+    "m": "tất sẽ, chắc chắn",
+    "cat": "language"
+  },
+  {
+    "w": "必将",
+    "p": "bì jiāng",
+    "m": "nhất định sẽ",
+    "cat": "language"
+  },
+  {
+    "w": "无疑",
+    "p": "wú yí",
+    "m": "không nghi ngờ gì",
+    "cat": "language"
+  },
+  {
+    "w": "诚然",
+    "p": "chéng rán",
+    "m": "quả thật, đúng là",
+    "cat": "language"
+  },
+  {
+    "w": "固然",
+    "p": "gù rán",
+    "m": "đành rằng, tuy là",
+    "cat": "language"
+  },
+  {
+    "w": "鉴于",
+    "p": "jiàn yú",
+    "m": "xét tới, căn cứ",
+    "cat": "language"
+  },
+  {
+    "w": "基于",
+    "p": "jī yú",
+    "m": "dựa trên",
+    "cat": "language"
+  },
+  {
+    "w": "针对",
+    "p": "zhēn duì",
+    "m": "nhằm vào",
+    "cat": "language"
+  },
+  {
+    "w": "围绕",
+    "p": "wéi rào",
+    "m": "xoay quanh",
+    "cat": "language"
+  },
+  {
+    "w": "凭借",
+    "p": "píng jiè",
+    "m": "dựa vào, nhờ",
+    "cat": "language"
+  },
+  {
+    "w": "借助",
+    "p": "jiè zhù",
+    "m": "nhờ sự trợ giúp",
+    "cat": "language"
+  },
+  {
+    "w": "通过",
+    "p": "tōng guò",
+    "m": "thông qua",
+    "cat": "language"
+  },
+  {
+    "w": "从而",
+    "p": "cóng ér",
+    "m": "từ đó mà",
+    "cat": "language"
+  },
+  {
+    "w": "进而",
+    "p": "jìn ér",
+    "m": "tiến thêm, rồi",
+    "cat": "language"
+  },
+  {
+    "w": "反之",
+    "p": "fǎn zhī",
+    "m": "ngược lại",
+    "cat": "language"
+  },
+  {
+    "w": "乃至",
+    "p": "nǎi zhì",
+    "m": "thậm chí đến",
+    "cat": "language"
+  },
+  {
+    "w": "以至",
+    "p": "yǐ zhì",
+    "m": "đến nỗi",
+    "cat": "language"
+  },
+  {
+    "w": "致使",
+    "p": "zhì shǐ",
+    "m": "dẫn đến, khiến cho",
+    "cat": "language"
+  }
+]

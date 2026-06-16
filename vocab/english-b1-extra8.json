@@ -1,0 +1,1257 @@
+[
+  {
+    "w": "knitting",
+    "m": "việc đan len",
+    "cat": "giải trí"
+  },
+  {
+    "w": "sewing",
+    "m": "việc may vá",
+    "cat": "giải trí"
+  },
+  {
+    "w": "embroidery",
+    "m": "thêu thùa",
+    "cat": "giải trí"
+  },
+  {
+    "w": "pottery",
+    "m": "nghề làm gốm",
+    "cat": "giải trí"
+  },
+  {
+    "w": "sculpting",
+    "m": "điêu khắc",
+    "cat": "giải trí"
+  },
+  {
+    "w": "painting",
+    "m": "vẽ tranh",
+    "cat": "giải trí"
+  },
+  {
+    "w": "sketching",
+    "m": "phác họa",
+    "cat": "giải trí"
+  },
+  {
+    "w": "photography",
+    "m": "nhiếp ảnh",
+    "cat": "giải trí"
+  },
+  {
+    "w": "gardening",
+    "m": "làm vườn",
+    "cat": "giải trí"
+  },
+  {
+    "w": "baking",
+    "m": "làm bánh",
+    "cat": "giải trí"
+  },
+  {
+    "w": "cooking",
+    "m": "nấu ăn",
+    "cat": "giải trí"
+  },
+  {
+    "w": "fishing",
+    "m": "câu cá",
+    "cat": "giải trí"
+  },
+  {
+    "w": "hiking",
+    "m": "đi bộ đường dài",
+    "cat": "giải trí"
+  },
+  {
+    "w": "camping",
+    "m": "cắm trại",
+    "cat": "giải trí"
+  },
+  {
+    "w": "birdwatching",
+    "m": "ngắm chim",
+    "cat": "giải trí"
+  },
+  {
+    "w": "stargazing",
+    "m": "ngắm sao",
+    "cat": "giải trí"
+  },
+  {
+    "w": "collecting",
+    "m": "sưu tầm",
+    "cat": "giải trí"
+  },
+  {
+    "w": "gaming",
+    "m": "chơi game",
+    "cat": "giải trí"
+  },
+  {
+    "w": "puzzle",
+    "m": "trò chơi ghép hình",
+    "cat": "giải trí"
+  },
+  {
+    "w": "crossword",
+    "m": "ô chữ",
+    "cat": "giải trí"
+  },
+  {
+    "w": "karaoke",
+    "m": "hát karaoke",
+    "cat": "giải trí"
+  },
+  {
+    "w": "juggling",
+    "m": "tung hứng",
+    "cat": "giải trí"
+  },
+  {
+    "w": "origami",
+    "m": "gấp giấy",
+    "cat": "giải trí"
+  },
+  {
+    "w": "calligraphy",
+    "m": "thư pháp",
+    "cat": "giải trí"
+  },
+  {
+    "w": "meditation",
+    "m": "thiền",
+    "cat": "giải trí"
+  },
+  {
+    "w": "scrapbooking",
+    "m": "làm album cắt dán",
+    "cat": "giải trí"
+  },
+  {
+    "w": "woodworking",
+    "m": "làm đồ gỗ",
+    "cat": "giải trí"
+  },
+  {
+    "w": "festival",
+    "m": "lễ hội",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "carnival",
+    "m": "hội hóa trang",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "parade",
+    "m": "cuộc diễu hành",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "ceremony",
+    "m": "buổi lễ",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "celebration",
+    "m": "lễ kỷ niệm",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "anniversary",
+    "m": "ngày kỷ niệm",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "reunion",
+    "m": "buổi đoàn tụ",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "banquet",
+    "m": "tiệc lớn",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "feast",
+    "m": "bữa tiệc thịnh soạn",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "funeral",
+    "m": "đám tang",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "wedding",
+    "m": "đám cưới",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "engagement",
+    "m": "lễ đính hôn",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "baptism",
+    "m": "lễ rửa tội",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "ritual",
+    "m": "nghi thức",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "custom",
+    "m": "phong tục",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "heritage",
+    "m": "di sản",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "folklore",
+    "m": "văn hóa dân gian",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "legend",
+    "m": "truyền thuyết",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "myth",
+    "m": "thần thoại",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "superstition",
+    "m": "mê tín",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "costume",
+    "m": "trang phục hóa trang",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "mask",
+    "m": "mặt nạ",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "souvenir",
+    "m": "quà lưu niệm",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "pancake",
+    "m": "bánh kếp",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "waffle",
+    "m": "bánh quế",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "omelette",
+    "m": "trứng tráng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "porridge",
+    "m": "cháo yến mạch",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "cereal",
+    "m": "ngũ cốc ăn sáng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "toast",
+    "m": "bánh mì nướng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "sandwich",
+    "m": "bánh kẹp",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "burger",
+    "m": "bánh hamburger",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "dumpling",
+    "m": "bánh bao, há cảo",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "noodle soup",
+    "m": "súp mì",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "stew",
+    "m": "món hầm",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "curry",
+    "m": "cà ri",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "stir-fry",
+    "m": "món xào",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "barbecue",
+    "m": "đồ nướng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "roast",
+    "m": "món quay",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "salad",
+    "m": "rau trộn",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "soup",
+    "m": "súp",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "pudding",
+    "m": "bánh pudding",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "pie",
+    "m": "bánh nhân",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "tart",
+    "m": "bánh tart",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "muffin",
+    "m": "bánh nướng xốp",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "doughnut",
+    "m": "bánh vòng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "biscuit",
+    "m": "bánh quy",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "cracker",
+    "m": "bánh quy giòn",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "jam",
+    "m": "mứt",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "honey",
+    "m": "mật ong",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "syrup",
+    "m": "siro",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "sauce",
+    "m": "nước sốt",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "gravy",
+    "m": "nước thịt sệt",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "dressing",
+    "m": "sốt trộn salad",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "seasoning",
+    "m": "gia vị nêm",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "smoothie",
+    "m": "sinh tố",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "milkshake",
+    "m": "sữa lắc",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "lemonade",
+    "m": "nước chanh",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "cocktail",
+    "m": "cốc-tai",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "cider",
+    "m": "rượu táo",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "champagne",
+    "m": "rượu sâm panh",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "whiskey",
+    "m": "rượu whisky",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "brandy",
+    "m": "rượu brandy",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "appetiser",
+    "m": "món khai vị",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "main course",
+    "m": "món chính",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "side dish",
+    "m": "món phụ",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "leftovers",
+    "m": "đồ ăn thừa",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "recipe",
+    "m": "công thức nấu ăn",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "ingredient",
+    "m": "nguyên liệu",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "portion",
+    "m": "khẩu phần",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "helping",
+    "m": "suất ăn thêm",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "breeze",
+    "m": "làn gió nhẹ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "shower",
+    "m": "cơn mưa rào",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "sunshine",
+    "m": "ánh nắng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "rainbow",
+    "m": "cầu vồng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "horizon",
+    "m": "chân trời",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "landscape",
+    "m": "phong cảnh",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "scenery",
+    "m": "cảnh vật",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "wilderness",
+    "m": "vùng hoang dã",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "jungle",
+    "m": "rừng rậm",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "oasis",
+    "m": "ốc đảo",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "valley",
+    "m": "thung lũng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "canyon",
+    "m": "hẻm núi sâu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "waterfall",
+    "m": "thác nước",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "stream",
+    "m": "dòng suối",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "pond",
+    "m": "ao",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "lagoon",
+    "m": "đầm phá",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "bay",
+    "m": "vịnh",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "shore",
+    "m": "bờ biển",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "coast",
+    "m": "bờ biển, duyên hải",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "reef",
+    "m": "rạn san hô",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "dune",
+    "m": "đụn cát",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "crater",
+    "m": "miệng núi lửa",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "peak",
+    "m": "đỉnh núi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "ridge",
+    "m": "sống núi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "forecast",
+    "m": "dự báo thời tiết",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "climate",
+    "m": "khí hậu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "temperature",
+    "m": "nhiệt độ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "thermostat",
+    "m": "bộ điều nhiệt",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "timetable",
+    "m": "thời gian biểu",
+    "cat": "công việc"
+  },
+  {
+    "w": "agenda",
+    "m": "chương trình nghị sự",
+    "cat": "công việc"
+  },
+  {
+    "w": "memo",
+    "m": "bản ghi nhớ",
+    "cat": "công việc"
+  },
+  {
+    "w": "minutes",
+    "m": "biên bản họp",
+    "cat": "công việc"
+  },
+  {
+    "w": "report",
+    "m": "báo cáo",
+    "cat": "công việc"
+  },
+  {
+    "w": "presentation",
+    "m": "bài thuyết trình",
+    "cat": "công việc"
+  },
+  {
+    "w": "proposal",
+    "m": "bản đề xuất",
+    "cat": "công việc"
+  },
+  {
+    "w": "contract",
+    "m": "hợp đồng",
+    "cat": "công việc"
+  },
+  {
+    "w": "agreement",
+    "m": "thỏa thuận",
+    "cat": "công việc"
+  },
+  {
+    "w": "deal",
+    "m": "giao kèo",
+    "cat": "công việc"
+  },
+  {
+    "w": "negotiation",
+    "m": "sự đàm phán",
+    "cat": "công việc"
+  },
+  {
+    "w": "conference",
+    "m": "hội nghị",
+    "cat": "công việc"
+  },
+  {
+    "w": "workshop",
+    "m": "hội thảo thực hành",
+    "cat": "công việc"
+  },
+  {
+    "w": "briefing",
+    "m": "buổi phổ biến thông tin",
+    "cat": "công việc"
+  },
+  {
+    "w": "feedback",
+    "m": "phản hồi",
+    "cat": "công việc"
+  },
+  {
+    "w": "appraisal",
+    "m": "đánh giá năng lực",
+    "cat": "công việc"
+  },
+  {
+    "w": "promotion",
+    "m": "sự thăng chức",
+    "cat": "công việc"
+  },
+  {
+    "w": "resignation",
+    "m": "sự từ chức",
+    "cat": "công việc"
+  },
+  {
+    "w": "recruitment",
+    "m": "sự tuyển dụng",
+    "cat": "công việc"
+  },
+  {
+    "w": "vacancy",
+    "m": "vị trí trống",
+    "cat": "công việc"
+  },
+  {
+    "w": "candidate",
+    "m": "ứng viên",
+    "cat": "công việc"
+  },
+  {
+    "w": "applicant",
+    "m": "người nộp đơn",
+    "cat": "công việc"
+  },
+  {
+    "w": "shortlist",
+    "m": "danh sách rút gọn",
+    "cat": "công việc"
+  },
+  {
+    "w": "reference",
+    "m": "thư giới thiệu",
+    "cat": "công việc"
+  },
+  {
+    "w": "probation",
+    "m": "thời gian thử việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "shift",
+    "m": "ca làm việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "overtime",
+    "m": "làm thêm giờ",
+    "cat": "công việc"
+  },
+  {
+    "w": "workload",
+    "m": "khối lượng công việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "colleague",
+    "m": "đồng nghiệp",
+    "cat": "công việc"
+  },
+  {
+    "w": "teamwork",
+    "m": "làm việc nhóm",
+    "cat": "công việc"
+  },
+  {
+    "w": "productivity",
+    "m": "năng suất",
+    "cat": "công việc"
+  },
+  {
+    "w": "efficiency",
+    "m": "hiệu suất",
+    "cat": "công việc"
+  },
+  {
+    "w": "motivation",
+    "m": "động lực",
+    "cat": "công việc"
+  },
+  {
+    "w": "morale",
+    "m": "tinh thần làm việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "burnout",
+    "m": "sự kiệt sức",
+    "cat": "công việc"
+  },
+  {
+    "w": "commute",
+    "m": "việc đi làm xa",
+    "cat": "công việc"
+  },
+  {
+    "w": "freelance",
+    "m": "làm việc tự do",
+    "cat": "công việc"
+  },
+  {
+    "w": "internship",
+    "m": "kỳ thực tập",
+    "cat": "công việc"
+  },
+  {
+    "w": "apprenticeship",
+    "m": "kỳ học việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "qualification",
+    "m": "bằng cấp",
+    "cat": "công việc"
+  },
+  {
+    "w": "expertise",
+    "m": "chuyên môn",
+    "cat": "công việc"
+  },
+  {
+    "w": "diligence",
+    "m": "sự cần mẫn",
+    "cat": "công việc"
+  },
+  {
+    "w": "punctuality",
+    "m": "sự đúng giờ",
+    "cat": "công việc"
+  },
+  {
+    "w": "discipline",
+    "m": "tính kỷ luật",
+    "cat": "công việc"
+  },
+  {
+    "w": "initiative",
+    "m": "tính chủ động",
+    "cat": "công việc"
+  },
+  {
+    "w": "flexibility",
+    "m": "sự linh hoạt",
+    "cat": "công việc"
+  },
+  {
+    "w": "adaptability",
+    "m": "khả năng thích nghi",
+    "cat": "công việc"
+  },
+  {
+    "w": "leadership",
+    "m": "khả năng lãnh đạo",
+    "cat": "công việc"
+  },
+  {
+    "w": "delegation",
+    "m": "sự ủy thác",
+    "cat": "công việc"
+  },
+  {
+    "w": "collaboration",
+    "m": "sự hợp tác",
+    "cat": "công việc"
+  },
+  {
+    "w": "coordination",
+    "m": "sự phối hợp",
+    "cat": "công việc"
+  },
+  {
+    "w": "supervision",
+    "m": "sự giám sát",
+    "cat": "công việc"
+  },
+  {
+    "w": "mentorship",
+    "m": "sự dìu dắt",
+    "cat": "công việc"
+  },
+  {
+    "w": "networking",
+    "m": "việc kết nối quan hệ",
+    "cat": "công việc"
+  },
+  {
+    "w": "craftsmanship",
+    "m": "tay nghề thủ công",
+    "cat": "công việc"
+  },
+  {
+    "w": "dexterity",
+    "m": "sự khéo tay",
+    "cat": "công việc"
+  },
+  {
+    "w": "precision",
+    "m": "sự chính xác",
+    "cat": "công việc"
+  },
+  {
+    "w": "accuracy",
+    "m": "độ chính xác",
+    "cat": "công việc"
+  },
+  {
+    "w": "consistency",
+    "m": "sự nhất quán",
+    "cat": "công việc"
+  },
+  {
+    "w": "reliability",
+    "m": "độ tin cậy",
+    "cat": "công việc"
+  },
+  {
+    "w": "versatility",
+    "m": "tính đa năng",
+    "cat": "công việc"
+  },
+  {
+    "w": "competence",
+    "m": "năng lực",
+    "cat": "công việc"
+  },
+  {
+    "w": "proficiency",
+    "m": "sự thành thạo",
+    "cat": "công việc"
+  },
+  {
+    "w": "aptitude",
+    "m": "năng khiếu",
+    "cat": "công việc"
+  },
+  {
+    "w": "diagnosis",
+    "m": "chẩn đoán",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "treatment",
+    "m": "sự điều trị",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "therapy",
+    "m": "liệu pháp",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "recovery",
+    "m": "sự hồi phục",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "checkup",
+    "m": "khám sức khỏe",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "vaccination",
+    "m": "sự tiêm chủng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "immunisation",
+    "m": "sự tạo miễn dịch",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "hygiene",
+    "m": "vệ sinh",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "nutrition",
+    "m": "dinh dưỡng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "diet",
+    "m": "chế độ ăn",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "exercise",
+    "m": "tập thể dục",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "fitness",
+    "m": "sự khỏe khoắn",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "wellbeing",
+    "m": "sự khỏe mạnh hạnh phúc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "posture",
+    "m": "tư thế",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "stamina",
+    "m": "sức bền",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "flexibility",
+    "m": "sự dẻo dai",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "metabolism",
+    "m": "trao đổi chất",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "circulation",
+    "m": "tuần hoàn máu",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "digestion",
+    "m": "tiêu hóa",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "dehydration",
+    "m": "sự mất nước",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "obesity",
+    "m": "béo phì",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "addiction",
+    "m": "sự nghiện",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "withdrawal",
+    "m": "hội chứng cai",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "relapse",
+    "m": "sự tái phát",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "remedy",
+    "m": "phương thuốc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "cure",
+    "m": "cách chữa",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "relief",
+    "m": "sự thuyên giảm",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "side effect",
+    "m": "tác dụng phụ",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "overdose",
+    "m": "quá liều",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "epidemic",
+    "m": "dịch bệnh",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "quarantine",
+    "m": "sự cách ly",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "sanitation",
+    "m": "vệ sinh môi trường",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "acquaintance",
+    "m": "người quen",
+    "cat": "người"
+  },
+  {
+    "w": "companion",
+    "m": "bạn đồng hành",
+    "cat": "người"
+  },
+  {
+    "w": "confidant",
+    "m": "người tâm phúc",
+    "cat": "người"
+  },
+  {
+    "w": "ally",
+    "m": "đồng minh",
+    "cat": "người"
+  },
+  {
+    "w": "rival",
+    "m": "đối thủ",
+    "cat": "người"
+  },
+  {
+    "w": "opponent",
+    "m": "đối phương",
+    "cat": "người"
+  },
+  {
+    "w": "adversary",
+    "m": "kẻ thù",
+    "cat": "người"
+  },
+  {
+    "w": "accomplice",
+    "m": "đồng phạm",
+    "cat": "người"
+  },
+  {
+    "w": "associate",
+    "m": "cộng sự",
+    "cat": "người"
+  },
+  {
+    "w": "partner",
+    "m": "đối tác, bạn đời",
+    "cat": "người"
+  },
+  {
+    "w": "spouse",
+    "m": "vợ/chồng",
+    "cat": "người"
+  },
+  {
+    "w": "fiancé",
+    "m": "chồng chưa cưới",
+    "cat": "người"
+  },
+  {
+    "w": "fiancée",
+    "m": "vợ chưa cưới",
+    "cat": "người"
+  },
+  {
+    "w": "relative",
+    "m": "họ hàng",
+    "cat": "người"
+  },
+  {
+    "w": "ancestor",
+    "m": "tổ tiên",
+    "cat": "người"
+  },
+  {
+    "w": "descendant",
+    "m": "con cháu",
+    "cat": "người"
+  },
+  {
+    "w": "offspring",
+    "m": "con cái",
+    "cat": "người"
+  },
+  {
+    "w": "sibling",
+    "m": "anh chị em ruột",
+    "cat": "người"
+  },
+  {
+    "w": "twin",
+    "m": "sinh đôi",
+    "cat": "người"
+  },
+  {
+    "w": "godparent",
+    "m": "cha mẹ đỡ đầu",
+    "cat": "người"
+  },
+  {
+    "w": "guardian",
+    "m": "người giám hộ",
+    "cat": "người"
+  },
+  {
+    "w": "househusband",
+    "m": "người chồng nội trợ",
+    "cat": "người"
+  },
+  {
+    "w": "breadwinner",
+    "m": "trụ cột gia đình",
+    "cat": "người"
+  },
+  {
+    "w": "newcomer",
+    "m": "người mới đến",
+    "cat": "người"
+  },
+  {
+    "w": "outsider",
+    "m": "người ngoài cuộc",
+    "cat": "người"
+  },
+  {
+    "w": "celebrity",
+    "m": "người nổi tiếng",
+    "cat": "người"
+  },
+  {
+    "w": "protagonist",
+    "m": "nhân vật chính",
+    "cat": "người"
+  },
+  {
+    "w": "culprit",
+    "m": "thủ phạm",
+    "cat": "người"
+  },
+  {
+    "w": "victim",
+    "m": "nạn nhân",
+    "cat": "người"
+  },
+  {
+    "w": "survivor",
+    "m": "người sống sót",
+    "cat": "người"
+  }
+]

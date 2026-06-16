@@ -1,0 +1,4364 @@
+[
+  {
+    "w": "account for",
+    "p": "",
+    "m": "giải thích, chiếm phần (tỷ lệ)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "acquire knowledge",
+    "p": "",
+    "m": "thu thập kiến thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "address an issue",
+    "p": "",
+    "m": "giải quyết một vấn đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "adhere to",
+    "p": "",
+    "m": "tuân thủ, bám sát",
+    "cat": "học thuật"
+  },
+  {
+    "w": "advocate for",
+    "p": "",
+    "m": "ủng hộ, vận động cho",
+    "cat": "chính trị"
+  },
+  {
+    "w": "aforementioned",
+    "p": "",
+    "m": "đã đề cập trước đó",
+    "cat": "học thuật"
+  },
+  {
+    "w": "aggregate data",
+    "p": "",
+    "m": "dữ liệu tổng hợp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "albeit",
+    "p": "",
+    "m": "mặc dù, dù rằng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "alleviate",
+    "p": "",
+    "m": "giảm nhẹ, xoa dịu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "allocate resources",
+    "p": "",
+    "m": "phân bổ nguồn lực",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "amount to",
+    "p": "",
+    "m": "lên đến, tương đương với",
+    "cat": "học thuật"
+  },
+  {
+    "w": "analogous to",
+    "p": "",
+    "m": "tương tự như, tương đồng với",
+    "cat": "học thuật"
+  },
+  {
+    "w": "analytical framework",
+    "p": "",
+    "m": "khung phân tích",
+    "cat": "học thuật"
+  },
+  {
+    "w": "apparent contradiction",
+    "p": "",
+    "m": "mâu thuẫn rõ ràng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "apply to",
+    "p": "",
+    "m": "áp dụng vào, nộp đơn vào",
+    "cat": "học tập"
+  },
+  {
+    "w": "arise from",
+    "p": "",
+    "m": "phát sinh từ, xuất hiện từ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "articulate clearly",
+    "p": "",
+    "m": "diễn đạt rõ ràng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "as a consequence",
+    "p": "",
+    "m": "do đó, vì vậy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "as opposed to",
+    "p": "",
+    "m": "trái với, đối lập với",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ascertain",
+    "p": "",
+    "m": "xác định, tìm hiểu chắc chắn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "assimilate",
+    "p": "",
+    "m": "đồng hóa, tiếp thu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "at variance with",
+    "p": "",
+    "m": "không nhất quán với, trái với",
+    "cat": "học thuật"
+  },
+  {
+    "w": "attest to",
+    "p": "",
+    "m": "chứng minh, xác nhận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "attribute to",
+    "p": "",
+    "m": "quy cho, gán cho",
+    "cat": "học thuật"
+  },
+  {
+    "w": "augment",
+    "p": "",
+    "m": "tăng cường, mở rộng thêm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "backdrop",
+    "p": "",
+    "m": "bối cảnh, phông nền",
+    "cat": "học thuật"
+  },
+  {
+    "w": "back up",
+    "p": "",
+    "m": "hỗ trợ, sao lưu, xác nhận",
+    "cat": "hành động"
+  },
+  {
+    "w": "be at odds with",
+    "p": "",
+    "m": "mâu thuẫn với, không đồng ý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "bear in mind",
+    "p": "",
+    "m": "ghi nhớ, lưu ý",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "benchmark",
+    "p": "",
+    "m": "tiêu chuẩn so sánh, điểm chuẩn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "binary opposition",
+    "p": "",
+    "m": "sự đối lập nhị phân",
+    "cat": "học thuật"
+  },
+  {
+    "w": "body of evidence",
+    "p": "",
+    "m": "tập hợp bằng chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "break down",
+    "p": "",
+    "m": "phân tích chi tiết, chia nhỏ",
+    "cat": "hành động"
+  },
+  {
+    "w": "bridge the gap",
+    "p": "",
+    "m": "thu hẹp khoảng cách",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "broaden perspective",
+    "p": "",
+    "m": "mở rộng tầm nhìn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "build on",
+    "p": "",
+    "m": "phát triển dựa trên, xây dựng thêm",
+    "cat": "hành động"
+  },
+  {
+    "w": "bulk of",
+    "p": "",
+    "m": "phần lớn của, phần chính",
+    "cat": "học thuật"
+  },
+  {
+    "w": "by contrast",
+    "p": "",
+    "m": "ngược lại, trái lại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "by extension",
+    "p": "",
+    "m": "mở rộng ra, suy ra",
+    "cat": "học thuật"
+  },
+  {
+    "w": "call for",
+    "p": "",
+    "m": "yêu cầu, kêu gọi",
+    "cat": "hành động"
+  },
+  {
+    "w": "call into question",
+    "p": "",
+    "m": "đặt vào nghi ngờ, chất vấn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "capacity for",
+    "p": "",
+    "m": "khả năng về, năng lực để",
+    "cat": "học thuật"
+  },
+  {
+    "w": "carry out",
+    "p": "",
+    "m": "thực hiện, tiến hành",
+    "cat": "hành động"
+  },
+  {
+    "w": "cast doubt on",
+    "p": "",
+    "m": "đặt ra nghi ngờ về",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "categorical",
+    "p": "",
+    "m": "dứt khoát, tuyệt đối, phân loại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "causal relationship",
+    "p": "",
+    "m": "mối quan hệ nhân quả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "central argument",
+    "p": "",
+    "m": "luận điểm trung tâm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "challenge assumptions",
+    "p": "",
+    "m": "thách thức các giả định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "characterize",
+    "p": "",
+    "m": "đặc trưng cho, mô tả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "circuitous",
+    "p": "",
+    "m": "vòng vèo, không thẳng thắn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "circumscribe",
+    "p": "",
+    "m": "giới hạn, khoanh vùng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cite evidence",
+    "p": "",
+    "m": "trích dẫn bằng chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "civic responsibility",
+    "p": "",
+    "m": "trách nhiệm công dân",
+    "cat": "xã hội"
+  },
+  {
+    "w": "clarify",
+    "p": "",
+    "m": "làm rõ, giải thích rõ hơn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "coherent argument",
+    "p": "",
+    "m": "lập luận mạch lạc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "come to terms with",
+    "p": "",
+    "m": "chấp nhận, làm quen với",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "complement",
+    "p": "",
+    "m": "bổ sung cho, hoàn chỉnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "complex interplay",
+    "p": "",
+    "m": "sự tương tác phức tạp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "comprehensive overview",
+    "p": "",
+    "m": "cái nhìn tổng quan toàn diện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "conceptual framework",
+    "p": "",
+    "m": "khung khái niệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "concur with",
+    "p": "",
+    "m": "đồng ý với, nhất trí",
+    "cat": "học thuật"
+  },
+  {
+    "w": "conditional clause",
+    "p": "",
+    "m": "mệnh đề điều kiện",
+    "cat": "học tập"
+  },
+  {
+    "w": "conform to",
+    "p": "",
+    "m": "tuân theo, phù hợp với",
+    "cat": "xã hội"
+  },
+  {
+    "w": "connotation",
+    "p": "",
+    "m": "hàm ý, nghĩa bóng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "consolidate",
+    "p": "",
+    "m": "củng cố, tổng hợp lại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "constitute",
+    "p": "",
+    "m": "cấu thành, tạo thành",
+    "cat": "học thuật"
+  },
+  {
+    "w": "contentious",
+    "p": "",
+    "m": "gây tranh cãi, gây cãi vã",
+    "cat": "học thuật"
+  },
+  {
+    "w": "contextual factor",
+    "p": "",
+    "m": "yếu tố bối cảnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "contribute to",
+    "p": "",
+    "m": "đóng góp vào, góp phần",
+    "cat": "học thuật"
+  },
+  {
+    "w": "convey meaning",
+    "p": "",
+    "m": "truyền đạt ý nghĩa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "core principle",
+    "p": "",
+    "m": "nguyên tắc cốt lõi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "correlate with",
+    "p": "",
+    "m": "tương quan với",
+    "cat": "học thuật"
+  },
+  {
+    "w": "counterargument",
+    "p": "",
+    "m": "lập luận phản bác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "counterpart",
+    "p": "",
+    "m": "đối tác tương đương, phần tương ứng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "critical evaluation",
+    "p": "",
+    "m": "đánh giá phê bình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cross-disciplinary",
+    "p": "",
+    "m": "liên ngành, xuyên ngành",
+    "cat": "học thuật"
+  },
+  {
+    "w": "culminate in",
+    "p": "",
+    "m": "đạt đến đỉnh điểm, kết thúc bằng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "currency of ideas",
+    "p": "",
+    "m": "giá trị lưu hành của ý tưởng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "data-driven",
+    "p": "",
+    "m": "dựa trên dữ liệu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "deal with",
+    "p": "",
+    "m": "xử lý, giải quyết",
+    "cat": "hành động"
+  },
+  {
+    "w": "deductive reasoning",
+    "p": "",
+    "m": "lý luận suy diễn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "define parameters",
+    "p": "",
+    "m": "xác định các thông số",
+    "cat": "học thuật"
+  },
+  {
+    "w": "deliberate",
+    "p": "",
+    "m": "có chủ đích, thận trọng; cân nhắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "demonstrate",
+    "p": "",
+    "m": "chứng minh, minh họa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "denote",
+    "p": "",
+    "m": "biểu thị, có nghĩa là",
+    "cat": "học thuật"
+  },
+  {
+    "w": "derive from",
+    "p": "",
+    "m": "xuất phát từ, rút ra từ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "deviate from",
+    "p": "",
+    "m": "lệch khỏi, đi chệch khỏi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "differentiate between",
+    "p": "",
+    "m": "phân biệt giữa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "discourse analysis",
+    "p": "",
+    "m": "phân tích diễn ngôn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "disparity",
+    "p": "",
+    "m": "sự chênh lệch, bất bình đẳng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "distinguish from",
+    "p": "",
+    "m": "phân biệt với",
+    "cat": "học thuật"
+  },
+  {
+    "w": "draw conclusions",
+    "p": "",
+    "m": "rút ra kết luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "draw on",
+    "p": "",
+    "m": "tận dụng, dựa vào",
+    "cat": "học thuật"
+  },
+  {
+    "w": "drive home",
+    "p": "",
+    "m": "nhấn mạnh rõ ràng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "dynamic process",
+    "p": "",
+    "m": "quá trình năng động",
+    "cat": "học thuật"
+  },
+  {
+    "w": "elaborate on",
+    "p": "",
+    "m": "trình bày chi tiết hơn về",
+    "cat": "học thuật"
+  },
+  {
+    "w": "embed in",
+    "p": "",
+    "m": "nhúng vào, tích hợp vào",
+    "cat": "học thuật"
+  },
+  {
+    "w": "emerge as",
+    "p": "",
+    "m": "nổi lên như, trở thành",
+    "cat": "học thuật"
+  },
+  {
+    "w": "empirical evidence",
+    "p": "",
+    "m": "bằng chứng thực nghiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "enable",
+    "p": "",
+    "m": "cho phép, tạo điều kiện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "engage with",
+    "p": "",
+    "m": "tham gia vào, tiếp cận với",
+    "cat": "học thuật"
+  },
+  {
+    "w": "engender",
+    "p": "",
+    "m": "tạo ra, gây ra",
+    "cat": "học thuật"
+  },
+  {
+    "w": "epitomize",
+    "p": "",
+    "m": "tiêu biểu cho, điển hình của",
+    "cat": "học thuật"
+  },
+  {
+    "w": "equate to",
+    "p": "",
+    "m": "tương đương với, coi như",
+    "cat": "học thuật"
+  },
+  {
+    "w": "evaluate critically",
+    "p": "",
+    "m": "đánh giá một cách phê bình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "examine in depth",
+    "p": "",
+    "m": "xem xét sâu sắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "exemplify",
+    "p": "",
+    "m": "làm ví dụ điển hình, minh họa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "exhaustive",
+    "p": "",
+    "m": "toàn diện, cạn kiệt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "explicit",
+    "p": "",
+    "m": "rõ ràng, tường minh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "explore implications",
+    "p": "",
+    "m": "khám phá hàm ý, tác động",
+    "cat": "học thuật"
+  },
+  {
+    "w": "expound on",
+    "p": "",
+    "m": "giải thích cặn kẽ về",
+    "cat": "học thuật"
+  },
+  {
+    "w": "extensive research",
+    "p": "",
+    "m": "nghiên cứu sâu rộng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "extent to which",
+    "p": "",
+    "m": "mức độ mà, phạm vi mà",
+    "cat": "học thuật"
+  },
+  {
+    "w": "facilitate",
+    "p": "",
+    "m": "tạo điều kiện, hỗ trợ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "fall short of",
+    "p": "",
+    "m": "không đạt đến, không đủ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "feature prominently",
+    "p": "",
+    "m": "xuất hiện nổi bật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "figure out",
+    "p": "",
+    "m": "tìm ra, hiểu ra",
+    "cat": "hành động"
+  },
+  {
+    "w": "fine-tune",
+    "p": "",
+    "m": "điều chỉnh tinh tế",
+    "cat": "hành động"
+  },
+  {
+    "w": "focus on",
+    "p": "",
+    "m": "tập trung vào",
+    "cat": "hành động"
+  },
+  {
+    "w": "follow up on",
+    "p": "",
+    "m": "theo dõi tiếp, xem xét lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "for instance",
+    "p": "",
+    "m": "ví dụ như, chẳng hạn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "foreground",
+    "p": "",
+    "m": "đưa lên hàng đầu, nhấn mạnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "formulate hypothesis",
+    "p": "",
+    "m": "đặt ra giả thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "frame an argument",
+    "p": "",
+    "m": "xây dựng lập luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "functional equivalent",
+    "p": "",
+    "m": "tương đương về chức năng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "fundamental assumption",
+    "p": "",
+    "m": "giả định cơ bản",
+    "cat": "học thuật"
+  },
+  {
+    "w": "gain insight into",
+    "p": "",
+    "m": "có cái nhìn sâu sắc về",
+    "cat": "học thuật"
+  },
+  {
+    "w": "generate hypotheses",
+    "p": "",
+    "m": "tạo ra giả thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "give rise to",
+    "p": "",
+    "m": "dẫn đến, gây ra",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "go beyond",
+    "p": "",
+    "m": "vượt ra ngoài, không chỉ là",
+    "cat": "hành động"
+  },
+  {
+    "w": "governing principle",
+    "p": "",
+    "m": "nguyên tắc chi phối",
+    "cat": "học thuật"
+  },
+  {
+    "w": "grasp",
+    "p": "",
+    "m": "nắm bắt, hiểu được",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ground in",
+    "p": "",
+    "m": "dựa vào, nền tảng trên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "groundbreaking",
+    "p": "",
+    "m": "đột phá, tiên phong",
+    "cat": "học thuật"
+  },
+  {
+    "w": "hallmark",
+    "p": "",
+    "m": "đặc trưng nổi bật, dấu hiệu nhận biết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "hinge on",
+    "p": "",
+    "m": "phụ thuộc vào, xoay quanh",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "holistic approach",
+    "p": "",
+    "m": "cách tiếp cận toàn diện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "hypothesis testing",
+    "p": "",
+    "m": "kiểm tra giả thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "identify patterns",
+    "p": "",
+    "m": "xác định các quy luật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "illustrate",
+    "p": "",
+    "m": "minh họa, làm rõ bằng ví dụ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "immerse in",
+    "p": "",
+    "m": "đắm chìm vào, ngập trong",
+    "cat": "hành động"
+  },
+  {
+    "w": "impact on",
+    "p": "",
+    "m": "tác động đến",
+    "cat": "học thuật"
+  },
+  {
+    "w": "implicit",
+    "p": "",
+    "m": "ngầm định, ẩn chứa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "impose constraints",
+    "p": "",
+    "m": "áp đặt những hạn chế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in accordance with",
+    "p": "",
+    "m": "theo, phù hợp với",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in addition to",
+    "p": "",
+    "m": "ngoài ra, thêm vào đó",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in conjunction with",
+    "p": "",
+    "m": "kết hợp với, cùng với",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in light of",
+    "p": "",
+    "m": "dưới ánh sáng của, khi xét đến",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in relation to",
+    "p": "",
+    "m": "liên quan đến, so với",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in terms of",
+    "p": "",
+    "m": "về mặt, xét về",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in the context of",
+    "p": "",
+    "m": "trong bối cảnh của",
+    "cat": "học thuật"
+  },
+  {
+    "w": "infer from",
+    "p": "",
+    "m": "suy ra từ, rút ra kết luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "inherent",
+    "p": "",
+    "m": "vốn có, nội tại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "inquiry-based",
+    "p": "",
+    "m": "dựa trên tìm tòi, khám phá",
+    "cat": "học tập"
+  },
+  {
+    "w": "insightful",
+    "p": "",
+    "m": "sâu sắc, tinh tế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "integral",
+    "p": "",
+    "m": "thiết yếu, không thể thiếu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "integrate",
+    "p": "",
+    "m": "tích hợp, kết hợp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "intellectual rigor",
+    "p": "",
+    "m": "sự chặt chẽ trí tuệ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "interdisciplinary",
+    "p": "",
+    "m": "liên ngành",
+    "cat": "học thuật"
+  },
+  {
+    "w": "intersection of",
+    "p": "",
+    "m": "điểm giao nhau của",
+    "cat": "học thuật"
+  },
+  {
+    "w": "intervening variable",
+    "p": "",
+    "m": "biến can thiệp, biến trung gian",
+    "cat": "học thuật"
+  },
+  {
+    "w": "juxtapose",
+    "p": "",
+    "m": "đặt cạnh nhau để so sánh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "key distinction",
+    "p": "",
+    "m": "sự phân biệt quan trọng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "lay the groundwork",
+    "p": "",
+    "m": "đặt nền móng, chuẩn bị cơ sở",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "lend support to",
+    "p": "",
+    "m": "ủng hộ, hỗ trợ cho",
+    "cat": "học thuật"
+  },
+  {
+    "w": "leverage",
+    "p": "",
+    "m": "tận dụng, đòn bẩy",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "limitations of",
+    "p": "",
+    "m": "những hạn chế của",
+    "cat": "học thuật"
+  },
+  {
+    "w": "link to",
+    "p": "",
+    "m": "liên kết đến, kết nối với",
+    "cat": "hành động"
+  },
+  {
+    "w": "logical inference",
+    "p": "",
+    "m": "suy luận logic",
+    "cat": "học thuật"
+  },
+  {
+    "w": "look into",
+    "p": "",
+    "m": "điều tra, tìm hiểu",
+    "cat": "hành động"
+  },
+  {
+    "w": "maintain coherence",
+    "p": "",
+    "m": "duy trì sự mạch lạc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "make the case for",
+    "p": "",
+    "m": "lập luận ủng hộ, biện hộ cho",
+    "cat": "học thuật"
+  },
+  {
+    "w": "methodological approach",
+    "p": "",
+    "m": "cách tiếp cận phương pháp luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "mitigate",
+    "p": "",
+    "m": "giảm thiểu, làm dịu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "mode of inquiry",
+    "p": "",
+    "m": "phương thức nghiên cứu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "model of analysis",
+    "p": "",
+    "m": "mô hình phân tích",
+    "cat": "học thuật"
+  },
+  {
+    "w": "multi-faceted",
+    "p": "",
+    "m": "đa chiều, nhiều mặt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "mutual exclusivity",
+    "p": "",
+    "m": "tính loại trừ lẫn nhau",
+    "cat": "học thuật"
+  },
+  {
+    "w": "narrow down",
+    "p": "",
+    "m": "thu hẹp, giới hạn lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "nature of",
+    "p": "",
+    "m": "bản chất của",
+    "cat": "học thuật"
+  },
+  {
+    "w": "necessitate",
+    "p": "",
+    "m": "đòi hỏi, tất yếu phải",
+    "cat": "học thuật"
+  },
+  {
+    "w": "nuanced",
+    "p": "",
+    "m": "tinh tế, có nhiều sắc thái",
+    "cat": "tính từ"
+  },
+  {
+    "w": "objective analysis",
+    "p": "",
+    "m": "phân tích khách quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "on account of",
+    "p": "",
+    "m": "vì, do",
+    "cat": "học thuật"
+  },
+  {
+    "w": "on the basis of",
+    "p": "",
+    "m": "trên cơ sở, dựa vào",
+    "cat": "học thuật"
+  },
+  {
+    "w": "on the premise that",
+    "p": "",
+    "m": "dựa trên tiền đề rằng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "open-ended question",
+    "p": "",
+    "m": "câu hỏi mở",
+    "cat": "học tập"
+  },
+  {
+    "w": "operational definition",
+    "p": "",
+    "m": "định nghĩa hoạt động",
+    "cat": "học thuật"
+  },
+  {
+    "w": "outline",
+    "p": "",
+    "m": "phác thảo, tóm tắt đề cương",
+    "cat": "học thuật"
+  },
+  {
+    "w": "overarching theme",
+    "p": "",
+    "m": "chủ đề bao quát",
+    "cat": "học thuật"
+  },
+  {
+    "w": "paradigm shift",
+    "p": "",
+    "m": "sự thay đổi mô hình tư duy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "peer review",
+    "p": "",
+    "m": "đánh giá đồng nghiệp, bình duyệt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "pervasive",
+    "p": "",
+    "m": "lan tràn, có mặt khắp nơi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "phenomenological",
+    "p": "",
+    "m": "thuộc hiện tượng luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "point out",
+    "p": "",
+    "m": "chỉ ra, nêu ra",
+    "cat": "hành động"
+  },
+  {
+    "w": "postulate",
+    "p": "",
+    "m": "giả thuyết; đặt ra luận điểm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "prevailing view",
+    "p": "",
+    "m": "quan điểm phổ biến hiện nay",
+    "cat": "học thuật"
+  },
+  {
+    "w": "primary source",
+    "p": "",
+    "m": "nguồn tài liệu gốc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "probe into",
+    "p": "",
+    "m": "điều tra sâu, tìm hiểu kỹ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "qualitative research",
+    "p": "",
+    "m": "nghiên cứu định tính",
+    "cat": "học thuật"
+  },
+  {
+    "w": "quantitative data",
+    "p": "",
+    "m": "dữ liệu định lượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "raise awareness",
+    "p": "",
+    "m": "nâng cao nhận thức",
+    "cat": "xã hội"
+  },
+  {
+    "w": "reach a consensus",
+    "p": "",
+    "m": "đạt được sự đồng thuận",
+    "cat": "xã hội"
+  },
+  {
+    "w": "recursive",
+    "p": "",
+    "m": "đệ quy, lặp lại",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "refute",
+    "p": "",
+    "m": "bác bỏ, phản bác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "reinforce",
+    "p": "",
+    "m": "củng cố, tăng cường",
+    "cat": "học thuật"
+  },
+  {
+    "w": "relate to",
+    "p": "",
+    "m": "liên quan đến, có liên hệ",
+    "cat": "hành động"
+  },
+  {
+    "w": "relevant",
+    "p": "",
+    "m": "liên quan, phù hợp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "replicate",
+    "p": "",
+    "m": "lặp lại, tái tạo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "represent",
+    "p": "",
+    "m": "đại diện cho, biểu thị",
+    "cat": "học thuật"
+  },
+  {
+    "w": "research methodology",
+    "p": "",
+    "m": "phương pháp nghiên cứu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "resolve",
+    "p": "",
+    "m": "giải quyết, quyết định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "rigorous",
+    "p": "",
+    "m": "nghiêm ngặt, chặt chẽ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "robust",
+    "p": "",
+    "m": "vững chắc, bền vững",
+    "cat": "học thuật"
+  },
+  {
+    "w": "run counter to",
+    "p": "",
+    "m": "đi ngược lại với",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "salient",
+    "p": "",
+    "m": "nổi bật, quan trọng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "scholarly",
+    "p": "",
+    "m": "học thuật, uyên bác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "scrutinize",
+    "p": "",
+    "m": "xem xét kỹ lưỡng, kiểm tra cẩn thận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "secondary source",
+    "p": "",
+    "m": "nguồn tài liệu thứ cấp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "set forth",
+    "p": "",
+    "m": "trình bày, đặt ra",
+    "cat": "học thuật"
+  },
+  {
+    "w": "shed light on",
+    "p": "",
+    "m": "làm sáng tỏ, giải thích",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "shift in perspective",
+    "p": "",
+    "m": "sự thay đổi quan điểm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "significant implications",
+    "p": "",
+    "m": "hàm ý quan trọng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "simulate",
+    "p": "",
+    "m": "mô phỏng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "skeptical",
+    "p": "",
+    "m": "hoài nghi, ngờ vực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "span of",
+    "p": "",
+    "m": "khoảng thời gian, phạm vi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "speculate",
+    "p": "",
+    "m": "suy đoán, đầu cơ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "stand for",
+    "p": "",
+    "m": "đại diện cho, ủng hộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "subjective",
+    "p": "",
+    "m": "chủ quan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "substantiate",
+    "p": "",
+    "m": "chứng minh, xác nhận bằng bằng chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "sum up",
+    "p": "",
+    "m": "tóm tắt lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "systematic approach",
+    "p": "",
+    "m": "cách tiếp cận có hệ thống",
+    "cat": "học thuật"
+  },
+  {
+    "w": "take into account",
+    "p": "",
+    "m": "tính đến, xem xét",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "tangible",
+    "p": "",
+    "m": "hữu hình, cụ thể, rõ ràng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "tentative conclusion",
+    "p": "",
+    "m": "kết luận tạm thời",
+    "cat": "học thuật"
+  },
+  {
+    "w": "theoretical basis",
+    "p": "",
+    "m": "cơ sở lý thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "think through",
+    "p": "",
+    "m": "suy nghĩ kỹ lưỡng",
+    "cat": "hành động"
+  },
+  {
+    "w": "thorough analysis",
+    "p": "",
+    "m": "phân tích kỹ lưỡng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "threshold",
+    "p": "",
+    "m": "ngưỡng, điểm giới hạn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "to a large extent",
+    "p": "",
+    "m": "ở mức độ lớn, phần lớn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "trace back to",
+    "p": "",
+    "m": "truy nguyên đến, bắt nguồn từ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "transcend",
+    "p": "",
+    "m": "vượt qua, siêu việt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "trigger",
+    "p": "",
+    "m": "kích hoạt, gây ra",
+    "cat": "học thuật"
+  },
+  {
+    "w": "underlying assumption",
+    "p": "",
+    "m": "giả định cơ bản ẩn sau",
+    "cat": "học thuật"
+  },
+  {
+    "w": "unpack",
+    "p": "",
+    "m": "phân tích kỹ, giải mã",
+    "cat": "học thuật"
+  },
+  {
+    "w": "uphold",
+    "p": "",
+    "m": "duy trì, bảo vệ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "validate",
+    "p": "",
+    "m": "xác nhận, chứng thực",
+    "cat": "học thuật"
+  },
+  {
+    "w": "value judgment",
+    "p": "",
+    "m": "phán xét giá trị",
+    "cat": "học thuật"
+  },
+  {
+    "w": "variable",
+    "p": "",
+    "m": "biến số, yếu tố thay đổi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "verify",
+    "p": "",
+    "m": "xác minh, kiểm chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "weigh up",
+    "p": "",
+    "m": "cân nhắc, so sánh ưu nhược điểm",
+    "cat": "hành động"
+  },
+  {
+    "w": "whereas",
+    "p": "",
+    "m": "trong khi đó, trái lại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "work out",
+    "p": "",
+    "m": "giải quyết, tính toán ra",
+    "cat": "hành động"
+  },
+  {
+    "w": "yield results",
+    "p": "",
+    "m": "cho ra kết quả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "accomplish",
+    "p": "",
+    "m": "hoàn thành, đạt được",
+    "cat": "hành động"
+  },
+  {
+    "w": "accumulate",
+    "p": "",
+    "m": "tích lũy, gom góp",
+    "cat": "hành động"
+  },
+  {
+    "w": "acute",
+    "p": "",
+    "m": "cấp tính, nhọn bén, sắc sảo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "adaptive",
+    "p": "",
+    "m": "có khả năng thích nghi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "adjoining",
+    "p": "",
+    "m": "liền kề, tiếp giáp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "adversarial",
+    "p": "",
+    "m": "mang tính đối nghịch",
+    "cat": "tính từ"
+  },
+  {
+    "w": "affirmative",
+    "p": "",
+    "m": "khẳng định, tán thành",
+    "cat": "tính từ"
+  },
+  {
+    "w": "aggregate",
+    "p": "",
+    "m": "tổng hợp; toàn bộ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "albeit brief",
+    "p": "",
+    "m": "dù ngắn ngủi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "allegation",
+    "p": "",
+    "m": "cáo buộc, lời tố cáo",
+    "cat": "chính trị"
+  },
+  {
+    "w": "allude to",
+    "p": "",
+    "m": "ám chỉ, đề cập gián tiếp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ambiguous",
+    "p": "",
+    "m": "mơ hồ, lưỡng nghĩa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "amendable",
+    "p": "",
+    "m": "có thể sửa đổi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ample",
+    "p": "",
+    "m": "đủ rộng, đầy đủ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "anomaly",
+    "p": "",
+    "m": "bất thường, điều không theo quy luật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "apprehend",
+    "p": "",
+    "m": "bắt giữ; lĩnh hội, hiểu",
+    "cat": "hành động"
+  },
+  {
+    "w": "aptly",
+    "p": "",
+    "m": "một cách thích hợp",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "arbitrary",
+    "p": "",
+    "m": "tùy tiện, độc đoán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "articulate",
+    "p": "",
+    "m": "diễn đạt rõ ràng; có khả năng nói",
+    "cat": "tính từ"
+  },
+  {
+    "w": "assertion",
+    "p": "",
+    "m": "khẳng định, tuyên bố mạnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "asymmetric",
+    "p": "",
+    "m": "bất đối xứng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "attain",
+    "p": "",
+    "m": "đạt được, đạt tới",
+    "cat": "hành động"
+  },
+  {
+    "w": "authentic",
+    "p": "",
+    "m": "chân thực, xác thực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "autonomy",
+    "p": "",
+    "m": "tính tự chủ, quyền tự quyết",
+    "cat": "xã hội"
+  },
+  {
+    "w": "axiomatic",
+    "p": "",
+    "m": "hiển nhiên, có tính tiên đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "balance of power",
+    "p": "",
+    "m": "thế cân bằng quyền lực",
+    "cat": "chính trị"
+  },
+  {
+    "w": "behave consistently",
+    "p": "",
+    "m": "hành xử nhất quán",
+    "cat": "hành động"
+  },
+  {
+    "w": "belief system",
+    "p": "",
+    "m": "hệ thống niềm tin",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "bilingual",
+    "p": "",
+    "m": "song ngữ, thông thạo hai thứ tiếng",
+    "cat": "học tập"
+  },
+  {
+    "w": "bipartisan",
+    "p": "",
+    "m": "lưỡng đảng, được cả hai đảng ủng hộ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "bolster",
+    "p": "",
+    "m": "tăng cường, củng cố",
+    "cat": "hành động"
+  },
+  {
+    "w": "bureaucratic",
+    "p": "",
+    "m": "quan liêu, bộ máy hành chính",
+    "cat": "chính trị"
+  },
+  {
+    "w": "candid",
+    "p": "",
+    "m": "thẳng thắn, chân thành",
+    "cat": "tính từ"
+  },
+  {
+    "w": "capitulate",
+    "p": "",
+    "m": "đầu hàng, nhượng bộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "catalyze",
+    "p": "",
+    "m": "xúc tác, thúc đẩy",
+    "cat": "hành động"
+  },
+  {
+    "w": "cautiously optimistic",
+    "p": "",
+    "m": "thận trọng lạc quan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "chronological",
+    "p": "",
+    "m": "theo trình tự thời gian",
+    "cat": "học thuật"
+  },
+  {
+    "w": "civic engagement",
+    "p": "",
+    "m": "sự tham gia công dân",
+    "cat": "xã hội"
+  },
+  {
+    "w": "clash of interests",
+    "p": "",
+    "m": "xung đột lợi ích",
+    "cat": "xã hội"
+  },
+  {
+    "w": "cognitive",
+    "p": "",
+    "m": "nhận thức, thuộc về tư duy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "coherence",
+    "p": "",
+    "m": "sự mạch lạc, liên kết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "collective action",
+    "p": "",
+    "m": "hành động tập thể",
+    "cat": "xã hội"
+  },
+  {
+    "w": "colloquial",
+    "p": "",
+    "m": "thông tục, khẩu ngữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "compulsory",
+    "p": "",
+    "m": "bắt buộc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "conceive of",
+    "p": "",
+    "m": "hình dung, quan niệm về",
+    "cat": "hành động"
+  },
+  {
+    "w": "condone",
+    "p": "",
+    "m": "dung túng, tha thứ cho",
+    "cat": "hành động"
+  },
+  {
+    "w": "confer",
+    "p": "",
+    "m": "hội ý, cấp cho",
+    "cat": "hành động"
+  },
+  {
+    "w": "conflate",
+    "p": "",
+    "m": "nhập lẫn, nhầm lẫn hai khái niệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "congruent",
+    "p": "",
+    "m": "trùng khớp, tương đồng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "consensus building",
+    "p": "",
+    "m": "xây dựng sự đồng thuận",
+    "cat": "xã hội"
+  },
+  {
+    "w": "consequential",
+    "p": "",
+    "m": "quan trọng, có hậu quả lớn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "constituency",
+    "p": "",
+    "m": "khu vực bầu cử, cử tri",
+    "cat": "chính trị"
+  },
+  {
+    "w": "context-dependent",
+    "p": "",
+    "m": "phụ thuộc bối cảnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "convergent",
+    "p": "",
+    "m": "hội tụ, đồng quy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cope with",
+    "p": "",
+    "m": "đối phó với, vượt qua",
+    "cat": "hành động"
+  },
+  {
+    "w": "correlate",
+    "p": "",
+    "m": "tương quan, liên hệ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "credibility",
+    "p": "",
+    "m": "độ tin cậy, uy tín",
+    "cat": "học thuật"
+  },
+  {
+    "w": "criteria",
+    "p": "",
+    "m": "tiêu chí, tiêu chuẩn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cultural norm",
+    "p": "",
+    "m": "chuẩn mực văn hóa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "curb",
+    "p": "",
+    "m": "kiềm chế, hạn chế",
+    "cat": "hành động"
+  },
+  {
+    "w": "cyclical",
+    "p": "",
+    "m": "theo chu kỳ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "debate",
+    "p": "",
+    "m": "tranh luận, thảo luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "decisive",
+    "p": "",
+    "m": "quyết đoán, có tính quyết định",
+    "cat": "tính từ"
+  },
+  {
+    "w": "deficiency",
+    "p": "",
+    "m": "sự thiếu hụt, khiếm khuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "definitive",
+    "p": "",
+    "m": "dứt khoát, có tính quyết định",
+    "cat": "tính từ"
+  },
+  {
+    "w": "delegation of authority",
+    "p": "",
+    "m": "ủy quyền",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "demographic",
+    "p": "",
+    "m": "nhân khẩu học; thuộc dân số",
+    "cat": "xã hội"
+  },
+  {
+    "w": "desirable outcome",
+    "p": "",
+    "m": "kết quả mong muốn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "detect",
+    "p": "",
+    "m": "phát hiện, nhận ra",
+    "cat": "hành động"
+  },
+  {
+    "w": "deterministic",
+    "p": "",
+    "m": "tất định, xác định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "devote to",
+    "p": "",
+    "m": "dành cho, cống hiến cho",
+    "cat": "hành động"
+  },
+  {
+    "w": "dichotomy",
+    "p": "",
+    "m": "sự phân đôi, lưỡng phân",
+    "cat": "học thuật"
+  },
+  {
+    "w": "discern",
+    "p": "",
+    "m": "nhận thấy, phân biệt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "discourse",
+    "p": "",
+    "m": "diễn ngôn, bài diễn thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "distinct",
+    "p": "",
+    "m": "rõ ràng, khác biệt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "diversify",
+    "p": "",
+    "m": "đa dạng hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "document",
+    "p": "",
+    "m": "ghi lại, tài liệu hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "dominant",
+    "p": "",
+    "m": "chiếm ưu thế, nổi bật",
+    "cat": "tính từ"
+  },
+  {
+    "w": "draw attention to",
+    "p": "",
+    "m": "thu hút sự chú ý đến",
+    "cat": "hành động"
+  },
+  {
+    "w": "dual purpose",
+    "p": "",
+    "m": "mục đích kép, hai mục đích",
+    "cat": "học thuật"
+  },
+  {
+    "w": "durable",
+    "p": "",
+    "m": "bền vững, lâu dài",
+    "cat": "tính từ"
+  },
+  {
+    "w": "economic disparity",
+    "p": "",
+    "m": "bất bình đẳng kinh tế",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "efficacy",
+    "p": "",
+    "m": "hiệu quả, hiệu nghiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "eliminate",
+    "p": "",
+    "m": "loại bỏ, xóa bỏ",
+    "cat": "hành động"
+  },
+  {
+    "w": "eloquent",
+    "p": "",
+    "m": "hùng hồn, có tài ăn nói",
+    "cat": "tính từ"
+  },
+  {
+    "w": "empower",
+    "p": "",
+    "m": "trao quyền, nâng cao năng lực",
+    "cat": "hành động"
+  },
+  {
+    "w": "encounter",
+    "p": "",
+    "m": "gặp phải, đối mặt với",
+    "cat": "hành động"
+  },
+  {
+    "w": "endorse",
+    "p": "",
+    "m": "ủng hộ, xác nhận, chứng thực",
+    "cat": "hành động"
+  },
+  {
+    "w": "enforce",
+    "p": "",
+    "m": "thực thi, áp đặt",
+    "cat": "hành động"
+  },
+  {
+    "w": "enumerate",
+    "p": "",
+    "m": "liệt kê, đếm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "equity",
+    "p": "",
+    "m": "sự công bằng; cổ phần",
+    "cat": "xã hội"
+  },
+  {
+    "w": "eradicate",
+    "p": "",
+    "m": "xóa bỏ hoàn toàn, tiệt trừ",
+    "cat": "hành động"
+  },
+  {
+    "w": "ethical dilemma",
+    "p": "",
+    "m": "tình huống khó xử về đạo đức",
+    "cat": "xã hội"
+  },
+  {
+    "w": "evidence-based",
+    "p": "",
+    "m": "dựa trên bằng chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "evoke",
+    "p": "",
+    "m": "gợi lên, khơi dậy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "evolve",
+    "p": "",
+    "m": "phát triển, tiến hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "exclusive",
+    "p": "",
+    "m": "độc quyền, không bao gồm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "exert influence",
+    "p": "",
+    "m": "tác động ảnh hưởng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "exhibit",
+    "p": "",
+    "m": "trưng bày, thể hiện",
+    "cat": "hành động"
+  },
+  {
+    "w": "expand on",
+    "p": "",
+    "m": "mở rộng thêm, giải thích thêm",
+    "cat": "hành động"
+  },
+  {
+    "w": "expedite",
+    "p": "",
+    "m": "đẩy nhanh, xúc tiến",
+    "cat": "hành động"
+  },
+  {
+    "w": "expertise",
+    "p": "",
+    "m": "chuyên môn, sự tinh thông",
+    "cat": "công việc"
+  },
+  {
+    "w": "extrapolate",
+    "p": "",
+    "m": "ngoại suy, mở rộng dự đoán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "feasibility",
+    "p": "",
+    "m": "tính khả thi",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "finite",
+    "p": "",
+    "m": "hữu hạn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "flagship",
+    "p": "",
+    "m": "hàng đầu, tiêu biểu nhất",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "fluctuate",
+    "p": "",
+    "m": "biến động, dao động",
+    "cat": "hành động"
+  },
+  {
+    "w": "formidable",
+    "p": "",
+    "m": "đáng gờm, ghê gớm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "foster",
+    "p": "",
+    "m": "nuôi dưỡng, thúc đẩy",
+    "cat": "hành động"
+  },
+  {
+    "w": "fragmented",
+    "p": "",
+    "m": "phân mảnh, rời rạc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "framework",
+    "p": "",
+    "m": "khung cơ cấu, hệ thống nền tảng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "fundamental",
+    "p": "",
+    "m": "cơ bản, nền tảng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "generalize",
+    "p": "",
+    "m": "khái quát hóa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "global governance",
+    "p": "",
+    "m": "quản trị toàn cầu",
+    "cat": "chính trị"
+  },
+  {
+    "w": "grounded theory",
+    "p": "",
+    "m": "lý thuyết nền tảng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "growth trajectory",
+    "p": "",
+    "m": "quỹ đạo tăng trưởng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "hierarchical",
+    "p": "",
+    "m": "có thứ bậc, phân cấp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "highlight",
+    "p": "",
+    "m": "nhấn mạnh, nêu bật",
+    "cat": "hành động"
+  },
+  {
+    "w": "ideological",
+    "p": "",
+    "m": "thuộc ý thức hệ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "implement",
+    "p": "",
+    "m": "thực hiện, triển khai",
+    "cat": "hành động"
+  },
+  {
+    "w": "implication",
+    "p": "",
+    "m": "hàm ý, ý nghĩa ngầm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in practice",
+    "p": "",
+    "m": "trong thực tế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "incentive",
+    "p": "",
+    "m": "khuyến khích, động lực",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "inclusive",
+    "p": "",
+    "m": "bao gồm tất cả, toàn diện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "incorporate",
+    "p": "",
+    "m": "kết hợp, tích hợp",
+    "cat": "hành động"
+  },
+  {
+    "w": "indispensable",
+    "p": "",
+    "m": "không thể thiếu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inequality",
+    "p": "",
+    "m": "bất bình đẳng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "infrastructure",
+    "p": "",
+    "m": "cơ sở hạ tầng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "initiative",
+    "p": "",
+    "m": "sáng kiến, hành động chủ động",
+    "cat": "công việc"
+  },
+  {
+    "w": "innovate",
+    "p": "",
+    "m": "đổi mới, sáng tạo",
+    "cat": "hành động"
+  },
+  {
+    "w": "insist on",
+    "p": "",
+    "m": "khăng khăng về, nhấn mạnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "institutional",
+    "p": "",
+    "m": "thuộc thể chế, mang tính tổ chức",
+    "cat": "chính trị"
+  },
+  {
+    "w": "interconnected",
+    "p": "",
+    "m": "liên kết với nhau",
+    "cat": "tính từ"
+  },
+  {
+    "w": "interpret",
+    "p": "",
+    "m": "giải thích, diễn giải",
+    "cat": "học thuật"
+  },
+  {
+    "w": "intervention",
+    "p": "",
+    "m": "sự can thiệp",
+    "cat": "chính trị"
+  },
+  {
+    "w": "intrinsic",
+    "p": "",
+    "m": "nội tại, vốn có",
+    "cat": "tính từ"
+  },
+  {
+    "w": "intuitive",
+    "p": "",
+    "m": "trực quan, mang tính trực giác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "iterate",
+    "p": "",
+    "m": "lặp lại, cải thiện qua từng vòng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "jeopardize",
+    "p": "",
+    "m": "gây nguy hiểm, làm tổn hại",
+    "cat": "hành động"
+  },
+  {
+    "w": "justify",
+    "p": "",
+    "m": "biện minh, lý giải",
+    "cat": "học thuật"
+  },
+  {
+    "w": "keen interest",
+    "p": "",
+    "m": "sự quan tâm sâu sắc",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "knowledge gap",
+    "p": "",
+    "m": "khoảng trống kiến thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "labor market",
+    "p": "",
+    "m": "thị trường lao động",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "landscape",
+    "p": "",
+    "m": "bối cảnh; phong cảnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "latent",
+    "p": "",
+    "m": "tiềm ẩn, ẩn tàng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "legitimate",
+    "p": "",
+    "m": "hợp pháp, chính đáng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "literacy",
+    "p": "",
+    "m": "khả năng đọc viết; sự hiểu biết",
+    "cat": "học tập"
+  },
+  {
+    "w": "long-standing",
+    "p": "",
+    "m": "lâu đời, tồn tại lâu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "mainstream",
+    "p": "",
+    "m": "chủ đạo, phổ biến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "mandate",
+    "p": "",
+    "m": "ủy nhiệm; lệnh bắt buộc",
+    "cat": "chính trị"
+  },
+  {
+    "w": "manifestation",
+    "p": "",
+    "m": "biểu hiện, sự thể hiện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "marginal",
+    "p": "",
+    "m": "biên, ít quan trọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "mechanism",
+    "p": "",
+    "m": "cơ chế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "merit",
+    "p": "",
+    "m": "giá trị, ưu điểm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "mobilize",
+    "p": "",
+    "m": "huy động, vận động",
+    "cat": "hành động"
+  },
+  {
+    "w": "moderate",
+    "p": "",
+    "m": "ôn hòa; điều tiết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "motivate",
+    "p": "",
+    "m": "thúc đẩy, tạo động lực",
+    "cat": "hành động"
+  },
+  {
+    "w": "navigate",
+    "p": "",
+    "m": "điều hướng, xử lý",
+    "cat": "hành động"
+  },
+  {
+    "w": "negate",
+    "p": "",
+    "m": "phủ định, vô hiệu hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "network effect",
+    "p": "",
+    "m": "hiệu ứng mạng lưới",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "nominal",
+    "p": "",
+    "m": "danh nghĩa, nhỏ không đáng kể",
+    "cat": "tính từ"
+  },
+  {
+    "w": "norms and values",
+    "p": "",
+    "m": "chuẩn mực và giá trị",
+    "cat": "xã hội"
+  },
+  {
+    "w": "notable",
+    "p": "",
+    "m": "đáng chú ý, nổi bật",
+    "cat": "tính từ"
+  },
+  {
+    "w": "notion",
+    "p": "",
+    "m": "khái niệm, ý niệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "novice",
+    "p": "",
+    "m": "người mới bắt đầu",
+    "cat": "học tập"
+  },
+  {
+    "w": "objective",
+    "p": "",
+    "m": "mục tiêu; khách quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "observe",
+    "p": "",
+    "m": "quan sát, tuân thủ",
+    "cat": "hành động"
+  },
+  {
+    "w": "obtain",
+    "p": "",
+    "m": "đạt được, thu được",
+    "cat": "hành động"
+  },
+  {
+    "w": "optimal",
+    "p": "",
+    "m": "tối ưu, tốt nhất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "orient toward",
+    "p": "",
+    "m": "hướng về, định hướng về",
+    "cat": "hành động"
+  },
+  {
+    "w": "outcome",
+    "p": "",
+    "m": "kết quả, hệ quả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "outperform",
+    "p": "",
+    "m": "vượt trội, làm tốt hơn",
+    "cat": "hành động"
+  },
+  {
+    "w": "overall trend",
+    "p": "",
+    "m": "xu hướng tổng thể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "perspective",
+    "p": "",
+    "m": "góc nhìn, quan điểm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "phase out",
+    "p": "",
+    "m": "loại bỏ dần, ngừng dần",
+    "cat": "hành động"
+  },
+  {
+    "w": "pivotal",
+    "p": "",
+    "m": "then chốt, quyết định",
+    "cat": "tính từ"
+  },
+  {
+    "w": "policy framework",
+    "p": "",
+    "m": "khung chính sách",
+    "cat": "chính trị"
+  },
+  {
+    "w": "pragmatic",
+    "p": "",
+    "m": "thực dụng, thực tế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "precondition",
+    "p": "",
+    "m": "điều kiện tiên quyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "predominantly",
+    "p": "",
+    "m": "chủ yếu, phần lớn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "preliminary",
+    "p": "",
+    "m": "sơ bộ, ban đầu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "principal",
+    "p": "",
+    "m": "chính yếu, chủ yếu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "prioritize",
+    "p": "",
+    "m": "ưu tiên",
+    "cat": "hành động"
+  },
+  {
+    "w": "proactively",
+    "p": "",
+    "m": "chủ động",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "proceed",
+    "p": "",
+    "m": "tiến hành, tiếp tục",
+    "cat": "hành động"
+  },
+  {
+    "w": "productive",
+    "p": "",
+    "m": "hiệu quả, có năng suất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "progressive",
+    "p": "",
+    "m": "tiến bộ, theo xu hướng tiến bộ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "promote",
+    "p": "",
+    "m": "thúc đẩy, quảng bá",
+    "cat": "hành động"
+  },
+  {
+    "w": "proportional",
+    "p": "",
+    "m": "tương xứng, cân đối",
+    "cat": "tính từ"
+  },
+  {
+    "w": "provide insight",
+    "p": "",
+    "m": "cung cấp cái nhìn sâu sắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "public discourse",
+    "p": "",
+    "m": "diễn ngôn công cộng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "pursue",
+    "p": "",
+    "m": "theo đuổi, tiến hành",
+    "cat": "hành động"
+  },
+  {
+    "w": "qualitative",
+    "p": "",
+    "m": "định tính",
+    "cat": "học thuật"
+  },
+  {
+    "w": "quota",
+    "p": "",
+    "m": "chỉ tiêu, hạn ngạch",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "rationale",
+    "p": "",
+    "m": "lý do căn bản, cơ sở lý luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "real-world application",
+    "p": "",
+    "m": "ứng dụng thực tế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "reconcile",
+    "p": "",
+    "m": "hòa giải, dung hòa",
+    "cat": "hành động"
+  },
+  {
+    "w": "rectify",
+    "p": "",
+    "m": "sửa chữa, khắc phục",
+    "cat": "hành động"
+  },
+  {
+    "w": "reframe",
+    "p": "",
+    "m": "đóng khung lại, nhìn nhận theo cách khác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "regulate",
+    "p": "",
+    "m": "điều tiết, quy định",
+    "cat": "hành động"
+  },
+  {
+    "w": "reinstate",
+    "p": "",
+    "m": "phục hồi, khôi phục",
+    "cat": "hành động"
+  },
+  {
+    "w": "remediate",
+    "p": "",
+    "m": "khắc phục, bổ khuyết",
+    "cat": "hành động"
+  },
+  {
+    "w": "resilient",
+    "p": "",
+    "m": "linh hoạt, có khả năng phục hồi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "restrict",
+    "p": "",
+    "m": "hạn chế, giới hạn",
+    "cat": "hành động"
+  },
+  {
+    "w": "retain",
+    "p": "",
+    "m": "giữ lại, duy trì",
+    "cat": "hành động"
+  },
+  {
+    "w": "rhetoric",
+    "p": "",
+    "m": "tu từ, nghệ thuật diễn thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "risk assessment",
+    "p": "",
+    "m": "đánh giá rủi ro",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "root cause",
+    "p": "",
+    "m": "nguyên nhân gốc rễ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "scope",
+    "p": "",
+    "m": "phạm vi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "secure",
+    "p": "",
+    "m": "bảo đảm, an toàn; đạt được",
+    "cat": "hành động"
+  },
+  {
+    "w": "self-sufficient",
+    "p": "",
+    "m": "tự cung tự cấp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sensitive to",
+    "p": "",
+    "m": "nhạy cảm với",
+    "cat": "tính từ"
+  },
+  {
+    "w": "short-term gain",
+    "p": "",
+    "m": "lợi ích ngắn hạn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "signal",
+    "p": "",
+    "m": "tín hiệu; ra hiệu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "significant",
+    "p": "",
+    "m": "đáng kể, có ý nghĩa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "social capital",
+    "p": "",
+    "m": "vốn xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "solidarity",
+    "p": "",
+    "m": "tình đoàn kết",
+    "cat": "xã hội"
+  },
+  {
+    "w": "sophisticated",
+    "p": "",
+    "m": "phức tạp, tinh vi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "span",
+    "p": "",
+    "m": "kéo dài, bao trùm",
+    "cat": "hành động"
+  },
+  {
+    "w": "stabilize",
+    "p": "",
+    "m": "ổn định hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "stakeholder",
+    "p": "",
+    "m": "bên liên quan, cổ đông",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "status quo",
+    "p": "",
+    "m": "hiện trạng, tình trạng hiện có",
+    "cat": "chính trị"
+  },
+  {
+    "w": "steepen",
+    "p": "",
+    "m": "trở nên dốc hơn, tăng mạnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "stimulate",
+    "p": "",
+    "m": "kích thích, thúc đẩy",
+    "cat": "hành động"
+  },
+  {
+    "w": "strategic planning",
+    "p": "",
+    "m": "lập kế hoạch chiến lược",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "streamline",
+    "p": "",
+    "m": "tinh gọn, tối ưu hóa quy trình",
+    "cat": "hành động"
+  },
+  {
+    "w": "structural change",
+    "p": "",
+    "m": "thay đổi cơ cấu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "subsequent",
+    "p": "",
+    "m": "tiếp theo, sau đó",
+    "cat": "tính từ"
+  },
+  {
+    "w": "succinct",
+    "p": "",
+    "m": "ngắn gọn, súc tích",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sufficient",
+    "p": "",
+    "m": "đầy đủ, đủ dùng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "supplement",
+    "p": "",
+    "m": "bổ sung, thêm vào",
+    "cat": "hành động"
+  },
+  {
+    "w": "sustainability",
+    "p": "",
+    "m": "tính bền vững",
+    "cat": "môi trường"
+  },
+  {
+    "w": "systematic",
+    "p": "",
+    "m": "có hệ thống, có phương pháp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tackle",
+    "p": "",
+    "m": "giải quyết, đối phó với",
+    "cat": "hành động"
+  },
+  {
+    "w": "technological innovation",
+    "p": "",
+    "m": "đổi mới công nghệ",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "testimony",
+    "p": "",
+    "m": "lời chứng thực, bằng chứng lời nói",
+    "cat": "chính trị"
+  },
+  {
+    "w": "theoretical model",
+    "p": "",
+    "m": "mô hình lý thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "timely",
+    "p": "",
+    "m": "kịp thời, đúng lúc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "trade-off",
+    "p": "",
+    "m": "sự đánh đổi, sự cân bằng giữa hai yếu tố",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "trajectory",
+    "p": "",
+    "m": "quỹ đạo, hành trình phát triển",
+    "cat": "học thuật"
+  },
+  {
+    "w": "transform",
+    "p": "",
+    "m": "biến đổi, chuyển hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "transparent",
+    "p": "",
+    "m": "minh bạch, trong suốt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "trigger effect",
+    "p": "",
+    "m": "hiệu ứng kích hoạt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "turn out",
+    "p": "",
+    "m": "hóa ra, kết quả là",
+    "cat": "hành động"
+  },
+  {
+    "w": "ubiquitous",
+    "p": "",
+    "m": "có mặt khắp nơi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "unanimous",
+    "p": "",
+    "m": "nhất trí, đồng lòng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "undermine",
+    "p": "",
+    "m": "làm suy yếu, phá hoại ngầm",
+    "cat": "hành động"
+  },
+  {
+    "w": "underpinning",
+    "p": "",
+    "m": "nền tảng hỗ trợ, cơ sở",
+    "cat": "học thuật"
+  },
+  {
+    "w": "uniform",
+    "p": "",
+    "m": "đồng đều, nhất quán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "unrest",
+    "p": "",
+    "m": "bất ổn, tình trạng hỗn loạn",
+    "cat": "xã hội"
+  },
+  {
+    "w": "utilitarian",
+    "p": "",
+    "m": "theo chủ nghĩa công lợi, thực dụng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "viable",
+    "p": "",
+    "m": "khả thi, có thể sống sót",
+    "cat": "tính từ"
+  },
+  {
+    "w": "vouch for",
+    "p": "",
+    "m": "bảo lãnh, xác nhận",
+    "cat": "hành động"
+  },
+  {
+    "w": "widespread",
+    "p": "",
+    "m": "lan rộng, phổ biến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "willingness",
+    "p": "",
+    "m": "sự sẵn lòng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "withstand",
+    "p": "",
+    "m": "chịu đựng, chống chịu",
+    "cat": "hành động"
+  },
+  {
+    "w": "zero-sum",
+    "p": "",
+    "m": "tổng bằng không, một được thì một mất",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "abstract notion",
+    "p": "",
+    "m": "khái niệm trừu tượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "academic integrity",
+    "p": "",
+    "m": "tính trung thực học thuật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "access to resources",
+    "p": "",
+    "m": "khả năng tiếp cận nguồn lực",
+    "cat": "xã hội"
+  },
+  {
+    "w": "active participation",
+    "p": "",
+    "m": "sự tham gia tích cực",
+    "cat": "học thuật"
+  },
+  {
+    "w": "admittedly",
+    "p": "",
+    "m": "thừa nhận rằng, phải công nhận",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "aforementioned issue",
+    "p": "",
+    "m": "vấn đề đã đề cập trước",
+    "cat": "học thuật"
+  },
+  {
+    "w": "alternatively",
+    "p": "",
+    "m": "thay thế vào đó, hoặc là",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "anchored in",
+    "p": "",
+    "m": "bắt rễ trong, gắn chặt vào",
+    "cat": "học thuật"
+  },
+  {
+    "w": "as evidenced by",
+    "p": "",
+    "m": "như được chứng minh bởi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "at its core",
+    "p": "",
+    "m": "về cơ bản, ở cốt lõi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "at the expense of",
+    "p": "",
+    "m": "với cái giá là, hy sinh",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "be grounded in",
+    "p": "",
+    "m": "được đặt nền trên, dựa vào",
+    "cat": "học thuật"
+  },
+  {
+    "w": "be subject to",
+    "p": "",
+    "m": "phải chịu, bị tác động bởi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "bear out",
+    "p": "",
+    "m": "xác nhận, chứng minh",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "blind spot",
+    "p": "",
+    "m": "điểm mù, điểm yếu không nhìn thấy",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "break new ground",
+    "p": "",
+    "m": "khai phá lĩnh vực mới",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "broadly speaking",
+    "p": "",
+    "m": "nói chung, một cách tổng quát",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "by and large",
+    "p": "",
+    "m": "nói chung, nhìn chung",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "categorical imperative",
+    "p": "",
+    "m": "mệnh lệnh tuyệt đối (triết học)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "challenge the status quo",
+    "p": "",
+    "m": "thách thức hiện trạng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "channel resources",
+    "p": "",
+    "m": "điều tiết nguồn lực",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "chronically",
+    "p": "",
+    "m": "mãn tính, lâu dài, kinh niên",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "circumstantial evidence",
+    "p": "",
+    "m": "bằng chứng gián tiếp",
+    "cat": "chính trị"
+  },
+  {
+    "w": "claim to",
+    "p": "",
+    "m": "tuyên bố, khẳng định",
+    "cat": "hành động"
+  },
+  {
+    "w": "close examination",
+    "p": "",
+    "m": "kiểm tra chặt chẽ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "coexist",
+    "p": "",
+    "m": "cùng tồn tại",
+    "cat": "hành động"
+  },
+  {
+    "w": "come to light",
+    "p": "",
+    "m": "bị phát hiện, trở nên rõ ràng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "commendable",
+    "p": "",
+    "m": "đáng khen ngợi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "compelling argument",
+    "p": "",
+    "m": "lập luận thuyết phục",
+    "cat": "học thuật"
+  },
+  {
+    "w": "compelling evidence",
+    "p": "",
+    "m": "bằng chứng thuyết phục",
+    "cat": "học thuật"
+  },
+  {
+    "w": "concurrent",
+    "p": "",
+    "m": "đồng thời, diễn ra song song",
+    "cat": "tính từ"
+  },
+  {
+    "w": "contradictory",
+    "p": "",
+    "m": "mâu thuẫn, trái ngược",
+    "cat": "tính từ"
+  },
+  {
+    "w": "contrasting views",
+    "p": "",
+    "m": "quan điểm đối lập",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cope up with",
+    "p": "",
+    "m": "theo kịp, ứng phó với",
+    "cat": "hành động"
+  },
+  {
+    "w": "critical thinking",
+    "p": "",
+    "m": "tư duy phản biện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cross-cultural",
+    "p": "",
+    "m": "liên văn hóa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "cumulative effect",
+    "p": "",
+    "m": "hiệu ứng tích lũy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "curiously",
+    "p": "",
+    "m": "một cách tò mò, đặc biệt là",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "data collection",
+    "p": "",
+    "m": "thu thập dữ liệu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "decisively",
+    "p": "",
+    "m": "một cách quyết đoán",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "deep-rooted",
+    "p": "",
+    "m": "ăn sâu, bén rễ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "default assumption",
+    "p": "",
+    "m": "giả định mặc định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "detrimental",
+    "p": "",
+    "m": "có hại, gây tổn hại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dialogic",
+    "p": "",
+    "m": "mang tính đối thoại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dialectical",
+    "p": "",
+    "m": "biện chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "diffuse",
+    "p": "",
+    "m": "khuếch tán, lan rộng",
+    "cat": "hành động"
+  },
+  {
+    "w": "disciplinary boundary",
+    "p": "",
+    "m": "ranh giới học thuật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "disproportionate",
+    "p": "",
+    "m": "không cân xứng, không tương xứng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "diverge from",
+    "p": "",
+    "m": "phân kỳ, khác biệt so với",
+    "cat": "học thuật"
+  },
+  {
+    "w": "domain knowledge",
+    "p": "",
+    "m": "kiến thức chuyên ngành",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dominating paradigm",
+    "p": "",
+    "m": "mô hình tư duy thống trị",
+    "cat": "học thuật"
+  },
+  {
+    "w": "double-blind",
+    "p": "",
+    "m": "mù đôi (phương pháp nghiên cứu)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "downplay",
+    "p": "",
+    "m": "giảm nhẹ tầm quan trọng",
+    "cat": "hành động"
+  },
+  {
+    "w": "drive forward",
+    "p": "",
+    "m": "thúc đẩy tiến về phía trước",
+    "cat": "hành động"
+  },
+  {
+    "w": "economic rationale",
+    "p": "",
+    "m": "cơ sở kinh tế",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "effectively",
+    "p": "",
+    "m": "một cách hiệu quả",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "elicit",
+    "p": "",
+    "m": "gợi ra, khơi dậy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "empirical study",
+    "p": "",
+    "m": "nghiên cứu thực nghiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "end in",
+    "p": "",
+    "m": "kết thúc bằng",
+    "cat": "hành động"
+  },
+  {
+    "w": "entail",
+    "p": "",
+    "m": "kéo theo, đòi hỏi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "equitable",
+    "p": "",
+    "m": "công bằng, công minh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "essentially",
+    "p": "",
+    "m": "về cơ bản, thực chất là",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "evaluation criteria",
+    "p": "",
+    "m": "tiêu chí đánh giá",
+    "cat": "học thuật"
+  },
+  {
+    "w": "evident",
+    "p": "",
+    "m": "rõ ràng, hiển nhiên",
+    "cat": "tính từ"
+  },
+  {
+    "w": "evolving landscape",
+    "p": "",
+    "m": "bối cảnh đang thay đổi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "exceptional",
+    "p": "",
+    "m": "ngoại lệ, xuất sắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "exemplary",
+    "p": "",
+    "m": "điển hình, mẫu mực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "exhaustive list",
+    "p": "",
+    "m": "danh sách toàn diện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "explicit reasoning",
+    "p": "",
+    "m": "lý luận tường minh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "extrapolation",
+    "p": "",
+    "m": "ngoại suy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "fail to",
+    "p": "",
+    "m": "thất bại trong việc, không làm được",
+    "cat": "hành động"
+  },
+  {
+    "w": "far-reaching",
+    "p": "",
+    "m": "có phạm vi rộng lớn, tầm xa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "feed into",
+    "p": "",
+    "m": "góp phần vào, đưa vào",
+    "cat": "hành động"
+  },
+  {
+    "w": "forge connections",
+    "p": "",
+    "m": "tạo dựng mối liên hệ",
+    "cat": "hành động"
+  },
+  {
+    "w": "forthcoming",
+    "p": "",
+    "m": "sắp tới; sẵn sàng hợp tác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "founding premise",
+    "p": "",
+    "m": "tiền đề sáng lập",
+    "cat": "học thuật"
+  },
+  {
+    "w": "from the outset",
+    "p": "",
+    "m": "ngay từ đầu",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "functionally",
+    "p": "",
+    "m": "về mặt chức năng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "generative",
+    "p": "",
+    "m": "mang tính sản sinh, tạo ra",
+    "cat": "học thuật"
+  },
+  {
+    "w": "give precedence to",
+    "p": "",
+    "m": "ưu tiên cho, đặt lên hàng đầu",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "governance",
+    "p": "",
+    "m": "quản trị, điều hành",
+    "cat": "chính trị"
+  },
+  {
+    "w": "gradually",
+    "p": "",
+    "m": "dần dần, từng bước",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "guiding principle",
+    "p": "",
+    "m": "nguyên tắc hướng dẫn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "heighten awareness",
+    "p": "",
+    "m": "nâng cao nhận thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "henceforth",
+    "p": "",
+    "m": "từ nay về sau",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "hypothesis",
+    "p": "",
+    "m": "giả thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "idealize",
+    "p": "",
+    "m": "lý tưởng hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "implications for",
+    "p": "",
+    "m": "hàm ý đối với, tác động đến",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in essence",
+    "p": "",
+    "m": "về bản chất, thực chất là",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in principle",
+    "p": "",
+    "m": "về nguyên tắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "inaccessible",
+    "p": "",
+    "m": "không thể tiếp cận, khó đến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inconclusive",
+    "p": "",
+    "m": "không dứt khoát, chưa kết luận được",
+    "cat": "tính từ"
+  },
+  {
+    "w": "incremental",
+    "p": "",
+    "m": "tăng dần, từng bước nhỏ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inductive reasoning",
+    "p": "",
+    "m": "lý luận quy nạp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "inevitably",
+    "p": "",
+    "m": "không tránh khỏi, tất yếu",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "inferential",
+    "p": "",
+    "m": "suy luận, mang tính suy diễn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "information asymmetry",
+    "p": "",
+    "m": "bất cân xứng thông tin",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "inquiry",
+    "p": "",
+    "m": "sự điều tra, câu hỏi tìm hiểu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "institutional framework",
+    "p": "",
+    "m": "khung thể chế",
+    "cat": "chính trị"
+  },
+  {
+    "w": "instrumentalize",
+    "p": "",
+    "m": "công cụ hóa, sử dụng như phương tiện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "intellectual discourse",
+    "p": "",
+    "m": "diễn ngôn trí tuệ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "interrelated",
+    "p": "",
+    "m": "có liên hệ với nhau",
+    "cat": "tính từ"
+  },
+  {
+    "w": "intrinsically motivated",
+    "p": "",
+    "m": "có động lực từ bên trong",
+    "cat": "học thuật"
+  },
+  {
+    "w": "invisible hand",
+    "p": "",
+    "m": "bàn tay vô hình (kinh tế học)",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "iterative process",
+    "p": "",
+    "m": "quá trình lặp đi lặp lại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "knowledge production",
+    "p": "",
+    "m": "sản xuất tri thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "layered approach",
+    "p": "",
+    "m": "cách tiếp cận nhiều lớp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "lead to",
+    "p": "",
+    "m": "dẫn đến",
+    "cat": "hành động"
+  },
+  {
+    "w": "learn from",
+    "p": "",
+    "m": "học hỏi từ",
+    "cat": "hành động"
+  },
+  {
+    "w": "legitimize",
+    "p": "",
+    "m": "hợp pháp hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "long-term perspective",
+    "p": "",
+    "m": "tầm nhìn dài hạn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "make sense of",
+    "p": "",
+    "m": "hiểu rõ, tìm ra ý nghĩa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "manifest",
+    "p": "",
+    "m": "thể hiện rõ, biểu lộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "marginalize",
+    "p": "",
+    "m": "gạt ra ngoài lề, cô lập",
+    "cat": "hành động"
+  },
+  {
+    "w": "mediating factor",
+    "p": "",
+    "m": "yếu tố trung gian",
+    "cat": "học thuật"
+  },
+  {
+    "w": "meet the needs of",
+    "p": "",
+    "m": "đáp ứng nhu cầu của",
+    "cat": "hành động"
+  },
+  {
+    "w": "methodological rigor",
+    "p": "",
+    "m": "sự chặt chẽ phương pháp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "model behavior",
+    "p": "",
+    "m": "hành vi mẫu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "mode of thinking",
+    "p": "",
+    "m": "cách tư duy, hình thức suy nghĩ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "namely",
+    "p": "",
+    "m": "cụ thể là, đó là",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "narrative",
+    "p": "",
+    "m": "tường thuật, câu chuyện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "navigate complexity",
+    "p": "",
+    "m": "điều hướng sự phức tạp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "negative correlation",
+    "p": "",
+    "m": "tương quan âm, nghịch chiều",
+    "cat": "học thuật"
+  },
+  {
+    "w": "notwithstanding",
+    "p": "",
+    "m": "mặc dù, bất chấp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "observe trends",
+    "p": "",
+    "m": "quan sát các xu hướng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "operationalize",
+    "p": "",
+    "m": "vận hành hóa, triển khai thực tế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "opposing viewpoint",
+    "p": "",
+    "m": "quan điểm đối lập",
+    "cat": "học thuật"
+  },
+  {
+    "w": "original contribution",
+    "p": "",
+    "m": "đóng góp gốc, đóng góp mới",
+    "cat": "học thuật"
+  },
+  {
+    "w": "overestimate",
+    "p": "",
+    "m": "đánh giá quá cao",
+    "cat": "hành động"
+  },
+  {
+    "w": "parallel structure",
+    "p": "",
+    "m": "cấu trúc song song",
+    "cat": "học thuật"
+  },
+  {
+    "w": "passive voice",
+    "p": "",
+    "m": "thể bị động",
+    "cat": "học tập"
+  },
+  {
+    "w": "perceptive",
+    "p": "",
+    "m": "tinh tế, nhạy cảm, thông minh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pertinent",
+    "p": "",
+    "m": "liên quan trực tiếp, thích hợp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "play a key role",
+    "p": "",
+    "m": "đóng vai trò quan trọng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "polarized",
+    "p": "",
+    "m": "phân cực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "policy implication",
+    "p": "",
+    "m": "hàm ý chính sách",
+    "cat": "chính trị"
+  },
+  {
+    "w": "posit",
+    "p": "",
+    "m": "giả định, đưa ra luận điểm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "posterior",
+    "p": "",
+    "m": "hậu nghiệm, phía sau",
+    "cat": "học thuật"
+  },
+  {
+    "w": "precisely",
+    "p": "",
+    "m": "chính xác là, đúng là",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "preclude",
+    "p": "",
+    "m": "ngăn chặn, loại trừ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "premise",
+    "p": "",
+    "m": "tiền đề, giả thuyết ban đầu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "preserve",
+    "p": "",
+    "m": "bảo tồn, giữ gìn",
+    "cat": "hành động"
+  },
+  {
+    "w": "pressing issue",
+    "p": "",
+    "m": "vấn đề cấp thiết",
+    "cat": "xã hội"
+  },
+  {
+    "w": "prior knowledge",
+    "p": "",
+    "m": "kiến thức nền tảng trước",
+    "cat": "học tập"
+  },
+  {
+    "w": "privilege",
+    "p": "",
+    "m": "đặc quyền; ưu tiên",
+    "cat": "xã hội"
+  },
+  {
+    "w": "probe",
+    "p": "",
+    "m": "điều tra, tìm hiểu sâu",
+    "cat": "hành động"
+  },
+  {
+    "w": "profound impact",
+    "p": "",
+    "m": "tác động sâu sắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "project onto",
+    "p": "",
+    "m": "chiếu lên, đặt lên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "propel",
+    "p": "",
+    "m": "đẩy mạnh, thúc đẩy",
+    "cat": "hành động"
+  },
+  {
+    "w": "proportionately",
+    "p": "",
+    "m": "một cách cân đối",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "prove fruitful",
+    "p": "",
+    "m": "chứng tỏ có ích, có kết quả",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "public policy",
+    "p": "",
+    "m": "chính sách công",
+    "cat": "chính trị"
+  },
+  {
+    "w": "question assumptions",
+    "p": "",
+    "m": "đặt câu hỏi về các giả định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "raise concerns",
+    "p": "",
+    "m": "nêu lên mối lo ngại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "readily available",
+    "p": "",
+    "m": "sẵn có, dễ tiếp cận",
+    "cat": "tính từ"
+  },
+  {
+    "w": "reasonable grounds",
+    "p": "",
+    "m": "cơ sở hợp lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "recast",
+    "p": "",
+    "m": "tái định hình, trình bày lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "reciprocal",
+    "p": "",
+    "m": "có qua có lại, tương hỗ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "reconsider",
+    "p": "",
+    "m": "xem xét lại, suy nghĩ lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "redistribute",
+    "p": "",
+    "m": "phân phối lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "reductive",
+    "p": "",
+    "m": "rút gọn hóa, đơn giản quá mức",
+    "cat": "tính từ"
+  },
+  {
+    "w": "reference point",
+    "p": "",
+    "m": "điểm tham chiếu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "reflect on",
+    "p": "",
+    "m": "suy ngẫm về, phản tư",
+    "cat": "hành động"
+  },
+  {
+    "w": "regardless of",
+    "p": "",
+    "m": "bất kể, dù có",
+    "cat": "học thuật"
+  },
+  {
+    "w": "relativize",
+    "p": "",
+    "m": "làm tương đối hóa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "rendering",
+    "p": "",
+    "m": "sự thể hiện, bản dịch, kết xuất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "rephrase",
+    "p": "",
+    "m": "diễn đạt lại, nói cách khác",
+    "cat": "hành động"
+  },
+  {
+    "w": "restore balance",
+    "p": "",
+    "m": "khôi phục sự cân bằng",
+    "cat": "hành động"
+  },
+  {
+    "w": "result in",
+    "p": "",
+    "m": "dẫn đến kết quả là",
+    "cat": "hành động"
+  },
+  {
+    "w": "revisit",
+    "p": "",
+    "m": "xem lại, quay lại xem xét",
+    "cat": "hành động"
+  },
+  {
+    "w": "rigidly",
+    "p": "",
+    "m": "một cách cứng nhắc",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "role model",
+    "p": "",
+    "m": "hình mẫu, gương mẫu",
+    "cat": "xã hội"
+  },
+  {
+    "w": "rule out",
+    "p": "",
+    "m": "loại trừ, loại bỏ khả năng",
+    "cat": "hành động"
+  },
+  {
+    "w": "scale up",
+    "p": "",
+    "m": "mở rộng quy mô",
+    "cat": "hành động"
+  },
+  {
+    "w": "scrutiny",
+    "p": "",
+    "m": "sự xem xét kỹ lưỡng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "self-evident",
+    "p": "",
+    "m": "tự hiển nhiên, không cần giải thích",
+    "cat": "tính từ"
+  },
+  {
+    "w": "set a precedent",
+    "p": "",
+    "m": "tạo tiền lệ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "shaped by",
+    "p": "",
+    "m": "được định hình bởi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "sharply contrasting",
+    "p": "",
+    "m": "tương phản rõ rệt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "shift focus",
+    "p": "",
+    "m": "chuyển trọng tâm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "skepticism",
+    "p": "",
+    "m": "thái độ hoài nghi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "societal impact",
+    "p": "",
+    "m": "tác động xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "solution-oriented",
+    "p": "",
+    "m": "hướng đến giải pháp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "speculative",
+    "p": "",
+    "m": "mang tính suy đoán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "stringent",
+    "p": "",
+    "m": "nghiêm ngặt, khắt khe",
+    "cat": "tính từ"
+  },
+  {
+    "w": "substantive",
+    "p": "",
+    "m": "có nội dung, thực chất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "suppressed",
+    "p": "",
+    "m": "bị đàn áp, bị triệt tiêu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sustained effort",
+    "p": "",
+    "m": "nỗ lực bền bỉ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "synthesis",
+    "p": "",
+    "m": "tổng hợp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "tacit knowledge",
+    "p": "",
+    "m": "kiến thức ngầm định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "test hypothesis",
+    "p": "",
+    "m": "kiểm tra giả thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "the more the better",
+    "p": "",
+    "m": "càng nhiều càng tốt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "thought-provoking",
+    "p": "",
+    "m": "gợi suy nghĩ, kích thích tư duy",
+    "cat": "tính từ"
+  },
+  {
+    "w": "throughout",
+    "p": "",
+    "m": "xuyên suốt, trong toàn bộ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "to put it simply",
+    "p": "",
+    "m": "nói đơn giản là",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "to this end",
+    "p": "",
+    "m": "nhằm mục đích này",
+    "cat": "học thuật"
+  },
+  {
+    "w": "topical",
+    "p": "",
+    "m": "thời sự, liên quan đến hiện tại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "trace",
+    "p": "",
+    "m": "lần theo, truy dấu",
+    "cat": "hành động"
+  },
+  {
+    "w": "transition",
+    "p": "",
+    "m": "sự chuyển đổi, giai đoạn chuyển tiếp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "true to",
+    "p": "",
+    "m": "trung thành với, đúng với",
+    "cat": "tính từ"
+  },
+  {
+    "w": "turning point",
+    "p": "",
+    "m": "bước ngoặt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "uncertainty",
+    "p": "",
+    "m": "sự không chắc chắn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "underlie",
+    "p": "",
+    "m": "nằm bên dưới, là cơ sở cho",
+    "cat": "học thuật"
+  },
+  {
+    "w": "universal principle",
+    "p": "",
+    "m": "nguyên tắc phổ quát",
+    "cat": "học thuật"
+  },
+  {
+    "w": "unwarranted",
+    "p": "",
+    "m": "không có căn cứ, không có lý do",
+    "cat": "tính từ"
+  },
+  {
+    "w": "upon reflection",
+    "p": "",
+    "m": "sau khi suy nghĩ lại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "use to advantage",
+    "p": "",
+    "m": "tận dụng để có lợi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "valid concern",
+    "p": "",
+    "m": "mối lo ngại có cơ sở",
+    "cat": "học thuật"
+  },
+  {
+    "w": "variable factor",
+    "p": "",
+    "m": "yếu tố biến thiên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "viewpoint",
+    "p": "",
+    "m": "quan điểm, góc nhìn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "vital role",
+    "p": "",
+    "m": "vai trò thiết yếu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "vocabulary acquisition",
+    "p": "",
+    "m": "tiếp thu từ vựng",
+    "cat": "học tập"
+  },
+  {
+    "w": "well-established",
+    "p": "",
+    "m": "được thiết lập vững chắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "with regard to",
+    "p": "",
+    "m": "về, liên quan đến",
+    "cat": "học thuật"
+  },
+  {
+    "w": "within a broader context",
+    "p": "",
+    "m": "trong bối cảnh rộng hơn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "worth noting",
+    "p": "",
+    "m": "đáng chú ý",
+    "cat": "học thuật"
+  }
+]

@@ -1,0 +1,1820 @@
+[
+  {
+    "w": "数字经济",
+    "p": "shù zì jīng jì",
+    "m": "kinh tế số",
+    "cat": "economics"
+  },
+  {
+    "w": "实体经济",
+    "p": "shí tǐ jīng jì",
+    "m": "kinh tế thực",
+    "cat": "economics"
+  },
+  {
+    "w": "共享经济",
+    "p": "gòng xiǎng jīng jì",
+    "m": "kinh tế chia sẻ",
+    "cat": "economics"
+  },
+  {
+    "w": "跨境电商",
+    "p": "kuà jìng diàn shāng",
+    "m": "thương mại điện tử xuyên biên giới",
+    "cat": "economics"
+  },
+  {
+    "w": "供给侧",
+    "p": "gōng jǐ cè",
+    "m": "phía cung",
+    "cat": "economics"
+  },
+  {
+    "w": "产业链",
+    "p": "chǎn yè liàn",
+    "m": "chuỗi ngành công nghiệp",
+    "cat": "economics"
+  },
+  {
+    "w": "价值链",
+    "p": "jià zhí liàn",
+    "m": "chuỗi giá trị",
+    "cat": "economics"
+  },
+  {
+    "w": "营商环境",
+    "p": "yíng shāng huán jìng",
+    "m": "môi trường kinh doanh",
+    "cat": "economics"
+  },
+  {
+    "w": "招商引资",
+    "p": "zhāo shāng yǐn zī",
+    "m": "thu hút đầu tư",
+    "cat": "economics"
+  },
+  {
+    "w": "自由贸易区",
+    "p": "zì yóu mào yì qū",
+    "m": "khu thương mại tự do",
+    "cat": "economics"
+  },
+  {
+    "w": "关税壁垒",
+    "p": "guān shuì bì lěi",
+    "m": "hàng rào thuế quan",
+    "cat": "economics"
+  },
+  {
+    "w": "贸易顺差",
+    "p": "mào yì shùn chā",
+    "m": "thặng dư thương mại",
+    "cat": "economics"
+  },
+  {
+    "w": "贸易逆差",
+    "p": "mào yì nì chā",
+    "m": "thâm hụt thương mại",
+    "cat": "economics"
+  },
+  {
+    "w": "汇率波动",
+    "p": "huì lǜ bō dòng",
+    "m": "biến động tỷ giá",
+    "cat": "economics"
+  },
+  {
+    "w": "货币政策",
+    "p": "huò bì zhèng cè",
+    "m": "chính sách tiền tệ",
+    "cat": "economics"
+  },
+  {
+    "w": "财政赤字",
+    "p": "cái zhèng chì zì",
+    "m": "thâm hụt ngân sách",
+    "cat": "economics"
+  },
+  {
+    "w": "经济泡沫",
+    "p": "jīng jì pào mò",
+    "m": "bong bóng kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "风险投资",
+    "p": "fēng xiǎn tóu zī",
+    "m": "đầu tư mạo hiểm",
+    "cat": "economics"
+  },
+  {
+    "w": "独角兽企业",
+    "p": "dú jiǎo shòu qǐ yè",
+    "m": "doanh nghiệp kỳ lân",
+    "cat": "business"
+  },
+  {
+    "w": "初创公司",
+    "p": "chū chuàng gōng sī",
+    "m": "công ty khởi nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "上市公司",
+    "p": "shàng shì gōng sī",
+    "m": "công ty niêm yết",
+    "cat": "business"
+  },
+  {
+    "w": "市场份额",
+    "p": "shì chǎng fèn é",
+    "m": "thị phần",
+    "cat": "business"
+  },
+  {
+    "w": "商业模式",
+    "p": "shāng yè mó shì",
+    "m": "mô hình kinh doanh",
+    "cat": "business"
+  },
+  {
+    "w": "用户体验",
+    "p": "yòng hù tǐ yàn",
+    "m": "trải nghiệm người dùng",
+    "cat": "business"
+  },
+  {
+    "w": "品牌效应",
+    "p": "pǐn pái xiào yìng",
+    "m": "hiệu ứng thương hiệu",
+    "cat": "business"
+  },
+  {
+    "w": "绩效考核",
+    "p": "jì xiào kǎo hé",
+    "m": "đánh giá hiệu suất",
+    "cat": "business"
+  },
+  {
+    "w": "裁员",
+    "p": "cái yuán",
+    "m": "cắt giảm nhân sự",
+    "cat": "business"
+  },
+  {
+    "w": "晋升渠道",
+    "p": "jìn shēng qú dào",
+    "m": "con đường thăng tiến",
+    "cat": "business"
+  },
+  {
+    "w": "职业倦怠",
+    "p": "zhí yè juàn dài",
+    "m": "kiệt sức nghề nghiệp",
+    "cat": "psychology"
+  },
+  {
+    "w": "内卷",
+    "p": "nèi juǎn",
+    "m": "cạnh tranh nội bộ tiêu hao (involution)",
+    "cat": "society"
+  },
+  {
+    "w": "躺平",
+    "p": "tǎng píng",
+    "m": "nằm thẳng — buông xuôi phấn đấu",
+    "cat": "society"
+  },
+  {
+    "w": "人口红利",
+    "p": "rén kǒu hóng lì",
+    "m": "lợi tức dân số",
+    "cat": "society"
+  },
+  {
+    "w": "老龄化",
+    "p": "lǎo líng huà",
+    "m": "già hóa dân số",
+    "cat": "society"
+  },
+  {
+    "w": "少子化",
+    "p": "shǎo zǐ huà",
+    "m": "tỷ lệ sinh giảm",
+    "cat": "society"
+  },
+  {
+    "w": "城镇化",
+    "p": "chéng zhèn huà",
+    "m": "đô thị hóa",
+    "cat": "society"
+  },
+  {
+    "w": "流动人口",
+    "p": "liú dòng rén kǒu",
+    "m": "dân số di động",
+    "cat": "society"
+  },
+  {
+    "w": "户籍制度",
+    "p": "hù jí zhì dù",
+    "m": "chế độ hộ khẩu",
+    "cat": "society"
+  },
+  {
+    "w": "社会保障",
+    "p": "shè huì bǎo zhàng",
+    "m": "an sinh xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "养老金",
+    "p": "yǎng lǎo jīn",
+    "m": "lương hưu",
+    "cat": "society"
+  },
+  {
+    "w": "医疗保险",
+    "p": "yī liáo bǎo xiǎn",
+    "m": "bảo hiểm y tế",
+    "cat": "society"
+  },
+  {
+    "w": "贫富差距",
+    "p": "pín fù chā jù",
+    "m": "khoảng cách giàu nghèo",
+    "cat": "society"
+  },
+  {
+    "w": "中产阶级",
+    "p": "zhōng chǎn jiē jí",
+    "m": "tầng lớp trung lưu",
+    "cat": "society"
+  },
+  {
+    "w": "弱势群体",
+    "p": "ruò shì qún tǐ",
+    "m": "nhóm yếu thế",
+    "cat": "society"
+  },
+  {
+    "w": "性别平等",
+    "p": "xìng bié píng děng",
+    "m": "bình đẳng giới",
+    "cat": "society"
+  },
+  {
+    "w": "舆论监督",
+    "p": "yú lùn jiān dū",
+    "m": "giám sát dư luận",
+    "cat": "media"
+  },
+  {
+    "w": "网络暴力",
+    "p": "wǎng luò bào lì",
+    "m": "bạo lực mạng",
+    "cat": "media"
+  },
+  {
+    "w": "自媒体",
+    "p": "zì méi tǐ",
+    "m": "truyền thông cá nhân (self-media)",
+    "cat": "media"
+  },
+  {
+    "w": "直播带货",
+    "p": "zhí bō dài huò",
+    "m": "livestream bán hàng",
+    "cat": "media"
+  },
+  {
+    "w": "流量明星",
+    "p": "liú liàng míng xīng",
+    "m": "ngôi sao câu lưu lượng",
+    "cat": "media"
+  },
+  {
+    "w": "粉丝经济",
+    "p": "fěn sī jīng jì",
+    "m": "kinh tế người hâm mộ",
+    "cat": "media"
+  },
+  {
+    "w": "舆情",
+    "p": "yú qíng",
+    "m": "tình hình dư luận",
+    "cat": "media"
+  },
+  {
+    "w": "假新闻",
+    "p": "jiǎ xīn wén",
+    "m": "tin giả",
+    "cat": "media"
+  },
+  {
+    "w": "算法推荐",
+    "p": "suàn fǎ tuī jiàn",
+    "m": "gợi ý bằng thuật toán",
+    "cat": "tech"
+  },
+  {
+    "w": "大数据",
+    "p": "dà shù jù",
+    "m": "dữ liệu lớn",
+    "cat": "tech"
+  },
+  {
+    "w": "云计算",
+    "p": "yún jì suàn",
+    "m": "điện toán đám mây",
+    "cat": "tech"
+  },
+  {
+    "w": "物联网",
+    "p": "wù lián wǎng",
+    "m": "internet vạn vật",
+    "cat": "tech"
+  },
+  {
+    "w": "区块链",
+    "p": "qū kuài liàn",
+    "m": "blockchain",
+    "cat": "tech"
+  },
+  {
+    "w": "虚拟现实",
+    "p": "xū nǐ xiàn shí",
+    "m": "thực tế ảo",
+    "cat": "tech"
+  },
+  {
+    "w": "增强现实",
+    "p": "zēng qiáng xiàn shí",
+    "m": "thực tế tăng cường",
+    "cat": "tech"
+  },
+  {
+    "w": "自动驾驶",
+    "p": "zì dòng jià shǐ",
+    "m": "xe tự lái",
+    "cat": "tech"
+  },
+  {
+    "w": "无人机",
+    "p": "wú rén jī",
+    "m": "máy bay không người lái",
+    "cat": "tech"
+  },
+  {
+    "w": "芯片",
+    "p": "xīn piàn",
+    "m": "con chip",
+    "cat": "tech"
+  },
+  {
+    "w": "半导体",
+    "p": "bàn dǎo tǐ",
+    "m": "bán dẫn",
+    "cat": "tech"
+  },
+  {
+    "w": "操作系统",
+    "p": "cāo zuò xì tǒng",
+    "m": "hệ điều hành",
+    "cat": "tech"
+  },
+  {
+    "w": "开源软件",
+    "p": "kāi yuán ruǎn jiàn",
+    "m": "phần mềm mã nguồn mở",
+    "cat": "tech"
+  },
+  {
+    "w": "网络安全",
+    "p": "wǎng luò ān quán",
+    "m": "an ninh mạng",
+    "cat": "tech"
+  },
+  {
+    "w": "数据泄露",
+    "p": "shù jù xiè lòu",
+    "m": "rò rỉ dữ liệu",
+    "cat": "tech"
+  },
+  {
+    "w": "隐私保护",
+    "p": "yǐn sī bǎo hù",
+    "m": "bảo vệ quyền riêng tư",
+    "cat": "tech"
+  },
+  {
+    "w": "数字鸿沟",
+    "p": "shù zì hóng gōu",
+    "m": "khoảng cách số",
+    "cat": "tech"
+  },
+  {
+    "w": "碳中和",
+    "p": "tàn zhōng hé",
+    "m": "trung hòa carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "碳达峰",
+    "p": "tàn dá fēng",
+    "m": "đạt đỉnh phát thải carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "温室气体",
+    "p": "wēn shì qì tǐ",
+    "m": "khí nhà kính",
+    "cat": "environment"
+  },
+  {
+    "w": "清洁能源",
+    "p": "qīng jié néng yuán",
+    "m": "năng lượng sạch",
+    "cat": "environment"
+  },
+  {
+    "w": "光伏发电",
+    "p": "guāng fú fā diàn",
+    "m": "điện mặt trời quang điện",
+    "cat": "environment"
+  },
+  {
+    "w": "风力发电",
+    "p": "fēng lì fā diàn",
+    "m": "điện gió",
+    "cat": "environment"
+  },
+  {
+    "w": "垃圾分类",
+    "p": "lā jī fēn lèi",
+    "m": "phân loại rác",
+    "cat": "environment"
+  },
+  {
+    "w": "循环经济",
+    "p": "xún huán jīng jì",
+    "m": "kinh tế tuần hoàn",
+    "cat": "environment"
+  },
+  {
+    "w": "生态文明",
+    "p": "shēng tài wén míng",
+    "m": "văn minh sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "濒危物种",
+    "p": "bīn wēi wù zhǒng",
+    "m": "loài nguy cấp",
+    "cat": "environment"
+  },
+  {
+    "w": "栖息地",
+    "p": "qī xī dì",
+    "m": "môi trường sống (sinh vật)",
+    "cat": "environment"
+  },
+  {
+    "w": "水土流失",
+    "p": "shuǐ tǔ liú shī",
+    "m": "xói mòn đất",
+    "cat": "environment"
+  },
+  {
+    "w": "荒漠化",
+    "p": "huāng mò huà",
+    "m": "sa mạc hóa",
+    "cat": "environment"
+  },
+  {
+    "w": "基因编辑",
+    "p": "jī yīn biān jí",
+    "m": "chỉnh sửa gene",
+    "cat": "science"
+  },
+  {
+    "w": "干细胞",
+    "p": "gàn xì bāo",
+    "m": "tế bào gốc",
+    "cat": "science"
+  },
+  {
+    "w": "临床试验",
+    "p": "lín chuáng shì yàn",
+    "m": "thử nghiệm lâm sàng",
+    "cat": "medicine"
+  },
+  {
+    "w": "靶向治疗",
+    "p": "bǎ xiàng zhì liáo",
+    "m": "điều trị nhắm trúng đích",
+    "cat": "medicine"
+  },
+  {
+    "w": "慢性病",
+    "p": "màn xìng bìng",
+    "m": "bệnh mãn tính",
+    "cat": "medicine"
+  },
+  {
+    "w": "传染病",
+    "p": "chuán rǎn bìng",
+    "m": "bệnh truyền nhiễm",
+    "cat": "medicine"
+  },
+  {
+    "w": "疫苗接种",
+    "p": "yì miáo jiē zhòng",
+    "m": "tiêm chủng vắc xin",
+    "cat": "medicine"
+  },
+  {
+    "w": "群体免疫",
+    "p": "qún tǐ miǎn yì",
+    "m": "miễn dịch cộng đồng",
+    "cat": "medicine"
+  },
+  {
+    "w": "亚健康",
+    "p": "yà jiàn kāng",
+    "m": "tiền bệnh lý, sức khỏe kém",
+    "cat": "health"
+  },
+  {
+    "w": "心理咨询",
+    "p": "xīn lǐ zī xún",
+    "m": "tư vấn tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "抑郁症",
+    "p": "yì yù zhèng",
+    "m": "bệnh trầm cảm",
+    "cat": "psychology"
+  },
+  {
+    "w": "焦虑症",
+    "p": "jiāo lǜ zhèng",
+    "m": "rối loạn lo âu",
+    "cat": "psychology"
+  },
+  {
+    "w": "强迫症",
+    "p": "qiǎng pò zhèng",
+    "m": "rối loạn ám ảnh cưỡng chế",
+    "cat": "psychology"
+  },
+  {
+    "w": "自闭症",
+    "p": "zì bì zhèng",
+    "m": "tự kỷ",
+    "cat": "psychology"
+  },
+  {
+    "w": "原生家庭",
+    "p": "yuán shēng jiā tíng",
+    "m": "gia đình gốc",
+    "cat": "psychology"
+  },
+  {
+    "w": "情商",
+    "p": "qíng shāng",
+    "m": "trí tuệ cảm xúc (EQ)",
+    "cat": "psychology"
+  },
+  {
+    "w": "逆商",
+    "p": "nì shāng",
+    "m": "chỉ số vượt nghịch cảnh",
+    "cat": "psychology"
+  },
+  {
+    "w": "舒适区",
+    "p": "shū shì qū",
+    "m": "vùng an toàn",
+    "cat": "psychology"
+  },
+  {
+    "w": "拖延症",
+    "p": "tuō yán zhèng",
+    "m": "bệnh trì hoãn",
+    "cat": "psychology"
+  },
+  {
+    "w": "完美主义",
+    "p": "wán měi zhǔ yì",
+    "m": "chủ nghĩa hoàn hảo",
+    "cat": "psychology"
+  },
+  {
+    "w": "依法治国",
+    "p": "yī fǎ zhì guó",
+    "m": "trị quốc theo pháp luật",
+    "cat": "law"
+  },
+  {
+    "w": "知识产权",
+    "p": "zhī shi chǎn quán",
+    "m": "quyền sở hữu trí tuệ",
+    "cat": "law"
+  },
+  {
+    "w": "专利侵权",
+    "p": "zhuān lì qīn quán",
+    "m": "xâm phạm bằng sáng chế",
+    "cat": "law"
+  },
+  {
+    "w": "名誉权",
+    "p": "míng yù quán",
+    "m": "quyền danh dự",
+    "cat": "law"
+  },
+  {
+    "w": "肖像权",
+    "p": "xiào xiàng quán",
+    "m": "quyền hình ảnh cá nhân",
+    "cat": "law"
+  },
+  {
+    "w": "劳动合同",
+    "p": "láo dòng hé tong",
+    "m": "hợp đồng lao động",
+    "cat": "law"
+  },
+  {
+    "w": "消费者权益",
+    "p": "xiāo fèi zhě quán yì",
+    "m": "quyền lợi người tiêu dùng",
+    "cat": "law"
+  },
+  {
+    "w": "反垄断",
+    "p": "fǎn lǒng duàn",
+    "m": "chống độc quyền",
+    "cat": "law"
+  },
+  {
+    "w": "司法公正",
+    "p": "sī fǎ gōng zhèng",
+    "m": "công lý tư pháp",
+    "cat": "law"
+  },
+  {
+    "w": "无罪推定",
+    "p": "wú zuì tuī dìng",
+    "m": "suy đoán vô tội",
+    "cat": "law"
+  },
+  {
+    "w": "取证",
+    "p": "qǔ zhèng",
+    "m": "thu thập chứng cứ",
+    "cat": "law"
+  },
+  {
+    "w": "上诉",
+    "p": "shàng sù",
+    "m": "kháng cáo",
+    "cat": "law"
+  },
+  {
+    "w": "调解",
+    "p": "tiáo jiě",
+    "m": "hòa giải",
+    "cat": "law"
+  },
+  {
+    "w": "和解",
+    "p": "hé jiě",
+    "m": "hòa giải, dàn xếp",
+    "cat": "law"
+  },
+  {
+    "w": "赔偿金",
+    "p": "péi cháng jīn",
+    "m": "tiền bồi thường",
+    "cat": "law"
+  },
+  {
+    "w": "应试教育",
+    "p": "yìng shì jiào yù",
+    "m": "giáo dục ứng thí",
+    "cat": "education"
+  },
+  {
+    "w": "素质教育",
+    "p": "sù zhì jiào yù",
+    "m": "giáo dục tố chất",
+    "cat": "education"
+  },
+  {
+    "w": "终身学习",
+    "p": "zhōng shēn xué xí",
+    "m": "học tập suốt đời",
+    "cat": "education"
+  },
+  {
+    "w": "双减政策",
+    "p": "shuāng jiǎn zhèng cè",
+    "m": "chính sách giảm kép (bài tập, học thêm)",
+    "cat": "education"
+  },
+  {
+    "w": "高考",
+    "p": "gāo kǎo",
+    "m": "thi đại học (Trung Quốc)",
+    "cat": "education"
+  },
+  {
+    "w": "内推",
+    "p": "nèi tuī",
+    "m": "giới thiệu nội bộ (việc làm)",
+    "cat": "work"
+  },
+  {
+    "w": "实习生",
+    "p": "shí xí shēng",
+    "m": "thực tập sinh",
+    "cat": "work"
+  },
+  {
+    "w": "灵活就业",
+    "p": "líng huó jiù yè",
+    "m": "việc làm linh hoạt",
+    "cat": "work"
+  },
+  {
+    "w": "远程办公",
+    "p": "yuǎn chéng bàn gōng",
+    "m": "làm việc từ xa",
+    "cat": "work"
+  },
+  {
+    "w": "弹性工作制",
+    "p": "tán xìng gōng zuò zhì",
+    "m": "chế độ giờ làm linh hoạt",
+    "cat": "work"
+  },
+  {
+    "w": "加班文化",
+    "p": "jiā bān wén huà",
+    "m": "văn hóa tăng ca",
+    "cat": "work"
+  },
+  {
+    "w": "职场",
+    "p": "zhí chǎng",
+    "m": "chốn công sở",
+    "cat": "work"
+  },
+  {
+    "w": "试用期",
+    "p": "shì yòng qī",
+    "m": "thời gian thử việc",
+    "cat": "work"
+  },
+  {
+    "w": "跳槽",
+    "p": "tiào cáo",
+    "m": "nhảy việc",
+    "cat": "work"
+  },
+  {
+    "w": "猎头",
+    "p": "liè tóu",
+    "m": "săn đầu người",
+    "cat": "work"
+  },
+  {
+    "w": "文化自信",
+    "p": "wén huà zì xìn",
+    "m": "tự tin văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "非物质文化遗产",
+    "p": "fēi wù zhì wén huà yí chǎn",
+    "m": "di sản văn hóa phi vật thể",
+    "cat": "culture"
+  },
+  {
+    "w": "国潮",
+    "p": "guó cháo",
+    "m": "trào lưu hàng nội địa Trung",
+    "cat": "culture"
+  },
+  {
+    "w": "汉服",
+    "p": "hàn fú",
+    "m": "Hán phục",
+    "cat": "culture"
+  },
+  {
+    "w": "书法",
+    "p": "shū fǎ",
+    "m": "thư pháp",
+    "cat": "culture"
+  },
+  {
+    "w": "京剧",
+    "p": "jīng jù",
+    "m": "Kinh kịch",
+    "cat": "culture"
+  },
+  {
+    "w": "相声",
+    "p": "xiàng sheng",
+    "m": "tướng thanh (hài thoại)",
+    "cat": "culture"
+  },
+  {
+    "w": "庙会",
+    "p": "miào huì",
+    "m": "hội chùa",
+    "cat": "culture"
+  },
+  {
+    "w": "春运",
+    "p": "chūn yùn",
+    "m": "đợt vận tải Tết",
+    "cat": "culture"
+  },
+  {
+    "w": "年夜饭",
+    "p": "nián yè fàn",
+    "m": "bữa cơm tất niên",
+    "cat": "culture"
+  },
+  {
+    "w": "压岁钱",
+    "p": "yā suì qián",
+    "m": "tiền lì xì",
+    "cat": "culture"
+  },
+  {
+    "w": "中秋赏月",
+    "p": "zhōng qiū shǎng yuè",
+    "m": "ngắm trăng Trung thu",
+    "cat": "culture"
+  },
+  {
+    "w": "二十四节气",
+    "p": "èr shí sì jié qì",
+    "m": "24 tiết khí",
+    "cat": "culture"
+  },
+  {
+    "w": "风水",
+    "p": "fēng shuǐ",
+    "m": "phong thủy",
+    "cat": "culture"
+  },
+  {
+    "w": "生肖",
+    "p": "shēng xiào",
+    "m": "con giáp",
+    "cat": "culture"
+  },
+  {
+    "w": "中医药",
+    "p": "zhōng yī yào",
+    "m": "đông y dược",
+    "cat": "culture"
+  },
+  {
+    "w": "针灸",
+    "p": "zhēn jiǔ",
+    "m": "châm cứu",
+    "cat": "culture"
+  },
+  {
+    "w": "太极拳",
+    "p": "tài jí quán",
+    "m": "thái cực quyền",
+    "cat": "culture"
+  },
+  {
+    "w": "气功",
+    "p": "qì gōng",
+    "m": "khí công",
+    "cat": "culture"
+  },
+  {
+    "w": "茶道",
+    "p": "chá dào",
+    "m": "trà đạo",
+    "cat": "culture"
+  },
+  {
+    "w": "瓷器",
+    "p": "cí qì",
+    "m": "đồ sứ",
+    "cat": "culture"
+  },
+  {
+    "w": "丝绸之路",
+    "p": "sī chóu zhī lù",
+    "m": "con đường tơ lụa",
+    "cat": "culture"
+  },
+  {
+    "w": "一带一路",
+    "p": "yí dài yí lù",
+    "m": "Vành đai Con đường",
+    "cat": "politics"
+  },
+  {
+    "w": "人类命运共同体",
+    "p": "rén lèi mìng yùn gòng tóng tǐ",
+    "m": "cộng đồng chung vận mệnh nhân loại",
+    "cat": "politics"
+  },
+  {
+    "w": "多边主义",
+    "p": "duō biān zhǔ yì",
+    "m": "chủ nghĩa đa phương",
+    "cat": "politics"
+  },
+  {
+    "w": "单边主义",
+    "p": "dān biān zhǔ yì",
+    "m": "chủ nghĩa đơn phương",
+    "cat": "politics"
+  },
+  {
+    "w": "地缘政治",
+    "p": "dì yuán zhèng zhì",
+    "m": "địa chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "软实力",
+    "p": "ruǎn shí lì",
+    "m": "sức mạnh mềm",
+    "cat": "politics"
+  },
+  {
+    "w": "硬实力",
+    "p": "yìng shí lì",
+    "m": "sức mạnh cứng",
+    "cat": "politics"
+  },
+  {
+    "w": "外交斡旋",
+    "p": "wài jiāo wò xuán",
+    "m": "dàn xếp ngoại giao",
+    "cat": "politics"
+  },
+  {
+    "w": "领事馆",
+    "p": "lǐng shì guǎn",
+    "m": "lãnh sự quán",
+    "cat": "politics"
+  },
+  {
+    "w": "联合声明",
+    "p": "lián hé shēng míng",
+    "m": "tuyên bố chung",
+    "cat": "politics"
+  },
+  {
+    "w": "战略伙伴",
+    "p": "zhàn lüè huǒ bàn",
+    "m": "đối tác chiến lược",
+    "cat": "politics"
+  },
+  {
+    "w": "停火协议",
+    "p": "tíng huǒ xié yì",
+    "m": "thỏa thuận ngừng bắn",
+    "cat": "politics"
+  },
+  {
+    "w": "难民危机",
+    "p": "nàn mín wēi jī",
+    "m": "khủng hoảng tị nạn",
+    "cat": "politics"
+  },
+  {
+    "w": "人道主义",
+    "p": "rén dào zhǔ yì",
+    "m": "chủ nghĩa nhân đạo",
+    "cat": "politics"
+  },
+  {
+    "w": "反恐",
+    "p": "fǎn kǒng",
+    "m": "chống khủng bố",
+    "cat": "politics"
+  },
+  {
+    "w": "航天员",
+    "p": "háng tiān yuán",
+    "m": "phi hành gia",
+    "cat": "science"
+  },
+  {
+    "w": "空间站",
+    "p": "kōng jiān zhàn",
+    "m": "trạm vũ trụ",
+    "cat": "science"
+  },
+  {
+    "w": "探测器",
+    "p": "tàn cè qì",
+    "m": "tàu thăm dò",
+    "cat": "science"
+  },
+  {
+    "w": "登月",
+    "p": "dēng yuè",
+    "m": "đổ bộ mặt trăng",
+    "cat": "science"
+  },
+  {
+    "w": "卫星导航",
+    "p": "wèi xīng dǎo háng",
+    "m": "định vị vệ tinh",
+    "cat": "science"
+  },
+  {
+    "w": "超级计算机",
+    "p": "chāo jí jì suàn jī",
+    "m": "siêu máy tính",
+    "cat": "science"
+  },
+  {
+    "w": "可再生能源",
+    "p": "kě zài shēng néng yuán",
+    "m": "năng lượng tái tạo",
+    "cat": "environment"
+  },
+  {
+    "w": "高铁网络",
+    "p": "gāo tiě wǎng luò",
+    "m": "mạng lưới đường sắt cao tốc",
+    "cat": "giao thông"
+  },
+  {
+    "w": "磁悬浮",
+    "p": "cí xuán fú",
+    "m": "tàu đệm từ",
+    "cat": "giao thông"
+  },
+  {
+    "w": "新能源汽车",
+    "p": "xīn néng yuán qì chē",
+    "m": "xe năng lượng mới",
+    "cat": "giao thông"
+  },
+  {
+    "w": "充电桩",
+    "p": "chōng diàn zhuāng",
+    "m": "trụ sạc điện",
+    "cat": "giao thông"
+  },
+  {
+    "w": "共享单车",
+    "p": "gòng xiǎng dān chē",
+    "m": "xe đạp chia sẻ",
+    "cat": "giao thông"
+  },
+  {
+    "w": "网约车",
+    "p": "wǎng yuē chē",
+    "m": "xe đặt qua mạng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "移动支付",
+    "p": "yí dòng zhī fù",
+    "m": "thanh toán di động",
+    "cat": "tech"
+  },
+  {
+    "w": "扫码",
+    "p": "sǎo mǎ",
+    "m": "quét mã",
+    "cat": "tech"
+  },
+  {
+    "w": "二维码",
+    "p": "èr wéi mǎ",
+    "m": "mã QR",
+    "cat": "tech"
+  },
+  {
+    "w": "人脸识别",
+    "p": "rén liǎn shí bié",
+    "m": "nhận diện khuôn mặt",
+    "cat": "tech"
+  },
+  {
+    "w": "指纹识别",
+    "p": "zhǐ wén shí bié",
+    "m": "nhận diện vân tay",
+    "cat": "tech"
+  },
+  {
+    "w": "语音助手",
+    "p": "yǔ yīn zhù shǒu",
+    "m": "trợ lý giọng nói",
+    "cat": "tech"
+  },
+  {
+    "w": "智能家居",
+    "p": "zhì néng jiā jū",
+    "m": "nhà thông minh",
+    "cat": "tech"
+  },
+  {
+    "w": "可穿戴设备",
+    "p": "kě chuān dài shè bèi",
+    "m": "thiết bị đeo thông minh",
+    "cat": "tech"
+  },
+  {
+    "w": "电子竞技",
+    "p": "diàn zǐ jìng jì",
+    "m": "thể thao điện tử",
+    "cat": "sport"
+  },
+  {
+    "w": "马拉松",
+    "p": "mǎ lā sōng",
+    "m": "marathon",
+    "cat": "sport"
+  },
+  {
+    "w": "铁人三项",
+    "p": "tiě rén sān xiàng",
+    "m": "ba môn phối hợp",
+    "cat": "sport"
+  },
+  {
+    "w": "攀岩",
+    "p": "pān yán",
+    "m": "leo núi đá",
+    "cat": "sport"
+  },
+  {
+    "w": "滑板",
+    "p": "huá bǎn",
+    "m": "ván trượt",
+    "cat": "sport"
+  },
+  {
+    "w": "蹦极",
+    "p": "bèng jí",
+    "m": "nhảy bungee",
+    "cat": "sport"
+  },
+  {
+    "w": "跳伞",
+    "p": "tiào sǎn",
+    "m": "nhảy dù",
+    "cat": "sport"
+  },
+  {
+    "w": "潜水",
+    "p": "qián shuǐ",
+    "m": "lặn biển",
+    "cat": "sport"
+  },
+  {
+    "w": "瑜伽",
+    "p": "yú jiā",
+    "m": "yoga",
+    "cat": "sport"
+  },
+  {
+    "w": "健身房",
+    "p": "jiàn shēn fáng",
+    "m": "phòng gym",
+    "cat": "sport"
+  },
+  {
+    "w": "教练员",
+    "p": "jiào liàn yuán",
+    "m": "huấn luyện viên",
+    "cat": "sport"
+  },
+  {
+    "w": "裁判员",
+    "p": "cái pàn yuán",
+    "m": "trọng tài",
+    "cat": "sport"
+  },
+  {
+    "w": "奥运会",
+    "p": "ào yùn huì",
+    "m": "Thế vận hội Olympic",
+    "cat": "sport"
+  },
+  {
+    "w": "世界杯",
+    "p": "shì jiè bēi",
+    "m": "World Cup",
+    "cat": "sport"
+  },
+  {
+    "w": "夺冠",
+    "p": "duó guàn",
+    "m": "giành chức vô địch",
+    "cat": "sport"
+  },
+  {
+    "w": "打破纪录",
+    "p": "dǎ pò jì lù",
+    "m": "phá kỷ lục",
+    "cat": "sport"
+  },
+  {
+    "w": "兴奋剂",
+    "p": "xīng fèn jì",
+    "m": "chất kích thích (doping)",
+    "cat": "sport"
+  },
+  {
+    "w": "美食博主",
+    "p": "měi shí bó zhǔ",
+    "m": "blogger ẩm thực",
+    "cat": "food"
+  },
+  {
+    "w": "预制菜",
+    "p": "yù zhì cài",
+    "m": "món ăn chế biến sẵn",
+    "cat": "food"
+  },
+  {
+    "w": "外卖平台",
+    "p": "wài mài píng tái",
+    "m": "nền tảng giao đồ ăn",
+    "cat": "food"
+  },
+  {
+    "w": "食品添加剂",
+    "p": "shí pǐn tiān jiā jì",
+    "m": "phụ gia thực phẩm",
+    "cat": "food"
+  },
+  {
+    "w": "有机食品",
+    "p": "yǒu jī shí pǐn",
+    "m": "thực phẩm hữu cơ",
+    "cat": "food"
+  },
+  {
+    "w": "转基因",
+    "p": "zhuǎn jī yīn",
+    "m": "biến đổi gene",
+    "cat": "food"
+  },
+  {
+    "w": "保质期",
+    "p": "bǎo zhì qī",
+    "m": "hạn sử dụng",
+    "cat": "food"
+  },
+  {
+    "w": "营养均衡",
+    "p": "yíng yǎng jūn héng",
+    "m": "cân bằng dinh dưỡng",
+    "cat": "food"
+  },
+  {
+    "w": "素食主义",
+    "p": "sù shí zhǔ yì",
+    "m": "chủ nghĩa ăn chay",
+    "cat": "food"
+  },
+  {
+    "w": "轻食",
+    "p": "qīng shí",
+    "m": "đồ ăn nhẹ lành mạnh",
+    "cat": "food"
+  },
+  {
+    "w": "网红餐厅",
+    "p": "wǎng hóng cān tīng",
+    "m": "nhà hàng hot trên mạng",
+    "cat": "food"
+  },
+  {
+    "w": "打卡",
+    "p": "dǎ kǎ",
+    "m": "check-in (địa điểm); chấm công",
+    "cat": "travel"
+  },
+  {
+    "w": "自由行",
+    "p": "zì yóu xíng",
+    "m": "du lịch tự túc",
+    "cat": "travel"
+  },
+  {
+    "w": "跟团游",
+    "p": "gēn tuán yóu",
+    "m": "du lịch theo đoàn",
+    "cat": "travel"
+  },
+  {
+    "w": "自驾游",
+    "p": "zì jià yóu",
+    "m": "du lịch tự lái xe",
+    "cat": "travel"
+  },
+  {
+    "w": "穷游",
+    "p": "qióng yóu",
+    "m": "du lịch bụi tiết kiệm",
+    "cat": "travel"
+  },
+  {
+    "w": "民宿",
+    "p": "mín sù",
+    "m": "homestay",
+    "cat": "travel"
+  },
+  {
+    "w": "旺季",
+    "p": "wàng jì",
+    "m": "mùa cao điểm",
+    "cat": "travel"
+  },
+  {
+    "w": "淡季",
+    "p": "dàn jì",
+    "m": "mùa thấp điểm",
+    "cat": "travel"
+  },
+  {
+    "w": "景点",
+    "p": "jǐng diǎn",
+    "m": "điểm tham quan",
+    "cat": "travel"
+  },
+  {
+    "w": "门票预约",
+    "p": "mén piào yù yuē",
+    "m": "đặt vé tham quan",
+    "cat": "travel"
+  },
+  {
+    "w": "出境游",
+    "p": "chū jìng yóu",
+    "m": "du lịch nước ngoài",
+    "cat": "travel"
+  },
+  {
+    "w": "时差",
+    "p": "shí chā",
+    "m": "lệch múi giờ",
+    "cat": "travel"
+  },
+  {
+    "w": "转机",
+    "p": "zhuǎn jī",
+    "m": "quá cảnh chuyển máy bay",
+    "cat": "travel"
+  },
+  {
+    "w": "值机",
+    "p": "zhí jī",
+    "m": "check-in chuyến bay",
+    "cat": "travel"
+  },
+  {
+    "w": "托运行李",
+    "p": "tuō yùn xíng li",
+    "m": "ký gửi hành lý",
+    "cat": "travel"
+  },
+  {
+    "w": "安检",
+    "p": "ān jiǎn",
+    "m": "kiểm tra an ninh",
+    "cat": "travel"
+  },
+  {
+    "w": "海关申报",
+    "p": "hǎi guān shēn bào",
+    "m": "khai báo hải quan",
+    "cat": "travel"
+  },
+  {
+    "w": "免税店",
+    "p": "miǎn shuì diàn",
+    "m": "cửa hàng miễn thuế",
+    "cat": "travel"
+  },
+  {
+    "w": "旅游攻略",
+    "p": "lǚ yóu gōng lüè",
+    "m": "cẩm nang du lịch",
+    "cat": "travel"
+  },
+  {
+    "w": "穷乡僻壤",
+    "p": "qióng xiāng pì rǎng",
+    "m": "nơi hẻo lánh nghèo nàn",
+    "cat": "idiom"
+  },
+  {
+    "w": "安居乐业",
+    "p": "ān jū lè yè",
+    "m": "an cư lạc nghiệp",
+    "cat": "idiom"
+  },
+  {
+    "w": "丰衣足食",
+    "p": "fēng yī zú shí",
+    "m": "đủ ăn đủ mặc",
+    "cat": "idiom"
+  },
+  {
+    "w": "日新月异",
+    "p": "rì xīn yuè yì",
+    "m": "thay đổi từng ngày",
+    "cat": "idiom"
+  },
+  {
+    "w": "蒸蒸日上",
+    "p": "zhēng zhēng rì shàng",
+    "m": "ngày càng phát đạt",
+    "cat": "idiom"
+  },
+  {
+    "w": "欣欣向荣",
+    "p": "xīn xīn xiàng róng",
+    "m": "phồn vinh thịnh vượng",
+    "cat": "idiom"
+  },
+  {
+    "w": "百花齐放",
+    "p": "bǎi huā qí fàng",
+    "m": "trăm hoa đua nở",
+    "cat": "idiom"
+  },
+  {
+    "w": "井然有序",
+    "p": "jǐng rán yǒu xù",
+    "m": "ngăn nắp trật tự",
+    "cat": "idiom"
+  },
+  {
+    "w": "一丝不苟",
+    "p": "yì sī bù gǒu",
+    "m": "tỉ mỉ từng li từng tí",
+    "cat": "idiom"
+  },
+  {
+    "w": "精益求精",
+    "p": "jīng yì qiú jīng",
+    "m": "đã giỏi còn muốn giỏi hơn",
+    "cat": "idiom"
+  },
+  {
+    "w": "持之以恒",
+    "p": "chí zhī yǐ héng",
+    "m": "kiên trì bền bỉ",
+    "cat": "idiom"
+  },
+  {
+    "w": "再接再厉",
+    "p": "zài jiē zài lì",
+    "m": "tiếp tục cố gắng hơn nữa",
+    "cat": "idiom"
+  },
+  {
+    "w": "循序渐进",
+    "p": "xún xù jiàn jìn",
+    "m": "tiến dần từng bước",
+    "cat": "idiom"
+  },
+  {
+    "w": "因地制宜",
+    "p": "yīn dì zhì yí",
+    "m": "tùy nơi mà áp dụng",
+    "cat": "idiom"
+  },
+  {
+    "w": "因材施教",
+    "p": "yīn cái shī jiào",
+    "m": "dạy theo năng lực từng người",
+    "cat": "idiom"
+  },
+  {
+    "w": "集思广益",
+    "p": "jí sī guǎng yì",
+    "m": "tập hợp trí tuệ tập thể",
+    "cat": "idiom"
+  },
+  {
+    "w": "群策群力",
+    "p": "qún cè qún lì",
+    "m": "chung sức chung lòng",
+    "cat": "idiom"
+  },
+  {
+    "w": "同舟共济",
+    "p": "tóng zhōu gòng jì",
+    "m": "cùng hội cùng thuyền",
+    "cat": "idiom"
+  },
+  {
+    "w": "雪中送炭",
+    "p": "xuě zhōng sòng tàn",
+    "m": "giúp đỡ lúc khó khăn nhất",
+    "cat": "idiom"
+  },
+  {
+    "w": "锦上添花",
+    "p": "jǐn shàng tiān huā",
+    "m": "đẹp càng thêm đẹp",
+    "cat": "idiom"
+  },
+  {
+    "w": "画龙点睛",
+    "p": "huà lóng diǎn jīng",
+    "m": "vẽ rồng điểm mắt",
+    "cat": "idiom"
+  },
+  {
+    "w": "抛砖引玉",
+    "p": "pāo zhuān yǐn yù",
+    "m": "ném gạch dẫn ngọc — gợi mở ý kiến hay",
+    "cat": "idiom"
+  },
+  {
+    "w": "举一反三",
+    "p": "jǔ yī fǎn sān",
+    "m": "học một biết mười",
+    "cat": "idiom"
+  },
+  {
+    "w": "触类旁通",
+    "p": "chù lèi páng tōng",
+    "m": "suy rộng sang cái tương tự",
+    "cat": "idiom"
+  },
+  {
+    "w": "融会贯通",
+    "p": "róng huì guàn tōng",
+    "m": "thông hiểu thấu suốt",
+    "cat": "idiom"
+  },
+  {
+    "w": "温故知新",
+    "p": "wēn gù zhī xīn",
+    "m": "ôn cũ biết mới",
+    "cat": "idiom"
+  },
+  {
+    "w": "学以致用",
+    "p": "xué yǐ zhì yòng",
+    "m": "học đi đôi với hành",
+    "cat": "idiom"
+  },
+  {
+    "w": "脚踏实地",
+    "p": "jiǎo tà shí dì",
+    "m": "chân chạm đất — thực tế vững vàng",
+    "cat": "idiom"
+  },
+  {
+    "w": "实事求是",
+    "p": "shí shì qiú shì",
+    "m": "thực sự cầu thị",
+    "cat": "idiom"
+  },
+  {
+    "w": "与时俱进",
+    "p": "yǔ shí jù jìn",
+    "m": "tiến cùng thời đại",
+    "cat": "idiom"
+  },
+  {
+    "w": "开拓创新",
+    "p": "kāi tuò chuàng xīn",
+    "m": "khai phá đổi mới",
+    "cat": "idiom"
+  },
+  {
+    "w": "任重道远",
+    "p": "rèn zhòng dào yuǎn",
+    "m": "trách nhiệm nặng đường còn xa",
+    "cat": "idiom"
+  },
+  {
+    "w": "未雨绸缪",
+    "p": "wèi yǔ chóu móu",
+    "m": "phòng bị từ trước",
+    "cat": "idiom"
+  },
+  {
+    "w": "防患未然",
+    "p": "fáng huàn wèi rán",
+    "m": "ngừa họa khi chưa xảy ra",
+    "cat": "idiom"
+  },
+  {
+    "w": "亡羊补牢",
+    "p": "wáng yáng bǔ láo",
+    "m": "mất bò mới lo làm chuồng — sửa còn kịp",
+    "cat": "idiom"
+  },
+  {
+    "w": "塞翁失马",
+    "p": "sài wēng shī mǎ",
+    "m": "tái ông thất mã",
+    "cat": "idiom"
+  },
+  {
+    "w": "水到渠成",
+    "p": "shuǐ dào qú chéng",
+    "m": "nước chảy thành mương — thuận tự nhiên",
+    "cat": "idiom"
+  },
+  {
+    "w": "瓜熟蒂落",
+    "p": "guā shú dì luò",
+    "m": "dưa chín cuống rụng — chín muồi tất thành",
+    "cat": "idiom"
+  },
+  {
+    "w": "事半功倍",
+    "p": "shì bàn gōng bèi",
+    "m": "việc ít công gấp đôi — hiệu quả cao",
+    "cat": "idiom"
+  },
+  {
+    "w": "事倍功半",
+    "p": "shì bèi gōng bàn",
+    "m": "việc nhiều công nửa — kém hiệu quả",
+    "cat": "idiom"
+  },
+  {
+    "w": "得不偿失",
+    "p": "dé bù cháng shī",
+    "m": "được không bù mất",
+    "cat": "idiom"
+  },
+  {
+    "w": "适得其反",
+    "p": "shì dé qí fǎn",
+    "m": "phản tác dụng",
+    "cat": "idiom"
+  },
+  {
+    "w": "喜闻乐见",
+    "p": "xǐ wén lè jiàn",
+    "m": "được mọi người ưa thích",
+    "cat": "idiom"
+  },
+  {
+    "w": "家喻户晓",
+    "p": "jiā yù hù xiǎo",
+    "m": "nhà nhà đều biết",
+    "cat": "idiom"
+  },
+  {
+    "w": "脱颖而出",
+    "p": "tuō yǐng ér chū",
+    "m": "nổi bật vượt lên",
+    "cat": "idiom"
+  },
+  {
+    "w": "名列前茅",
+    "p": "míng liè qián máo",
+    "m": "đứng đầu bảng",
+    "cat": "idiom"
+  },
+  {
+    "w": "崭露头角",
+    "p": "zhǎn lù tóu jiǎo",
+    "m": "bắt đầu lộ tài năng",
+    "cat": "idiom"
+  },
+  {
+    "w": "大器晚成",
+    "p": "dà qì wǎn chéng",
+    "m": "đại khí vãn thành — thành tài muộn",
+    "cat": "idiom"
+  },
+  {
+    "w": "厚积薄发",
+    "p": "hòu jī bó fā",
+    "m": "tích lũy dày phát tiết mỏng",
+    "cat": "idiom"
+  },
+  {
+    "w": "水滴石穿",
+    "p": "shuǐ dī shí chuān",
+    "m": "nước chảy đá mòn",
+    "cat": "idiom"
+  },
+  {
+    "w": "磨杵成针",
+    "p": "mó chǔ chéng zhēn",
+    "m": "mài chày thành kim",
+    "cat": "idiom"
+  },
+  {
+    "w": "半途而废",
+    "p": "bàn tú ér fèi",
+    "m": "bỏ dở giữa chừng",
+    "cat": "idiom"
+  },
+  {
+    "w": "知难而退",
+    "p": "zhī nán ér tuì",
+    "m": "biết khó mà lui",
+    "cat": "idiom"
+  },
+  {
+    "w": "迎难而上",
+    "p": "yíng nán ér shàng",
+    "m": "đối mặt khó khăn mà tiến",
+    "cat": "idiom"
+  },
+  {
+    "w": "破釜沉舟",
+    "p": "pò fǔ chén zhōu",
+    "m": "đập nồi dìm thuyền — quyết một trận",
+    "cat": "idiom"
+  },
+  {
+    "w": "背水一战",
+    "p": "bèi shuǐ yí zhàn",
+    "m": "trận chiến lưng tựa sông — không đường lùi",
+    "cat": "idiom"
+  },
+  {
+    "w": "卧薪尝胆",
+    "p": "wò xīn cháng dǎn",
+    "m": "nằm gai nếm mật",
+    "cat": "idiom"
+  },
+  {
+    "w": "东山再起",
+    "p": "dōng shān zài qǐ",
+    "m": "tái xuất sau thất bại",
+    "cat": "idiom"
+  },
+  {
+    "w": "卷土重来",
+    "p": "juǎn tǔ chóng lái",
+    "m": "cuốn đất trở lại — quay lại mạnh mẽ",
+    "cat": "idiom"
+  },
+  {
+    "w": "反败为胜",
+    "p": "fǎn bài wéi shèng",
+    "m": "chuyển bại thành thắng",
+    "cat": "idiom"
+  },
+  {
+    "w": "转危为安",
+    "p": "zhuǎn wēi wéi ān",
+    "m": "chuyển nguy thành an",
+    "cat": "idiom"
+  },
+  {
+    "w": "化险为夷",
+    "p": "huà xiǎn wéi yí",
+    "m": "hóa hiểm thành lành",
+    "cat": "idiom"
+  },
+  {
+    "w": "绝处逢生",
+    "p": "jué chù féng shēng",
+    "m": "đường cùng gặp lối sống",
+    "cat": "idiom"
+  },
+  {
+    "w": "柳暗花明",
+    "p": "liǔ àn huā míng",
+    "m": "hết bĩ cực đến hồi thái lai",
+    "cat": "idiom"
+  },
+  {
+    "w": "否极泰来",
+    "p": "pǐ jí tài lái",
+    "m": "bĩ cực thái lai",
+    "cat": "idiom"
+  },
+  {
+    "w": "苦尽甘来",
+    "p": "kǔ jìn gān lái",
+    "m": "khổ tận cam lai",
+    "cat": "idiom"
+  }
+]

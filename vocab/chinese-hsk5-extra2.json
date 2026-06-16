@@ -1,0 +1,4004 @@
+[
+  {
+    "w": "技术",
+    "p": "jì shù",
+    "m": "kỹ thuật, công nghệ",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "软件",
+    "p": "ruǎn jiàn",
+    "m": "phần mềm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "硬件",
+    "p": "yìng jiàn",
+    "m": "phần cứng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "网络",
+    "p": "wǎng luò",
+    "m": "mạng lưới, mạng internet",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "数据",
+    "p": "shù jù",
+    "m": "dữ liệu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "程序",
+    "p": "chéng xù",
+    "m": "chương trình, quy trình",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "算法",
+    "p": "suàn fǎ",
+    "m": "thuật toán",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "人工智能",
+    "p": "rén gōng zhì néng",
+    "m": "trí tuệ nhân tạo",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "云计算",
+    "p": "yún jì suàn",
+    "m": "điện toán đám mây",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "大数据",
+    "p": "dà shù jù",
+    "m": "dữ liệu lớn",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "区块链",
+    "p": "qū kuài liàn",
+    "m": "chuỗi khối, blockchain",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "数字化",
+    "p": "shù zì huà",
+    "m": "số hóa, kỹ thuật số hóa",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "智能手机",
+    "p": "zhì néng shǒu jī",
+    "m": "điện thoại thông minh",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "互联网",
+    "p": "hù lián wǎng",
+    "m": "internet",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "编程",
+    "p": "biān chéng",
+    "m": "lập trình",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "加密",
+    "p": "jiā mì",
+    "m": "mã hóa",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "服务器",
+    "p": "fú wù qì",
+    "m": "máy chủ",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "数据库",
+    "p": "shù jù kù",
+    "m": "cơ sở dữ liệu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "界面",
+    "p": "jiè miàn",
+    "m": "giao diện",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "应用程序",
+    "p": "yìng yòng chéng xù",
+    "m": "ứng dụng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "带宽",
+    "p": "dài kuān",
+    "m": "băng thông",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "虚拟现实",
+    "p": "xū nǐ xiàn shí",
+    "m": "thực tế ảo",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "扫描",
+    "p": "sǎo miáo",
+    "m": "quét, scan",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "更新",
+    "p": "gēng xīn",
+    "m": "cập nhật",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "下载",
+    "p": "xià zài",
+    "m": "tải xuống",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "上传",
+    "p": "shàng chuán",
+    "m": "tải lên",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "搜索引擎",
+    "p": "sōu suǒ yǐn qíng",
+    "m": "công cụ tìm kiếm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "自动化",
+    "p": "zì dòng huà",
+    "m": "tự động hóa",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "机器人",
+    "p": "jī qì rén",
+    "m": "robot",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "芯片",
+    "p": "xīn piàn",
+    "m": "chip vi mạch",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "经济",
+    "p": "jīng jì",
+    "m": "kinh tế",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "企业",
+    "p": "qǐ yè",
+    "m": "doanh nghiệp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "投资",
+    "p": "tóu zī",
+    "m": "đầu tư",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "利润",
+    "p": "lì rùn",
+    "m": "lợi nhuận",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "市场",
+    "p": "shì chǎng",
+    "m": "thị trường",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "竞争",
+    "p": "jìng zhēng",
+    "m": "cạnh tranh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "合同",
+    "p": "hé tong",
+    "m": "hợp đồng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "股票",
+    "p": "gǔ piào",
+    "m": "cổ phiếu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "债券",
+    "p": "zhài quàn",
+    "m": "trái phiếu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "资产",
+    "p": "zī chǎn",
+    "m": "tài sản",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "负债",
+    "p": "fù zhài",
+    "m": "nợ, khoản nợ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "预算",
+    "p": "yù suàn",
+    "m": "ngân sách",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "成本",
+    "p": "chéng běn",
+    "m": "chi phí, giá thành",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "营业额",
+    "p": "yíng yè é",
+    "m": "doanh thu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "收购",
+    "p": "shōu gòu",
+    "m": "mua lại, thâu tóm",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "兼并",
+    "p": "jiān bìng",
+    "m": "sáp nhập",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "融资",
+    "p": "róng zī",
+    "m": "huy động vốn, tài trợ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "上市",
+    "p": "shàng shì",
+    "m": "niêm yết, ra mắt thị trường",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "品牌",
+    "p": "pǐn pái",
+    "m": "thương hiệu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "营销",
+    "p": "yíng xiāo",
+    "m": "tiếp thị, marketing",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "战略",
+    "p": "zhàn lüè",
+    "m": "chiến lược",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "供应链",
+    "p": "gōng yìng liàn",
+    "m": "chuỗi cung ứng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "客户",
+    "p": "kè hù",
+    "m": "khách hàng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "签约",
+    "p": "qiān yuē",
+    "m": "ký hợp đồng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "谈判",
+    "p": "tán pàn",
+    "m": "đàm phán",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "利率",
+    "p": "lì lǜ",
+    "m": "lãi suất",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "汇率",
+    "p": "huì lǜ",
+    "m": "tỷ giá hối đoái",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "通货膨胀",
+    "p": "tōng huò péng zhàng",
+    "m": "lạm phát",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "通货紧缩",
+    "p": "tōng huò jǐn suō",
+    "m": "giảm phát",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "国内生产总值",
+    "p": "guó nèi shēng chǎn zǒng zhí",
+    "m": "tổng sản phẩm quốc nội (GDP)",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "财政",
+    "p": "cái zhèng",
+    "m": "tài chính, ngân sách nhà nước",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "税收",
+    "p": "shuì shōu",
+    "m": "thu thuế",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "缴税",
+    "p": "jiǎo shuì",
+    "m": "nộp thuế",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "关税",
+    "p": "guān shuì",
+    "m": "thuế quan",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "补贴",
+    "p": "bǔ tiē",
+    "m": "trợ cấp",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "贷款",
+    "p": "dài kuǎn",
+    "m": "vay tiền, khoản vay",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "存款",
+    "p": "cún kuǎn",
+    "m": "tiền gửi, tiết kiệm",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "理财",
+    "p": "lǐ cái",
+    "m": "quản lý tài chính",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "基金",
+    "p": "jī jīn",
+    "m": "quỹ đầu tư",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "保险",
+    "p": "bǎo xiǎn",
+    "m": "bảo hiểm",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "期货",
+    "p": "qī huò",
+    "m": "hợp đồng tương lai",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "外汇",
+    "p": "wài huì",
+    "m": "ngoại hối",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "银行",
+    "p": "yín háng",
+    "m": "ngân hàng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "账户",
+    "p": "zhàng hù",
+    "m": "tài khoản",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "转账",
+    "p": "zhuǎn zhàng",
+    "m": "chuyển khoản",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "结算",
+    "p": "jié suàn",
+    "m": "thanh toán, quyết toán",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "亏损",
+    "p": "kuī sǔn",
+    "m": "thua lỗ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "盈余",
+    "p": "yíng yú",
+    "m": "thặng dư, thừa",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "分红",
+    "p": "fēn hóng",
+    "m": "chia cổ tức",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "健康",
+    "p": "jiàn kāng",
+    "m": "sức khỏe, khỏe mạnh",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "病毒",
+    "p": "bìng dú",
+    "m": "virus",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "细菌",
+    "p": "xì jūn",
+    "m": "vi khuẩn",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "免疫",
+    "p": "miǎn yì",
+    "m": "miễn dịch",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "疫苗",
+    "p": "yì miáo",
+    "m": "vắc-xin",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "抗体",
+    "p": "kàng tǐ",
+    "m": "kháng thể",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "症状",
+    "p": "zhèng zhuàng",
+    "m": "triệu chứng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "诊断",
+    "p": "zhěn duàn",
+    "m": "chẩn đoán",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "治疗",
+    "p": "zhì liáo",
+    "m": "điều trị",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "手术",
+    "p": "shǒu shù",
+    "m": "phẫu thuật",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "药物",
+    "p": "yào wù",
+    "m": "dược phẩm, thuốc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "副作用",
+    "p": "fù zuò yòng",
+    "m": "tác dụng phụ",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "康复",
+    "p": "kāng fù",
+    "m": "phục hồi sức khỏe",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "预防",
+    "p": "yù fáng",
+    "m": "phòng ngừa",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "营养",
+    "p": "yíng yǎng",
+    "m": "dinh dưỡng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "代谢",
+    "p": "dài xiè",
+    "m": "trao đổi chất",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "血压",
+    "p": "xuè yā",
+    "m": "huyết áp",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "心率",
+    "p": "xīn lǜ",
+    "m": "nhịp tim",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "器官",
+    "p": "qì guān",
+    "m": "cơ quan (nội tạng)",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "细胞",
+    "p": "xì bāo",
+    "m": "tế bào",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "基因",
+    "p": "jī yīn",
+    "m": "gen di truyền",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "遗传",
+    "p": "yí chuán",
+    "m": "di truyền",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "慢性病",
+    "p": "màn xìng bìng",
+    "m": "bệnh mãn tính",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "传染病",
+    "p": "chuán rǎn bìng",
+    "m": "bệnh truyền nhiễm",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "精神健康",
+    "p": "jīng shén jiàn kāng",
+    "m": "sức khỏe tâm thần",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "饮食",
+    "p": "yǐn shí",
+    "m": "chế độ ăn uống",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "锻炼",
+    "p": "duàn liàn",
+    "m": "luyện tập thể dục",
+    "cat": "thể thao"
+  },
+  {
+    "w": "竞技",
+    "p": "jìng jì",
+    "m": "thi đấu thể thao",
+    "cat": "thể thao"
+  },
+  {
+    "w": "奥运会",
+    "p": "ào yùn huì",
+    "m": "Thế vận hội Olympic",
+    "cat": "thể thao"
+  },
+  {
+    "w": "冠军",
+    "p": "guàn jūn",
+    "m": "nhà vô địch",
+    "cat": "thể thao"
+  },
+  {
+    "w": "亚军",
+    "p": "yà jūn",
+    "m": "á quân",
+    "cat": "thể thao"
+  },
+  {
+    "w": "运动员",
+    "p": "yùn dòng yuán",
+    "m": "vận động viên",
+    "cat": "thể thao"
+  },
+  {
+    "w": "教练",
+    "p": "jiào liàn",
+    "m": "huấn luyện viên",
+    "cat": "thể thao"
+  },
+  {
+    "w": "裁判",
+    "p": "cái pàn",
+    "m": "trọng tài",
+    "cat": "thể thao"
+  },
+  {
+    "w": "记录",
+    "p": "jì lù",
+    "m": "kỷ lục",
+    "cat": "thể thao"
+  },
+  {
+    "w": "田径",
+    "p": "tián jìng",
+    "m": "điền kinh",
+    "cat": "thể thao"
+  },
+  {
+    "w": "游泳",
+    "p": "yóu yǒng",
+    "m": "bơi lội",
+    "cat": "thể thao"
+  },
+  {
+    "w": "射击",
+    "p": "shè jī",
+    "m": "bắn súng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "体操",
+    "p": "tǐ cāo",
+    "m": "thể dục dụng cụ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "摔跤",
+    "p": "shuāi jiāo",
+    "m": "đấu vật",
+    "cat": "thể thao"
+  },
+  {
+    "w": "举重",
+    "p": "jǔ zhòng",
+    "m": "cử tạ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "马拉松",
+    "p": "mǎ lā sōng",
+    "m": "marathon",
+    "cat": "thể thao"
+  },
+  {
+    "w": "跆拳道",
+    "p": "tái quán dào",
+    "m": "taekwondo",
+    "cat": "thể thao"
+  },
+  {
+    "w": "武术",
+    "p": "wǔ shù",
+    "m": "võ thuật",
+    "cat": "thể thao"
+  },
+  {
+    "w": "排球",
+    "p": "pái qiú",
+    "m": "bóng chuyền",
+    "cat": "thể thao"
+  },
+  {
+    "w": "羽毛球",
+    "p": "yǔ máo qiú",
+    "m": "cầu lông",
+    "cat": "thể thao"
+  },
+  {
+    "w": "乒乓球",
+    "p": "pīng pāng qiú",
+    "m": "bóng bàn",
+    "cat": "thể thao"
+  },
+  {
+    "w": "网球",
+    "p": "wǎng qiú",
+    "m": "tennis",
+    "cat": "thể thao"
+  },
+  {
+    "w": "高尔夫",
+    "p": "gāo ěr fū",
+    "m": "golf",
+    "cat": "thể thao"
+  },
+  {
+    "w": "滑雪",
+    "p": "huá xuě",
+    "m": "trượt tuyết",
+    "cat": "thể thao"
+  },
+  {
+    "w": "骑马",
+    "p": "qí mǎ",
+    "m": "cưỡi ngựa",
+    "cat": "thể thao"
+  },
+  {
+    "w": "赛车",
+    "p": "sài chē",
+    "m": "đua xe",
+    "cat": "thể thao"
+  },
+  {
+    "w": "职业",
+    "p": "zhí yè",
+    "m": "nghề nghiệp",
+    "cat": "thể thao"
+  },
+  {
+    "w": "半决赛",
+    "p": "bàn jué sài",
+    "m": "bán kết",
+    "cat": "thể thao"
+  },
+  {
+    "w": "决赛",
+    "p": "jué sài",
+    "m": "chung kết",
+    "cat": "thể thao"
+  },
+  {
+    "w": "晋级",
+    "p": "jìn jí",
+    "m": "thăng hạng, tiến vào vòng sau",
+    "cat": "thể thao"
+  },
+  {
+    "w": "教育",
+    "p": "jiào yù",
+    "m": "giáo dục",
+    "cat": "học tập"
+  },
+  {
+    "w": "课程",
+    "p": "kè chéng",
+    "m": "chương trình học, môn học",
+    "cat": "học tập"
+  },
+  {
+    "w": "教材",
+    "p": "jiào cái",
+    "m": "tài liệu giảng dạy",
+    "cat": "học tập"
+  },
+  {
+    "w": "毕业",
+    "p": "bì yè",
+    "m": "tốt nghiệp",
+    "cat": "học tập"
+  },
+  {
+    "w": "学位",
+    "p": "xué wèi",
+    "m": "bằng học vị",
+    "cat": "học tập"
+  },
+  {
+    "w": "论文",
+    "p": "lùn wén",
+    "m": "luận văn, luận án",
+    "cat": "học tập"
+  },
+  {
+    "w": "研究生",
+    "p": "yán jiū shēng",
+    "m": "nghiên cứu sinh, học viên cao học",
+    "cat": "học tập"
+  },
+  {
+    "w": "奖学金",
+    "p": "jiǎng xué jīn",
+    "m": "học bổng",
+    "cat": "học tập"
+  },
+  {
+    "w": "入学",
+    "p": "rù xué",
+    "m": "nhập học",
+    "cat": "học tập"
+  },
+  {
+    "w": "招生",
+    "p": "zhāo shēng",
+    "m": "tuyển sinh",
+    "cat": "học tập"
+  },
+  {
+    "w": "考试",
+    "p": "kǎo shì",
+    "m": "thi cử",
+    "cat": "học tập"
+  },
+  {
+    "w": "评分",
+    "p": "píng fēn",
+    "m": "chấm điểm",
+    "cat": "học tập"
+  },
+  {
+    "w": "学分",
+    "p": "xué fēn",
+    "m": "tín chỉ học tập",
+    "cat": "học tập"
+  },
+  {
+    "w": "实习",
+    "p": "shí xí",
+    "m": "thực tập",
+    "cat": "học tập"
+  },
+  {
+    "w": "培训",
+    "p": "péi xùn",
+    "m": "đào tạo, huấn luyện",
+    "cat": "học tập"
+  },
+  {
+    "w": "素质",
+    "p": "sù zhì",
+    "m": "phẩm chất, năng lực tổng hợp",
+    "cat": "học tập"
+  },
+  {
+    "w": "能力",
+    "p": "néng lì",
+    "m": "năng lực, khả năng",
+    "cat": "học tập"
+  },
+  {
+    "w": "创新",
+    "p": "chuàng xīn",
+    "m": "sáng tạo, đổi mới",
+    "cat": "học tập"
+  },
+  {
+    "w": "科研",
+    "p": "kē yán",
+    "m": "nghiên cứu khoa học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "实验",
+    "p": "shí yàn",
+    "m": "thí nghiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "假设",
+    "p": "jiǎ shè",
+    "m": "giả thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "验证",
+    "p": "yàn zhèng",
+    "m": "xác minh, kiểm chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "分析",
+    "p": "fēn xī",
+    "m": "phân tích",
+    "cat": "học thuật"
+  },
+  {
+    "w": "综合",
+    "p": "zōng hé",
+    "m": "tổng hợp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "推断",
+    "p": "tuī duàn",
+    "m": "suy luận, kết luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "演绎",
+    "p": "yǎn yì",
+    "m": "diễn dịch",
+    "cat": "học thuật"
+  },
+  {
+    "w": "归纳",
+    "p": "guī nà",
+    "m": "quy nạp, tổng kết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "概念",
+    "p": "gài niàn",
+    "m": "khái niệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "定义",
+    "p": "dìng yì",
+    "m": "định nghĩa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "原则",
+    "p": "yuán zé",
+    "m": "nguyên tắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "理论",
+    "p": "lǐ lùn",
+    "m": "lý thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "模型",
+    "p": "mó xíng",
+    "m": "mô hình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "方法论",
+    "p": "fāng fǎ lùn",
+    "m": "phương pháp luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "学科",
+    "p": "xué kē",
+    "m": "ngành học, lĩnh vực khoa học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "领域",
+    "p": "lǐng yù",
+    "m": "lĩnh vực",
+    "cat": "học thuật"
+  },
+  {
+    "w": "引用",
+    "p": "yǐn yòng",
+    "m": "trích dẫn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "文献",
+    "p": "wén xiàn",
+    "m": "tài liệu, văn liệu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "期刊",
+    "p": "qī kān",
+    "m": "tạp chí học thuật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "同行评审",
+    "p": "tóng háng píng shěn",
+    "m": "phản biện đồng nghiệp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "数学",
+    "p": "shù xué",
+    "m": "toán học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "物理",
+    "p": "wù lǐ",
+    "m": "vật lý học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "化学",
+    "p": "huà xué",
+    "m": "hóa học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "生物",
+    "p": "shēng wù",
+    "m": "sinh học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "统计",
+    "p": "tǒng jì",
+    "m": "thống kê",
+    "cat": "học thuật"
+  },
+  {
+    "w": "概率",
+    "p": "gài lǜ",
+    "m": "xác suất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "矩阵",
+    "p": "jǔ zhèn",
+    "m": "ma trận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "函数",
+    "p": "hán shù",
+    "m": "hàm số",
+    "cat": "học thuật"
+  },
+  {
+    "w": "微积分",
+    "p": "wēi jī fēn",
+    "m": "vi tích phân",
+    "cat": "học thuật"
+  },
+  {
+    "w": "促进",
+    "p": "cù jìn",
+    "m": "thúc đẩy, xúc tiến",
+    "cat": "hành động"
+  },
+  {
+    "w": "推动",
+    "p": "tuī dòng",
+    "m": "thúc đẩy, đẩy mạnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "实施",
+    "p": "shí shī",
+    "m": "thực thi, triển khai",
+    "cat": "hành động"
+  },
+  {
+    "w": "执行",
+    "p": "zhí xíng",
+    "m": "thực hiện, chấp hành",
+    "cat": "hành động"
+  },
+  {
+    "w": "协调",
+    "p": "xié tiáo",
+    "m": "phối hợp, điều phối",
+    "cat": "hành động"
+  },
+  {
+    "w": "整合",
+    "p": "zhěng hé",
+    "m": "tích hợp, hợp nhất",
+    "cat": "hành động"
+  },
+  {
+    "w": "优化",
+    "p": "yōu huà",
+    "m": "tối ưu hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "评估",
+    "p": "píng gū",
+    "m": "đánh giá",
+    "cat": "hành động"
+  },
+  {
+    "w": "监测",
+    "p": "jiān cè",
+    "m": "giám sát, theo dõi",
+    "cat": "hành động"
+  },
+  {
+    "w": "调控",
+    "p": "diào kòng",
+    "m": "điều tiết, kiểm soát",
+    "cat": "hành động"
+  },
+  {
+    "w": "制定",
+    "p": "zhì dìng",
+    "m": "đề ra, xây dựng (kế hoạch)",
+    "cat": "hành động"
+  },
+  {
+    "w": "确立",
+    "p": "què lì",
+    "m": "xác lập, thiết lập",
+    "cat": "hành động"
+  },
+  {
+    "w": "建立",
+    "p": "jiàn lì",
+    "m": "xây dựng, thiết lập",
+    "cat": "hành động"
+  },
+  {
+    "w": "取消",
+    "p": "qǔ xiāo",
+    "m": "hủy bỏ",
+    "cat": "hành động"
+  },
+  {
+    "w": "撤销",
+    "p": "chè xiāo",
+    "m": "thu hồi, bãi bỏ",
+    "cat": "hành động"
+  },
+  {
+    "w": "阐述",
+    "p": "chǎn shù",
+    "m": "trình bày, giải thích rõ ràng",
+    "cat": "hành động"
+  },
+  {
+    "w": "揭示",
+    "p": "jiē shì",
+    "m": "tiết lộ, làm rõ",
+    "cat": "hành động"
+  },
+  {
+    "w": "探索",
+    "p": "tàn suǒ",
+    "m": "khám phá, thăm dò",
+    "cat": "hành động"
+  },
+  {
+    "w": "调查",
+    "p": "diào chá",
+    "m": "điều tra, khảo sát",
+    "cat": "hành động"
+  },
+  {
+    "w": "研发",
+    "p": "yán fā",
+    "m": "nghiên cứu và phát triển (R&D)",
+    "cat": "hành động"
+  },
+  {
+    "w": "应对",
+    "p": "yìng duì",
+    "m": "đối phó, ứng phó",
+    "cat": "hành động"
+  },
+  {
+    "w": "克服",
+    "p": "kè fú",
+    "m": "khắc phục, vượt qua",
+    "cat": "hành động"
+  },
+  {
+    "w": "解决",
+    "p": "jiě jué",
+    "m": "giải quyết",
+    "cat": "hành động"
+  },
+  {
+    "w": "维持",
+    "p": "wéi chí",
+    "m": "duy trì",
+    "cat": "hành động"
+  },
+  {
+    "w": "扩展",
+    "p": "kuò zhǎn",
+    "m": "mở rộng, triển khai",
+    "cat": "hành động"
+  },
+  {
+    "w": "缩减",
+    "p": "suō jiǎn",
+    "m": "thu hẹp, cắt giảm",
+    "cat": "hành động"
+  },
+  {
+    "w": "激活",
+    "p": "jī huó",
+    "m": "kích hoạt",
+    "cat": "hành động"
+  },
+  {
+    "w": "抑制",
+    "p": "yì zhì",
+    "m": "ức chế, kìm hãm",
+    "cat": "hành động"
+  },
+  {
+    "w": "刺激",
+    "p": "cì jī",
+    "m": "kích thích",
+    "cat": "hành động"
+  },
+  {
+    "w": "吸引",
+    "p": "xī yǐn",
+    "m": "thu hút, hấp dẫn",
+    "cat": "hành động"
+  },
+  {
+    "w": "高效",
+    "p": "gāo xiào",
+    "m": "hiệu quả cao",
+    "cat": "tính từ"
+  },
+  {
+    "w": "精确",
+    "p": "jīng què",
+    "m": "chính xác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "复杂",
+    "p": "fù zá",
+    "m": "phức tạp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "简洁",
+    "p": "jiǎn jié",
+    "m": "ngắn gọn, súc tích",
+    "cat": "tính từ"
+  },
+  {
+    "w": "严谨",
+    "p": "yán jǐn",
+    "m": "nghiêm túc, chặt chẽ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "灵活",
+    "p": "líng huó",
+    "m": "linh hoạt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "稳定",
+    "p": "wěn dìng",
+    "m": "ổn định",
+    "cat": "tính từ"
+  },
+  {
+    "w": "动态",
+    "p": "dòng tài",
+    "m": "năng động, biến động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "可持续",
+    "p": "kě chí xù",
+    "m": "bền vững",
+    "cat": "tính từ"
+  },
+  {
+    "w": "创造性",
+    "p": "chuàng zào xìng",
+    "m": "sáng tạo, có tính sáng tạo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "批判性",
+    "p": "pī pàn xìng",
+    "m": "phê phán, có tư duy phản biện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "全面",
+    "p": "quán miàn",
+    "m": "toàn diện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "系统性",
+    "p": "xì tǒng xìng",
+    "m": "có tính hệ thống",
+    "cat": "tính từ"
+  },
+  {
+    "w": "专业",
+    "p": "zhuān yè",
+    "m": "chuyên nghiệp, chuyên ngành",
+    "cat": "tính từ"
+  },
+  {
+    "w": "客观",
+    "p": "kè guān",
+    "m": "khách quan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "主观",
+    "p": "zhǔ guān",
+    "m": "chủ quan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "抽象",
+    "p": "chōu xiàng",
+    "m": "trừu tượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "具体",
+    "p": "jù tǐ",
+    "m": "cụ thể",
+    "cat": "tính từ"
+  },
+  {
+    "w": "潜在",
+    "p": "qián zài",
+    "m": "tiềm ẩn, tiềm tàng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "显著",
+    "p": "xiǎn zhù",
+    "m": "rõ ràng, nổi bật",
+    "cat": "tính từ"
+  },
+  {
+    "w": "微妙",
+    "p": "wēi miào",
+    "m": "tinh tế, khéo léo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "深刻",
+    "p": "shēn kè",
+    "m": "sâu sắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "广泛",
+    "p": "guǎng fàn",
+    "m": "rộng rãi, phổ biến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "局限",
+    "p": "jú xiàn",
+    "m": "hạn chế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "合理",
+    "p": "hé lǐ",
+    "m": "hợp lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "有效",
+    "p": "yǒu xiào",
+    "m": "có hiệu quả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "无效",
+    "p": "wú xiào",
+    "m": "vô hiệu, không hiệu quả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "积极",
+    "p": "jī jí",
+    "m": "tích cực, chủ động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "消极",
+    "p": "xiāo jí",
+    "m": "tiêu cực, thụ động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "主动",
+    "p": "zhǔ dòng",
+    "m": "chủ động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "关键",
+    "p": "guān jiàn",
+    "m": "then chốt, quan trọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "核心",
+    "p": "hé xīn",
+    "m": "cốt lõi, trung tâm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "基本",
+    "p": "jī běn",
+    "m": "cơ bản",
+    "cat": "tính từ"
+  },
+  {
+    "w": "先进",
+    "p": "xiān jìn",
+    "m": "tiên tiến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "落后",
+    "p": "luò hòu",
+    "m": "lạc hậu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "战略性",
+    "p": "zhàn lüè xìng",
+    "m": "có tính chiến lược",
+    "cat": "tính từ"
+  },
+  {
+    "w": "创新性",
+    "p": "chuàng xīn xìng",
+    "m": "có tính đổi mới",
+    "cat": "tính từ"
+  },
+  {
+    "w": "可行",
+    "p": "kě xíng",
+    "m": "khả thi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "不可逆",
+    "p": "bù kě nì",
+    "m": "không thể đảo ngược",
+    "cat": "tính từ"
+  },
+  {
+    "w": "相互",
+    "p": "xiāng hù",
+    "m": "lẫn nhau, tương hỗ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "逐渐",
+    "p": "zhú jiàn",
+    "m": "dần dần",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "迅速",
+    "p": "xùn sù",
+    "m": "nhanh chóng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "持续",
+    "p": "chí xù",
+    "m": "liên tục, bền bỉ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "显然",
+    "p": "xiǎn rán",
+    "m": "rõ ràng, hiển nhiên",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "基本上",
+    "p": "jī běn shàng",
+    "m": "về cơ bản",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "总体上",
+    "p": "zǒng tǐ shàng",
+    "m": "nhìn chung, tổng thể",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "相应",
+    "p": "xiāng yìng",
+    "m": "tương ứng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "充分",
+    "p": "chōng fèn",
+    "m": "đầy đủ, hoàn toàn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "有意识",
+    "p": "yǒu yì shí",
+    "m": "có ý thức",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "客观上",
+    "p": "kè guān shàng",
+    "m": "về mặt khách quan",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "主观上",
+    "p": "zhǔ guān shàng",
+    "m": "về mặt chủ quan",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "理论上",
+    "p": "lǐ lùn shàng",
+    "m": "về mặt lý thuyết",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "实际上",
+    "p": "shí jì shàng",
+    "m": "trên thực tế",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "从而",
+    "p": "cóng ér",
+    "m": "từ đó, nhờ đó",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "进而",
+    "p": "jìn ér",
+    "m": "tiếp đó, hơn nữa",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "尤其",
+    "p": "yóu qí",
+    "m": "đặc biệt là",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "分别",
+    "p": "fēn bié",
+    "m": "riêng biệt, lần lượt",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "政策",
+    "p": "zhèng cè",
+    "m": "chính sách",
+    "cat": "chính trị"
+  },
+  {
+    "w": "法规",
+    "p": "fǎ guī",
+    "m": "quy định pháp luật",
+    "cat": "chính trị"
+  },
+  {
+    "w": "监管",
+    "p": "jiān guǎn",
+    "m": "giám sát, quản lý",
+    "cat": "chính trị"
+  },
+  {
+    "w": "改革",
+    "p": "gǎi gé",
+    "m": "cải cách",
+    "cat": "chính trị"
+  },
+  {
+    "w": "政府",
+    "p": "zhèng fǔ",
+    "m": "chính phủ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "民主",
+    "p": "mín zhǔ",
+    "m": "dân chủ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "立法",
+    "p": "lì fǎ",
+    "m": "lập pháp",
+    "cat": "chính trị"
+  },
+  {
+    "w": "司法",
+    "p": "sī fǎ",
+    "m": "tư pháp",
+    "cat": "chính trị"
+  },
+  {
+    "w": "行政",
+    "p": "xíng zhèng",
+    "m": "hành chính",
+    "cat": "chính trị"
+  },
+  {
+    "w": "宪法",
+    "p": "xiàn fǎ",
+    "m": "hiến pháp",
+    "cat": "chính trị"
+  },
+  {
+    "w": "条约",
+    "p": "tiáo yuē",
+    "m": "hiệp ước",
+    "cat": "chính trị"
+  },
+  {
+    "w": "制裁",
+    "p": "zhì cái",
+    "m": "trừng phạt, chế tài",
+    "cat": "chính trị"
+  },
+  {
+    "w": "外交",
+    "p": "wài jiāo",
+    "m": "ngoại giao",
+    "cat": "chính trị"
+  },
+  {
+    "w": "峰会",
+    "p": "fēng huì",
+    "m": "hội nghị thượng đỉnh",
+    "cat": "chính trị"
+  },
+  {
+    "w": "协议",
+    "p": "xié yì",
+    "m": "thỏa thuận, hiệp nghị",
+    "cat": "chính trị"
+  },
+  {
+    "w": "社会",
+    "p": "shè huì",
+    "m": "xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "人口",
+    "p": "rén kǒu",
+    "m": "dân số",
+    "cat": "xã hội"
+  },
+  {
+    "w": "城市化",
+    "p": "chéng shì huà",
+    "m": "đô thị hóa",
+    "cat": "xã hội"
+  },
+  {
+    "w": "贫富差距",
+    "p": "pín fù chā jù",
+    "m": "khoảng cách giàu nghèo",
+    "cat": "xã hội"
+  },
+  {
+    "w": "福利",
+    "p": "fú lì",
+    "m": "phúc lợi",
+    "cat": "xã hội"
+  },
+  {
+    "w": "公平",
+    "p": "gōng píng",
+    "m": "công bằng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "歧视",
+    "p": "qí shì",
+    "m": "phân biệt đối xử",
+    "cat": "xã hội"
+  },
+  {
+    "w": "平等",
+    "p": "píng děng",
+    "m": "bình đẳng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "环境",
+    "p": "huán jìng",
+    "m": "môi trường",
+    "cat": "xã hội"
+  },
+  {
+    "w": "污染",
+    "p": "wū rǎn",
+    "m": "ô nhiễm",
+    "cat": "xã hội"
+  },
+  {
+    "w": "生态",
+    "p": "shēng tài",
+    "m": "sinh thái",
+    "cat": "xã hội"
+  },
+  {
+    "w": "气候变化",
+    "p": "qì hòu biàn huà",
+    "m": "biến đổi khí hậu",
+    "cat": "xã hội"
+  },
+  {
+    "w": "碳排放",
+    "p": "tàn pái fàng",
+    "m": "phát thải carbon",
+    "cat": "xã hội"
+  },
+  {
+    "w": "可再生能源",
+    "p": "kě zài shēng néng yuán",
+    "m": "năng lượng tái tạo",
+    "cat": "xã hội"
+  },
+  {
+    "w": "就业",
+    "p": "jiù yè",
+    "m": "việc làm, tuyển dụng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "失业率",
+    "p": "shī yè lǜ",
+    "m": "tỷ lệ thất nghiệp",
+    "cat": "xã hội"
+  },
+  {
+    "w": "移民",
+    "p": "yí mín",
+    "m": "di dân, nhập cư",
+    "cat": "xã hội"
+  },
+  {
+    "w": "难民",
+    "p": "nán mín",
+    "m": "người tị nạn",
+    "cat": "xã hội"
+  },
+  {
+    "w": "老龄化",
+    "p": "lǎo líng huà",
+    "m": "lão hóa",
+    "cat": "xã hội"
+  },
+  {
+    "w": "公民",
+    "p": "gōng mín",
+    "m": "công dân",
+    "cat": "xã hội"
+  },
+  {
+    "w": "权利",
+    "p": "quán lì",
+    "m": "quyền lợi, quyền hạn",
+    "cat": "xã hội"
+  },
+  {
+    "w": "义务",
+    "p": "yì wù",
+    "m": "nghĩa vụ",
+    "cat": "xã hội"
+  },
+  {
+    "w": "责任",
+    "p": "zé rèn",
+    "m": "trách nhiệm",
+    "cat": "xã hội"
+  },
+  {
+    "w": "道德",
+    "p": "dào dé",
+    "m": "đạo đức",
+    "cat": "xã hội"
+  },
+  {
+    "w": "诚信",
+    "p": "chéng xìn",
+    "m": "thành thật, tín nhiệm",
+    "cat": "xã hội"
+  },
+  {
+    "w": "公正",
+    "p": "gōng zhèng",
+    "m": "công bằng, chính trực",
+    "cat": "xã hội"
+  },
+  {
+    "w": "共识",
+    "p": "gòng shí",
+    "m": "đồng thuận",
+    "cat": "xã hội"
+  },
+  {
+    "w": "多元化",
+    "p": "duō yuán huà",
+    "m": "đa dạng hóa",
+    "cat": "xã hội"
+  },
+  {
+    "w": "包容",
+    "p": "bāo róng",
+    "m": "bao dung, chấp nhận",
+    "cat": "xã hội"
+  },
+  {
+    "w": "创业",
+    "p": "chuàng yè",
+    "m": "khởi nghiệp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "孵化器",
+    "p": "fū huà qì",
+    "m": "vườn ươm khởi nghiệp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "风险投资",
+    "p": "fēng xiǎn tóu zī",
+    "m": "đầu tư mạo hiểm (VC)",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "独角兽",
+    "p": "dú jiǎo shòu",
+    "m": "kỳ lân (startup trị giá tỷ đô)",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "估值",
+    "p": "gū zhí",
+    "m": "định giá",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "融资轮",
+    "p": "róng zī lún",
+    "m": "vòng gọi vốn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "商业模式",
+    "p": "shāng yè mó shì",
+    "m": "mô hình kinh doanh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "核心竞争力",
+    "p": "hé xīn jìng zhēng lì",
+    "m": "năng lực cạnh tranh cốt lõi",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "差异化",
+    "p": "chā yì huà",
+    "m": "khác biệt hóa",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "规模化",
+    "p": "guī mó huà",
+    "m": "mở rộng quy mô",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "市场份额",
+    "p": "shì chǎng fèn é",
+    "m": "thị phần",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "市场调研",
+    "p": "shì chǎng diào yán",
+    "m": "nghiên cứu thị trường",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "消费者",
+    "p": "xiāo fèi zhě",
+    "m": "người tiêu dùng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "供应商",
+    "p": "gōng yìng shāng",
+    "m": "nhà cung cấp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "零售",
+    "p": "líng shòu",
+    "m": "bán lẻ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "批发",
+    "p": "pī fā",
+    "m": "bán buôn, bán sỉ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "电商",
+    "p": "diàn shāng",
+    "m": "thương mại điện tử",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "物流",
+    "p": "wù liú",
+    "m": "logistics, vận chuyển",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "库存",
+    "p": "kù cún",
+    "m": "hàng tồn kho",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "质量管理",
+    "p": "zhì liàng guǎn lǐ",
+    "m": "quản lý chất lượng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "项目管理",
+    "p": "xiàng mù guǎn lǐ",
+    "m": "quản lý dự án",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "知识产权",
+    "p": "zhī shí chǎn quán",
+    "m": "sở hữu trí tuệ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "专利",
+    "p": "zhuān lì",
+    "m": "bằng sáng chế, patent",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "商标",
+    "p": "shāng biāo",
+    "m": "nhãn hiệu thương mại",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "版权",
+    "p": "bǎn quán",
+    "m": "bản quyền",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "产业",
+    "p": "chǎn yè",
+    "m": "ngành công nghiệp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "制造业",
+    "p": "zhì zào yè",
+    "m": "ngành chế tạo",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "服务业",
+    "p": "fú wù yè",
+    "m": "ngành dịch vụ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "能源",
+    "p": "néng yuán",
+    "m": "năng lượng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "资源",
+    "p": "zī yuán",
+    "m": "tài nguyên",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "数字经济",
+    "p": "shù zì jīng jì",
+    "m": "kinh tế số",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "平台经济",
+    "p": "píng tái jīng jì",
+    "m": "kinh tế nền tảng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "共享经济",
+    "p": "gòng xiǎng jīng jì",
+    "m": "kinh tế chia sẻ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "绿色经济",
+    "p": "lǜ sè jīng jì",
+    "m": "kinh tế xanh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "循环经济",
+    "p": "xún huán jīng jì",
+    "m": "kinh tế tuần hoàn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "全球化",
+    "p": "quán qiú huà",
+    "m": "toàn cầu hóa",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "贸易",
+    "p": "mào yì",
+    "m": "thương mại, buôn bán",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "出口",
+    "p": "chū kǒu",
+    "m": "xuất khẩu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "进口",
+    "p": "jìn kǒu",
+    "m": "nhập khẩu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "贸易逆差",
+    "p": "mào yì nì chā",
+    "m": "thâm hụt thương mại",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "贸易顺差",
+    "p": "mào yì shùn chā",
+    "m": "thặng dư thương mại",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "开放",
+    "p": "kāi fàng",
+    "m": "mở cửa, cởi mở",
+    "cat": "tính từ"
+  },
+  {
+    "w": "封闭",
+    "p": "fēng bì",
+    "m": "đóng cửa, khép kín",
+    "cat": "tính từ"
+  },
+  {
+    "w": "透明",
+    "p": "tòu míng",
+    "m": "minh bạch, trong suốt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "腐败",
+    "p": "fǔ bài",
+    "m": "tham nhũng, thối nát",
+    "cat": "xã hội"
+  },
+  {
+    "w": "廉洁",
+    "p": "lián jié",
+    "m": "liêm khiết",
+    "cat": "xã hội"
+  },
+  {
+    "w": "监督",
+    "p": "jiān dū",
+    "m": "giám sát, kiểm tra",
+    "cat": "hành động"
+  },
+  {
+    "w": "问责",
+    "p": "wèn zé",
+    "m": "quy trách nhiệm",
+    "cat": "hành động"
+  },
+  {
+    "w": "审计",
+    "p": "shěn jì",
+    "m": "kiểm toán",
+    "cat": "hành động"
+  },
+  {
+    "w": "合规",
+    "p": "hé guī",
+    "m": "tuân thủ quy định",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "风险",
+    "p": "fēng xiǎn",
+    "m": "rủi ro",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "管控",
+    "p": "guǎn kòng",
+    "m": "kiểm soát, quản lý",
+    "cat": "hành động"
+  },
+  {
+    "w": "权衡",
+    "p": "quán héng",
+    "m": "cân nhắc, so sánh",
+    "cat": "hành động"
+  },
+  {
+    "w": "博弈",
+    "p": "bó yì",
+    "m": "đấu tranh, trò chơi chiến lược",
+    "cat": "hành động"
+  },
+  {
+    "w": "竞标",
+    "p": "jìng biāo",
+    "m": "đấu thầu",
+    "cat": "hành động"
+  },
+  {
+    "w": "招标",
+    "p": "zhāo biāo",
+    "m": "mời thầu",
+    "cat": "hành động"
+  },
+  {
+    "w": "中标",
+    "p": "zhòng biāo",
+    "m": "trúng thầu",
+    "cat": "hành động"
+  },
+  {
+    "w": "垄断",
+    "p": "lǒng duàn",
+    "m": "độc quyền",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "反垄断",
+    "p": "fǎn lǒng duàn",
+    "m": "chống độc quyền",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "并购",
+    "p": "bìng gòu",
+    "m": "mua bán và sáp nhập (M&A)",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "分拆",
+    "p": "fēn chāi",
+    "m": "tách ra, phân tách",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "破产",
+    "p": "pò chǎn",
+    "m": "phá sản",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "重组",
+    "p": "chóng zǔ",
+    "m": "tái cơ cấu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "债务重组",
+    "p": "zhài wù chóng zǔ",
+    "m": "tái cơ cấu nợ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "不良资产",
+    "p": "bù liáng zī chǎn",
+    "m": "tài sản xấu",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "清算",
+    "p": "qīng suàn",
+    "m": "thanh lý, quyết toán",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "资本",
+    "p": "zī běn",
+    "m": "vốn, tư bản",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "流动性",
+    "p": "liú dòng xìng",
+    "m": "tính thanh khoản",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "偿债",
+    "p": "cháng zhài",
+    "m": "trả nợ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "财富",
+    "p": "cái fù",
+    "m": "tài sản, của cải",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "财务报表",
+    "p": "cái wù bào biǎo",
+    "m": "báo cáo tài chính",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "资产负债表",
+    "p": "zī chǎn fù zhài biǎo",
+    "m": "bảng cân đối kế toán",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "损益表",
+    "p": "sǔn yì biǎo",
+    "m": "báo cáo lợi nhuận và lỗ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "现金流",
+    "p": "xiàn jīn liú",
+    "m": "dòng tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "折旧",
+    "p": "zhé jiù",
+    "m": "khấu hao",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "摊销",
+    "p": "tān xiāo",
+    "m": "phân bổ chi phí",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "增值税",
+    "p": "zēng zhí shuì",
+    "m": "thuế giá trị gia tăng (VAT)",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "所得税",
+    "p": "suǒ dé shuì",
+    "m": "thuế thu nhập",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "印花税",
+    "p": "yìn huā shuì",
+    "m": "thuế tem",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "量化宽松",
+    "p": "liàng huà kuān sōng",
+    "m": "nới lỏng định lượng (QE)",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "货币政策",
+    "p": "huò bì zhèng cè",
+    "m": "chính sách tiền tệ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "财政政策",
+    "p": "cái zhèng zhèng cè",
+    "m": "chính sách tài khóa",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "中央银行",
+    "p": "zhōng yāng yín háng",
+    "m": "ngân hàng trung ương",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "通货",
+    "p": "tōng huò",
+    "m": "tiền tệ lưu thông",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "杠杆",
+    "p": "gàng gǎn",
+    "m": "đòn bẩy tài chính",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "衍生品",
+    "p": "yǎn shēng pǐn",
+    "m": "sản phẩm phái sinh",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "套利",
+    "p": "tào lì",
+    "m": "kinh doanh chênh lệch giá",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "对冲",
+    "p": "duì chōng",
+    "m": "phòng ngừa rủi ro (hedging)",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "做空",
+    "p": "zuò kōng",
+    "m": "bán khống",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "做多",
+    "p": "zuò duō",
+    "m": "mua vào kỳ vọng tăng giá",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "牛市",
+    "p": "niú shì",
+    "m": "thị trường bò (tăng giá)",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "熊市",
+    "p": "xióng shì",
+    "m": "thị trường gấu (giảm giá)",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "泡沫",
+    "p": "pào mò",
+    "m": "bong bóng (kinh tế)",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "崩盘",
+    "p": "bēng pán",
+    "m": "sụp đổ thị trường",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "反弹",
+    "p": "fǎn dàn",
+    "m": "phục hồi, bật lại",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "套现",
+    "p": "tào xiàn",
+    "m": "rút tiền mặt, hiện thực hóa lợi nhuận",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "锁定",
+    "p": "suǒ dìng",
+    "m": "khóa, cố định",
+    "cat": "hành động"
+  },
+  {
+    "w": "剥离",
+    "p": "bō lí",
+    "m": "tách tài sản, loại bỏ",
+    "cat": "hành động"
+  },
+  {
+    "w": "质押",
+    "p": "zhì yā",
+    "m": "thế chấp, cầm cố",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "担保",
+    "p": "dān bǎo",
+    "m": "bảo lãnh",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "信用评级",
+    "p": "xìn yòng píng jí",
+    "m": "đánh giá tín dụng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "信贷",
+    "p": "xìn dài",
+    "m": "tín dụng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "征信",
+    "p": "zhēng xìn",
+    "m": "kiểm tra tín dụng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "网贷",
+    "p": "wǎng dài",
+    "m": "vay trực tuyến, cho vay ngang hàng P2P",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "数字货币",
+    "p": "shù zì huò bì",
+    "m": "tiền kỹ thuật số",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "加密货币",
+    "p": "jiā mì huò bì",
+    "m": "tiền mã hóa (cryptocurrency)",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "挖矿",
+    "p": "wā kuàng",
+    "m": "đào coin",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "去中心化",
+    "p": "qù zhōng xīn huà",
+    "m": "phi tập trung hóa",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "智能合约",
+    "p": "zhì néng hé yuē",
+    "m": "hợp đồng thông minh",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "元宇宙",
+    "p": "yuán yǔ zhòu",
+    "m": "metaverse, vũ trụ ảo",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "数字孪生",
+    "p": "shù zì luán shēng",
+    "m": "bản sao số (digital twin)",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "物联网",
+    "p": "wù lián wǎng",
+    "m": "Internet vạn vật (IoT)",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "边缘计算",
+    "p": "biān yuán jì suàn",
+    "m": "điện toán biên",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "5G",
+    "p": "wǔ G",
+    "m": "mạng 5G",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "无人机",
+    "p": "wú rén jī",
+    "m": "máy bay không người lái, drone",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "自动驾驶",
+    "p": "zì dòng jià shǐ",
+    "m": "tự lái xe, lái xe tự động",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "新能源",
+    "p": "xīn néng yuán",
+    "m": "năng lượng mới",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "太阳能",
+    "p": "tài yáng néng",
+    "m": "năng lượng mặt trời",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "风能",
+    "p": "fēng néng",
+    "m": "năng lượng gió",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "核能",
+    "p": "hé néng",
+    "m": "năng lượng hạt nhân",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "生物科技",
+    "p": "shēng wù kē jì",
+    "m": "công nghệ sinh học",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "纳米技术",
+    "p": "nà mǐ jì shù",
+    "m": "công nghệ nano",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "量子计算",
+    "p": "liàng zǐ jì suàn",
+    "m": "máy tính lượng tử",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "网络安全",
+    "p": "wǎng luò ān quán",
+    "m": "an ninh mạng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "隐私保护",
+    "p": "yǐn sī bǎo hù",
+    "m": "bảo vệ quyền riêng tư",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "数据隐私",
+    "p": "shù jù yǐn sī",
+    "m": "quyền riêng tư dữ liệu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "黑客",
+    "p": "hēi kè",
+    "m": "hacker, tin tặc",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "网络攻击",
+    "p": "wǎng luò gōng jī",
+    "m": "tấn công mạng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "防火墙",
+    "p": "fáng huǒ qiáng",
+    "m": "tường lửa",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "备份",
+    "p": "bèi fèn",
+    "m": "sao lưu dữ liệu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "协作",
+    "p": "xié zuò",
+    "m": "hợp tác, cộng tác",
+    "cat": "hành động"
+  },
+  {
+    "w": "沟通",
+    "p": "gōu tōng",
+    "m": "giao tiếp, liên lạc",
+    "cat": "hành động"
+  },
+  {
+    "w": "汇报",
+    "p": "huì bào",
+    "m": "báo cáo",
+    "cat": "hành动"
+  },
+  {
+    "w": "表达",
+    "p": "biǎo dá",
+    "m": "biểu đạt, diễn đạt",
+    "cat": "hành động"
+  },
+  {
+    "w": "陈述",
+    "p": "chén shù",
+    "m": "trình bày, tuyên bố",
+    "cat": "hành động"
+  },
+  {
+    "w": "辩论",
+    "p": "biàn lùn",
+    "m": "tranh luận, tranh biện",
+    "cat": "hành động"
+  },
+  {
+    "w": "论证",
+    "p": "lùn zhèng",
+    "m": "lập luận, chứng minh",
+    "cat": "hành động"
+  },
+  {
+    "w": "批判",
+    "p": "pī pàn",
+    "m": "phê phán, chỉ trích",
+    "cat": "hành động"
+  },
+  {
+    "w": "质疑",
+    "p": "zhì yí",
+    "m": "đặt câu hỏi, nghi ngờ",
+    "cat": "hành động"
+  },
+  {
+    "w": "反驳",
+    "p": "fǎn bó",
+    "m": "phản bác",
+    "cat": "hành động"
+  },
+  {
+    "w": "接受",
+    "p": "jiē shòu",
+    "m": "chấp nhận, tiếp nhận",
+    "cat": "hành动"
+  },
+  {
+    "w": "拒绝",
+    "p": "jù jué",
+    "m": "từ chối",
+    "cat": "hành động"
+  },
+  {
+    "w": "妥协",
+    "p": "tuǒ xié",
+    "m": "thỏa hiệp",
+    "cat": "hành动"
+  },
+  {
+    "w": "坚持",
+    "p": "jiān chí",
+    "m": "kiên trì, bảo lưu",
+    "cat": "hành động"
+  },
+  {
+    "w": "放弃",
+    "p": "fàng qì",
+    "m": "từ bỏ",
+    "cat": "hành动"
+  },
+  {
+    "w": "克制",
+    "p": "kè zhì",
+    "m": "kiềm chế, tự kiềm chế",
+    "cat": "hành động"
+  },
+  {
+    "w": "激励",
+    "p": "jī lì",
+    "m": "khích lệ, động viên",
+    "cat": "hành động"
+  },
+  {
+    "w": "鼓励",
+    "p": "gǔ lì",
+    "m": "khuyến khích, cổ vũ",
+    "cat": "hành动"
+  },
+  {
+    "w": "培养",
+    "p": "péi yǎng",
+    "m": "nuôi dưỡng, đào tạo",
+    "cat": "hành động"
+  },
+  {
+    "w": "提升",
+    "p": "tí shēng",
+    "m": "nâng cao, cải thiện",
+    "cat": "hành动"
+  },
+  {
+    "w": "突破",
+    "p": "tū pò",
+    "m": "đột phá, bứt phá",
+    "cat": "hành động"
+  },
+  {
+    "w": "超越",
+    "p": "chāo yuè",
+    "m": "vượt qua, vượt trội",
+    "cat": "hành动"
+  },
+  {
+    "w": "实现",
+    "p": "shí xiàn",
+    "m": "thực hiện, hiện thực hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "达成",
+    "p": "dá chéng",
+    "m": "đạt được, đi đến",
+    "cat": "hành动"
+  },
+  {
+    "w": "完成",
+    "p": "wán chéng",
+    "m": "hoàn thành",
+    "cat": "hành动"
+  },
+  {
+    "w": "推进",
+    "p": "tuī jìn",
+    "m": "thúc đẩy, tiến hành",
+    "cat": "hành动"
+  },
+  {
+    "w": "拓展",
+    "p": "tuò zhǎn",
+    "m": "mở rộng, phát triển",
+    "cat": "hành動"
+  },
+  {
+    "w": "深化",
+    "p": "shēn huà",
+    "m": "đào sâu, nâng cao",
+    "cat": "hành động"
+  },
+  {
+    "w": "完善",
+    "p": "wán shàn",
+    "m": "hoàn thiện",
+    "cat": "hành动"
+  },
+  {
+    "w": "改进",
+    "p": "gǎi jìn",
+    "m": "cải tiến",
+    "cat": "hành动"
+  },
+  {
+    "w": "革新",
+    "p": "gé xīn",
+    "m": "đổi mới, cải cách",
+    "cat": "hành动"
+  },
+  {
+    "w": "颠覆",
+    "p": "diān fù",
+    "m": "lật đổ, phá vỡ",
+    "cat": "hành動"
+  },
+  {
+    "w": "重塑",
+    "p": "chóng sù",
+    "m": "định hình lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "转型",
+    "p": "zhuǎn xíng",
+    "m": "chuyển đổi",
+    "cat": "hành动"
+  },
+  {
+    "w": "升级",
+    "p": "shēng jí",
+    "m": "nâng cấp",
+    "cat": "hành động"
+  },
+  {
+    "w": "降级",
+    "p": "jiàng jí",
+    "m": "hạ cấp",
+    "cat": "hành动"
+  },
+  {
+    "w": "调整",
+    "p": "tiáo zhěng",
+    "m": "điều chỉnh",
+    "cat": "hành动"
+  },
+  {
+    "w": "把握",
+    "p": "bǎ wò",
+    "m": "nắm bắt, nắm chắc",
+    "cat": "hành động"
+  },
+  {
+    "w": "掌握",
+    "p": "zhǎng wò",
+    "m": "nắm vững",
+    "cat": "hành动"
+  },
+  {
+    "w": "运用",
+    "p": "yùn yòng",
+    "m": "vận dụng, áp dụng",
+    "cat": "hành动"
+  },
+  {
+    "w": "利用",
+    "p": "lì yòng",
+    "m": "sử dụng, tận dụng",
+    "cat": "hành动"
+  },
+  {
+    "w": "依托",
+    "p": "yī tuō",
+    "m": "dựa vào, nương tựa",
+    "cat": "hành động"
+  },
+  {
+    "w": "依据",
+    "p": "yī jù",
+    "m": "căn cứ vào",
+    "cat": "hành动"
+  },
+  {
+    "w": "依赖",
+    "p": "yī lài",
+    "m": "phụ thuộc, dựa dẫm",
+    "cat": "hành動"
+  },
+  {
+    "w": "独立",
+    "p": "dú lì",
+    "m": "độc lập",
+    "cat": "tính từ"
+  },
+  {
+    "w": "自主",
+    "p": "zì zhǔ",
+    "m": "tự chủ",
+    "cat": "tính从"
+  },
+  {
+    "w": "自律",
+    "p": "zì lǜ",
+    "m": "tự kỷ luật",
+    "cat": "tính từ"
+  },
+  {
+    "w": "纪律",
+    "p": "jì lǜ",
+    "m": "kỷ luật",
+    "cat": "học tập"
+  },
+  {
+    "w": "规律",
+    "p": "guī lǜ",
+    "m": "quy luật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "规范",
+    "p": "guī fàn",
+    "m": "tiêu chuẩn, chuẩn mực",
+    "cat": "học thuật"
+  },
+  {
+    "w": "标准",
+    "p": "biāo zhǔn",
+    "m": "tiêu chuẩn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "衡量",
+    "p": "héng liàng",
+    "m": "đo lường, đánh giá",
+    "cat": "hành động"
+  },
+  {
+    "w": "比较",
+    "p": "bǐ jiào",
+    "m": "so sánh",
+    "cat": "hành动"
+  },
+  {
+    "w": "对比",
+    "p": "duì bǐ",
+    "m": "đối chiếu, tương phản",
+    "cat": "hành动"
+  },
+  {
+    "w": "区分",
+    "p": "qū fēn",
+    "m": "phân biệt",
+    "cat": "hành動"
+  },
+  {
+    "w": "区别",
+    "p": "qū bié",
+    "m": "sự khác biệt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "差异",
+    "p": "chā yì",
+    "m": "sự khác biệt, chênh lệch",
+    "cat": "học thuật"
+  },
+  {
+    "w": "联系",
+    "p": "lián xì",
+    "m": "liên hệ, mối quan hệ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "关联",
+    "p": "guān lián",
+    "m": "tương quan, liên kết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "影响",
+    "p": "yǐng xiǎng",
+    "m": "ảnh hưởng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "因素",
+    "p": "yīn sù",
+    "m": "nhân tố",
+    "cat": "học thuật"
+  },
+  {
+    "w": "变量",
+    "p": "biàn liàng",
+    "m": "biến số",
+    "cat": "học thuật"
+  },
+  {
+    "w": "常量",
+    "p": "cháng liàng",
+    "m": "hằng số",
+    "cat": "học thuật"
+  },
+  {
+    "w": "参数",
+    "p": "cān shù",
+    "m": "thông số, tham số",
+    "cat": "học thuật"
+  },
+  {
+    "w": "结果",
+    "p": "jié guǒ",
+    "m": "kết quả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "结论",
+    "p": "jié lùn",
+    "m": "kết luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "依据",
+    "p": "yī jù",
+    "m": "căn cứ, cơ sở",
+    "cat": "học thuật"
+  },
+  {
+    "w": "前提",
+    "p": "qián tí",
+    "m": "tiền đề, điều kiện tiên quyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "条件",
+    "p": "tiáo jiàn",
+    "m": "điều kiện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "限制",
+    "p": "xiàn zhì",
+    "m": "hạn chế, giới hạn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "约束",
+    "p": "yuē shù",
+    "m": "ràng buộc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "框架",
+    "p": "kuàng jià",
+    "m": "khung, cấu trúc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "体系",
+    "p": "tǐ xì",
+    "m": "hệ thống, thể chế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "机制",
+    "p": "jī zhì",
+    "m": "cơ chế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "流程",
+    "p": "liú chéng",
+    "m": "quy trình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "周期",
+    "p": "zhōu qī",
+    "m": "chu kỳ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "阶段",
+    "p": "jiē duàn",
+    "m": "giai đoạn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "趋势",
+    "p": "qū shì",
+    "m": "xu hướng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "模式",
+    "p": "mú shì",
+    "m": "mô thức, mô hình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "规律性",
+    "p": "guī lǜ xìng",
+    "m": "tính quy luật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "可靠性",
+    "p": "kě kào xìng",
+    "m": "độ tin cậy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "准确性",
+    "p": "zhǔn què xìng",
+    "m": "độ chính xác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "有效性",
+    "p": "yǒu xiào xìng",
+    "m": "tính hiệu lực",
+    "cat": "học thuật"
+  },
+  {
+    "w": "科学性",
+    "p": "kē xué xìng",
+    "m": "tính khoa học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "合理性",
+    "p": "hé lǐ xìng",
+    "m": "tính hợp lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "必要性",
+    "p": "bì yào xìng",
+    "m": "tính cần thiết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "可能性",
+    "p": "kě néng xìng",
+    "m": "khả năng, tính khả thi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "局限性",
+    "p": "jú xiàn xìng",
+    "m": "tính hạn chế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "代表性",
+    "p": "dài biǎo xìng",
+    "m": "tính đại diện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "普遍性",
+    "p": "pǔ biàn xìng",
+    "m": "tính phổ biến",
+    "cat": "học thuật"
+  },
+  {
+    "w": "特殊性",
+    "p": "tè shū xìng",
+    "m": "tính đặc thù",
+    "cat": "học thuật"
+  },
+  {
+    "w": "复杂性",
+    "p": "fù zá xìng",
+    "m": "tính phức tạp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "多样性",
+    "p": "duō yàng xìng",
+    "m": "tính đa dạng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "独特性",
+    "p": "dú tè xìng",
+    "m": "tính độc đáo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "重要性",
+    "p": "zhòng yào xìng",
+    "m": "tầm quan trọng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "必然性",
+    "p": "bì rán xìng",
+    "m": "tính tất yếu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "偶然性",
+    "p": "ǒu rán xìng",
+    "m": "tính ngẫu nhiên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "相关性",
+    "p": "xiāng guān xìng",
+    "m": "tính tương quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "矛盾",
+    "p": "máo dùn",
+    "m": "mâu thuẫn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "统一",
+    "p": "tǒng yī",
+    "m": "thống nhất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "对立",
+    "p": "duì lì",
+    "m": "đối lập",
+    "cat": "học thuật"
+  },
+  {
+    "w": "辩证",
+    "p": "biàn zhèng",
+    "m": "biện chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "批评",
+    "p": "pī píng",
+    "m": "phê bình, chỉ trích",
+    "cat": "học thuật"
+  },
+  {
+    "w": "反思",
+    "p": "fǎn sī",
+    "m": "phản tư, suy ngẫm lại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "总结",
+    "p": "zǒng jié",
+    "m": "tổng kết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "展望",
+    "p": "zhǎn wàng",
+    "m": "triển vọng, nhìn về tương lai",
+    "cat": "học thuật"
+  },
+  {
+    "w": "预测",
+    "p": "yù cè",
+    "m": "dự đoán, dự báo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "预见",
+    "p": "yù jiàn",
+    "m": "tiên liệu, nhìn trước",
+    "cat": "học thuật"
+  },
+  {
+    "w": "评价",
+    "p": "píng jià",
+    "m": "đánh giá, nhận xét",
+    "cat": "học thuật"
+  },
+  {
+    "w": "审视",
+    "p": "shěn shì",
+    "m": "xem xét kỹ lưỡng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "视角",
+    "p": "shì jiǎo",
+    "m": "góc nhìn, quan điểm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "维度",
+    "p": "wéi dù",
+    "m": "chiều, góc độ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "层次",
+    "p": "céng cì",
+    "m": "tầng bậc, cấp độ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "深度",
+    "p": "shēn dù",
+    "m": "chiều sâu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "广度",
+    "p": "guǎng dù",
+    "m": "chiều rộng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "精度",
+    "p": "jīng dù",
+    "m": "độ chính xác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "速度",
+    "p": "sù dù",
+    "m": "tốc độ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "力度",
+    "p": "lì dù",
+    "m": "cường độ, mức độ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "幅度",
+    "p": "fú dù",
+    "m": "biên độ, mức độ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "程度",
+    "p": "chéng dù",
+    "m": "mức độ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "限度",
+    "p": "xiàn dù",
+    "m": "giới hạn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "额度",
+    "p": "é dù",
+    "m": "hạn mức, quota",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "比例",
+    "p": "bǐ lì",
+    "m": "tỷ lệ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "比率",
+    "p": "bǐ lǜ",
+    "m": "tỷ suất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "总量",
+    "p": "zǒng liàng",
+    "m": "tổng lượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "均值",
+    "p": "jūn zhí",
+    "m": "giá trị trung bình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "中位数",
+    "p": "zhōng wèi shù",
+    "m": "số trung vị",
+    "cat": "học thuật"
+  },
+  {
+    "w": "方差",
+    "p": "fāng chā",
+    "m": "phương sai",
+    "cat": "học thuật"
+  },
+  {
+    "w": "标准差",
+    "p": "biāo zhǔn chā",
+    "m": "độ lệch chuẩn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "相关系数",
+    "p": "xiāng guān xì shù",
+    "m": "hệ số tương quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "回归分析",
+    "p": "huí guī fēn xī",
+    "m": "phân tích hồi quy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "抽样",
+    "p": "chōu yàng",
+    "m": "lấy mẫu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "样本",
+    "p": "yàng běn",
+    "m": "mẫu, mẫu thí nghiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "总体",
+    "p": "zǒng tǐ",
+    "m": "tổng thể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "调查问卷",
+    "p": "diào chá wèn juàn",
+    "m": "bảng câu hỏi khảo sát",
+    "cat": "học thuật"
+  },
+  {
+    "w": "访谈",
+    "p": "fǎng tán",
+    "m": "phỏng vấn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "观察法",
+    "p": "guān chá fǎ",
+    "m": "phương pháp quan sát",
+    "cat": "học thuật"
+  },
+  {
+    "w": "案例分析",
+    "p": "àn lì fēn xī",
+    "m": "phân tích trường hợp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "田野调查",
+    "p": "tián yě diào chá",
+    "m": "khảo sát thực địa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "系统分析",
+    "p": "xì tǒng fēn xī",
+    "m": "phân tích hệ thống",
+    "cat": "học thuật"
+  },
+  {
+    "w": "批判性思维",
+    "p": "pī pàn xìng sī wéi",
+    "m": "tư duy phản biện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "创新思维",
+    "p": "chuàng xīn sī wéi",
+    "m": "tư duy sáng tạo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "系统思维",
+    "p": "xì tǒng sī wéi",
+    "m": "tư duy hệ thống",
+    "cat": "học thuật"
+  },
+  {
+    "w": "逻辑",
+    "p": "luó jí",
+    "m": "logic, lô-gic",
+    "cat": "học thuật"
+  },
+  {
+    "w": "推理",
+    "p": "tuī lǐ",
+    "m": "suy luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "判断",
+    "p": "pàn duàn",
+    "m": "phán đoán, kết luận",
+    "cat": "hành động"
+  },
+  {
+    "w": "决策",
+    "p": "jué cè",
+    "m": "ra quyết định",
+    "cat": "hành动"
+  },
+  {
+    "w": "优先",
+    "p": "yōu xiān",
+    "m": "ưu tiên",
+    "cat": "hành动"
+  },
+  {
+    "w": "权重",
+    "p": "quán zhòng",
+    "m": "trọng số",
+    "cat": "học thuật"
+  },
+  {
+    "w": "综合评价",
+    "p": "zōng hé píng jià",
+    "m": "đánh giá tổng hợp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "量化分析",
+    "p": "liàng huà fēn xī",
+    "m": "phân tích định lượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "定性分析",
+    "p": "dìng xìng fēn xī",
+    "m": "phân tích định tính",
+    "cat": "học thuật"
+  },
+  {
+    "w": "比较研究",
+    "p": "bǐ jiào yán jiū",
+    "m": "nghiên cứu so sánh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "跨学科",
+    "p": "kuà xué kē",
+    "m": "liên ngành",
+    "cat": "học thuật"
+  },
+  {
+    "w": "研究方法",
+    "p": "yán jiū fāng fǎ",
+    "m": "phương pháp nghiên cứu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "研究设计",
+    "p": "yán jiū shè jì",
+    "m": "thiết kế nghiên cứu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "研究结果",
+    "p": "yán jiū jié guǒ",
+    "m": "kết quả nghiên cứu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "讨论",
+    "p": "tǎo lùn",
+    "m": "thảo luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "深入探讨",
+    "p": "shēn rù tàn tǎo",
+    "m": "nghiên cứu sâu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "文化",
+    "p": "wén huà",
+    "m": "văn hóa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "传统",
+    "p": "chuán tǒng",
+    "m": "truyền thống",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "习俗",
+    "p": "xí sú",
+    "m": "phong tục tập quán",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "节庆",
+    "p": "jié qìng",
+    "m": "lễ hội",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "民族",
+    "p": "mín zú",
+    "m": "dân tộc",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "历史",
+    "p": "lì shǐ",
+    "m": "lịch sử",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "遗产",
+    "p": "yí chǎn",
+    "m": "di sản",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "保护",
+    "p": "bǎo hù",
+    "m": "bảo vệ",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "传承",
+    "p": "chuán chéng",
+    "m": "truyền thừa, kế thừa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "弘扬",
+    "p": "hóng yáng",
+    "m": "phát huy, tôn vinh",
+    "cat": "hành động"
+  },
+  {
+    "w": "融合",
+    "p": "róng hé",
+    "m": "hội nhập, dung hợp",
+    "cat": "hành动"
+  },
+  {
+    "w": "影响力",
+    "p": "yǐng xiǎng lì",
+    "m": "sức ảnh hưởng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "竞争力",
+    "p": "jìng zhēng lì",
+    "m": "sức cạnh tranh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "创造力",
+    "p": "chuàng zào lì",
+    "m": "sức sáng tạo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "领导力",
+    "p": "lǐng dǎo lì",
+    "m": "năng lực lãnh đạo",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "执行力",
+    "p": "zhí xíng lì",
+    "m": "năng lực thực thi",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "凝聚力",
+    "p": "níng jù lì",
+    "m": "sức đoàn kết, lực kết dính",
+    "cat": "xã hội"
+  },
+  {
+    "w": "向心力",
+    "p": "xiàng xīn lì",
+    "m": "lực tập trung, sức hút",
+    "cat": "xã hội"
+  },
+  {
+    "w": "推动力",
+    "p": "tuī dòng lì",
+    "m": "động lực thúc đẩy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "阻力",
+    "p": "zǔ lì",
+    "m": "sức cản trở, lực cản",
+    "cat": "học thuật"
+  },
+  {
+    "w": "驱动力",
+    "p": "qū dòng lì",
+    "m": "động lực",
+    "cat": "học thuật"
+  },
+  {
+    "w": "持久力",
+    "p": "chí jiǔ lì",
+    "m": "sức bền",
+    "cat": "thể thao"
+  },
+  {
+    "w": "爆发力",
+    "p": "bào fā lì",
+    "m": "sức bùng phát",
+    "cat": "thể thao"
+  },
+  {
+    "w": "协调性",
+    "p": "xié tiáo xìng",
+    "m": "tính phối hợp",
+    "cat": "thể thao"
+  },
+  {
+    "w": "灵敏性",
+    "p": "líng mǐn xìng",
+    "m": "tính nhạy bén",
+    "cat": "thể thao"
+  },
+  {
+    "w": "柔韧性",
+    "p": "róu rèn xìng",
+    "m": "tính linh hoạt, dẻo dai",
+    "cat": "thể thao"
+  },
+  {
+    "w": "耐力",
+    "p": "nài lì",
+    "m": "sức bền, sự chịu đựng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "体能",
+    "p": "tǐ néng",
+    "m": "thể lực",
+    "cat": "thể thao"
+  },
+  {
+    "w": "反应速度",
+    "p": "fǎn yìng sù dù",
+    "m": "tốc độ phản xạ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "训练强度",
+    "p": "xùn liàn qiáng dù",
+    "m": "cường độ luyện tập",
+    "cat": "thể thao"
+  },
+  {
+    "w": "比赛",
+    "p": "bǐ sài",
+    "m": "thi đấu",
+    "cat": "thể thao"
+  },
+  {
+    "w": "淘汰",
+    "p": "táo tài",
+    "m": "bị loại",
+    "cat": "thể thao"
+  },
+  {
+    "w": "积分",
+    "p": "jī fēn",
+    "m": "điểm tích lũy",
+    "cat": "thể thao"
+  },
+  {
+    "w": "排名",
+    "p": "pái míng",
+    "m": "xếp hạng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "联赛",
+    "p": "lián sài",
+    "m": "giải đấu liên tiếp",
+    "cat": "thể thao"
+  },
+  {
+    "w": "世界杯",
+    "p": "shì jiè bēi",
+    "m": "World Cup, Cúp thế giới",
+    "cat": "thể thao"
+  },
+  {
+    "w": "赞助",
+    "p": "zàn zhù",
+    "m": "tài trợ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "赛事",
+    "p": "sài shì",
+    "m": "sự kiện thi đấu",
+    "cat": "thể thao"
+  },
+  {
+    "w": "转播",
+    "p": "zhuǎn bō",
+    "m": "phát sóng, truyền hình",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "直播",
+    "p": "zhí bō",
+    "m": "phát trực tiếp",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "播客",
+    "p": "bō kè",
+    "m": "podcast",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "短视频",
+    "p": "duǎn shì pín",
+    "m": "video ngắn",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "内容创作",
+    "p": "nèi róng chuàng zuò",
+    "m": "tạo nội dung",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "算法推荐",
+    "p": "suàn fǎ tuī jiàn",
+    "m": "đề xuất theo thuật toán",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "信息茧房",
+    "p": "xìn xī jiǎn fáng",
+    "m": "buồng vang thông tin",
+    "cat": "xã hội"
+  },
+  {
+    "w": "舆论",
+    "p": "yú lùn",
+    "m": "dư luận",
+    "cat": "xã hội"
+  },
+  {
+    "w": "媒体",
+    "p": "méi tǐ",
+    "m": "truyền thông, phương tiện truyền thông",
+    "cat": "xã hội"
+  },
+  {
+    "w": "新闻",
+    "p": "xīn wén",
+    "m": "tin tức",
+    "cat": "xã hội"
+  },
+  {
+    "w": "报道",
+    "p": "bào dào",
+    "m": "đưa tin, phóng sự",
+    "cat": "hành动"
+  },
+  {
+    "w": "公众号",
+    "p": "gōng zhòng hào",
+    "m": "tài khoản công khai (WeChat)",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "自媒体",
+    "p": "zì méi tǐ",
+    "m": "mạng xã hội tự xuất bản",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "流量",
+    "p": "liú liàng",
+    "m": "lưu lượng truy cập",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "曝光率",
+    "p": "pù guāng lǜ",
+    "m": "tỷ lệ hiển thị",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "转化率",
+    "p": "zhuǎn huà lǜ",
+    "m": "tỷ lệ chuyển đổi",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "用户体验",
+    "p": "yòng hù tǐ yàn",
+    "m": "trải nghiệm người dùng (UX)",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "界面设计",
+    "p": "jiè miàn shè jì",
+    "m": "thiết kế giao diện (UI)",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "产品设计",
+    "p": "chǎn pǐn shè jì",
+    "m": "thiết kế sản phẩm",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "迭代",
+    "p": "dié dài",
+    "m": "lặp lại, cải tiến dần",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "敏捷开发",
+    "p": "mǐn jié kāi fā",
+    "m": "phát triển Agile",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "测试",
+    "p": "cè shì",
+    "m": "kiểm thử",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "部署",
+    "p": "bù shǔ",
+    "m": "triển khai, phân bổ",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "维护",
+    "p": "wéi hù",
+    "m": "bảo trì",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "故障",
+    "p": "gù zhàng",
+    "m": "sự cố, lỗi",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "修复",
+    "p": "xiū fù",
+    "m": "sửa chữa, khắc phục lỗi",
+    "cat": "hành động"
+  }
+]

@@ -1,0 +1,4202 @@
+[
+  {
+    "w": "宏观调控",
+    "p": "hóng guān tiáo kòng",
+    "m": "điều tiết vĩ mô",
+    "cat": "economics"
+  },
+  {
+    "w": "通货膨胀",
+    "p": "tōng huò péng zhàng",
+    "m": "lạm phát",
+    "cat": "economics"
+  },
+  {
+    "w": "通货紧缩",
+    "p": "tōng huò jǐn suō",
+    "m": "giảm phát",
+    "cat": "economics"
+  },
+  {
+    "w": "国内生产总值",
+    "p": "guó nèi shēng chǎn zǒng zhí",
+    "m": "tổng sản phẩm quốc nội (GDP)",
+    "cat": "economics"
+  },
+  {
+    "w": "供求关系",
+    "p": "gōng qiú guān xì",
+    "m": "quan hệ cung cầu",
+    "cat": "economics"
+  },
+  {
+    "w": "市场经济",
+    "p": "shì chǎng jīng jì",
+    "m": "kinh tế thị trường",
+    "cat": "economics"
+  },
+  {
+    "w": "财政政策",
+    "p": "cái zhèng zhèng cè",
+    "m": "chính sách tài khóa",
+    "cat": "economics"
+  },
+  {
+    "w": "货币政策",
+    "p": "huò bì zhèng cè",
+    "m": "chính sách tiền tệ",
+    "cat": "economics"
+  },
+  {
+    "w": "经济衰退",
+    "p": "jīng jì shuāi tuì",
+    "m": "suy thoái kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "经济复苏",
+    "p": "jīng jì fù sū",
+    "m": "phục hồi kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "产业结构",
+    "p": "chǎn yè jié gòu",
+    "m": "cơ cấu ngành",
+    "cat": "economics"
+  },
+  {
+    "w": "资本市场",
+    "p": "zī běn shì chǎng",
+    "m": "thị trường vốn",
+    "cat": "economics"
+  },
+  {
+    "w": "汇率",
+    "p": "huì lǜ",
+    "m": "tỷ giá hối đoái",
+    "cat": "economics"
+  },
+  {
+    "w": "关税",
+    "p": "guān shuì",
+    "m": "thuế quan",
+    "cat": "economics"
+  },
+  {
+    "w": "贸易顺差",
+    "p": "mào yì shùn chā",
+    "m": "thặng dư thương mại",
+    "cat": "economics"
+  },
+  {
+    "w": "贸易逆差",
+    "p": "mào yì nì chā",
+    "m": "thâm hụt thương mại",
+    "cat": "economics"
+  },
+  {
+    "w": "国民收入",
+    "p": "guó mín shōu rù",
+    "m": "thu nhập quốc dân",
+    "cat": "economics"
+  },
+  {
+    "w": "失业率",
+    "p": "shī yè lǜ",
+    "m": "tỷ lệ thất nghiệp",
+    "cat": "economics"
+  },
+  {
+    "w": "消费水平",
+    "p": "xiāo fèi shuǐ píng",
+    "m": "mức tiêu dùng",
+    "cat": "economics"
+  },
+  {
+    "w": "经济增长",
+    "p": "jīng jì zēng zhǎng",
+    "m": "tăng trưởng kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "垄断",
+    "p": "lǒng duàn",
+    "m": "độc quyền",
+    "cat": "economics"
+  },
+  {
+    "w": "竞争力",
+    "p": "jìng zhēng lì",
+    "m": "sức cạnh tranh",
+    "cat": "economics"
+  },
+  {
+    "w": "资源配置",
+    "p": "zī yuán pèi zhì",
+    "m": "phân bổ nguồn lực",
+    "cat": "economics"
+  },
+  {
+    "w": "边际效益",
+    "p": "biān jì xiào yì",
+    "m": "hiệu ích biên",
+    "cat": "economics"
+  },
+  {
+    "w": "通胀率",
+    "p": "tōng zhàng lǜ",
+    "m": "tỷ lệ lạm phát",
+    "cat": "economics"
+  },
+  {
+    "w": "财政赤字",
+    "p": "cái zhèng chì zì",
+    "m": "thâm hụt ngân sách",
+    "cat": "economics"
+  },
+  {
+    "w": "国债",
+    "p": "guó zhài",
+    "m": "trái phiếu chính phủ",
+    "cat": "economics"
+  },
+  {
+    "w": "股市",
+    "p": "gǔ shì",
+    "m": "thị trường chứng khoán",
+    "cat": "economics"
+  },
+  {
+    "w": "上市公司",
+    "p": "shàng shì gōng sī",
+    "m": "công ty niêm yết",
+    "cat": "economics"
+  },
+  {
+    "w": "投资回报率",
+    "p": "tóu zī huí bào lǜ",
+    "m": "tỷ suất hoàn vốn đầu tư",
+    "cat": "economics"
+  },
+  {
+    "w": "经济全球化",
+    "p": "jīng jì quán qiú huà",
+    "m": "toàn cầu hóa kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "自由贸易",
+    "p": "zì yóu mào yì",
+    "m": "thương mại tự do",
+    "cat": "economics"
+  },
+  {
+    "w": "经济特区",
+    "p": "jīng jì tè qū",
+    "m": "đặc khu kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "人均收入",
+    "p": "rén jūn shōu rù",
+    "m": "thu nhập bình quân đầu người",
+    "cat": "economics"
+  },
+  {
+    "w": "购买力",
+    "p": "gòu mǎi lì",
+    "m": "sức mua",
+    "cat": "economics"
+  },
+  {
+    "w": "资产负债",
+    "p": "zī chǎn fù zhài",
+    "m": "tài sản nợ",
+    "cat": "economics"
+  },
+  {
+    "w": "现金流",
+    "p": "xiàn jīn liú",
+    "m": "dòng tiền",
+    "cat": "economics"
+  },
+  {
+    "w": "储蓄率",
+    "p": "chǔ xù lǜ",
+    "m": "tỷ lệ tiết kiệm",
+    "cat": "economics"
+  },
+  {
+    "w": "信贷",
+    "p": "xìn dài",
+    "m": "tín dụng",
+    "cat": "economics"
+  },
+  {
+    "w": "房地产",
+    "p": "fáng dì chǎn",
+    "m": "bất động sản",
+    "cat": "economics"
+  },
+  {
+    "w": "经济体",
+    "p": "jīng jì tǐ",
+    "m": "nền kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "市场份额",
+    "p": "shì chǎng fèn é",
+    "m": "thị phần",
+    "cat": "economics"
+  },
+  {
+    "w": "成本效益",
+    "p": "chéng běn xiào yì",
+    "m": "chi phí - lợi ích",
+    "cat": "economics"
+  },
+  {
+    "w": "规模经济",
+    "p": "guī mó jīng jì",
+    "m": "kinh tế quy mô",
+    "cat": "economics"
+  },
+  {
+    "w": "经济杠杆",
+    "p": "jīng jì gàng gǎn",
+    "m": "đòn bẩy kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "民营企业",
+    "p": "mín yíng qǐ yè",
+    "m": "doanh nghiệp tư nhân",
+    "cat": "economics"
+  },
+  {
+    "w": "国有企业",
+    "p": "guó yǒu qǐ yè",
+    "m": "doanh nghiệp nhà nước",
+    "cat": "economics"
+  },
+  {
+    "w": "经济效益",
+    "p": "jīng jì xiào yì",
+    "m": "hiệu quả kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "财富分配",
+    "p": "cái fù fēn pèi",
+    "m": "phân phối của cải",
+    "cat": "economics"
+  },
+  {
+    "w": "经济泡沫",
+    "p": "jīng jì pào mò",
+    "m": "bong bóng kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "司法解释",
+    "p": "sī fǎ jiě shì",
+    "m": "giải thích tư pháp",
+    "cat": "law"
+  },
+  {
+    "w": "知识产权",
+    "p": "zhī shi chǎn quán",
+    "m": "quyền sở hữu trí tuệ",
+    "cat": "law"
+  },
+  {
+    "w": "宪法",
+    "p": "xiàn fǎ",
+    "m": "hiến pháp",
+    "cat": "law"
+  },
+  {
+    "w": "民法",
+    "p": "mín fǎ",
+    "m": "luật dân sự",
+    "cat": "law"
+  },
+  {
+    "w": "刑法",
+    "p": "xíng fǎ",
+    "m": "luật hình sự",
+    "cat": "law"
+  },
+  {
+    "w": "诉讼",
+    "p": "sù sòng",
+    "m": "tố tụng, kiện tụng",
+    "cat": "law"
+  },
+  {
+    "w": "起诉",
+    "p": "qǐ sù",
+    "m": "khởi tố",
+    "cat": "law"
+  },
+  {
+    "w": "辩护",
+    "p": "biàn hù",
+    "m": "bào chữa",
+    "cat": "law"
+  },
+  {
+    "w": "证据",
+    "p": "zhèng jù",
+    "m": "chứng cứ",
+    "cat": "law"
+  },
+  {
+    "w": "判决",
+    "p": "pàn jué",
+    "m": "phán quyết",
+    "cat": "law"
+  },
+  {
+    "w": "上诉",
+    "p": "shàng sù",
+    "m": "kháng cáo",
+    "cat": "law"
+  },
+  {
+    "w": "仲裁",
+    "p": "zhòng cái",
+    "m": "trọng tài",
+    "cat": "law"
+  },
+  {
+    "w": "法人",
+    "p": "fǎ rén",
+    "m": "pháp nhân",
+    "cat": "law"
+  },
+  {
+    "w": "合同法",
+    "p": "hé tóng fǎ",
+    "m": "luật hợp đồng",
+    "cat": "law"
+  },
+  {
+    "w": "侵权",
+    "p": "qīn quán",
+    "m": "xâm phạm quyền",
+    "cat": "law"
+  },
+  {
+    "w": "赔偿",
+    "p": "péi cháng",
+    "m": "bồi thường",
+    "cat": "law"
+  },
+  {
+    "w": "法律责任",
+    "p": "fǎ lǜ zé rèn",
+    "m": "trách nhiệm pháp lý",
+    "cat": "law"
+  },
+  {
+    "w": "司法独立",
+    "p": "sī fǎ dú lì",
+    "m": "độc lập tư pháp",
+    "cat": "law"
+  },
+  {
+    "w": "行政法",
+    "p": "xíng zhèng fǎ",
+    "m": "luật hành chính",
+    "cat": "law"
+  },
+  {
+    "w": "立法",
+    "p": "lì fǎ",
+    "m": "lập pháp",
+    "cat": "law"
+  },
+  {
+    "w": "执法",
+    "p": "zhí fǎ",
+    "m": "thực thi pháp luật",
+    "cat": "law"
+  },
+  {
+    "w": "违法",
+    "p": "wéi fǎ",
+    "m": "vi phạm pháp luật",
+    "cat": "law"
+  },
+  {
+    "w": "犯罪",
+    "p": "fàn zuì",
+    "m": "phạm tội",
+    "cat": "law"
+  },
+  {
+    "w": "量刑",
+    "p": "liàng xíng",
+    "m": "lượng hình",
+    "cat": "law"
+  },
+  {
+    "w": "法庭",
+    "p": "fǎ tíng",
+    "m": "tòa án",
+    "cat": "law"
+  },
+  {
+    "w": "审判",
+    "p": "shěn pàn",
+    "m": "xét xử",
+    "cat": "law"
+  },
+  {
+    "w": "陪审团",
+    "p": "péi shěn tuán",
+    "m": "bồi thẩm đoàn",
+    "cat": "law"
+  },
+  {
+    "w": "律师",
+    "p": "lǜ shī",
+    "m": "luật sư",
+    "cat": "law"
+  },
+  {
+    "w": "检察官",
+    "p": "jiǎn chá guān",
+    "m": "kiểm sát viên",
+    "cat": "law"
+  },
+  {
+    "w": "法官",
+    "p": "fǎ guān",
+    "m": "thẩm phán",
+    "cat": "law"
+  },
+  {
+    "w": "被告",
+    "p": "bèi gào",
+    "m": "bị cáo",
+    "cat": "law"
+  },
+  {
+    "w": "原告",
+    "p": "yuán gào",
+    "m": "nguyên cáo",
+    "cat": "law"
+  },
+  {
+    "w": "证人",
+    "p": "zhèng rén",
+    "m": "nhân chứng",
+    "cat": "law"
+  },
+  {
+    "w": "取证",
+    "p": "qǔ zhèng",
+    "m": "thu thập chứng cứ",
+    "cat": "law"
+  },
+  {
+    "w": "法规",
+    "p": "fǎ guī",
+    "m": "pháp quy",
+    "cat": "law"
+  },
+  {
+    "w": "条例",
+    "p": "tiáo lì",
+    "m": "điều lệ",
+    "cat": "law"
+  },
+  {
+    "w": "法治",
+    "p": "fǎ zhì",
+    "m": "pháp trị, nhà nước pháp quyền",
+    "cat": "law"
+  },
+  {
+    "w": "人权",
+    "p": "rén quán",
+    "m": "nhân quyền",
+    "cat": "law"
+  },
+  {
+    "w": "公民权利",
+    "p": "gōng mín quán lì",
+    "m": "quyền công dân",
+    "cat": "law"
+  },
+  {
+    "w": "隐私权",
+    "p": "yǐn sī quán",
+    "m": "quyền riêng tư",
+    "cat": "law"
+  },
+  {
+    "w": "著作权",
+    "p": "zhù zuò quán",
+    "m": "quyền tác giả",
+    "cat": "law"
+  },
+  {
+    "w": "专利",
+    "p": "zhuān lì",
+    "m": "bằng sáng chế",
+    "cat": "law"
+  },
+  {
+    "w": "商标",
+    "p": "shāng biāo",
+    "m": "nhãn hiệu",
+    "cat": "law"
+  },
+  {
+    "w": "反垄断法",
+    "p": "fǎn lǒng duàn fǎ",
+    "m": "luật chống độc quyền",
+    "cat": "law"
+  },
+  {
+    "w": "劳动法",
+    "p": "láo dòng fǎ",
+    "m": "luật lao động",
+    "cat": "law"
+  },
+  {
+    "w": "婚姻法",
+    "p": "hūn yīn fǎ",
+    "m": "luật hôn nhân",
+    "cat": "law"
+  },
+  {
+    "w": "继承权",
+    "p": "jì chéng quán",
+    "m": "quyền thừa kế",
+    "cat": "law"
+  },
+  {
+    "w": "担保",
+    "p": "dān bǎo",
+    "m": "bảo lãnh, đảm bảo",
+    "cat": "law"
+  },
+  {
+    "w": "时效",
+    "p": "shí xiào",
+    "m": "thời hiệu",
+    "cat": "law"
+  },
+  {
+    "w": "法律援助",
+    "p": "fǎ lǜ yuán zhù",
+    "m": "trợ giúp pháp lý",
+    "cat": "law"
+  },
+  {
+    "w": "临床试验",
+    "p": "lín chuáng shì yàn",
+    "m": "thử nghiệm lâm sàng",
+    "cat": "medicine"
+  },
+  {
+    "w": "免疫系统",
+    "p": "miǎn yì xì tǒng",
+    "m": "hệ miễn dịch",
+    "cat": "medicine"
+  },
+  {
+    "w": "病理",
+    "p": "bìng lǐ",
+    "m": "bệnh lý",
+    "cat": "medicine"
+  },
+  {
+    "w": "诊断",
+    "p": "zhěn duàn",
+    "m": "chẩn đoán",
+    "cat": "medicine"
+  },
+  {
+    "w": "疗法",
+    "p": "liáo fǎ",
+    "m": "liệu pháp",
+    "cat": "medicine"
+  },
+  {
+    "w": "抗生素",
+    "p": "kàng shēng sù",
+    "m": "kháng sinh",
+    "cat": "medicine"
+  },
+  {
+    "w": "疫苗",
+    "p": "yì miáo",
+    "m": "vắc-xin",
+    "cat": "medicine"
+  },
+  {
+    "w": "病毒",
+    "p": "bìng dú",
+    "m": "virus",
+    "cat": "medicine"
+  },
+  {
+    "w": "细菌",
+    "p": "xì jūn",
+    "m": "vi khuẩn",
+    "cat": "medicine"
+  },
+  {
+    "w": "传染病",
+    "p": "chuán rǎn bìng",
+    "m": "bệnh truyền nhiễm",
+    "cat": "medicine"
+  },
+  {
+    "w": "慢性病",
+    "p": "màn xìng bìng",
+    "m": "bệnh mãn tính",
+    "cat": "medicine"
+  },
+  {
+    "w": "综合征",
+    "p": "zōng hé zhēng",
+    "m": "hội chứng",
+    "cat": "medicine"
+  },
+  {
+    "w": "并发症",
+    "p": "bìng fā zhèng",
+    "m": "biến chứng",
+    "cat": "medicine"
+  },
+  {
+    "w": "手术",
+    "p": "shǒu shù",
+    "m": "phẫu thuật",
+    "cat": "medicine"
+  },
+  {
+    "w": "麻醉",
+    "p": "má zuì",
+    "m": "gây mê",
+    "cat": "medicine"
+  },
+  {
+    "w": "康复",
+    "p": "kāng fù",
+    "m": "phục hồi chức năng",
+    "cat": "medicine"
+  },
+  {
+    "w": "处方",
+    "p": "chǔ fāng",
+    "m": "đơn thuốc",
+    "cat": "medicine"
+  },
+  {
+    "w": "副作用",
+    "p": "fù zuò yòng",
+    "m": "tác dụng phụ",
+    "cat": "medicine"
+  },
+  {
+    "w": "剂量",
+    "p": "jì liàng",
+    "m": "liều lượng",
+    "cat": "medicine"
+  },
+  {
+    "w": "化疗",
+    "p": "huà liáo",
+    "m": "hóa trị",
+    "cat": "medicine"
+  },
+  {
+    "w": "放疗",
+    "p": "fàng liáo",
+    "m": "xạ trị",
+    "cat": "medicine"
+  },
+  {
+    "w": "肿瘤",
+    "p": "zhǒng liú",
+    "m": "khối u",
+    "cat": "medicine"
+  },
+  {
+    "w": "恶性肿瘤",
+    "p": "è xìng zhǒng liú",
+    "m": "u ác tính",
+    "cat": "medicine"
+  },
+  {
+    "w": "良性",
+    "p": "liáng xìng",
+    "m": "lành tính",
+    "cat": "medicine"
+  },
+  {
+    "w": "基因",
+    "p": "jī yīn",
+    "m": "gen",
+    "cat": "medicine"
+  },
+  {
+    "w": "遗传",
+    "p": "yí chuán",
+    "m": "di truyền",
+    "cat": "medicine"
+  },
+  {
+    "w": "新陈代谢",
+    "p": "xīn chén dài xiè",
+    "m": "trao đổi chất",
+    "cat": "medicine"
+  },
+  {
+    "w": "血压",
+    "p": "xuè yā",
+    "m": "huyết áp",
+    "cat": "medicine"
+  },
+  {
+    "w": "血糖",
+    "p": "xuè táng",
+    "m": "đường huyết",
+    "cat": "medicine"
+  },
+  {
+    "w": "胆固醇",
+    "p": "dǎn gù chún",
+    "m": "cholesterol",
+    "cat": "medicine"
+  },
+  {
+    "w": "心血管",
+    "p": "xīn xuè guǎn",
+    "m": "tim mạch",
+    "cat": "medicine"
+  },
+  {
+    "w": "神经系统",
+    "p": "shén jīng xì tǒng",
+    "m": "hệ thần kinh",
+    "cat": "medicine"
+  },
+  {
+    "w": "内分泌",
+    "p": "nèi fēn mì",
+    "m": "nội tiết",
+    "cat": "medicine"
+  },
+  {
+    "w": "呼吸道",
+    "p": "hū xī dào",
+    "m": "đường hô hấp",
+    "cat": "medicine"
+  },
+  {
+    "w": "消化系统",
+    "p": "xiāo huà xì tǒng",
+    "m": "hệ tiêu hóa",
+    "cat": "medicine"
+  },
+  {
+    "w": "流行病学",
+    "p": "liú xíng bìng xué",
+    "m": "dịch tễ học",
+    "cat": "medicine"
+  },
+  {
+    "w": "急救",
+    "p": "jí jiù",
+    "m": "cấp cứu",
+    "cat": "medicine"
+  },
+  {
+    "w": "临床",
+    "p": "lín chuáng",
+    "m": "lâm sàng",
+    "cat": "medicine"
+  },
+  {
+    "w": "病例",
+    "p": "bìng lì",
+    "m": "ca bệnh",
+    "cat": "medicine"
+  },
+  {
+    "w": "病灶",
+    "p": "bìng zào",
+    "m": "ổ bệnh",
+    "cat": "medicine"
+  },
+  {
+    "w": "抗体",
+    "p": "kàng tǐ",
+    "m": "kháng thể",
+    "cat": "medicine"
+  },
+  {
+    "w": "病原体",
+    "p": "bìng yuán tǐ",
+    "m": "tác nhân gây bệnh",
+    "cat": "medicine"
+  },
+  {
+    "w": "预后",
+    "p": "yù hòu",
+    "m": "tiên lượng",
+    "cat": "medicine"
+  },
+  {
+    "w": "体征",
+    "p": "tǐ zhēng",
+    "m": "dấu hiệu sinh tồn",
+    "cat": "medicine"
+  },
+  {
+    "w": "输血",
+    "p": "shū xuè",
+    "m": "truyền máu",
+    "cat": "medicine"
+  },
+  {
+    "w": "器官移植",
+    "p": "qì guān yí zhí",
+    "m": "ghép tạng",
+    "cat": "medicine"
+  },
+  {
+    "w": "干细胞",
+    "p": "gàn xì bāo",
+    "m": "tế bào gốc",
+    "cat": "medicine"
+  },
+  {
+    "w": "临床医学",
+    "p": "lín chuáng yī xué",
+    "m": "y học lâm sàng",
+    "cat": "medicine"
+  },
+  {
+    "w": "公共卫生",
+    "p": "gōng gòng wèi shēng",
+    "m": "y tế công cộng",
+    "cat": "medicine"
+  },
+  {
+    "w": "流行病",
+    "p": "liú xíng bìng",
+    "m": "dịch bệnh",
+    "cat": "medicine"
+  },
+  {
+    "w": "量子力学",
+    "p": "liàng zǐ lì xué",
+    "m": "cơ học lượng tử",
+    "cat": "science"
+  },
+  {
+    "w": "相对论",
+    "p": "xiàng duì lùn",
+    "m": "thuyết tương đối",
+    "cat": "science"
+  },
+  {
+    "w": "万有引力",
+    "p": "wàn yǒu yǐn lì",
+    "m": "vạn vật hấp dẫn",
+    "cat": "science"
+  },
+  {
+    "w": "电磁场",
+    "p": "diàn cí chǎng",
+    "m": "trường điện từ",
+    "cat": "science"
+  },
+  {
+    "w": "热力学",
+    "p": "rè lì xué",
+    "m": "nhiệt động lực học",
+    "cat": "science"
+  },
+  {
+    "w": "分子",
+    "p": "fēn zǐ",
+    "m": "phân tử",
+    "cat": "science"
+  },
+  {
+    "w": "原子",
+    "p": "yuán zǐ",
+    "m": "nguyên tử",
+    "cat": "science"
+  },
+  {
+    "w": "离子",
+    "p": "lí zǐ",
+    "m": "ion",
+    "cat": "science"
+  },
+  {
+    "w": "化合物",
+    "p": "huà hé wù",
+    "m": "hợp chất",
+    "cat": "science"
+  },
+  {
+    "w": "催化剂",
+    "p": "cuī huà jì",
+    "m": "chất xúc tác",
+    "cat": "science"
+  },
+  {
+    "w": "化学反应",
+    "p": "huà xué fǎn yìng",
+    "m": "phản ứng hóa học",
+    "cat": "science"
+  },
+  {
+    "w": "元素周期表",
+    "p": "yuán sù zhōu qī biǎo",
+    "m": "bảng tuần hoàn nguyên tố",
+    "cat": "science"
+  },
+  {
+    "w": "光合作用",
+    "p": "guāng hé zuò yòng",
+    "m": "quang hợp",
+    "cat": "science"
+  },
+  {
+    "w": "细胞分裂",
+    "p": "xì bāo fēn liè",
+    "m": "phân chia tế bào",
+    "cat": "science"
+  },
+  {
+    "w": "染色体",
+    "p": "rǎn sè tǐ",
+    "m": "nhiễm sắc thể",
+    "cat": "science"
+  },
+  {
+    "w": "进化论",
+    "p": "jìn huà lùn",
+    "m": "thuyết tiến hóa",
+    "cat": "science"
+  },
+  {
+    "w": "生态系统",
+    "p": "shēng tài xì tǒng",
+    "m": "hệ sinh thái",
+    "cat": "science"
+  },
+  {
+    "w": "食物链",
+    "p": "shí wù liàn",
+    "m": "chuỗi thức ăn",
+    "cat": "science"
+  },
+  {
+    "w": "微生物",
+    "p": "wēi shēng wù",
+    "m": "vi sinh vật",
+    "cat": "science"
+  },
+  {
+    "w": "天体物理",
+    "p": "tiān tǐ wù lǐ",
+    "m": "vật lý thiên thể",
+    "cat": "science"
+  },
+  {
+    "w": "宇宙",
+    "p": "yǔ zhòu",
+    "m": "vũ trụ",
+    "cat": "science"
+  },
+  {
+    "w": "银河系",
+    "p": "yín hé xì",
+    "m": "dải ngân hà",
+    "cat": "science"
+  },
+  {
+    "w": "黑洞",
+    "p": "hēi dòng",
+    "m": "hố đen",
+    "cat": "science"
+  },
+  {
+    "w": "引力波",
+    "p": "yǐn lì bō",
+    "m": "sóng hấp dẫn",
+    "cat": "science"
+  },
+  {
+    "w": "粒子",
+    "p": "lì zǐ",
+    "m": "hạt",
+    "cat": "science"
+  },
+  {
+    "w": "核反应",
+    "p": "hé fǎn yìng",
+    "m": "phản ứng hạt nhân",
+    "cat": "science"
+  },
+  {
+    "w": "放射性",
+    "p": "fàng shè xìng",
+    "m": "phóng xạ",
+    "cat": "science"
+  },
+  {
+    "w": "同位素",
+    "p": "tóng wèi sù",
+    "m": "đồng vị",
+    "cat": "science"
+  },
+  {
+    "w": "波长",
+    "p": "bō cháng",
+    "m": "bước sóng",
+    "cat": "science"
+  },
+  {
+    "w": "频率",
+    "p": "pín lǜ",
+    "m": "tần số",
+    "cat": "science"
+  },
+  {
+    "w": "能量守恒",
+    "p": "néng liàng shǒu héng",
+    "m": "bảo toàn năng lượng",
+    "cat": "science"
+  },
+  {
+    "w": "重力加速度",
+    "p": "zhòng lì jiā sù dù",
+    "m": "gia tốc trọng trường",
+    "cat": "science"
+  },
+  {
+    "w": "摩擦力",
+    "p": "mó cā lì",
+    "m": "lực ma sát",
+    "cat": "science"
+  },
+  {
+    "w": "惯性",
+    "p": "guàn xìng",
+    "m": "quán tính",
+    "cat": "science"
+  },
+  {
+    "w": "浮力",
+    "p": "fú lì",
+    "m": "lực đẩy",
+    "cat": "science"
+  },
+  {
+    "w": "密度",
+    "p": "mì dù",
+    "m": "mật độ",
+    "cat": "science"
+  },
+  {
+    "w": "溶解度",
+    "p": "róng jiě dù",
+    "m": "độ tan",
+    "cat": "science"
+  },
+  {
+    "w": "酸碱度",
+    "p": "suān jiǎn dù",
+    "m": "độ pH",
+    "cat": "science"
+  },
+  {
+    "w": "氧化",
+    "p": "yǎng huà",
+    "m": "oxy hóa",
+    "cat": "science"
+  },
+  {
+    "w": "还原反应",
+    "p": "huán yuán fǎn yìng",
+    "m": "phản ứng khử",
+    "cat": "science"
+  },
+  {
+    "w": "分子结构",
+    "p": "fēn zǐ jié gòu",
+    "m": "cấu trúc phân tử",
+    "cat": "science"
+  },
+  {
+    "w": "蛋白质",
+    "p": "dàn bái zhì",
+    "m": "protein",
+    "cat": "science"
+  },
+  {
+    "w": "脱氧核糖核酸",
+    "p": "tuō yǎng hé táng hé suān",
+    "m": "ADN",
+    "cat": "science"
+  },
+  {
+    "w": "酶",
+    "p": "méi",
+    "m": "enzyme",
+    "cat": "science"
+  },
+  {
+    "w": "生物多样性",
+    "p": "shēng wù duō yàng xìng",
+    "m": "đa dạng sinh học",
+    "cat": "science"
+  },
+  {
+    "w": "气候模型",
+    "p": "qì hòu mó xíng",
+    "m": "mô hình khí hậu",
+    "cat": "science"
+  },
+  {
+    "w": "地质构造",
+    "p": "dì zhì gòu zào",
+    "m": "kiến tạo địa chất",
+    "cat": "science"
+  },
+  {
+    "w": "板块运动",
+    "p": "bǎn kuài yùn dòng",
+    "m": "chuyển động mảng kiến tạo",
+    "cat": "science"
+  },
+  {
+    "w": "化石",
+    "p": "huà shí",
+    "m": "hóa thạch",
+    "cat": "science"
+  },
+  {
+    "w": "科学方法",
+    "p": "kē xué fāng fǎ",
+    "m": "phương pháp khoa học",
+    "cat": "science"
+  },
+  {
+    "w": "人工智能",
+    "p": "rén gōng zhì néng",
+    "m": "trí tuệ nhân tạo",
+    "cat": "tech"
+  },
+  {
+    "w": "机器学习",
+    "p": "jī qì xué xí",
+    "m": "học máy",
+    "cat": "tech"
+  },
+  {
+    "w": "深度学习",
+    "p": "shēn dù xué xí",
+    "m": "học sâu",
+    "cat": "tech"
+  },
+  {
+    "w": "神经网络",
+    "p": "shén jīng wǎng luò",
+    "m": "mạng nơ-ron",
+    "cat": "tech"
+  },
+  {
+    "w": "大数据",
+    "p": "dà shù jù",
+    "m": "dữ liệu lớn",
+    "cat": "tech"
+  },
+  {
+    "w": "云计算",
+    "p": "yún jì suàn",
+    "m": "điện toán đám mây",
+    "cat": "tech"
+  },
+  {
+    "w": "物联网",
+    "p": "wù lián wǎng",
+    "m": "internet vạn vật",
+    "cat": "tech"
+  },
+  {
+    "w": "区块链",
+    "p": "qū kuài liàn",
+    "m": "chuỗi khối",
+    "cat": "tech"
+  },
+  {
+    "w": "算法",
+    "p": "suàn fǎ",
+    "m": "thuật toán",
+    "cat": "tech"
+  },
+  {
+    "w": "数据库",
+    "p": "shù jù kù",
+    "m": "cơ sở dữ liệu",
+    "cat": "tech"
+  },
+  {
+    "w": "操作系统",
+    "p": "cāo zuò xì tǒng",
+    "m": "hệ điều hành",
+    "cat": "tech"
+  },
+  {
+    "w": "编程语言",
+    "p": "biān chéng yǔ yán",
+    "m": "ngôn ngữ lập trình",
+    "cat": "tech"
+  },
+  {
+    "w": "源代码",
+    "p": "yuán dài mǎ",
+    "m": "mã nguồn",
+    "cat": "tech"
+  },
+  {
+    "w": "加密",
+    "p": "jiā mì",
+    "m": "mã hóa",
+    "cat": "tech"
+  },
+  {
+    "w": "网络安全",
+    "p": "wǎng luò ān quán",
+    "m": "an ninh mạng",
+    "cat": "tech"
+  },
+  {
+    "w": "黑客",
+    "p": "hēi kè",
+    "m": "hacker",
+    "cat": "tech"
+  },
+  {
+    "w": "病毒软件",
+    "p": "bìng dú ruǎn jiàn",
+    "m": "phần mềm độc hại",
+    "cat": "tech"
+  },
+  {
+    "w": "服务器",
+    "p": "fú wù qì",
+    "m": "máy chủ",
+    "cat": "tech"
+  },
+  {
+    "w": "带宽",
+    "p": "dài kuān",
+    "m": "băng thông",
+    "cat": "tech"
+  },
+  {
+    "w": "芯片",
+    "p": "xīn piàn",
+    "m": "chip",
+    "cat": "tech"
+  },
+  {
+    "w": "处理器",
+    "p": "chǔ lǐ qì",
+    "m": "bộ xử lý",
+    "cat": "tech"
+  },
+  {
+    "w": "半导体",
+    "p": "bàn dǎo tǐ",
+    "m": "chất bán dẫn",
+    "cat": "tech"
+  },
+  {
+    "w": "集成电路",
+    "p": "jí chéng diàn lù",
+    "m": "mạch tích hợp",
+    "cat": "tech"
+  },
+  {
+    "w": "虚拟现实",
+    "p": "xū nǐ xiàn shí",
+    "m": "thực tế ảo",
+    "cat": "tech"
+  },
+  {
+    "w": "增强现实",
+    "p": "zēng qiáng xiàn shí",
+    "m": "thực tế tăng cường",
+    "cat": "tech"
+  },
+  {
+    "w": "自动驾驶",
+    "p": "zì dòng jià shǐ",
+    "m": "lái xe tự động",
+    "cat": "tech"
+  },
+  {
+    "w": "机器人",
+    "p": "jī qì rén",
+    "m": "robot",
+    "cat": "tech"
+  },
+  {
+    "w": "无人机",
+    "p": "wú rén jī",
+    "m": "máy bay không người lái",
+    "cat": "tech"
+  },
+  {
+    "w": "智能手机",
+    "p": "zhì néng shǒu jī",
+    "m": "điện thoại thông minh",
+    "cat": "tech"
+  },
+  {
+    "w": "接口",
+    "p": "jiē kǒu",
+    "m": "giao diện, cổng kết nối",
+    "cat": "tech"
+  },
+  {
+    "w": "协议",
+    "p": "xié yì",
+    "m": "giao thức",
+    "cat": "tech"
+  },
+  {
+    "w": "数据挖掘",
+    "p": "shù jù wā jué",
+    "m": "khai phá dữ liệu",
+    "cat": "tech"
+  },
+  {
+    "w": "量子计算",
+    "p": "liàng zǐ jì suàn",
+    "m": "điện toán lượng tử",
+    "cat": "tech"
+  },
+  {
+    "w": "生物识别",
+    "p": "shēng wù shí bié",
+    "m": "sinh trắc học",
+    "cat": "tech"
+  },
+  {
+    "w": "人脸识别",
+    "p": "rén liǎn shí bié",
+    "m": "nhận diện khuôn mặt",
+    "cat": "tech"
+  },
+  {
+    "w": "语音识别",
+    "p": "yǔ yīn shí bié",
+    "m": "nhận diện giọng nói",
+    "cat": "tech"
+  },
+  {
+    "w": "自然语言处理",
+    "p": "zì rán yǔ yán chǔ lǐ",
+    "m": "xử lý ngôn ngữ tự nhiên",
+    "cat": "tech"
+  },
+  {
+    "w": "软件开发",
+    "p": "ruǎn jiàn kāi fā",
+    "m": "phát triển phần mềm",
+    "cat": "tech"
+  },
+  {
+    "w": "硬件",
+    "p": "yìng jiàn",
+    "m": "phần cứng",
+    "cat": "tech"
+  },
+  {
+    "w": "数据中心",
+    "p": "shù jù zhōng xīn",
+    "m": "trung tâm dữ liệu",
+    "cat": "tech"
+  },
+  {
+    "w": "信息技术",
+    "p": "xìn xī jì shù",
+    "m": "công nghệ thông tin",
+    "cat": "tech"
+  },
+  {
+    "w": "智能制造",
+    "p": "zhì néng zhì zào",
+    "m": "sản xuất thông minh",
+    "cat": "tech"
+  },
+  {
+    "w": "三维打印",
+    "p": "sān wéi dǎ yìn",
+    "m": "in 3D",
+    "cat": "tech"
+  },
+  {
+    "w": "纳米技术",
+    "p": "nà mǐ jì shù",
+    "m": "công nghệ nano",
+    "cat": "tech"
+  },
+  {
+    "w": "生物技术",
+    "p": "shēng wù jì shù",
+    "m": "công nghệ sinh học",
+    "cat": "tech"
+  },
+  {
+    "w": "基因工程",
+    "p": "jī yīn gōng chéng",
+    "m": "kỹ thuật di truyền",
+    "cat": "tech"
+  },
+  {
+    "w": "可再生能源",
+    "p": "kě zài shēng néng yuán",
+    "m": "năng lượng tái tạo",
+    "cat": "tech"
+  },
+  {
+    "w": "数字化",
+    "p": "shù zì huà",
+    "m": "số hóa",
+    "cat": "tech"
+  },
+  {
+    "w": "自动化",
+    "p": "zì dòng huà",
+    "m": "tự động hóa",
+    "cat": "tech"
+  },
+  {
+    "w": "信息安全",
+    "p": "xìn xī ān quán",
+    "m": "an toàn thông tin",
+    "cat": "tech"
+  },
+  {
+    "w": "素质教育",
+    "p": "sù zhì jiào yù",
+    "m": "giáo dục toàn diện",
+    "cat": "education"
+  },
+  {
+    "w": "应试教育",
+    "p": "yìng shì jiào yù",
+    "m": "giáo dục ứng thí",
+    "cat": "education"
+  },
+  {
+    "w": "义务教育",
+    "p": "yì wù jiào yù",
+    "m": "giáo dục bắt buộc",
+    "cat": "education"
+  },
+  {
+    "w": "高等教育",
+    "p": "gāo děng jiào yù",
+    "m": "giáo dục đại học",
+    "cat": "education"
+  },
+  {
+    "w": "终身学习",
+    "p": "zhōng shēn xué xí",
+    "m": "học tập suốt đời",
+    "cat": "education"
+  },
+  {
+    "w": "因材施教",
+    "p": "yīn cái shī jiào",
+    "m": "dạy theo năng lực",
+    "cat": "education"
+  },
+  {
+    "w": "课程改革",
+    "p": "kè chéng gǎi gé",
+    "m": "cải cách chương trình",
+    "cat": "education"
+  },
+  {
+    "w": "教学大纲",
+    "p": "jiào xué dà gāng",
+    "m": "đề cương giảng dạy",
+    "cat": "education"
+  },
+  {
+    "w": "学分制",
+    "p": "xué fēn zhì",
+    "m": "hệ thống tín chỉ",
+    "cat": "education"
+  },
+  {
+    "w": "师资",
+    "p": "shī zī",
+    "m": "đội ngũ giáo viên",
+    "cat": "education"
+  },
+  {
+    "w": "学历",
+    "p": "xué lì",
+    "m": "bằng cấp, trình độ học vấn",
+    "cat": "education"
+  },
+  {
+    "w": "学位",
+    "p": "xué wèi",
+    "m": "học vị",
+    "cat": "education"
+  },
+  {
+    "w": "博士",
+    "p": "bó shì",
+    "m": "tiến sĩ",
+    "cat": "education"
+  },
+  {
+    "w": "硕士",
+    "p": "shuò shì",
+    "m": "thạc sĩ",
+    "cat": "education"
+  },
+  {
+    "w": "本科",
+    "p": "běn kē",
+    "m": "đại học (hệ chính quy)",
+    "cat": "education"
+  },
+  {
+    "w": "学术研究",
+    "p": "xué shù yán jiū",
+    "m": "nghiên cứu học thuật",
+    "cat": "education"
+  },
+  {
+    "w": "教育公平",
+    "p": "jiào yù gōng píng",
+    "m": "công bằng giáo dục",
+    "cat": "education"
+  },
+  {
+    "w": "教育资源",
+    "p": "jiào yù zī yuán",
+    "m": "nguồn lực giáo dục",
+    "cat": "education"
+  },
+  {
+    "w": "在线教育",
+    "p": "zài xiàn jiào yù",
+    "m": "giáo dục trực tuyến",
+    "cat": "education"
+  },
+  {
+    "w": "教育体制",
+    "p": "jiào yù tǐ zhì",
+    "m": "thể chế giáo dục",
+    "cat": "education"
+  },
+  {
+    "w": "升学率",
+    "p": "shēng xué lǜ",
+    "m": "tỷ lệ lên lớp/đỗ đạt",
+    "cat": "education"
+  },
+  {
+    "w": "教研",
+    "p": "jiào yán",
+    "m": "nghiên cứu giảng dạy",
+    "cat": "education"
+  },
+  {
+    "w": "启发式教学",
+    "p": "qǐ fā shì jiào xué",
+    "m": "dạy học gợi mở",
+    "cat": "education"
+  },
+  {
+    "w": "学前教育",
+    "p": "xué qián jiào yù",
+    "m": "giáo dục mầm non",
+    "cat": "education"
+  },
+  {
+    "w": "职业教育",
+    "p": "zhí yè jiào yù",
+    "m": "giáo dục nghề nghiệp",
+    "cat": "education"
+  },
+  {
+    "w": "学术诚信",
+    "p": "xué shù chéng xìn",
+    "m": "liêm chính học thuật",
+    "cat": "education"
+  },
+  {
+    "w": "教育投入",
+    "p": "jiào yù tóu rù",
+    "m": "đầu tư cho giáo dục",
+    "cat": "education"
+  },
+  {
+    "w": "教学质量",
+    "p": "jiào xué zhì liàng",
+    "m": "chất lượng giảng dạy",
+    "cat": "education"
+  },
+  {
+    "w": "教育评估",
+    "p": "jiào yù píng gū",
+    "m": "đánh giá giáo dục",
+    "cat": "education"
+  },
+  {
+    "w": "学籍",
+    "p": "xué jí",
+    "m": "hồ sơ học sinh",
+    "cat": "education"
+  },
+  {
+    "w": "奖学金",
+    "p": "jiǎng xué jīn",
+    "m": "học bổng",
+    "cat": "education"
+  },
+  {
+    "w": "助学金",
+    "p": "zhù xué jīn",
+    "m": "trợ cấp học tập",
+    "cat": "education"
+  },
+  {
+    "w": "课外活动",
+    "p": "kè wài huó dòng",
+    "m": "hoạt động ngoại khóa",
+    "cat": "education"
+  },
+  {
+    "w": "教科书",
+    "p": "jiào kē shū",
+    "m": "sách giáo khoa",
+    "cat": "education"
+  },
+  {
+    "w": "学风",
+    "p": "xué fēng",
+    "m": "phong cách học tập",
+    "cat": "education"
+  },
+  {
+    "w": "校风",
+    "p": "xiào fēng",
+    "m": "nề nếp nhà trường",
+    "cat": "education"
+  },
+  {
+    "w": "教育理念",
+    "p": "jiào yù lǐ niàn",
+    "m": "triết lý giáo dục",
+    "cat": "education"
+  },
+  {
+    "w": "综合素质",
+    "p": "zōng hé sù zhì",
+    "m": "tố chất tổng hợp",
+    "cat": "education"
+  },
+  {
+    "w": "创新能力",
+    "p": "chuàng xīn néng lì",
+    "m": "năng lực sáng tạo",
+    "cat": "education"
+  },
+  {
+    "w": "批判性思维",
+    "p": "pī pàn xìng sī wéi",
+    "m": "tư duy phản biện",
+    "cat": "education"
+  },
+  {
+    "w": "远程教育",
+    "p": "yuǎn chéng jiào yù",
+    "m": "giáo dục từ xa",
+    "cat": "education"
+  },
+  {
+    "w": "教育公益",
+    "p": "jiào yù gōng yì",
+    "m": "phúc lợi giáo dục",
+    "cat": "education"
+  },
+  {
+    "w": "高考",
+    "p": "gāo kǎo",
+    "m": "kỳ thi đại học",
+    "cat": "education"
+  },
+  {
+    "w": "留学",
+    "p": "liú xué",
+    "m": "du học",
+    "cat": "education"
+  },
+  {
+    "w": "教育部",
+    "p": "jiào yù bù",
+    "m": "bộ giáo dục",
+    "cat": "education"
+  },
+  {
+    "w": "师生关系",
+    "p": "shī shēng guān xì",
+    "m": "quan hệ thầy trò",
+    "cat": "education"
+  },
+  {
+    "w": "课堂教学",
+    "p": "kè táng jiào xué",
+    "m": "giảng dạy trên lớp",
+    "cat": "education"
+  },
+  {
+    "w": "教学方法",
+    "p": "jiào xué fāng fǎ",
+    "m": "phương pháp giảng dạy",
+    "cat": "education"
+  },
+  {
+    "w": "学习能力",
+    "p": "xué xí néng lì",
+    "m": "năng lực học tập",
+    "cat": "education"
+  },
+  {
+    "w": "知识结构",
+    "p": "zhī shi jié gòu",
+    "m": "cấu trúc tri thức",
+    "cat": "education"
+  },
+  {
+    "w": "问责制",
+    "p": "wèn zé zhì",
+    "m": "chế độ truy cứu trách nhiệm",
+    "cat": "politics"
+  },
+  {
+    "w": "民主",
+    "p": "mín zhǔ",
+    "m": "dân chủ",
+    "cat": "politics"
+  },
+  {
+    "w": "政体",
+    "p": "zhèng tǐ",
+    "m": "thể chế chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "政权",
+    "p": "zhèng quán",
+    "m": "chính quyền",
+    "cat": "politics"
+  },
+  {
+    "w": "主权",
+    "p": "zhǔ quán",
+    "m": "chủ quyền",
+    "cat": "politics"
+  },
+  {
+    "w": "选举",
+    "p": "xuǎn jǔ",
+    "m": "bầu cử",
+    "cat": "politics"
+  },
+  {
+    "w": "议会",
+    "p": "yì huì",
+    "m": "nghị viện",
+    "cat": "politics"
+  },
+  {
+    "w": "执政党",
+    "p": "zhí zhèng dǎng",
+    "m": "đảng cầm quyền",
+    "cat": "politics"
+  },
+  {
+    "w": "反对党",
+    "p": "fǎn duì dǎng",
+    "m": "đảng đối lập",
+    "cat": "politics"
+  },
+  {
+    "w": "政策制定",
+    "p": "zhèng cè zhì dìng",
+    "m": "hoạch định chính sách",
+    "cat": "politics"
+  },
+  {
+    "w": "外交",
+    "p": "wài jiāo",
+    "m": "ngoại giao",
+    "cat": "politics"
+  },
+  {
+    "w": "国际关系",
+    "p": "guó jì guān xì",
+    "m": "quan hệ quốc tế",
+    "cat": "politics"
+  },
+  {
+    "w": "地缘政治",
+    "p": "dì yuán zhèng zhì",
+    "m": "địa chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "国家安全",
+    "p": "guó jiā ān quán",
+    "m": "an ninh quốc gia",
+    "cat": "politics"
+  },
+  {
+    "w": "公共政策",
+    "p": "gōng gòng zhèng cè",
+    "m": "chính sách công",
+    "cat": "politics"
+  },
+  {
+    "w": "行政区划",
+    "p": "xíng zhèng qū huà",
+    "m": "phân chia hành chính",
+    "cat": "politics"
+  },
+  {
+    "w": "公务员",
+    "p": "gōng wù yuán",
+    "m": "công chức",
+    "cat": "politics"
+  },
+  {
+    "w": "政府职能",
+    "p": "zhèng fǔ zhí néng",
+    "m": "chức năng chính phủ",
+    "cat": "politics"
+  },
+  {
+    "w": "权力制衡",
+    "p": "quán lì zhì héng",
+    "m": "kiểm soát quyền lực",
+    "cat": "politics"
+  },
+  {
+    "w": "三权分立",
+    "p": "sān quán fēn lì",
+    "m": "tam quyền phân lập",
+    "cat": "politics"
+  },
+  {
+    "w": "公民社会",
+    "p": "gōng mín shè huì",
+    "m": "xã hội dân sự",
+    "cat": "politics"
+  },
+  {
+    "w": "舆论监督",
+    "p": "yú lùn jiān dū",
+    "m": "giám sát dư luận",
+    "cat": "politics"
+  },
+  {
+    "w": "民意",
+    "p": "mín yì",
+    "m": "ý dân",
+    "cat": "politics"
+  },
+  {
+    "w": "政治体制",
+    "p": "zhèng zhì tǐ zhì",
+    "m": "thể chế chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "国情",
+    "p": "guó qíng",
+    "m": "tình hình đất nước",
+    "cat": "politics"
+  },
+  {
+    "w": "主权国家",
+    "p": "zhǔ quán guó jiā",
+    "m": "quốc gia có chủ quyền",
+    "cat": "politics"
+  },
+  {
+    "w": "联合国",
+    "p": "lián hé guó",
+    "m": "Liên Hợp Quốc",
+    "cat": "politics"
+  },
+  {
+    "w": "多边主义",
+    "p": "duō biān zhǔ yì",
+    "m": "chủ nghĩa đa phương",
+    "cat": "politics"
+  },
+  {
+    "w": "全球治理",
+    "p": "quán qiú zhì lǐ",
+    "m": "quản trị toàn cầu",
+    "cat": "politics"
+  },
+  {
+    "w": "国际法",
+    "p": "guó jì fǎ",
+    "m": "luật quốc tế",
+    "cat": "politics"
+  },
+  {
+    "w": "条约",
+    "p": "tiáo yuē",
+    "m": "hiệp ước",
+    "cat": "politics"
+  },
+  {
+    "w": "制裁",
+    "p": "zhì cái",
+    "m": "trừng phạt, cấm vận",
+    "cat": "politics"
+  },
+  {
+    "w": "外交政策",
+    "p": "wài jiāo zhèng cè",
+    "m": "chính sách đối ngoại",
+    "cat": "politics"
+  },
+  {
+    "w": "国防",
+    "p": "guó fáng",
+    "m": "quốc phòng",
+    "cat": "politics"
+  },
+  {
+    "w": "军备",
+    "p": "jūn bèi",
+    "m": "trang bị quân sự",
+    "cat": "politics"
+  },
+  {
+    "w": "裁军",
+    "p": "cái jūn",
+    "m": "giải trừ quân bị",
+    "cat": "politics"
+  },
+  {
+    "w": "难民",
+    "p": "nàn mín",
+    "m": "người tị nạn",
+    "cat": "politics"
+  },
+  {
+    "w": "移民政策",
+    "p": "yí mín zhèng cè",
+    "m": "chính sách di trú",
+    "cat": "politics"
+  },
+  {
+    "w": "公共利益",
+    "p": "gōng gòng lì yì",
+    "m": "lợi ích công cộng",
+    "cat": "politics"
+  },
+  {
+    "w": "治理能力",
+    "p": "zhì lǐ néng lì",
+    "m": "năng lực quản trị",
+    "cat": "politics"
+  },
+  {
+    "w": "政治改革",
+    "p": "zhèng zhì gǎi gé",
+    "m": "cải cách chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "反腐败",
+    "p": "fǎn fǔ bài",
+    "m": "chống tham nhũng",
+    "cat": "politics"
+  },
+  {
+    "w": "透明度",
+    "p": "tòu míng dù",
+    "m": "tính minh bạch",
+    "cat": "politics"
+  },
+  {
+    "w": "公信力",
+    "p": "gōng xìn lì",
+    "m": "uy tín công",
+    "cat": "politics"
+  },
+  {
+    "w": "民族主义",
+    "p": "mín zú zhǔ yì",
+    "m": "chủ nghĩa dân tộc",
+    "cat": "politics"
+  },
+  {
+    "w": "政党",
+    "p": "zhèng dǎng",
+    "m": "chính đảng",
+    "cat": "politics"
+  },
+  {
+    "w": "选民",
+    "p": "xuǎn mín",
+    "m": "cử tri",
+    "cat": "politics"
+  },
+  {
+    "w": "投票",
+    "p": "tóu piào",
+    "m": "bỏ phiếu",
+    "cat": "politics"
+  },
+  {
+    "w": "政纲",
+    "p": "zhèng gāng",
+    "m": "cương lĩnh chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "行政效率",
+    "p": "xíng zhèng xiào lǜ",
+    "m": "hiệu quả hành chính",
+    "cat": "politics"
+  },
+  {
+    "w": "可持续发展",
+    "p": "kě chí xù fā zhǎn",
+    "m": "phát triển bền vững",
+    "cat": "environment"
+  },
+  {
+    "w": "气候变化",
+    "p": "qì hòu biàn huà",
+    "m": "biến đổi khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "全球变暖",
+    "p": "quán qiú biàn nuǎn",
+    "m": "nóng lên toàn cầu",
+    "cat": "environment"
+  },
+  {
+    "w": "温室效应",
+    "p": "wēn shì xiào yìng",
+    "m": "hiệu ứng nhà kính",
+    "cat": "environment"
+  },
+  {
+    "w": "碳排放",
+    "p": "tàn pái fàng",
+    "m": "phát thải carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "碳中和",
+    "p": "tàn zhōng hé",
+    "m": "trung hòa carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "温室气体",
+    "p": "wēn shì qì tǐ",
+    "m": "khí nhà kính",
+    "cat": "environment"
+  },
+  {
+    "w": "臭氧层",
+    "p": "chòu yǎng céng",
+    "m": "tầng ozone",
+    "cat": "environment"
+  },
+  {
+    "w": "生态平衡",
+    "p": "shēng tài píng héng",
+    "m": "cân bằng sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "污染源",
+    "p": "wū rǎn yuán",
+    "m": "nguồn ô nhiễm",
+    "cat": "environment"
+  },
+  {
+    "w": "空气污染",
+    "p": "kōng qì wū rǎn",
+    "m": "ô nhiễm không khí",
+    "cat": "environment"
+  },
+  {
+    "w": "水污染",
+    "p": "shuǐ wū rǎn",
+    "m": "ô nhiễm nước",
+    "cat": "environment"
+  },
+  {
+    "w": "土壤污染",
+    "p": "tǔ rǎng wū rǎn",
+    "m": "ô nhiễm đất",
+    "cat": "environment"
+  },
+  {
+    "w": "雾霾",
+    "p": "wù mái",
+    "m": "sương mù ô nhiễm (khói bụi)",
+    "cat": "environment"
+  },
+  {
+    "w": "废水处理",
+    "p": "fèi shuǐ chǔ lǐ",
+    "m": "xử lý nước thải",
+    "cat": "environment"
+  },
+  {
+    "w": "垃圾分类",
+    "p": "lā jī fēn lèi",
+    "m": "phân loại rác",
+    "cat": "environment"
+  },
+  {
+    "w": "资源回收",
+    "p": "zī yuán huí shōu",
+    "m": "tái chế tài nguyên",
+    "cat": "environment"
+  },
+  {
+    "w": "清洁能源",
+    "p": "qīng jié néng yuán",
+    "m": "năng lượng sạch",
+    "cat": "environment"
+  },
+  {
+    "w": "太阳能",
+    "p": "tài yáng néng",
+    "m": "năng lượng mặt trời",
+    "cat": "environment"
+  },
+  {
+    "w": "风能",
+    "p": "fēng néng",
+    "m": "năng lượng gió",
+    "cat": "environment"
+  },
+  {
+    "w": "水土流失",
+    "p": "shuǐ tǔ liú shī",
+    "m": "xói mòn đất",
+    "cat": "environment"
+  },
+  {
+    "w": "荒漠化",
+    "p": "huāng mò huà",
+    "m": "sa mạc hóa",
+    "cat": "environment"
+  },
+  {
+    "w": "森林砍伐",
+    "p": "sēn lín kǎn fá",
+    "m": "phá rừng",
+    "cat": "environment"
+  },
+  {
+    "w": "退耕还林",
+    "p": "tuì gēng huán lín",
+    "m": "trả đất nông nghiệp về rừng",
+    "cat": "environment"
+  },
+  {
+    "w": "自然保护区",
+    "p": "zì rán bǎo hù qū",
+    "m": "khu bảo tồn thiên nhiên",
+    "cat": "environment"
+  },
+  {
+    "w": "濒危物种",
+    "p": "bīn wēi wù zhǒng",
+    "m": "loài nguy cấp",
+    "cat": "environment"
+  },
+  {
+    "w": "生态环境",
+    "p": "shēng tài huán jìng",
+    "m": "môi trường sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "环境保护",
+    "p": "huán jìng bǎo hù",
+    "m": "bảo vệ môi trường",
+    "cat": "environment"
+  },
+  {
+    "w": "节能减排",
+    "p": "jié néng jiǎn pái",
+    "m": "tiết kiệm năng lượng giảm phát thải",
+    "cat": "environment"
+  },
+  {
+    "w": "低碳经济",
+    "p": "dī tàn jīng jì",
+    "m": "kinh tế carbon thấp",
+    "cat": "environment"
+  },
+  {
+    "w": "循环经济",
+    "p": "xún huán jīng jì",
+    "m": "kinh tế tuần hoàn",
+    "cat": "environment"
+  },
+  {
+    "w": "环境评估",
+    "p": "huán jìng píng gū",
+    "m": "đánh giá môi trường",
+    "cat": "environment"
+  },
+  {
+    "w": "生态修复",
+    "p": "shēng tài xiū fù",
+    "m": "phục hồi sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "海洋污染",
+    "p": "hǎi yáng wū rǎn",
+    "m": "ô nhiễm đại dương",
+    "cat": "environment"
+  },
+  {
+    "w": "酸雨",
+    "p": "suān yǔ",
+    "m": "mưa axit",
+    "cat": "environment"
+  },
+  {
+    "w": "噪声污染",
+    "p": "zào shēng wū rǎn",
+    "m": "ô nhiễm tiếng ồn",
+    "cat": "environment"
+  },
+  {
+    "w": "工业废气",
+    "p": "gōng yè fèi qì",
+    "m": "khí thải công nghiệp",
+    "cat": "environment"
+  },
+  {
+    "w": "排污",
+    "p": "pái wū",
+    "m": "xả thải",
+    "cat": "environment"
+  },
+  {
+    "w": "环保意识",
+    "p": "huán bǎo yì shí",
+    "m": "ý thức bảo vệ môi trường",
+    "cat": "environment"
+  },
+  {
+    "w": "绿色发展",
+    "p": "lǜ sè fā zhǎn",
+    "m": "phát triển xanh",
+    "cat": "environment"
+  },
+  {
+    "w": "生态文明",
+    "p": "shēng tài wén míng",
+    "m": "văn minh sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "水资源",
+    "p": "shuǐ zī yuán",
+    "m": "tài nguyên nước",
+    "cat": "environment"
+  },
+  {
+    "w": "能源消耗",
+    "p": "néng yuán xiāo hào",
+    "m": "tiêu hao năng lượng",
+    "cat": "environment"
+  },
+  {
+    "w": "海平面上升",
+    "p": "hǎi píng miàn shàng shēng",
+    "m": "mực nước biển dâng",
+    "cat": "environment"
+  },
+  {
+    "w": "极端天气",
+    "p": "jí duān tiān qì",
+    "m": "thời tiết cực đoan",
+    "cat": "environment"
+  },
+  {
+    "w": "自然灾害",
+    "p": "zì rán zāi hài",
+    "m": "thiên tai",
+    "cat": "environment"
+  },
+  {
+    "w": "植被",
+    "p": "zhí bèi",
+    "m": "thảm thực vật",
+    "cat": "environment"
+  },
+  {
+    "w": "湿地",
+    "p": "shī dì",
+    "m": "vùng đất ngập nước",
+    "cat": "environment"
+  },
+  {
+    "w": "生态足迹",
+    "p": "shēng tài zú jì",
+    "m": "dấu chân sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "环境治理",
+    "p": "huán jìng zhì lǐ",
+    "m": "quản trị môi trường",
+    "cat": "environment"
+  },
+  {
+    "w": "商业模式",
+    "p": "shāng yè mó shì",
+    "m": "mô hình kinh doanh",
+    "cat": "business"
+  },
+  {
+    "w": "企业文化",
+    "p": "qǐ yè wén huà",
+    "m": "văn hóa doanh nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "战略规划",
+    "p": "zhàn lüè guī huà",
+    "m": "hoạch định chiến lược",
+    "cat": "business"
+  },
+  {
+    "w": "市场营销",
+    "p": "shì chǎng yíng xiāo",
+    "m": "tiếp thị",
+    "cat": "business"
+  },
+  {
+    "w": "品牌价值",
+    "p": "pǐn pái jià zhí",
+    "m": "giá trị thương hiệu",
+    "cat": "business"
+  },
+  {
+    "w": "供应链",
+    "p": "gōng yìng liàn",
+    "m": "chuỗi cung ứng",
+    "cat": "business"
+  },
+  {
+    "w": "物流",
+    "p": "wù liú",
+    "m": "logistics",
+    "cat": "business"
+  },
+  {
+    "w": "库存管理",
+    "p": "kù cún guǎn lǐ",
+    "m": "quản lý kho",
+    "cat": "business"
+  },
+  {
+    "w": "客户关系",
+    "p": "kè hù guān xì",
+    "m": "quan hệ khách hàng",
+    "cat": "business"
+  },
+  {
+    "w": "绩效考核",
+    "p": "jì xiào kǎo hé",
+    "m": "đánh giá hiệu suất",
+    "cat": "business"
+  },
+  {
+    "w": "人力资源",
+    "p": "rén lì zī yuán",
+    "m": "nhân sự",
+    "cat": "business"
+  },
+  {
+    "w": "财务报表",
+    "p": "cái wù bào biǎo",
+    "m": "báo cáo tài chính",
+    "cat": "business"
+  },
+  {
+    "w": "利润率",
+    "p": "lì rùn lǜ",
+    "m": "tỷ suất lợi nhuận",
+    "cat": "business"
+  },
+  {
+    "w": "营业额",
+    "p": "yíng yè é",
+    "m": "doanh thu",
+    "cat": "business"
+  },
+  {
+    "w": "投资组合",
+    "p": "tóu zī zǔ hé",
+    "m": "danh mục đầu tư",
+    "cat": "business"
+  },
+  {
+    "w": "风险管理",
+    "p": "fēng xiǎn guǎn lǐ",
+    "m": "quản lý rủi ro",
+    "cat": "business"
+  },
+  {
+    "w": "并购",
+    "p": "bìng gòu",
+    "m": "sáp nhập và mua lại",
+    "cat": "business"
+  },
+  {
+    "w": "上市",
+    "p": "shàng shì",
+    "m": "niêm yết",
+    "cat": "business"
+  },
+  {
+    "w": "融资",
+    "p": "róng zī",
+    "m": "huy động vốn",
+    "cat": "business"
+  },
+  {
+    "w": "创业",
+    "p": "chuàng yè",
+    "m": "khởi nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "风险投资",
+    "p": "fēng xiǎn tóu zī",
+    "m": "đầu tư mạo hiểm",
+    "cat": "business"
+  },
+  {
+    "w": "商业谈判",
+    "p": "shāng yè tán pàn",
+    "m": "đàm phán kinh doanh",
+    "cat": "business"
+  },
+  {
+    "w": "市场调研",
+    "p": "shì chǎng diào yán",
+    "m": "nghiên cứu thị trường",
+    "cat": "business"
+  },
+  {
+    "w": "竞争优势",
+    "p": "jìng zhēng yōu shì",
+    "m": "lợi thế cạnh tranh",
+    "cat": "business"
+  },
+  {
+    "w": "业务流程",
+    "p": "yè wù liú chéng",
+    "m": "quy trình nghiệp vụ",
+    "cat": "business"
+  },
+  {
+    "w": "成本控制",
+    "p": "chéng běn kòng zhì",
+    "m": "kiểm soát chi phí",
+    "cat": "business"
+  },
+  {
+    "w": "营收",
+    "p": "yíng shōu",
+    "m": "doanh thu",
+    "cat": "business"
+  },
+  {
+    "w": "股东",
+    "p": "gǔ dōng",
+    "m": "cổ đông",
+    "cat": "business"
+  },
+  {
+    "w": "董事会",
+    "p": "dǒng shì huì",
+    "m": "hội đồng quản trị",
+    "cat": "business"
+  },
+  {
+    "w": "企业战略",
+    "p": "qǐ yè zhàn lüè",
+    "m": "chiến lược doanh nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "经营管理",
+    "p": "jīng yíng guǎn lǐ",
+    "m": "quản lý kinh doanh",
+    "cat": "business"
+  },
+  {
+    "w": "数字营销",
+    "p": "shù zì yíng xiāo",
+    "m": "tiếp thị số",
+    "cat": "business"
+  },
+  {
+    "w": "电子商务",
+    "p": "diàn zǐ shāng wù",
+    "m": "thương mại điện tử",
+    "cat": "business"
+  },
+  {
+    "w": "客户体验",
+    "p": "kè hù tǐ yàn",
+    "m": "trải nghiệm khách hàng",
+    "cat": "business"
+  },
+  {
+    "w": "售后服务",
+    "p": "shòu hòu fú wù",
+    "m": "dịch vụ hậu mãi",
+    "cat": "business"
+  },
+  {
+    "w": "市场定位",
+    "p": "shì chǎng dìng wèi",
+    "m": "định vị thị trường",
+    "cat": "business"
+  },
+  {
+    "w": "目标客户",
+    "p": "mù biāo kè hù",
+    "m": "khách hàng mục tiêu",
+    "cat": "business"
+  },
+  {
+    "w": "利益相关者",
+    "p": "lì yì xiāng guān zhě",
+    "m": "bên liên quan",
+    "cat": "business"
+  },
+  {
+    "w": "企业责任",
+    "p": "qǐ yè zé rèn",
+    "m": "trách nhiệm doanh nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "商誉",
+    "p": "shāng yù",
+    "m": "uy tín thương mại",
+    "cat": "business"
+  },
+  {
+    "w": "谈判策略",
+    "p": "tán pàn cè lüè",
+    "m": "chiến lược đàm phán",
+    "cat": "business"
+  },
+  {
+    "w": "营销策略",
+    "p": "yíng xiāo cè lüè",
+    "m": "chiến lược tiếp thị",
+    "cat": "business"
+  },
+  {
+    "w": "资金链",
+    "p": "zī jīn liàn",
+    "m": "dòng vốn",
+    "cat": "business"
+  },
+  {
+    "w": "盈利模式",
+    "p": "yíng lì mó shì",
+    "m": "mô hình sinh lời",
+    "cat": "business"
+  },
+  {
+    "w": "商务合作",
+    "p": "shāng wù hé zuò",
+    "m": "hợp tác thương mại",
+    "cat": "business"
+  },
+  {
+    "w": "招标",
+    "p": "zhāo biāo",
+    "m": "đấu thầu",
+    "cat": "business"
+  },
+  {
+    "w": "投标",
+    "p": "tóu biāo",
+    "m": "dự thầu",
+    "cat": "business"
+  },
+  {
+    "w": "合资企业",
+    "p": "hé zī qǐ yè",
+    "m": "doanh nghiệp liên doanh",
+    "cat": "business"
+  },
+  {
+    "w": "跨国公司",
+    "p": "kuà guó gōng sī",
+    "m": "công ty đa quốc gia",
+    "cat": "business"
+  },
+  {
+    "w": "企业并购",
+    "p": "qǐ yè bìng gòu",
+    "m": "sáp nhập doanh nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "社会保障",
+    "p": "shè huì bǎo zhàng",
+    "m": "an sinh xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "贫富差距",
+    "p": "pín fù chā jù",
+    "m": "khoảng cách giàu nghèo",
+    "cat": "society"
+  },
+  {
+    "w": "城乡差别",
+    "p": "chéng xiāng chā bié",
+    "m": "chênh lệch thành thị nông thôn",
+    "cat": "society"
+  },
+  {
+    "w": "人口老龄化",
+    "p": "rén kǒu lǎo líng huà",
+    "m": "già hóa dân số",
+    "cat": "society"
+  },
+  {
+    "w": "城市化",
+    "p": "chéng shì huà",
+    "m": "đô thị hóa",
+    "cat": "society"
+  },
+  {
+    "w": "社会阶层",
+    "p": "shè huì jiē céng",
+    "m": "tầng lớp xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "社会流动",
+    "p": "shè huì liú dòng",
+    "m": "dịch chuyển xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "社会福利",
+    "p": "shè huì fú lì",
+    "m": "phúc lợi xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "公共服务",
+    "p": "gōng gòng fú wù",
+    "m": "dịch vụ công",
+    "cat": "society"
+  },
+  {
+    "w": "社区",
+    "p": "shè qū",
+    "m": "cộng đồng dân cư",
+    "cat": "society"
+  },
+  {
+    "w": "志愿者",
+    "p": "zhì yuàn zhě",
+    "m": "tình nguyện viên",
+    "cat": "society"
+  },
+  {
+    "w": "慈善",
+    "p": "cí shàn",
+    "m": "từ thiện",
+    "cat": "society"
+  },
+  {
+    "w": "弱势群体",
+    "p": "ruò shì qún tǐ",
+    "m": "nhóm yếu thế",
+    "cat": "society"
+  },
+  {
+    "w": "社会公正",
+    "p": "shè huì gōng zhèng",
+    "m": "công bằng xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "民生",
+    "p": "mín shēng",
+    "m": "dân sinh",
+    "cat": "society"
+  },
+  {
+    "w": "就业",
+    "p": "jiù yè",
+    "m": "việc làm",
+    "cat": "society"
+  },
+  {
+    "w": "失业",
+    "p": "shī yè",
+    "m": "thất nghiệp",
+    "cat": "society"
+  },
+  {
+    "w": "社会保险",
+    "p": "shè huì bǎo xiǎn",
+    "m": "bảo hiểm xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "医疗保险",
+    "p": "yī liáo bǎo xiǎn",
+    "m": "bảo hiểm y tế",
+    "cat": "society"
+  },
+  {
+    "w": "养老金",
+    "p": "yǎng lǎo jīn",
+    "m": "lương hưu",
+    "cat": "society"
+  },
+  {
+    "w": "户籍制度",
+    "p": "hù jí zhì dù",
+    "m": "chế độ hộ khẩu",
+    "cat": "society"
+  },
+  {
+    "w": "流动人口",
+    "p": "liú dòng rén kǒu",
+    "m": "dân số di cư",
+    "cat": "society"
+  },
+  {
+    "w": "农民工",
+    "p": "nóng mín gōng",
+    "m": "công nhân nhập cư từ nông thôn",
+    "cat": "society"
+  },
+  {
+    "w": "社会风气",
+    "p": "shè huì fēng qì",
+    "m": "phong khí xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "道德规范",
+    "p": "dào dé guī fàn",
+    "m": "chuẩn mực đạo đức",
+    "cat": "society"
+  },
+  {
+    "w": "公德",
+    "p": "gōng dé",
+    "m": "đạo đức công cộng",
+    "cat": "society"
+  },
+  {
+    "w": "诚信",
+    "p": "chéng xìn",
+    "m": "chữ tín",
+    "cat": "society"
+  },
+  {
+    "w": "人际关系",
+    "p": "rén jì guān xì",
+    "m": "quan hệ giữa người với người",
+    "cat": "society"
+  },
+  {
+    "w": "代沟",
+    "p": "dài gōu",
+    "m": "khoảng cách thế hệ",
+    "cat": "society"
+  },
+  {
+    "w": "性别平等",
+    "p": "xìng bié píng děng",
+    "m": "bình đẳng giới",
+    "cat": "society"
+  },
+  {
+    "w": "婚姻观",
+    "p": "hūn yīn guān",
+    "m": "quan niệm hôn nhân",
+    "cat": "society"
+  },
+  {
+    "w": "家庭结构",
+    "p": "jiā tíng jié gòu",
+    "m": "cấu trúc gia đình",
+    "cat": "society"
+  },
+  {
+    "w": "独生子女",
+    "p": "dú shēng zǐ nǚ",
+    "m": "con một",
+    "cat": "society"
+  },
+  {
+    "w": "生育率",
+    "p": "shēng yù lǜ",
+    "m": "tỷ suất sinh",
+    "cat": "society"
+  },
+  {
+    "w": "人口红利",
+    "p": "rén kǒu hóng lì",
+    "m": "lợi tức dân số",
+    "cat": "society"
+  },
+  {
+    "w": "社会矛盾",
+    "p": "shè huì máo dùn",
+    "m": "mâu thuẫn xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "群体事件",
+    "p": "qún tǐ shì jiàn",
+    "m": "sự kiện tập thể",
+    "cat": "society"
+  },
+  {
+    "w": "社会舆论",
+    "p": "shè huì yú lùn",
+    "m": "dư luận xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "网络暴力",
+    "p": "wǎng luò bào lì",
+    "m": "bạo lực mạng",
+    "cat": "society"
+  },
+  {
+    "w": "社会责任",
+    "p": "shè huì zé rèn",
+    "m": "trách nhiệm xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "公共安全",
+    "p": "gōng gòng ān quán",
+    "m": "an toàn công cộng",
+    "cat": "society"
+  },
+  {
+    "w": "社会治安",
+    "p": "shè huì zhì ān",
+    "m": "trật tự an ninh xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "社会转型",
+    "p": "shè huì zhuǎn xíng",
+    "m": "chuyển đổi xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "城镇化",
+    "p": "chéng zhèn huà",
+    "m": "đô thị hóa (thị trấn)",
+    "cat": "society"
+  },
+  {
+    "w": "社会资本",
+    "p": "shè huì zī běn",
+    "m": "vốn xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "公益事业",
+    "p": "gōng yì shì yè",
+    "m": "sự nghiệp công ích",
+    "cat": "society"
+  },
+  {
+    "w": "扶贫",
+    "p": "fú pín",
+    "m": "xóa đói giảm nghèo",
+    "cat": "society"
+  },
+  {
+    "w": "社会救助",
+    "p": "shè huì jiù zhù",
+    "m": "cứu trợ xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "人口普查",
+    "p": "rén kǒu pǔ chá",
+    "m": "tổng điều tra dân số",
+    "cat": "society"
+  },
+  {
+    "w": "社会和谐",
+    "p": "shè huì hé xié",
+    "m": "hài hòa xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "传统文化",
+    "p": "chuán tǒng wén huà",
+    "m": "văn hóa truyền thống",
+    "cat": "culture"
+  },
+  {
+    "w": "文化遗产",
+    "p": "wén huà yí chǎn",
+    "m": "di sản văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "非物质文化遗产",
+    "p": "fēi wù zhì wén huà yí chǎn",
+    "m": "di sản văn hóa phi vật thể",
+    "cat": "culture"
+  },
+  {
+    "w": "民俗",
+    "p": "mín sú",
+    "m": "phong tục dân gian",
+    "cat": "culture"
+  },
+  {
+    "w": "文化认同",
+    "p": "wén huà rèn tóng",
+    "m": "bản sắc văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文化交流",
+    "p": "wén huà jiāo liú",
+    "m": "giao lưu văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文化多样性",
+    "p": "wén huà duō yàng xìng",
+    "m": "đa dạng văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "跨文化",
+    "p": "kuà wén huà",
+    "m": "liên văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文化差异",
+    "p": "wén huà chā yì",
+    "m": "khác biệt văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文化冲突",
+    "p": "wén huà chōng tū",
+    "m": "xung đột văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文化融合",
+    "p": "wén huà róng hé",
+    "m": "hòa hợp văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "民族文化",
+    "p": "mín zú wén huà",
+    "m": "văn hóa dân tộc",
+    "cat": "culture"
+  },
+  {
+    "w": "文化软实力",
+    "p": "wén huà ruǎn shí lì",
+    "m": "sức mạnh mềm văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文化产业",
+    "p": "wén huà chǎn yè",
+    "m": "công nghiệp văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文化创意",
+    "p": "wén huà chuàng yì",
+    "m": "sáng tạo văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "传承",
+    "p": "chuán chéng",
+    "m": "kế thừa",
+    "cat": "culture"
+  },
+  {
+    "w": "习俗",
+    "p": "xí sú",
+    "m": "tập tục",
+    "cat": "culture"
+  },
+  {
+    "w": "节日",
+    "p": "jié rì",
+    "m": "lễ hội, ngày lễ",
+    "cat": "culture"
+  },
+  {
+    "w": "礼仪",
+    "p": "lǐ yí",
+    "m": "lễ nghi",
+    "cat": "culture"
+  },
+  {
+    "w": "民间艺术",
+    "p": "mín jiān yì shù",
+    "m": "nghệ thuật dân gian",
+    "cat": "culture"
+  },
+  {
+    "w": "书法",
+    "p": "shū fǎ",
+    "m": "thư pháp",
+    "cat": "culture"
+  },
+  {
+    "w": "国画",
+    "p": "guó huà",
+    "m": "quốc họa (tranh Trung Quốc)",
+    "cat": "culture"
+  },
+  {
+    "w": "戏曲",
+    "p": "xì qǔ",
+    "m": "hí khúc (kịch hát truyền thống)",
+    "cat": "culture"
+  },
+  {
+    "w": "京剧",
+    "p": "jīng jù",
+    "m": "kinh kịch",
+    "cat": "culture"
+  },
+  {
+    "w": "文物",
+    "p": "wén wù",
+    "m": "văn vật, cổ vật",
+    "cat": "culture"
+  },
+  {
+    "w": "古迹",
+    "p": "gǔ jì",
+    "m": "di tích cổ",
+    "cat": "culture"
+  },
+  {
+    "w": "文化自信",
+    "p": "wén huà zì xìn",
+    "m": "tự tin văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "风土人情",
+    "p": "fēng tǔ rén qíng",
+    "m": "phong thổ nhân tình",
+    "cat": "culture"
+  },
+  {
+    "w": "价值观",
+    "p": "jià zhí guān",
+    "m": "hệ giá trị",
+    "cat": "culture"
+  },
+  {
+    "w": "道德观念",
+    "p": "dào dé guān niàn",
+    "m": "quan niệm đạo đức",
+    "cat": "culture"
+  },
+  {
+    "w": "宗教信仰",
+    "p": "zōng jiào xìn yǎng",
+    "m": "tín ngưỡng tôn giáo",
+    "cat": "culture"
+  },
+  {
+    "w": "民族精神",
+    "p": "mín zú jīng shén",
+    "m": "tinh thần dân tộc",
+    "cat": "culture"
+  },
+  {
+    "w": "文化底蕴",
+    "p": "wén huà dǐ yùn",
+    "m": "bề dày văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文明",
+    "p": "wén míng",
+    "m": "văn minh",
+    "cat": "culture"
+  },
+  {
+    "w": "文化复兴",
+    "p": "wén huà fù xīng",
+    "m": "phục hưng văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "传统美德",
+    "p": "chuán tǒng měi dé",
+    "m": "đức tính truyền thống",
+    "cat": "culture"
+  },
+  {
+    "w": "文化氛围",
+    "p": "wén huà fēn wéi",
+    "m": "bầu không khí văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "审美",
+    "p": "shěn měi",
+    "m": "thẩm mỹ",
+    "cat": "culture"
+  },
+  {
+    "w": "文化品位",
+    "p": "wén huà pǐn wèi",
+    "m": "gu văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文化教育",
+    "p": "wén huà jiào yù",
+    "m": "giáo dục văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "大众文化",
+    "p": "dà zhòng wén huà",
+    "m": "văn hóa đại chúng",
+    "cat": "culture"
+  },
+  {
+    "w": "流行文化",
+    "p": "liú xíng wén huà",
+    "m": "văn hóa thịnh hành",
+    "cat": "culture"
+  },
+  {
+    "w": "亚文化",
+    "p": "yà wén huà",
+    "m": "văn hóa nhóm (tiểu văn hóa)",
+    "cat": "culture"
+  },
+  {
+    "w": "文化符号",
+    "p": "wén huà fú hào",
+    "m": "biểu tượng văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "民族特色",
+    "p": "mín zú tè sè",
+    "m": "đặc sắc dân tộc",
+    "cat": "culture"
+  },
+  {
+    "w": "文化传播",
+    "p": "wén huà chuán bō",
+    "m": "truyền bá văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文化建设",
+    "p": "wén huà jiàn shè",
+    "m": "xây dựng văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文化生活",
+    "p": "wén huà shēng huó",
+    "m": "đời sống văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文化背景",
+    "p": "wén huà bèi jǐng",
+    "m": "bối cảnh văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "文化内涵",
+    "p": "wén huà nèi hán",
+    "m": "nội hàm văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "心理健康",
+    "p": "xīn lǐ jiàn kāng",
+    "m": "sức khỏe tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "认知",
+    "p": "rèn zhī",
+    "m": "nhận thức",
+    "cat": "psychology"
+  },
+  {
+    "w": "情绪管理",
+    "p": "qíng xù guǎn lǐ",
+    "m": "quản lý cảm xúc",
+    "cat": "psychology"
+  },
+  {
+    "w": "潜意识",
+    "p": "qián yì shí",
+    "m": "tiềm thức",
+    "cat": "psychology"
+  },
+  {
+    "w": "焦虑",
+    "p": "jiāo lǜ",
+    "m": "lo âu",
+    "cat": "psychology"
+  },
+  {
+    "w": "抑郁",
+    "p": "yì yù",
+    "m": "trầm cảm",
+    "cat": "psychology"
+  },
+  {
+    "w": "压力",
+    "p": "yā lì",
+    "m": "căng thẳng, áp lực",
+    "cat": "psychology"
+  },
+  {
+    "w": "心理咨询",
+    "p": "xīn lǐ zī xún",
+    "m": "tư vấn tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "性格",
+    "p": "xìng gé",
+    "m": "tính cách",
+    "cat": "psychology"
+  },
+  {
+    "w": "人格",
+    "p": "rén gé",
+    "m": "nhân cách",
+    "cat": "psychology"
+  },
+  {
+    "w": "自我认知",
+    "p": "zì wǒ rèn zhī",
+    "m": "tự nhận thức",
+    "cat": "psychology"
+  },
+  {
+    "w": "自尊",
+    "p": "zì zūn",
+    "m": "lòng tự trọng",
+    "cat": "psychology"
+  },
+  {
+    "w": "自信",
+    "p": "zì xìn",
+    "m": "tự tin",
+    "cat": "psychology"
+  },
+  {
+    "w": "动机",
+    "p": "dòng jī",
+    "m": "động cơ",
+    "cat": "psychology"
+  },
+  {
+    "w": "行为模式",
+    "p": "xíng wéi mó shì",
+    "m": "kiểu hành vi",
+    "cat": "psychology"
+  },
+  {
+    "w": "心理障碍",
+    "p": "xīn lǐ zhàng ài",
+    "m": "rối loạn tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "情感",
+    "p": "qíng gǎn",
+    "m": "tình cảm",
+    "cat": "psychology"
+  },
+  {
+    "w": "记忆",
+    "p": "jì yì",
+    "m": "trí nhớ",
+    "cat": "psychology"
+  },
+  {
+    "w": "注意力",
+    "p": "zhù yì lì",
+    "m": "sự chú ý",
+    "cat": "psychology"
+  },
+  {
+    "w": "感知",
+    "p": "gǎn zhī",
+    "m": "tri giác",
+    "cat": "psychology"
+  },
+  {
+    "w": "思维方式",
+    "p": "sī wéi fāng shì",
+    "m": "lối tư duy",
+    "cat": "psychology"
+  },
+  {
+    "w": "心理学",
+    "p": "xīn lǐ xué",
+    "m": "tâm lý học",
+    "cat": "psychology"
+  },
+  {
+    "w": "行为心理学",
+    "p": "xíng wéi xīn lǐ xué",
+    "m": "tâm lý học hành vi",
+    "cat": "psychology"
+  },
+  {
+    "w": "心理素质",
+    "p": "xīn lǐ sù zhì",
+    "m": "tố chất tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "应激反应",
+    "p": "yìng jī fǎn yìng",
+    "m": "phản ứng stress",
+    "cat": "psychology"
+  },
+  {
+    "w": "心理暗示",
+    "p": "xīn lǐ àn shì",
+    "m": "ám thị tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "安全感",
+    "p": "ān quán gǎn",
+    "m": "cảm giác an toàn",
+    "cat": "psychology"
+  },
+  {
+    "w": "归属感",
+    "p": "guī shǔ gǎn",
+    "m": "cảm giác thuộc về",
+    "cat": "psychology"
+  },
+  {
+    "w": "成就感",
+    "p": "chéng jiù gǎn",
+    "m": "cảm giác thành tựu",
+    "cat": "psychology"
+  },
+  {
+    "w": "自我实现",
+    "p": "zì wǒ shí xiàn",
+    "m": "tự hiện thực hóa bản thân",
+    "cat": "psychology"
+  },
+  {
+    "w": "心理需求",
+    "p": "xīn lǐ xū qiú",
+    "m": "nhu cầu tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "情商",
+    "p": "qíng shāng",
+    "m": "trí tuệ cảm xúc (EQ)",
+    "cat": "psychology"
+  },
+  {
+    "w": "智商",
+    "p": "zhì shāng",
+    "m": "chỉ số thông minh (IQ)",
+    "cat": "psychology"
+  },
+  {
+    "w": "共情",
+    "p": "gòng qíng",
+    "m": "đồng cảm",
+    "cat": "psychology"
+  },
+  {
+    "w": "同理心",
+    "p": "tóng lǐ xīn",
+    "m": "sự thấu cảm",
+    "cat": "psychology"
+  },
+  {
+    "w": "心态",
+    "p": "xīn tài",
+    "m": "tâm thế",
+    "cat": "psychology"
+  },
+  {
+    "w": "心理预期",
+    "p": "xīn lǐ yù qī",
+    "m": "kỳ vọng tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "适应能力",
+    "p": "shì yìng néng lì",
+    "m": "khả năng thích nghi",
+    "cat": "psychology"
+  },
+  {
+    "w": "抗压能力",
+    "p": "kàng yā néng lì",
+    "m": "khả năng chịu áp lực",
+    "cat": "psychology"
+  },
+  {
+    "w": "自控力",
+    "p": "zì kòng lì",
+    "m": "khả năng tự chủ",
+    "cat": "psychology"
+  },
+  {
+    "w": "心理创伤",
+    "p": "xīn lǐ chuāng shāng",
+    "m": "sang chấn tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "恐惧",
+    "p": "kǒng jù",
+    "m": "sợ hãi",
+    "cat": "psychology"
+  },
+  {
+    "w": "强迫症",
+    "p": "qiǎng pò zhèng",
+    "m": "rối loạn ám ảnh cưỡng chế",
+    "cat": "psychology"
+  },
+  {
+    "w": "心理治疗",
+    "p": "xīn lǐ zhì liáo",
+    "m": "trị liệu tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "行为习惯",
+    "p": "xíng wéi xí guàn",
+    "m": "thói quen hành vi",
+    "cat": "psychology"
+  },
+  {
+    "w": "心理压力",
+    "p": "xīn lǐ yā lì",
+    "m": "áp lực tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "情绪波动",
+    "p": "qíng xù bō dòng",
+    "m": "biến động cảm xúc",
+    "cat": "psychology"
+  },
+  {
+    "w": "自我调节",
+    "p": "zì wǒ tiáo jié",
+    "m": "tự điều chỉnh",
+    "cat": "psychology"
+  },
+  {
+    "w": "心理平衡",
+    "p": "xīn lǐ píng héng",
+    "m": "cân bằng tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "潜能",
+    "p": "qián néng",
+    "m": "tiềm năng",
+    "cat": "psychology"
+  },
+  {
+    "w": "社会学",
+    "p": "shè huì xué",
+    "m": "xã hội học",
+    "cat": "social_science"
+  },
+  {
+    "w": "人类学",
+    "p": "rén lèi xué",
+    "m": "nhân học",
+    "cat": "social_science"
+  },
+  {
+    "w": "经济学",
+    "p": "jīng jì xué",
+    "m": "kinh tế học",
+    "cat": "social_science"
+  },
+  {
+    "w": "政治学",
+    "p": "zhèng zhì xué",
+    "m": "chính trị học",
+    "cat": "social_science"
+  },
+  {
+    "w": "人口学",
+    "p": "rén kǒu xué",
+    "m": "dân số học",
+    "cat": "social_science"
+  },
+  {
+    "w": "统计学",
+    "p": "tǒng jì xué",
+    "m": "thống kê học",
+    "cat": "social_science"
+  },
+  {
+    "w": "田野调查",
+    "p": "tián yě diào chá",
+    "m": "điều tra điền dã",
+    "cat": "social_science"
+  },
+  {
+    "w": "问卷调查",
+    "p": "wèn juàn diào chá",
+    "m": "khảo sát bảng hỏi",
+    "cat": "social_science"
+  },
+  {
+    "w": "抽样",
+    "p": "chōu yàng",
+    "m": "chọn mẫu",
+    "cat": "social_science"
+  },
+  {
+    "w": "样本",
+    "p": "yàng běn",
+    "m": "mẫu",
+    "cat": "social_science"
+  },
+  {
+    "w": "变量",
+    "p": "biàn liàng",
+    "m": "biến số",
+    "cat": "social_science"
+  },
+  {
+    "w": "相关性",
+    "p": "xiāng guān xìng",
+    "m": "tính tương quan",
+    "cat": "social_science"
+  },
+  {
+    "w": "因果关系",
+    "p": "yīn guǒ guān xì",
+    "m": "quan hệ nhân quả",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会结构",
+    "p": "shè huì jié gòu",
+    "m": "cấu trúc xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会制度",
+    "p": "shè huì zhì dù",
+    "m": "chế độ xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会规范",
+    "p": "shè huì guī fàn",
+    "m": "chuẩn mực xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会化",
+    "p": "shè huì huà",
+    "m": "xã hội hóa",
+    "cat": "social_science"
+  },
+  {
+    "w": "群体行为",
+    "p": "qún tǐ xíng wéi",
+    "m": "hành vi đám đông",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会角色",
+    "p": "shè huì jué sè",
+    "m": "vai trò xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会网络",
+    "p": "shè huì wǎng luò",
+    "m": "mạng lưới xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "文化资本",
+    "p": "wén huà zī běn",
+    "m": "vốn văn hóa",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会分层",
+    "p": "shè huì fēn céng",
+    "m": "phân tầng xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会变迁",
+    "p": "shè huì biàn qiān",
+    "m": "biến đổi xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "现代化",
+    "p": "xiàn dài huà",
+    "m": "hiện đại hóa",
+    "cat": "social_science"
+  },
+  {
+    "w": "全球化",
+    "p": "quán qiú huà",
+    "m": "toàn cầu hóa",
+    "cat": "social_science"
+  },
+  {
+    "w": "城市社会学",
+    "p": "chéng shì shè huì xué",
+    "m": "xã hội học đô thị",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会调查",
+    "p": "shè huì diào chá",
+    "m": "điều tra xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "实地研究",
+    "p": "shí dì yán jiū",
+    "m": "nghiên cứu thực địa",
+    "cat": "social_science"
+  },
+  {
+    "w": "定量分析",
+    "p": "dìng liàng fēn xī",
+    "m": "phân tích định lượng",
+    "cat": "social_science"
+  },
+  {
+    "w": "定性分析",
+    "p": "dìng xìng fēn xī",
+    "m": "phân tích định tính",
+    "cat": "social_science"
+  },
+  {
+    "w": "数据分析",
+    "p": "shù jù fēn xī",
+    "m": "phân tích dữ liệu",
+    "cat": "social_science"
+  },
+  {
+    "w": "比较研究",
+    "p": "bǐ jiào yán jiū",
+    "m": "nghiên cứu so sánh",
+    "cat": "social_science"
+  },
+  {
+    "w": "案例研究",
+    "p": "àn lì yán jiū",
+    "m": "nghiên cứu trường hợp",
+    "cat": "social_science"
+  },
+  {
+    "w": "理论框架",
+    "p": "lǐ lùn kuàng jià",
+    "m": "khung lý thuyết",
+    "cat": "social_science"
+  },
+  {
+    "w": "假设",
+    "p": "jiǎ shè",
+    "m": "giả thuyết",
+    "cat": "social_science"
+  },
+  {
+    "w": "实证",
+    "p": "shí zhèng",
+    "m": "thực chứng",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会现象",
+    "p": "shè huì xiàn xiàng",
+    "m": "hiện tượng xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "集体意识",
+    "p": "jí tǐ yì shí",
+    "m": "ý thức tập thể",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会认同",
+    "p": "shè huì rèn tóng",
+    "m": "bản sắc xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "阶级",
+    "p": "jiē jí",
+    "m": "giai cấp",
+    "cat": "social_science"
+  },
+  {
+    "w": "权力关系",
+    "p": "quán lì guān xì",
+    "m": "quan hệ quyền lực",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会冲突",
+    "p": "shè huì chōng tū",
+    "m": "xung đột xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会运动",
+    "p": "shè huì yùn dòng",
+    "m": "phong trào xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "公共领域",
+    "p": "gōng gòng lǐng yù",
+    "m": "không gian công cộng",
+    "cat": "social_science"
+  },
+  {
+    "w": "民族学",
+    "p": "mín zú xué",
+    "m": "dân tộc học",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会心理",
+    "p": "shè huì xīn lǐ",
+    "m": "tâm lý xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "行为规范",
+    "p": "xíng wéi guī fàn",
+    "m": "quy phạm hành vi",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会功能",
+    "p": "shè huì gōng néng",
+    "m": "chức năng xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "制度变迁",
+    "p": "zhì dù biàn qiān",
+    "m": "biến đổi thể chế",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会影响",
+    "p": "shè huì yǐng xiǎng",
+    "m": "ảnh hưởng xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "可行性",
+    "p": "kě xíng xìng",
+    "m": "tính khả thi",
+    "cat": "academic"
+  },
+  {
+    "w": "前瞻性",
+    "p": "qián zhān xìng",
+    "m": "tính tiên liệu, tầm nhìn xa",
+    "cat": "academic"
+  },
+  {
+    "w": "系统性",
+    "p": "xì tǒng xìng",
+    "m": "tính hệ thống",
+    "cat": "academic"
+  },
+  {
+    "w": "客观性",
+    "p": "kè guān xìng",
+    "m": "tính khách quan",
+    "cat": "academic"
+  },
+  {
+    "w": "主观性",
+    "p": "zhǔ guān xìng",
+    "m": "tính chủ quan",
+    "cat": "academic"
+  },
+  {
+    "w": "科学性",
+    "p": "kē xué xìng",
+    "m": "tính khoa học",
+    "cat": "academic"
+  },
+  {
+    "w": "逻辑性",
+    "p": "luó jí xìng",
+    "m": "tính logic",
+    "cat": "academic"
+  },
+  {
+    "w": "严谨性",
+    "p": "yán jǐn xìng",
+    "m": "tính chặt chẽ",
+    "cat": "academic"
+  },
+  {
+    "w": "创新性",
+    "p": "chuàng xīn xìng",
+    "m": "tính sáng tạo",
+    "cat": "academic"
+  },
+  {
+    "w": "论证",
+    "p": "lùn zhèng",
+    "m": "luận chứng",
+    "cat": "academic"
+  },
+  {
+    "w": "论文",
+    "p": "lùn wén",
+    "m": "luận văn, bài báo khoa học",
+    "cat": "academic"
+  },
+  {
+    "w": "文献",
+    "p": "wén xiàn",
+    "m": "tài liệu tham khảo",
+    "cat": "academic"
+  },
+  {
+    "w": "综述",
+    "p": "zōng shù",
+    "m": "tổng quan",
+    "cat": "academic"
+  },
+  {
+    "w": "引用",
+    "p": "yǐn yòng",
+    "m": "trích dẫn",
+    "cat": "academic"
+  },
+  {
+    "w": "注释",
+    "p": "zhù shì",
+    "m": "chú thích",
+    "cat": "academic"
+  },
+  {
+    "w": "摘要",
+    "p": "zhāi yào",
+    "m": "tóm tắt",
+    "cat": "academic"
+  },
+  {
+    "w": "关键词",
+    "p": "guān jiàn cí",
+    "m": "từ khóa",
+    "cat": "academic"
+  },
+  {
+    "w": "数据",
+    "p": "shù jù",
+    "m": "dữ liệu",
+    "cat": "academic"
+  },
+  {
+    "w": "指标",
+    "p": "zhǐ biāo",
+    "m": "chỉ số",
+    "cat": "academic"
+  },
+  {
+    "w": "参数",
+    "p": "cān shù",
+    "m": "tham số",
+    "cat": "academic"
+  },
+  {
+    "w": "模型",
+    "p": "mó xíng",
+    "m": "mô hình",
+    "cat": "academic"
+  },
+  {
+    "w": "框架",
+    "p": "kuàng jià",
+    "m": "khung",
+    "cat": "academic"
+  },
+  {
+    "w": "范畴",
+    "p": "fàn chóu",
+    "m": "phạm trù",
+    "cat": "academic"
+  },
+  {
+    "w": "概念",
+    "p": "gài niàn",
+    "m": "khái niệm",
+    "cat": "academic"
+  },
+  {
+    "w": "定义",
+    "p": "dìng yì",
+    "m": "định nghĩa",
+    "cat": "academic"
+  },
+  {
+    "w": "原理",
+    "p": "yuán lǐ",
+    "m": "nguyên lý",
+    "cat": "academic"
+  },
+  {
+    "w": "机制",
+    "p": "jī zhì",
+    "m": "cơ chế",
+    "cat": "academic"
+  },
+  {
+    "w": "规律",
+    "p": "guī lǜ",
+    "m": "quy luật",
+    "cat": "academic"
+  },
+  {
+    "w": "趋势",
+    "p": "qū shì",
+    "m": "xu hướng",
+    "cat": "academic"
+  },
+  {
+    "w": "标准",
+    "p": "biāo zhǔn",
+    "m": "tiêu chuẩn",
+    "cat": "academic"
+  },
+  {
+    "w": "评价体系",
+    "p": "píng jià tǐ xì",
+    "m": "hệ thống đánh giá",
+    "cat": "academic"
+  },
+  {
+    "w": "方法论",
+    "p": "fāng fǎ lùn",
+    "m": "phương pháp luận",
+    "cat": "academic"
+  },
+  {
+    "w": "学科",
+    "p": "xué kē",
+    "m": "môn học, ngành học",
+    "cat": "academic"
+  },
+  {
+    "w": "跨学科",
+    "p": "kuà xué kē",
+    "m": "liên ngành",
+    "cat": "academic"
+  },
+  {
+    "w": "学术界",
+    "p": "xué shù jiè",
+    "m": "giới học thuật",
+    "cat": "academic"
+  },
+  {
+    "w": "学派",
+    "p": "xué pài",
+    "m": "trường phái",
+    "cat": "academic"
+  },
+  {
+    "w": "理论体系",
+    "p": "lǐ lùn tǐ xì",
+    "m": "hệ thống lý thuyết",
+    "cat": "academic"
+  },
+  {
+    "w": "学术成果",
+    "p": "xué shù chéng guǒ",
+    "m": "thành quả học thuật",
+    "cat": "academic"
+  },
+  {
+    "w": "课题",
+    "p": "kè tí",
+    "m": "đề tài",
+    "cat": "academic"
+  },
+  {
+    "w": "项目",
+    "p": "xiàng mù",
+    "m": "dự án",
+    "cat": "academic"
+  },
+  {
+    "w": "调研",
+    "p": "diào yán",
+    "m": "khảo sát nghiên cứu",
+    "cat": "academic"
+  },
+  {
+    "w": "验证",
+    "p": "yàn zhèng",
+    "m": "kiểm chứng",
+    "cat": "academic"
+  },
+  {
+    "w": "推论",
+    "p": "tuī lùn",
+    "m": "suy luận",
+    "cat": "academic"
+  },
+  {
+    "w": "结论",
+    "p": "jié lùn",
+    "m": "kết luận",
+    "cat": "academic"
+  },
+  {
+    "w": "论据",
+    "p": "lùn jù",
+    "m": "luận cứ",
+    "cat": "academic"
+  },
+  {
+    "w": "论点",
+    "p": "lùn diǎn",
+    "m": "luận điểm",
+    "cat": "academic"
+  },
+  {
+    "w": "假说",
+    "p": "jiǎ shuō",
+    "m": "giả thuyết (học thuật)",
+    "cat": "academic"
+  },
+  {
+    "w": "实验",
+    "p": "shí yàn",
+    "m": "thí nghiệm",
+    "cat": "academic"
+  },
+  {
+    "w": "观测",
+    "p": "guān cè",
+    "m": "quan trắc",
+    "cat": "academic"
+  },
+  {
+    "w": "分析",
+    "p": "fēn xī",
+    "m": "phân tích",
+    "cat": "academic"
+  }
+]

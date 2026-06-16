@@ -1,0 +1,2102 @@
+[
+  {
+    "w": "hobby",
+    "p": "",
+    "m": "sở thích, thú vui",
+    "cat": "hành động"
+  },
+  {
+    "w": "collect",
+    "p": "",
+    "m": "sưu tập, thu thập",
+    "cat": "hành động"
+  },
+  {
+    "w": "paint",
+    "p": "",
+    "m": "vẽ tranh, sơn",
+    "cat": "hành động"
+  },
+  {
+    "w": "draw",
+    "p": "",
+    "m": "vẽ (bằng bút)",
+    "cat": "hành động"
+  },
+  {
+    "w": "sing",
+    "p": "",
+    "m": "hát",
+    "cat": "hành động"
+  },
+  {
+    "w": "dance",
+    "p": "",
+    "m": "nhảy, khiêu vũ",
+    "cat": "hành động"
+  },
+  {
+    "w": "cook",
+    "p": "",
+    "m": "nấu ăn",
+    "cat": "hành động"
+  },
+  {
+    "w": "bake",
+    "p": "",
+    "m": "nướng bánh",
+    "cat": "hành động"
+  },
+  {
+    "w": "garden",
+    "p": "",
+    "m": "làm vườn",
+    "cat": "hành động"
+  },
+  {
+    "w": "knit",
+    "p": "",
+    "m": "đan len",
+    "cat": "hành động"
+  },
+  {
+    "w": "sew",
+    "p": "",
+    "m": "may vá",
+    "cat": "hành động"
+  },
+  {
+    "w": "photograph",
+    "p": "",
+    "m": "chụp ảnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "travel",
+    "p": "",
+    "m": "du lịch, đi lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "camp",
+    "p": "",
+    "m": "cắm trại",
+    "cat": "hành động"
+  },
+  {
+    "w": "hike",
+    "p": "",
+    "m": "đi bộ đường dài",
+    "cat": "hành động"
+  },
+  {
+    "w": "swim",
+    "p": "",
+    "m": "bơi lội",
+    "cat": "hành động"
+  },
+  {
+    "w": "cycle",
+    "p": "",
+    "m": "đạp xe",
+    "cat": "hành động"
+  },
+  {
+    "w": "run",
+    "p": "",
+    "m": "chạy",
+    "cat": "hành động"
+  },
+  {
+    "w": "jump",
+    "p": "",
+    "m": "nhảy",
+    "cat": "hành động"
+  },
+  {
+    "w": "kick",
+    "p": "",
+    "m": "đá (bóng)",
+    "cat": "hành động"
+  },
+  {
+    "w": "throw",
+    "p": "",
+    "m": "ném, quăng",
+    "cat": "hành động"
+  },
+  {
+    "w": "catch",
+    "p": "",
+    "m": "bắt (bóng)",
+    "cat": "hành động"
+  },
+  {
+    "w": "hit",
+    "p": "",
+    "m": "đánh, vụt (bóng)",
+    "cat": "hành động"
+  },
+  {
+    "w": "score",
+    "p": "",
+    "m": "ghi điểm",
+    "cat": "hành động"
+  },
+  {
+    "w": "win",
+    "p": "",
+    "m": "thắng, chiến thắng",
+    "cat": "hành động"
+  },
+  {
+    "w": "lose",
+    "p": "",
+    "m": "thua, thất bại",
+    "cat": "hành động"
+  },
+  {
+    "w": "play",
+    "p": "",
+    "m": "chơi, thi đấu",
+    "cat": "hành động"
+  },
+  {
+    "w": "train",
+    "p": "",
+    "m": "luyện tập, huấn luyện",
+    "cat": "hành động"
+  },
+  {
+    "w": "exercise",
+    "p": "",
+    "m": "tập thể dục",
+    "cat": "hành động"
+  },
+  {
+    "w": "stretch",
+    "p": "",
+    "m": "khởi động, duỗi người",
+    "cat": "hành động"
+  },
+  {
+    "w": "football",
+    "p": "",
+    "m": "bóng đá",
+    "cat": "thể thao"
+  },
+  {
+    "w": "basketball",
+    "p": "",
+    "m": "bóng rổ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "volleyball",
+    "p": "",
+    "m": "bóng chuyền",
+    "cat": "thể thao"
+  },
+  {
+    "w": "tennis",
+    "p": "",
+    "m": "quần vợt, tennis",
+    "cat": "thể thao"
+  },
+  {
+    "w": "badminton",
+    "p": "",
+    "m": "cầu lông",
+    "cat": "thể thao"
+  },
+  {
+    "w": "swimming",
+    "p": "",
+    "m": "môn bơi lội",
+    "cat": "thể thao"
+  },
+  {
+    "w": "cycling",
+    "p": "",
+    "m": "đua xe đạp",
+    "cat": "thể thao"
+  },
+  {
+    "w": "running",
+    "p": "",
+    "m": "chạy bộ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "gymnastics",
+    "p": "",
+    "m": "thể dục dụng cụ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "golf",
+    "p": "",
+    "m": "môn golf",
+    "cat": "thể thao"
+  },
+  {
+    "w": "boxing",
+    "p": "",
+    "m": "quyền anh, boxing",
+    "cat": "thể thao"
+  },
+  {
+    "w": "yoga",
+    "p": "",
+    "m": "yoga",
+    "cat": "thể thao"
+  },
+  {
+    "w": "team",
+    "p": "",
+    "m": "đội, nhóm",
+    "cat": "thể thao"
+  },
+  {
+    "w": "player",
+    "p": "",
+    "m": "cầu thủ, người chơi",
+    "cat": "thể thao"
+  },
+  {
+    "w": "coach",
+    "p": "",
+    "m": "huấn luyện viên",
+    "cat": "thể thao"
+  },
+  {
+    "w": "referee",
+    "p": "",
+    "m": "trọng tài",
+    "cat": "thể thao"
+  },
+  {
+    "w": "stadium",
+    "p": "",
+    "m": "sân vận động",
+    "cat": "thể thao"
+  },
+  {
+    "w": "match",
+    "p": "",
+    "m": "trận đấu",
+    "cat": "thể thao"
+  },
+  {
+    "w": "goal",
+    "p": "",
+    "m": "bàn thắng, mục tiêu",
+    "cat": "thể thao"
+  },
+  {
+    "w": "point",
+    "p": "",
+    "m": "điểm số",
+    "cat": "thể thao"
+  },
+  {
+    "w": "shop",
+    "p": "",
+    "m": "cửa hàng, đi mua sắm",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "store",
+    "p": "",
+    "m": "cửa hàng, kho",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "market",
+    "p": "",
+    "m": "chợ, thị trường",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "supermarket",
+    "p": "",
+    "m": "siêu thị",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "mall",
+    "p": "",
+    "m": "trung tâm thương mại",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "price",
+    "p": "",
+    "m": "giá cả",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "cost",
+    "p": "",
+    "m": "chi phí, giá",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "cheap",
+    "p": "",
+    "m": "rẻ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "expensive",
+    "p": "",
+    "m": "đắt tiền",
+    "cat": "tính từ"
+  },
+  {
+    "w": "discount",
+    "p": "",
+    "m": "giảm giá",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "sale",
+    "p": "",
+    "m": "khuyến mãi, bán hàng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "buy",
+    "p": "",
+    "m": "mua",
+    "cat": "hành động"
+  },
+  {
+    "w": "sell",
+    "p": "",
+    "m": "bán",
+    "cat": "hành động"
+  },
+  {
+    "w": "pay",
+    "p": "",
+    "m": "trả tiền",
+    "cat": "hành động"
+  },
+  {
+    "w": "spend",
+    "p": "",
+    "m": "tiêu tiền",
+    "cat": "hành động"
+  },
+  {
+    "w": "save",
+    "p": "",
+    "m": "tiết kiệm",
+    "cat": "hành động"
+  },
+  {
+    "w": "receipt",
+    "p": "",
+    "m": "hóa đơn, biên lai",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "cash",
+    "p": "",
+    "m": "tiền mặt",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "card",
+    "p": "",
+    "m": "thẻ (ngân hàng)",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "change",
+    "p": "",
+    "m": "tiền thối lại",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "bag",
+    "p": "",
+    "m": "túi, giỏ xách",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "cart",
+    "p": "",
+    "m": "xe đẩy (mua hàng)",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "size",
+    "p": "",
+    "m": "kích cỡ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fit",
+    "p": "",
+    "m": "vừa vặn, phù hợp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "try on",
+    "p": "",
+    "m": "thử (quần áo)",
+    "cat": "hành động"
+  },
+  {
+    "w": "return",
+    "p": "",
+    "m": "trả lại hàng",
+    "cat": "hành động"
+  },
+  {
+    "w": "exchange",
+    "p": "",
+    "m": "đổi hàng",
+    "cat": "hành động"
+  },
+  {
+    "w": "queue",
+    "p": "",
+    "m": "xếp hàng, hàng chờ",
+    "cat": "hành động"
+  },
+  {
+    "w": "brand",
+    "p": "",
+    "m": "thương hiệu, nhãn hiệu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "product",
+    "p": "",
+    "m": "sản phẩm",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "headache",
+    "p": "",
+    "m": "đau đầu",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "stomachache",
+    "p": "",
+    "m": "đau bụng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "fever",
+    "p": "",
+    "m": "sốt",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "cold",
+    "p": "",
+    "m": "cảm lạnh",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "cough",
+    "p": "",
+    "m": "ho",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "flu",
+    "p": "",
+    "m": "cúm",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "pain",
+    "p": "",
+    "m": "đau đớn",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "tired",
+    "p": "",
+    "m": "mệt mỏi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sick",
+    "p": "",
+    "m": "ốm, bệnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "healthy",
+    "p": "",
+    "m": "khỏe mạnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "medicine",
+    "p": "",
+    "m": "thuốc, y học",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "pill",
+    "p": "",
+    "m": "viên thuốc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "doctor",
+    "p": "",
+    "m": "bác sĩ",
+    "cat": "công việc"
+  },
+  {
+    "w": "nurse",
+    "p": "",
+    "m": "y tá",
+    "cat": "công việc"
+  },
+  {
+    "w": "hospital",
+    "p": "",
+    "m": "bệnh viện",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "pharmacy",
+    "p": "",
+    "m": "nhà thuốc",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "appointment",
+    "p": "",
+    "m": "cuộc hẹn (bác sĩ)",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "rest",
+    "p": "",
+    "m": "nghỉ ngơi",
+    "cat": "hành động"
+  },
+  {
+    "w": "sleep",
+    "p": "",
+    "m": "ngủ",
+    "cat": "hành động"
+  },
+  {
+    "w": "eat well",
+    "p": "",
+    "m": "ăn uống đầy đủ",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "drink water",
+    "p": "",
+    "m": "uống nước",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "allergic",
+    "p": "",
+    "m": "bị dị ứng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "injury",
+    "p": "",
+    "m": "chấn thương",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "bleed",
+    "p": "",
+    "m": "chảy máu",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "bandage",
+    "p": "",
+    "m": "băng bó vết thương",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "temperature",
+    "p": "",
+    "m": "nhiệt độ cơ thể",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "bus",
+    "p": "",
+    "m": "xe buýt",
+    "cat": "giao thông"
+  },
+  {
+    "w": "subway",
+    "p": "",
+    "m": "tàu điện ngầm",
+    "cat": "giao thông"
+  },
+  {
+    "w": "taxi",
+    "p": "",
+    "m": "xe taxi",
+    "cat": "giao thông"
+  },
+  {
+    "w": "car",
+    "p": "",
+    "m": "ô tô, xe hơi",
+    "cat": "giao thông"
+  },
+  {
+    "w": "bicycle",
+    "p": "",
+    "m": "xe đạp",
+    "cat": "giao thông"
+  },
+  {
+    "w": "motorbike",
+    "p": "",
+    "m": "xe máy",
+    "cat": "giao thông"
+  },
+  {
+    "w": "plane",
+    "p": "",
+    "m": "máy bay",
+    "cat": "giao thông"
+  },
+  {
+    "w": "boat",
+    "p": "",
+    "m": "thuyền, tàu",
+    "cat": "giao thông"
+  },
+  {
+    "w": "ferry",
+    "p": "",
+    "m": "phà",
+    "cat": "giao thông"
+  },
+  {
+    "w": "station",
+    "p": "",
+    "m": "ga, bến xe",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "airport",
+    "p": "",
+    "m": "sân bay",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "stop",
+    "p": "",
+    "m": "trạm dừng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "ticket",
+    "p": "",
+    "m": "vé",
+    "cat": "giao thông"
+  },
+  {
+    "w": "platform",
+    "p": "",
+    "m": "sân ga, ke ga",
+    "cat": "giao thông"
+  },
+  {
+    "w": "delay",
+    "p": "",
+    "m": "trễ giờ, chậm trễ",
+    "cat": "giao thông"
+  },
+  {
+    "w": "departure",
+    "p": "",
+    "m": "khởi hành, xuất phát",
+    "cat": "giao thông"
+  },
+  {
+    "w": "arrival",
+    "p": "",
+    "m": "đến nơi, đến đích",
+    "cat": "giao thông"
+  },
+  {
+    "w": "direction",
+    "p": "",
+    "m": "hướng, phương hướng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "map",
+    "p": "",
+    "m": "bản đồ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "turn left",
+    "p": "",
+    "m": "rẽ trái",
+    "cat": "giao thông"
+  },
+  {
+    "w": "turn right",
+    "p": "",
+    "m": "rẽ phải",
+    "cat": "giao thông"
+  },
+  {
+    "w": "straight ahead",
+    "p": "",
+    "m": "đi thẳng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "near",
+    "p": "",
+    "m": "gần",
+    "cat": "tính từ"
+  },
+  {
+    "w": "far",
+    "p": "",
+    "m": "xa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "traffic",
+    "p": "",
+    "m": "giao thông, kẹt xe",
+    "cat": "giao thông"
+  },
+  {
+    "w": "road",
+    "p": "",
+    "m": "đường, con đường",
+    "cat": "giao thông"
+  },
+  {
+    "w": "street",
+    "p": "",
+    "m": "phố, đường phố",
+    "cat": "giao thông"
+  },
+  {
+    "w": "tall",
+    "p": "",
+    "m": "cao (người)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "short",
+    "p": "",
+    "m": "thấp, lùn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "thin",
+    "p": "",
+    "m": "gầy",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fat",
+    "p": "",
+    "m": "béo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "young",
+    "p": "",
+    "m": "trẻ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "old",
+    "p": "",
+    "m": "già, cũ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "beautiful",
+    "p": "",
+    "m": "đẹp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "handsome",
+    "p": "",
+    "m": "đẹp trai",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ugly",
+    "p": "",
+    "m": "xấu xí",
+    "cat": "tính từ"
+  },
+  {
+    "w": "strong",
+    "p": "",
+    "m": "mạnh mẽ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "weak",
+    "p": "",
+    "m": "yếu đuối",
+    "cat": "tính từ"
+  },
+  {
+    "w": "friendly",
+    "p": "",
+    "m": "thân thiện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "shy",
+    "p": "",
+    "m": "nhút nhát, e thẹn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "funny",
+    "p": "",
+    "m": "buồn cười, hài hước",
+    "cat": "tính từ"
+  },
+  {
+    "w": "serious",
+    "p": "",
+    "m": "nghiêm túc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "kind",
+    "p": "",
+    "m": "tốt bụng, thân ái",
+    "cat": "tính từ"
+  },
+  {
+    "w": "rude",
+    "p": "",
+    "m": "thô lỗ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "smart",
+    "p": "",
+    "m": "thông minh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "lazy",
+    "p": "",
+    "m": "lười biếng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hard-working",
+    "p": "",
+    "m": "chăm chỉ, cần cù",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hair",
+    "p": "",
+    "m": "tóc",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "eyes",
+    "p": "",
+    "m": "mắt",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "nose",
+    "p": "",
+    "m": "mũi",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "mouth",
+    "p": "",
+    "m": "miệng",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "ear",
+    "p": "",
+    "m": "tai",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "face",
+    "p": "",
+    "m": "khuôn mặt",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "beard",
+    "p": "",
+    "m": "râu",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "glasses",
+    "p": "",
+    "m": "kính mắt",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "wear",
+    "p": "",
+    "m": "mặc, đội, đeo",
+    "cat": "hành động"
+  },
+  {
+    "w": "look like",
+    "p": "",
+    "m": "trông giống, có vẻ",
+    "cat": "hành động"
+  },
+  {
+    "w": "smile",
+    "p": "",
+    "m": "nụ cười, mỉm cười",
+    "cat": "hành động"
+  },
+  {
+    "w": "medium height",
+    "p": "",
+    "m": "tầm vóc trung bình",
+    "cat": "tính từ"
+  },
+  {
+    "w": "straight hair",
+    "p": "",
+    "m": "tóc thẳng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "curly hair",
+    "p": "",
+    "m": "tóc xoăn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "blonde",
+    "p": "",
+    "m": "tóc vàng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "brunette",
+    "p": "",
+    "m": "tóc nâu đen",
+    "cat": "tính từ"
+  },
+  {
+    "w": "look at",
+    "p": "",
+    "m": "nhìn vào",
+    "cat": "hành động"
+  },
+  {
+    "w": "watch",
+    "p": "",
+    "m": "xem, theo dõi",
+    "cat": "hành động"
+  },
+  {
+    "w": "listen",
+    "p": "",
+    "m": "lắng nghe",
+    "cat": "hành động"
+  },
+  {
+    "w": "speak",
+    "p": "",
+    "m": "nói chuyện",
+    "cat": "hành động"
+  },
+  {
+    "w": "read",
+    "p": "",
+    "m": "đọc",
+    "cat": "hành động"
+  },
+  {
+    "w": "write",
+    "p": "",
+    "m": "viết",
+    "cat": "hành động"
+  },
+  {
+    "w": "understand",
+    "p": "",
+    "m": "hiểu",
+    "cat": "hành động"
+  },
+  {
+    "w": "know",
+    "p": "",
+    "m": "biết",
+    "cat": "hành động"
+  },
+  {
+    "w": "think",
+    "p": "",
+    "m": "nghĩ",
+    "cat": "hành động"
+  },
+  {
+    "w": "remember",
+    "p": "",
+    "m": "nhớ lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "forget",
+    "p": "",
+    "m": "quên",
+    "cat": "hành động"
+  },
+  {
+    "w": "learn",
+    "p": "",
+    "m": "học hỏi",
+    "cat": "hành động"
+  },
+  {
+    "w": "teach",
+    "p": "",
+    "m": "dạy, giảng dạy",
+    "cat": "hành động"
+  },
+  {
+    "w": "help",
+    "p": "",
+    "m": "giúp đỡ",
+    "cat": "hành động"
+  },
+  {
+    "w": "try",
+    "p": "",
+    "m": "cố gắng, thử",
+    "cat": "hành động"
+  },
+  {
+    "w": "start",
+    "p": "",
+    "m": "bắt đầu",
+    "cat": "hành động"
+  },
+  {
+    "w": "finish",
+    "p": "",
+    "m": "hoàn thành, kết thúc",
+    "cat": "hành động"
+  },
+  {
+    "w": "continue",
+    "p": "",
+    "m": "tiếp tục",
+    "cat": "hành động"
+  },
+  {
+    "w": "wait",
+    "p": "",
+    "m": "chờ đợi",
+    "cat": "hành động"
+  },
+  {
+    "w": "arrive",
+    "p": "",
+    "m": "đến nơi",
+    "cat": "hành động"
+  },
+  {
+    "w": "leave",
+    "p": "",
+    "m": "rời đi, xuất phát",
+    "cat": "hành động"
+  },
+  {
+    "w": "bring",
+    "p": "",
+    "m": "mang theo",
+    "cat": "hành động"
+  },
+  {
+    "w": "take",
+    "p": "",
+    "m": "lấy, đưa đi",
+    "cat": "hành động"
+  },
+  {
+    "w": "give",
+    "p": "",
+    "m": "cho, tặng",
+    "cat": "hành động"
+  },
+  {
+    "w": "get",
+    "p": "",
+    "m": "nhận, lấy",
+    "cat": "hành động"
+  },
+  {
+    "w": "need",
+    "p": "",
+    "m": "cần",
+    "cat": "hành động"
+  },
+  {
+    "w": "want",
+    "p": "",
+    "m": "muốn",
+    "cat": "hành động"
+  },
+  {
+    "w": "like",
+    "p": "",
+    "m": "thích",
+    "cat": "hành động"
+  },
+  {
+    "w": "love",
+    "p": "",
+    "m": "yêu, yêu thích",
+    "cat": "hành động"
+  },
+  {
+    "w": "hate",
+    "p": "",
+    "m": "ghét",
+    "cat": "hành động"
+  },
+  {
+    "w": "prefer",
+    "p": "",
+    "m": "thích hơn, ưa hơn",
+    "cat": "hành động"
+  },
+  {
+    "w": "enjoy",
+    "p": "",
+    "m": "thích thú, tận hưởng",
+    "cat": "hành động"
+  },
+  {
+    "w": "feel",
+    "p": "",
+    "m": "cảm thấy",
+    "cat": "hành động"
+  },
+  {
+    "w": "seem",
+    "p": "",
+    "m": "có vẻ, trông",
+    "cat": "hành động"
+  },
+  {
+    "w": "become",
+    "p": "",
+    "m": "trở thành",
+    "cat": "hành động"
+  },
+  {
+    "w": "happen",
+    "p": "",
+    "m": "xảy ra",
+    "cat": "hành động"
+  },
+  {
+    "w": "use",
+    "p": "",
+    "m": "sử dụng",
+    "cat": "hành động"
+  },
+  {
+    "w": "make",
+    "p": "",
+    "m": "làm, tạo ra",
+    "cat": "hành động"
+  },
+  {
+    "w": "find",
+    "p": "",
+    "m": "tìm thấy",
+    "cat": "hành động"
+  },
+  {
+    "w": "open",
+    "p": "",
+    "m": "mở",
+    "cat": "hành động"
+  },
+  {
+    "w": "close",
+    "p": "",
+    "m": "đóng",
+    "cat": "hành động"
+  },
+  {
+    "w": "put",
+    "p": "",
+    "m": "đặt, để",
+    "cat": "hành động"
+  },
+  {
+    "w": "sit",
+    "p": "",
+    "m": "ngồi",
+    "cat": "hành động"
+  },
+  {
+    "w": "stand",
+    "p": "",
+    "m": "đứng",
+    "cat": "hành động"
+  },
+  {
+    "w": "walk",
+    "p": "",
+    "m": "đi bộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "quickly",
+    "p": "",
+    "m": "nhanh chóng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "slowly",
+    "p": "",
+    "m": "từ từ, chậm rãi",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "carefully",
+    "p": "",
+    "m": "cẩn thận",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "easily",
+    "p": "",
+    "m": "dễ dàng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "well",
+    "p": "",
+    "m": "tốt, giỏi",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "badly",
+    "p": "",
+    "m": "tệ, kém",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "often",
+    "p": "",
+    "m": "thường xuyên",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "sometimes",
+    "p": "",
+    "m": "đôi khi",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "never",
+    "p": "",
+    "m": "không bao giờ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "always",
+    "p": "",
+    "m": "luôn luôn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "usually",
+    "p": "",
+    "m": "thường thường",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "already",
+    "p": "",
+    "m": "đã rồi",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "still",
+    "p": "",
+    "m": "vẫn còn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "just",
+    "p": "",
+    "m": "vừa mới",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "too",
+    "p": "",
+    "m": "cũng, quá",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "very",
+    "p": "",
+    "m": "rất",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "quite",
+    "p": "",
+    "m": "khá",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "really",
+    "p": "",
+    "m": "thực sự",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "maybe",
+    "p": "",
+    "m": "có lẽ, có thể",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "probably",
+    "p": "",
+    "m": "có lẽ, chắc là",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "happy",
+    "p": "",
+    "m": "hạnh phúc, vui vẻ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "sad",
+    "p": "",
+    "m": "buồn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "angry",
+    "p": "",
+    "m": "tức giận",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "scared",
+    "p": "",
+    "m": "sợ hãi",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "surprised",
+    "p": "",
+    "m": "ngạc nhiên",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "excited",
+    "p": "",
+    "m": "hào hứng, phấn khích",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "bored",
+    "p": "",
+    "m": "chán nản",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "nervous",
+    "p": "",
+    "m": "lo lắng, hồi hộp",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "relaxed",
+    "p": "",
+    "m": "thoải mái, thư giãn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "worried",
+    "p": "",
+    "m": "lo lắng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "proud",
+    "p": "",
+    "m": "tự hào",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "embarrassed",
+    "p": "",
+    "m": "xấu hổ, ngại ngùng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "shirt",
+    "p": "",
+    "m": "áo sơ mi",
+    "cat": "quần áo"
+  },
+  {
+    "w": "trousers",
+    "p": "",
+    "m": "quần dài",
+    "cat": "quần áo"
+  },
+  {
+    "w": "jeans",
+    "p": "",
+    "m": "quần jeans",
+    "cat": "quần áo"
+  },
+  {
+    "w": "dress",
+    "p": "",
+    "m": "váy đầm",
+    "cat": "quần áo"
+  },
+  {
+    "w": "skirt",
+    "p": "",
+    "m": "chân váy",
+    "cat": "quần áo"
+  },
+  {
+    "w": "jacket",
+    "p": "",
+    "m": "áo khoác ngắn",
+    "cat": "quần áo"
+  },
+  {
+    "w": "coat",
+    "p": "",
+    "m": "áo khoác dài",
+    "cat": "quần áo"
+  },
+  {
+    "w": "shoes",
+    "p": "",
+    "m": "giày",
+    "cat": "quần áo"
+  },
+  {
+    "w": "boots",
+    "p": "",
+    "m": "giày ống, bốt",
+    "cat": "quần áo"
+  },
+  {
+    "w": "socks",
+    "p": "",
+    "m": "tất, vớ",
+    "cat": "quần áo"
+  },
+  {
+    "w": "hat",
+    "p": "",
+    "m": "mũ, nón",
+    "cat": "quần áo"
+  },
+  {
+    "w": "scarf",
+    "p": "",
+    "m": "khăn quàng cổ",
+    "cat": "quần áo"
+  },
+  {
+    "w": "belt",
+    "p": "",
+    "m": "thắt lưng, dây nịt",
+    "cat": "quần áo"
+  },
+  {
+    "w": "uniform",
+    "p": "",
+    "m": "đồng phục",
+    "cat": "quần áo"
+  },
+  {
+    "w": "swimsuit",
+    "p": "",
+    "m": "đồ bơi",
+    "cat": "quần áo"
+  },
+  {
+    "w": "sportswear",
+    "p": "",
+    "m": "đồ thể thao",
+    "cat": "quần áo"
+  },
+  {
+    "w": "cotton",
+    "p": "",
+    "m": "vải cotton",
+    "cat": "quần áo"
+  },
+  {
+    "w": "warm",
+    "p": "",
+    "m": "ấm áp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "comfortable",
+    "p": "",
+    "m": "thoải mái, dễ chịu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "modern",
+    "p": "",
+    "m": "hiện đại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "coffee shop",
+    "p": "",
+    "m": "quán cà phê",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "restaurant",
+    "p": "",
+    "m": "nhà hàng",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "park",
+    "p": "",
+    "m": "công viên",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "library",
+    "p": "",
+    "m": "thư viện",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "gym",
+    "p": "",
+    "m": "phòng tập gym",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "swimming pool",
+    "p": "",
+    "m": "bể bơi",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "sports center",
+    "p": "",
+    "m": "trung tâm thể thao",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "cinema",
+    "p": "",
+    "m": "rạp chiếu phim",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "theatre",
+    "p": "",
+    "m": "nhà hát",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "beach",
+    "p": "",
+    "m": "bãi biển",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "mountain",
+    "p": "",
+    "m": "núi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "river",
+    "p": "",
+    "m": "sông",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "lake",
+    "p": "",
+    "m": "hồ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "forest",
+    "p": "",
+    "m": "rừng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "picnic",
+    "p": "",
+    "m": "dã ngoại, picnic",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "festival",
+    "p": "",
+    "m": "lễ hội",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "concert",
+    "p": "",
+    "m": "buổi hòa nhạc",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "exhibition",
+    "p": "",
+    "m": "triển lãm",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "museum",
+    "p": "",
+    "m": "bảo tàng",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "art gallery",
+    "p": "",
+    "m": "phòng tranh, gallery",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "painting",
+    "p": "",
+    "m": "bức tranh, tranh sơn dầu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "sculpture",
+    "p": "",
+    "m": "điêu khắc, tượng",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "music",
+    "p": "",
+    "m": "âm nhạc",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "song",
+    "p": "",
+    "m": "bài hát",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "instrument",
+    "p": "",
+    "m": "nhạc cụ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "guitar",
+    "p": "",
+    "m": "đàn guitar",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "piano",
+    "p": "",
+    "m": "đàn piano",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "drums",
+    "p": "",
+    "m": "trống",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "film",
+    "p": "",
+    "m": "phim, bộ phim",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "book",
+    "p": "",
+    "m": "sách",
+    "cat": "học tập"
+  },
+  {
+    "w": "magazine",
+    "p": "",
+    "m": "tạp chí",
+    "cat": "học tập"
+  },
+  {
+    "w": "newspaper",
+    "p": "",
+    "m": "báo, nhật báo",
+    "cat": "học tập"
+  },
+  {
+    "w": "article",
+    "p": "",
+    "m": "bài báo, bài viết",
+    "cat": "học tập"
+  },
+  {
+    "w": "chapter",
+    "p": "",
+    "m": "chương (sách)",
+    "cat": "học tập"
+  },
+  {
+    "w": "story",
+    "p": "",
+    "m": "câu chuyện",
+    "cat": "học tập"
+  },
+  {
+    "w": "novel",
+    "p": "",
+    "m": "tiểu thuyết",
+    "cat": "học tập"
+  },
+  {
+    "w": "poem",
+    "p": "",
+    "m": "bài thơ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "practice",
+    "p": "",
+    "m": "thực hành, luyện tập",
+    "cat": "hành động"
+  },
+  {
+    "w": "improve",
+    "p": "",
+    "m": "cải thiện, tiến bộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "progress",
+    "p": "",
+    "m": "tiến bộ, sự phát triển",
+    "cat": "học tập"
+  },
+  {
+    "w": "skill",
+    "p": "",
+    "m": "kỹ năng",
+    "cat": "học tập"
+  },
+  {
+    "w": "beginner",
+    "p": "",
+    "m": "người mới bắt đầu",
+    "cat": "học tập"
+  },
+  {
+    "w": "level",
+    "p": "",
+    "m": "trình độ, cấp độ",
+    "cat": "học tập"
+  },
+  {
+    "w": "course",
+    "p": "",
+    "m": "khóa học",
+    "cat": "học tập"
+  },
+  {
+    "w": "lesson",
+    "p": "",
+    "m": "bài học",
+    "cat": "học tập"
+  },
+  {
+    "w": "class",
+    "p": "",
+    "m": "lớp học",
+    "cat": "học tập"
+  },
+  {
+    "w": "student",
+    "p": "",
+    "m": "học sinh, sinh viên",
+    "cat": "học tập"
+  },
+  {
+    "w": "teacher",
+    "p": "",
+    "m": "giáo viên",
+    "cat": "công việc"
+  },
+  {
+    "w": "test",
+    "p": "",
+    "m": "bài kiểm tra",
+    "cat": "học tập"
+  },
+  {
+    "w": "exam",
+    "p": "",
+    "m": "kỳ thi",
+    "cat": "học tập"
+  },
+  {
+    "w": "answer",
+    "p": "",
+    "m": "câu trả lời, trả lời",
+    "cat": "học tập"
+  },
+  {
+    "w": "question",
+    "p": "",
+    "m": "câu hỏi",
+    "cat": "học tập"
+  },
+  {
+    "w": "explain",
+    "p": "",
+    "m": "giải thích",
+    "cat": "hành động"
+  },
+  {
+    "w": "repeat",
+    "p": "",
+    "m": "lặp lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "review",
+    "p": "",
+    "m": "ôn tập, xem lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "study",
+    "p": "",
+    "m": "học, nghiên cứu",
+    "cat": "hành động"
+  },
+  {
+    "w": "computer",
+    "p": "",
+    "m": "máy tính",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "phone",
+    "p": "",
+    "m": "điện thoại",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "internet",
+    "p": "",
+    "m": "mạng internet",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "website",
+    "p": "",
+    "m": "trang web",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "email",
+    "p": "",
+    "m": "thư điện tử",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "message",
+    "p": "",
+    "m": "tin nhắn",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "photo",
+    "p": "",
+    "m": "ảnh, hình ảnh",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "video",
+    "p": "",
+    "m": "video, clip",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "download",
+    "p": "",
+    "m": "tải xuống",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "upload",
+    "p": "",
+    "m": "tải lên",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "app",
+    "p": "",
+    "m": "ứng dụng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "search",
+    "p": "",
+    "m": "tìm kiếm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "password",
+    "p": "",
+    "m": "mật khẩu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "social media",
+    "p": "",
+    "m": "mạng xã hội",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "online",
+    "p": "",
+    "m": "trực tuyến",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "offline",
+    "p": "",
+    "m": "ngoại tuyến, không mạng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "screen",
+    "p": "",
+    "m": "màn hình",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "keyboard",
+    "p": "",
+    "m": "bàn phím",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "mouse",
+    "p": "",
+    "m": "chuột máy tính",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "printer",
+    "p": "",
+    "m": "máy in",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "camera",
+    "p": "",
+    "m": "máy ảnh",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "battery",
+    "p": "",
+    "m": "pin, ắc quy",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "charge",
+    "p": "",
+    "m": "sạc (điện thoại)",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "wallet",
+    "p": "",
+    "m": "ví tiền",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "key",
+    "p": "",
+    "m": "chìa khóa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "umbrella",
+    "p": "",
+    "m": "ô dù",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bottle",
+    "p": "",
+    "m": "chai lọ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "cup",
+    "p": "",
+    "m": "cốc, tách",
+    "cat": "đồ vật"
+  }
+]

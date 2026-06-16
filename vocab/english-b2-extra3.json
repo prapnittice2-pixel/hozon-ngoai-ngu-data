@@ -1,0 +1,2402 @@
+[
+  {
+    "w": "abrupt",
+    "p": "",
+    "m": "đột ngột, bất ngờ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "abstain",
+    "p": "",
+    "m": "kiêng, tự kiềm chế, bỏ phiếu trắng",
+    "cat": "hành động"
+  },
+  {
+    "w": "acrimony",
+    "p": "",
+    "m": "sự cay đắng, thái độ gay gắt",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "adept",
+    "p": "",
+    "m": "thành thạo, giỏi giang",
+    "cat": "tính từ"
+  },
+  {
+    "w": "affiliation",
+    "p": "",
+    "m": "sự liên kết, thành viên của tổ chức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "aggravate",
+    "p": "",
+    "m": "làm trầm trọng thêm, làm tức giận",
+    "cat": "hành động"
+  },
+  {
+    "w": "aggregate",
+    "p": "",
+    "m": "tổng hợp, gộp lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "agitate",
+    "p": "",
+    "m": "kích động, khuấy động",
+    "cat": "hành động"
+  },
+  {
+    "w": "aloof",
+    "p": "",
+    "m": "xa cách, lạnh lùng, không nhiệt tình",
+    "cat": "tính từ"
+  },
+  {
+    "w": "altercation",
+    "p": "",
+    "m": "cuộc cãi vã, tranh luận gay gắt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ameliorate",
+    "p": "",
+    "m": "cải thiện, làm tốt hơn",
+    "cat": "hành động"
+  },
+  {
+    "w": "amend",
+    "p": "",
+    "m": "sửa đổi, tu chỉnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "anachronistic",
+    "p": "",
+    "m": "lỗi thời, không phù hợp với thời đại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "anecdotal",
+    "p": "",
+    "m": "dựa trên giai thoại cá nhân, không phải số liệu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "anomaly",
+    "p": "",
+    "m": "điều bất thường, ngoại lệ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "antagonize",
+    "p": "",
+    "m": "gây thù địch, chọc tức",
+    "cat": "hành động"
+  },
+  {
+    "w": "anthropology",
+    "p": "",
+    "m": "nhân học, khoa học về con người",
+    "cat": "học thuật"
+  },
+  {
+    "w": "appease",
+    "p": "",
+    "m": "xoa dịu, làm nguôi giận",
+    "cat": "hành động"
+  },
+  {
+    "w": "aptitude",
+    "p": "",
+    "m": "năng khiếu, khả năng tự nhiên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "arbitrary",
+    "p": "",
+    "m": "tùy tiện, không có căn cứ hợp lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "arcane",
+    "p": "",
+    "m": "bí ẩn, chỉ người trong cuộc biết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ardent",
+    "p": "",
+    "m": "nhiệt thành, sôi nổi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "articulate",
+    "p": "",
+    "m": "diễn đạt rõ ràng, lưu loát",
+    "cat": "hành động"
+  },
+  {
+    "w": "assimilate",
+    "p": "",
+    "m": "đồng hóa, hấp thụ vào văn hóa khác",
+    "cat": "hành động"
+  },
+  {
+    "w": "attain",
+    "p": "",
+    "m": "đạt được, đạt tới",
+    "cat": "hành động"
+  },
+  {
+    "w": "attrition",
+    "p": "",
+    "m": "sự hao mòn dần, mất nhân lực từ từ",
+    "cat": "công việc"
+  },
+  {
+    "w": "augment",
+    "p": "",
+    "m": "bổ sung, tăng thêm",
+    "cat": "hành động"
+  },
+  {
+    "w": "authoritarian",
+    "p": "",
+    "m": "độc đoán, chuyên quyền",
+    "cat": "tính từ"
+  },
+  {
+    "w": "backlash",
+    "p": "",
+    "m": "phản ứng mạnh mẽ chống lại, phản đối dữ dội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "bargaining power",
+    "p": "",
+    "m": "quyền thương lượng, sức mạnh đàm phán",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "baseline",
+    "p": "",
+    "m": "mức cơ sở, điểm khởi đầu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "bellicose",
+    "p": "",
+    "m": "hiếu chiến, gây hấn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "benevolent",
+    "p": "",
+    "m": "nhân từ, hào phóng, có thiện ý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "bilateral",
+    "p": "",
+    "m": "song phương",
+    "cat": "chính trị"
+  },
+  {
+    "w": "blunt",
+    "p": "",
+    "m": "thẳng thắn, cộc lốc; làm cùn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "bolster",
+    "p": "",
+    "m": "củng cố, tăng cường hỗ trợ",
+    "cat": "hành động"
+  },
+  {
+    "w": "bottleneck",
+    "p": "",
+    "m": "điểm tắc nghẽn, cổ chai",
+    "cat": "công việc"
+  },
+  {
+    "w": "bound by",
+    "p": "",
+    "m": "bị ràng buộc bởi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "breakdown",
+    "p": "",
+    "m": "sự tan vỡ, sự phân tích chi tiết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "broker",
+    "p": "",
+    "m": "môi giới, trung gian thương lượng",
+    "cat": "người"
+  },
+  {
+    "w": "callous",
+    "p": "",
+    "m": "vô cảm, cứng lòng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "candid",
+    "p": "",
+    "m": "thẳng thắn, chân thành",
+    "cat": "tính từ"
+  },
+  {
+    "w": "capacity building",
+    "p": "",
+    "m": "xây dựng năng lực, phát triển khả năng",
+    "cat": "công việc"
+  },
+  {
+    "w": "cardinal",
+    "p": "",
+    "m": "quan trọng nhất, cơ bản",
+    "cat": "tính từ"
+  },
+  {
+    "w": "catalyst",
+    "p": "",
+    "m": "chất xúc tác, nhân tố thúc đẩy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "causality",
+    "p": "",
+    "m": "quan hệ nhân quả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "charismatic",
+    "p": "",
+    "m": "có sức cuốn hút, lôi cuốn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "chronological",
+    "p": "",
+    "m": "theo thứ tự thời gian",
+    "cat": "tính từ"
+  },
+  {
+    "w": "civic",
+    "p": "",
+    "m": "thuộc về công dân, dân sự",
+    "cat": "tính từ"
+  },
+  {
+    "w": "civic engagement",
+    "p": "",
+    "m": "sự tham gia dân sự",
+    "cat": "xã hội"
+  },
+  {
+    "w": "clandestine",
+    "p": "",
+    "m": "bí mật, hoạt động lén lút",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cliché",
+    "p": "",
+    "m": "sáo ngữ, câu nói quen thuộc nhàm chán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "coercive",
+    "p": "",
+    "m": "có tính cưỡng bức, ép buộc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cohesive",
+    "p": "",
+    "m": "gắn kết, mang tính liên kết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "collective identity",
+    "p": "",
+    "m": "bản sắc tập thể",
+    "cat": "xã hội"
+  },
+  {
+    "w": "commodity",
+    "p": "",
+    "m": "hàng hóa, mặt hàng thương phẩm",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "complacent",
+    "p": "",
+    "m": "tự mãn, bằng lòng thái quá",
+    "cat": "tính từ"
+  },
+  {
+    "w": "complicit",
+    "p": "",
+    "m": "đồng lõa, tiếp tay",
+    "cat": "tính từ"
+  },
+  {
+    "w": "compulsory",
+    "p": "",
+    "m": "bắt buộc, cưỡng bức",
+    "cat": "tính từ"
+  },
+  {
+    "w": "conciliatory",
+    "p": "",
+    "m": "hòa giải, nhún nhường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "condone",
+    "p": "",
+    "m": "tha thứ, dung túng điều sai",
+    "cat": "hành động"
+  },
+  {
+    "w": "confound",
+    "p": "",
+    "m": "làm rối, khiến nhầm lẫn",
+    "cat": "hành động"
+  },
+  {
+    "w": "conjecture",
+    "p": "",
+    "m": "sự phỏng đoán, giả đoán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "connote",
+    "p": "",
+    "m": "hàm ý, gợi lên nghĩa phụ",
+    "cat": "hành động"
+  },
+  {
+    "w": "conscript",
+    "p": "",
+    "m": "nghĩa vụ quân sự bắt buộc",
+    "cat": "chính trị"
+  },
+  {
+    "w": "consolidate",
+    "p": "",
+    "m": "hợp nhất, củng cố",
+    "cat": "hành động"
+  },
+  {
+    "w": "construct",
+    "p": "",
+    "m": "cấu trúc xã hội; xây dựng (khái niệm)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "contingency",
+    "p": "",
+    "m": "điều phát sinh, tình huống dự phòng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "conviction",
+    "p": "",
+    "m": "niềm tin mạnh mẽ; kết tội",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cooperate",
+    "p": "",
+    "m": "hợp tác, phối hợp",
+    "cat": "hành động"
+  },
+  {
+    "w": "corollary",
+    "p": "",
+    "m": "hệ quả tất yếu, kết luận kèm theo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "counterfactual",
+    "p": "",
+    "m": "giả định ngược lại thực tế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "credence",
+    "p": "",
+    "m": "sự tin tưởng, tín nhiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "criterion",
+    "p": "",
+    "m": "tiêu chí, chuẩn mực đánh giá",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cultivate",
+    "p": "",
+    "m": "vun đắp, bồi dưỡng",
+    "cat": "hành động"
+  },
+  {
+    "w": "cumulative effect",
+    "p": "",
+    "m": "hiệu ứng tích lũy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "curtail",
+    "p": "",
+    "m": "cắt giảm, hạn chế bớt",
+    "cat": "hành động"
+  },
+  {
+    "w": "cynicism",
+    "p": "",
+    "m": "chủ nghĩa hoài nghi cay đắng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "debilitating",
+    "p": "",
+    "m": "làm suy nhược, làm mất khả năng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "decisive",
+    "p": "",
+    "m": "dứt khoát, quyết đoán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "deductive",
+    "p": "",
+    "m": "diễn dịch, suy ra từ nguyên tắc chung",
+    "cat": "tính từ"
+  },
+  {
+    "w": "defer",
+    "p": "",
+    "m": "trì hoãn; nhường ý kiến người khác",
+    "cat": "hành động"
+  },
+  {
+    "w": "deficiency",
+    "p": "",
+    "m": "sự thiếu hụt, khiếm khuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "defunct",
+    "p": "",
+    "m": "không còn hoạt động, đã giải thể",
+    "cat": "tính từ"
+  },
+  {
+    "w": "deploy",
+    "p": "",
+    "m": "triển khai, đưa vào hoạt động",
+    "cat": "hành động"
+  },
+  {
+    "w": "deprivation",
+    "p": "",
+    "m": "sự thiếu thốn, tước đoạt",
+    "cat": "xã hội"
+  },
+  {
+    "w": "derive from",
+    "p": "",
+    "m": "bắt nguồn từ, xuất phát từ",
+    "cat": "hành động"
+  },
+  {
+    "w": "designate",
+    "p": "",
+    "m": "chỉ định, bổ nhiệm",
+    "cat": "hành động"
+  },
+  {
+    "w": "deter",
+    "p": "",
+    "m": "ngăn cản, răn đe",
+    "cat": "hành động"
+  },
+  {
+    "w": "diagnostic",
+    "p": "",
+    "m": "mang tính chẩn đoán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dichotomy",
+    "p": "",
+    "m": "sự phân đôi, tương phản rõ rệt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "diffuse",
+    "p": "",
+    "m": "phân tán, lan rộng; không tập trung",
+    "cat": "hành động"
+  },
+  {
+    "w": "dilemma",
+    "p": "",
+    "m": "tình thế lưỡng nan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "diminish",
+    "p": "",
+    "m": "giảm bớt, làm nhỏ lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "discern",
+    "p": "",
+    "m": "nhận ra, phân biệt rõ",
+    "cat": "hành động"
+  },
+  {
+    "w": "disparity",
+    "p": "",
+    "m": "sự chênh lệch, bất cân xứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "disseminate",
+    "p": "",
+    "m": "phổ biến, lan truyền thông tin",
+    "cat": "hành động"
+  },
+  {
+    "w": "docile",
+    "p": "",
+    "m": "ngoan ngoãn, dễ bảo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "doctrine",
+    "p": "",
+    "m": "học thuyết, giáo lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dominant",
+    "p": "",
+    "m": "chiếm ưu thế, thống trị",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dormant",
+    "p": "",
+    "m": "tiềm ẩn, đang ngủ yên",
+    "cat": "tính từ"
+  },
+  {
+    "w": "downturn",
+    "p": "",
+    "m": "suy giảm, sụt giảm",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "drain",
+    "p": "",
+    "m": "rút cạn nguồn lực, làm kiệt sức",
+    "cat": "hành động"
+  },
+  {
+    "w": "drive home",
+    "p": "",
+    "m": "nhấn mạnh, làm rõ thêm",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "dubious",
+    "p": "",
+    "m": "đáng ngờ, không chắc chắn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "durable",
+    "p": "",
+    "m": "bền bỉ, lâu dài",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dysfunction",
+    "p": "",
+    "m": "rối loạn chức năng, hoạt động không bình thường",
+    "cat": "học thuật"
+  },
+  {
+    "w": "egalitarian",
+    "p": "",
+    "m": "bình đẳng chủ nghĩa, tin vào sự bình đẳng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "elicit",
+    "p": "",
+    "m": "gợi ra, khơi dậy",
+    "cat": "hành động"
+  },
+  {
+    "w": "elite",
+    "p": "",
+    "m": "tầng lớp tinh hoa, ưu tú",
+    "cat": "xã hội"
+  },
+  {
+    "w": "embroil",
+    "p": "",
+    "m": "kéo vào tranh chấp, liên lụy",
+    "cat": "hành động"
+  },
+  {
+    "w": "empirically",
+    "p": "",
+    "m": "dựa trên thực nghiệm",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "encapsulate",
+    "p": "",
+    "m": "tóm gọn, đóng gói ý tưởng",
+    "cat": "hành động"
+  },
+  {
+    "w": "enforce boundaries",
+    "p": "",
+    "m": "duy trì ranh giới, giữ vững giới hạn",
+    "cat": "hành động"
+  },
+  {
+    "w": "equitable",
+    "p": "",
+    "m": "công bằng, công minh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "eradicate",
+    "p": "",
+    "m": "xóa bỏ hoàn toàn, tận diệt",
+    "cat": "hành động"
+  },
+  {
+    "w": "espionage",
+    "p": "",
+    "m": "hoạt động gián điệp",
+    "cat": "chính trị"
+  },
+  {
+    "w": "estrange",
+    "p": "",
+    "m": "xa lánh, gây rạn nứt quan hệ",
+    "cat": "hành động"
+  },
+  {
+    "w": "evade",
+    "p": "",
+    "m": "tránh né, lẩn tránh",
+    "cat": "hành động"
+  },
+  {
+    "w": "evolve",
+    "p": "",
+    "m": "tiến hóa, phát triển dần dần",
+    "cat": "hành động"
+  },
+  {
+    "w": "exacerbate tensions",
+    "p": "",
+    "m": "làm căng thẳng gia tăng",
+    "cat": "hành động"
+  },
+  {
+    "w": "exclusivity",
+    "p": "",
+    "m": "tính độc quyền, chỉ dành cho một số ít",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "exemplify",
+    "p": "",
+    "m": "minh họa bằng ví dụ, tiêu biểu cho",
+    "cat": "hành động"
+  },
+  {
+    "w": "exhaustive",
+    "p": "",
+    "m": "toàn diện, đầy đủ đến tận cùng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "expedient",
+    "p": "",
+    "m": "tiện lợi nhất thời, thực dụng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "explicit consent",
+    "p": "",
+    "m": "sự đồng ý rõ ràng, công khai",
+    "cat": "học thuật"
+  },
+  {
+    "w": "expunge",
+    "p": "",
+    "m": "xóa bỏ, tẩy trừ",
+    "cat": "hành động"
+  },
+  {
+    "w": "fabricate",
+    "p": "",
+    "m": "bịa đặt, dựng chuyện",
+    "cat": "hành động"
+  },
+  {
+    "w": "facet",
+    "p": "",
+    "m": "khía cạnh, mặt của vấn đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "facilitate",
+    "p": "",
+    "m": "tạo điều kiện, thúc đẩy",
+    "cat": "hành động"
+  },
+  {
+    "w": "fallible",
+    "p": "",
+    "m": "có thể sai lầm, không hoàn hảo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "falsify",
+    "p": "",
+    "m": "làm giả, xuyên tạc",
+    "cat": "hành động"
+  },
+  {
+    "w": "fervent",
+    "p": "",
+    "m": "nhiệt thành, sôi nổi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "finite",
+    "p": "",
+    "m": "hữu hạn, có giới hạn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "flagrant",
+    "p": "",
+    "m": "trắng trợn, hiển nhiên (vi phạm)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "flawed",
+    "p": "",
+    "m": "có khiếm khuyết, không hoàn hảo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fluctuate",
+    "p": "",
+    "m": "dao động, thăng giáng",
+    "cat": "hành động"
+  },
+  {
+    "w": "formulate",
+    "p": "",
+    "m": "xây dựng, soạn thảo (chính sách, lý thuyết)",
+    "cat": "hành động"
+  },
+  {
+    "w": "foster",
+    "p": "",
+    "m": "nuôi dưỡng, khuyến khích",
+    "cat": "hành động"
+  },
+  {
+    "w": "fracture",
+    "p": "",
+    "m": "gãy vỡ, rạn nứt",
+    "cat": "hành động"
+  },
+  {
+    "w": "fray",
+    "p": "",
+    "m": "bị rách, sứt mẻ; cuộc xung đột",
+    "cat": "học thuật"
+  },
+  {
+    "w": "front-runner",
+    "p": "",
+    "m": "ứng viên dẫn đầu",
+    "cat": "người"
+  },
+  {
+    "w": "fruitless",
+    "p": "",
+    "m": "vô ích, không có kết quả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fundamental rights",
+    "p": "",
+    "m": "các quyền cơ bản",
+    "cat": "chính trị"
+  },
+  {
+    "w": "garner",
+    "p": "",
+    "m": "thu thập, gom góp (sự ủng hộ)",
+    "cat": "hành động"
+  },
+  {
+    "w": "gauge",
+    "p": "",
+    "m": "đo lường, đánh giá",
+    "cat": "hành động"
+  },
+  {
+    "w": "generic",
+    "p": "",
+    "m": "chung chung, không đặc trưng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "germane",
+    "p": "",
+    "m": "có liên quan, thích đáng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "gloomy",
+    "p": "",
+    "m": "ảm đạm, bi quan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "good faith",
+    "p": "",
+    "m": "thiện chí, trung thực",
+    "cat": "học thuật"
+  },
+  {
+    "w": "governance",
+    "p": "",
+    "m": "quản trị, điều hành",
+    "cat": "chính trị"
+  },
+  {
+    "w": "groundbreaking",
+    "p": "",
+    "m": "mang tính đột phá, tiên phong",
+    "cat": "tính từ"
+  },
+  {
+    "w": "growing disparity",
+    "p": "",
+    "m": "sự chênh lệch ngày càng gia tăng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "grudging",
+    "p": "",
+    "m": "miễn cưỡng, không tự nguyện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hallmark",
+    "p": "",
+    "m": "dấu hiệu đặc trưng, tiêu chí nhận dạng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "hamper",
+    "p": "",
+    "m": "cản trở, kìm hãm",
+    "cat": "hành động"
+  },
+  {
+    "w": "haphazard",
+    "p": "",
+    "m": "lộn xộn, không có kế hoạch",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hasten",
+    "p": "",
+    "m": "thúc đẩy, đẩy nhanh",
+    "cat": "hành động"
+  },
+  {
+    "w": "heighten",
+    "p": "",
+    "m": "tăng cường, làm gay gắt hơn",
+    "cat": "hành động"
+  },
+  {
+    "w": "heterogeneous",
+    "p": "",
+    "m": "không đồng nhất, đa dạng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hinder",
+    "p": "",
+    "m": "cản trở, gây khó khăn",
+    "cat": "hành động"
+  },
+  {
+    "w": "holistic approach",
+    "p": "",
+    "m": "cách tiếp cận toàn diện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "homogeneous",
+    "p": "",
+    "m": "đồng nhất, đồng loại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hypocritical",
+    "p": "",
+    "m": "đạo đức giả, hai mặt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "idealism",
+    "p": "",
+    "m": "chủ nghĩa lý tưởng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "idiosyncratic",
+    "p": "",
+    "m": "mang đặc điểm cá nhân riêng biệt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "illicit",
+    "p": "",
+    "m": "bất hợp pháp, phi pháp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "imminent",
+    "p": "",
+    "m": "sắp xảy ra, cận kề",
+    "cat": "tính từ"
+  },
+  {
+    "w": "impede",
+    "p": "",
+    "m": "cản trở, làm chậm lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "imperative",
+    "p": "",
+    "m": "bắt buộc, cần thiết cấp bách",
+    "cat": "tính từ"
+  },
+  {
+    "w": "implement",
+    "p": "",
+    "m": "thực hiện, triển khai",
+    "cat": "hành động"
+  },
+  {
+    "w": "impose",
+    "p": "",
+    "m": "áp đặt, bắt buộc",
+    "cat": "hành động"
+  },
+  {
+    "w": "incite",
+    "p": "",
+    "m": "kích động, xúi giục",
+    "cat": "hành động"
+  },
+  {
+    "w": "inclusive governance",
+    "p": "",
+    "m": "quản trị mang tính hòa nhập",
+    "cat": "chính trị"
+  },
+  {
+    "w": "incoherent",
+    "p": "",
+    "m": "thiếu mạch lạc, lộn xộn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "incompatible",
+    "p": "",
+    "m": "không tương thích, mâu thuẫn nhau",
+    "cat": "tính từ"
+  },
+  {
+    "w": "induce",
+    "p": "",
+    "m": "tạo ra, gây ra, thuyết phục",
+    "cat": "hành động"
+  },
+  {
+    "w": "inequality of opportunity",
+    "p": "",
+    "m": "bất bình đẳng cơ hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "inextricably",
+    "p": "",
+    "m": "không thể tách rời",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "inflate",
+    "p": "",
+    "m": "thổi phồng, phóng đại; gây lạm phát",
+    "cat": "hành động"
+  },
+  {
+    "w": "influential",
+    "p": "",
+    "m": "có ảnh hưởng lớn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ingrained",
+    "p": "",
+    "m": "ăn sâu vào, khó thay đổi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inhumane",
+    "p": "",
+    "m": "vô nhân đạo, tàn nhẫn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "instability",
+    "p": "",
+    "m": "sự không ổn định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "instrumental",
+    "p": "",
+    "m": "đóng vai trò quan trọng, có tính công cụ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "insular",
+    "p": "",
+    "m": "biệt lập, cục bộ, cứng nhắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "intangible",
+    "p": "",
+    "m": "vô hình, khó đo lường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "interconnectedness",
+    "p": "",
+    "m": "sự liên kết qua lại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "intervene",
+    "p": "",
+    "m": "can thiệp",
+    "cat": "hành động"
+  },
+  {
+    "w": "intimidate",
+    "p": "",
+    "m": "đe dọa, làm mất bình tĩnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "intransigent",
+    "p": "",
+    "m": "bất nhân nhượng, cứng rắn không thỏa hiệp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "invoke",
+    "p": "",
+    "m": "kêu gọi, trích dẫn (luật, quyền)",
+    "cat": "hành động"
+  },
+  {
+    "w": "jeopardize",
+    "p": "",
+    "m": "đặt vào nguy hiểm, gây nguy hại",
+    "cat": "hành động"
+  },
+  {
+    "w": "leverage influence",
+    "p": "",
+    "m": "sử dụng ảnh hưởng làm đòn bẩy",
+    "cat": "hành động"
+  },
+  {
+    "w": "lingering",
+    "p": "",
+    "m": "dai dẳng, không dứt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "lucid",
+    "p": "",
+    "m": "rõ ràng, mạch lạc, minh bạch",
+    "cat": "tính từ"
+  },
+  {
+    "w": "magnify",
+    "p": "",
+    "m": "phóng đại, khuếch đại",
+    "cat": "hành động"
+  },
+  {
+    "w": "malleable",
+    "p": "",
+    "m": "dễ thay đổi, dễ uốn nắn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "manipulative tactics",
+    "p": "",
+    "m": "chiến thuật thao túng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "marginally",
+    "p": "",
+    "m": "một cách nhỉnh hơn không đáng kể",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "mechanism",
+    "p": "",
+    "m": "cơ chế, bộ máy hoạt động",
+    "cat": "học thuật"
+  },
+  {
+    "w": "merit",
+    "p": "",
+    "m": "công lao, giá trị, xứng đáng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "milieu",
+    "p": "",
+    "m": "môi trường xã hội, bối cảnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "mimic",
+    "p": "",
+    "m": "bắt chước, mô phỏng",
+    "cat": "hành động"
+  },
+  {
+    "w": "minimize",
+    "p": "",
+    "m": "giảm thiểu, hạ thấp tầm quan trọng",
+    "cat": "hành động"
+  },
+  {
+    "w": "misconception",
+    "p": "",
+    "m": "quan niệm sai lầm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "misrepresent",
+    "p": "",
+    "m": "trình bày sai, hiểu sai",
+    "cat": "hành động"
+  },
+  {
+    "w": "mobilization",
+    "p": "",
+    "m": "sự huy động, tập hợp lực lượng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "modality",
+    "p": "",
+    "m": "phương thức, dạng thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "morale",
+    "p": "",
+    "m": "tinh thần, nhuệ khí",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "multifaceted",
+    "p": "",
+    "m": "đa chiều, nhiều mặt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "mutual understanding",
+    "p": "",
+    "m": "sự hiểu biết lẫn nhau",
+    "cat": "học thuật"
+  },
+  {
+    "w": "naive",
+    "p": "",
+    "m": "ngây thơ, thiếu kinh nghiệm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "nefarious",
+    "p": "",
+    "m": "độc ác, bất lương",
+    "cat": "tính từ"
+  },
+  {
+    "w": "neutralize",
+    "p": "",
+    "m": "vô hiệu hóa, trung hòa",
+    "cat": "hành động"
+  },
+  {
+    "w": "nonetheless",
+    "p": "",
+    "m": "dù vậy, tuy nhiên vẫn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "normative",
+    "p": "",
+    "m": "chuẩn mực, quy chuẩn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "objective analysis",
+    "p": "",
+    "m": "phân tích khách quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "obligate",
+    "p": "",
+    "m": "ràng buộc, bắt buộc",
+    "cat": "hành động"
+  },
+  {
+    "w": "obsolete",
+    "p": "",
+    "m": "lỗi thời, đã lạc hậu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "omnipresent",
+    "p": "",
+    "m": "có mặt khắp nơi, phổ biến tuyệt đối",
+    "cat": "tính từ"
+  },
+  {
+    "w": "onset",
+    "p": "",
+    "m": "sự khởi đầu, phát sinh",
+    "cat": "thời gian"
+  },
+  {
+    "w": "operative",
+    "p": "",
+    "m": "có hiệu lực, đang hoạt động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "orchestrate",
+    "p": "",
+    "m": "dàn dựng, sắp xếp khéo léo",
+    "cat": "hành động"
+  },
+  {
+    "w": "ostensible",
+    "p": "",
+    "m": "có vẻ như, bề ngoài cho thấy",
+    "cat": "tính từ"
+  },
+  {
+    "w": "overarching",
+    "p": "",
+    "m": "bao trùm, toàn diện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "override",
+    "p": "",
+    "m": "bác bỏ, vượt lên trên",
+    "cat": "hành động"
+  },
+  {
+    "w": "overtly",
+    "p": "",
+    "m": "công khai, rõ ràng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "overturned",
+    "p": "",
+    "m": "bị lật ngược, bị bác bỏ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "painstaking",
+    "p": "",
+    "m": "công phu, tỉ mỉ vất vả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "paradigmatic",
+    "p": "",
+    "m": "điển hình, mang tính khuôn mẫu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "parity",
+    "p": "",
+    "m": "sự ngang bằng, bình đẳng về mức độ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "partisan divide",
+    "p": "",
+    "m": "sự phân chia đảng phái",
+    "cat": "chính trị"
+  },
+  {
+    "w": "pathological",
+    "p": "",
+    "m": "bệnh lý, không bình thường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "perfunctory",
+    "p": "",
+    "m": "qua loa, chiếu lệ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "perpetual conflict",
+    "p": "",
+    "m": "xung đột kéo dài liên tục",
+    "cat": "chính trị"
+  },
+  {
+    "w": "pertinent",
+    "p": "",
+    "m": "thích đáng, liên quan trực tiếp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pejorative",
+    "p": "",
+    "m": "mang nghĩa xấu, mang tính miệt thị",
+    "cat": "tính từ"
+  },
+  {
+    "w": "phased approach",
+    "p": "",
+    "m": "cách tiếp cận theo từng giai đoạn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "plead",
+    "p": "",
+    "m": "cầu xin, biện hộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "polarizing issue",
+    "p": "",
+    "m": "vấn đề gây phân cực",
+    "cat": "chính trị"
+  },
+  {
+    "w": "politicize",
+    "p": "",
+    "m": "chính trị hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "postulate",
+    "p": "",
+    "m": "tiên đề, giả định ban đầu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "power dynamics",
+    "p": "",
+    "m": "động lực quyền lực, quan hệ quyền lực",
+    "cat": "học thuật"
+  },
+  {
+    "w": "precedence",
+    "p": "",
+    "m": "ưu tiên, quyền ưu tiên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "predominant",
+    "p": "",
+    "m": "chiếm ưu thế, nổi bật nhất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "presuppose",
+    "p": "",
+    "m": "tiền giả định, coi như đã đúng",
+    "cat": "hành động"
+  },
+  {
+    "w": "prevailing",
+    "p": "",
+    "m": "thịnh hành, chiếm ưu thế hiện tại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "probe",
+    "p": "",
+    "m": "điều tra, thăm dò kỹ",
+    "cat": "hành động"
+  },
+  {
+    "w": "proliferation",
+    "p": "",
+    "m": "sự lan rộng, gia tăng nhanh chóng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "pronounced",
+    "p": "",
+    "m": "rõ rệt, đáng chú ý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "proportionality",
+    "p": "",
+    "m": "tính cân xứng, tỷ lệ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "propound",
+    "p": "",
+    "m": "đề xuất, nêu ra lý thuyết",
+    "cat": "hành động"
+  },
+  {
+    "w": "provoke",
+    "p": "",
+    "m": "khiêu khích, gây ra phản ứng",
+    "cat": "hành động"
+  },
+  {
+    "w": "proximity",
+    "p": "",
+    "m": "sự gần gũi, khoảng cách gần",
+    "cat": "học thuật"
+  },
+  {
+    "w": "punctuate",
+    "p": "",
+    "m": "chấm phá, đánh dấu ở những khoảng",
+    "cat": "hành động"
+  },
+  {
+    "w": "purport",
+    "p": "",
+    "m": "được cho là, tự nhận là",
+    "cat": "hành động"
+  },
+  {
+    "w": "readily",
+    "p": "",
+    "m": "dễ dàng, sẵn sàng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "real-world implications",
+    "p": "",
+    "m": "hàm ý trong thực tế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "recalibrate",
+    "p": "",
+    "m": "hiệu chỉnh lại, điều chỉnh lại mục tiêu",
+    "cat": "hành động"
+  },
+  {
+    "w": "recede",
+    "p": "",
+    "m": "lùi lại, giảm dần",
+    "cat": "hành động"
+  },
+  {
+    "w": "reciprocal",
+    "p": "",
+    "m": "tương hỗ, có đi có lại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "reckless",
+    "p": "",
+    "m": "liều lĩnh, thiếu thận trọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "rectify",
+    "p": "",
+    "m": "sửa chữa, khắc phục",
+    "cat": "hành động"
+  },
+  {
+    "w": "redundancy",
+    "p": "",
+    "m": "sự dư thừa, thừa nhân viên",
+    "cat": "công việc"
+  },
+  {
+    "w": "reify",
+    "p": "",
+    "m": "vật chất hóa, cụ thể hóa khái niệm trừu tượng",
+    "cat": "hành động"
+  },
+  {
+    "w": "relentless",
+    "p": "",
+    "m": "không ngừng nghỉ, kiên trì không khoan nhượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "reluctant",
+    "p": "",
+    "m": "miễn cưỡng, không hào hứng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "render",
+    "p": "",
+    "m": "làm cho, tạo ra, trình bày",
+    "cat": "hành động"
+  },
+  {
+    "w": "renege",
+    "p": "",
+    "m": "nuốt lời, vi phạm cam kết",
+    "cat": "hành động"
+  },
+  {
+    "w": "repeal a law",
+    "p": "",
+    "m": "bãi bỏ luật",
+    "cat": "chính trị"
+  },
+  {
+    "w": "reproduce",
+    "p": "",
+    "m": "tái tạo, sinh sản; sao chép",
+    "cat": "hành động"
+  },
+  {
+    "w": "resentment",
+    "p": "",
+    "m": "sự oán giận, bất mãn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "retaliate",
+    "p": "",
+    "m": "trả đũa, trả thù",
+    "cat": "hành động"
+  },
+  {
+    "w": "retract",
+    "p": "",
+    "m": "rút lại, thu hồi (tuyên bố)",
+    "cat": "hành động"
+  },
+  {
+    "w": "reveal",
+    "p": "",
+    "m": "tiết lộ, bộc lộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "reverse",
+    "p": "",
+    "m": "đảo ngược, lật lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "rigorous",
+    "p": "",
+    "m": "nghiêm ngặt, chặt chẽ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "root cause",
+    "p": "",
+    "m": "nguyên nhân gốc rễ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "rupture",
+    "p": "",
+    "m": "đứt gãy, vỡ quan hệ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "sanctimonious",
+    "p": "",
+    "m": "giả đạo đức, ra vẻ đức hạnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "scathing",
+    "p": "",
+    "m": "phê phán gay gắt, cay nghiệt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sedition",
+    "p": "",
+    "m": "hành vi xúi giục phản loạn",
+    "cat": "chính trị"
+  },
+  {
+    "w": "self-determination",
+    "p": "",
+    "m": "quyền tự quyết",
+    "cat": "chính trị"
+  },
+  {
+    "w": "self-serving",
+    "p": "",
+    "m": "vì lợi ích cá nhân, tư lợi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "seminal",
+    "p": "",
+    "m": "có tầm ảnh hưởng lớn, khai sáng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sensory",
+    "p": "",
+    "m": "thuộc về giác quan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "set a precedent",
+    "p": "",
+    "m": "tạo tiền lệ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "shared values",
+    "p": "",
+    "m": "các giá trị chung",
+    "cat": "xã hội"
+  },
+  {
+    "w": "short-sighted",
+    "p": "",
+    "m": "thiển cận, không nhìn xa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "signal",
+    "p": "",
+    "m": "báo hiệu, dấu hiệu",
+    "cat": "hành động"
+  },
+  {
+    "w": "skewed",
+    "p": "",
+    "m": "lệch, thiên lệch",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sluggish",
+    "p": "",
+    "m": "chậm chạp, ì ạch",
+    "cat": "tính từ"
+  },
+  {
+    "w": "social stratification",
+    "p": "",
+    "m": "phân tầng xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "socioeconomic",
+    "p": "",
+    "m": "kinh tế - xã hội",
+    "cat": "học thuật"
+  },
+  {
+    "w": "solidarity",
+    "p": "",
+    "m": "sự đoàn kết",
+    "cat": "xã hội"
+  },
+  {
+    "w": "spawn",
+    "p": "",
+    "m": "đẻ ra, sinh ra (ý tưởng, hậu quả)",
+    "cat": "hành động"
+  },
+  {
+    "w": "speciously",
+    "p": "",
+    "m": "có vẻ hợp lý nhưng thực ra sai",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "spontaneous",
+    "p": "",
+    "m": "tự phát, không có kế hoạch trước",
+    "cat": "tính từ"
+  },
+  {
+    "w": "spurious",
+    "p": "",
+    "m": "giả tạo, không có cơ sở thực sự",
+    "cat": "tính từ"
+  },
+  {
+    "w": "stagnation",
+    "p": "",
+    "m": "sự trì trệ, đình trệ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "stark contrast",
+    "p": "",
+    "m": "sự tương phản rõ nét",
+    "cat": "học thuật"
+  },
+  {
+    "w": "status quo bias",
+    "p": "",
+    "m": "thiên kiến ủng hộ hiện trạng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "steadfast",
+    "p": "",
+    "m": "kiên định, không lay chuyển",
+    "cat": "tính từ"
+  },
+  {
+    "w": "stimulate",
+    "p": "",
+    "m": "kích thích, thúc đẩy",
+    "cat": "hành động"
+  },
+  {
+    "w": "stoke",
+    "p": "",
+    "m": "thổi bùng, kích thích (cảm xúc)",
+    "cat": "hành động"
+  },
+  {
+    "w": "strident",
+    "p": "",
+    "m": "gay gắt, ồn ào, cứng rắn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "structural inequality",
+    "p": "",
+    "m": "bất bình đẳng có tính cấu trúc",
+    "cat": "xã hội"
+  },
+  {
+    "w": "subvert",
+    "p": "",
+    "m": "lật đổ, phá hoại ngầm",
+    "cat": "hành động"
+  },
+  {
+    "w": "suffice",
+    "p": "",
+    "m": "đủ, thỏa mãn yêu cầu",
+    "cat": "hành động"
+  },
+  {
+    "w": "susceptible",
+    "p": "",
+    "m": "dễ bị ảnh hưởng, nhạy cảm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "synergy",
+    "p": "",
+    "m": "sức mạnh cộng hưởng, hiệu ứng tổng hợp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "take precedence",
+    "p": "",
+    "m": "được ưu tiên hơn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "tangible",
+    "p": "",
+    "m": "hữu hình, cụ thể, có thể nhận ra",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tenuous",
+    "p": "",
+    "m": "mong manh, không chắc chắn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "threshold",
+    "p": "",
+    "m": "ngưỡng, mức tối thiểu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "tolerance",
+    "p": "",
+    "m": "sự khoan dung, chịu đựng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "top-down",
+    "p": "",
+    "m": "từ trên xuống, mang tính áp đặt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "totalitarian",
+    "p": "",
+    "m": "toàn trị, độc tài toàn diện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "trade-off analysis",
+    "p": "",
+    "m": "phân tích sự đánh đổi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "trajectory",
+    "p": "",
+    "m": "quỹ đạo, hướng phát triển",
+    "cat": "học thuật"
+  },
+  {
+    "w": "transgress",
+    "p": "",
+    "m": "vi phạm, vượt ranh giới",
+    "cat": "hành động"
+  },
+  {
+    "w": "transitory",
+    "p": "",
+    "m": "tạm thời, mang tính nhất thời",
+    "cat": "tính từ"
+  },
+  {
+    "w": "trigger effect",
+    "p": "",
+    "m": "hiệu ứng kích hoạt, gây phản ứng dây chuyền",
+    "cat": "học thuật"
+  },
+  {
+    "w": "underlying",
+    "p": "",
+    "m": "nằm bên dưới, cơ bản",
+    "cat": "tính từ"
+  },
+  {
+    "w": "unequivocal",
+    "p": "",
+    "m": "rõ ràng, dứt khoát, không mơ hồ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "uniform",
+    "p": "",
+    "m": "đồng nhất, thống nhất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "unilateral",
+    "p": "",
+    "m": "đơn phương, một chiều",
+    "cat": "tính từ"
+  },
+  {
+    "w": "uninformed",
+    "p": "",
+    "m": "thiếu thông tin, không được biết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "untenable",
+    "p": "",
+    "m": "không thể bảo vệ được, không đứng vững",
+    "cat": "tính từ"
+  },
+  {
+    "w": "upheaval",
+    "p": "",
+    "m": "sự xáo trộn lớn, biến động dữ dội",
+    "cat": "học thuật"
+  },
+  {
+    "w": "uphold",
+    "p": "",
+    "m": "duy trì, bảo vệ (giá trị, nguyên tắc)",
+    "cat": "hành động"
+  },
+  {
+    "w": "uproar",
+    "p": "",
+    "m": "sự ồn ào phản đối, phẫn nộ công khai",
+    "cat": "xã hội"
+  },
+  {
+    "w": "utilitarian",
+    "p": "",
+    "m": "thực dụng, hướng tới lợi ích tối đa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "validity",
+    "p": "",
+    "m": "tính hợp lệ, giá trị có căn cứ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "verified",
+    "p": "",
+    "m": "đã được xác minh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "vested interest",
+    "p": "",
+    "m": "lợi ích cá nhân, quyền lợi đã được đầu tư",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "vigilance",
+    "p": "",
+    "m": "sự cảnh giác, canh phòng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "visceral",
+    "p": "",
+    "m": "từ bản năng, bản năng sâu trong lòng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "volatile situation",
+    "p": "",
+    "m": "tình huống bất ổn, dễ bùng nổ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "watered-down",
+    "p": "",
+    "m": "bị pha loãng, yếu đi, không còn mạnh mẽ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "wedge issue",
+    "p": "",
+    "m": "vấn đề chia rẽ chính trị",
+    "cat": "chính trị"
+  },
+  {
+    "w": "widespread",
+    "p": "",
+    "m": "phổ biến rộng rãi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "workable",
+    "p": "",
+    "m": "khả thi, có thể thực hiện được",
+    "cat": "tính từ"
+  },
+  {
+    "w": "worsen",
+    "p": "",
+    "m": "trở nên tệ hơn, xấu đi",
+    "cat": "hành động"
+  },
+  {
+    "w": "abstract concept",
+    "p": "",
+    "m": "khái niệm trừu tượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "academic integrity",
+    "p": "",
+    "m": "tính liêm chính học thuật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "acknowledge limitations",
+    "p": "",
+    "m": "thừa nhận các hạn chế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "address the audience",
+    "p": "",
+    "m": "phát biểu trước khán giả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "adequate",
+    "p": "",
+    "m": "đủ, thỏa đáng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "adversarial",
+    "p": "",
+    "m": "đối lập, thù địch",
+    "cat": "tính từ"
+  },
+  {
+    "w": "affluent",
+    "p": "",
+    "m": "giàu có, khá giả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "agency",
+    "p": "",
+    "m": "khả năng hành động tự quyết; cơ quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ambition gap",
+    "p": "",
+    "m": "khoảng cách về tham vọng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "ancillary",
+    "p": "",
+    "m": "phụ trợ, thứ yếu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "anthropocentric",
+    "p": "",
+    "m": "lấy con người làm trung tâm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "appeal to emotion",
+    "p": "",
+    "m": "kêu gọi cảm xúc (trong lập luận)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "applicable",
+    "p": "",
+    "m": "có thể áp dụng, phù hợp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "arouse suspicion",
+    "p": "",
+    "m": "gây nghi ngờ",
+    "cat": "hành động"
+  },
+  {
+    "w": "attitudinal",
+    "p": "",
+    "m": "liên quan đến thái độ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "autonomously",
+    "p": "",
+    "m": "một cách tự chủ, độc lập",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "behavioral change",
+    "p": "",
+    "m": "thay đổi hành vi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "big-picture thinking",
+    "p": "",
+    "m": "tư duy toàn cảnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "bounded rationality",
+    "p": "",
+    "m": "lý trí bị giới hạn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "breadth of knowledge",
+    "p": "",
+    "m": "chiều rộng kiến thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "broad consensus",
+    "p": "",
+    "m": "sự đồng thuận rộng rãi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "by extension",
+    "p": "",
+    "m": "theo nghĩa rộng hơn, suy ra",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "capitalize on",
+    "p": "",
+    "m": "tận dụng lợi thế từ",
+    "cat": "hành động"
+  },
+  {
+    "w": "carry weight",
+    "p": "",
+    "m": "có sức nặng, quan trọng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "cause and effect",
+    "p": "",
+    "m": "nguyên nhân và hậu quả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "check one's assumptions",
+    "p": "",
+    "m": "kiểm tra lại các giả định của mình",
+    "cat": "hành động"
+  },
+  {
+    "w": "chronically",
+    "p": "",
+    "m": "một cách mãn tính, kéo dài triền miên",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "clout",
+    "p": "",
+    "m": "ảnh hưởng, quyền lực thực tế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "coincide",
+    "p": "",
+    "m": "trùng hợp, xảy ra cùng lúc",
+    "cat": "hành động"
+  },
+  {
+    "w": "come at a cost",
+    "p": "",
+    "m": "có cái giá phải trả",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "come under scrutiny",
+    "p": "",
+    "m": "bị xem xét kỹ lưỡng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "communal",
+    "p": "",
+    "m": "chung của cộng đồng, tập thể",
+    "cat": "tính từ"
+  },
+  {
+    "w": "compel",
+    "p": "",
+    "m": "buộc phải, thúc ép",
+    "cat": "hành động"
+  },
+  {
+    "w": "competency",
+    "p": "",
+    "m": "năng lực, sự thành thạo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "confirm",
+    "p": "",
+    "m": "xác nhận, khẳng định",
+    "cat": "hành động"
+  },
+  {
+    "w": "confrontational",
+    "p": "",
+    "m": "mang tính đối đầu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "conscientious",
+    "p": "",
+    "m": "có lương tâm, cẩn thận có trách nhiệm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "constrain",
+    "p": "",
+    "m": "hạn chế, ràng buộc",
+    "cat": "hành động"
+  },
+  {
+    "w": "contemporary",
+    "p": "",
+    "m": "hiện đại, đương đại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "contrasting views",
+    "p": "",
+    "m": "các quan điểm tương phản",
+    "cat": "học thuật"
+  },
+  {
+    "w": "convey",
+    "p": "",
+    "m": "truyền đạt, diễn đạt",
+    "cat": "hành động"
+  },
+  {
+    "w": "cope with",
+    "p": "",
+    "m": "đối phó với, xử lý",
+    "cat": "hành động"
+  },
+  {
+    "w": "counterproductive",
+    "p": "",
+    "m": "phản tác dụng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "crisis management",
+    "p": "",
+    "m": "quản lý khủng hoảng",
+    "cat": "công việc"
+  },
+  {
+    "w": "critically examine",
+    "p": "",
+    "m": "kiểm tra phê phán, phân tích nghiêm túc",
+    "cat": "hành động"
+  },
+  {
+    "w": "cross-cultural",
+    "p": "",
+    "m": "xuyên văn hóa, liên văn hóa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "crowd out",
+    "p": "",
+    "m": "đẩy ra, chèn ép (cơ hội khác)",
+    "cat": "hành động"
+  },
+  {
+    "w": "culturally embedded",
+    "p": "",
+    "m": "ăn sâu vào văn hóa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "data-driven",
+    "p": "",
+    "m": "dựa trên dữ liệu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "deadlock",
+    "p": "",
+    "m": "bế tắc, không tiến triển được",
+    "cat": "học thuật"
+  },
+  {
+    "w": "deconstruct an argument",
+    "p": "",
+    "m": "phân tích hạ bệ một lập luận",
+    "cat": "hành động"
+  },
+  {
+    "w": "decisive action",
+    "p": "",
+    "m": "hành động quyết đoán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "deepen understanding",
+    "p": "",
+    "m": "đào sâu hiểu biết",
+    "cat": "hành động"
+  },
+  {
+    "w": "deliberately",
+    "p": "",
+    "m": "có chủ ý, một cách cố tình",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "demonstrate empathy",
+    "p": "",
+    "m": "thể hiện sự đồng cảm",
+    "cat": "hành động"
+  }
+]

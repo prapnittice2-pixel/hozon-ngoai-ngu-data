@@ -1,0 +1,2402 @@
+[
+  {
+    "w": "abdicate",
+    "p": "",
+    "m": "thoái vị, từ bỏ quyền lực",
+    "cat": "chính trị"
+  },
+  {
+    "w": "absolutism",
+    "p": "",
+    "m": "chủ nghĩa chuyên chế tuyệt đối",
+    "cat": "chính trị"
+  },
+  {
+    "w": "accession",
+    "p": "",
+    "m": "sự lên ngôi, gia nhập (tổ chức)",
+    "cat": "chính trị"
+  },
+  {
+    "w": "austerity",
+    "p": "",
+    "m": "chính sách thắt lưng buộc bụng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "authoritarian",
+    "p": "",
+    "m": "độc đoán, chuyên quyền",
+    "cat": "chính trị"
+  },
+  {
+    "w": "bicameral",
+    "p": "",
+    "m": "lưỡng viện (nghị viện)",
+    "cat": "chính trị"
+  },
+  {
+    "w": "brinkmanship",
+    "p": "",
+    "m": "chiến thuật đẩy đến bờ vực",
+    "cat": "chính trị"
+  },
+  {
+    "w": "bureaucracy",
+    "p": "",
+    "m": "bộ máy quan liêu",
+    "cat": "chính trị"
+  },
+  {
+    "w": "cabinet reshuffle",
+    "p": "",
+    "m": "sắp xếp lại nội các",
+    "cat": "chính trị"
+  },
+  {
+    "w": "cession",
+    "p": "",
+    "m": "sự nhượng lại lãnh thổ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "checks and balances",
+    "p": "",
+    "m": "kiểm tra và cân bằng quyền lực",
+    "cat": "chính trị"
+  },
+  {
+    "w": "civil liberties",
+    "p": "",
+    "m": "quyền tự do dân sự",
+    "cat": "chính trị"
+  },
+  {
+    "w": "coalition government",
+    "p": "",
+    "m": "chính phủ liên minh",
+    "cat": "chính trị"
+  },
+  {
+    "w": "cold war",
+    "p": "",
+    "m": "chiến tranh lạnh",
+    "cat": "chính trị"
+  },
+  {
+    "w": "colonialism",
+    "p": "",
+    "m": "chủ nghĩa thực dân",
+    "cat": "chính trị"
+  },
+  {
+    "w": "constitutional monarchy",
+    "p": "",
+    "m": "quân chủ lập hiến",
+    "cat": "chính trị"
+  },
+  {
+    "w": "coup d'état",
+    "p": "",
+    "m": "đảo chính nhà nước",
+    "cat": "chính trị"
+  },
+  {
+    "w": "decentralization",
+    "p": "",
+    "m": "sự phân cấp quyền lực",
+    "cat": "chính trị"
+  },
+  {
+    "w": "decolonization",
+    "p": "",
+    "m": "phi thực dân hóa",
+    "cat": "chính trị"
+  },
+  {
+    "w": "democratic deficit",
+    "p": "",
+    "m": "thâm hụt dân chủ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "despotism",
+    "p": "",
+    "m": "chế độ bạo chúa",
+    "cat": "chính trị"
+  },
+  {
+    "w": "devolution",
+    "p": "",
+    "m": "sự phân quyền về địa phương",
+    "cat": "chính trị"
+  },
+  {
+    "w": "disenfranchise",
+    "p": "",
+    "m": "tước quyền bầu cử",
+    "cat": "chính trị"
+  },
+  {
+    "w": "electoral college",
+    "p": "",
+    "m": "cử tri đoàn",
+    "cat": "chính trị"
+  },
+  {
+    "w": "émigré",
+    "p": "",
+    "m": "người lưu vong chính trị",
+    "cat": "chính trị"
+  },
+  {
+    "w": "federalism",
+    "p": "",
+    "m": "chủ nghĩa liên bang",
+    "cat": "chính trị"
+  },
+  {
+    "w": "filibuster",
+    "p": "",
+    "m": "ngăn cản luật bằng diễn thuyết dài",
+    "cat": "chính trị"
+  },
+  {
+    "w": "geopolitics",
+    "p": "",
+    "m": "địa chính trị",
+    "cat": "chính trị"
+  },
+  {
+    "w": "gerrymandering",
+    "p": "",
+    "m": "phân chia địa bàn bầu cử bất công",
+    "cat": "chính trị"
+  },
+  {
+    "w": "governance",
+    "p": "",
+    "m": "quản trị, điều hành",
+    "cat": "chính trị"
+  },
+  {
+    "w": "hegemony",
+    "p": "",
+    "m": "quyền bá chủ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "imperialism",
+    "p": "",
+    "m": "chủ nghĩa đế quốc",
+    "cat": "chính trị"
+  },
+  {
+    "w": "insurgency",
+    "p": "",
+    "m": "phong trào nổi dậy",
+    "cat": "chính trị"
+  },
+  {
+    "w": "intervention",
+    "p": "",
+    "m": "sự can thiệp (quân sự, chính trị)",
+    "cat": "chính trị"
+  },
+  {
+    "w": "isolationism",
+    "p": "",
+    "m": "chủ nghĩa biệt lập",
+    "cat": "chính trị"
+  },
+  {
+    "w": "junta",
+    "p": "",
+    "m": "hội đồng quân sự cầm quyền",
+    "cat": "chính trị"
+  },
+  {
+    "w": "kleptocracy",
+    "p": "",
+    "m": "chính quyền tham nhũng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "laissez-faire",
+    "p": "",
+    "m": "tự do kinh tế không can thiệp",
+    "cat": "chính trị"
+  },
+  {
+    "w": "legitimacy",
+    "p": "",
+    "m": "tính hợp pháp, tính chính đáng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "manifesto",
+    "p": "",
+    "m": "tuyên ngôn chính trị",
+    "cat": "chính trị"
+  },
+  {
+    "w": "martial law",
+    "p": "",
+    "m": "thiết quân luật",
+    "cat": "chính trị"
+  },
+  {
+    "w": "meritocracy",
+    "p": "",
+    "m": "chế độ trọng dụng nhân tài",
+    "cat": "chính trị"
+  },
+  {
+    "w": "mobilization",
+    "p": "",
+    "m": "sự động viên, huy động",
+    "cat": "chính trị"
+  },
+  {
+    "w": "monarchy",
+    "p": "",
+    "m": "chế độ quân chủ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "multilateralism",
+    "p": "",
+    "m": "chủ nghĩa đa phương",
+    "cat": "chính trị"
+  },
+  {
+    "w": "nationalism",
+    "p": "",
+    "m": "chủ nghĩa dân tộc",
+    "cat": "chính trị"
+  },
+  {
+    "w": "oligarchy",
+    "p": "",
+    "m": "chế độ thiểu số cầm quyền",
+    "cat": "chính trị"
+  },
+  {
+    "w": "pacifism",
+    "p": "",
+    "m": "chủ nghĩa hòa bình phản chiến",
+    "cat": "chính trị"
+  },
+  {
+    "w": "partisanship",
+    "p": "",
+    "m": "thiên vị đảng phái",
+    "cat": "chính trị"
+  },
+  {
+    "w": "plutocracy",
+    "p": "",
+    "m": "chế độ cai trị của người giàu",
+    "cat": "chính trị"
+  },
+  {
+    "w": "populism",
+    "p": "",
+    "m": "chủ nghĩa dân túy",
+    "cat": "chính trị"
+  },
+  {
+    "w": "protectionism",
+    "p": "",
+    "m": "chủ nghĩa bảo hộ mậu dịch",
+    "cat": "chính trị"
+  },
+  {
+    "w": "realpolitik",
+    "p": "",
+    "m": "chính trị thực dụng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "referendum",
+    "p": "",
+    "m": "trưng cầu dân ý",
+    "cat": "chính trị"
+  },
+  {
+    "w": "regime change",
+    "p": "",
+    "m": "thay đổi chế độ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "secession",
+    "p": "",
+    "m": "sự ly khai",
+    "cat": "chính trị"
+  },
+  {
+    "w": "sovereignty",
+    "p": "",
+    "m": "chủ quyền quốc gia",
+    "cat": "chính trị"
+  },
+  {
+    "w": "suffrage",
+    "p": "",
+    "m": "quyền bầu cử",
+    "cat": "chính trị"
+  },
+  {
+    "w": "theocracy",
+    "p": "",
+    "m": "chế độ thần quyền",
+    "cat": "chính trị"
+  },
+  {
+    "w": "totalitarianism",
+    "p": "",
+    "m": "chủ nghĩa toàn trị",
+    "cat": "chính trị"
+  },
+  {
+    "w": "annex",
+    "p": "",
+    "m": "sáp nhập lãnh thổ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "appeasement",
+    "p": "",
+    "m": "chính sách xoa dịu kẻ thù",
+    "cat": "chính trị"
+  },
+  {
+    "w": "arbitration",
+    "p": "",
+    "m": "trọng tài hòa giải quốc tế",
+    "cat": "chính trị"
+  },
+  {
+    "w": "armistice",
+    "p": "",
+    "m": "đình chiến",
+    "cat": "chính trị"
+  },
+  {
+    "w": "bilateral agreement",
+    "p": "",
+    "m": "hiệp định song phương",
+    "cat": "chính trị"
+  },
+  {
+    "w": "bloc",
+    "p": "",
+    "m": "khối liên minh quốc gia",
+    "cat": "chính trị"
+  },
+  {
+    "w": "buffer state",
+    "p": "",
+    "m": "quốc gia vùng đệm",
+    "cat": "chính trị"
+  },
+  {
+    "w": "capitulation",
+    "p": "",
+    "m": "sự đầu hàng, nhượng bộ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "communiqué",
+    "p": "",
+    "m": "thông cáo chính thức",
+    "cat": "chính trị"
+  },
+  {
+    "w": "conciliation",
+    "p": "",
+    "m": "sự hòa giải",
+    "cat": "chính trị"
+  },
+  {
+    "w": "confiscation",
+    "p": "",
+    "m": "sự tịch thu, sung công",
+    "cat": "chính trị"
+  },
+  {
+    "w": "credentialism",
+    "p": "",
+    "m": "chủ nghĩa bằng cấp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "détente",
+    "p": "",
+    "m": "hòa dịu trong quan hệ quốc tế",
+    "cat": "chính trị"
+  },
+  {
+    "w": "diplomatic immunity",
+    "p": "",
+    "m": "quyền miễn trừ ngoại giao",
+    "cat": "chính trị"
+  },
+  {
+    "w": "disarmament",
+    "p": "",
+    "m": "giải trừ quân bị",
+    "cat": "chính trị"
+  },
+  {
+    "w": "embargo",
+    "p": "",
+    "m": "lệnh cấm vận thương mại",
+    "cat": "chính trị"
+  },
+  {
+    "w": "envoy",
+    "p": "",
+    "m": "đặc phái viên ngoại giao",
+    "cat": "chính trị"
+  },
+  {
+    "w": "espionage",
+    "p": "",
+    "m": "hoạt động gián điệp",
+    "cat": "chính trị"
+  },
+  {
+    "w": "extradition",
+    "p": "",
+    "m": "dẫn độ tội phạm",
+    "cat": "chính trị"
+  },
+  {
+    "w": "extraterritoriality",
+    "p": "",
+    "m": "ngoại lãnh thổ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "foreign policy",
+    "p": "",
+    "m": "chính sách đối ngoại",
+    "cat": "chính trị"
+  },
+  {
+    "w": "head of state",
+    "p": "",
+    "m": "nguyên thủ quốc gia",
+    "cat": "người"
+  },
+  {
+    "w": "high commissioner",
+    "p": "",
+    "m": "cao ủy ngoại giao",
+    "cat": "người"
+  },
+  {
+    "w": "humanitarian intervention",
+    "p": "",
+    "m": "can thiệp nhân đạo",
+    "cat": "chính trị"
+  },
+  {
+    "w": "intelligence gathering",
+    "p": "",
+    "m": "thu thập tình báo",
+    "cat": "chính trị"
+  },
+  {
+    "w": "intergovernmental",
+    "p": "",
+    "m": "liên chính phủ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "mediation",
+    "p": "",
+    "m": "hòa giải qua trung gian",
+    "cat": "chính trị"
+  },
+  {
+    "w": "multilateral treaty",
+    "p": "",
+    "m": "điều ước đa phương",
+    "cat": "chính trị"
+  },
+  {
+    "w": "neutrality",
+    "p": "",
+    "m": "thái độ trung lập",
+    "cat": "chính trị"
+  },
+  {
+    "w": "non-proliferation",
+    "p": "",
+    "m": "không phổ biến vũ khí",
+    "cat": "chính trị"
+  },
+  {
+    "w": "plenipotentiary",
+    "p": "",
+    "m": "đại sứ toàn quyền",
+    "cat": "người"
+  },
+  {
+    "w": "rapprochement",
+    "p": "",
+    "m": "sự cải thiện quan hệ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "ratification",
+    "p": "",
+    "m": "sự phê chuẩn hiệp ước",
+    "cat": "chính trị"
+  },
+  {
+    "w": "realpolitiker",
+    "p": "",
+    "m": "người theo chính trị thực dụng",
+    "cat": "người"
+  },
+  {
+    "w": "reparations",
+    "p": "",
+    "m": "bồi thường chiến tranh",
+    "cat": "chính trị"
+  },
+  {
+    "w": "repatriation",
+    "p": "",
+    "m": "hồi hương, hồi tịch",
+    "cat": "chính trị"
+  },
+  {
+    "w": "spheres of influence",
+    "p": "",
+    "m": "vùng ảnh hưởng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "statecraft",
+    "p": "",
+    "m": "nghệ thuật cai trị quốc gia",
+    "cat": "chính trị"
+  },
+  {
+    "w": "suzerainty",
+    "p": "",
+    "m": "quyền bảo hộ quốc gia",
+    "cat": "chính trị"
+  },
+  {
+    "w": "territorial integrity",
+    "p": "",
+    "m": "toàn vẹn lãnh thổ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "ultimatum",
+    "p": "",
+    "m": "tối hậu thư",
+    "cat": "chính trị"
+  },
+  {
+    "w": "veto",
+    "p": "",
+    "m": "quyền phủ quyết",
+    "cat": "chính trị"
+  },
+  {
+    "w": "abolitionism",
+    "p": "",
+    "m": "phong trào bãi bỏ chế độ nô lệ",
+    "cat": "xã hội"
+  },
+  {
+    "w": "annexation",
+    "p": "",
+    "m": "sự thôn tính lãnh thổ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "atrocity",
+    "p": "",
+    "m": "tội ác dã man",
+    "cat": "xã hội"
+  },
+  {
+    "w": "civil war",
+    "p": "",
+    "m": "nội chiến",
+    "cat": "chính trị"
+  },
+  {
+    "w": "colonization",
+    "p": "",
+    "m": "quá trình thực dân hóa",
+    "cat": "xã hội"
+  },
+  {
+    "w": "conscription",
+    "p": "",
+    "m": "chế độ nghĩa vụ quân sự",
+    "cat": "chính trị"
+  },
+  {
+    "w": "dissent",
+    "p": "",
+    "m": "sự bất đồng, phản đối",
+    "cat": "chính trị"
+  },
+  {
+    "w": "dynasty",
+    "p": "",
+    "m": "triều đại",
+    "cat": "xã hội"
+  },
+  {
+    "w": "ecclesiastical",
+    "p": "",
+    "m": "thuộc về giáo hội",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "emancipation",
+    "p": "",
+    "m": "sự giải phóng, tự do hóa",
+    "cat": "xã hội"
+  },
+  {
+    "w": "empire",
+    "p": "",
+    "m": "đế chế",
+    "cat": "chính trị"
+  },
+  {
+    "w": "enfranchisement",
+    "p": "",
+    "m": "ban quyền bầu cử",
+    "cat": "chính trị"
+  },
+  {
+    "w": "feudalism",
+    "p": "",
+    "m": "chế độ phong kiến",
+    "cat": "xã hội"
+  },
+  {
+    "w": "garrison",
+    "p": "",
+    "m": "đồn binh",
+    "cat": "chính trị"
+  },
+  {
+    "w": "genocide",
+    "p": "",
+    "m": "diệt chủng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "guerrilla warfare",
+    "p": "",
+    "m": "chiến tranh du kích",
+    "cat": "chính trị"
+  },
+  {
+    "w": "hegemonic",
+    "p": "",
+    "m": "mang tính bá quyền",
+    "cat": "tính từ"
+  },
+  {
+    "w": "historiography",
+    "p": "",
+    "m": "sử học, phương pháp viết sử",
+    "cat": "học thuật"
+  },
+  {
+    "w": "imperious",
+    "p": "",
+    "m": "hách dịch, ra lệnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "indentured labor",
+    "p": "",
+    "m": "lao động khế ước",
+    "cat": "xã hội"
+  },
+  {
+    "w": "inquisition",
+    "p": "",
+    "m": "tòa dị giáo, cuộc tra tấn",
+    "cat": "xã hội"
+  },
+  {
+    "w": "insurrection",
+    "p": "",
+    "m": "cuộc nổi dậy",
+    "cat": "chính trị"
+  },
+  {
+    "w": "internment",
+    "p": "",
+    "m": "giam cầm không xét xử",
+    "cat": "chính trị"
+  },
+  {
+    "w": "lineage",
+    "p": "",
+    "m": "dòng dõi, gia phả",
+    "cat": "người"
+  },
+  {
+    "w": "massacre",
+    "p": "",
+    "m": "vụ thảm sát",
+    "cat": "xã hội"
+  },
+  {
+    "w": "mercantilism",
+    "p": "",
+    "m": "chủ nghĩa trọng thương",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "militarism",
+    "p": "",
+    "m": "chủ nghĩa quân phiệt",
+    "cat": "chính trị"
+  },
+  {
+    "w": "munitions",
+    "p": "",
+    "m": "vũ khí, đạn dược",
+    "cat": "chính trị"
+  },
+  {
+    "w": "oppression",
+    "p": "",
+    "m": "sự đàn áp",
+    "cat": "xã hội"
+  },
+  {
+    "w": "paternalism",
+    "p": "",
+    "m": "chủ nghĩa gia trưởng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "patriarchy",
+    "p": "",
+    "m": "chế độ phụ quyền",
+    "cat": "xã hội"
+  },
+  {
+    "w": "plebiscite",
+    "p": "",
+    "m": "trưng cầu dân ý",
+    "cat": "chính trị"
+  },
+  {
+    "w": "pogrom",
+    "p": "",
+    "m": "vụ thảm sát có tổ chức (thường với người thiểu số)",
+    "cat": "xã hội"
+  },
+  {
+    "w": "propaganda",
+    "p": "",
+    "m": "tuyên truyền",
+    "cat": "chính trị"
+  },
+  {
+    "w": "protectorate",
+    "p": "",
+    "m": "lãnh thổ được bảo hộ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "purge",
+    "p": "",
+    "m": "thanh trừng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "reactionary",
+    "p": "",
+    "m": "phản động, bảo thủ cực đoan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "rebellion",
+    "p": "",
+    "m": "cuộc nổi loạn",
+    "cat": "chính trị"
+  },
+  {
+    "w": "reconciliation commission",
+    "p": "",
+    "m": "ủy ban hòa giải",
+    "cat": "xã hội"
+  },
+  {
+    "w": "reconquest",
+    "p": "",
+    "m": "tái chinh phục",
+    "cat": "chính trị"
+  },
+  {
+    "w": "redress",
+    "p": "",
+    "m": "bồi thường, sửa chữa sai lầm",
+    "cat": "chính trị"
+  },
+  {
+    "w": "reparation",
+    "p": "",
+    "m": "sự bồi thường",
+    "cat": "chính trị"
+  },
+  {
+    "w": "repression",
+    "p": "",
+    "m": "sự đàn áp",
+    "cat": "chính trị"
+  },
+  {
+    "w": "resistance movement",
+    "p": "",
+    "m": "phong trào kháng chiến",
+    "cat": "xã hội"
+  },
+  {
+    "w": "restoration",
+    "p": "",
+    "m": "sự phục hồi, tái lập",
+    "cat": "chính trị"
+  },
+  {
+    "w": "retribution",
+    "p": "",
+    "m": "sự trả đũa, trừng phạt",
+    "cat": "chính trị"
+  },
+  {
+    "w": "revolution",
+    "p": "",
+    "m": "cách mạng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "sedition",
+    "p": "",
+    "m": "hành động kích động lật đổ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "serfdom",
+    "p": "",
+    "m": "chế độ nông nô",
+    "cat": "xã hội"
+  },
+  {
+    "w": "theocratic",
+    "p": "",
+    "m": "theo chế độ thần quyền",
+    "cat": "tính từ"
+  },
+  {
+    "w": "totalitarian",
+    "p": "",
+    "m": "toàn trị",
+    "cat": "tính từ"
+  },
+  {
+    "w": "treaty",
+    "p": "",
+    "m": "hiệp ước",
+    "cat": "chính trị"
+  },
+  {
+    "w": "tribalism",
+    "p": "",
+    "m": "chủ nghĩa bộ lạc",
+    "cat": "xã hội"
+  },
+  {
+    "w": "tyranny",
+    "p": "",
+    "m": "chế độ bạo ngược",
+    "cat": "chính trị"
+  },
+  {
+    "w": "usurpation",
+    "p": "",
+    "m": "sự cướp ngôi, chiếm quyền",
+    "cat": "chính trị"
+  },
+  {
+    "w": "vanquish",
+    "p": "",
+    "m": "đánh bại hoàn toàn",
+    "cat": "hành động"
+  },
+  {
+    "w": "warfare",
+    "p": "",
+    "m": "chiến tranh, hoạt động quân sự",
+    "cat": "chính trị"
+  },
+  {
+    "w": "xenophobia",
+    "p": "",
+    "m": "bài ngoại, ghét người nước ngoài",
+    "cat": "xã hội"
+  },
+  {
+    "w": "abstruse",
+    "p": "",
+    "m": "khó hiểu, uyên bác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "acrimonious",
+    "p": "",
+    "m": "đắng cay, gay gắt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "adroit",
+    "p": "",
+    "m": "khéo léo, linh hoạt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "aesthete",
+    "p": "",
+    "m": "người yêu cái đẹp, người thẩm mỹ",
+    "cat": "người"
+  },
+  {
+    "w": "aesthetic sensibility",
+    "p": "",
+    "m": "khả năng cảm thụ thẩm mỹ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "allegorical",
+    "p": "",
+    "m": "mang tính ẩn dụ, ngụ ngôn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ambiguous",
+    "p": "",
+    "m": "mơ hồ, nhiều nghĩa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "anachronistic",
+    "p": "",
+    "m": "lỗi thời, không hợp thời đại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "apocryphal",
+    "p": "",
+    "m": "nghi ngờ về tính xác thực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "arcane",
+    "p": "",
+    "m": "bí ẩn, ít người biết đến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "archaic",
+    "p": "",
+    "m": "cổ xưa, không còn dùng nữa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "arduous",
+    "p": "",
+    "m": "gian nan, vất vả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "austere",
+    "p": "",
+    "m": "khắc khổ, giản dị",
+    "cat": "tính từ"
+  },
+  {
+    "w": "bellicose",
+    "p": "",
+    "m": "hiếu chiến, hung hăng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "benevolent",
+    "p": "",
+    "m": "nhân từ, nhân ái",
+    "cat": "tính từ"
+  },
+  {
+    "w": "brazen",
+    "p": "",
+    "m": "trơ tráo, liều lĩnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "capricious",
+    "p": "",
+    "m": "thất thường, tùy hứng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "clandestine",
+    "p": "",
+    "m": "bí mật, lén lút",
+    "cat": "tính từ"
+  },
+  {
+    "w": "complacent",
+    "p": "",
+    "m": "tự mãn, tự hài lòng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "condescending",
+    "p": "",
+    "m": "khinh thường, coi thường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "convoluted",
+    "p": "",
+    "m": "rắc rối, khó hiểu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "credulous",
+    "p": "",
+    "m": "dễ tin người",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cursory",
+    "p": "",
+    "m": "qua loa, hời hợt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "demagogic",
+    "p": "",
+    "m": "mang tính kích động quần chúng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "duplicitous",
+    "p": "",
+    "m": "giả dối, hai mặt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "evasive",
+    "p": "",
+    "m": "lảng tránh, trốn tránh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "exorbitant",
+    "p": "",
+    "m": "quá mức, vô lý cao",
+    "cat": "tính từ"
+  },
+  {
+    "w": "expedient",
+    "p": "",
+    "m": "tiện lợi nhưng không nhất thiết đúng đắn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fallacious",
+    "p": "",
+    "m": "sai lầm, ngụy biện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fastidious",
+    "p": "",
+    "m": "kỹ tính, khó tính",
+    "cat": "tính từ"
+  },
+  {
+    "w": "flagrant",
+    "p": "",
+    "m": "trắng trợn, công khai",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fleeting",
+    "p": "",
+    "m": "thoáng qua, ngắn ngủi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "formidable",
+    "p": "",
+    "m": "đáng sợ, khổng lồ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fractious",
+    "p": "",
+    "m": "hay gây gổ, khó chịu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fulsome",
+    "p": "",
+    "m": "tâng bốc thái quá",
+    "cat": "tính từ"
+  },
+  {
+    "w": "grandiose",
+    "p": "",
+    "m": "hoành tráng nhưng không thực tế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "gratuitous",
+    "p": "",
+    "m": "vô lý, không cần thiết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ignominious",
+    "p": "",
+    "m": "nhục nhã, ô nhục",
+    "cat": "tính từ"
+  },
+  {
+    "w": "implacable",
+    "p": "",
+    "m": "không thể nguôi giận",
+    "cat": "tính từ"
+  },
+  {
+    "w": "incendiary",
+    "p": "",
+    "m": "kích động, gây bùng phát",
+    "cat": "tính từ"
+  },
+  {
+    "w": "incongruous",
+    "p": "",
+    "m": "không ăn khớp, kỳ lạ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inexorable",
+    "p": "",
+    "m": "không thể ngăn cản được",
+    "cat": "tính từ"
+  },
+  {
+    "w": "insidious",
+    "p": "",
+    "m": "ngấm ngầm, nguy hiểm mà không lộ rõ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "insolent",
+    "p": "",
+    "m": "xấc xược, thiếu lễ phép",
+    "cat": "tính từ"
+  },
+  {
+    "w": "intransigent",
+    "p": "",
+    "m": "không khoan nhượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inveterate",
+    "p": "",
+    "m": "thâm căn cố đế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "labyrinthine",
+    "p": "",
+    "m": "phức tạp như mê cung",
+    "cat": "tính từ"
+  },
+  {
+    "w": "laconic",
+    "p": "",
+    "m": "nói ngắn gọn, kiệm lời",
+    "cat": "tính từ"
+  },
+  {
+    "w": "lofty",
+    "p": "",
+    "m": "cao thượng, ngạo nghễ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "luminous",
+    "p": "",
+    "m": "sáng chói, rực rỡ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "magnanimous",
+    "p": "",
+    "m": "đại lượng, rộng lượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "malfeasant",
+    "p": "",
+    "m": "sai trái, vi phạm pháp luật",
+    "cat": "tính từ"
+  },
+  {
+    "w": "mercurial",
+    "p": "",
+    "m": "biến đổi nhanh, khó đoán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "nefarious",
+    "p": "",
+    "m": "gian ác, độc ác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "obtuse",
+    "p": "",
+    "m": "chậm hiểu, cứng nhắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ominous",
+    "p": "",
+    "m": "điềm gở, đe dọa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ornate",
+    "p": "",
+    "m": "cầu kỳ, rườm rà",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ostentatious",
+    "p": "",
+    "m": "khoe khoang, phô trương",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pernicious",
+    "p": "",
+    "m": "có hại, nguy hiểm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "perfidious",
+    "p": "",
+    "m": "phản bội, không trung thành",
+    "cat": "tính từ"
+  },
+  {
+    "w": "perspicacious",
+    "p": "",
+    "m": "sắc bén, tinh tế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pertinacious",
+    "p": "",
+    "m": "kiên định, cứng đầu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pliant",
+    "p": "",
+    "m": "dễ uốn nắn, ngoan ngoãn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "portentous",
+    "p": "",
+    "m": "có điềm báo, quan trọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "precipitous",
+    "p": "",
+    "m": "dốc đứng, vội vàng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "presumptuous",
+    "p": "",
+    "m": "tự phụ, trịch thượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pretentious",
+    "p": "",
+    "m": "tự cao, phô trương",
+    "cat": "tính từ"
+  },
+  {
+    "w": "problematic",
+    "p": "",
+    "m": "có vấn đề, đáng ngờ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "prodigious",
+    "p": "",
+    "m": "phi thường, khổng lồ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "prophylactic",
+    "p": "",
+    "m": "phòng ngừa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "querulous",
+    "p": "",
+    "m": "hay phàn nàn, cáu kỉnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "quixotic",
+    "p": "",
+    "m": "lý tưởng hóa phi thực tế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "recalcitrant",
+    "p": "",
+    "m": "bướng bỉnh, không chịu nghe",
+    "cat": "tính từ"
+  },
+  {
+    "w": "recondite",
+    "p": "",
+    "m": "ít được biết đến, sâu xa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "recriminating",
+    "p": "",
+    "m": "buộc tội lại, tố ngược",
+    "cat": "tính từ"
+  },
+  {
+    "w": "redoubtable",
+    "p": "",
+    "m": "đáng kính sợ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "refractory",
+    "p": "",
+    "m": "cứng đầu, khó kiểm soát",
+    "cat": "tính từ"
+  },
+  {
+    "w": "reprehensible",
+    "p": "",
+    "m": "đáng chê trách",
+    "cat": "tính từ"
+  },
+  {
+    "w": "resolute",
+    "p": "",
+    "m": "kiên quyết, cương quyết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "scrupulous",
+    "p": "",
+    "m": "cẩn thận, có lương tâm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "serendipitous",
+    "p": "",
+    "m": "may mắn tình cờ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sycophantic",
+    "p": "",
+    "m": "nịnh bợ, xu nịnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "taciturn",
+    "p": "",
+    "m": "ít nói, kiệm lời",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tendentious",
+    "p": "",
+    "m": "thiên vị, có mục đích riêng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "truculent",
+    "p": "",
+    "m": "hung hăng, sẵn sàng gây sự",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ubiquitous",
+    "p": "",
+    "m": "hiện diện khắp nơi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "unassailable",
+    "p": "",
+    "m": "không thể bác bỏ, kiên cố",
+    "cat": "tính từ"
+  },
+  {
+    "w": "unprepossessing",
+    "p": "",
+    "m": "không hấp dẫn, tẻ nhạt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "unwieldy",
+    "p": "",
+    "m": "cồng kềnh, khó xử lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "vacuous",
+    "p": "",
+    "m": "rỗng tuếch, vô nghĩa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "venerable",
+    "p": "",
+    "m": "đáng kính trọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "venal",
+    "p": "",
+    "m": "có thể mua chuộc được",
+    "cat": "tính từ"
+  },
+  {
+    "w": "vindictive",
+    "p": "",
+    "m": "thù hằn, trả thù",
+    "cat": "tính từ"
+  },
+  {
+    "w": "vitriolic",
+    "p": "",
+    "m": "độc ác, chua ngoa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "volatile",
+    "p": "",
+    "m": "dễ bốc hơi, thất thường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "zealous",
+    "p": "",
+    "m": "hăng hái, nhiệt thành",
+    "cat": "tính từ"
+  },
+  {
+    "w": "adroitly",
+    "p": "",
+    "m": "một cách khéo léo",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "begrudgingly",
+    "p": "",
+    "m": "một cách miễn cưỡng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "circumspectly",
+    "p": "",
+    "m": "một cách thận trọng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "cogently",
+    "p": "",
+    "m": "một cách thuyết phục, chặt chẽ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "conspicuously",
+    "p": "",
+    "m": "một cách nổi bật",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "contentiously",
+    "p": "",
+    "m": "một cách gây tranh cãi",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "cumulatively",
+    "p": "",
+    "m": "một cách tích lũy",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "cursorily",
+    "p": "",
+    "m": "một cách qua loa",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "decisively",
+    "p": "",
+    "m": "một cách dứt khoát",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "demonstrably",
+    "p": "",
+    "m": "một cách có thể chứng minh",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "diametrically",
+    "p": "",
+    "m": "hoàn toàn đối lập",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "discernibly",
+    "p": "",
+    "m": "một cách rõ ràng nhận thấy",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "emphatically",
+    "p": "",
+    "m": "một cách nhấn mạnh",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "equivocally",
+    "p": "",
+    "m": "một cách mơ hồ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "evasively",
+    "p": "",
+    "m": "một cách lảng tránh",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "evidently",
+    "p": "",
+    "m": "rõ ràng, hiển nhiên",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "expeditiously",
+    "p": "",
+    "m": "một cách nhanh chóng, kịp thời",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "explicitly",
+    "p": "",
+    "m": "một cách tường minh, rõ ràng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "flagrantly",
+    "p": "",
+    "m": "một cách trắng trợn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "forthrightly",
+    "p": "",
+    "m": "một cách thẳng thắn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "hypothetically",
+    "p": "",
+    "m": "trên lý thuyết, giả thiết",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "implicitly",
+    "p": "",
+    "m": "một cách ngầm hiểu",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "impudently",
+    "p": "",
+    "m": "một cách vô lễ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "incisively",
+    "p": "",
+    "m": "một cách sắc bén",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "indisputably",
+    "p": "",
+    "m": "không thể tranh cãi",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "inherently",
+    "p": "",
+    "m": "về bản chất, vốn dĩ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "insidiously",
+    "p": "",
+    "m": "một cách ngấm ngầm",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "intuitively",
+    "p": "",
+    "m": "theo trực giác",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "manifestly",
+    "p": "",
+    "m": "một cách hiển nhiên",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "markedly",
+    "p": "",
+    "m": "một cách rõ rệt",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "meticulously",
+    "p": "",
+    "m": "một cách tỉ mỉ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "nominally",
+    "p": "",
+    "m": "chỉ trên danh nghĩa",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "notoriously",
+    "p": "",
+    "m": "một cách tai tiếng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "obliquely",
+    "p": "",
+    "m": "một cách gián tiếp",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "ostentatiously",
+    "p": "",
+    "m": "một cách phô trương",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "paradoxically",
+    "p": "",
+    "m": "một cách nghịch lý",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "patently",
+    "p": "",
+    "m": "một cách rõ ràng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "perfunctorily",
+    "p": "",
+    "m": "một cách chiếu lệ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "plausibly",
+    "p": "",
+    "m": "một cách hợp lý, đáng tin",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "poignantly",
+    "p": "",
+    "m": "một cách xúc động",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "precipitously",
+    "p": "",
+    "m": "một cách vội vã",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "predominantly",
+    "p": "",
+    "m": "chủ yếu, phần lớn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "profoundly",
+    "p": "",
+    "m": "một cách sâu sắc",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "purportedly",
+    "p": "",
+    "m": "được cho là",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "quintessentially",
+    "p": "",
+    "m": "một cách điển hình",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "resolutely",
+    "p": "",
+    "m": "một cách kiên quyết",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "rhetorically",
+    "p": "",
+    "m": "về mặt tu từ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "scrupulously",
+    "p": "",
+    "m": "một cách cẩn thận",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "surreptitiously",
+    "p": "",
+    "m": "một cách lén lút",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "systematically",
+    "p": "",
+    "m": "một cách có hệ thống",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "tacitly",
+    "p": "",
+    "m": "một cách ngầm hiểu",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "tangentially",
+    "p": "",
+    "m": "một cách gián tiếp, tiếp tuyến",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "tentatively",
+    "p": "",
+    "m": "một cách thận trọng, dè dặt",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "unambiguously",
+    "p": "",
+    "m": "một cách rõ ràng, không mơ hồ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "unequivocally",
+    "p": "",
+    "m": "một cách dứt khoát",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "vehemently",
+    "p": "",
+    "m": "một cách mạnh mẽ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "vigorously",
+    "p": "",
+    "m": "một cách mạnh mẽ, tích cực",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "arguably",
+    "p": "",
+    "m": "có thể lập luận rằng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "broadly speaking",
+    "p": "",
+    "m": "nói một cách rộng rãi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "by and large",
+    "p": "",
+    "m": "nhìn chung, đại thể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "characteristically",
+    "p": "",
+    "m": "một cách đặc trưng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "conceptually",
+    "p": "",
+    "m": "về mặt khái niệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "contingent on",
+    "p": "",
+    "m": "phụ thuộc vào",
+    "cat": "học thuật"
+  },
+  {
+    "w": "crucially",
+    "p": "",
+    "m": "một cách then chốt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "debatably",
+    "p": "",
+    "m": "có thể tranh luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "decisively informed by",
+    "p": "",
+    "m": "được định hướng mạnh bởi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "empirically speaking",
+    "p": "",
+    "m": "về mặt thực nghiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "for all practical purposes",
+    "p": "",
+    "m": "về mặt thực tế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "fundamentally",
+    "p": "",
+    "m": "về cơ bản",
+    "cat": "học thuật"
+  },
+  {
+    "w": "generally acknowledged",
+    "p": "",
+    "m": "được thừa nhận rộng rãi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in broad strokes",
+    "p": "",
+    "m": "theo phác thảo chung",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in light of",
+    "p": "",
+    "m": "dưới ánh sáng của, căn cứ vào",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in principle",
+    "p": "",
+    "m": "về nguyên tắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "in so far as",
+    "p": "",
+    "m": "trong chừng mực mà",
+    "cat": "học thuật"
+  },
+  {
+    "w": "insofar as can be determined",
+    "p": "",
+    "m": "trong phạm vi có thể xác định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "it bears noting",
+    "p": "",
+    "m": "đáng lưu ý rằng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "it could be argued",
+    "p": "",
+    "m": "có thể lập luận rằng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "it has been suggested",
+    "p": "",
+    "m": "đã có người đề xuất rằng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "it is generally held",
+    "p": "",
+    "m": "thường được cho rằng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "it is worth noting",
+    "p": "",
+    "m": "đáng chú ý rằng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "it remains to be seen",
+    "p": "",
+    "m": "vẫn còn chờ xem",
+    "cat": "học thuật"
+  },
+  {
+    "w": "it stands to reason",
+    "p": "",
+    "m": "có lý do chính đáng để",
+    "cat": "học thuật"
+  },
+  {
+    "w": "it would appear that",
+    "p": "",
+    "m": "có vẻ như rằng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "largely contingent upon",
+    "p": "",
+    "m": "phần lớn phụ thuộc vào",
+    "cat": "học thuật"
+  },
+  {
+    "w": "merits further investigation",
+    "p": "",
+    "m": "xứng đáng được nghiên cứu thêm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "more often than not",
+    "p": "",
+    "m": "thường xuyên hơn là không",
+    "cat": "học thuật"
+  },
+  {
+    "w": "not inconceivably",
+    "p": "",
+    "m": "không phải không thể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "notwithstanding",
+    "p": "",
+    "m": "mặc dù, bất chấp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "on balance",
+    "p": "",
+    "m": "nhìn chung, cân nhắc tất cả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "on the assumption that",
+    "p": "",
+    "m": "dựa trên giả định rằng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "on the grounds that",
+    "p": "",
+    "m": "với lý do rằng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "one might contend",
+    "p": "",
+    "m": "người ta có thể lập luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "prima facie evidence",
+    "p": "",
+    "m": "bằng chứng ban đầu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "provisionally",
+    "p": "",
+    "m": "một cách tạm thời",
+    "cat": "học thuật"
+  },
+  {
+    "w": "qualified support",
+    "p": "",
+    "m": "sự ủng hộ có điều kiện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "seemingly",
+    "p": "",
+    "m": "có vẻ như",
+    "cat": "học thuật"
+  },
+  {
+    "w": "subject to revision",
+    "p": "",
+    "m": "có thể sửa đổi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "substantially",
+    "p": "",
+    "m": "đáng kể, về cơ bản",
+    "cat": "học thuật"
+  },
+  {
+    "w": "tentatively suggest",
+    "p": "",
+    "m": "đề xuất một cách thận trọng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "the available evidence suggests",
+    "p": "",
+    "m": "bằng chứng hiện có cho thấy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "to a considerable extent",
+    "p": "",
+    "m": "ở mức độ đáng kể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "to a greater or lesser extent",
+    "p": "",
+    "m": "ở mức độ nhiều hay ít hơn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "to some degree",
+    "p": "",
+    "m": "ở một mức độ nào đó",
+    "cat": "học thuật"
+  },
+  {
+    "w": "under certain conditions",
+    "p": "",
+    "m": "trong điều kiện nhất định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "whereas",
+    "p": "",
+    "m": "trong khi đó, mặt khác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "with certain caveats",
+    "p": "",
+    "m": "với một số điều kiện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "with some qualification",
+    "p": "",
+    "m": "với một số hạn chế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "within the parameters of",
+    "p": "",
+    "m": "trong phạm vi của",
+    "cat": "học thuật"
+  },
+  {
+    "w": "abstract expressionism",
+    "p": "",
+    "m": "chủ nghĩa biểu hiện trừu tượng",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "aestheticism",
+    "p": "",
+    "m": "chủ nghĩa duy mỹ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "allusive",
+    "p": "",
+    "m": "ám chỉ, gợi ý",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "anachronism",
+    "p": "",
+    "m": "điều không hợp thời đại",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "anti-hero",
+    "p": "",
+    "m": "nhân vật phản anh hùng",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "aphorism",
+    "p": "",
+    "m": "câu châm ngôn ngắn gọn",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "archetype",
+    "p": "",
+    "m": "nguyên mẫu, khuôn mẫu gốc",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "ars poetica",
+    "p": "",
+    "m": "nghệ thuật thơ ca",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "atonal",
+    "p": "",
+    "m": "không có âm giai (âm nhạc)",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "avant-garde",
+    "p": "",
+    "m": "tiên phong, cách mạng trong nghệ thuật",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "baroque",
+    "p": "",
+    "m": "phong cách Baroque, trang trí cầu kỳ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "bildungsroman",
+    "p": "",
+    "m": "tiểu thuyết về sự trưởng thành",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "bricolage",
+    "p": "",
+    "m": "sáng tác từ các mảnh ghép",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "cacophony",
+    "p": "",
+    "m": "âm thanh hỗn loạn, chói tai",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "catharsis",
+    "p": "",
+    "m": "sự thanh lọc cảm xúc",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "chromatic",
+    "p": "",
+    "m": "nhiều màu sắc, theo thang màu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "chiaroscuro",
+    "p": "",
+    "m": "tương phản sáng tối trong hội họa",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "collage",
+    "p": "",
+    "m": "tranh ghép",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "conceptual art",
+    "p": "",
+    "m": "nghệ thuật ý niệm",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "counterpoint",
+    "p": "",
+    "m": "phức điệu, nghịch điểm",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "cubism",
+    "p": "",
+    "m": "chủ nghĩa lập thể",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "dadaism",
+    "p": "",
+    "m": "chủ nghĩa Dada",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "decorum",
+    "p": "",
+    "m": "sự đúng mực, lịch sự trong nghệ thuật",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "defamiliarization",
+    "p": "",
+    "m": "hiệu ứng xa lạ hóa",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "diegesis",
+    "p": "",
+    "m": "thế giới trong câu chuyện",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "dissonance",
+    "p": "",
+    "m": "sự bất hòa âm",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "eclecticism",
+    "p": "",
+    "m": "chủ nghĩa chiết trung",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "ekphrasis",
+    "p": "",
+    "m": "mô tả tác phẩm nghệ thuật bằng ngôn từ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "elegy",
+    "p": "",
+    "m": "bài thơ ai điếu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "ellipsis",
+    "p": "",
+    "m": "bỏ lửng, lược bỏ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "enjambment",
+    "p": "",
+    "m": "thủ pháp vắt dòng thơ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "epiphany",
+    "p": "",
+    "m": "sự giác ngộ đột ngột",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "epistolary",
+    "p": "",
+    "m": "dạng thư từ (tiểu thuyết)",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "expressionism",
+    "p": "",
+    "m": "chủ nghĩa biểu hiện",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "foreshadowing",
+    "p": "",
+    "m": "báo trước, tiên nghiệm",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "fresco",
+    "p": "",
+    "m": "tranh vẽ trên tường ướt",
+    "cat": "nghệ thuật"
+  }
+]

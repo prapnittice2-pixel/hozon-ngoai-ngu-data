@@ -1,0 +1,1257 @@
+[
+  {
+    "w": "stapler",
+    "m": "cái dập ghim",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "hole punch",
+    "m": "dụng cụ bấm lỗ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "paperclip",
+    "m": "kẹp giấy",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "highlighter",
+    "m": "bút dạ quang",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "marker",
+    "m": "bút lông",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "clipboard",
+    "m": "bảng kẹp giấy",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "folder",
+    "m": "bìa kẹp hồ sơ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "binder",
+    "m": "bìa còng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "envelope",
+    "m": "phong bì",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "calculator",
+    "m": "máy tính bỏ túi",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "ruler",
+    "m": "thước kẻ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "protractor",
+    "m": "thước đo độ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "compass",
+    "m": "com-pa vẽ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "eraser",
+    "m": "cục tẩy",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "correction fluid",
+    "m": "bút xóa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "sharpener",
+    "m": "cái gọt bút chì",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "notepad",
+    "m": "sổ ghi chú",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "diary",
+    "m": "sổ nhật ký",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "ledger",
+    "m": "sổ cái kế toán",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "receipt book",
+    "m": "sổ biên lai",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "whiteboard",
+    "m": "bảng trắng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "easel",
+    "m": "giá vẽ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "laminator",
+    "m": "máy ép plastic",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "shredder",
+    "m": "máy hủy giấy",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "scanner",
+    "m": "máy quét",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "router",
+    "m": "bộ định tuyến",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "modem",
+    "m": "modem",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "webcam",
+    "m": "camera web",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "flash drive",
+    "m": "ổ USB",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "hard drive",
+    "m": "ổ cứng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "motherboard",
+    "m": "bo mạch chủ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "adapter",
+    "m": "bộ chuyển đổi",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "extension cord",
+    "m": "dây nối dài",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "power strip",
+    "m": "ổ cắm điện đa năng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "spatula",
+    "m": "thìa dẹt xúc",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "ladle",
+    "m": "muôi múc canh",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "whisk",
+    "m": "cây đánh trứng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "grater",
+    "m": "cái nạo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "peeler",
+    "m": "dao gọt vỏ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "colander",
+    "m": "rổ lọc",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "sieve",
+    "m": "cái rây",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "strainer",
+    "m": "cái lọc",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "chopping board",
+    "m": "thớt",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "rolling pin",
+    "m": "cây cán bột",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "mixing bowl",
+    "m": "tô trộn",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "saucepan",
+    "m": "nồi có cán",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "frying pan",
+    "m": "chảo rán",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "wok",
+    "m": "chảo xào",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "kettle",
+    "m": "ấm đun nước",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "toaster",
+    "m": "máy nướng bánh mì",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "blender",
+    "m": "máy xay sinh tố",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "mixer",
+    "m": "máy trộn",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "oven",
+    "m": "lò nướng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "microwave",
+    "m": "lò vi sóng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "dishwasher",
+    "m": "máy rửa bát",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "freezer",
+    "m": "tủ đông",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "corkscrew",
+    "m": "cái mở nút chai",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "can opener",
+    "m": "đồ khui hộp",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "thermos",
+    "m": "bình giữ nhiệt",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "tray",
+    "m": "cái khay",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "jug",
+    "m": "bình rót",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "mug",
+    "m": "cốc vại có quai",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "saucer",
+    "m": "đĩa lót tách",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "napkin",
+    "m": "khăn ăn",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "tablecloth",
+    "m": "khăn trải bàn",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "cushion",
+    "m": "gối tựa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "duvet",
+    "m": "chăn lông vũ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "mattress",
+    "m": "nệm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "wardrobe",
+    "m": "tủ quần áo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "chest of drawers",
+    "m": "tủ ngăn kéo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bookshelf",
+    "m": "kệ sách",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "stool",
+    "m": "ghế đẩu",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bench",
+    "m": "ghế băng dài",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "hammock",
+    "m": "võng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "curtain",
+    "m": "rèm cửa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "blind",
+    "m": "mành cửa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "rug",
+    "m": "thảm nhỏ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "doormat",
+    "m": "thảm chùi chân",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "vase",
+    "m": "lọ hoa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "candlestick",
+    "m": "chân nến",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "lantern",
+    "m": "đèn lồng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "chandelier",
+    "m": "đèn chùm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "broom",
+    "m": "chổi",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "mop",
+    "m": "cây lau nhà",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "dustpan",
+    "m": "ki hốt rác",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bucket",
+    "m": "cái xô",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "hose",
+    "m": "vòi nước",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "watering can",
+    "m": "bình tưới",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "rake",
+    "m": "cái cào",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "shovel",
+    "m": "cái xẻng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "spade",
+    "m": "thuổng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "wheelbarrow",
+    "m": "xe cút kít",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "lawnmower",
+    "m": "máy cắt cỏ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "ointment",
+    "m": "thuốc mỡ",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "lotion",
+    "m": "kem dưỡng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "plaster",
+    "m": "băng dán cá nhân",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "gauze",
+    "m": "gạc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "splint",
+    "m": "nẹp cố định",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "sling",
+    "m": "băng đeo tay",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "tablet",
+    "m": "viên thuốc nén",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "capsule",
+    "m": "viên nang",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "lozenge",
+    "m": "viên ngậm",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "inhaler",
+    "m": "ống xịt hen",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "sedative",
+    "m": "thuốc an thần",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "painkiller",
+    "m": "thuốc giảm đau",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "antiseptic",
+    "m": "thuốc sát trùng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "disinfectant",
+    "m": "chất khử trùng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "supplement",
+    "m": "thực phẩm bổ sung",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "nausea",
+    "m": "buồn nôn",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "dizziness",
+    "m": "chóng mặt",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "fatigue",
+    "m": "sự mệt mỏi",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "insomnia",
+    "m": "chứng mất ngủ",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "migraine",
+    "m": "đau nửa đầu",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "rash",
+    "m": "phát ban",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "bruise",
+    "m": "vết bầm",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "swelling",
+    "m": "sưng tấy",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "fracture",
+    "m": "gãy xương",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "sprain",
+    "m": "bong gân",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "blister",
+    "m": "phồng rộp",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "cramp",
+    "m": "chuột rút",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "allergy",
+    "m": "dị ứng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "asthma",
+    "m": "hen suyễn",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "diabetes",
+    "m": "tiểu đường",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "plot",
+    "m": "cốt truyện; mưu đồ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "theme",
+    "m": "chủ đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "motif",
+    "m": "mô típ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "premise",
+    "m": "tiền đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "outline",
+    "m": "dàn ý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "draft",
+    "m": "bản nháp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "revision",
+    "m": "sự sửa đổi, ôn tập",
+    "cat": "học thuật"
+  },
+  {
+    "w": "summary",
+    "m": "bản tóm tắt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "synopsis",
+    "m": "bản tóm lược",
+    "cat": "học thuật"
+  },
+  {
+    "w": "excerpt",
+    "m": "đoạn trích",
+    "cat": "học thuật"
+  },
+  {
+    "w": "passage",
+    "m": "đoạn văn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "paragraph",
+    "m": "đoạn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "footnote",
+    "m": "chú thích cuối trang",
+    "cat": "học thuật"
+  },
+  {
+    "w": "appendix",
+    "m": "phụ lục",
+    "cat": "học thuật"
+  },
+  {
+    "w": "glossary",
+    "m": "bảng chú giải thuật ngữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "index",
+    "m": "mục lục tra cứu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "preface",
+    "m": "lời nói đầu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "foreword",
+    "m": "lời tựa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "chapter",
+    "m": "chương",
+    "cat": "học thuật"
+  },
+  {
+    "w": "edition",
+    "m": "ấn bản",
+    "cat": "học thuật"
+  },
+  {
+    "w": "volume",
+    "m": "tập sách",
+    "cat": "học thuật"
+  },
+  {
+    "w": "manuscript",
+    "m": "bản thảo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "transcript",
+    "m": "bản ghi, bảng điểm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "certificate",
+    "m": "chứng chỉ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "diploma",
+    "m": "bằng tốt nghiệp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "qualification",
+    "m": "trình độ chuyên môn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "discipline",
+    "m": "ngành học; kỷ luật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "semester",
+    "m": "học kỳ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "faculty",
+    "m": "khoa; đội ngũ giảng viên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "alumnus",
+    "m": "cựu sinh viên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "undergraduate",
+    "m": "sinh viên đại học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "postgraduate",
+    "m": "học viên sau đại học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "scholar",
+    "m": "học giả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "lecturer",
+    "m": "giảng viên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "examiner",
+    "m": "giám khảo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "invigilator",
+    "m": "giám thị",
+    "cat": "học thuật"
+  },
+  {
+    "w": "deduce",
+    "m": "suy ra",
+    "cat": "hành động"
+  },
+  {
+    "w": "surmise",
+    "m": "phỏng đoán",
+    "cat": "hành động"
+  },
+  {
+    "w": "speculate",
+    "m": "suy đoán",
+    "cat": "hành động"
+  },
+  {
+    "w": "contemplate",
+    "m": "trầm tư suy ngẫm",
+    "cat": "hành động"
+  },
+  {
+    "w": "ponder",
+    "m": "đắn đo cân nhắc",
+    "cat": "hành động"
+  },
+  {
+    "w": "meditate",
+    "m": "thiền định, suy tư",
+    "cat": "hành động"
+  },
+  {
+    "w": "reflect",
+    "m": "phản ánh; suy ngẫm",
+    "cat": "hành động"
+  },
+  {
+    "w": "recollect",
+    "m": "hồi tưởng",
+    "cat": "hành động"
+  },
+  {
+    "w": "reminisce",
+    "m": "ôn lại kỷ niệm",
+    "cat": "hành động"
+  },
+  {
+    "w": "envisage",
+    "m": "hình dung, dự kiến",
+    "cat": "hành động"
+  },
+  {
+    "w": "foresee",
+    "m": "thấy trước",
+    "cat": "hành động"
+  },
+  {
+    "w": "anticipate",
+    "m": "lường trước",
+    "cat": "hành động"
+  },
+  {
+    "w": "presume",
+    "m": "cho rằng",
+    "cat": "hành động"
+  },
+  {
+    "w": "assert",
+    "m": "khẳng định",
+    "cat": "hành động"
+  },
+  {
+    "w": "contend",
+    "m": "lập luận, tranh đua",
+    "cat": "hành động"
+  },
+  {
+    "w": "concede",
+    "m": "thừa nhận, nhượng bộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "acknowledge",
+    "m": "công nhận",
+    "cat": "hành động"
+  },
+  {
+    "w": "affirm",
+    "m": "xác nhận",
+    "cat": "hành động"
+  },
+  {
+    "w": "reaffirm",
+    "m": "tái khẳng định",
+    "cat": "hành động"
+  },
+  {
+    "w": "reiterate",
+    "m": "nhắc lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "emphasise",
+    "m": "nhấn mạnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "underscore",
+    "m": "nhấn mạnh, gạch chân",
+    "cat": "hành động"
+  },
+  {
+    "w": "highlight",
+    "m": "làm nổi bật",
+    "cat": "hành động"
+  },
+  {
+    "w": "clarify",
+    "m": "làm rõ",
+    "cat": "hành động"
+  },
+  {
+    "w": "specify",
+    "m": "nêu cụ thể",
+    "cat": "hành động"
+  },
+  {
+    "w": "denote",
+    "m": "biểu thị",
+    "cat": "hành động"
+  },
+  {
+    "w": "signify",
+    "m": "có nghĩa là",
+    "cat": "hành động"
+  },
+  {
+    "w": "imply",
+    "m": "ngụ ý",
+    "cat": "hành động"
+  },
+  {
+    "w": "insinuate",
+    "m": "ám chỉ bóng gió",
+    "cat": "hành động"
+  },
+  {
+    "w": "allude",
+    "m": "nhắc đến gián tiếp",
+    "cat": "hành động"
+  },
+  {
+    "w": "hint",
+    "m": "gợi ý",
+    "cat": "hành động"
+  },
+  {
+    "w": "divulge",
+    "m": "tiết lộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "disclose",
+    "m": "công bố",
+    "cat": "hành động"
+  },
+  {
+    "w": "unveil",
+    "m": "hé lộ, ra mắt",
+    "cat": "hành động"
+  },
+  {
+    "w": "expose",
+    "m": "phơi bày",
+    "cat": "hành động"
+  },
+  {
+    "w": "conceal",
+    "m": "che giấu",
+    "cat": "hành động"
+  },
+  {
+    "w": "withhold",
+    "m": "giữ lại không cho",
+    "cat": "hành động"
+  },
+  {
+    "w": "suppress",
+    "m": "đàn áp, kìm nén",
+    "cat": "hành động"
+  },
+  {
+    "w": "restrain",
+    "m": "kiềm chế",
+    "cat": "hành động"
+  },
+  {
+    "w": "refrain",
+    "m": "nhịn, tránh",
+    "cat": "hành động"
+  },
+  {
+    "w": "abstain",
+    "m": "kiêng, bỏ phiếu trắng",
+    "cat": "hành động"
+  },
+  {
+    "w": "forgo",
+    "m": "từ bỏ, nhịn",
+    "cat": "hành động"
+  },
+  {
+    "w": "relinquish",
+    "m": "từ bỏ quyền",
+    "cat": "hành động"
+  },
+  {
+    "w": "surrender",
+    "m": "đầu hàng, giao nộp",
+    "cat": "hành động"
+  },
+  {
+    "w": "yield",
+    "m": "nhượng bộ; sinh ra",
+    "cat": "hành động"
+  },
+  {
+    "w": "succumb",
+    "m": "chịu thua, gục ngã",
+    "cat": "hành động"
+  },
+  {
+    "w": "persevere",
+    "m": "kiên trì",
+    "cat": "hành động"
+  },
+  {
+    "w": "persist",
+    "m": "khăng khăng, dai dẳng",
+    "cat": "hành động"
+  },
+  {
+    "w": "endure",
+    "m": "chịu đựng",
+    "cat": "hành động"
+  },
+  {
+    "w": "withstand",
+    "m": "chống chịu",
+    "cat": "hành động"
+  },
+  {
+    "w": "overcome",
+    "m": "vượt qua",
+    "cat": "hành động"
+  },
+  {
+    "w": "surpass",
+    "m": "vượt trội",
+    "cat": "hành động"
+  },
+  {
+    "w": "excel",
+    "m": "xuất sắc nổi trội",
+    "cat": "hành động"
+  },
+  {
+    "w": "thrive",
+    "m": "phát triển mạnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "flourish",
+    "m": "hưng thịnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "prosper",
+    "m": "thịnh vượng",
+    "cat": "hành động"
+  },
+  {
+    "w": "deteriorate",
+    "m": "xấu đi",
+    "cat": "hành động"
+  },
+  {
+    "w": "decline",
+    "m": "suy giảm; từ chối",
+    "cat": "hành động"
+  },
+  {
+    "w": "diminish",
+    "m": "giảm dần",
+    "cat": "hành động"
+  },
+  {
+    "w": "dwindle",
+    "m": "hao mòn dần",
+    "cat": "hành động"
+  },
+  {
+    "w": "escalate",
+    "m": "leo thang",
+    "cat": "hành động"
+  },
+  {
+    "w": "intensify",
+    "m": "tăng cường độ",
+    "cat": "hành động"
+  },
+  {
+    "w": "accelerate",
+    "m": "tăng tốc",
+    "cat": "hành động"
+  },
+  {
+    "w": "prolong",
+    "m": "kéo dài",
+    "cat": "hành động"
+  },
+  {
+    "w": "postpone",
+    "m": "hoãn lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "expedite",
+    "m": "đẩy nhanh",
+    "cat": "hành động"
+  },
+  {
+    "w": "undertake",
+    "m": "đảm nhận",
+    "cat": "hành động"
+  },
+  {
+    "w": "embark",
+    "m": "bắt đầu (hành trình)",
+    "cat": "hành động"
+  },
+  {
+    "w": "commence",
+    "m": "khởi sự",
+    "cat": "hành động"
+  },
+  {
+    "w": "terminate",
+    "m": "chấm dứt",
+    "cat": "hành động"
+  },
+  {
+    "w": "abolish",
+    "m": "bãi bỏ",
+    "cat": "hành động"
+  },
+  {
+    "w": "eradicate",
+    "m": "xóa sổ, tận diệt",
+    "cat": "hành động"
+  },
+  {
+    "w": "dismantle",
+    "m": "tháo dỡ",
+    "cat": "hành động"
+  },
+  {
+    "w": "demolish",
+    "m": "phá hủy",
+    "cat": "hành động"
+  },
+  {
+    "w": "restore",
+    "m": "khôi phục",
+    "cat": "hành động"
+  },
+  {
+    "w": "renovate",
+    "m": "tu sửa",
+    "cat": "hành động"
+  },
+  {
+    "w": "refurbish",
+    "m": "tân trang",
+    "cat": "hành động"
+  },
+  {
+    "w": "reinforce",
+    "m": "củng cố",
+    "cat": "hành động"
+  },
+  {
+    "w": "consolidate",
+    "m": "hợp nhất, củng cố",
+    "cat": "hành động"
+  },
+  {
+    "w": "integrate",
+    "m": "tích hợp",
+    "cat": "hành động"
+  },
+  {
+    "w": "merge",
+    "m": "sáp nhập",
+    "cat": "hành động"
+  },
+  {
+    "w": "segregate",
+    "m": "tách biệt, phân ly",
+    "cat": "hành động"
+  },
+  {
+    "w": "allocate",
+    "m": "phân bổ",
+    "cat": "hành động"
+  },
+  {
+    "w": "distribute",
+    "m": "phân phát",
+    "cat": "hành động"
+  },
+  {
+    "w": "disperse",
+    "m": "phân tán",
+    "cat": "hành động"
+  },
+  {
+    "w": "scatter",
+    "m": "rải rác",
+    "cat": "hành động"
+  },
+  {
+    "w": "accumulate",
+    "m": "tích lũy",
+    "cat": "hành động"
+  },
+  {
+    "w": "amass",
+    "m": "thu góp nhiều",
+    "cat": "hành động"
+  },
+  {
+    "w": "hoard",
+    "m": "tích trữ",
+    "cat": "hành động"
+  },
+  {
+    "w": "deplete",
+    "m": "làm cạn kiệt",
+    "cat": "hành động"
+  },
+  {
+    "w": "exhaust",
+    "m": "dùng hết",
+    "cat": "hành động"
+  },
+  {
+    "w": "replenish",
+    "m": "bổ sung đầy lại",
+    "cat": "hành động"
+  }
+]

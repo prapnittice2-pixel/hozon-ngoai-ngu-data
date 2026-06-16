@@ -1,0 +1,1562 @@
+[
+  {
+    "w": "sparrow",
+    "m": "chim sẻ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "pigeon",
+    "m": "bồ câu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "crow",
+    "m": "quạ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "magpie",
+    "m": "chim ác là",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "robin",
+    "m": "chim cổ đỏ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "swallow",
+    "m": "chim én",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "woodpecker",
+    "m": "chim gõ kiến",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "hummingbird",
+    "m": "chim ruồi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "flamingo",
+    "m": "hồng hạc",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "pelican",
+    "m": "bồ nông",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "seagull",
+    "m": "hải âu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "falcon",
+    "m": "chim cắt",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "vulture",
+    "m": "kền kền",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "crane",
+    "m": "con sếu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "stork",
+    "m": "con cò",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "ostrich",
+    "m": "đà điểu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "peacock",
+    "m": "con công",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "parrot",
+    "m": "con vẹt",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "canary",
+    "m": "chim hoàng yến",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "nightingale",
+    "m": "chim họa mi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "hedgehog",
+    "m": "con nhím",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "squirrel",
+    "m": "con sóc",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "otter",
+    "m": "con rái cá",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "beaver",
+    "m": "hải ly",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "raccoon",
+    "m": "gấu mèo",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "badger",
+    "m": "con lửng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "mole",
+    "m": "con chuột chũi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "hare",
+    "m": "thỏ rừng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "weasel",
+    "m": "con chồn",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "ferret",
+    "m": "chồn sương",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "antelope",
+    "m": "linh dương",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "buffalo",
+    "m": "trâu rừng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "bison",
+    "m": "bò rừng bizon",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "moose",
+    "m": "nai sừng tấm",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "reindeer",
+    "m": "tuần lộc",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "leopard",
+    "m": "báo đốm",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "cheetah",
+    "m": "báo gêpa",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "panther",
+    "m": "báo đen",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "jaguar",
+    "m": "báo đốm Mỹ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "hyena",
+    "m": "linh cẩu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "chimpanzee",
+    "m": "tinh tinh",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "gorilla",
+    "m": "khỉ đột",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "orangutan",
+    "m": "đười ươi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "baboon",
+    "m": "khỉ đầu chó",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "lemur",
+    "m": "vượn cáo",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "sloth",
+    "m": "con lười",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "armadillo",
+    "m": "con tatu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "porcupine",
+    "m": "con nhím lông",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "platypus",
+    "m": "thú mỏ vịt",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "crocodile",
+    "m": "cá sấu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "alligator",
+    "m": "cá sấu Mỹ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "lizard",
+    "m": "thằn lằn",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "chameleon",
+    "m": "tắc kè hoa",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "iguana",
+    "m": "kỳ nhông",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "gecko",
+    "m": "tắc kè",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "cobra",
+    "m": "rắn hổ mang",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "python",
+    "m": "trăn",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "viper",
+    "m": "rắn lục",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "toad",
+    "m": "con cóc",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "newt",
+    "m": "sa giông",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "salamander",
+    "m": "kỳ giông",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "tadpole",
+    "m": "nòng nọc",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "jellyfish",
+    "m": "con sứa",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "starfish",
+    "m": "sao biển",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "seahorse",
+    "m": "cá ngựa",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "octopus",
+    "m": "bạch tuộc",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "jellyfish",
+    "m": "con sứa biển",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "snail",
+    "m": "ốc sên",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "slug",
+    "m": "sên trần",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "earthworm",
+    "m": "giun đất",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "caterpillar",
+    "m": "sâu bướm",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "grasshopper",
+    "m": "châu chấu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "cricket",
+    "m": "con dế",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "beetle",
+    "m": "bọ cánh cứng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "ladybird",
+    "m": "bọ rùa",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "dragonfly",
+    "m": "chuồn chuồn",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "butterfly",
+    "m": "bươm bướm",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "moth",
+    "m": "con ngài",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "wasp",
+    "m": "ong bắp cày",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "hornet",
+    "m": "ong vò vẽ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "beetle",
+    "m": "con bọ cánh cứng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "flea",
+    "m": "con bọ chét",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "tick",
+    "m": "con ve",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "louse",
+    "m": "con chấy",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "centipede",
+    "m": "con rết",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "scorpion",
+    "m": "bọ cạp",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "oak",
+    "m": "cây sồi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "pine",
+    "m": "cây thông",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "maple",
+    "m": "cây phong",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "birch",
+    "m": "cây bạch dương",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "willow",
+    "m": "cây liễu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "poplar",
+    "m": "cây dương",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "cedar",
+    "m": "cây tuyết tùng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "cypress",
+    "m": "cây bách",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "sycamore",
+    "m": "cây sung dâu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "chestnut tree",
+    "m": "cây hạt dẻ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "palm tree",
+    "m": "cây cọ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "fern",
+    "m": "cây dương xỉ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "moss",
+    "m": "rêu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "ivy",
+    "m": "cây thường xuân",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "vine",
+    "m": "cây leo, dây nho",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "shrub",
+    "m": "cây bụi",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "hedge",
+    "m": "hàng rào cây",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "thorn",
+    "m": "gai",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "twig",
+    "m": "cành con",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "trunk",
+    "m": "thân cây",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "bark",
+    "m": "vỏ cây",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "blossom",
+    "m": "hoa nở (cây ăn quả)",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "petal",
+    "m": "cánh hoa",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "pollen",
+    "m": "phấn hoa",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "nectar",
+    "m": "mật hoa",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "daisy",
+    "m": "hoa cúc trắng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "tulip",
+    "m": "hoa tulip",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "daffodil",
+    "m": "hoa thủy tiên vàng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "lily",
+    "m": "hoa loa kèn",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "orchid",
+    "m": "hoa lan",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "sunflower",
+    "m": "hoa hướng dương",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "poppy",
+    "m": "hoa anh túc",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "violet",
+    "m": "hoa violet",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "jasmine",
+    "m": "hoa nhài",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "lavender",
+    "m": "hoa oải hương",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "dandelion",
+    "m": "hoa bồ công anh",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "clover",
+    "m": "cỏ ba lá",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "reed",
+    "m": "cây sậy",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "bamboo",
+    "m": "cây tre",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "cactus",
+    "m": "cây xương rồng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "forehead",
+    "m": "trán",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "eyebrow",
+    "m": "lông mày",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "eyelash",
+    "m": "lông mi",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "eyelid",
+    "m": "mí mắt",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "cheek",
+    "m": "má",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "chin",
+    "m": "cằm",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "jaw",
+    "m": "hàm",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "nostril",
+    "m": "lỗ mũi",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "gum",
+    "m": "lợi, nướu",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "throat",
+    "m": "cổ họng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "collarbone",
+    "m": "xương đòn",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "spine",
+    "m": "cột sống",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "rib",
+    "m": "xương sườn",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "hip",
+    "m": "hông",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "thigh",
+    "m": "đùi",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "calf",
+    "m": "bắp chân",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "ankle",
+    "m": "mắt cá chân",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "heel",
+    "m": "gót chân",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "toe",
+    "m": "ngón chân",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "thumb",
+    "m": "ngón cái",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "knuckle",
+    "m": "khớp ngón tay",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "palm",
+    "m": "lòng bàn tay",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "wrist",
+    "m": "cổ tay",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "elbow",
+    "m": "khuỷu tay",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "nerve",
+    "m": "dây thần kinh",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "muscle",
+    "m": "cơ bắp",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "vein",
+    "m": "tĩnh mạch",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "artery",
+    "m": "động mạch",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "lung",
+    "m": "phổi",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "liver",
+    "m": "gan",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "kidney",
+    "m": "thận",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "intestine",
+    "m": "ruột",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "bladder",
+    "m": "bàng quang",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "skeleton",
+    "m": "bộ xương",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "scarf",
+    "m": "khăn quàng cổ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "glove",
+    "m": "găng tay",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "mitten",
+    "m": "găng tay bao",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "sock",
+    "m": "tất",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "stocking",
+    "m": "tất dài",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "sandal",
+    "m": "dép quai",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "slipper",
+    "m": "dép lê",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "sneaker",
+    "m": "giày thể thao",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "boot",
+    "m": "ủng, bốt",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "vest",
+    "m": "áo gi-lê",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "blouse",
+    "m": "áo cánh nữ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "cardigan",
+    "m": "áo len cài khuy",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "hoodie",
+    "m": "áo có mũ trùm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pyjamas",
+    "m": "đồ ngủ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "raincoat",
+    "m": "áo mưa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "apron",
+    "m": "tạp dề",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "collar",
+    "m": "cổ áo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "cuff",
+    "m": "cổ tay áo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "zip",
+    "m": "khóa kéo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "button",
+    "m": "nút áo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pocket",
+    "m": "túi áo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "sleeve",
+    "m": "tay áo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "belt",
+    "m": "thắt lưng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "tie",
+    "m": "cà vạt",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bowtie",
+    "m": "nơ đeo cổ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "brooch",
+    "m": "trâm cài",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "necklace",
+    "m": "vòng cổ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bracelet",
+    "m": "vòng tay",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "earring",
+    "m": "khuyên tai",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pendant",
+    "m": "mặt dây chuyền",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "crooked",
+    "m": "cong queo, méo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "straight",
+    "m": "thẳng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "curved",
+    "m": "cong",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hollow",
+    "m": "rỗng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "solid",
+    "m": "đặc, rắn chắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "slippery",
+    "m": "trơn trượt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sticky",
+    "m": "dính",
+    "cat": "tính từ"
+  },
+  {
+    "w": "rough",
+    "m": "thô ráp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "smooth",
+    "m": "nhẵn mịn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fluffy",
+    "m": "bông xốp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "furry",
+    "m": "có lông tơ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "shiny",
+    "m": "bóng loáng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dull",
+    "m": "xỉn, mờ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "transparent",
+    "m": "trong suốt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "opaque",
+    "m": "mờ đục",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fragile",
+    "m": "dễ vỡ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sturdy",
+    "m": "chắc chắn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "flexible",
+    "m": "dẻo, linh hoạt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "stiff",
+    "m": "cứng đờ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tight",
+    "m": "chật, chặt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "loose",
+    "m": "lỏng, rộng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "narrow",
+    "m": "hẹp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "shallow",
+    "m": "nông",
+    "cat": "tính từ"
+  },
+  {
+    "w": "steep",
+    "m": "dốc đứng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "spacious",
+    "m": "rộng rãi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cramped",
+    "m": "chật chội",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cosy",
+    "m": "ấm cúng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "gloomy",
+    "m": "u ám",
+    "cat": "tính từ"
+  },
+  {
+    "w": "bright",
+    "m": "sáng sủa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dim",
+    "m": "lờ mờ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "chilly",
+    "m": "se lạnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "humid",
+    "m": "ẩm ướt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sour",
+    "m": "chua",
+    "cat": "tính từ"
+  },
+  {
+    "w": "bitter",
+    "m": "đắng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "salty",
+    "m": "mặn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "spicy",
+    "m": "cay",
+    "cat": "tính từ"
+  },
+  {
+    "w": "bland",
+    "m": "nhạt nhẽo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "crispy",
+    "m": "giòn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "chewy",
+    "m": "dai",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tender",
+    "m": "mềm (thịt)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "juicy",
+    "m": "mọng nước",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ripe",
+    "m": "chín",
+    "cat": "tính từ"
+  },
+  {
+    "w": "rotten",
+    "m": "thối, hỏng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "stale",
+    "m": "ôi, cũ (bánh)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fresh",
+    "m": "tươi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "frozen",
+    "m": "đông lạnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "scarlet",
+    "m": "đỏ tươi",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "crimson",
+    "m": "đỏ thẫm",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "maroon",
+    "m": "nâu đỏ",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "turquoise",
+    "m": "xanh ngọc lam",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "navy",
+    "m": "xanh nước biển đậm",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "beige",
+    "m": "màu be",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "khaki",
+    "m": "màu kaki",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "lilac",
+    "m": "tím nhạt",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "magenta",
+    "m": "đỏ tươi cánh sen",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "amber",
+    "m": "màu hổ phách",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "ivory",
+    "m": "màu ngà",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "charcoal",
+    "m": "xám than",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "emerald",
+    "m": "xanh lục bảo",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "golden",
+    "m": "vàng óng",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "silvery",
+    "m": "ánh bạc",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "pale",
+    "m": "nhạt màu",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "vivid",
+    "m": "rực rỡ",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "glance",
+    "m": "liếc nhìn",
+    "cat": "hành động"
+  },
+  {
+    "w": "stare",
+    "m": "nhìn chằm chằm",
+    "cat": "hành động"
+  },
+  {
+    "w": "gaze",
+    "m": "nhìn đăm đăm",
+    "cat": "hành động"
+  },
+  {
+    "w": "peep",
+    "m": "nhìn trộm",
+    "cat": "hành động"
+  },
+  {
+    "w": "frown",
+    "m": "cau mày",
+    "cat": "hành động"
+  },
+  {
+    "w": "grin",
+    "m": "cười toe toét",
+    "cat": "hành động"
+  },
+  {
+    "w": "giggle",
+    "m": "cười khúc khích",
+    "cat": "hành động"
+  },
+  {
+    "w": "chuckle",
+    "m": "cười khẽ",
+    "cat": "hành động"
+  },
+  {
+    "w": "sigh",
+    "m": "thở dài",
+    "cat": "hành động"
+  },
+  {
+    "w": "yawn",
+    "m": "ngáp",
+    "cat": "hành động"
+  },
+  {
+    "w": "sneeze",
+    "m": "hắt hơi",
+    "cat": "hành động"
+  },
+  {
+    "w": "cough",
+    "m": "ho",
+    "cat": "hành động"
+  },
+  {
+    "w": "hiccup",
+    "m": "nấc cụt",
+    "cat": "hành động"
+  },
+  {
+    "w": "blink",
+    "m": "chớp mắt",
+    "cat": "hành động"
+  },
+  {
+    "w": "wink",
+    "m": "nháy mắt",
+    "cat": "hành động"
+  },
+  {
+    "w": "nod",
+    "m": "gật đầu",
+    "cat": "hành động"
+  },
+  {
+    "w": "shrug",
+    "m": "nhún vai",
+    "cat": "hành động"
+  },
+  {
+    "w": "wave",
+    "m": "vẫy tay",
+    "cat": "hành động"
+  },
+  {
+    "w": "clap",
+    "m": "vỗ tay",
+    "cat": "hành động"
+  },
+  {
+    "w": "hug",
+    "m": "ôm",
+    "cat": "hành động"
+  },
+  {
+    "w": "squeeze",
+    "m": "siết, bóp",
+    "cat": "hành động"
+  },
+  {
+    "w": "stretch",
+    "m": "vươn vai, kéo giãn",
+    "cat": "hành động"
+  },
+  {
+    "w": "bend",
+    "m": "cúi, uốn cong",
+    "cat": "hành động"
+  },
+  {
+    "w": "crawl",
+    "m": "bò",
+    "cat": "hành động"
+  },
+  {
+    "w": "creep",
+    "m": "bò lén",
+    "cat": "hành động"
+  },
+  {
+    "w": "stroll",
+    "m": "đi dạo thong thả",
+    "cat": "hành động"
+  },
+  {
+    "w": "wander",
+    "m": "đi lang thang",
+    "cat": "hành động"
+  },
+  {
+    "w": "march",
+    "m": "diễu hành",
+    "cat": "hành động"
+  },
+  {
+    "w": "limp",
+    "m": "đi khập khiễng",
+    "cat": "hành động"
+  },
+  {
+    "w": "stumble",
+    "m": "vấp ngã",
+    "cat": "hành động"
+  },
+  {
+    "w": "slip",
+    "m": "trượt chân",
+    "cat": "hành động"
+  },
+  {
+    "w": "leap",
+    "m": "nhảy vọt",
+    "cat": "hành động"
+  },
+  {
+    "w": "hop",
+    "m": "nhảy lò cò",
+    "cat": "hành động"
+  },
+  {
+    "w": "dive",
+    "m": "lao xuống, lặn",
+    "cat": "hành động"
+  },
+  {
+    "w": "float",
+    "m": "nổi",
+    "cat": "hành động"
+  },
+  {
+    "w": "sink",
+    "m": "chìm",
+    "cat": "hành động"
+  },
+  {
+    "w": "splash",
+    "m": "bắn tóe nước",
+    "cat": "hành động"
+  },
+  {
+    "w": "drip",
+    "m": "nhỏ giọt",
+    "cat": "hành động"
+  },
+  {
+    "w": "pour",
+    "m": "rót, đổ",
+    "cat": "hành động"
+  },
+  {
+    "w": "spill",
+    "m": "làm đổ",
+    "cat": "hành động"
+  },
+  {
+    "w": "sip",
+    "m": "nhấp (ngụm)",
+    "cat": "hành động"
+  },
+  {
+    "w": "chew",
+    "m": "nhai",
+    "cat": "hành động"
+  },
+  {
+    "w": "swallow",
+    "m": "nuốt",
+    "cat": "hành động"
+  },
+  {
+    "w": "bite",
+    "m": "cắn",
+    "cat": "hành động"
+  },
+  {
+    "w": "lick",
+    "m": "liếm",
+    "cat": "hành động"
+  },
+  {
+    "w": "whisper",
+    "m": "thì thầm",
+    "cat": "hành động"
+  },
+  {
+    "w": "mutter",
+    "m": "lẩm bẩm",
+    "cat": "hành động"
+  },
+  {
+    "w": "mumble",
+    "m": "nói lí nhí",
+    "cat": "hành động"
+  },
+  {
+    "w": "shout",
+    "m": "hét lớn",
+    "cat": "hành động"
+  },
+  {
+    "w": "scream",
+    "m": "thét lên",
+    "cat": "hành động"
+  },
+  {
+    "w": "yell",
+    "m": "la hét",
+    "cat": "hành động"
+  },
+  {
+    "w": "groan",
+    "m": "rên rỉ",
+    "cat": "hành động"
+  },
+  {
+    "w": "moan",
+    "m": "than van",
+    "cat": "hành động"
+  },
+  {
+    "w": "weep",
+    "m": "khóc thút thít",
+    "cat": "hành động"
+  },
+  {
+    "w": "sob",
+    "m": "khóc nức nở",
+    "cat": "hành động"
+  },
+  {
+    "w": "tremble",
+    "m": "run rẩy",
+    "cat": "hành động"
+  },
+  {
+    "w": "shiver",
+    "m": "rùng mình",
+    "cat": "hành động"
+  },
+  {
+    "w": "sweat",
+    "m": "đổ mồ hôi",
+    "cat": "hành động"
+  },
+  {
+    "w": "blush",
+    "m": "đỏ mặt",
+    "cat": "hành động"
+  }
+]

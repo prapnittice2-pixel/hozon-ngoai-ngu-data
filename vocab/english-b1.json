@@ -1,0 +1,5007 @@
+[
+  {
+    "w": "accommodation",
+    "m": "chỗ ở, nơi lưu trú",
+    "cat": "travel"
+  },
+  {
+    "w": "reservation",
+    "m": "đặt chỗ trước",
+    "cat": "travel"
+  },
+  {
+    "w": "destination",
+    "m": "điểm đến",
+    "cat": "travel"
+  },
+  {
+    "w": "itinerary",
+    "m": "lịch trình du lịch",
+    "cat": "travel"
+  },
+  {
+    "w": "sightseeing",
+    "m": "tham quan",
+    "cat": "travel"
+  },
+  {
+    "w": "landmark",
+    "m": "địa danh nổi tiếng",
+    "cat": "travel"
+  },
+  {
+    "w": "excursion",
+    "m": "chuyến tham quan ngắn",
+    "cat": "travel"
+  },
+  {
+    "w": "customs",
+    "m": "hải quan",
+    "cat": "travel"
+  },
+  {
+    "w": "immigration",
+    "m": "xuất nhập cảnh",
+    "cat": "travel"
+  },
+  {
+    "w": "currency",
+    "m": "tiền tệ",
+    "cat": "travel"
+  },
+  {
+    "w": "exchange rate",
+    "m": "tỷ giá hối đoái",
+    "cat": "travel"
+  },
+  {
+    "w": "backpack",
+    "m": "ba lô",
+    "cat": "travel"
+  },
+  {
+    "w": "delay",
+    "m": "sự chậm trễ",
+    "cat": "travel"
+  },
+  {
+    "w": "cancellation",
+    "m": "hủy bỏ",
+    "cat": "travel"
+  },
+  {
+    "w": "refund",
+    "m": "hoàn tiền",
+    "cat": "travel"
+  },
+  {
+    "w": "insurance",
+    "m": "bảo hiểm",
+    "cat": "travel"
+  },
+  {
+    "w": "cruise",
+    "m": "du thuyền",
+    "cat": "travel"
+  },
+  {
+    "w": "adventure",
+    "m": "cuộc phiêu lưu",
+    "cat": "travel"
+  },
+  {
+    "w": "explore",
+    "m": "khám phá",
+    "cat": "travel"
+  },
+  {
+    "w": "recommend",
+    "m": "giới thiệu, đề xuất",
+    "cat": "travel"
+  },
+  {
+    "w": "route",
+    "m": "tuyến đường",
+    "cat": "travel"
+  },
+  {
+    "w": "navigate",
+    "m": "điều hướng, dẫn đường",
+    "cat": "travel"
+  },
+  {
+    "w": "souvenir",
+    "m": "quà lưu niệm",
+    "cat": "travel"
+  },
+  {
+    "w": "local",
+    "m": "địa phương",
+    "cat": "travel"
+  },
+  {
+    "w": "abroad",
+    "m": "ở nước ngoài",
+    "cat": "travel"
+  },
+  {
+    "w": "overseas",
+    "m": "hải ngoại",
+    "cat": "travel"
+  },
+  {
+    "w": "foreign",
+    "m": "nước ngoài, ngoại quốc",
+    "cat": "travel"
+  },
+  {
+    "w": "border",
+    "m": "biên giới",
+    "cat": "travel"
+  },
+  {
+    "w": "coast",
+    "m": "bờ biển",
+    "cat": "travel"
+  },
+  {
+    "w": "peninsula",
+    "m": "bán đảo",
+    "cat": "travel"
+  },
+  {
+    "w": "island",
+    "m": "hòn đảo",
+    "cat": "travel"
+  },
+  {
+    "w": "mountain range",
+    "m": "dãy núi",
+    "cat": "travel"
+  },
+  {
+    "w": "valley",
+    "m": "thung lũng",
+    "cat": "travel"
+  },
+  {
+    "w": "waterfall",
+    "m": "thác nước",
+    "cat": "travel"
+  },
+  {
+    "w": "jungle",
+    "m": "rừng rậm",
+    "cat": "travel"
+  },
+  {
+    "w": "desert",
+    "m": "sa mạc",
+    "cat": "travel"
+  },
+  {
+    "w": "passport",
+    "m": "hộ chiếu",
+    "cat": "travel"
+  },
+  {
+    "w": "visa",
+    "m": "thị thực, visa",
+    "cat": "travel"
+  },
+  {
+    "w": "luggage",
+    "m": "hành lý",
+    "cat": "travel"
+  },
+  {
+    "w": "check in",
+    "m": "làm thủ tục nhận phòng",
+    "cat": "travel"
+  },
+  {
+    "w": "check out",
+    "m": "làm thủ tục trả phòng",
+    "cat": "travel"
+  },
+  {
+    "w": "hostel",
+    "m": "nhà trọ giá rẻ",
+    "cat": "travel"
+  },
+  {
+    "w": "resort",
+    "m": "khu nghỉ dưỡng",
+    "cat": "travel"
+  },
+  {
+    "w": "guide",
+    "m": "hướng dẫn viên",
+    "cat": "travel"
+  },
+  {
+    "w": "tour",
+    "m": "chuyến du lịch",
+    "cat": "travel"
+  },
+  {
+    "w": "package tour",
+    "m": "tour trọn gói",
+    "cat": "travel"
+  },
+  {
+    "w": "backpacker",
+    "m": "du khách ba lô",
+    "cat": "travel"
+  },
+  {
+    "w": "jet lag",
+    "m": "trễ múi giờ",
+    "cat": "travel"
+  },
+  {
+    "w": "culture shock",
+    "m": "sốc văn hóa",
+    "cat": "travel"
+  },
+  {
+    "w": "budget",
+    "m": "ngân sách",
+    "cat": "travel"
+  },
+  {
+    "w": "interview",
+    "m": "phỏng vấn",
+    "cat": "work"
+  },
+  {
+    "w": "resume",
+    "m": "CV, sơ yếu lý lịch",
+    "cat": "work"
+  },
+  {
+    "w": "employer",
+    "m": "người sử dụng lao động",
+    "cat": "work"
+  },
+  {
+    "w": "salary",
+    "m": "lương tháng",
+    "cat": "work"
+  },
+  {
+    "w": "overtime",
+    "m": "làm thêm giờ",
+    "cat": "work"
+  },
+  {
+    "w": "promotion",
+    "m": "thăng chức",
+    "cat": "work"
+  },
+  {
+    "w": "qualification",
+    "m": "bằng cấp, năng lực",
+    "cat": "work"
+  },
+  {
+    "w": "reference",
+    "m": "người giới thiệu, tài liệu tham khảo",
+    "cat": "work"
+  },
+  {
+    "w": "contract",
+    "m": "hợp đồng",
+    "cat": "work"
+  },
+  {
+    "w": "part-time",
+    "m": "bán thời gian",
+    "cat": "work"
+  },
+  {
+    "w": "full-time",
+    "m": "toàn thời gian",
+    "cat": "work"
+  },
+  {
+    "w": "freelance",
+    "m": "làm tự do",
+    "cat": "work"
+  },
+  {
+    "w": "remote",
+    "m": "làm việc từ xa",
+    "cat": "work"
+  },
+  {
+    "w": "department",
+    "m": "phòng ban",
+    "cat": "work"
+  },
+  {
+    "w": "supervisor",
+    "m": "người giám sát, quản lý",
+    "cat": "work"
+  },
+  {
+    "w": "client",
+    "m": "khách hàng",
+    "cat": "work"
+  },
+  {
+    "w": "presentation",
+    "m": "bài thuyết trình",
+    "cat": "work"
+  },
+  {
+    "w": "feedback",
+    "m": "phản hồi",
+    "cat": "work"
+  },
+  {
+    "w": "appraisal",
+    "m": "đánh giá công việc",
+    "cat": "work"
+  },
+  {
+    "w": "performance",
+    "m": "hiệu suất",
+    "cat": "work"
+  },
+  {
+    "w": "target",
+    "m": "mục tiêu",
+    "cat": "work"
+  },
+  {
+    "w": "achieve",
+    "m": "đạt được, hoàn thành",
+    "cat": "work"
+  },
+  {
+    "w": "resign",
+    "m": "từ chức",
+    "cat": "work"
+  },
+  {
+    "w": "dismiss",
+    "m": "sa thải",
+    "cat": "work"
+  },
+  {
+    "w": "hire",
+    "m": "tuyển dụng",
+    "cat": "work"
+  },
+  {
+    "w": "retire",
+    "m": "về hưu",
+    "cat": "work"
+  },
+  {
+    "w": "pension",
+    "m": "lương hưu",
+    "cat": "work"
+  },
+  {
+    "w": "allowance",
+    "m": "phụ cấp",
+    "cat": "work"
+  },
+  {
+    "w": "bonus",
+    "m": "tiền thưởng",
+    "cat": "work"
+  },
+  {
+    "w": "negotiate",
+    "m": "đàm phán",
+    "cat": "work"
+  },
+  {
+    "w": "training",
+    "m": "đào tạo",
+    "cat": "work"
+  },
+  {
+    "w": "develop",
+    "m": "phát triển kỹ năng",
+    "cat": "work"
+  },
+  {
+    "w": "teamwork",
+    "m": "làm việc nhóm",
+    "cat": "work"
+  },
+  {
+    "w": "colleague",
+    "m": "đồng nghiệp",
+    "cat": "work"
+  },
+  {
+    "w": "leadership",
+    "m": "khả năng lãnh đạo",
+    "cat": "work"
+  },
+  {
+    "w": "responsibility",
+    "m": "trách nhiệm",
+    "cat": "work"
+  },
+  {
+    "w": "career",
+    "m": "sự nghiệp",
+    "cat": "work"
+  },
+  {
+    "w": "profession",
+    "m": "nghề nghiệp",
+    "cat": "work"
+  },
+  {
+    "w": "industry",
+    "m": "ngành công nghiệp",
+    "cat": "work"
+  },
+  {
+    "w": "company",
+    "m": "công ty",
+    "cat": "work"
+  },
+  {
+    "w": "organization",
+    "m": "tổ chức",
+    "cat": "work"
+  },
+  {
+    "w": "management",
+    "m": "quản lý",
+    "cat": "work"
+  },
+  {
+    "w": "strategy",
+    "m": "chiến lược",
+    "cat": "work"
+  },
+  {
+    "w": "competition",
+    "m": "cạnh tranh",
+    "cat": "work"
+  },
+  {
+    "w": "profit",
+    "m": "lợi nhuận",
+    "cat": "work"
+  },
+  {
+    "w": "invest",
+    "m": "đầu tư",
+    "cat": "work"
+  },
+  {
+    "w": "fitness",
+    "m": "thể lực, sức khỏe thể chất",
+    "cat": "health"
+  },
+  {
+    "w": "nutrition",
+    "m": "dinh dưỡng",
+    "cat": "health"
+  },
+  {
+    "w": "lifestyle",
+    "m": "lối sống",
+    "cat": "health"
+  },
+  {
+    "w": "routine",
+    "m": "thói quen, lịch sinh hoạt",
+    "cat": "health"
+  },
+  {
+    "w": "stress",
+    "m": "căng thẳng",
+    "cat": "health"
+  },
+  {
+    "w": "meditation",
+    "m": "thiền định",
+    "cat": "health"
+  },
+  {
+    "w": "yoga",
+    "m": "yoga",
+    "cat": "health"
+  },
+  {
+    "w": "therapy",
+    "m": "liệu pháp, trị liệu",
+    "cat": "health"
+  },
+  {
+    "w": "mental health",
+    "m": "sức khỏe tâm thần",
+    "cat": "health"
+  },
+  {
+    "w": "depression",
+    "m": "trầm cảm",
+    "cat": "health"
+  },
+  {
+    "w": "anxiety",
+    "m": "lo âu",
+    "cat": "health"
+  },
+  {
+    "w": "wellbeing",
+    "m": "sức khỏe tổng thể",
+    "cat": "health"
+  },
+  {
+    "w": "immune",
+    "m": "miễn dịch",
+    "cat": "health"
+  },
+  {
+    "w": "symptom",
+    "m": "triệu chứng",
+    "cat": "health"
+  },
+  {
+    "w": "diagnosis",
+    "m": "chẩn đoán",
+    "cat": "health"
+  },
+  {
+    "w": "treatment",
+    "m": "điều trị",
+    "cat": "health"
+  },
+  {
+    "w": "prescription",
+    "m": "đơn thuốc",
+    "cat": "health"
+  },
+  {
+    "w": "allergy",
+    "m": "dị ứng",
+    "cat": "health"
+  },
+  {
+    "w": "infection",
+    "m": "nhiễm trùng",
+    "cat": "health"
+  },
+  {
+    "w": "chronic",
+    "m": "mãn tính",
+    "cat": "health"
+  },
+  {
+    "w": "surgery",
+    "m": "phẫu thuật",
+    "cat": "health"
+  },
+  {
+    "w": "specialist",
+    "m": "bác sĩ chuyên khoa",
+    "cat": "health"
+  },
+  {
+    "w": "checkup",
+    "m": "khám sức khỏe định kỳ",
+    "cat": "health"
+  },
+  {
+    "w": "prevention",
+    "m": "phòng ngừa",
+    "cat": "health"
+  },
+  {
+    "w": "vaccination",
+    "m": "tiêm phòng",
+    "cat": "health"
+  },
+  {
+    "w": "vitamin",
+    "m": "vitamin",
+    "cat": "health"
+  },
+  {
+    "w": "protein",
+    "m": "protein, đạm",
+    "cat": "health"
+  },
+  {
+    "w": "calorie",
+    "m": "calo",
+    "cat": "health"
+  },
+  {
+    "w": "obesity",
+    "m": "béo phì",
+    "cat": "health"
+  },
+  {
+    "w": "diabetes",
+    "m": "bệnh tiểu đường",
+    "cat": "health"
+  },
+  {
+    "w": "cholesterol",
+    "m": "cholesterol",
+    "cat": "health"
+  },
+  {
+    "w": "blood pressure",
+    "m": "huyết áp",
+    "cat": "health"
+  },
+  {
+    "w": "heart rate",
+    "m": "nhịp tim",
+    "cat": "health"
+  },
+  {
+    "w": "gym",
+    "m": "phòng gym",
+    "cat": "health"
+  },
+  {
+    "w": "jog",
+    "m": "chạy bộ",
+    "cat": "health"
+  },
+  {
+    "w": "stretch",
+    "m": "giãn cơ",
+    "cat": "health"
+  },
+  {
+    "w": "posture",
+    "m": "tư thế",
+    "cat": "health"
+  },
+  {
+    "w": "supplement",
+    "m": "thực phẩm bổ sung",
+    "cat": "health"
+  },
+  {
+    "w": "organic",
+    "m": "hữu cơ",
+    "cat": "health"
+  },
+  {
+    "w": "pollution",
+    "m": "ô nhiễm",
+    "cat": "environment"
+  },
+  {
+    "w": "recycling",
+    "m": "tái chế",
+    "cat": "environment"
+  },
+  {
+    "w": "renewable",
+    "m": "có thể tái tạo",
+    "cat": "environment"
+  },
+  {
+    "w": "sustainable",
+    "m": "bền vững",
+    "cat": "environment"
+  },
+  {
+    "w": "global warming",
+    "m": "nóng lên toàn cầu",
+    "cat": "environment"
+  },
+  {
+    "w": "carbon footprint",
+    "m": "dấu chân carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "emission",
+    "m": "khí thải",
+    "cat": "environment"
+  },
+  {
+    "w": "fossil fuel",
+    "m": "nhiên liệu hóa thạch",
+    "cat": "environment"
+  },
+  {
+    "w": "solar energy",
+    "m": "năng lượng mặt trời",
+    "cat": "environment"
+  },
+  {
+    "w": "deforestation",
+    "m": "phá rừng",
+    "cat": "environment"
+  },
+  {
+    "w": "habitat",
+    "m": "môi trường sống",
+    "cat": "environment"
+  },
+  {
+    "w": "endangered",
+    "m": "có nguy cơ tuyệt chủng",
+    "cat": "environment"
+  },
+  {
+    "w": "conservation",
+    "m": "bảo tồn",
+    "cat": "environment"
+  },
+  {
+    "w": "biodiversity",
+    "m": "đa dạng sinh học",
+    "cat": "environment"
+  },
+  {
+    "w": "ecosystem",
+    "m": "hệ sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "flood",
+    "m": "lũ lụt",
+    "cat": "environment"
+  },
+  {
+    "w": "drought",
+    "m": "hạn hán",
+    "cat": "environment"
+  },
+  {
+    "w": "earthquake",
+    "m": "động đất",
+    "cat": "environment"
+  },
+  {
+    "w": "wildfire",
+    "m": "cháy rừng",
+    "cat": "environment"
+  },
+  {
+    "w": "glacier",
+    "m": "sông băng",
+    "cat": "environment"
+  },
+  {
+    "w": "atmosphere",
+    "m": "khí quyển",
+    "cat": "environment"
+  },
+  {
+    "w": "toxic",
+    "m": "độc hại",
+    "cat": "environment"
+  },
+  {
+    "w": "waste",
+    "m": "chất thải, rác thải",
+    "cat": "environment"
+  },
+  {
+    "w": "contamination",
+    "m": "sự ô nhiễm, nhiễm bẩn",
+    "cat": "environment"
+  },
+  {
+    "w": "eco-friendly",
+    "m": "thân thiện môi trường",
+    "cat": "environment"
+  },
+  {
+    "w": "green energy",
+    "m": "năng lượng xanh",
+    "cat": "environment"
+  },
+  {
+    "w": "tree-planting",
+    "m": "trồng cây",
+    "cat": "environment"
+  },
+  {
+    "w": "climate change",
+    "m": "biến đổi khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "ozone layer",
+    "m": "tầng ozone",
+    "cat": "environment"
+  },
+  {
+    "w": "rainforest",
+    "m": "rừng nhiệt đới",
+    "cat": "environment"
+  },
+  {
+    "w": "extinct",
+    "m": "tuyệt chủng",
+    "cat": "environment"
+  },
+  {
+    "w": "wildlife",
+    "m": "động vật hoang dã",
+    "cat": "environment"
+  },
+  {
+    "w": "recycle",
+    "m": "tái chế",
+    "cat": "environment"
+  },
+  {
+    "w": "compost",
+    "m": "phân compost",
+    "cat": "environment"
+  },
+  {
+    "w": "curriculum",
+    "m": "chương trình học",
+    "cat": "education"
+  },
+  {
+    "w": "lecture",
+    "m": "bài giảng, buổi thuyết trình",
+    "cat": "education"
+  },
+  {
+    "w": "seminar",
+    "m": "hội thảo nhóm nhỏ",
+    "cat": "education"
+  },
+  {
+    "w": "tutorial",
+    "m": "buổi học kèm cặp",
+    "cat": "education"
+  },
+  {
+    "w": "assignment",
+    "m": "bài tập được giao",
+    "cat": "education"
+  },
+  {
+    "w": "essay",
+    "m": "bài luận",
+    "cat": "education"
+  },
+  {
+    "w": "thesis",
+    "m": "luận văn, luận án",
+    "cat": "education"
+  },
+  {
+    "w": "experiment",
+    "m": "thí nghiệm",
+    "cat": "education"
+  },
+  {
+    "w": "laboratory",
+    "m": "phòng thí nghiệm",
+    "cat": "education"
+  },
+  {
+    "w": "hypothesis",
+    "m": "giả thuyết",
+    "cat": "education"
+  },
+  {
+    "w": "evidence",
+    "m": "bằng chứng",
+    "cat": "education"
+  },
+  {
+    "w": "conclusion",
+    "m": "kết luận",
+    "cat": "education"
+  },
+  {
+    "w": "argument",
+    "m": "lập luận",
+    "cat": "education"
+  },
+  {
+    "w": "debate",
+    "m": "tranh luận",
+    "cat": "education"
+  },
+  {
+    "w": "analyze",
+    "m": "phân tích",
+    "cat": "education"
+  },
+  {
+    "w": "compare",
+    "m": "so sánh",
+    "cat": "education"
+  },
+  {
+    "w": "evaluate",
+    "m": "đánh giá",
+    "cat": "education"
+  },
+  {
+    "w": "summarize",
+    "m": "tóm tắt",
+    "cat": "education"
+  },
+  {
+    "w": "statistics",
+    "m": "thống kê",
+    "cat": "education"
+  },
+  {
+    "w": "data",
+    "m": "dữ liệu",
+    "cat": "education"
+  },
+  {
+    "w": "source",
+    "m": "nguồn tài liệu",
+    "cat": "education"
+  },
+  {
+    "w": "bibliography",
+    "m": "thư mục tài liệu tham khảo",
+    "cat": "education"
+  },
+  {
+    "w": "plagiarism",
+    "m": "đạo văn",
+    "cat": "education"
+  },
+  {
+    "w": "scholarship",
+    "m": "học bổng",
+    "cat": "education"
+  },
+  {
+    "w": "internship",
+    "m": "thực tập",
+    "cat": "education"
+  },
+  {
+    "w": "undergraduate",
+    "m": "sinh viên đại học",
+    "cat": "education"
+  },
+  {
+    "w": "postgraduate",
+    "m": "học sau đại học",
+    "cat": "education"
+  },
+  {
+    "w": "degree",
+    "m": "bằng đại học",
+    "cat": "education"
+  },
+  {
+    "w": "certificate",
+    "m": "chứng chỉ",
+    "cat": "education"
+  },
+  {
+    "w": "diploma",
+    "m": "bằng cao đẳng, văn bằng",
+    "cat": "education"
+  },
+  {
+    "w": "academic",
+    "m": "học thuật, học giả",
+    "cat": "education"
+  },
+  {
+    "w": "research",
+    "m": "nghiên cứu",
+    "cat": "education"
+  },
+  {
+    "w": "subject",
+    "m": "môn học",
+    "cat": "education"
+  },
+  {
+    "w": "knowledge",
+    "m": "kiến thức",
+    "cat": "education"
+  },
+  {
+    "w": "skill",
+    "m": "kỹ năng",
+    "cat": "education"
+  },
+  {
+    "w": "ability",
+    "m": "khả năng",
+    "cat": "education"
+  },
+  {
+    "w": "software",
+    "m": "phần mềm",
+    "cat": "technology"
+  },
+  {
+    "w": "hardware",
+    "m": "phần cứng",
+    "cat": "technology"
+  },
+  {
+    "w": "operating system",
+    "m": "hệ điều hành",
+    "cat": "technology"
+  },
+  {
+    "w": "browser",
+    "m": "trình duyệt web",
+    "cat": "technology"
+  },
+  {
+    "w": "social media",
+    "m": "mạng xã hội",
+    "cat": "technology"
+  },
+  {
+    "w": "platform",
+    "m": "nền tảng",
+    "cat": "technology"
+  },
+  {
+    "w": "profile",
+    "m": "trang cá nhân",
+    "cat": "technology"
+  },
+  {
+    "w": "security",
+    "m": "bảo mật",
+    "cat": "technology"
+  },
+  {
+    "w": "privacy",
+    "m": "quyền riêng tư",
+    "cat": "technology"
+  },
+  {
+    "w": "virus",
+    "m": "virus máy tính",
+    "cat": "technology"
+  },
+  {
+    "w": "backup",
+    "m": "sao lưu dữ liệu",
+    "cat": "technology"
+  },
+  {
+    "w": "cloud",
+    "m": "đám mây (lưu trữ)",
+    "cat": "technology"
+  },
+  {
+    "w": "stream",
+    "m": "phát trực tiếp",
+    "cat": "technology"
+  },
+  {
+    "w": "bandwidth",
+    "m": "băng thông",
+    "cat": "technology"
+  },
+  {
+    "w": "wireless",
+    "m": "không dây",
+    "cat": "technology"
+  },
+  {
+    "w": "artificial intelligence",
+    "m": "trí tuệ nhân tạo",
+    "cat": "technology"
+  },
+  {
+    "w": "robot",
+    "m": "robot",
+    "cat": "technology"
+  },
+  {
+    "w": "automation",
+    "m": "tự động hóa",
+    "cat": "technology"
+  },
+  {
+    "w": "update",
+    "m": "cập nhật",
+    "cat": "technology"
+  },
+  {
+    "w": "interface",
+    "m": "giao diện",
+    "cat": "technology"
+  },
+  {
+    "w": "navigation",
+    "m": "điều hướng",
+    "cat": "technology"
+  },
+  {
+    "w": "icon",
+    "m": "biểu tượng",
+    "cat": "technology"
+  },
+  {
+    "w": "folder",
+    "m": "thư mục",
+    "cat": "technology"
+  },
+  {
+    "w": "database",
+    "m": "cơ sở dữ liệu",
+    "cat": "technology"
+  },
+  {
+    "w": "algorithm",
+    "m": "thuật toán",
+    "cat": "technology"
+  },
+  {
+    "w": "code",
+    "m": "lập trình, mã nguồn",
+    "cat": "technology"
+  },
+  {
+    "w": "debug",
+    "m": "sửa lỗi phần mềm",
+    "cat": "technology"
+  },
+  {
+    "w": "network",
+    "m": "mạng lưới",
+    "cat": "technology"
+  },
+  {
+    "w": "server",
+    "m": "máy chủ",
+    "cat": "technology"
+  },
+  {
+    "w": "poverty",
+    "m": "nghèo đói",
+    "cat": "society"
+  },
+  {
+    "w": "inequality",
+    "m": "bất bình đẳng",
+    "cat": "society"
+  },
+  {
+    "w": "discrimination",
+    "m": "phân biệt đối xử",
+    "cat": "society"
+  },
+  {
+    "w": "diversity",
+    "m": "sự đa dạng",
+    "cat": "society"
+  },
+  {
+    "w": "tolerance",
+    "m": "sự khoan nhượng",
+    "cat": "society"
+  },
+  {
+    "w": "human rights",
+    "m": "nhân quyền",
+    "cat": "society"
+  },
+  {
+    "w": "justice",
+    "m": "công lý",
+    "cat": "society"
+  },
+  {
+    "w": "democracy",
+    "m": "dân chủ",
+    "cat": "society"
+  },
+  {
+    "w": "corruption",
+    "m": "tham nhũng",
+    "cat": "society"
+  },
+  {
+    "w": "protest",
+    "m": "biểu tình, phản đối",
+    "cat": "society"
+  },
+  {
+    "w": "campaign",
+    "m": "chiến dịch",
+    "cat": "society"
+  },
+  {
+    "w": "charity",
+    "m": "từ thiện",
+    "cat": "society"
+  },
+  {
+    "w": "volunteer",
+    "m": "tình nguyện viên",
+    "cat": "society"
+  },
+  {
+    "w": "community",
+    "m": "cộng đồng",
+    "cat": "society"
+  },
+  {
+    "w": "tradition",
+    "m": "truyền thống",
+    "cat": "society"
+  },
+  {
+    "w": "religion",
+    "m": "tôn giáo",
+    "cat": "society"
+  },
+  {
+    "w": "belief",
+    "m": "niềm tin, tín ngưỡng",
+    "cat": "society"
+  },
+  {
+    "w": "vote",
+    "m": "bỏ phiếu",
+    "cat": "society"
+  },
+  {
+    "w": "election",
+    "m": "cuộc bầu cử",
+    "cat": "society"
+  },
+  {
+    "w": "government",
+    "m": "chính phủ",
+    "cat": "society"
+  },
+  {
+    "w": "law",
+    "m": "luật pháp",
+    "cat": "society"
+  },
+  {
+    "w": "reform",
+    "m": "cải cách",
+    "cat": "society"
+  },
+  {
+    "w": "challenge",
+    "m": "thách thức",
+    "cat": "society"
+  },
+  {
+    "w": "solution",
+    "m": "giải pháp",
+    "cat": "society"
+  },
+  {
+    "w": "impact",
+    "m": "tác động, ảnh hưởng",
+    "cat": "society"
+  },
+  {
+    "w": "culture",
+    "m": "văn hóa",
+    "cat": "society"
+  },
+  {
+    "w": "media",
+    "m": "truyền thông",
+    "cat": "society"
+  },
+  {
+    "w": "journalism",
+    "m": "báo chí",
+    "cat": "society"
+  },
+  {
+    "w": "opinion",
+    "m": "ý kiến, quan điểm",
+    "cat": "society"
+  },
+  {
+    "w": "conflict",
+    "m": "xung đột",
+    "cat": "society"
+  },
+  {
+    "w": "peace",
+    "m": "hòa bình",
+    "cat": "society"
+  },
+  {
+    "w": "support",
+    "m": "ủng hộ, hỗ trợ",
+    "cat": "society"
+  },
+  {
+    "w": "although",
+    "m": "mặc dù",
+    "cat": "connector"
+  },
+  {
+    "w": "however",
+    "m": "tuy nhiên",
+    "cat": "connector"
+  },
+  {
+    "w": "therefore",
+    "m": "vì vậy, do đó",
+    "cat": "connector"
+  },
+  {
+    "w": "moreover",
+    "m": "hơn nữa",
+    "cat": "connector"
+  },
+  {
+    "w": "furthermore",
+    "m": "thêm vào đó",
+    "cat": "connector"
+  },
+  {
+    "w": "in addition",
+    "m": "ngoài ra",
+    "cat": "connector"
+  },
+  {
+    "w": "in contrast",
+    "m": "ngược lại",
+    "cat": "connector"
+  },
+  {
+    "w": "despite",
+    "m": "mặc dù, bất chấp",
+    "cat": "connector"
+  },
+  {
+    "w": "whereas",
+    "m": "trong khi đó",
+    "cat": "connector"
+  },
+  {
+    "w": "unless",
+    "m": "trừ khi",
+    "cat": "connector"
+  },
+  {
+    "w": "provided that",
+    "m": "với điều kiện là",
+    "cat": "connector"
+  },
+  {
+    "w": "as long as",
+    "m": "miễn là",
+    "cat": "connector"
+  },
+  {
+    "w": "in order to",
+    "m": "để, nhằm mục đích",
+    "cat": "connector"
+  },
+  {
+    "w": "as a result",
+    "m": "kết quả là",
+    "cat": "connector"
+  },
+  {
+    "w": "consequently",
+    "m": "do đó, vì vậy",
+    "cat": "connector"
+  },
+  {
+    "w": "meanwhile",
+    "m": "trong lúc đó",
+    "cat": "connector"
+  },
+  {
+    "w": "subsequently",
+    "m": "sau đó",
+    "cat": "connector"
+  },
+  {
+    "w": "gradually",
+    "m": "dần dần",
+    "cat": "connector"
+  },
+  {
+    "w": "unfortunately",
+    "m": "thật không may",
+    "cat": "connector"
+  },
+  {
+    "w": "obviously",
+    "m": "rõ ràng",
+    "cat": "connector"
+  },
+  {
+    "w": "certainly",
+    "m": "chắc chắn",
+    "cat": "connector"
+  },
+  {
+    "w": "probably",
+    "m": "có lẽ, nhiều khả năng",
+    "cat": "connector"
+  },
+  {
+    "w": "generally",
+    "m": "nói chung",
+    "cat": "connector"
+  },
+  {
+    "w": "particularly",
+    "m": "đặc biệt, nhất là",
+    "cat": "connector"
+  },
+  {
+    "w": "especially",
+    "m": "đặc biệt",
+    "cat": "connector"
+  },
+  {
+    "w": "instead",
+    "m": "thay vào đó",
+    "cat": "connector"
+  },
+  {
+    "w": "otherwise",
+    "m": "nếu không thì",
+    "cat": "connector"
+  },
+  {
+    "w": "similarly",
+    "m": "tương tự",
+    "cat": "connector"
+  },
+  {
+    "w": "on the other hand",
+    "m": "mặt khác",
+    "cat": "connector"
+  },
+  {
+    "w": "for example",
+    "m": "ví dụ",
+    "cat": "connector"
+  },
+  {
+    "w": "in fact",
+    "m": "thực ra",
+    "cat": "connector"
+  },
+  {
+    "w": "as well as",
+    "m": "cũng như",
+    "cat": "connector"
+  },
+  {
+    "w": "due to",
+    "m": "do, vì",
+    "cat": "connector"
+  },
+  {
+    "w": "according to",
+    "m": "theo, căn cứ theo",
+    "cat": "connector"
+  },
+  {
+    "w": "look into",
+    "m": "điều tra, xem xét kỹ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come up with",
+    "m": "nghĩ ra, đưa ra ý tưởng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "bring about",
+    "m": "gây ra, tạo nên",
+    "cat": "phrasal"
+  },
+  {
+    "w": "set up",
+    "m": "thiết lập, thành lập",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take on",
+    "m": "đảm nhận, nhận lấy",
+    "cat": "phrasal"
+  },
+  {
+    "w": "work out",
+    "m": "tìm ra, tập thể dục",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fall through",
+    "m": "thất bại, không thành",
+    "cat": "phrasal"
+  },
+  {
+    "w": "carry out",
+    "m": "thực hiện",
+    "cat": "phrasal"
+  },
+  {
+    "w": "keep up with",
+    "m": "theo kịp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "make up for",
+    "m": "bù đắp cho",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pick up",
+    "m": "đón, nhặt lên, học nhanh",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put off",
+    "m": "trì hoãn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take over",
+    "m": "tiếp quản",
+    "cat": "phrasal"
+  },
+  {
+    "w": "turn out",
+    "m": "hóa ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "carry on",
+    "m": "tiếp tục",
+    "cat": "phrasal"
+  },
+  {
+    "w": "figure out",
+    "m": "hiểu ra, tìm cách",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get along",
+    "m": "hòa thuận",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hold on",
+    "m": "chờ một chút",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look forward to",
+    "m": "mong đợi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "settle for",
+    "m": "chấp nhận với",
+    "cat": "phrasal"
+  },
+  {
+    "w": "sort out",
+    "m": "giải quyết, sắp xếp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "stand for",
+    "m": "đại diện cho",
+    "cat": "phrasal"
+  },
+  {
+    "w": "stick to",
+    "m": "kiên trì, bám vào",
+    "cat": "phrasal"
+  },
+  {
+    "w": "give up",
+    "m": "từ bỏ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get over",
+    "m": "vượt qua",
+    "cat": "phrasal"
+  },
+  {
+    "w": "break down",
+    "m": "hỏng, đổ vỡ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "break up",
+    "m": "chia tay, tan vỡ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "bring up",
+    "m": "nuôi dạy, đề cập",
+    "cat": "phrasal"
+  },
+  {
+    "w": "call off",
+    "m": "hủy bỏ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "catch up",
+    "m": "theo kịp, cập nhật",
+    "cat": "phrasal"
+  },
+  {
+    "w": "check out",
+    "m": "xem qua, trả phòng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come across",
+    "m": "tình cờ gặp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "cut down on",
+    "m": "giảm bớt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "deal with",
+    "m": "đối phó, xử lý",
+    "cat": "phrasal"
+  },
+  {
+    "w": "end up",
+    "m": "cuối cùng trở thành",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fall back on",
+    "m": "dựa vào khi cần",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get rid of",
+    "m": "loại bỏ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "give in",
+    "m": "nhượng bộ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go ahead",
+    "m": "cứ tiến hành đi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go through",
+    "m": "trải qua, xem qua",
+    "cat": "phrasal"
+  },
+  {
+    "w": "grow up",
+    "m": "trưởng thành, lớn lên",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hand in",
+    "m": "nộp (bài)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look after",
+    "m": "chăm sóc",
+    "cat": "phrasal"
+  },
+  {
+    "w": "make out",
+    "m": "phân biệt được, hiểu ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pass away",
+    "m": "qua đời",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pay back",
+    "m": "trả lại, đền đáp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "point out",
+    "m": "chỉ ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put up with",
+    "m": "chịu đựng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "run into",
+    "m": "tình cờ gặp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "set off",
+    "m": "khởi hành",
+    "cat": "phrasal"
+  },
+  {
+    "w": "show off",
+    "m": "khoe khoang",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take place",
+    "m": "xảy ra, diễn ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "think over",
+    "m": "suy nghĩ kỹ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "turn down",
+    "m": "từ chối, giảm âm lượng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "use up",
+    "m": "dùng hết",
+    "cat": "phrasal"
+  },
+  {
+    "w": "achievement",
+    "m": "thành tựu",
+    "cat": "advanced"
+  },
+  {
+    "w": "attitude",
+    "m": "thái độ",
+    "cat": "advanced"
+  },
+  {
+    "w": "authority",
+    "m": "thẩm quyền",
+    "cat": "advanced"
+  },
+  {
+    "w": "available",
+    "m": "có sẵn, rảnh",
+    "cat": "advanced"
+  },
+  {
+    "w": "benefit",
+    "m": "lợi ích",
+    "cat": "advanced"
+  },
+  {
+    "w": "cause",
+    "m": "nguyên nhân",
+    "cat": "advanced"
+  },
+  {
+    "w": "claim",
+    "m": "khẳng định, yêu cầu",
+    "cat": "advanced"
+  },
+  {
+    "w": "concern",
+    "m": "lo ngại",
+    "cat": "advanced"
+  },
+  {
+    "w": "confident",
+    "m": "tự tin",
+    "cat": "advanced"
+  },
+  {
+    "w": "consider",
+    "m": "xem xét",
+    "cat": "advanced"
+  },
+  {
+    "w": "control",
+    "m": "kiểm soát",
+    "cat": "advanced"
+  },
+  {
+    "w": "creative",
+    "m": "sáng tạo",
+    "cat": "advanced"
+  },
+  {
+    "w": "curious",
+    "m": "tò mò",
+    "cat": "advanced"
+  },
+  {
+    "w": "current",
+    "m": "hiện tại, hiện tại",
+    "cat": "advanced"
+  },
+  {
+    "w": "decision",
+    "m": "quyết định",
+    "cat": "advanced"
+  },
+  {
+    "w": "depend",
+    "m": "phụ thuộc",
+    "cat": "advanced"
+  },
+  {
+    "w": "detail",
+    "m": "chi tiết",
+    "cat": "advanced"
+  },
+  {
+    "w": "determine",
+    "m": "xác định",
+    "cat": "advanced"
+  },
+  {
+    "w": "difference",
+    "m": "sự khác biệt",
+    "cat": "advanced"
+  },
+  {
+    "w": "difficulty",
+    "m": "khó khăn",
+    "cat": "advanced"
+  },
+  {
+    "w": "discuss",
+    "m": "thảo luận",
+    "cat": "advanced"
+  },
+  {
+    "w": "education",
+    "m": "giáo dục",
+    "cat": "advanced"
+  },
+  {
+    "w": "effect",
+    "m": "tác động, ảnh hưởng",
+    "cat": "advanced"
+  },
+  {
+    "w": "effective",
+    "m": "hiệu quả",
+    "cat": "advanced"
+  },
+  {
+    "w": "effort",
+    "m": "nỗ lực",
+    "cat": "advanced"
+  },
+  {
+    "w": "emotion",
+    "m": "cảm xúc",
+    "cat": "advanced"
+  },
+  {
+    "w": "encourage",
+    "m": "khuyến khích",
+    "cat": "advanced"
+  },
+  {
+    "w": "environment",
+    "m": "môi trường",
+    "cat": "advanced"
+  },
+  {
+    "w": "essential",
+    "m": "thiết yếu",
+    "cat": "advanced"
+  },
+  {
+    "w": "eventually",
+    "m": "cuối cùng",
+    "cat": "advanced"
+  },
+  {
+    "w": "expect",
+    "m": "mong đợi",
+    "cat": "advanced"
+  },
+  {
+    "w": "experience",
+    "m": "kinh nghiệm",
+    "cat": "advanced"
+  },
+  {
+    "w": "express",
+    "m": "diễn đạt, thể hiện",
+    "cat": "advanced"
+  },
+  {
+    "w": "factor",
+    "m": "yếu tố",
+    "cat": "advanced"
+  },
+  {
+    "w": "familiar",
+    "m": "quen thuộc",
+    "cat": "advanced"
+  },
+  {
+    "w": "focus",
+    "m": "tập trung",
+    "cat": "advanced"
+  },
+  {
+    "w": "formal",
+    "m": "trang trọng, chính thức",
+    "cat": "advanced"
+  },
+  {
+    "w": "generation",
+    "m": "thế hệ",
+    "cat": "advanced"
+  },
+  {
+    "w": "global",
+    "m": "toàn cầu",
+    "cat": "advanced"
+  },
+  {
+    "w": "goal",
+    "m": "mục tiêu",
+    "cat": "advanced"
+  },
+  {
+    "w": "growth",
+    "m": "tăng trưởng",
+    "cat": "advanced"
+  },
+  {
+    "w": "harm",
+    "m": "gây hại",
+    "cat": "advanced"
+  },
+  {
+    "w": "helpful",
+    "m": "hữu ích",
+    "cat": "advanced"
+  },
+  {
+    "w": "identify",
+    "m": "nhận dạng",
+    "cat": "advanced"
+  },
+  {
+    "w": "imagine",
+    "m": "tưởng tượng",
+    "cat": "advanced"
+  },
+  {
+    "w": "improve",
+    "m": "cải thiện",
+    "cat": "advanced"
+  },
+  {
+    "w": "include",
+    "m": "bao gồm",
+    "cat": "advanced"
+  },
+  {
+    "w": "increase",
+    "m": "tăng lên",
+    "cat": "advanced"
+  },
+  {
+    "w": "influence",
+    "m": "ảnh hưởng",
+    "cat": "advanced"
+  },
+  {
+    "w": "inform",
+    "m": "thông báo",
+    "cat": "advanced"
+  },
+  {
+    "w": "involve",
+    "m": "liên quan đến",
+    "cat": "advanced"
+  },
+  {
+    "w": "issue",
+    "m": "vấn đề",
+    "cat": "advanced"
+  },
+  {
+    "w": "limited",
+    "m": "hạn chế",
+    "cat": "advanced"
+  },
+  {
+    "w": "maintain",
+    "m": "duy trì",
+    "cat": "advanced"
+  },
+  {
+    "w": "major",
+    "m": "lớn, quan trọng",
+    "cat": "advanced"
+  },
+  {
+    "w": "manage",
+    "m": "quản lý",
+    "cat": "advanced"
+  },
+  {
+    "w": "mention",
+    "m": "đề cập",
+    "cat": "advanced"
+  },
+  {
+    "w": "method",
+    "m": "phương pháp",
+    "cat": "advanced"
+  },
+  {
+    "w": "modern",
+    "m": "hiện đại",
+    "cat": "advanced"
+  },
+  {
+    "w": "natural",
+    "m": "tự nhiên",
+    "cat": "advanced"
+  },
+  {
+    "w": "necessary",
+    "m": "cần thiết",
+    "cat": "advanced"
+  },
+  {
+    "w": "normal",
+    "m": "bình thường",
+    "cat": "advanced"
+  },
+  {
+    "w": "obtain",
+    "m": "đạt được, có được",
+    "cat": "advanced"
+  },
+  {
+    "w": "opportunity",
+    "m": "cơ hội",
+    "cat": "advanced"
+  },
+  {
+    "w": "organize",
+    "m": "tổ chức, sắp xếp",
+    "cat": "advanced"
+  },
+  {
+    "w": "particular",
+    "m": "đặc biệt, cụ thể",
+    "cat": "advanced"
+  },
+  {
+    "w": "personal",
+    "m": "cá nhân",
+    "cat": "advanced"
+  },
+  {
+    "w": "physical",
+    "m": "thể chất, vật lý",
+    "cat": "advanced"
+  },
+  {
+    "w": "possible",
+    "m": "có thể",
+    "cat": "advanced"
+  },
+  {
+    "w": "practical",
+    "m": "thực tế",
+    "cat": "advanced"
+  },
+  {
+    "w": "prepare",
+    "m": "chuẩn bị",
+    "cat": "advanced"
+  },
+  {
+    "w": "present",
+    "m": "giới thiệu, hiện tại",
+    "cat": "advanced"
+  },
+  {
+    "w": "prevent",
+    "m": "ngăn ngừa",
+    "cat": "advanced"
+  },
+  {
+    "w": "problem",
+    "m": "vấn đề, bài toán",
+    "cat": "advanced"
+  },
+  {
+    "w": "process",
+    "m": "quá trình, xử lý",
+    "cat": "advanced"
+  },
+  {
+    "w": "produce",
+    "m": "sản xuất",
+    "cat": "advanced"
+  },
+  {
+    "w": "provide",
+    "m": "cung cấp",
+    "cat": "advanced"
+  },
+  {
+    "w": "public",
+    "m": "công cộng",
+    "cat": "advanced"
+  },
+  {
+    "w": "purpose",
+    "m": "mục đích",
+    "cat": "advanced"
+  },
+  {
+    "w": "quality",
+    "m": "chất lượng",
+    "cat": "advanced"
+  },
+  {
+    "w": "question",
+    "m": "câu hỏi",
+    "cat": "advanced"
+  },
+  {
+    "w": "reason",
+    "m": "lý do",
+    "cat": "advanced"
+  },
+  {
+    "w": "recognize",
+    "m": "nhận ra",
+    "cat": "advanced"
+  },
+  {
+    "w": "reduce",
+    "m": "giảm",
+    "cat": "advanced"
+  },
+  {
+    "w": "relate",
+    "m": "liên quan",
+    "cat": "advanced"
+  },
+  {
+    "w": "relevant",
+    "m": "liên quan, thích hợp",
+    "cat": "advanced"
+  },
+  {
+    "w": "require",
+    "m": "yêu cầu",
+    "cat": "advanced"
+  },
+  {
+    "w": "result",
+    "m": "kết quả",
+    "cat": "advanced"
+  },
+  {
+    "w": "role",
+    "m": "vai trò",
+    "cat": "advanced"
+  },
+  {
+    "w": "significant",
+    "m": "đáng kể, có ý nghĩa",
+    "cat": "advanced"
+  },
+  {
+    "w": "specific",
+    "m": "cụ thể",
+    "cat": "advanced"
+  },
+  {
+    "w": "structure",
+    "m": "cấu trúc",
+    "cat": "advanced"
+  },
+  {
+    "w": "succeed",
+    "m": "thành công",
+    "cat": "advanced"
+  },
+  {
+    "w": "suggest",
+    "m": "đề xuất",
+    "cat": "advanced"
+  },
+  {
+    "w": "suitable",
+    "m": "phù hợp",
+    "cat": "advanced"
+  },
+  {
+    "w": "suppose",
+    "m": "cho là, giả sử",
+    "cat": "advanced"
+  },
+  {
+    "w": "surprising",
+    "m": "đáng ngạc nhiên",
+    "cat": "advanced"
+  },
+  {
+    "w": "tendency",
+    "m": "xu hướng",
+    "cat": "advanced"
+  },
+  {
+    "w": "topic",
+    "m": "chủ đề",
+    "cat": "advanced"
+  },
+  {
+    "w": "typical",
+    "m": "điển hình",
+    "cat": "advanced"
+  },
+  {
+    "w": "unique",
+    "m": "độc đáo",
+    "cat": "advanced"
+  },
+  {
+    "w": "useful",
+    "m": "hữu ích",
+    "cat": "advanced"
+  },
+  {
+    "w": "various",
+    "m": "nhiều loại, đa dạng",
+    "cat": "advanced"
+  },
+  {
+    "w": "view",
+    "m": "quan điểm, nhìn",
+    "cat": "advanced"
+  },
+  {
+    "w": "wide",
+    "m": "rộng",
+    "cat": "advanced"
+  },
+  {
+    "w": "wonder",
+    "m": "tự hỏi, kỳ diệu",
+    "cat": "advanced"
+  },
+  {
+    "w": "worth",
+    "m": "đáng giá",
+    "cat": "advanced"
+  },
+  {
+    "w": "absolute",
+    "m": "tuyệt đối",
+    "cat": "advanced"
+  },
+  {
+    "w": "accurate",
+    "m": "chính xác",
+    "cat": "advanced"
+  },
+  {
+    "w": "adapt",
+    "m": "thích nghi",
+    "cat": "advanced"
+  },
+  {
+    "w": "adequate",
+    "m": "đầy đủ",
+    "cat": "advanced"
+  },
+  {
+    "w": "admit",
+    "m": "thừa nhận",
+    "cat": "advanced"
+  },
+  {
+    "w": "afford",
+    "m": "có đủ khả năng",
+    "cat": "advanced"
+  },
+  {
+    "w": "agency",
+    "m": "cơ quan, đại lý",
+    "cat": "advanced"
+  },
+  {
+    "w": "aggressive",
+    "m": "hung hăng",
+    "cat": "advanced"
+  },
+  {
+    "w": "allow",
+    "m": "cho phép",
+    "cat": "advanced"
+  },
+  {
+    "w": "alternative",
+    "m": "lựa chọn thay thế",
+    "cat": "advanced"
+  },
+  {
+    "w": "ambitious",
+    "m": "tham vọng",
+    "cat": "advanced"
+  },
+  {
+    "w": "announce",
+    "m": "thông báo",
+    "cat": "advanced"
+  },
+  {
+    "w": "apparent",
+    "m": "rõ ràng, có vẻ như",
+    "cat": "advanced"
+  },
+  {
+    "w": "apply",
+    "m": "áp dụng, xin việc",
+    "cat": "advanced"
+  },
+  {
+    "w": "approach",
+    "m": "cách tiếp cận",
+    "cat": "advanced"
+  },
+  {
+    "w": "appropriate",
+    "m": "thích hợp",
+    "cat": "advanced"
+  },
+  {
+    "w": "approve",
+    "m": "phê duyệt",
+    "cat": "advanced"
+  },
+  {
+    "w": "aspect",
+    "m": "khía cạnh",
+    "cat": "advanced"
+  },
+  {
+    "w": "assume",
+    "m": "giả định",
+    "cat": "advanced"
+  },
+  {
+    "w": "attach",
+    "m": "đính kèm",
+    "cat": "advanced"
+  },
+  {
+    "w": "attempt",
+    "m": "cố gắng",
+    "cat": "advanced"
+  },
+  {
+    "w": "attract",
+    "m": "thu hút",
+    "cat": "advanced"
+  },
+  {
+    "w": "avoid",
+    "m": "tránh",
+    "cat": "advanced"
+  },
+  {
+    "w": "aware",
+    "m": "nhận thức được",
+    "cat": "advanced"
+  },
+  {
+    "w": "basic",
+    "m": "cơ bản",
+    "cat": "advanced"
+  },
+  {
+    "w": "behavior",
+    "m": "hành vi",
+    "cat": "advanced"
+  },
+  {
+    "w": "capable",
+    "m": "có khả năng",
+    "cat": "advanced"
+  },
+  {
+    "w": "category",
+    "m": "danh mục, loại",
+    "cat": "advanced"
+  },
+  {
+    "w": "certain",
+    "m": "chắc chắn, một số",
+    "cat": "advanced"
+  },
+  {
+    "w": "combination",
+    "m": "sự kết hợp",
+    "cat": "advanced"
+  },
+  {
+    "w": "commit",
+    "m": "cam kết",
+    "cat": "advanced"
+  },
+  {
+    "w": "communicate",
+    "m": "giao tiếp",
+    "cat": "advanced"
+  },
+  {
+    "w": "complete",
+    "m": "hoàn chỉnh, hoàn thành",
+    "cat": "advanced"
+  },
+  {
+    "w": "complex",
+    "m": "phức tạp",
+    "cat": "advanced"
+  },
+  {
+    "w": "concentrate",
+    "m": "tập trung",
+    "cat": "advanced"
+  },
+  {
+    "w": "conduct",
+    "m": "tiến hành, hành vi",
+    "cat": "advanced"
+  },
+  {
+    "w": "connect",
+    "m": "kết nối",
+    "cat": "advanced"
+  },
+  {
+    "w": "consistent",
+    "m": "nhất quán",
+    "cat": "advanced"
+  },
+  {
+    "w": "contact",
+    "m": "liên lạc",
+    "cat": "advanced"
+  },
+  {
+    "w": "contribute",
+    "m": "đóng góp",
+    "cat": "advanced"
+  },
+  {
+    "w": "convince",
+    "m": "thuyết phục",
+    "cat": "advanced"
+  },
+  {
+    "w": "cooperate",
+    "m": "hợp tác",
+    "cat": "advanced"
+  },
+  {
+    "w": "create",
+    "m": "tạo ra",
+    "cat": "advanced"
+  },
+  {
+    "w": "cultural",
+    "m": "văn hóa",
+    "cat": "advanced"
+  },
+  {
+    "w": "decrease",
+    "m": "giảm",
+    "cat": "advanced"
+  },
+  {
+    "w": "define",
+    "m": "định nghĩa",
+    "cat": "advanced"
+  },
+  {
+    "w": "demonstrate",
+    "m": "chứng minh, biểu diễn",
+    "cat": "advanced"
+  },
+  {
+    "w": "design",
+    "m": "thiết kế",
+    "cat": "advanced"
+  },
+  {
+    "w": "develop",
+    "m": "phát triển",
+    "cat": "advanced"
+  },
+  {
+    "w": "distribute",
+    "m": "phân phối",
+    "cat": "advanced"
+  },
+  {
+    "w": "efficient",
+    "m": "hiệu quả",
+    "cat": "advanced"
+  },
+  {
+    "w": "either",
+    "m": "một trong hai",
+    "cat": "advanced"
+  },
+  {
+    "w": "enable",
+    "m": "cho phép, giúp có thể",
+    "cat": "advanced"
+  },
+  {
+    "w": "enforce",
+    "m": "thực thi",
+    "cat": "advanced"
+  },
+  {
+    "w": "engage",
+    "m": "tham gia, thu hút",
+    "cat": "advanced"
+  },
+  {
+    "w": "ensure",
+    "m": "đảm bảo",
+    "cat": "advanced"
+  },
+  {
+    "w": "entire",
+    "m": "toàn bộ",
+    "cat": "advanced"
+  },
+  {
+    "w": "establish",
+    "m": "thành lập, thiết lập",
+    "cat": "advanced"
+  },
+  {
+    "w": "excess",
+    "m": "dư thừa",
+    "cat": "advanced"
+  },
+  {
+    "w": "exchange",
+    "m": "trao đổi",
+    "cat": "advanced"
+  },
+  {
+    "w": "exist",
+    "m": "tồn tại",
+    "cat": "advanced"
+  },
+  {
+    "w": "expand",
+    "m": "mở rộng",
+    "cat": "advanced"
+  },
+  {
+    "w": "extend",
+    "m": "kéo dài, mở rộng",
+    "cat": "advanced"
+  },
+  {
+    "w": "extreme",
+    "m": "cực đoan",
+    "cat": "advanced"
+  },
+  {
+    "w": "facility",
+    "m": "cơ sở, tiện nghi",
+    "cat": "advanced"
+  },
+  {
+    "w": "fair",
+    "m": "công bằng",
+    "cat": "advanced"
+  },
+  {
+    "w": "feature",
+    "m": "tính năng, đặc điểm",
+    "cat": "advanced"
+  },
+  {
+    "w": "financial",
+    "m": "tài chính",
+    "cat": "advanced"
+  },
+  {
+    "w": "flexible",
+    "m": "linh hoạt",
+    "cat": "advanced"
+  },
+  {
+    "w": "freedom",
+    "m": "tự do",
+    "cat": "advanced"
+  },
+  {
+    "w": "function",
+    "m": "chức năng, hoạt động",
+    "cat": "advanced"
+  },
+  {
+    "w": "fundamental",
+    "m": "cơ bản, nền tảng",
+    "cat": "advanced"
+  },
+  {
+    "w": "guarantee",
+    "m": "đảm bảo, bảo đảm",
+    "cat": "advanced"
+  },
+  {
+    "w": "guideline",
+    "m": "hướng dẫn",
+    "cat": "advanced"
+  },
+  {
+    "w": "highlight",
+    "m": "nhấn mạnh, điểm nổi bật",
+    "cat": "advanced"
+  },
+  {
+    "w": "honest",
+    "m": "trung thực",
+    "cat": "advanced"
+  },
+  {
+    "w": "huge",
+    "m": "khổng lồ",
+    "cat": "advanced"
+  },
+  {
+    "w": "ideal",
+    "m": "lý tưởng",
+    "cat": "advanced"
+  },
+  {
+    "w": "immediately",
+    "m": "ngay lập tức",
+    "cat": "advanced"
+  },
+  {
+    "w": "implement",
+    "m": "thực hiện, triển khai",
+    "cat": "advanced"
+  },
+  {
+    "w": "independent",
+    "m": "độc lập",
+    "cat": "advanced"
+  },
+  {
+    "w": "individual",
+    "m": "cá nhân",
+    "cat": "advanced"
+  },
+  {
+    "w": "indicate",
+    "m": "chỉ ra, biểu thị",
+    "cat": "advanced"
+  },
+  {
+    "w": "initial",
+    "m": "ban đầu",
+    "cat": "advanced"
+  },
+  {
+    "w": "innovation",
+    "m": "đổi mới",
+    "cat": "advanced"
+  },
+  {
+    "w": "inspire",
+    "m": "truyền cảm hứng",
+    "cat": "advanced"
+  },
+  {
+    "w": "intense",
+    "m": "mạnh mẽ, căng thẳng",
+    "cat": "advanced"
+  },
+  {
+    "w": "interpret",
+    "m": "diễn giải, phiên dịch",
+    "cat": "advanced"
+  },
+  {
+    "w": "introduce",
+    "m": "giới thiệu",
+    "cat": "advanced"
+  },
+  {
+    "w": "investigate",
+    "m": "điều tra",
+    "cat": "advanced"
+  },
+  {
+    "w": "justify",
+    "m": "biện minh, chứng minh",
+    "cat": "advanced"
+  },
+  {
+    "w": "lack",
+    "m": "thiếu",
+    "cat": "advanced"
+  },
+  {
+    "w": "leadership",
+    "m": "khả năng lãnh đạo",
+    "cat": "advanced"
+  },
+  {
+    "w": "legal",
+    "m": "hợp pháp",
+    "cat": "advanced"
+  },
+  {
+    "w": "locate",
+    "m": "tìm vị trí",
+    "cat": "advanced"
+  },
+  {
+    "w": "logical",
+    "m": "hợp lý",
+    "cat": "advanced"
+  },
+  {
+    "w": "maximum",
+    "m": "tối đa",
+    "cat": "advanced"
+  },
+  {
+    "w": "measure",
+    "m": "đo lường, biện pháp",
+    "cat": "advanced"
+  },
+  {
+    "w": "minimum",
+    "m": "tối thiểu",
+    "cat": "advanced"
+  },
+  {
+    "w": "motivate",
+    "m": "động viên",
+    "cat": "advanced"
+  },
+  {
+    "w": "negative",
+    "m": "tiêu cực",
+    "cat": "advanced"
+  },
+  {
+    "w": "obvious",
+    "m": "hiển nhiên",
+    "cat": "advanced"
+  },
+  {
+    "w": "operate",
+    "m": "vận hành",
+    "cat": "advanced"
+  },
+  {
+    "w": "option",
+    "m": "lựa chọn",
+    "cat": "advanced"
+  },
+  {
+    "w": "overcome",
+    "m": "vượt qua",
+    "cat": "advanced"
+  },
+  {
+    "w": "participate",
+    "m": "tham gia",
+    "cat": "advanced"
+  },
+  {
+    "w": "patient",
+    "m": "kiên nhẫn, bệnh nhân",
+    "cat": "advanced"
+  },
+  {
+    "w": "percentage",
+    "m": "phần trăm",
+    "cat": "advanced"
+  },
+  {
+    "w": "permission",
+    "m": "sự cho phép",
+    "cat": "advanced"
+  },
+  {
+    "w": "persuade",
+    "m": "thuyết phục",
+    "cat": "advanced"
+  },
+  {
+    "w": "positive",
+    "m": "tích cực",
+    "cat": "advanced"
+  },
+  {
+    "w": "potential",
+    "m": "tiềm năng",
+    "cat": "advanced"
+  },
+  {
+    "w": "predict",
+    "m": "dự đoán",
+    "cat": "advanced"
+  },
+  {
+    "w": "pressure",
+    "m": "áp lực",
+    "cat": "advanced"
+  },
+  {
+    "w": "priority",
+    "m": "ưu tiên",
+    "cat": "advanced"
+  },
+  {
+    "w": "project",
+    "m": "dự án",
+    "cat": "advanced"
+  },
+  {
+    "w": "promote",
+    "m": "thúc đẩy, quảng bá",
+    "cat": "advanced"
+  },
+  {
+    "w": "propose",
+    "m": "đề xuất",
+    "cat": "advanced"
+  },
+  {
+    "w": "protect",
+    "m": "bảo vệ",
+    "cat": "advanced"
+  },
+  {
+    "w": "prove",
+    "m": "chứng minh",
+    "cat": "advanced"
+  },
+  {
+    "w": "publish",
+    "m": "xuất bản",
+    "cat": "advanced"
+  },
+  {
+    "w": "rate",
+    "m": "tỉ lệ, đánh giá",
+    "cat": "advanced"
+  },
+  {
+    "w": "recent",
+    "m": "gần đây",
+    "cat": "advanced"
+  },
+  {
+    "w": "regular",
+    "m": "thường xuyên, đều đặn",
+    "cat": "advanced"
+  },
+  {
+    "w": "reject",
+    "m": "từ chối, bác bỏ",
+    "cat": "advanced"
+  },
+  {
+    "w": "replace",
+    "m": "thay thế",
+    "cat": "advanced"
+  },
+  {
+    "w": "represent",
+    "m": "đại diện cho",
+    "cat": "advanced"
+  },
+  {
+    "w": "request",
+    "m": "yêu cầu",
+    "cat": "advanced"
+  },
+  {
+    "w": "resolve",
+    "m": "giải quyết",
+    "cat": "advanced"
+  },
+  {
+    "w": "resource",
+    "m": "tài nguyên",
+    "cat": "advanced"
+  },
+  {
+    "w": "restrict",
+    "m": "hạn chế",
+    "cat": "advanced"
+  },
+  {
+    "w": "review",
+    "m": "xem xét, đánh giá lại",
+    "cat": "advanced"
+  },
+  {
+    "w": "risk",
+    "m": "rủi ro",
+    "cat": "advanced"
+  },
+  {
+    "w": "satisfy",
+    "m": "thỏa mãn",
+    "cat": "advanced"
+  },
+  {
+    "w": "secure",
+    "m": "an toàn, đảm bảo",
+    "cat": "advanced"
+  },
+  {
+    "w": "select",
+    "m": "lựa chọn",
+    "cat": "advanced"
+  },
+  {
+    "w": "sensitive",
+    "m": "nhạy cảm",
+    "cat": "advanced"
+  },
+  {
+    "w": "separate",
+    "m": "tách biệt",
+    "cat": "advanced"
+  },
+  {
+    "w": "serious",
+    "m": "nghiêm trọng, nghiêm túc",
+    "cat": "advanced"
+  },
+  {
+    "w": "service",
+    "m": "dịch vụ",
+    "cat": "advanced"
+  },
+  {
+    "w": "share",
+    "m": "chia sẻ",
+    "cat": "advanced"
+  },
+  {
+    "w": "show",
+    "m": "chứng tỏ, buổi biểu diễn",
+    "cat": "advanced"
+  },
+  {
+    "w": "signal",
+    "m": "tín hiệu",
+    "cat": "advanced"
+  },
+  {
+    "w": "situation",
+    "m": "tình huống",
+    "cat": "advanced"
+  },
+  {
+    "w": "social",
+    "m": "xã hội",
+    "cat": "advanced"
+  },
+  {
+    "w": "solve",
+    "m": "giải quyết",
+    "cat": "advanced"
+  },
+  {
+    "w": "spread",
+    "m": "lan rộng",
+    "cat": "advanced"
+  },
+  {
+    "w": "standard",
+    "m": "tiêu chuẩn",
+    "cat": "advanced"
+  },
+  {
+    "w": "state",
+    "m": "tình trạng, phát biểu",
+    "cat": "advanced"
+  },
+  {
+    "w": "strong",
+    "m": "mạnh mẽ",
+    "cat": "advanced"
+  },
+  {
+    "w": "study",
+    "m": "học, nghiên cứu",
+    "cat": "advanced"
+  },
+  {
+    "w": "supply",
+    "m": "cung cấp",
+    "cat": "advanced"
+  },
+  {
+    "w": "system",
+    "m": "hệ thống",
+    "cat": "advanced"
+  },
+  {
+    "w": "tend",
+    "m": "có xu hướng",
+    "cat": "advanced"
+  },
+  {
+    "w": "therefore",
+    "m": "vì vậy",
+    "cat": "advanced"
+  },
+  {
+    "w": "totally",
+    "m": "hoàn toàn",
+    "cat": "advanced"
+  },
+  {
+    "w": "traditional",
+    "m": "truyền thống",
+    "cat": "advanced"
+  },
+  {
+    "w": "transfer",
+    "m": "chuyển giao, chuyển khoản",
+    "cat": "advanced"
+  },
+  {
+    "w": "treat",
+    "m": "đối xử, chữa trị",
+    "cat": "advanced"
+  },
+  {
+    "w": "trust",
+    "m": "tin tưởng",
+    "cat": "advanced"
+  },
+  {
+    "w": "unable",
+    "m": "không có khả năng",
+    "cat": "advanced"
+  },
+  {
+    "w": "unexpected",
+    "m": "bất ngờ",
+    "cat": "advanced"
+  },
+  {
+    "w": "unfortunately",
+    "m": "thật không may",
+    "cat": "advanced"
+  },
+  {
+    "w": "upon",
+    "m": "trên, dựa vào",
+    "cat": "advanced"
+  },
+  {
+    "w": "urban",
+    "m": "đô thị",
+    "cat": "advanced"
+  },
+  {
+    "w": "valuable",
+    "m": "có giá trị",
+    "cat": "advanced"
+  },
+  {
+    "w": "variety",
+    "m": "sự đa dạng",
+    "cat": "advanced"
+  },
+  {
+    "w": "vital",
+    "m": "quan trọng sống còn",
+    "cat": "advanced"
+  },
+  {
+    "w": "wealth",
+    "m": "sự giàu có",
+    "cat": "advanced"
+  },
+  {
+    "w": "widespread",
+    "m": "lan rộng, phổ biến",
+    "cat": "advanced"
+  },
+  {
+    "w": "willing",
+    "m": "sẵn lòng",
+    "cat": "advanced"
+  },
+  {
+    "w": "worldwide",
+    "m": "trên toàn thế giới",
+    "cat": "advanced"
+  },
+  {
+    "w": "absolutely",
+    "m": "hoàn toàn, chắc chắn",
+    "cat": "advanced"
+  },
+  {
+    "w": "accordingly",
+    "m": "tương ứng, do vậy",
+    "cat": "advanced"
+  },
+  {
+    "w": "additionally",
+    "m": "ngoài ra, thêm vào",
+    "cat": "advanced"
+  },
+  {
+    "w": "apparently",
+    "m": "có vẻ như",
+    "cat": "advanced"
+  },
+  {
+    "w": "approximately",
+    "m": "xấp xỉ, khoảng",
+    "cat": "advanced"
+  },
+  {
+    "w": "broadly",
+    "m": "một cách tổng quát",
+    "cat": "advanced"
+  },
+  {
+    "w": "closely",
+    "m": "chặt chẽ, gần gũi",
+    "cat": "advanced"
+  },
+  {
+    "w": "comparatively",
+    "m": "so sánh mà nói",
+    "cat": "advanced"
+  },
+  {
+    "w": "completely",
+    "m": "hoàn toàn",
+    "cat": "advanced"
+  },
+  {
+    "w": "consistently",
+    "m": "một cách nhất quán",
+    "cat": "advanced"
+  },
+  {
+    "w": "constantly",
+    "m": "liên tục",
+    "cat": "advanced"
+  },
+  {
+    "w": "deliberately",
+    "m": "có chủ ý",
+    "cat": "advanced"
+  },
+  {
+    "w": "directly",
+    "m": "trực tiếp",
+    "cat": "advanced"
+  },
+  {
+    "w": "effectively",
+    "m": "một cách hiệu quả",
+    "cat": "advanced"
+  },
+  {
+    "w": "equally",
+    "m": "bằng nhau",
+    "cat": "advanced"
+  },
+  {
+    "w": "essentially",
+    "m": "về cơ bản",
+    "cat": "advanced"
+  },
+  {
+    "w": "exactly",
+    "m": "chính xác",
+    "cat": "advanced"
+  },
+  {
+    "w": "frequently",
+    "m": "thường xuyên",
+    "cat": "advanced"
+  },
+  {
+    "w": "highly",
+    "m": "rất, ở mức cao",
+    "cat": "advanced"
+  },
+  {
+    "w": "increasingly",
+    "m": "ngày càng tăng",
+    "cat": "advanced"
+  },
+  {
+    "w": "initially",
+    "m": "ban đầu",
+    "cat": "advanced"
+  },
+  {
+    "w": "largely",
+    "m": "phần lớn",
+    "cat": "advanced"
+  },
+  {
+    "w": "literally",
+    "m": "theo nghĩa đen",
+    "cat": "advanced"
+  },
+  {
+    "w": "mainly",
+    "m": "chủ yếu",
+    "cat": "advanced"
+  },
+  {
+    "w": "merely",
+    "m": "chỉ đơn giản là",
+    "cat": "advanced"
+  },
+  {
+    "w": "mostly",
+    "m": "chủ yếu, hầu hết",
+    "cat": "advanced"
+  },
+  {
+    "w": "naturally",
+    "m": "một cách tự nhiên",
+    "cat": "advanced"
+  },
+  {
+    "w": "nearly",
+    "m": "gần như",
+    "cat": "advanced"
+  },
+  {
+    "w": "originally",
+    "m": "ban đầu, có nguồn gốc từ",
+    "cat": "advanced"
+  },
+  {
+    "w": "overall",
+    "m": "tổng thể",
+    "cat": "advanced"
+  },
+  {
+    "w": "personally",
+    "m": "cá nhân tôi",
+    "cat": "advanced"
+  },
+  {
+    "w": "precisely",
+    "m": "chính xác",
+    "cat": "advanced"
+  },
+  {
+    "w": "previously",
+    "m": "trước đây",
+    "cat": "advanced"
+  },
+  {
+    "w": "primarily",
+    "m": "chủ yếu",
+    "cat": "advanced"
+  },
+  {
+    "w": "properly",
+    "m": "đúng cách",
+    "cat": "advanced"
+  },
+  {
+    "w": "quickly",
+    "m": "nhanh chóng",
+    "cat": "advanced"
+  },
+  {
+    "w": "relatively",
+    "m": "tương đối",
+    "cat": "advanced"
+  },
+  {
+    "w": "roughly",
+    "m": "khoảng, tương đối",
+    "cat": "advanced"
+  },
+  {
+    "w": "severely",
+    "m": "nghiêm trọng",
+    "cat": "advanced"
+  },
+  {
+    "w": "simply",
+    "m": "đơn giản",
+    "cat": "advanced"
+  },
+  {
+    "w": "slowly",
+    "m": "từ từ",
+    "cat": "advanced"
+  },
+  {
+    "w": "slightly",
+    "m": "hơi, một chút",
+    "cat": "advanced"
+  },
+  {
+    "w": "strongly",
+    "m": "mạnh mẽ",
+    "cat": "advanced"
+  },
+  {
+    "w": "suddenly",
+    "m": "đột nhiên",
+    "cat": "advanced"
+  },
+  {
+    "w": "surely",
+    "m": "chắc chắn",
+    "cat": "advanced"
+  },
+  {
+    "w": "typically",
+    "m": "thường thường, điển hình",
+    "cat": "advanced"
+  },
+  {
+    "w": "ultimately",
+    "m": "cuối cùng",
+    "cat": "advanced"
+  },
+  {
+    "w": "virtually",
+    "m": "hầu như, thực tế",
+    "cat": "advanced"
+  },
+  {
+    "w": "widely",
+    "m": "rộng rãi",
+    "cat": "advanced"
+  },
+  {
+    "w": "abandon",
+    "m": "từ bỏ, rời bỏ",
+    "cat": "advanced"
+  },
+  {
+    "w": "abstract",
+    "m": "trừu tượng",
+    "cat": "advanced"
+  },
+  {
+    "w": "access",
+    "m": "tiếp cận, truy cập",
+    "cat": "advanced"
+  },
+  {
+    "w": "accuse",
+    "m": "cáo buộc",
+    "cat": "advanced"
+  },
+  {
+    "w": "acknowledge",
+    "m": "thừa nhận",
+    "cat": "advanced"
+  },
+  {
+    "w": "acquire",
+    "m": "có được, tiếp thu",
+    "cat": "advanced"
+  },
+  {
+    "w": "address",
+    "m": "giải quyết, bài phát biểu",
+    "cat": "advanced"
+  },
+  {
+    "w": "adjust",
+    "m": "điều chỉnh",
+    "cat": "advanced"
+  },
+  {
+    "w": "administration",
+    "m": "sự quản lý, ban quản trị",
+    "cat": "advanced"
+  },
+  {
+    "w": "advance",
+    "m": "tiến lên, tiến bộ",
+    "cat": "advanced"
+  },
+  {
+    "w": "advantage",
+    "m": "lợi thế",
+    "cat": "advanced"
+  },
+  {
+    "w": "affect",
+    "m": "ảnh hưởng đến",
+    "cat": "advanced"
+  },
+  {
+    "w": "affordable",
+    "m": "phải chăng",
+    "cat": "advanced"
+  },
+  {
+    "w": "aftermath",
+    "m": "hậu quả, kết quả sau",
+    "cat": "advanced"
+  },
+  {
+    "w": "agenda",
+    "m": "chương trình nghị sự",
+    "cat": "advanced"
+  },
+  {
+    "w": "aid",
+    "m": "giúp đỡ, viện trợ",
+    "cat": "advanced"
+  },
+  {
+    "w": "alert",
+    "m": "cảnh báo, cảnh giác",
+    "cat": "advanced"
+  },
+  {
+    "w": "alliance",
+    "m": "liên minh",
+    "cat": "advanced"
+  },
+  {
+    "w": "allocate",
+    "m": "phân bổ",
+    "cat": "advanced"
+  },
+  {
+    "w": "alter",
+    "m": "thay đổi, biến đổi",
+    "cat": "advanced"
+  },
+  {
+    "w": "ambitious",
+    "m": "đầy tham vọng",
+    "cat": "advanced"
+  },
+  {
+    "w": "analyze",
+    "m": "phân tích",
+    "cat": "advanced"
+  },
+  {
+    "w": "anticipate",
+    "m": "dự đoán, mong chờ",
+    "cat": "advanced"
+  },
+  {
+    "w": "appeal",
+    "m": "kháng cáo, kêu gọi",
+    "cat": "advanced"
+  },
+  {
+    "w": "appreciate",
+    "m": "đánh giá cao, trân trọng",
+    "cat": "advanced"
+  },
+  {
+    "w": "approach",
+    "m": "tiếp cận",
+    "cat": "advanced"
+  },
+  {
+    "w": "aspect",
+    "m": "khía cạnh",
+    "cat": "advanced"
+  },
+  {
+    "w": "assess",
+    "m": "đánh giá",
+    "cat": "advanced"
+  },
+  {
+    "w": "assistance",
+    "m": "sự hỗ trợ",
+    "cat": "advanced"
+  },
+  {
+    "w": "assumption",
+    "m": "giả định",
+    "cat": "advanced"
+  },
+  {
+    "w": "atmosphere",
+    "m": "bầu không khí, khí quyển",
+    "cat": "advanced"
+  },
+  {
+    "w": "attach",
+    "m": "gắn kèm",
+    "cat": "advanced"
+  },
+  {
+    "w": "attitude",
+    "m": "thái độ",
+    "cat": "advanced"
+  },
+  {
+    "w": "audience",
+    "m": "khán giả",
+    "cat": "advanced"
+  },
+  {
+    "w": "authorize",
+    "m": "ủy quyền",
+    "cat": "advanced"
+  },
+  {
+    "w": "barrier",
+    "m": "rào cản",
+    "cat": "advanced"
+  },
+  {
+    "w": "bias",
+    "m": "thiên kiến",
+    "cat": "advanced"
+  },
+  {
+    "w": "boost",
+    "m": "thúc đẩy, tăng cường",
+    "cat": "advanced"
+  },
+  {
+    "w": "boundary",
+    "m": "ranh giới",
+    "cat": "advanced"
+  },
+  {
+    "w": "capacity",
+    "m": "năng lực, sức chứa",
+    "cat": "advanced"
+  },
+  {
+    "w": "career",
+    "m": "sự nghiệp",
+    "cat": "advanced"
+  },
+  {
+    "w": "caution",
+    "m": "thận trọng",
+    "cat": "advanced"
+  },
+  {
+    "w": "circumstance",
+    "m": "hoàn cảnh",
+    "cat": "advanced"
+  },
+  {
+    "w": "collaboration",
+    "m": "sự hợp tác",
+    "cat": "advanced"
+  },
+  {
+    "w": "collect",
+    "m": "thu thập",
+    "cat": "advanced"
+  },
+  {
+    "w": "commission",
+    "m": "ủy ban, hoa hồng",
+    "cat": "advanced"
+  },
+  {
+    "w": "commitment",
+    "m": "cam kết",
+    "cat": "advanced"
+  },
+  {
+    "w": "compensation",
+    "m": "bồi thường",
+    "cat": "advanced"
+  },
+  {
+    "w": "competitive",
+    "m": "cạnh tranh",
+    "cat": "advanced"
+  },
+  {
+    "w": "component",
+    "m": "thành phần",
+    "cat": "advanced"
+  },
+  {
+    "w": "concentrate",
+    "m": "tập trung",
+    "cat": "advanced"
+  },
+  {
+    "w": "conflict",
+    "m": "xung đột",
+    "cat": "advanced"
+  },
+  {
+    "w": "considerable",
+    "m": "đáng kể",
+    "cat": "advanced"
+  },
+  {
+    "w": "construct",
+    "m": "xây dựng, kiến tạo",
+    "cat": "advanced"
+  },
+  {
+    "w": "context",
+    "m": "bối cảnh",
+    "cat": "advanced"
+  },
+  {
+    "w": "controversy",
+    "m": "tranh cãi",
+    "cat": "advanced"
+  },
+  {
+    "w": "crucial",
+    "m": "thiết yếu, cực kỳ quan trọng",
+    "cat": "advanced"
+  },
+  {
+    "w": "declare",
+    "m": "tuyên bố",
+    "cat": "advanced"
+  },
+  {
+    "w": "dedicate",
+    "m": "cống hiến, dành riêng",
+    "cat": "advanced"
+  },
+  {
+    "w": "demand",
+    "m": "yêu cầu, nhu cầu",
+    "cat": "advanced"
+  },
+  {
+    "w": "deny",
+    "m": "phủ nhận",
+    "cat": "advanced"
+  },
+  {
+    "w": "derive",
+    "m": "bắt nguồn từ",
+    "cat": "advanced"
+  },
+  {
+    "w": "detect",
+    "m": "phát hiện",
+    "cat": "advanced"
+  },
+  {
+    "w": "disaster",
+    "m": "thảm họa",
+    "cat": "advanced"
+  },
+  {
+    "w": "discipline",
+    "m": "kỷ luật",
+    "cat": "advanced"
+  },
+  {
+    "w": "document",
+    "m": "tài liệu",
+    "cat": "advanced"
+  },
+  {
+    "w": "dominant",
+    "m": "chiếm ưu thế",
+    "cat": "advanced"
+  },
+  {
+    "w": "dramatic",
+    "m": "kịch tính, ấn tượng",
+    "cat": "advanced"
+  },
+  {
+    "w": "emerge",
+    "m": "xuất hiện, nổi lên",
+    "cat": "advanced"
+  },
+  {
+    "w": "emphasize",
+    "m": "nhấn mạnh",
+    "cat": "advanced"
+  },
+  {
+    "w": "enormous",
+    "m": "to lớn, khổng lồ",
+    "cat": "advanced"
+  },
+  {
+    "w": "entire",
+    "m": "toàn bộ",
+    "cat": "advanced"
+  },
+  {
+    "w": "equality",
+    "m": "sự bình đẳng",
+    "cat": "advanced"
+  },
+  {
+    "w": "execute",
+    "m": "thực hiện, thi hành",
+    "cat": "advanced"
+  },
+  {
+    "w": "explicit",
+    "m": "rõ ràng, tường minh",
+    "cat": "advanced"
+  },
+  {
+    "w": "exploration",
+    "m": "sự khám phá",
+    "cat": "advanced"
+  },
+  {
+    "w": "expose",
+    "m": "phơi bày, tiếp xúc",
+    "cat": "advanced"
+  },
+  {
+    "w": "extensive",
+    "m": "rộng lớn, sâu rộng",
+    "cat": "advanced"
+  },
+  {
+    "w": "factor",
+    "m": "yếu tố",
+    "cat": "advanced"
+  },
+  {
+    "w": "foundation",
+    "m": "nền tảng, quỹ từ thiện",
+    "cat": "advanced"
+  },
+  {
+    "w": "frustration",
+    "m": "sự thất vọng",
+    "cat": "advanced"
+  },
+  {
+    "w": "gain",
+    "m": "đạt được, lợi ích",
+    "cat": "advanced"
+  },
+  {
+    "w": "genuine",
+    "m": "chân thật, thật sự",
+    "cat": "advanced"
+  },
+  {
+    "w": "gradually",
+    "m": "dần dần",
+    "cat": "advanced"
+  },
+  {
+    "w": "handle",
+    "m": "xử lý, tay nắm",
+    "cat": "advanced"
+  },
+  {
+    "w": "heritage",
+    "m": "di sản",
+    "cat": "advanced"
+  },
+  {
+    "w": "hypothesis",
+    "m": "giả thuyết",
+    "cat": "advanced"
+  },
+  {
+    "w": "identical",
+    "m": "giống hệt nhau",
+    "cat": "advanced"
+  },
+  {
+    "w": "illustrate",
+    "m": "minh họa",
+    "cat": "advanced"
+  },
+  {
+    "w": "impression",
+    "m": "ấn tượng",
+    "cat": "advanced"
+  },
+  {
+    "w": "income",
+    "m": "thu nhập",
+    "cat": "advanced"
+  },
+  {
+    "w": "indirect",
+    "m": "gián tiếp",
+    "cat": "advanced"
+  },
+  {
+    "w": "infrastructure",
+    "m": "cơ sở hạ tầng",
+    "cat": "advanced"
+  },
+  {
+    "w": "initiative",
+    "m": "sáng kiến, chủ động",
+    "cat": "advanced"
+  },
+  {
+    "w": "insert",
+    "m": "chèn vào",
+    "cat": "advanced"
+  },
+  {
+    "w": "insight",
+    "m": "hiểu sâu sắc, thấu hiểu",
+    "cat": "advanced"
+  },
+  {
+    "w": "intense",
+    "m": "mãnh liệt",
+    "cat": "advanced"
+  },
+  {
+    "w": "interest",
+    "m": "lợi ích, quan tâm",
+    "cat": "advanced"
+  },
+  {
+    "w": "inventory",
+    "m": "hàng tồn kho",
+    "cat": "advanced"
+  },
+  {
+    "w": "journal",
+    "m": "tạp chí, nhật ký",
+    "cat": "advanced"
+  },
+  {
+    "w": "judgement",
+    "m": "phán xét",
+    "cat": "advanced"
+  },
+  {
+    "w": "launch",
+    "m": "ra mắt, phóng",
+    "cat": "advanced"
+  },
+  {
+    "w": "layer",
+    "m": "lớp",
+    "cat": "advanced"
+  },
+  {
+    "w": "lecture",
+    "m": "bài giảng",
+    "cat": "advanced"
+  },
+  {
+    "w": "legacy",
+    "m": "di sản, di chúc",
+    "cat": "advanced"
+  },
+  {
+    "w": "license",
+    "m": "giấy phép",
+    "cat": "advanced"
+  },
+  {
+    "w": "link",
+    "m": "liên kết",
+    "cat": "advanced"
+  },
+  {
+    "w": "literal",
+    "m": "theo nghĩa đen",
+    "cat": "advanced"
+  },
+  {
+    "w": "loyalty",
+    "m": "lòng trung thành",
+    "cat": "advanced"
+  },
+  {
+    "w": "mechanism",
+    "m": "cơ chế",
+    "cat": "advanced"
+  },
+  {
+    "w": "mental",
+    "m": "tinh thần, tâm thần",
+    "cat": "advanced"
+  },
+  {
+    "w": "mission",
+    "m": "sứ mệnh",
+    "cat": "advanced"
+  },
+  {
+    "w": "monitor",
+    "m": "giám sát",
+    "cat": "advanced"
+  },
+  {
+    "w": "multiple",
+    "m": "nhiều, đa dạng",
+    "cat": "advanced"
+  },
+  {
+    "w": "negotiate",
+    "m": "đàm phán",
+    "cat": "advanced"
+  },
+  {
+    "w": "network",
+    "m": "mạng lưới",
+    "cat": "advanced"
+  },
+  {
+    "w": "neutral",
+    "m": "trung lập",
+    "cat": "advanced"
+  },
+  {
+    "w": "notion",
+    "m": "khái niệm, ý tưởng",
+    "cat": "advanced"
+  },
+  {
+    "w": "observe",
+    "m": "quan sát",
+    "cat": "advanced"
+  },
+  {
+    "w": "outcome",
+    "m": "kết quả",
+    "cat": "advanced"
+  },
+  {
+    "w": "output",
+    "m": "sản lượng đầu ra",
+    "cat": "advanced"
+  },
+  {
+    "w": "outstanding",
+    "m": "xuất sắc",
+    "cat": "advanced"
+  },
+  {
+    "w": "overcome",
+    "m": "vượt qua",
+    "cat": "advanced"
+  },
+  {
+    "w": "partnership",
+    "m": "quan hệ đối tác",
+    "cat": "advanced"
+  },
+  {
+    "w": "pattern",
+    "m": "mẫu, khuôn mẫu",
+    "cat": "advanced"
+  },
+  {
+    "w": "perspective",
+    "m": "quan điểm, góc nhìn",
+    "cat": "advanced"
+  },
+  {
+    "w": "phase",
+    "m": "giai đoạn, pha",
+    "cat": "advanced"
+  },
+  {
+    "w": "phenomenon",
+    "m": "hiện tượng",
+    "cat": "advanced"
+  },
+  {
+    "w": "policy",
+    "m": "chính sách",
+    "cat": "advanced"
+  },
+  {
+    "w": "portfolio",
+    "m": "danh mục đầu tư",
+    "cat": "advanced"
+  },
+  {
+    "w": "precise",
+    "m": "chính xác",
+    "cat": "advanced"
+  },
+  {
+    "w": "principle",
+    "m": "nguyên tắc",
+    "cat": "advanced"
+  },
+  {
+    "w": "procedure",
+    "m": "quy trình, thủ tục",
+    "cat": "advanced"
+  },
+  {
+    "w": "profit",
+    "m": "lợi nhuận",
+    "cat": "advanced"
+  },
+  {
+    "w": "progress",
+    "m": "tiến độ, tiến bộ",
+    "cat": "advanced"
+  },
+  {
+    "w": "proportion",
+    "m": "tỉ lệ",
+    "cat": "advanced"
+  },
+  {
+    "w": "qualification",
+    "m": "trình độ, điều kiện",
+    "cat": "advanced"
+  },
+  {
+    "w": "quantity",
+    "m": "số lượng",
+    "cat": "advanced"
+  },
+  {
+    "w": "radical",
+    "m": "triệt để, cấp tiến",
+    "cat": "advanced"
+  },
+  {
+    "w": "rapid",
+    "m": "nhanh chóng",
+    "cat": "advanced"
+  },
+  {
+    "w": "recognition",
+    "m": "sự công nhận",
+    "cat": "advanced"
+  },
+  {
+    "w": "recommend",
+    "m": "giới thiệu, khuyến nghị",
+    "cat": "advanced"
+  },
+  {
+    "w": "recover",
+    "m": "hồi phục",
+    "cat": "advanced"
+  },
+  {
+    "w": "reflect",
+    "m": "phản ánh, suy ngẫm",
+    "cat": "advanced"
+  },
+  {
+    "w": "register",
+    "m": "đăng ký",
+    "cat": "advanced"
+  },
+  {
+    "w": "regulation",
+    "m": "quy định",
+    "cat": "advanced"
+  },
+  {
+    "w": "reinforce",
+    "m": "củng cố",
+    "cat": "advanced"
+  },
+  {
+    "w": "reliable",
+    "m": "đáng tin cậy",
+    "cat": "advanced"
+  },
+  {
+    "w": "remarkable",
+    "m": "đáng chú ý",
+    "cat": "advanced"
+  },
+  {
+    "w": "require",
+    "m": "yêu cầu",
+    "cat": "advanced"
+  },
+  {
+    "w": "resistance",
+    "m": "sự kháng cự",
+    "cat": "advanced"
+  },
+  {
+    "w": "resolve",
+    "m": "giải quyết",
+    "cat": "advanced"
+  },
+  {
+    "w": "respond",
+    "m": "phản hồi",
+    "cat": "advanced"
+  },
+  {
+    "w": "reveal",
+    "m": "tiết lộ",
+    "cat": "advanced"
+  },
+  {
+    "w": "revenue",
+    "m": "doanh thu",
+    "cat": "advanced"
+  },
+  {
+    "w": "scale",
+    "m": "quy mô, tỉ lệ",
+    "cat": "advanced"
+  },
+  {
+    "w": "scenario",
+    "m": "kịch bản",
+    "cat": "advanced"
+  },
+  {
+    "w": "scheme",
+    "m": "kế hoạch, chương trình",
+    "cat": "advanced"
+  },
+  {
+    "w": "scope",
+    "m": "phạm vi",
+    "cat": "advanced"
+  },
+  {
+    "w": "sector",
+    "m": "lĩnh vực, ngành",
+    "cat": "advanced"
+  },
+  {
+    "w": "sequence",
+    "m": "chuỗi, trình tự",
+    "cat": "advanced"
+  },
+  {
+    "w": "shortage",
+    "m": "sự thiếu hụt",
+    "cat": "advanced"
+  },
+  {
+    "w": "stable",
+    "m": "ổn định",
+    "cat": "advanced"
+  },
+  {
+    "w": "strategy",
+    "m": "chiến lược",
+    "cat": "advanced"
+  },
+  {
+    "w": "sufficient",
+    "m": "đủ",
+    "cat": "advanced"
+  },
+  {
+    "w": "survey",
+    "m": "khảo sát",
+    "cat": "advanced"
+  },
+  {
+    "w": "sustain",
+    "m": "duy trì, chịu đựng",
+    "cat": "advanced"
+  },
+  {
+    "w": "symbol",
+    "m": "biểu tượng",
+    "cat": "advanced"
+  },
+  {
+    "w": "technical",
+    "m": "kỹ thuật",
+    "cat": "advanced"
+  },
+  {
+    "w": "tension",
+    "m": "căng thẳng",
+    "cat": "advanced"
+  },
+  {
+    "w": "territory",
+    "m": "lãnh thổ",
+    "cat": "advanced"
+  },
+  {
+    "w": "theory",
+    "m": "lý thuyết",
+    "cat": "advanced"
+  },
+  {
+    "w": "threat",
+    "m": "mối đe dọa",
+    "cat": "advanced"
+  },
+  {
+    "w": "transform",
+    "m": "biến đổi, chuyển đổi",
+    "cat": "advanced"
+  },
+  {
+    "w": "transition",
+    "m": "sự chuyển tiếp",
+    "cat": "advanced"
+  },
+  {
+    "w": "trend",
+    "m": "xu hướng",
+    "cat": "advanced"
+  },
+  {
+    "w": "uniform",
+    "m": "đồng phục, đồng đều",
+    "cat": "advanced"
+  },
+  {
+    "w": "urgent",
+    "m": "khẩn cấp",
+    "cat": "advanced"
+  },
+  {
+    "w": "valid",
+    "m": "hợp lệ, có giá trị",
+    "cat": "advanced"
+  },
+  {
+    "w": "vision",
+    "m": "tầm nhìn",
+    "cat": "advanced"
+  },
+  {
+    "w": "voluntary",
+    "m": "tình nguyện",
+    "cat": "advanced"
+  },
+  {
+    "w": "vulnerable",
+    "m": "dễ bị tổn thương",
+    "cat": "advanced"
+  },
+  {
+    "w": "welfare",
+    "m": "phúc lợi",
+    "cat": "advanced"
+  },
+  {
+    "w": "whereas",
+    "m": "trong khi đó",
+    "cat": "advanced"
+  },
+  {
+    "w": "witness",
+    "m": "nhân chứng, chứng kiến",
+    "cat": "advanced"
+  },
+  {
+    "w": "workforce",
+    "m": "lực lượng lao động",
+    "cat": "advanced"
+  },
+  {
+    "w": "yield",
+    "m": "sản lượng, nhượng bộ",
+    "cat": "advanced"
+  },
+  {
+    "w": "cope with",
+    "m": "đương đầu với",
+    "cat": "phrasal"
+  },
+  {
+    "w": "break into",
+    "m": "đột nhập, bắt đầu làm",
+    "cat": "phrasal"
+  },
+  {
+    "w": "build up",
+    "m": "tích lũy, xây dựng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "call for",
+    "m": "kêu gọi, cần đến",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come about",
+    "m": "xảy ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come down with",
+    "m": "bị ốm với",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come forward",
+    "m": "tình nguyện, bước ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "draw up",
+    "m": "soạn thảo",
+    "cat": "phrasal"
+  },
+  {
+    "w": "drop out",
+    "m": "bỏ học, bỏ cuộc",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fall apart",
+    "m": "tan rã, sụp đổ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fall behind",
+    "m": "bị tụt hậu",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fit in",
+    "m": "hòa nhập",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get away with",
+    "m": "thoát khỏi hình phạt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get back to",
+    "m": "liên lạc lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "give out",
+    "m": "phân phát, cạn kiệt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "keep on",
+    "m": "tiếp tục",
+    "cat": "phrasal"
+  },
+  {
+    "w": "knock out",
+    "m": "đánh bại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "lay off",
+    "m": "sa thải tạm thời",
+    "cat": "phrasal"
+  },
+  {
+    "w": "let down",
+    "m": "làm thất vọng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "live up to",
+    "m": "xứng đáng với kỳ vọng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look up",
+    "m": "tra cứu",
+    "cat": "phrasal"
+  },
+  {
+    "w": "make the most of",
+    "m": "tận dụng tối đa",
+    "cat": "phrasal"
+  },
+  {
+    "w": "opt out",
+    "m": "từ chối tham gia",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pass on",
+    "m": "truyền lại, từ chối",
+    "cat": "phrasal"
+  },
+  {
+    "w": "phase out",
+    "m": "loại bỏ dần",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pull through",
+    "m": "vượt qua khó khăn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "run out of",
+    "m": "hết, cạn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "set out",
+    "m": "khởi hành, đặt ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "sign up",
+    "m": "đăng ký",
+    "cat": "phrasal"
+  },
+  {
+    "w": "stand out",
+    "m": "nổi bật",
+    "cat": "phrasal"
+  },
+  {
+    "w": "step up",
+    "m": "tăng cường, đẩy mạnh",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take into account",
+    "m": "tính đến, xem xét",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take up",
+    "m": "chiếm chỗ, bắt đầu",
+    "cat": "phrasal"
+  },
+  {
+    "w": "throw away",
+    "m": "ném đi, lãng phí",
+    "cat": "phrasal"
+  },
+  {
+    "w": "track down",
+    "m": "truy tìm",
+    "cat": "phrasal"
+  },
+  {
+    "w": "turn around",
+    "m": "xoay chuyển tình hình",
+    "cat": "phrasal"
+  },
+  {
+    "w": "wind up",
+    "m": "kết thúc, cuốn lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "wipe out",
+    "m": "xóa sạch, tiêu diệt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "wind down",
+    "m": "giảm dần, thư giãn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "wrap up",
+    "m": "kết thúc, gói lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "zoom in",
+    "m": "phóng to",
+    "cat": "phrasal"
+  },
+  {
+    "w": "zone out",
+    "m": "không tập trung, lơ đãng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "yield to",
+    "m": "nhượng bộ trước",
+    "cat": "phrasal"
+  },
+  {
+    "w": "work towards",
+    "m": "làm việc hướng tới",
+    "cat": "phrasal"
+  },
+  {
+    "w": "volunteer for",
+    "m": "tình nguyện cho",
+    "cat": "phrasal"
+  },
+  {
+    "w": "vary from",
+    "m": "khác nhau từ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "update on",
+    "m": "cập nhật về",
+    "cat": "phrasal"
+  },
+  {
+    "w": "unique",
+    "m": "độc đáo",
+    "cat": "advanced"
+  },
+  {
+    "w": "adequate",
+    "m": "đầy đủ, thích hợp",
+    "cat": "advanced"
+  },
+  {
+    "w": "ambiguous",
+    "m": "mơ hồ",
+    "cat": "advanced"
+  },
+  {
+    "w": "apparent",
+    "m": "rõ ràng, có vẻ",
+    "cat": "advanced"
+  },
+  {
+    "w": "approximate",
+    "m": "xấp xỉ",
+    "cat": "advanced"
+  },
+  {
+    "w": "arbitrary",
+    "m": "tùy tiện",
+    "cat": "advanced"
+  },
+  {
+    "w": "authentic",
+    "m": "chân thực, xác thực",
+    "cat": "advanced"
+  },
+  {
+    "w": "collective",
+    "m": "tập thể",
+    "cat": "advanced"
+  },
+  {
+    "w": "comprehensive",
+    "m": "toàn diện",
+    "cat": "advanced"
+  },
+  {
+    "w": "controversial",
+    "m": "gây tranh cãi",
+    "cat": "advanced"
+  },
+  {
+    "w": "conventional",
+    "m": "thông thường, truyền thống",
+    "cat": "advanced"
+  },
+  {
+    "w": "critical",
+    "m": "phê bình, quan trọng",
+    "cat": "advanced"
+  },
+  {
+    "w": "cumulative",
+    "m": "tích lũy",
+    "cat": "advanced"
+  },
+  {
+    "w": "deliberate",
+    "m": "cố ý",
+    "cat": "advanced"
+  },
+  {
+    "w": "distinctive",
+    "m": "đặc trưng",
+    "cat": "advanced"
+  },
+  {
+    "w": "diverse",
+    "m": "đa dạng",
+    "cat": "advanced"
+  },
+  {
+    "w": "dynamic",
+    "m": "năng động",
+    "cat": "advanced"
+  },
+  {
+    "w": "evident",
+    "m": "rõ ràng",
+    "cat": "advanced"
+  },
+  {
+    "w": "explicit",
+    "m": "tường minh, rõ ràng",
+    "cat": "advanced"
+  },
+  {
+    "w": "fundamental",
+    "m": "cơ bản, nền tảng",
+    "cat": "advanced"
+  },
+  {
+    "w": "genuine",
+    "m": "thực sự, chân thực",
+    "cat": "advanced"
+  },
+  {
+    "w": "gradual",
+    "m": "dần dần",
+    "cat": "advanced"
+  },
+  {
+    "w": "implicit",
+    "m": "ngầm hiểu",
+    "cat": "advanced"
+  },
+  {
+    "w": "inevitable",
+    "m": "không thể tránh khỏi",
+    "cat": "advanced"
+  },
+  {
+    "w": "innovative",
+    "m": "sáng tạo, đổi mới",
+    "cat": "advanced"
+  },
+  {
+    "w": "integrated",
+    "m": "tích hợp",
+    "cat": "advanced"
+  },
+  {
+    "w": "intensive",
+    "m": "chuyên sâu",
+    "cat": "advanced"
+  },
+  {
+    "w": "interactive",
+    "m": "tương tác",
+    "cat": "advanced"
+  },
+  {
+    "w": "objective",
+    "m": "khách quan, mục tiêu",
+    "cat": "advanced"
+  },
+  {
+    "w": "ongoing",
+    "m": "đang tiếp diễn",
+    "cat": "advanced"
+  },
+  {
+    "w": "partial",
+    "m": "một phần",
+    "cat": "advanced"
+  },
+  {
+    "w": "passive",
+    "m": "thụ động",
+    "cat": "advanced"
+  },
+  {
+    "w": "persistent",
+    "m": "kiên trì",
+    "cat": "advanced"
+  },
+  {
+    "w": "precise",
+    "m": "chính xác",
+    "cat": "advanced"
+  },
+  {
+    "w": "preliminary",
+    "m": "sơ bộ",
+    "cat": "advanced"
+  },
+  {
+    "w": "prevalent",
+    "m": "phổ biến",
+    "cat": "advanced"
+  },
+  {
+    "w": "productive",
+    "m": "hiệu quả, năng suất",
+    "cat": "advanced"
+  },
+  {
+    "w": "progressive",
+    "m": "tiến bộ",
+    "cat": "advanced"
+  },
+  {
+    "w": "rational",
+    "m": "hợp lý",
+    "cat": "advanced"
+  },
+  {
+    "w": "realistic",
+    "m": "thực tế",
+    "cat": "advanced"
+  },
+  {
+    "w": "relevant",
+    "m": "liên quan, thích hợp",
+    "cat": "advanced"
+  },
+  {
+    "w": "remarkable",
+    "m": "đáng chú ý",
+    "cat": "advanced"
+  },
+  {
+    "w": "rigorous",
+    "m": "nghiêm ngặt",
+    "cat": "advanced"
+  },
+  {
+    "w": "sensitive",
+    "m": "nhạy cảm",
+    "cat": "advanced"
+  },
+  {
+    "w": "sequential",
+    "m": "theo trình tự",
+    "cat": "advanced"
+  },
+  {
+    "w": "significant",
+    "m": "quan trọng, đáng kể",
+    "cat": "advanced"
+  },
+  {
+    "w": "straightforward",
+    "m": "thẳng thắn, đơn giản",
+    "cat": "advanced"
+  },
+  {
+    "w": "subjective",
+    "m": "chủ quan",
+    "cat": "advanced"
+  },
+  {
+    "w": "substantial",
+    "m": "đáng kể, thực chất",
+    "cat": "advanced"
+  },
+  {
+    "w": "temporary",
+    "m": "tạm thời",
+    "cat": "advanced"
+  },
+  {
+    "w": "theoretical",
+    "m": "lý thuyết",
+    "cat": "advanced"
+  },
+  {
+    "w": "transparent",
+    "m": "minh bạch, trong suốt",
+    "cat": "advanced"
+  },
+  {
+    "w": "universal",
+    "m": "phổ quát",
+    "cat": "advanced"
+  },
+  {
+    "w": "variable",
+    "m": "biến số, thay đổi",
+    "cat": "advanced"
+  },
+  {
+    "w": "voluntary",
+    "m": "tình nguyện",
+    "cat": "advanced"
+  },
+  {
+    "w": "complex",
+    "m": "phức tạp",
+    "cat": "advanced"
+  },
+  {
+    "w": "rational",
+    "m": "lý trí",
+    "cat": "advanced"
+  },
+  {
+    "w": "adequate",
+    "m": "đủ",
+    "cat": "advanced"
+  },
+  {
+    "w": "chronic",
+    "m": "mãn tính, kéo dài",
+    "cat": "advanced"
+  },
+  {
+    "w": "preliminary",
+    "m": "sơ bộ",
+    "cat": "advanced"
+  },
+  {
+    "w": "sequential",
+    "m": "tuần tự",
+    "cat": "advanced"
+  },
+  {
+    "w": "abstract",
+    "m": "trừu tượng",
+    "cat": "advanced"
+  },
+  {
+    "w": "concrete",
+    "m": "cụ thể, bê tông",
+    "cat": "advanced"
+  },
+  {
+    "w": "literal",
+    "m": "theo nghĩa đen",
+    "cat": "advanced"
+  },
+  {
+    "w": "metaphorical",
+    "m": "theo nghĩa bóng",
+    "cat": "advanced"
+  },
+  {
+    "w": "mutual",
+    "m": "lẫn nhau",
+    "cat": "advanced"
+  },
+  {
+    "w": "sustainable",
+    "m": "bền vững",
+    "cat": "advanced"
+  },
+  {
+    "w": "innovative",
+    "m": "cải tiến",
+    "cat": "advanced"
+  },
+  {
+    "w": "efficient",
+    "m": "hiệu suất cao",
+    "cat": "advanced"
+  },
+  {
+    "w": "productive",
+    "m": "có năng suất",
+    "cat": "advanced"
+  },
+  {
+    "w": "reliable",
+    "m": "đáng tin",
+    "cat": "advanced"
+  },
+  {
+    "w": "affordable",
+    "m": "giá cả phải chăng",
+    "cat": "advanced"
+  },
+  {
+    "w": "accessible",
+    "m": "dễ tiếp cận",
+    "cat": "advanced"
+  },
+  {
+    "w": "compatible",
+    "m": "tương thích",
+    "cat": "advanced"
+  },
+  {
+    "w": "interactive",
+    "m": "có tương tác",
+    "cat": "advanced"
+  },
+  {
+    "w": "automatic",
+    "m": "tự động",
+    "cat": "advanced"
+  },
+  {
+    "w": "digital",
+    "m": "kỹ thuật số",
+    "cat": "advanced"
+  },
+  {
+    "w": "virtual",
+    "m": "ảo",
+    "cat": "advanced"
+  },
+  {
+    "w": "physical",
+    "m": "vật lý",
+    "cat": "advanced"
+  },
+  {
+    "w": "environmental",
+    "m": "về môi trường",
+    "cat": "advanced"
+  },
+  {
+    "w": "economic",
+    "m": "kinh tế",
+    "cat": "advanced"
+  },
+  {
+    "w": "political",
+    "m": "chính trị",
+    "cat": "advanced"
+  },
+  {
+    "w": "scientific",
+    "m": "khoa học",
+    "cat": "advanced"
+  },
+  {
+    "w": "historical",
+    "m": "lịch sử",
+    "cat": "advanced"
+  }
+]

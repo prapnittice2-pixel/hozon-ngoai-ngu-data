@@ -1,0 +1,2232 @@
+{
+  "englishC1Lessons": [
+    {
+      "title": "Lesson 1: Advanced Grammar Patterns",
+      "type": "vocabulary",
+      "xp": 35,
+      "min": 15,
+      "order": 1,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Ở trình độ C1, bạn sẽ làm chủ các cấu trúc ngữ pháp nâng cao như đảo ngữ, câu chẻ, chuyển vị, tỉnh lược và thay thế — những yếu tố tạo nên văn phong tiếng Anh học thuật và văn chương.",
+        "vocabulary": [
+          {
+            "word": "Inversion",
+            "pinyin": "/ɪnˈvɜːrʒn/",
+            "meaning": "Đảo ngữ",
+            "example": "Never have I seen such breathtaking scenery.",
+            "example_vi": "Chưa bao giờ tôi thấy cảnh đẹp đến vậy.",
+            "tags": [
+              "grammar"
+            ]
+          },
+          {
+            "word": "Cleft sentence",
+            "pinyin": "/kleft ˈsentəns/",
+            "meaning": "Câu chẻ",
+            "example": "It was her dedication that impressed the committee.",
+            "example_vi": "Chính sự tận tâm của cô ấy đã gây ấn tượng với ban giám khảo.",
+            "tags": [
+              "grammar"
+            ]
+          },
+          {
+            "word": "Fronting",
+            "pinyin": "/ˈfrʌntɪŋ/",
+            "meaning": "Chuyển vị lên đầu câu",
+            "example": "This argument, many scholars have disputed.",
+            "example_vi": "Luận điểm này, nhiều học giả đã bác bỏ.",
+            "tags": [
+              "grammar"
+            ]
+          },
+          {
+            "word": "Ellipsis",
+            "pinyin": "/ɪˈlɪpsɪs/",
+            "meaning": "Tỉnh lược",
+            "example": "She can play the violin and he can too.",
+            "example_vi": "Cô ấy có thể chơi violin và anh ấy cũng vậy.",
+            "tags": [
+              "grammar"
+            ]
+          },
+          {
+            "word": "Substitution",
+            "pinyin": "/ˌsʌbstɪˈtjuːʃn/",
+            "meaning": "Thay thế ngữ pháp",
+            "example": "I thought the report was thorough, and so did my supervisor.",
+            "example_vi": "Tôi nghĩ bài báo cáo rất kỹ lưỡng, và người giám sát của tôi cũng nghĩ vậy.",
+            "tags": [
+              "grammar"
+            ]
+          },
+          {
+            "word": "Nominalization",
+            "pinyin": "/ˌnɒmɪnəlaɪˈzeɪʃn/",
+            "meaning": "Danh từ hóa động từ",
+            "example": "The investigation of the data led to a significant discovery.",
+            "example_vi": "Việc điều tra dữ liệu dẫn đến một khám phá quan trọng.",
+            "tags": [
+              "grammar"
+            ]
+          },
+          {
+            "word": "Subjunctive",
+            "pinyin": "/səbˈdʒʌŋktɪv/",
+            "meaning": "Thức giả định",
+            "example": "It is essential that every delegate be present at the meeting.",
+            "example_vi": "Điều cần thiết là mọi đại biểu phải có mặt tại cuộc họp.",
+            "tags": [
+              "grammar"
+            ]
+          },
+          {
+            "word": "Participle clause",
+            "pinyin": "/ˈpɑːtɪsɪpl klɔːz/",
+            "meaning": "Mệnh đề phân từ",
+            "example": "Having completed the analysis, she submitted her findings.",
+            "example_vi": "Sau khi hoàn thành phân tích, cô ấy nộp kết quả.",
+            "tags": [
+              "grammar"
+            ]
+          },
+          {
+            "word": "Anaphora",
+            "pinyin": "/əˈnæfərə/",
+            "meaning": "Hồi chỉ (phép lặp)",
+            "example": "We shall fight on the beaches, we shall fight on the landing grounds.",
+            "example_vi": "Chúng ta sẽ chiến đấu trên bãi biển, chúng ta sẽ chiến đấu trên bãi đổ bộ.",
+            "tags": [
+              "grammar"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Đảo ngữ với trạng từ phủ định",
+            "explanation": "Khi đặt các trạng từ phủ định (Never, Rarely, Seldom, Not only, No sooner) ở đầu câu, trợ động từ được đảo lên trước chủ ngữ. Cấu trúc này tạo sắc thái nhấn mạnh trong văn viết trang trọng.",
+            "examples": [
+              "Never have I encountered such complexity. = Chưa bao giờ tôi gặp sự phức tạp như vậy.",
+              "Seldom does the committee reach a unanimous decision. = Hiếm khi ban ủy ban đạt được quyết định nhất trí.",
+              "Not only did she complete the project early, but she also exceeded expectations. = Không chỉ hoàn thành dự án sớm, cô ấy còn vượt kỳ vọng."
+            ]
+          },
+          {
+            "title": "Câu chẻ (It-cleft và Wh-cleft)",
+            "explanation": "Câu chẻ dùng để nhấn mạnh một thành phần cụ thể trong câu. It-cleft có dạng 'It is/was + X + that/who...'. Wh-cleft (pseudo-cleft) có dạng 'What... is/was...'.",
+            "examples": [
+              "It is the methodology that requires revision. = Chính phương pháp luận là điều cần được sửa đổi.",
+              "What the researchers discovered was a pattern of systemic bias. = Điều các nhà nghiên cứu phát hiện là một mô hình thiên kiến hệ thống."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Cấu trúc nào sau đây là ví dụ đúng về đảo ngữ?",
+            "options": [
+              "Never I have seen this.",
+              "Never have I seen this.",
+              "Never seen have I this.",
+              "I have never seen this."
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Câu nào sau đây là câu chẻ (cleft sentence) đúng?",
+            "options": [
+              "She impressed the committee.",
+              "It was she impressing the committee.",
+              "It was her dedication that impressed the committee.",
+              "Her dedication, it impressed the committee."
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Inversion",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Danh từ hóa",
+              "Đảo ngữ",
+              "Tỉnh lược",
+              "Thay thế ngữ pháp"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Subjunctive",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Phân từ",
+              "Câu chẻ",
+              "Thức giả định",
+              "Chuyển vị"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: '___ have I read such a compelling argument.' (Chưa bao giờ...)",
+            "options": [
+              "Never",
+              "Rarely",
+              "Sometimes",
+              "Often"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là 'Tỉnh lược' (bỏ bớt từ đã được nhắc đến):",
+            "options": [
+              "Ellipsis"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 2: Formal Academic English",
+      "type": "vocabulary",
+      "xp": 35,
+      "min": 15,
+      "order": 2,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Tiếng Anh học thuật trang trọng đòi hỏi sử dụng ngôn ngữ phòng vệ (hedging), danh từ hóa và cấu trúc bị động để trình bày ý kiến khách quan và chuyên nghiệp trong bài nghiên cứu.",
+        "vocabulary": [
+          {
+            "word": "Hedging",
+            "pinyin": "/ˈhedʒɪŋ/",
+            "meaning": "Ngôn ngữ phòng vệ / giảm nhẹ xác quyết",
+            "example": "It appears that the results may suggest a correlation.",
+            "example_vi": "Có vẻ như các kết quả có thể gợi ý một mối tương quan.",
+            "tags": [
+              "academic"
+            ]
+          },
+          {
+            "word": "Nominalization",
+            "pinyin": "/ˌnɒmɪnəlaɪˈzeɪʃn/",
+            "meaning": "Danh từ hóa",
+            "example": "The implementation of the policy led to significant improvement.",
+            "example_vi": "Việc triển khai chính sách dẫn đến cải thiện đáng kể.",
+            "tags": [
+              "academic"
+            ]
+          },
+          {
+            "word": "Passive construction",
+            "pinyin": "/ˈpæsɪv kənˈstrʌkʃn/",
+            "meaning": "Cấu trúc bị động",
+            "example": "The data were collected over a six-month period.",
+            "example_vi": "Dữ liệu được thu thập trong thời gian sáu tháng.",
+            "tags": [
+              "academic"
+            ]
+          },
+          {
+            "word": "Tentative language",
+            "pinyin": "/ˈtentətɪv ˈlæŋɡwɪdʒ/",
+            "meaning": "Ngôn ngữ thận trọng",
+            "example": "These findings could potentially indicate a broader trend.",
+            "example_vi": "Những phát hiện này có thể cho thấy một xu hướng rộng hơn.",
+            "tags": [
+              "academic"
+            ]
+          },
+          {
+            "word": "Impersonal construction",
+            "pinyin": "/ɪmˈpɜːsənl kənˈstrʌkʃn/",
+            "meaning": "Cấu trúc phi cá nhân",
+            "example": "It has been suggested that further research is warranted.",
+            "example_vi": "Người ta đề xuất rằng cần nghiên cứu thêm.",
+            "tags": [
+              "academic"
+            ]
+          },
+          {
+            "word": "Lexical precision",
+            "pinyin": "/ˈleksɪkl prɪˈsɪʒn/",
+            "meaning": "Độ chính xác từ vựng",
+            "example": "The term 'significant' requires precise statistical definition.",
+            "example_vi": "Thuật ngữ 'đáng kể' đòi hỏi định nghĩa thống kê chính xác.",
+            "tags": [
+              "academic"
+            ]
+          },
+          {
+            "word": "Hedged claim",
+            "pinyin": "/hedʒd kleɪm/",
+            "meaning": "Luận điểm được giảm nhẹ",
+            "example": "The evidence appears to support this hypothesis.",
+            "example_vi": "Bằng chứng có vẻ ủng hộ giả thuyết này.",
+            "tags": [
+              "academic"
+            ]
+          },
+          {
+            "word": "Epistemic modal",
+            "pinyin": "/ˌepɪˈstiːmɪk ˈməʊdl/",
+            "meaning": "Động từ tình thái nhận thức",
+            "example": "This may represent a fundamental shift in understanding.",
+            "example_vi": "Điều này có thể đại diện cho một sự thay đổi cơ bản trong nhận thức.",
+            "tags": [
+              "academic"
+            ]
+          },
+          {
+            "word": "Cohesive device",
+            "pinyin": "/kəʊˈhiːsɪv dɪˈvaɪs/",
+            "meaning": "Phương tiện liên kết văn bản",
+            "example": "Furthermore, the analysis reveals consistent patterns.",
+            "example_vi": "Hơn nữa, phân tích cho thấy các mô hình nhất quán.",
+            "tags": [
+              "academic"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Hedging — Ngôn ngữ giảm nhẹ mức độ chắc chắn",
+            "explanation": "Trong văn học thuật, tránh khẳng định tuyệt đối. Dùng các cấu trúc hedging như: 'it appears that', 'it is suggested that', 'it seems likely that', 'may/might/could + V' để thể hiện tính khách quan và thận trọng khoa học.",
+            "examples": [
+              "It appears that the intervention had a positive effect. = Có vẻ như sự can thiệp đã có tác động tích cực.",
+              "The results may suggest a causal relationship. = Kết quả có thể gợi ý một mối quan hệ nhân quả.",
+              "It is possible that further variables were not accounted for. = Có thể có thêm các biến số chưa được tính đến."
+            ]
+          },
+          {
+            "title": "Danh từ hóa trong văn học thuật",
+            "explanation": "Danh từ hóa (nominalization) chuyển động từ hoặc tính từ thành danh từ, tạo ra văn phong trang trọng và súc tích hơn. Ví dụ: 'analyze → analysis', 'implement → implementation', 'develop → development'.",
+            "examples": [
+              "The analysis of data (NOT: analyzing data) revealed new patterns. = Việc phân tích dữ liệu hé lộ các mô hình mới.",
+              "The implementation of new procedures reduced error rates. = Việc triển khai các thủ tục mới giảm tỷ lệ lỗi."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Câu nào sau đây sử dụng hedging language đúng theo văn phong học thuật?",
+            "options": [
+              "The drug definitely cures the disease.",
+              "It appears that the drug may reduce symptoms.",
+              "The drug is curing the disease.",
+              "We know the drug works perfectly."
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Câu nào là ví dụ đúng về danh từ hóa (nominalization)?",
+            "options": [
+              "We analyzed the data carefully.",
+              "The data were carefully analyzed.",
+              "The careful analysis of the data revealed patterns.",
+              "Data analysis was carefully done."
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Hedging",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Cấu trúc bị động",
+              "Danh từ hóa",
+              "Ngôn ngữ phòng vệ / giảm nhẹ xác quyết",
+              "Độ chính xác từ vựng"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Nominalization",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Danh từ hóa",
+              "Phòng vệ ngôn ngữ",
+              "Cấu trúc phi cá nhân",
+              "Liên kết văn bản"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: '___ that the results indicate a significant trend.' (Theo kiểu học thuật trang trọng)",
+            "options": [
+              "It is suggested",
+              "We think",
+              "I believe",
+              "People say"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh chỉ kỹ thuật 'giảm nhẹ mức độ chắc chắn' trong văn học thuật (1 từ):",
+            "options": [
+              "Hedging"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 3: Idiomatic Expressions & Phrasal Verbs",
+      "type": "vocabulary",
+      "xp": 35,
+      "min": 15,
+      "order": 3,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Thành ngữ tiếng Anh nâng cao phản ánh văn hóa và tư duy của người bản ngữ. Việc nắm vững các thành ngữ như 'bite the bullet' hay 'burn bridges' giúp bạn giao tiếp tự nhiên và biểu đạt ý tứ sâu sắc hơn.",
+        "vocabulary": [
+          {
+            "word": "Bite the bullet",
+            "pinyin": "/baɪt ðə ˈbʊlɪt/",
+            "meaning": "Chịu đựng, cắn răng vượt qua",
+            "example": "We had to bite the bullet and accept the budget cuts.",
+            "example_vi": "Chúng tôi phải cắn răng chấp nhận việc cắt giảm ngân sách.",
+            "tags": [
+              "idiom"
+            ]
+          },
+          {
+            "word": "Burn bridges",
+            "pinyin": "/bɜːrn ˈbrɪdʒɪz/",
+            "meaning": "Phá vỡ quan hệ vĩnh viễn",
+            "example": "Resigning without notice will burn bridges with your employer.",
+            "example_vi": "Nghỉ việc mà không báo trước sẽ phá vỡ mối quan hệ với sếp của bạn.",
+            "tags": [
+              "idiom"
+            ]
+          },
+          {
+            "word": "Rock the boat",
+            "pinyin": "/rɒk ðə bəʊt/",
+            "meaning": "Gây rối, làm xáo trộn tình hình",
+            "example": "He refused to rock the boat by challenging the director's decision.",
+            "example_vi": "Anh ấy từ chối gây rối bằng cách thách thức quyết định của giám đốc.",
+            "tags": [
+              "idiom"
+            ]
+          },
+          {
+            "word": "Cut corners",
+            "pinyin": "/kʌt ˈkɔːrnərz/",
+            "meaning": "Làm ẩu, bỏ bớt bước để tiết kiệm",
+            "example": "The contractor cut corners on safety, which led to the accident.",
+            "example_vi": "Nhà thầu đã làm ẩu về an toàn, dẫn đến tai nạn.",
+            "tags": [
+              "idiom"
+            ]
+          },
+          {
+            "word": "Jump the gun",
+            "pinyin": "/dʒʌmp ðə ɡʌn/",
+            "meaning": "Hành động sớm quá, vội vàng",
+            "example": "She jumped the gun by announcing the merger before it was finalized.",
+            "example_vi": "Cô ấy đã vội vàng thông báo về vụ sáp nhập trước khi được hoàn tất.",
+            "tags": [
+              "idiom"
+            ]
+          },
+          {
+            "word": "Spill the beans",
+            "pinyin": "/spɪl ðə biːnz/",
+            "meaning": "Tiết lộ bí mật",
+            "example": "Someone spilled the beans about the surprise party.",
+            "example_vi": "Ai đó đã tiết lộ bí mật về bữa tiệc bất ngờ.",
+            "tags": [
+              "idiom"
+            ]
+          },
+          {
+            "word": "Let the cat out of the bag",
+            "pinyin": "/let ðə kæt aʊt əv ðə bæɡ/",
+            "meaning": "Vô tình để lộ bí mật",
+            "example": "He let the cat out of the bag about the new product launch.",
+            "example_vi": "Anh ấy vô tình để lộ bí mật về việc ra mắt sản phẩm mới.",
+            "tags": [
+              "idiom"
+            ]
+          },
+          {
+            "word": "Turn a blind eye",
+            "pinyin": "/tɜːrn ə blaɪnd aɪ/",
+            "meaning": "Làm ngơ, giả vờ không biết",
+            "example": "Management turned a blind eye to the safety violations.",
+            "example_vi": "Ban quản lý đã làm ngơ trước các vi phạm an toàn.",
+            "tags": [
+              "idiom"
+            ]
+          },
+          {
+            "word": "Throw in the towel",
+            "pinyin": "/θrəʊ ɪn ðə ˈtaʊəl/",
+            "meaning": "Bỏ cuộc, đầu hàng",
+            "example": "After months of struggle, they finally threw in the towel.",
+            "example_vi": "Sau nhiều tháng đấu tranh, họ cuối cùng đã bỏ cuộc.",
+            "tags": [
+              "idiom"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Thành ngữ gốc hành động (Action-based idioms)",
+            "explanation": "Nhiều thành ngữ tiếng Anh có gốc từ hoạt động thể chất hoặc lịch sử cụ thể. 'Bite the bullet' xuất phát từ thời chiến khi binh lính cắn đạn để chịu đựng đau đớn khi phẫu thuật. Hiểu gốc giúp nhớ nghĩa lâu hơn. Các thành ngữ này hoạt động như cụm từ cố định, không thể tách rời các thành phần.",
+            "examples": [
+              "She bit the bullet and told her manager the truth. = Cô ấy cắn răng nói thật với người quản lý.",
+              "Don't jump the gun — wait until all the facts are confirmed. = Đừng vội vàng — hãy đợi đến khi tất cả các sự kiện được xác nhận."
+            ]
+          },
+          {
+            "title": "Cách dùng thành ngữ trong ngữ cảnh trang trọng và thân mật",
+            "explanation": "Thành ngữ thường phù hợp với giao tiếp thân mật hoặc văn viết bán trang trọng. Trong văn học thuật hoặc báo cáo kinh doanh trang trọng, nên hạn chế dùng thành ngữ. Tuy nhiên, trong văn sáng tạo và thuyết trình, chúng tạo sự sinh động và kết nối với người nghe.",
+            "examples": [
+              "In formal reports, avoid: 'The team cut corners.' Prefer: 'The team failed to adhere to established protocols.' = Trong báo cáo trang trọng, tránh thành ngữ, dùng ngôn ngữ chính thức hơn.",
+              "In speeches: 'We must not turn a blind eye to inequality.' is powerful and acceptable. = Trong diễn thuyết, thành ngữ tạo ấn tượng mạnh và được chấp nhận."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Thành ngữ 'bite the bullet' có nghĩa là gì?",
+            "options": [
+              "Ăn đạn thật sự",
+              "Cắn răng chịu đựng điều khó khăn",
+              "Từ bỏ nhanh chóng",
+              "Tấn công đột ngột"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Ai đó 'turns a blind eye' nghĩa là họ làm gì?",
+            "options": [
+              "Nhìn chăm chú vào vấn đề",
+              "Giải quyết vấn đề ngay lập tức",
+              "Giả vờ không nhìn thấy / làm ngơ",
+              "Báo cáo sự việc cho cấp trên"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Burn bridges",
+            "q": "Thành ngữ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Xây dựng quan hệ mới",
+              "Phá vỡ quan hệ vĩnh viễn",
+              "Vượt qua thử thách",
+              "Tiết lộ bí mật"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Spill the beans",
+            "q": "Thành ngữ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Làm rơi đồ ăn",
+              "Tiết lộ bí mật",
+              "Gây rối loạn",
+              "Từ bỏ kế hoạch"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: 'She ___ the beans about the surprise party before it happened.'",
+            "options": [
+              "spilled",
+              "dropped",
+              "threw",
+              "cut"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập thành ngữ tiếng Anh có nghĩa là 'hành động vội vàng, sớm quá' (3 từ):",
+            "options": [
+              "Jump the gun"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 4: Critical Analysis Language",
+      "type": "vocabulary",
+      "xp": 35,
+      "min": 15,
+      "order": 4,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Ngôn ngữ phân tích phê bình là nền tảng của tư duy học thuật. Những từ như 'substantiate', 'corroborate', 'refute' giúp bạn đánh giá, chứng minh và phản bác luận điểm một cách chính xác và có sức thuyết phục.",
+        "vocabulary": [
+          {
+            "word": "Evaluate",
+            "pinyin": "/ɪˈvæljueɪt/",
+            "meaning": "Đánh giá, xem xét toàn diện",
+            "example": "The committee evaluated the proposal against established criteria.",
+            "example_vi": "Ủy ban đánh giá đề xuất dựa trên các tiêu chí đã đặt ra.",
+            "tags": [
+              "critical"
+            ]
+          },
+          {
+            "word": "Critique",
+            "pinyin": "/krɪˈtiːk/",
+            "meaning": "Phê bình, phân tích có phê phán",
+            "example": "The scholar offered a rigorous critique of the prevailing theory.",
+            "example_vi": "Học giả đưa ra một bài phê bình nghiêm ngặt về lý thuyết phổ biến.",
+            "tags": [
+              "critical"
+            ]
+          },
+          {
+            "word": "Scrutinize",
+            "pinyin": "/ˈskruːtɪnaɪz/",
+            "meaning": "Xem xét kỹ càng, kiểm tra chặt chẽ",
+            "example": "Auditors scrutinized every financial transaction for anomalies.",
+            "example_vi": "Kiểm toán viên xem xét kỹ lưỡng từng giao dịch tài chính để tìm bất thường.",
+            "tags": [
+              "critical"
+            ]
+          },
+          {
+            "word": "Substantiate",
+            "pinyin": "/səbˈstænʃieɪt/",
+            "meaning": "Chứng minh, cung cấp bằng chứng",
+            "example": "You must substantiate your claims with empirical evidence.",
+            "example_vi": "Bạn phải chứng minh các luận điểm của mình bằng bằng chứng thực nghiệm.",
+            "tags": [
+              "critical"
+            ]
+          },
+          {
+            "word": "Corroborate",
+            "pinyin": "/kəˈrɒbəreɪt/",
+            "meaning": "Xác nhận, củng cố bằng chứng",
+            "example": "The witness testimony corroborated the documentary evidence.",
+            "example_vi": "Lời khai của nhân chứng xác nhận bằng chứng tài liệu.",
+            "tags": [
+              "critical"
+            ]
+          },
+          {
+            "word": "Refute",
+            "pinyin": "/rɪˈfjuːt/",
+            "meaning": "Bác bỏ (bằng lý luận hoặc bằng chứng)",
+            "example": "The new data effectively refuted the long-standing hypothesis.",
+            "example_vi": "Dữ liệu mới đã bác bỏ hiệu quả giả thuyết lâu đời.",
+            "tags": [
+              "critical"
+            ]
+          },
+          {
+            "word": "Rebut",
+            "pinyin": "/rɪˈbʌt/",
+            "meaning": "Phản bác, đáp lại luận điểm",
+            "example": "The defense attorney rebutted every claim made by the prosecution.",
+            "example_vi": "Luật sư bào chữa đã phản bác mọi lập luận của bên công tố.",
+            "tags": [
+              "critical"
+            ]
+          },
+          {
+            "word": "Postulate",
+            "pinyin": "/ˈpɒstjʊleɪt/",
+            "meaning": "Đặt giả thuyết, đề xuất như tiên đề",
+            "example": "Einstein postulated that the speed of light is constant.",
+            "example_vi": "Einstein đặt giả thuyết rằng tốc độ ánh sáng là hằng số.",
+            "tags": [
+              "critical"
+            ]
+          },
+          {
+            "word": "Extrapolate",
+            "pinyin": "/ɪkˈstræpəleɪt/",
+            "meaning": "Ngoại suy, suy luận từ dữ liệu hiện có",
+            "example": "We cannot extrapolate these findings to the entire population.",
+            "example_vi": "Chúng ta không thể ngoại suy những phát hiện này cho toàn bộ dân số.",
+            "tags": [
+              "critical"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Phân biệt Refute, Rebut và Dispute",
+            "explanation": "'Refute' nghĩa là bác bỏ hoàn toàn bằng bằng chứng chắc chắn. 'Rebut' nghĩa là phản bác một luận điểm cụ thể trong tranh luận. 'Dispute' nhẹ hơn, nghĩa là đặt câu hỏi về tính đúng đắn nhưng chưa chứng minh sai. Dùng sai các từ này là lỗi phổ biến ở cấp độ C1.",
+            "examples": [
+              "The experiment refuted the null hypothesis entirely. = Thí nghiệm đã bác bỏ hoàn toàn giả thuyết không.",
+              "The researcher rebutted the critic's argument point by point. = Nhà nghiên cứu đã phản bác từng điểm trong lập luận của nhà phê bình.",
+              "Several scholars dispute the accuracy of this interpretation. = Một số học giả đặt câu hỏi về độ chính xác của cách giải thích này."
+            ]
+          },
+          {
+            "title": "Cấu trúc lập luận học thuật (PEEL)",
+            "explanation": "Cấu trúc PEEL (Point – Evidence – Explanation – Link) là nền tảng lập luận C1. Mỗi đoạn văn nên: nêu luận điểm, cung cấp bằng chứng (substantiate/corroborate), giải thích tầm quan trọng, và liên kết với luận điểm chính.",
+            "examples": [
+              "This evidence substantiates the claim that remote work increases productivity. = Bằng chứng này chứng minh cho luận điểm rằng làm việc từ xa tăng năng suất.",
+              "These findings corroborate earlier research by Smith (2019). = Những phát hiện này xác nhận nghiên cứu trước đó của Smith (2019)."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ nào có nghĩa là 'bác bỏ hoàn toàn bằng bằng chứng'?",
+            "options": [
+              "Dispute",
+              "Postulate",
+              "Refute",
+              "Extrapolate"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Từ 'corroborate' có nghĩa là gì trong văn học thuật?",
+            "options": [
+              "Bác bỏ bằng chứng",
+              "Xác nhận và củng cố bằng chứng",
+              "Đặt ra giả thuyết mới",
+              "Phân tích phê phán"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Scrutinize",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Đặt giả thuyết",
+              "Ngoại suy",
+              "Xem xét kỹ càng",
+              "Phản bác"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Substantiate",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Chứng minh bằng bằng chứng",
+              "Bác bỏ hoàn toàn",
+              "Xem xét toàn diện",
+              "Ngoại suy dữ liệu"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: 'The new study ___ the findings of previous research.' (xác nhận/củng cố)",
+            "options": [
+              "corroborated",
+              "refuted",
+              "disputed",
+              "postulated"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là 'đặt giả thuyết như tiên đề':",
+            "options": [
+              "Postulate"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 5: Academic Discourse Markers",
+      "type": "vocabulary",
+      "xp": 35,
+      "min": 15,
+      "order": 5,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Các từ nối học thuật nâng cao như 'notwithstanding', 'hitherto', 'inasmuch as' tạo nên sự liên kết chặt chẽ và logic trong văn viết học thuật. Nắm vững chúng giúp bài viết của bạn đạt chuẩn journal quốc tế.",
+        "vocabulary": [
+          {
+            "word": "Furthermore",
+            "pinyin": "/ˌfɜːrðərˈmɔːr/",
+            "meaning": "Hơn nữa, thêm vào đó",
+            "example": "The method is cost-effective; furthermore, it produces minimal waste.",
+            "example_vi": "Phương pháp này tiết kiệm chi phí; hơn nữa, nó tạo ra rác thải tối thiểu.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "Nevertheless",
+            "pinyin": "/ˌnevərðəˈles/",
+            "meaning": "Mặc dù vậy, tuy nhiên",
+            "example": "The sample size was small; nevertheless, the results were statistically significant.",
+            "example_vi": "Cỡ mẫu nhỏ; mặc dù vậy, kết quả có ý nghĩa thống kê.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "Notwithstanding",
+            "pinyin": "/ˌnɒtwɪθˈstændɪŋ/",
+            "meaning": "Mặc dù, bất chấp (trang trọng hơn despite)",
+            "example": "Notwithstanding these limitations, the study offers valuable insights.",
+            "example_vi": "Mặc dù có những hạn chế này, nghiên cứu vẫn cung cấp những hiểu biết có giá trị.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "Hitherto",
+            "pinyin": "/ˌhɪðəˈtuː/",
+            "meaning": "Cho đến nay, trước đây (dùng trong văn viết)",
+            "example": "This phenomenon has hitherto received little scholarly attention.",
+            "example_vi": "Hiện tượng này cho đến nay hầu như chưa nhận được sự chú ý của học thuật.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "Insofar as",
+            "pinyin": "/ɪnˌsəʊˈfɑːr æz/",
+            "meaning": "Trong chừng mực mà",
+            "example": "Insofar as the evidence permits, we may conclude that treatment was effective.",
+            "example_vi": "Trong chừng mực bằng chứng cho phép, chúng ta có thể kết luận rằng điều trị có hiệu quả.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "Vis-à-vis",
+            "pinyin": "/ˌviːz ə ˈviː/",
+            "meaning": "So sánh với, liên quan đến",
+            "example": "This approach is more efficient vis-à-vis traditional methods.",
+            "example_vi": "Cách tiếp cận này hiệu quả hơn so với các phương pháp truyền thống.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "Inasmuch as",
+            "pinyin": "/ˌɪnəzˈmʌtʃ æz/",
+            "meaning": "Bởi vì, trong chừng mực (lý do trang trọng)",
+            "example": "The policy was justified inasmuch as it protected public safety.",
+            "example_vi": "Chính sách được biện minh bởi vì nó bảo vệ an toàn công cộng.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "Albeit",
+            "pinyin": "/ɔːlˈbiːɪt/",
+            "meaning": "Mặc dù (nhượng bộ ngắn gọn)",
+            "example": "The results were promising, albeit inconclusive.",
+            "example_vi": "Kết quả đầy hứa hẹn, mặc dù chưa kết luận được.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "Conversely",
+            "pinyin": "/ˈkɒnvɜːrsli/",
+            "meaning": "Ngược lại, trái lại",
+            "example": "High motivation increases performance; conversely, low morale leads to decline.",
+            "example_vi": "Động lực cao tăng hiệu suất; ngược lại, tinh thần thấp dẫn đến suy giảm.",
+            "tags": [
+              "discourse"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Phân biệt Nevertheless, Nonetheless và However",
+            "explanation": "'Nevertheless' và 'nonetheless' đều có nghĩa 'mặc dù vậy' và mang tính trang trọng cao, thường bắt đầu mệnh đề mới hoặc câu mới. 'However' phổ biến hơn và linh hoạt hơn. Trong văn học thuật cấp cao, 'nevertheless' tạo ấn tượng mạnh hơn về sự tương phản mang tính kết luận.",
+            "examples": [
+              "The funding was limited. Nevertheless, the team achieved remarkable results. = Kinh phí bị hạn chế. Mặc dù vậy, nhóm đã đạt được kết quả đáng kể.",
+              "The model has limitations; nevertheless, it provides a useful framework. = Mô hình có những hạn chế; mặc dù vậy, nó cung cấp một khung hữu ích."
+            ]
+          },
+          {
+            "title": "Dùng Albeit và Notwithstanding",
+            "explanation": "'Albeit' dùng để thêm thông tin nhượng bộ ngắn gọn vào trong câu, không cần mệnh đề đầy đủ (albeit + adj/adverb phrase). 'Notwithstanding' có thể dùng như giới từ (notwithstanding + noun phrase) hoặc liên từ, mang nghĩa trang trọng hơn 'despite'.",
+            "examples": [
+              "The experiment yielded positive results, albeit with a small sample. = Thí nghiệm cho kết quả tích cực, mặc dù với mẫu nhỏ.",
+              "Notwithstanding the risks, the committee approved the plan. = Mặc dù có những rủi ro, ủy ban đã phê duyệt kế hoạch."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ nào phù hợp nhất để điền vào: 'The results were positive, ___ the limited sample size.'?",
+            "options": [
+              "furthermore",
+              "albeit",
+              "hitherto",
+              "conversely"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Từ 'hitherto' được dùng để chỉ điều gì?",
+            "options": [
+              "Sự tương phản",
+              "Kết quả không mong đợi",
+              "Thời gian trước đây / cho đến nay",
+              "So sánh hai thứ"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Nevertheless",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Hơn nữa",
+              "Mặc dù vậy",
+              "Ngược lại",
+              "Trong chừng mực"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Notwithstanding",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Hơn nữa, thêm vào đó",
+              "Mặc dù, bất chấp",
+              "So sánh với",
+              "Bởi vì (trang trọng)"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: '___ these challenges, the project was completed on time.' (Mặc dù trang trọng)",
+            "options": [
+              "Notwithstanding",
+              "Furthermore",
+              "Conversely",
+              "Hitherto"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là 'mặc dù' (ngắn gọn, trang trọng, dùng giữa câu, 6 chữ cái):",
+            "options": [
+              "Albeit"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 6: Professional Communication",
+      "type": "vocabulary",
+      "xp": 35,
+      "min": 15,
+      "order": 6,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Từ vựng giao tiếp chuyên nghiệp là công cụ không thể thiếu trong môi trường kinh doanh quốc tế. Những từ như 'leverage', 'synergy', 'stakeholder' xuất hiện thường xuyên trong cuộc họp, báo cáo và thư từ doanh nghiệp.",
+        "vocabulary": [
+          {
+            "word": "Negotiate",
+            "pinyin": "/nɪˈɡəʊʃieɪt/",
+            "meaning": "Đàm phán, thương lượng",
+            "example": "Both parties negotiated the contract terms over several weeks.",
+            "example_vi": "Cả hai bên đàm phán các điều khoản hợp đồng trong vài tuần.",
+            "tags": [
+              "professional"
+            ]
+          },
+          {
+            "word": "Facilitate",
+            "pinyin": "/fəˈsɪlɪteɪt/",
+            "meaning": "Tạo điều kiện, thúc đẩy",
+            "example": "The manager facilitated an open dialogue between departments.",
+            "example_vi": "Người quản lý tạo điều kiện cho cuộc đối thoại mở giữa các phòng ban.",
+            "tags": [
+              "professional"
+            ]
+          },
+          {
+            "word": "Liaise",
+            "pinyin": "/liˈeɪz/",
+            "meaning": "Liên lạc, phối hợp giữa các bộ phận",
+            "example": "She liaises with the marketing team to ensure brand consistency.",
+            "example_vi": "Cô ấy phối hợp với nhóm tiếp thị để đảm bảo sự nhất quán thương hiệu.",
+            "tags": [
+              "professional"
+            ]
+          },
+          {
+            "word": "Delegate",
+            "pinyin": "/ˈdelɪɡeɪt/",
+            "meaning": "Ủy quyền, giao nhiệm vụ",
+            "example": "Effective leaders delegate tasks according to team strengths.",
+            "example_vi": "Các nhà lãnh đạo hiệu quả ủy quyền công việc theo thế mạnh của nhóm.",
+            "tags": [
+              "professional"
+            ]
+          },
+          {
+            "word": "Streamline",
+            "pinyin": "/ˈstriːmlaɪn/",
+            "meaning": "Hợp lý hóa, làm đơn giản và hiệu quả hơn",
+            "example": "The new software streamlined the invoicing process significantly.",
+            "example_vi": "Phần mềm mới đã hợp lý hóa quy trình lập hóa đơn đáng kể.",
+            "tags": [
+              "professional"
+            ]
+          },
+          {
+            "word": "Leverage",
+            "pinyin": "/ˈliːvərɪdʒ/",
+            "meaning": "Tận dụng, sử dụng để đạt lợi thế",
+            "example": "The company leveraged its data analytics capability to gain market share.",
+            "example_vi": "Công ty tận dụng năng lực phân tích dữ liệu để giành thị phần.",
+            "tags": [
+              "professional"
+            ]
+          },
+          {
+            "word": "Synergy",
+            "pinyin": "/ˈsɪnərdʒi/",
+            "meaning": "Sức mạnh cộng hưởng, hiệp lực",
+            "example": "The merger created synergy between the two complementary businesses.",
+            "example_vi": "Vụ sáp nhập tạo ra sức mạnh cộng hưởng giữa hai doanh nghiệp bổ trợ nhau.",
+            "tags": [
+              "professional"
+            ]
+          },
+          {
+            "word": "Stakeholder",
+            "pinyin": "/ˈsteɪkhəʊldər/",
+            "meaning": "Các bên liên quan, bên có lợi ích",
+            "example": "All stakeholders were consulted before the policy was implemented.",
+            "example_vi": "Tất cả các bên liên quan đều được tham khảo trước khi chính sách được thực hiện.",
+            "tags": [
+              "professional"
+            ]
+          },
+          {
+            "word": "Deliverable",
+            "pinyin": "/dɪˈlɪvərəbl/",
+            "meaning": "Kết quả đầu ra cụ thể, sản phẩm bàn giao",
+            "example": "The project plan outlined key deliverables and their deadlines.",
+            "example_vi": "Kế hoạch dự án phác thảo các kết quả đầu ra chính và thời hạn của chúng.",
+            "tags": [
+              "professional"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Danh từ vs. Động từ trong từ vựng chuyên nghiệp",
+            "explanation": "Nhiều từ vựng chuyên nghiệp có thể dùng cả dạng danh từ và động từ. Ví dụ: 'leverage' (v: tận dụng / n: đòn bẩy), 'delegate' (v: ủy quyền / n: đại biểu), 'liaise' (v: phối hợp). Nắm vững cả hai dạng giúp linh hoạt hơn trong giao tiếp.",
+            "examples": [
+              "We need to leverage our resources. (v) / The leverage we have is significant. (n) = Chúng ta cần tận dụng nguồn lực. / Đòn bẩy chúng ta có là đáng kể.",
+              "Please delegate this task. (v) / The delegate presented the proposal. (n) = Hãy ủy thác nhiệm vụ này. / Đại biểu trình bày đề xuất."
+            ]
+          },
+          {
+            "title": "Collocations phổ biến trong giao tiếp doanh nghiệp",
+            "explanation": "Giao tiếp chuyên nghiệp có các cặp từ cố định (collocations) rất quan trọng. Học collocations giúp diễn đạt tự nhiên hơn: 'facilitate communication', 'leverage capabilities', 'engage stakeholders', 'streamline processes', 'negotiate terms'.",
+            "examples": [
+              "We must engage all relevant stakeholders in the consultation process. = Chúng ta phải thu hút tất cả các bên liên quan vào quá trình tham vấn.",
+              "The initiative will streamline internal processes and reduce overhead costs. = Sáng kiến này sẽ hợp lý hóa các quy trình nội bộ và giảm chi phí overhead."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ 'stakeholder' trong kinh doanh có nghĩa là gì?",
+            "options": [
+              "Người giữ cổ phiếu duy nhất",
+              "Các bên có lợi ích liên quan đến dự án/tổ chức",
+              "Người quản lý dự án",
+              "Nhà đầu tư tài chính"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Từ nào mô tả việc 'hợp lý hóa quy trình để tăng hiệu quả'?",
+            "options": [
+              "Delegate",
+              "Leverage",
+              "Streamline",
+              "Liaise"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Synergy",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Đàm phán",
+              "Ủy quyền",
+              "Sức mạnh cộng hưởng",
+              "Phối hợp liên lạc"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Facilitate",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Tận dụng lợi thế",
+              "Tạo điều kiện, thúc đẩy",
+              "Hợp lý hóa quy trình",
+              "Kết quả bàn giao"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: 'The new platform will ___ communication between remote teams.' (tạo điều kiện)",
+            "options": [
+              "facilitate",
+              "delegate",
+              "negotiate",
+              "postulate"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh có nghĩa là 'tận dụng để đạt lợi thế' (trong kinh doanh):",
+            "options": [
+              "Leverage"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    }
+  ],
+  "englishC2Lessons": [
+    {
+      "title": "Lesson 1: Literary Devices",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 20,
+      "order": 1,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Các biện pháp tu từ văn học là ngôn ngữ của nghệ thuật. Từ ẩn dụ đến điệp âm, từ nhân cách hóa đến ngoa dụ — hiểu và nhận biết chúng trong văn bản là dấu hiệu của người đọc thành thạo cấp độ C2.",
+        "vocabulary": [
+          {
+            "word": "Metaphor",
+            "pinyin": "/ˈmetəfər/",
+            "meaning": "Ẩn dụ (so sánh ngầm không dùng 'like/as')",
+            "example": "Time is a thief that steals our years.",
+            "example_vi": "Thời gian là tên trộm đánh cắp những năm tháng của chúng ta.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Simile",
+            "pinyin": "/ˈsɪmɪli/",
+            "meaning": "So sánh (dùng 'like' hoặc 'as')",
+            "example": "Her voice was as smooth as velvet.",
+            "example_vi": "Giọng cô ấy mượt mà như nhung.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Personification",
+            "pinyin": "/pərˌsɒnɪfɪˈkeɪʃn/",
+            "meaning": "Nhân cách hóa",
+            "example": "The wind whispered secrets through the ancient trees.",
+            "example_vi": "Gió thì thầm những bí mật qua những cây cổ thụ.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Hyperbole",
+            "pinyin": "/haɪˈpɜːrbəli/",
+            "meaning": "Ngoa dụ, phóng đại",
+            "example": "I have told you a million times to close the door.",
+            "example_vi": "Tôi đã nói với bạn cả triệu lần là đóng cửa lại.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Irony",
+            "pinyin": "/ˈaɪərəni/",
+            "meaning": "Mỉa mai, nghịch lý",
+            "example": "How ironic that the fire station burned down.",
+            "example_vi": "Thật mỉa mai khi trạm cứu hỏa lại bị cháy.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Allegory",
+            "pinyin": "/ˈæləɡɔːri/",
+            "meaning": "Ngụ ngôn, truyện ngụ ý",
+            "example": "Orwell's 'Animal Farm' is an allegory for totalitarianism.",
+            "example_vi": "'Trại súc vật' của Orwell là một ngụ ngôn về chủ nghĩa toàn trị.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Alliteration",
+            "pinyin": "/əˌlɪtəˈreɪʃn/",
+            "meaning": "Điệp âm đầu",
+            "example": "Peter Piper picked a peck of pickled peppers.",
+            "example_vi": "Peter Piper hái một phần tiêu muối chua (câu chứa điệp âm /p/).",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Onomatopoeia",
+            "pinyin": "/ˌɒnəˌmætəˈpiːə/",
+            "meaning": "Từ tượng thanh",
+            "example": "The bees buzzed around the blooming flowers.",
+            "example_vi": "Những con ong kêu vù vù quanh những bông hoa đang nở.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Foreshadowing",
+            "pinyin": "/fɔːrˈʃædəʊɪŋ/",
+            "meaning": "Báo hiệu trước, tạo sự dự báo",
+            "example": "The dark clouds foreshadowed the tragedy to come.",
+            "example_vi": "Những đám mây đen báo hiệu thảm kịch sắp xảy ra.",
+            "tags": [
+              "literary"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Ẩn dụ (Metaphor) vs. So sánh (Simile)",
+            "explanation": "Cả ẩn dụ và so sánh đều liên kết hai ý niệm khác nhau, nhưng so sánh dùng 'like' hoặc 'as' để làm rõ sự liên kết, trong khi ẩn dụ khẳng định trực tiếp. Ẩn dụ mạnh và súc tích hơn; so sánh nhẹ nhàng và gần gũi hơn. C2 đòi hỏi nhận biết cả hai và hiểu hiệu ứng tu từ khác nhau.",
+            "examples": [
+              "Simile: Her smile was like sunshine on a winter morning. = Nụ cười của cô ấy như ánh nắng buổi sáng mùa đông.",
+              "Metaphor: Her smile was sunshine on a winter morning. = Nụ cười của cô ấy là ánh nắng buổi sáng mùa đông."
+            ]
+          },
+          {
+            "title": "Nhận biết và phân tích biện pháp tu từ trong văn bản",
+            "explanation": "Khi phân tích văn học ở cấp C2, không chỉ nhận biết biện pháp tu từ mà còn phải giải thích tác dụng: 'The use of personification here creates a sense of...' / 'This hyperbole emphasizes...' / 'The irony underscores...'",
+            "examples": [
+              "The use of alliteration in 'breaking barriers' creates a rhythmic momentum. = Việc dùng điệp âm trong 'breaking barriers' tạo ra đà nhịp điệu.",
+              "The allegory allows Orwell to critique political systems indirectly. = Ngụ ngôn cho phép Orwell phê phán hệ thống chính trị một cách gián tiếp."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Câu 'The moon smiled down upon the sleeping city' sử dụng biện pháp tu từ nào?",
+            "options": [
+              "Hyperbole",
+              "Allegory",
+              "Personification",
+              "Alliteration"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Điểm khác nhau chính giữa metaphor và simile là gì?",
+            "options": [
+              "Simile dùng trong văn xuôi, metaphor dùng trong thơ",
+              "Metaphor so sánh trực tiếp, simile dùng 'like/as'",
+              "Metaphor dùng 'like/as', simile so sánh trực tiếp",
+              "Không có sự khác biệt"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Allegory",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Điệp âm đầu",
+              "Ngoa dụ",
+              "Từ tượng thanh",
+              "Ngụ ngôn, truyện ngụ ý"
+            ],
+            "ans": 3
+          },
+          {
+            "type": "listen",
+            "word": "Onomatopoeia",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Ẩn dụ",
+              "Từ tượng thanh",
+              "So sánh",
+              "Nhân cách hóa"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: 'The bees ___ lazily in the summer heat.' (từ tượng thanh, âm thanh của ong)",
+            "options": [
+              "buzzed",
+              "sang",
+              "talked",
+              "walked"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập tên biện pháp tu từ: 'The wind whispered' — gió được gán hành động của con người:",
+            "options": [
+              "Personification"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 2: Rhetoric & Persuasion",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 20,
+      "order": 2,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Nghệ thuật tu từ là nền tảng của mọi diễn văn thuyết phục từ thời Aristotle. Hiểu ethos, pathos, logos cùng các kỹ thuật như anaphora, antithesis, chiasmus giúp bạn phân tích và tạo ra những bài nói/viết có sức mạnh thuyết phục tối đa.",
+        "vocabulary": [
+          {
+            "word": "Ethos",
+            "pinyin": "/ˈiːθɒs/",
+            "meaning": "Tín nhiệm / Lý lẽ uy tín (uy quyền của người nói)",
+            "example": "As a Nobel laureate, her ethos on climate science is unassailable.",
+            "example_vi": "Với tư cách là người đoạt giải Nobel, uy tín của bà về khoa học khí hậu là không thể phủ nhận.",
+            "tags": [
+              "rhetoric"
+            ]
+          },
+          {
+            "word": "Pathos",
+            "pinyin": "/ˈpeɪθɒs/",
+            "meaning": "Cảm xúc / Lý lẽ cảm xúc",
+            "example": "The charity used images of suffering children to evoke pathos in donors.",
+            "example_vi": "Tổ chức từ thiện dùng hình ảnh trẻ em đau khổ để khơi gợi cảm xúc ở người quyên góp.",
+            "tags": [
+              "rhetoric"
+            ]
+          },
+          {
+            "word": "Logos",
+            "pinyin": "/ˈlɒɡɒs/",
+            "meaning": "Lý lẽ / Lý lẽ logic và dữ liệu",
+            "example": "The lawyer built his case on logos, citing statistics and expert testimony.",
+            "example_vi": "Luật sư xây dựng vụ kiện dựa trên lý lẽ, dẫn chứng thống kê và lời chuyên gia.",
+            "tags": [
+              "rhetoric"
+            ]
+          },
+          {
+            "word": "Anaphora",
+            "pinyin": "/əˈnæfərə/",
+            "meaning": "Điệp ngữ đầu (lặp đầu câu)",
+            "example": "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields.",
+            "example_vi": "Chúng ta sẽ chiến đấu trên bãi biển, chúng ta sẽ chiến đấu trên bãi đổ bộ, chúng ta sẽ chiến đấu trên cánh đồng.",
+            "tags": [
+              "rhetoric"
+            ]
+          },
+          {
+            "word": "Antithesis",
+            "pinyin": "/ænˈtɪθəsɪs/",
+            "meaning": "Đối lập, phản đề",
+            "example": "It was the best of times, it was the worst of times.",
+            "example_vi": "Đó là thời đại tốt nhất, đó là thời đại tệ nhất.",
+            "tags": [
+              "rhetoric"
+            ]
+          },
+          {
+            "word": "Chiasmus",
+            "pinyin": "/kaɪˈæzməs/",
+            "meaning": "Đảo kết cấu câu (A-B / B-A)",
+            "example": "Ask not what your country can do for you — ask what you can do for your country.",
+            "example_vi": "Đừng hỏi đất nước có thể làm gì cho bạn — hãy hỏi bạn có thể làm gì cho đất nước.",
+            "tags": [
+              "rhetoric"
+            ]
+          },
+          {
+            "word": "Rhetorical question",
+            "pinyin": "/rɪˈtɒrɪkl ˈkwestʃən/",
+            "meaning": "Câu hỏi tu từ (không cần trả lời)",
+            "example": "Is this the kind of society we want to leave for our children?",
+            "example_vi": "Đây có phải là xã hội chúng ta muốn để lại cho con cái không?",
+            "tags": [
+              "rhetoric"
+            ]
+          },
+          {
+            "word": "Parallelism",
+            "pinyin": "/ˈpærəlelɪzəm/",
+            "meaning": "Phép song song (cấu trúc ngữ pháp đồng dạng)",
+            "example": "I came, I saw, I conquered.",
+            "example_vi": "Tôi đến, tôi thấy, tôi chinh phục.",
+            "tags": [
+              "rhetoric"
+            ]
+          },
+          {
+            "word": "Epiphora",
+            "pinyin": "/ɪˈpɪfərə/",
+            "meaning": "Điệp ngữ cuối (lặp cuối câu)",
+            "example": "Government of the people, by the people, for the people.",
+            "example_vi": "Chính phủ của nhân dân, bởi nhân dân, vì nhân dân.",
+            "tags": [
+              "rhetoric"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Tam giác tu từ: Ethos – Pathos – Logos (Aristotle)",
+            "explanation": "Aristotle xác định ba phương thức thuyết phục: Ethos (uy tín của người nói), Pathos (kết nối cảm xúc với khán giả), Logos (lập luận logic và bằng chứng). Bài diễn thuyết hiệu quả thường kết hợp cả ba. Phân tích tu từ ở C2 đòi hỏi nhận biết ba yếu tố này và đánh giá hiệu quả của chúng.",
+            "examples": [
+              "Ethos: 'As a doctor with 20 years' experience, I urge caution.' = 'Với tư cách là bác sĩ 20 năm kinh nghiệm, tôi kêu gọi thận trọng.'",
+              "Pathos: 'Think of the children who will suffer if we fail to act.' = 'Hãy nghĩ đến những đứa trẻ sẽ chịu đựng nếu chúng ta không hành động.'",
+              "Logos: 'Studies show that 73% of cases improve with early intervention.' = 'Các nghiên cứu cho thấy 73% trường hợp cải thiện khi can thiệp sớm.'"
+            ]
+          },
+          {
+            "title": "Chiasmus và Antithesis — Đối lập nâng cao",
+            "explanation": "Antithesis đặt hai ý trái ngược nhau song song để làm nổi bật sự tương phản. Chiasmus đảo ngược cấu trúc ngữ pháp của hai mệnh đề liên tiếp (A-B / B-A). Cả hai tạo nhịp điệu và làm câu đáng nhớ. Kennedy, Churchill và Lincoln đều sử dụng thành thạo hai kỹ thuật này.",
+            "examples": [
+              "Antithesis: 'Speech is silver, but silence is golden.' = 'Lời nói là bạc, nhưng im lặng là vàng.'",
+              "Chiasmus: 'Fair is foul, and foul is fair.' (Shakespeare) = 'Đẹp là xấu, và xấu là đẹp.'"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Trong tu từ học, 'pathos' liên quan đến yếu tố nào?",
+            "options": [
+              "Uy tín của người nói",
+              "Lập luận logic",
+              "Kết nối cảm xúc với khán giả",
+              "Câu hỏi không cần trả lời"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Câu 'Ask not what your country can do for you — ask what you can do for your country' là ví dụ của?",
+            "options": [
+              "Anaphora",
+              "Chiasmus",
+              "Epiphora",
+              "Antithesis"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Ethos",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Lý lẽ cảm xúc",
+              "Tín nhiệm / Uy quyền của người nói",
+              "Lập luận logic",
+              "Câu hỏi tu từ"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Anaphora",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Phép song song",
+              "Điệp ngữ đầu câu",
+              "Điệp ngữ cuối câu",
+              "Đảo kết cấu"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: 'It was the best of times, it was the ___ of times.' (Dickens — phép đối lập)",
+            "options": [
+              "worst",
+              "last",
+              "first",
+              "greatest"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập thuật ngữ tu từ học: Lặp lại cụm từ ở ĐẦU các câu liên tiếp (như 'We shall fight...'):",
+            "options": [
+              "Anaphora"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 3: Philosophical Language",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 20,
+      "order": 3,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Ngôn ngữ triết học là công cụ tư duy trừu tượng bậc cao. Những khái niệm như 'epistemology', 'ontology', 'dialectic' không chỉ xuất hiện trong sách triết học mà còn trong tranh luận học thuật, luận văn và diễn thuyết học thuật cấp C2.",
+        "vocabulary": [
+          {
+            "word": "Epistemology",
+            "pinyin": "/ɪˌpɪstɪˈmɒlədʒi/",
+            "meaning": "Nhận thức luận (nghiên cứu về tri thức)",
+            "example": "Epistemology asks: how do we know what we know?",
+            "example_vi": "Nhận thức luận hỏi: làm thế nào chúng ta biết những gì chúng ta biết?",
+            "tags": [
+              "philosophy"
+            ]
+          },
+          {
+            "word": "Ontology",
+            "pinyin": "/ɒnˈtɒlədʒi/",
+            "meaning": "Bản thể luận (nghiên cứu về sự tồn tại)",
+            "example": "The ontological question 'Why is there something rather than nothing?' remains unresolved.",
+            "example_vi": "Câu hỏi bản thể học 'Tại sao có thứ gì đó thay vì không có gì?' vẫn chưa được giải quyết.",
+            "tags": [
+              "philosophy"
+            ]
+          },
+          {
+            "word": "Empiricism",
+            "pinyin": "/ɪmˈpɪrɪsɪzəm/",
+            "meaning": "Chủ nghĩa kinh nghiệm (tri thức từ cảm giác)",
+            "example": "Empiricism holds that all knowledge derives from sensory experience.",
+            "example_vi": "Chủ nghĩa kinh nghiệm cho rằng mọi tri thức đều bắt nguồn từ kinh nghiệm cảm giác.",
+            "tags": [
+              "philosophy"
+            ]
+          },
+          {
+            "word": "Rationalism",
+            "pinyin": "/ˈræʃənəlɪzəm/",
+            "meaning": "Chủ nghĩa duy lý (tri thức từ lý trí)",
+            "example": "Descartes championed rationalism with his famous 'I think, therefore I am.'",
+            "example_vi": "Descartes đề cao chủ nghĩa duy lý với câu nổi tiếng 'Tôi suy nghĩ, vậy tôi tồn tại.'",
+            "tags": [
+              "philosophy"
+            ]
+          },
+          {
+            "word": "Pragmatism",
+            "pinyin": "/ˈpræɡmətɪzəm/",
+            "meaning": "Chủ nghĩa thực dụng (chân lý qua hành động)",
+            "example": "James's pragmatism judges ideas by their practical consequences.",
+            "example_vi": "Chủ nghĩa thực dụng của James đánh giá ý tưởng qua hậu quả thực tế của chúng.",
+            "tags": [
+              "philosophy"
+            ]
+          },
+          {
+            "word": "Dialectic",
+            "pinyin": "/ˌdaɪəˈlektɪk/",
+            "meaning": "Biện chứng pháp (thesis–antithesis–synthesis)",
+            "example": "Hegel's dialectic proposes that contradictions drive historical progress.",
+            "example_vi": "Biện chứng pháp của Hegel đề xuất rằng mâu thuẫn thúc đẩy tiến bộ lịch sử.",
+            "tags": [
+              "philosophy"
+            ]
+          },
+          {
+            "word": "Axiom",
+            "pinyin": "/ˈæksiəm/",
+            "meaning": "Tiên đề, chân lý hiển nhiên không cần chứng minh",
+            "example": "Euclid's axioms form the foundation of classical geometry.",
+            "example_vi": "Các tiên đề của Euclid tạo thành nền tảng của hình học cổ điển.",
+            "tags": [
+              "philosophy"
+            ]
+          },
+          {
+            "word": "Inference",
+            "pinyin": "/ˈɪnfərəns/",
+            "meaning": "Suy luận, kết luận từ bằng chứng/tiền đề",
+            "example": "The detective drew a logical inference from the available evidence.",
+            "example_vi": "Thám tử đưa ra suy luận logic từ bằng chứng hiện có.",
+            "tags": [
+              "philosophy"
+            ]
+          },
+          {
+            "word": "Phenomenology",
+            "pinyin": "/fɪˌnɒmɪˈnɒlədʒi/",
+            "meaning": "Hiện tượng học (nghiên cứu trải nghiệm ý thức)",
+            "example": "Husserl's phenomenology focuses on structures of consciousness.",
+            "example_vi": "Hiện tượng học của Husserl tập trung vào cấu trúc của ý thức.",
+            "tags": [
+              "philosophy"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Phân biệt Epistemology và Ontology",
+            "explanation": "Đây là hai nhánh triết học cơ bản thường bị nhầm lẫn. Epistemology hỏi: 'Tri thức là gì? Chúng ta biết thế nào?' — liên quan đến bản chất và giới hạn của tri thức. Ontology hỏi: 'Thực tại là gì? Cái gì tồn tại?' — liên quan đến bản chất của sự tồn tại. Ví dụ: câu hỏi về AI consciousness là vừa ontological (AI có thực sự tồn tại như thực thể?) vừa epistemological (AI có thể 'biết' theo nghĩa nhận thức không?).",
+            "examples": [
+              "Epistemological: Can we truly know objective reality? = Chúng ta có thực sự biết thực tại khách quan không?",
+              "Ontological: Does consciousness exist independently of the brain? = Ý thức có tồn tại độc lập với não không?"
+            ]
+          },
+          {
+            "title": "Biện chứng pháp Hegel: Thesis – Antithesis – Synthesis",
+            "explanation": "Biện chứng pháp (dialectic) của Hegel mô tả sự tiến bộ qua mâu thuẫn: một luận điểm (thesis) gặp phản luận điểm (antithesis) và tạo ra tổng hợp (synthesis) ở cấp độ cao hơn. Mô hình này ảnh hưởng sâu sắc đến triết học, lịch sử và khoa học xã hội.",
+            "examples": [
+              "Thesis: 'All wealth should be privately owned.' vs Antithesis: 'All wealth should be collectively owned.' → Synthesis: 'Mixed economy with regulated markets.' = Luận điểm: sở hữu tư nhân → Phản luận: sở hữu tập thể → Tổng hợp: kinh tế hỗn hợp.",
+              "The dialectical method reveals contradictions rather than avoiding them. = Phương pháp biện chứng hé lộ các mâu thuẫn thay vì né tránh chúng."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Nhánh triết học nào nghiên cứu về 'bản chất của tri thức và cách chúng ta biết'?",
+            "options": [
+              "Ontology",
+              "Pragmatism",
+              "Epistemology",
+              "Empiricism"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Chủ nghĩa nào cho rằng 'tri thức bắt nguồn từ kinh nghiệm cảm giác'?",
+            "options": [
+              "Rationalism",
+              "Empiricism",
+              "Pragmatism",
+              "Dialectic"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Dialectic",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Tiên đề triết học",
+              "Biện chứng pháp",
+              "Chủ nghĩa thực dụng",
+              "Nhận thức luận"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Axiom",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Suy luận logic",
+              "Bản thể luận",
+              "Tiên đề không cần chứng minh",
+              "Hiện tượng học"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: '___ holds that knowledge comes from reason, not sensory experience.' (Chủ nghĩa duy lý)",
+            "options": [
+              "Rationalism",
+              "Empiricism",
+              "Pragmatism",
+              "Ontology"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập thuật ngữ triết học: Nghiên cứu về bản chất của SỰ TỒN TẠI (không phải tri thức):",
+            "options": [
+              "Ontology"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 4: Classical & Literary Vocabulary",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 20,
+      "order": 4,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Từ vựng cổ điển và văn học bắt nguồn từ bi kịch Hy Lạp và văn học thế giới. Những khái niệm như 'hubris', 'catharsis', 'hamartia' không chỉ mô tả kỹ thuật kể chuyện mà còn phản ánh những sự thật sâu sắc về bản chất con người.",
+        "vocabulary": [
+          {
+            "word": "Soliloquy",
+            "pinyin": "/səˈlɪləkwi/",
+            "meaning": "Độc thoại nội tâm (nhân vật nói một mình)",
+            "example": "Hamlet's 'To be or not to be' is the most famous soliloquy in literature.",
+            "example_vi": "'Tồn tại hay không tồn tại' của Hamlet là độc thoại nổi tiếng nhất trong văn học.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Euphemism",
+            "pinyin": "/ˈjuːfəmɪzəm/",
+            "meaning": "Lối nói tránh, nói giảm nói tránh",
+            "example": "'Passed away' is a euphemism for 'died'.",
+            "example_vi": "'Ra đi' là cách nói giảm nói tránh cho 'qua đời'.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Catharsis",
+            "pinyin": "/kəˈθɑːrsɪs/",
+            "meaning": "Thanh lọc cảm xúc (qua trải nghiệm nghệ thuật)",
+            "example": "Aristotle argued that tragedy produces catharsis in the audience.",
+            "example_vi": "Aristotle lập luận rằng bi kịch tạo ra sự thanh lọc cảm xúc trong khán giả.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Denouement",
+            "pinyin": "/deɪˈnuːmɒ̃/",
+            "meaning": "Cởi nút, phần kết của câu chuyện",
+            "example": "The denouement of the novel revealed the killer's true identity.",
+            "example_vi": "Phần kết của tiểu thuyết tiết lộ danh tính thật của kẻ giết người.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Hubris",
+            "pinyin": "/ˈhjuːbrɪs/",
+            "meaning": "Kiêu ngạo thái quá dẫn đến diệt vong",
+            "example": "Macbeth's hubris in believing himself invincible led to his downfall.",
+            "example_vi": "Sự kiêu ngạo của Macbeth khi tin rằng mình bất bại dẫn đến sự sụp đổ.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Nemesis",
+            "pinyin": "/ˈneməsɪs/",
+            "meaning": "Sự báo ứng, trừng phạt tất yếu",
+            "example": "The detective became the criminal's nemesis, dogging his every move.",
+            "example_vi": "Thám tử trở thành sự báo ứng của tên tội phạm, theo dõi từng bước.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Peripeteia",
+            "pinyin": "/ˌperɪpɪˈtiːə/",
+            "meaning": "Bước ngoặt đột ngột (đảo ngược tình huống)",
+            "example": "The peripeteia in Oedipus Rex occurs when he learns his true identity.",
+            "example_vi": "Bước ngoặt trong Oedipus Rex xảy ra khi anh ta biết được danh tính thật.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Hamartia",
+            "pinyin": "/ˌhæmɑːrˈtaɪə/",
+            "meaning": "Lỗi bi kịch, khuyết điểm chí mạng của anh hùng",
+            "example": "Othello's hamartia is his jealousy, which Iago exploits to devastating effect.",
+            "example_vi": "Lỗi bi kịch của Othello là lòng ghen tuông, điều mà Iago khai thác với tác động tàn phá.",
+            "tags": [
+              "literary"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc bi kịch Aristotle — Các yếu tố thiết yếu",
+            "explanation": "Aristotle trong 'Poetics' xác định các yếu tố bi kịch Hy Lạp cổ điển: Hamartia (lỗi bi kịch của nhân vật chính), Hubris (kiêu ngạo thái quá), Peripeteia (bước ngoặt), Anagnorisis (nhận ra sự thật), Nemesis (báo ứng), và Catharsis (thanh lọc cảm xúc khán giả). Hiểu cấu trúc này giúp phân tích mọi tác phẩm bi kịch.",
+            "examples": [
+              "Shakespeare's tragedies follow Aristotle's structure: Macbeth's hamartia is ambition; his hubris leads to peripeteia. = Bi kịch Shakespeare theo cấu trúc Aristotle: lỗi bi kịch của Macbeth là tham vọng; kiêu ngạo dẫn đến bước ngoặt.",
+              "The catharsis at the end of King Lear is achieved through profound suffering and loss. = Sự thanh lọc cảm xúc cuối King Lear đạt được qua nỗi đau khổ và mất mát sâu sắc."
+            ]
+          },
+          {
+            "title": "Euphemism — Tác dụng ngôn ngữ và xã hội",
+            "explanation": "Euphemism không chỉ là kỹ thuật văn học mà còn là hiện tượng ngôn ngữ xã hội quan trọng. Người ta dùng euphemism để giảm nhẹ các chủ đề nhạy cảm (chết, sa thải, chiến tranh). Tuy nhiên, trong phân tích phê phán, euphemism có thể che giấu sự thật và thao túng nhận thức — đây là chủ đề quan trọng trong tu từ học và phân tích diễn ngôn chính trị.",
+            "examples": [
+              "'Collateral damage' is a military euphemism for civilian casualties. = 'Thiệt hại phụ' là cách nói tránh quân sự cho thương vong dân thường.",
+              "'Let go' or 'restructured' are corporate euphemisms for firing employees. = 'Cho đi' hay 'tái cơ cấu' là cách nói tránh của doanh nghiệp để sa thải nhân viên."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Trong bi kịch Hy Lạp, 'hubris' đề cập đến điều gì?",
+            "options": [
+              "Sự tha thứ và chuộc lỗi",
+              "Nhận ra sự thật bất ngờ",
+              "Kiêu ngạo thái quá dẫn đến diệt vong",
+              "Thanh lọc cảm xúc khán giả"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "'Hamartia' của một nhân vật bi kịch là gì?",
+            "options": [
+              "Sức mạnh siêu nhiên của họ",
+              "Lỗi bi kịch chí mạng của họ",
+              "Bước ngoặt trong câu chuyện",
+              "Phần kết của câu chuyện"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Catharsis",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Lỗi bi kịch",
+              "Kiêu ngạo thái quá",
+              "Thanh lọc cảm xúc qua nghệ thuật",
+              "Bước ngoặt đột ngột"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Denouement",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Độc thoại nội tâm",
+              "Cởi nút, phần kết câu chuyện",
+              "Lỗi bi kịch của anh hùng",
+              "Báo ứng tất yếu"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: 'Hamlet's famous ___ begins with \"To be or not to be\".' (độc thoại nội tâm)",
+            "options": [
+              "soliloquy",
+              "euphemism",
+              "denouement",
+              "catharsis"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ gốc Hy Lạp chỉ 'sự báo ứng tất yếu, trừng phạt không tránh khỏi':",
+            "options": [
+              "Nemesis"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 5: Research & Academic Precision",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 20,
+      "order": 5,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Từ vựng nghiên cứu học thuật là ngôn ngữ của khoa học quốc tế. Những thuật ngữ như 'methodology', 'paradigm', 'peer-reviewed', 'empirical' xuất hiện trong mọi bài báo khoa học và là điều kiện bắt buộc để đọc và viết học thuật ở trình độ C2.",
+        "vocabulary": [
+          {
+            "word": "Methodology",
+            "pinyin": "/ˌmeθəˈdɒlədʒi/",
+            "meaning": "Phương pháp luận (hệ thống các phương pháp)",
+            "example": "The study's methodology included both surveys and in-depth interviews.",
+            "example_vi": "Phương pháp luận của nghiên cứu bao gồm cả khảo sát và phỏng vấn chuyên sâu.",
+            "tags": [
+              "research"
+            ]
+          },
+          {
+            "word": "Paradigm",
+            "pinyin": "/ˈpærədaɪm/",
+            "meaning": "Mô hình tư duy, khuôn khổ lý thuyết",
+            "example": "Kuhn argued that science advances through paradigm shifts.",
+            "example_vi": "Kuhn lập luận rằng khoa học tiến bộ thông qua những sự thay đổi mô hình tư duy.",
+            "tags": [
+              "research"
+            ]
+          },
+          {
+            "word": "Hypothesis",
+            "pinyin": "/haɪˈpɒθəsɪs/",
+            "meaning": "Giả thuyết (cần được kiểm chứng)",
+            "example": "The null hypothesis states that there is no significant difference between groups.",
+            "example_vi": "Giả thuyết không (null hypothesis) phát biểu rằng không có sự khác biệt đáng kể giữa các nhóm.",
+            "tags": [
+              "research"
+            ]
+          },
+          {
+            "word": "Empirical",
+            "pinyin": "/ɪmˈpɪrɪkl/",
+            "meaning": "Dựa trên bằng chứng thực nghiệm/quan sát",
+            "example": "Empirical evidence from controlled trials supported the treatment's efficacy.",
+            "example_vi": "Bằng chứng thực nghiệm từ các thử nghiệm có kiểm soát ủng hộ hiệu quả điều trị.",
+            "tags": [
+              "research"
+            ]
+          },
+          {
+            "word": "Qualitative",
+            "pinyin": "/ˈkwɒlɪtətɪv/",
+            "meaning": "Định tính (phi số liệu, dựa trên mô tả)",
+            "example": "Qualitative research explores participants' lived experiences in depth.",
+            "example_vi": "Nghiên cứu định tính khám phá sâu những trải nghiệm sống của người tham gia.",
+            "tags": [
+              "research"
+            ]
+          },
+          {
+            "word": "Quantitative",
+            "pinyin": "/ˈkwɒntɪtətɪv/",
+            "meaning": "Định lượng (dựa trên số liệu, đo lường)",
+            "example": "Quantitative analysis revealed a statistically significant correlation.",
+            "example_vi": "Phân tích định lượng cho thấy mối tương quan có ý nghĩa thống kê.",
+            "tags": [
+              "research"
+            ]
+          },
+          {
+            "word": "Synthesis",
+            "pinyin": "/ˈsɪnθəsɪs/",
+            "meaning": "Tổng hợp (kết hợp nhiều nguồn/ý kiến)",
+            "example": "The literature review provided a synthesis of existing research on the topic.",
+            "example_vi": "Tổng quan tài liệu cung cấp sự tổng hợp nghiên cứu hiện có về chủ đề này.",
+            "tags": [
+              "research"
+            ]
+          },
+          {
+            "word": "Peer-reviewed",
+            "pinyin": "/pɪər rɪˈvjuːd/",
+            "meaning": "Được bình duyệt (đánh giá bởi chuyên gia cùng ngành)",
+            "example": "Only peer-reviewed articles were included in the systematic review.",
+            "example_vi": "Chỉ các bài báo được bình duyệt mới được đưa vào trong đánh giá hệ thống.",
+            "tags": [
+              "research"
+            ]
+          },
+          {
+            "word": "Triangulation",
+            "pinyin": "/traɪˌæŋɡjʊˈleɪʃn/",
+            "meaning": "Tam giác hóa (kiểm chứng từ nhiều nguồn/phương pháp)",
+            "example": "Triangulation using multiple data sources strengthens the validity of findings.",
+            "example_vi": "Tam giác hóa sử dụng nhiều nguồn dữ liệu tăng cường tính hợp lệ của các phát hiện.",
+            "tags": [
+              "research"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Phân biệt Qualitative và Quantitative research",
+            "explanation": "Nghiên cứu định tính (qualitative) khám phá 'như thế nào' và 'tại sao' thông qua phỏng vấn, quan sát, phân tích văn bản — dữ liệu là lời nói, hình ảnh, chủ đề. Nghiên cứu định lượng (quantitative) trả lời 'bao nhiêu' thông qua số liệu, thống kê, thí nghiệm. Nghiên cứu hỗn hợp (mixed methods) kết hợp cả hai để có bức tranh toàn diện hơn.",
+            "examples": [
+              "Qualitative: 'How do employees experience remote work?' — answered through interviews. = 'Nhân viên trải nghiệm làm việc từ xa như thế nào?' — trả lời qua phỏng vấn.",
+              "Quantitative: 'Does remote work increase productivity by a measurable amount?' — answered through statistical analysis. = 'Làm việc từ xa có tăng năng suất theo lượng đo được không?' — trả lời qua phân tích thống kê."
+            ]
+          },
+          {
+            "title": "Paradigm shift (Thomas Kuhn) — Khái niệm then chốt",
+            "explanation": "Thomas Kuhn (1962) mô tả khoa học không tiến bộ tuyến tính mà qua những 'paradigm shifts' — khi hệ thống niềm tin khoa học cũ sụp đổ và được thay thế bởi một khung nhìn hoàn toàn mới. Ví dụ: từ địa tâm sang nhật tâm, từ Newton sang Einstein. Thuật ngữ 'paradigm' và 'paradigm shift' ngày nay được dùng rộng rãi trong mọi lĩnh vực học thuật.",
+            "examples": [
+              "The discovery of DNA structure represented a paradigm shift in biology. = Việc khám phá cấu trúc DNA là một sự thay đổi mô hình tư duy trong sinh học.",
+              "We are witnessing a paradigm shift in how we understand artificial intelligence. = Chúng ta đang chứng kiến sự thay đổi mô hình trong cách chúng ta hiểu trí tuệ nhân tạo."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Điều gì phân biệt nghiên cứu 'empirical' với các loại nghiên cứu khác?",
+            "options": [
+              "Nó chỉ dựa vào lý thuyết",
+              "Nó dựa trên bằng chứng từ quan sát và thực nghiệm",
+              "Nó chỉ sử dụng số liệu thống kê",
+              "Nó không cần hypothesis"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Thuật ngữ 'peer-reviewed' có nghĩa là gì?",
+            "options": [
+              "Đánh giá bởi sinh viên cùng lớp",
+              "Được kiểm tra bởi nhóm quản lý",
+              "Được bình duyệt bởi các chuyên gia cùng ngành",
+              "Xuất bản không qua kiểm duyệt"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Paradigm",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Giả thuyết cần kiểm chứng",
+              "Phương pháp luận",
+              "Mô hình tư duy, khuôn khổ lý thuyết",
+              "Tổng hợp nhiều nguồn"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Triangulation",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Đo góc địa lý",
+              "Kiểm chứng từ nhiều nguồn hoặc phương pháp",
+              "Phân tích thống kê ba biến",
+              "Nghiên cứu định tính"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: 'The researcher used a ___ approach, combining surveys and interviews.' (kết hợp định lượng và định tính)",
+            "options": [
+              "mixed methods",
+              "pure quantitative",
+              "theoretical only",
+              "peer-reviewed"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh chỉ 'sự tổng hợp' (kết hợp nhiều nguồn nghiên cứu thành một):",
+            "options": [
+              "Synthesis"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 6: Language & Stylistics Mastery",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 20,
+      "order": 6,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Phong cách học (stylistics) và ngôn ngữ học ứng dụng là đỉnh cao của việc hiểu ngôn ngữ. Những khái niệm như 'register', 'pragmatics', 'lexical density', 'cohesion' giúp bạn không chỉ dùng ngôn ngữ mà còn phân tích và kiểm soát hoàn toàn cách bạn giao tiếp.",
+        "vocabulary": [
+          {
+            "word": "Register",
+            "pinyin": "/ˈredʒɪstər/",
+            "meaning": "Phong cách ngôn ngữ theo ngữ cảnh (trang trọng/thân mật/chuyên ngành...)",
+            "example": "Medical professionals use a specialized register when communicating with colleagues.",
+            "example_vi": "Các chuyên gia y tế sử dụng phong cách ngôn ngữ chuyên biệt khi giao tiếp với đồng nghiệp.",
+            "tags": [
+              "stylistics"
+            ]
+          },
+          {
+            "word": "Pragmatics",
+            "pinyin": "/præɡˈmætɪks/",
+            "meaning": "Ngữ dụng học (nghiên cứu ý nghĩa trong ngữ cảnh)",
+            "example": "Pragmatics studies how context shapes the interpretation of utterances.",
+            "example_vi": "Ngữ dụng học nghiên cứu cách ngữ cảnh định hình việc giải thích các phát ngôn.",
+            "tags": [
+              "stylistics"
+            ]
+          },
+          {
+            "word": "Discourse",
+            "pinyin": "/ˈdɪskɔːrs/",
+            "meaning": "Diễn ngôn (ngôn ngữ trong bối cảnh xã hội/văn hóa rộng hơn)",
+            "example": "Political discourse shapes public understanding of social issues.",
+            "example_vi": "Diễn ngôn chính trị định hình sự hiểu biết của công chúng về các vấn đề xã hội.",
+            "tags": [
+              "stylistics"
+            ]
+          },
+          {
+            "word": "Lexical density",
+            "pinyin": "/ˈleksɪkl ˈdensɪti/",
+            "meaning": "Mật độ từ vựng (tỷ lệ từ có nghĩa trên tổng từ)",
+            "example": "Academic writing typically has higher lexical density than spoken language.",
+            "example_vi": "Văn viết học thuật thường có mật độ từ vựng cao hơn ngôn ngữ nói.",
+            "tags": [
+              "stylistics"
+            ]
+          },
+          {
+            "word": "Cohesion",
+            "pinyin": "/kəʊˈhiːʒn/",
+            "meaning": "Tính gắn kết hình thức (liên kết ngữ pháp/từ vựng trong văn bản)",
+            "example": "Pronouns, conjunctions and lexical chains create textual cohesion.",
+            "example_vi": "Đại từ, liên từ và chuỗi từ vựng tạo ra sự gắn kết hình thức trong văn bản.",
+            "tags": [
+              "stylistics"
+            ]
+          },
+          {
+            "word": "Coherence",
+            "pinyin": "/kəʊˈhɪərəns/",
+            "meaning": "Tính mạch lạc (ý nghĩa liên kết theo logic và chủ đề)",
+            "example": "A coherent text maintains a unified theme throughout all paragraphs.",
+            "example_vi": "Một văn bản mạch lạc duy trì chủ đề thống nhất xuyên suốt tất cả các đoạn văn.",
+            "tags": [
+              "stylistics"
+            ]
+          },
+          {
+            "word": "Collocation",
+            "pinyin": "/ˌkɒləˈkeɪʃn/",
+            "meaning": "Kết hợp từ cố định (từ thường đi cùng nhau)",
+            "example": "'Make a decision' and 'take a risk' are common collocations.",
+            "example_vi": "'Make a decision' (đưa ra quyết định) và 'take a risk' (chấp nhận rủi ro) là các kết hợp từ phổ biến.",
+            "tags": [
+              "stylistics"
+            ]
+          },
+          {
+            "word": "Connotation",
+            "pinyin": "/ˌkɒnəˈteɪʃn/",
+            "meaning": "Hàm ý, ý nghĩa liên tưởng (ngoài nghĩa đen)",
+            "example": "'Home' connotes warmth and belonging, while 'house' is neutral.",
+            "example_vi": "'Home' gợi lên ấm áp và sự thuộc về, trong khi 'house' trung lập về mặt cảm xúc.",
+            "tags": [
+              "stylistics"
+            ]
+          },
+          {
+            "word": "Foregrounding",
+            "pinyin": "/ˈfɔːɡraʊndɪŋ/",
+            "meaning": "Nổi bật hóa (làm nổi bật yếu tố ngôn ngữ để gây chú ý)",
+            "example": "The poet used foregrounding through unusual word order to create emphasis.",
+            "example_vi": "Nhà thơ dùng nổi bật hóa qua trật tự từ bất thường để tạo sự nhấn mạnh.",
+            "tags": [
+              "stylistics"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cohesion vs. Coherence — Phân biệt quan trọng",
+            "explanation": "Cohesion là sự liên kết hình thức — các phương tiện ngữ pháp và từ vựng giúp các phần của văn bản kết nối (pronouns, conjunctions, lexical repetition). Coherence là sự mạch lạc về mặt ý nghĩa — văn bản có logic, chủ đề nhất quán và dễ hiểu. Một văn bản có thể có cohesion cao nhưng thiếu coherence (nhiều liên từ nhưng ý không liên quan), hoặc ngược lại.",
+            "examples": [
+              "Cohesion devices: 'The researcher conducted a study. She found that...' (pronoun 'She' creates cohesion) = Phương tiện gắn kết: đại từ 'She' liên kết với 'researcher'.",
+              "Coherence: Every paragraph must logically connect to and develop the central thesis. = Mạch lạc: mỗi đoạn văn phải liên kết logic và phát triển luận điểm trung tâm."
+            ]
+          },
+          {
+            "title": "Register — Điều chỉnh ngôn ngữ theo ngữ cảnh",
+            "explanation": "Register là sự biến thể ngôn ngữ theo hoàn cảnh giao tiếp. Các yếu tố xác định register: Field (chủ đề), Tenor (quan hệ giữa người giao tiếp), Mode (kênh: nói/viết). Cùng một ý tưởng có thể được diễn đạt khác nhau trong register khác nhau: y tế, pháp lý, thân mật, học thuật. Thành thạo register là đặc điểm của người dùng ngôn ngữ C2.",
+            "examples": [
+              "Formal register: 'The patient exhibited symptoms consistent with acute myocardial infarction.' = Phong cách trang trọng: Bệnh nhân biểu hiện triệu chứng phù hợp với nhồi máu cơ tim cấp.",
+              "Informal register: 'He had a heart attack.' = Phong cách thân mật: Anh ấy bị đau tim."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Điều gì phân biệt 'cohesion' với 'coherence' trong văn bản?",
+            "options": [
+              "Cohesion là ý nghĩa logic; coherence là liên kết ngữ pháp",
+              "Cohesion là liên kết hình thức ngữ pháp/từ vựng; coherence là mạch lạc ý nghĩa/chủ đề",
+              "Chúng là từ đồng nghĩa hoàn toàn",
+              "Cohesion chỉ áp dụng cho thơ; coherence cho văn xuôi"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Từ 'home' có connotation (hàm ý) gì so với 'house'?",
+            "options": [
+              "Trung lập, không cảm xúc",
+              "Tiêu cực, gợi sự cô đơn",
+              "Tích cực, gợi ấm áp và sự thuộc về",
+              "Chuyên ngành kiến trúc"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Pragmatics",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Ngữ dụng học — nghiên cứu ý nghĩa trong ngữ cảnh",
+              "Ngữ âm học",
+              "Mật độ từ vựng",
+              "Diễn ngôn chính trị"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "Collocation",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Hàm ý liên tưởng",
+              "Kết hợp từ cố định thường đi cùng nhau",
+              "Phong cách ngôn ngữ theo ngữ cảnh",
+              "Tính mạch lạc của văn bản"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: 'Using technical jargon with experts but plain language with beginners shows mastery of ___.' (phong cách ngôn ngữ)",
+            "options": [
+              "register",
+              "cohesion",
+              "connotation",
+              "foregrounding"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Anh chỉ 'nghiên cứu cách ngữ cảnh ảnh hưởng đến ý nghĩa của phát ngôn' (1 từ, 10 chữ cái):",
+            "options": [
+              "Pragmatics"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    }
+  ]
+}

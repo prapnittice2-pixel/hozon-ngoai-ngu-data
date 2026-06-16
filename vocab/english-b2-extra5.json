@@ -1,0 +1,2402 @@
+[
+  {
+    "w": "methodology",
+    "p": "",
+    "m": "phương pháp luận, cách tiếp cận nghiên cứu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "hypothesis",
+    "p": "",
+    "m": "giả thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "empirical",
+    "p": "",
+    "m": "dựa trên thực nghiệm, thực chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "qualitative",
+    "p": "",
+    "m": "định tính",
+    "cat": "học thuật"
+  },
+  {
+    "w": "quantitative",
+    "p": "",
+    "m": "định lượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "variable",
+    "p": "",
+    "m": "biến số",
+    "cat": "học thuật"
+  },
+  {
+    "w": "correlation",
+    "p": "",
+    "m": "tương quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "causation",
+    "p": "",
+    "m": "quan hệ nhân quả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dataset",
+    "p": "",
+    "m": "tập dữ liệu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "outlier",
+    "p": "",
+    "m": "giá trị ngoại lệ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "trend analysis",
+    "p": "",
+    "m": "phân tích xu hướng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "benchmark",
+    "p": "",
+    "m": "tiêu chuẩn so sánh, điểm chuẩn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "aggregate",
+    "p": "",
+    "m": "tổng hợp, gộp lại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "discrepancy",
+    "p": "",
+    "m": "sự không nhất quán, mâu thuẫn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "parameter",
+    "p": "",
+    "m": "thông số, tham số",
+    "cat": "học thuật"
+  },
+  {
+    "w": "inference",
+    "p": "",
+    "m": "suy luận, kết luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "longitudinal",
+    "p": "",
+    "m": "theo chiều dọc thời gian, dài hạn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cross-sectional",
+    "p": "",
+    "m": "cắt ngang, khảo sát tại một thời điểm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "peer review",
+    "p": "",
+    "m": "đánh giá đồng nghiệp, phản biện khoa học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "citation",
+    "p": "",
+    "m": "trích dẫn, tài liệu tham khảo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "abstract",
+    "p": "",
+    "m": "tóm tắt (bài báo khoa học)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "findings",
+    "p": "",
+    "m": "kết quả nghiên cứu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "framework",
+    "p": "",
+    "m": "khung lý thuyết, cấu trúc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "scope",
+    "p": "",
+    "m": "phạm vi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "limitation",
+    "p": "",
+    "m": "hạn chế, giới hạn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "implication",
+    "p": "",
+    "m": "hàm ý, ý nghĩa sâu xa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "literature review",
+    "p": "",
+    "m": "tổng quan tài liệu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "sample size",
+    "p": "",
+    "m": "kích thước mẫu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "survey",
+    "p": "",
+    "m": "khảo sát",
+    "cat": "học thuật"
+  },
+  {
+    "w": "questionnaire",
+    "p": "",
+    "m": "bảng câu hỏi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "data collection",
+    "p": "",
+    "m": "thu thập dữ liệu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "analysis",
+    "p": "",
+    "m": "phân tích",
+    "cat": "học thuật"
+  },
+  {
+    "w": "interpret",
+    "p": "",
+    "m": "giải thích, diễn giải",
+    "cat": "hành động"
+  },
+  {
+    "w": "validate",
+    "p": "",
+    "m": "xác nhận tính hợp lệ",
+    "cat": "hành động"
+  },
+  {
+    "w": "replicate",
+    "p": "",
+    "m": "tái tạo, lặp lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "evaluate",
+    "p": "",
+    "m": "đánh giá",
+    "cat": "hành động"
+  },
+  {
+    "w": "synthesize",
+    "p": "",
+    "m": "tổng hợp",
+    "cat": "hành động"
+  },
+  {
+    "w": "categorize",
+    "p": "",
+    "m": "phân loại",
+    "cat": "hành động"
+  },
+  {
+    "w": "standardize",
+    "p": "",
+    "m": "chuẩn hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "randomize",
+    "p": "",
+    "m": "ngẫu nhiên hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "visualize",
+    "p": "",
+    "m": "trực quan hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "chart",
+    "p": "",
+    "m": "biểu đồ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "graph",
+    "p": "",
+    "m": "đồ thị",
+    "cat": "học thuật"
+  },
+  {
+    "w": "bar chart",
+    "p": "",
+    "m": "biểu đồ cột",
+    "cat": "học thuật"
+  },
+  {
+    "w": "pie chart",
+    "p": "",
+    "m": "biểu đồ tròn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "scatter plot",
+    "p": "",
+    "m": "biểu đồ phân tán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "histogram",
+    "p": "",
+    "m": "biểu đồ tần suất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "mean",
+    "p": "",
+    "m": "giá trị trung bình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "median",
+    "p": "",
+    "m": "giá trị trung vị",
+    "cat": "học thuật"
+  },
+  {
+    "w": "standard deviation",
+    "p": "",
+    "m": "độ lệch chuẩn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "variance",
+    "p": "",
+    "m": "phương sai",
+    "cat": "học thuật"
+  },
+  {
+    "w": "percentage",
+    "p": "",
+    "m": "phần trăm",
+    "cat": "số đếm"
+  },
+  {
+    "w": "proportion",
+    "p": "",
+    "m": "tỷ lệ",
+    "cat": "số đếm"
+  },
+  {
+    "w": "ratio",
+    "p": "",
+    "m": "tỉ số, tỉ lệ",
+    "cat": "số đếm"
+  },
+  {
+    "w": "index",
+    "p": "",
+    "m": "chỉ số",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "rate",
+    "p": "",
+    "m": "tỷ lệ, mức độ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "frequency",
+    "p": "",
+    "m": "tần suất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "distribution",
+    "p": "",
+    "m": "phân phối",
+    "cat": "học thuật"
+  },
+  {
+    "w": "pattern",
+    "p": "",
+    "m": "mẫu hình, xu hướng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "fluctuation",
+    "p": "",
+    "m": "sự biến động",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "significant",
+    "p": "",
+    "m": "có ý nghĩa thống kê, đáng kể",
+    "cat": "tính từ"
+  },
+  {
+    "w": "compelling",
+    "p": "",
+    "m": "thuyết phục, hấp dẫn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "robust",
+    "p": "",
+    "m": "mạnh mẽ, vững chắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "rigorous",
+    "p": "",
+    "m": "nghiêm ngặt, chặt chẽ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "comprehensive",
+    "p": "",
+    "m": "toàn diện, đầy đủ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "preliminary",
+    "p": "",
+    "m": "sơ bộ, ban đầu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "substantial",
+    "p": "",
+    "m": "đáng kể, quan trọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "relevant",
+    "p": "",
+    "m": "liên quan, thích hợp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inconclusive",
+    "p": "",
+    "m": "chưa kết luận được",
+    "cat": "tính từ"
+  },
+  {
+    "w": "plausible",
+    "p": "",
+    "m": "có thể xảy ra, hợp lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "arguably",
+    "p": "",
+    "m": "có thể lập luận rằng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "notably",
+    "p": "",
+    "m": "đáng chú ý",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "significantly",
+    "p": "",
+    "m": "đáng kể",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "consistently",
+    "p": "",
+    "m": "nhất quán, đều đặn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "broadly",
+    "p": "",
+    "m": "nhìn chung, rộng rãi",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "accordingly",
+    "p": "",
+    "m": "theo đó, tương ứng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "subsequently",
+    "p": "",
+    "m": "sau đó",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "conversely",
+    "p": "",
+    "m": "ngược lại",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "predominantly",
+    "p": "",
+    "m": "chủ yếu, phần lớn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "remarkably",
+    "p": "",
+    "m": "đáng chú ý, đáng ngạc nhiên",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "outline",
+    "p": "",
+    "m": "trình bày khái quát, đề cương",
+    "cat": "hành động"
+  },
+  {
+    "w": "elaborate",
+    "p": "",
+    "m": "mở rộng, trình bày chi tiết",
+    "cat": "hành động"
+  },
+  {
+    "w": "demonstrate",
+    "p": "",
+    "m": "trình bày, chứng minh",
+    "cat": "hành động"
+  },
+  {
+    "w": "highlight",
+    "p": "",
+    "m": "nhấn mạnh, làm nổi bật",
+    "cat": "hành động"
+  },
+  {
+    "w": "summarize",
+    "p": "",
+    "m": "tóm tắt",
+    "cat": "hành động"
+  },
+  {
+    "w": "present",
+    "p": "",
+    "m": "trình bày",
+    "cat": "hành động"
+  },
+  {
+    "w": "illustrate",
+    "p": "",
+    "m": "minh họa",
+    "cat": "hành động"
+  },
+  {
+    "w": "clarify",
+    "p": "",
+    "m": "làm rõ",
+    "cat": "hành động"
+  },
+  {
+    "w": "conclude",
+    "p": "",
+    "m": "kết luận",
+    "cat": "hành động"
+  },
+  {
+    "w": "propose",
+    "p": "",
+    "m": "đề xuất",
+    "cat": "hành động"
+  },
+  {
+    "w": "PowerPoint slide",
+    "p": "",
+    "m": "trang trình chiếu PowerPoint",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "handout",
+    "p": "",
+    "m": "tài liệu phát tay",
+    "cat": "học thuật"
+  },
+  {
+    "w": "visual aid",
+    "p": "",
+    "m": "phương tiện trực quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "bullet point",
+    "p": "",
+    "m": "gạch đầu dòng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "transition",
+    "p": "",
+    "m": "chuyển tiếp (trong thuyết trình)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "Q&A session",
+    "p": "",
+    "m": "phiên hỏi đáp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "audience",
+    "p": "",
+    "m": "khán giả, người nghe",
+    "cat": "người"
+  },
+  {
+    "w": "moderator",
+    "p": "",
+    "m": "người điều phối",
+    "cat": "người"
+  },
+  {
+    "w": "keynote speaker",
+    "p": "",
+    "m": "diễn giả chính",
+    "cat": "người"
+  },
+  {
+    "w": "panel discussion",
+    "p": "",
+    "m": "thảo luận nhóm chuyên gia",
+    "cat": "học thuật"
+  },
+  {
+    "w": "agenda",
+    "p": "",
+    "m": "chương trình nghị sự",
+    "cat": "công việc"
+  },
+  {
+    "w": "opening remarks",
+    "p": "",
+    "m": "lời mở đầu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "closing statement",
+    "p": "",
+    "m": "lời kết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "key takeaway",
+    "p": "",
+    "m": "điểm chính cần nhớ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "executive summary",
+    "p": "",
+    "m": "tóm tắt điều hành",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "deliverable",
+    "p": "",
+    "m": "sản phẩm bàn giao",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "stakeholder",
+    "p": "",
+    "m": "bên liên quan",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "objective",
+    "p": "",
+    "m": "mục tiêu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "milestone",
+    "p": "",
+    "m": "cột mốc",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "timeline",
+    "p": "",
+    "m": "lịch trình, dòng thời gian",
+    "cat": "thời gian"
+  },
+  {
+    "w": "deadline",
+    "p": "",
+    "m": "hạn chót",
+    "cat": "thời gian"
+  },
+  {
+    "w": "project proposal",
+    "p": "",
+    "m": "đề xuất dự án",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "feasibility",
+    "p": "",
+    "m": "tính khả thi",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "strategy",
+    "p": "",
+    "m": "chiến lược",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "initiative",
+    "p": "",
+    "m": "sáng kiến, chủ động",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "implement",
+    "p": "",
+    "m": "thực hiện, triển khai",
+    "cat": "hành động"
+  },
+  {
+    "w": "allocate",
+    "p": "",
+    "m": "phân bổ",
+    "cat": "hành động"
+  },
+  {
+    "w": "prioritize",
+    "p": "",
+    "m": "ưu tiên",
+    "cat": "hành động"
+  },
+  {
+    "w": "streamline",
+    "p": "",
+    "m": "hợp lý hóa, tinh gọn",
+    "cat": "hành động"
+  },
+  {
+    "w": "optimize",
+    "p": "",
+    "m": "tối ưu hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "monitor",
+    "p": "",
+    "m": "theo dõi, giám sát",
+    "cat": "hành động"
+  },
+  {
+    "w": "assess",
+    "p": "",
+    "m": "đánh giá, thẩm định",
+    "cat": "hành động"
+  },
+  {
+    "w": "coordinate",
+    "p": "",
+    "m": "phối hợp",
+    "cat": "hành động"
+  },
+  {
+    "w": "delegate",
+    "p": "",
+    "m": "ủy quyền, giao việc",
+    "cat": "hành động"
+  },
+  {
+    "w": "facilitate",
+    "p": "",
+    "m": "hỗ trợ, tạo điều kiện",
+    "cat": "hành động"
+  },
+  {
+    "w": "career path",
+    "p": "",
+    "m": "lộ trình sự nghiệp",
+    "cat": "công việc"
+  },
+  {
+    "w": "professional development",
+    "p": "",
+    "m": "phát triển chuyên môn",
+    "cat": "công việc"
+  },
+  {
+    "w": "performance appraisal",
+    "p": "",
+    "m": "đánh giá hiệu suất",
+    "cat": "công việc"
+  },
+  {
+    "w": "mentorship",
+    "p": "",
+    "m": "sự hướng dẫn, kèm cặp",
+    "cat": "công việc"
+  },
+  {
+    "w": "networking",
+    "p": "",
+    "m": "xây dựng mạng lưới quan hệ",
+    "cat": "công việc"
+  },
+  {
+    "w": "resume",
+    "p": "",
+    "m": "hồ sơ xin việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "cover letter",
+    "p": "",
+    "m": "thư xin việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "interview",
+    "p": "",
+    "m": "phỏng vấn",
+    "cat": "công việc"
+  },
+  {
+    "w": "recruitment",
+    "p": "",
+    "m": "tuyển dụng",
+    "cat": "công việc"
+  },
+  {
+    "w": "promotion",
+    "p": "",
+    "m": "thăng chức",
+    "cat": "công việc"
+  },
+  {
+    "w": "competency",
+    "p": "",
+    "m": "năng lực, kỹ năng",
+    "cat": "công việc"
+  },
+  {
+    "w": "qualification",
+    "p": "",
+    "m": "bằng cấp, chứng chỉ",
+    "cat": "công việc"
+  },
+  {
+    "w": "credential",
+    "p": "",
+    "m": "thông tin xác nhận, chứng chỉ",
+    "cat": "công việc"
+  },
+  {
+    "w": "expertise",
+    "p": "",
+    "m": "chuyên môn, sự am hiểu",
+    "cat": "công việc"
+  },
+  {
+    "w": "portfolio",
+    "p": "",
+    "m": "hồ sơ tác phẩm, danh mục",
+    "cat": "công việc"
+  },
+  {
+    "w": "workload",
+    "p": "",
+    "m": "khối lượng công việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "burnout",
+    "p": "",
+    "m": "kiệt sức vì công việc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "work-life balance",
+    "p": "",
+    "m": "cân bằng công việc và cuộc sống",
+    "cat": "công việc"
+  },
+  {
+    "w": "remote work",
+    "p": "",
+    "m": "làm việc từ xa",
+    "cat": "công việc"
+  },
+  {
+    "w": "hybrid model",
+    "p": "",
+    "m": "mô hình làm việc kết hợp",
+    "cat": "công việc"
+  },
+  {
+    "w": "internship",
+    "p": "",
+    "m": "thực tập",
+    "cat": "công việc"
+  },
+  {
+    "w": "onboarding",
+    "p": "",
+    "m": "quá trình hội nhập nhân viên mới",
+    "cat": "công việc"
+  },
+  {
+    "w": "probation period",
+    "p": "",
+    "m": "thời gian thử việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "resignation",
+    "p": "",
+    "m": "việc từ chức",
+    "cat": "công việc"
+  },
+  {
+    "w": "redundancy",
+    "p": "",
+    "m": "dư thừa lao động, cắt giảm nhân sự",
+    "cat": "công việc"
+  },
+  {
+    "w": "severance pay",
+    "p": "",
+    "m": "trợ cấp thôi việc",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "salary negotiation",
+    "p": "",
+    "m": "đàm phán lương",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "fringe benefits",
+    "p": "",
+    "m": "phúc lợi ngoài lương",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "pension",
+    "p": "",
+    "m": "lương hưu",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "incentive",
+    "p": "",
+    "m": "khuyến khích, phần thưởng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "bonus",
+    "p": "",
+    "m": "tiền thưởng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "commission",
+    "p": "",
+    "m": "tiền hoa hồng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "reimbursement",
+    "p": "",
+    "m": "hoàn tiền, bồi hoàn",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "budget",
+    "p": "",
+    "m": "ngân sách",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "expenditure",
+    "p": "",
+    "m": "chi tiêu, khoản chi",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "revenue",
+    "p": "",
+    "m": "doanh thu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "profit margin",
+    "p": "",
+    "m": "biên lợi nhuận",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "cost-effective",
+    "p": "",
+    "m": "hiệu quả về chi phí",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sustainable",
+    "p": "",
+    "m": "bền vững",
+    "cat": "tính từ"
+  },
+  {
+    "w": "scalable",
+    "p": "",
+    "m": "có thể mở rộng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "viable",
+    "p": "",
+    "m": "khả thi, có thể thực hiện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "innovative",
+    "p": "",
+    "m": "sáng tạo, đổi mới",
+    "cat": "tính từ"
+  },
+  {
+    "w": "competitive",
+    "p": "",
+    "m": "cạnh tranh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "strategic",
+    "p": "",
+    "m": "mang tính chiến lược",
+    "cat": "tính từ"
+  },
+  {
+    "w": "proactive",
+    "p": "",
+    "m": "chủ động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "collaborative",
+    "p": "",
+    "m": "hợp tác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "accountable",
+    "p": "",
+    "m": "có trách nhiệm giải trình",
+    "cat": "tính từ"
+  },
+  {
+    "w": "transparent",
+    "p": "",
+    "m": "minh bạch",
+    "cat": "tính từ"
+  },
+  {
+    "w": "adaptable",
+    "p": "",
+    "m": "linh hoạt, thích nghi được",
+    "cat": "tính từ"
+  },
+  {
+    "w": "proficient",
+    "p": "",
+    "m": "thành thạo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "versatile",
+    "p": "",
+    "m": "đa năng, linh hoạt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "meticulous",
+    "p": "",
+    "m": "tỉ mỉ, cẩn thận",
+    "cat": "tính từ"
+  },
+  {
+    "w": "assertive",
+    "p": "",
+    "m": "quyết đoán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "diplomatic",
+    "p": "",
+    "m": "khéo léo, ngoại giao",
+    "cat": "tính từ"
+  },
+  {
+    "w": "persuasive",
+    "p": "",
+    "m": "thuyết phục",
+    "cat": "tính từ"
+  },
+  {
+    "w": "articulate",
+    "p": "",
+    "m": "diễn đạt rõ ràng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "analytical",
+    "p": "",
+    "m": "có tư duy phân tích",
+    "cat": "tính từ"
+  },
+  {
+    "w": "communicate effectively",
+    "p": "",
+    "m": "giao tiếp hiệu quả",
+    "cat": "hành động"
+  },
+  {
+    "w": "give feedback",
+    "p": "",
+    "m": "đưa ra phản hồi",
+    "cat": "hành động"
+  },
+  {
+    "w": "address concerns",
+    "p": "",
+    "m": "giải quyết mối lo ngại",
+    "cat": "hành động"
+  },
+  {
+    "w": "build rapport",
+    "p": "",
+    "m": "xây dựng mối quan hệ",
+    "cat": "hành động"
+  },
+  {
+    "w": "negotiate",
+    "p": "",
+    "m": "đàm phán",
+    "cat": "hành động"
+  },
+  {
+    "w": "mediate",
+    "p": "",
+    "m": "hòa giải, làm trung gian",
+    "cat": "hành động"
+  },
+  {
+    "w": "persuade",
+    "p": "",
+    "m": "thuyết phục",
+    "cat": "hành động"
+  },
+  {
+    "w": "advocate",
+    "p": "",
+    "m": "ủng hộ, vận động",
+    "cat": "hành động"
+  },
+  {
+    "w": "correspond",
+    "p": "",
+    "m": "liên lạc, trao đổi",
+    "cat": "hành động"
+  },
+  {
+    "w": "follow up",
+    "p": "",
+    "m": "theo dõi, tiếp nối",
+    "cat": "hành động"
+  },
+  {
+    "w": "briefing",
+    "p": "",
+    "m": "buổi thông tin ngắn gọn",
+    "cat": "công việc"
+  },
+  {
+    "w": "minutes",
+    "p": "",
+    "m": "biên bản cuộc họp",
+    "cat": "công việc"
+  },
+  {
+    "w": "report",
+    "p": "",
+    "m": "báo cáo",
+    "cat": "công việc"
+  },
+  {
+    "w": "memo",
+    "p": "",
+    "m": "bản ghi nhớ nội bộ",
+    "cat": "công việc"
+  },
+  {
+    "w": "correspondence",
+    "p": "",
+    "m": "sự trao đổi thư từ",
+    "cat": "công việc"
+  },
+  {
+    "w": "email etiquette",
+    "p": "",
+    "m": "phép lịch sự trong email",
+    "cat": "công việc"
+  },
+  {
+    "w": "formal tone",
+    "p": "",
+    "m": "giọng văn trang trọng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "jargon",
+    "p": "",
+    "m": "thuật ngữ chuyên ngành",
+    "cat": "học thuật"
+  },
+  {
+    "w": "acronym",
+    "p": "",
+    "m": "chữ viết tắt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "terminology",
+    "p": "",
+    "m": "thuật ngữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "paraphrase",
+    "p": "",
+    "m": "diễn đạt lại bằng từ khác",
+    "cat": "hành động"
+  },
+  {
+    "w": "quote",
+    "p": "",
+    "m": "trích dẫn",
+    "cat": "hành động"
+  },
+  {
+    "w": "reference",
+    "p": "",
+    "m": "tham chiếu, tài liệu tham khảo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "bibliography",
+    "p": "",
+    "m": "danh sách tài liệu tham khảo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "footnote",
+    "p": "",
+    "m": "chú thích dưới trang",
+    "cat": "học thuật"
+  },
+  {
+    "w": "appendix",
+    "p": "",
+    "m": "phụ lục",
+    "cat": "học thuật"
+  },
+  {
+    "w": "table of contents",
+    "p": "",
+    "m": "mục lục",
+    "cat": "học thuật"
+  },
+  {
+    "w": "chapter",
+    "p": "",
+    "m": "chương",
+    "cat": "học thuật"
+  },
+  {
+    "w": "thesis",
+    "p": "",
+    "m": "luận văn, luận án",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dissertation",
+    "p": "",
+    "m": "luận án tiến sĩ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "journal article",
+    "p": "",
+    "m": "bài báo khoa học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "publication",
+    "p": "",
+    "m": "ấn phẩm, công bố",
+    "cat": "học thuật"
+  },
+  {
+    "w": "conference",
+    "p": "",
+    "m": "hội nghị",
+    "cat": "học thuật"
+  },
+  {
+    "w": "symposium",
+    "p": "",
+    "m": "hội thảo chuyên đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "seminar",
+    "p": "",
+    "m": "buổi hội thảo, chuyên đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "workshop",
+    "p": "",
+    "m": "buổi thực hành, hội thảo nhỏ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "webinar",
+    "p": "",
+    "m": "hội thảo trực tuyến",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "tutorial",
+    "p": "",
+    "m": "bài hướng dẫn, buổi học nhóm nhỏ",
+    "cat": "học tập"
+  },
+  {
+    "w": "lecture",
+    "p": "",
+    "m": "bài giảng",
+    "cat": "học tập"
+  },
+  {
+    "w": "curriculum",
+    "p": "",
+    "m": "chương trình học",
+    "cat": "học tập"
+  },
+  {
+    "w": "syllabus",
+    "p": "",
+    "m": "đề cương môn học",
+    "cat": "học tập"
+  },
+  {
+    "w": "assessment",
+    "p": "",
+    "m": "kiểm tra đánh giá",
+    "cat": "học tập"
+  },
+  {
+    "w": "grade",
+    "p": "",
+    "m": "điểm số",
+    "cat": "học tập"
+  },
+  {
+    "w": "scholarship",
+    "p": "",
+    "m": "học bổng",
+    "cat": "học tập"
+  },
+  {
+    "w": "enrollment",
+    "p": "",
+    "m": "đăng ký học",
+    "cat": "học tập"
+  },
+  {
+    "w": "graduation",
+    "p": "",
+    "m": "tốt nghiệp",
+    "cat": "học tập"
+  },
+  {
+    "w": "transcript",
+    "p": "",
+    "m": "bảng điểm",
+    "cat": "học tập"
+  },
+  {
+    "w": "accreditation",
+    "p": "",
+    "m": "sự công nhận, kiểm định",
+    "cat": "học tập"
+  },
+  {
+    "w": "critical thinking",
+    "p": "",
+    "m": "tư duy phản biện",
+    "cat": "học tập"
+  },
+  {
+    "w": "problem-solving",
+    "p": "",
+    "m": "giải quyết vấn đề",
+    "cat": "học tập"
+  },
+  {
+    "w": "academic integrity",
+    "p": "",
+    "m": "sự liêm chính học thuật",
+    "cat": "học tập"
+  },
+  {
+    "w": "plagiarism",
+    "p": "",
+    "m": "đạo văn",
+    "cat": "học tập"
+  },
+  {
+    "w": "citation style",
+    "p": "",
+    "m": "phong cách trích dẫn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "knowledge gap",
+    "p": "",
+    "m": "khoảng trống kiến thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "research question",
+    "p": "",
+    "m": "câu hỏi nghiên cứu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "conceptual framework",
+    "p": "",
+    "m": "khung khái niệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "theoretical",
+    "p": "",
+    "m": "lý thuyết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "applied research",
+    "p": "",
+    "m": "nghiên cứu ứng dụng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "field study",
+    "p": "",
+    "m": "nghiên cứu thực địa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "case study",
+    "p": "",
+    "m": "nghiên cứu tình huống",
+    "cat": "học thuật"
+  },
+  {
+    "w": "focus group",
+    "p": "",
+    "m": "nhóm thảo luận tập trung",
+    "cat": "học thuật"
+  },
+  {
+    "w": "interview data",
+    "p": "",
+    "m": "dữ liệu phỏng vấn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "observation",
+    "p": "",
+    "m": "quan sát",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ethnography",
+    "p": "",
+    "m": "nghiên cứu dân tộc học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "content analysis",
+    "p": "",
+    "m": "phân tích nội dung",
+    "cat": "học thuật"
+  },
+  {
+    "w": "triangulation",
+    "p": "",
+    "m": "tam giác hóa dữ liệu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "reliability",
+    "p": "",
+    "m": "độ tin cậy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "validity",
+    "p": "",
+    "m": "tính hợp lệ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "bias",
+    "p": "",
+    "m": "sự thiên vị, sai lệch",
+    "cat": "học thuật"
+  },
+  {
+    "w": "sampling method",
+    "p": "",
+    "m": "phương pháp lấy mẫu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "control group",
+    "p": "",
+    "m": "nhóm đối chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "experimental group",
+    "p": "",
+    "m": "nhóm thực nghiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "null hypothesis",
+    "p": "",
+    "m": "giả thuyết không",
+    "cat": "học thuật"
+  },
+  {
+    "w": "p-value",
+    "p": "",
+    "m": "giá trị p (xác suất)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "statistical significance",
+    "p": "",
+    "m": "ý nghĩa thống kê",
+    "cat": "học thuật"
+  },
+  {
+    "w": "confidence interval",
+    "p": "",
+    "m": "khoảng tin cậy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "regression",
+    "p": "",
+    "m": "hồi quy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cluster",
+    "p": "",
+    "m": "cụm, nhóm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "coding scheme",
+    "p": "",
+    "m": "sơ đồ mã hóa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "theme",
+    "p": "",
+    "m": "chủ đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "category",
+    "p": "",
+    "m": "danh mục, thể loại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "notation",
+    "p": "",
+    "m": "ký hiệu, ghi chú",
+    "cat": "học thuật"
+  },
+  {
+    "w": "data point",
+    "p": "",
+    "m": "điểm dữ liệu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "raw data",
+    "p": "",
+    "m": "dữ liệu thô",
+    "cat": "học thuật"
+  },
+  {
+    "w": "processed data",
+    "p": "",
+    "m": "dữ liệu đã xử lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "spreadsheet",
+    "p": "",
+    "m": "bảng tính",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "database",
+    "p": "",
+    "m": "cơ sở dữ liệu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "algorithm",
+    "p": "",
+    "m": "thuật toán",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "model",
+    "p": "",
+    "m": "mô hình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "simulation",
+    "p": "",
+    "m": "mô phỏng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "forecast",
+    "p": "",
+    "m": "dự báo",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "projection",
+    "p": "",
+    "m": "dự báo, chiếu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "insight",
+    "p": "",
+    "m": "thấu hiểu sâu sắc",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "outcome",
+    "p": "",
+    "m": "kết quả, đầu ra",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "impact",
+    "p": "",
+    "m": "tác động",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "effectiveness",
+    "p": "",
+    "m": "hiệu quả",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "efficiency",
+    "p": "",
+    "m": "hiệu suất",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "productivity",
+    "p": "",
+    "m": "năng suất",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "performance indicator",
+    "p": "",
+    "m": "chỉ số hiệu suất",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "KPI",
+    "p": "",
+    "m": "chỉ số đánh giá hiệu suất chính",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "ROI",
+    "p": "",
+    "m": "lợi tức đầu tư",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "cost-benefit analysis",
+    "p": "",
+    "m": "phân tích chi phí-lợi ích",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "SWOT analysis",
+    "p": "",
+    "m": "phân tích điểm mạnh-yếu-cơ hội-thách thức",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "market research",
+    "p": "",
+    "m": "nghiên cứu thị trường",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "target audience",
+    "p": "",
+    "m": "đối tượng mục tiêu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "customer segment",
+    "p": "",
+    "m": "phân khúc khách hàng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "value proposition",
+    "p": "",
+    "m": "đề xuất giá trị",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "competitive advantage",
+    "p": "",
+    "m": "lợi thế cạnh tranh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "market share",
+    "p": "",
+    "m": "thị phần",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "supply chain",
+    "p": "",
+    "m": "chuỗi cung ứng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "logistics",
+    "p": "",
+    "m": "hậu cần, logistics",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "outsource",
+    "p": "",
+    "m": "thuê ngoài",
+    "cat": "hành động"
+  },
+  {
+    "w": "joint venture",
+    "p": "",
+    "m": "liên doanh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "merger",
+    "p": "",
+    "m": "sáp nhập",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "acquisition",
+    "p": "",
+    "m": "mua lại",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "startup",
+    "p": "",
+    "m": "công ty khởi nghiệp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "entrepreneur",
+    "p": "",
+    "m": "doanh nhân, người khởi nghiệp",
+    "cat": "người"
+  },
+  {
+    "w": "investor",
+    "p": "",
+    "m": "nhà đầu tư",
+    "cat": "người"
+  },
+  {
+    "w": "venture capital",
+    "p": "",
+    "m": "vốn đầu tư mạo hiểm",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "shareholder",
+    "p": "",
+    "m": "cổ đông",
+    "cat": "người"
+  },
+  {
+    "w": "board of directors",
+    "p": "",
+    "m": "hội đồng quản trị",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "CEO",
+    "p": "",
+    "m": "giám đốc điều hành",
+    "cat": "công việc"
+  },
+  {
+    "w": "managerial",
+    "p": "",
+    "m": "thuộc về quản lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hierarchical",
+    "p": "",
+    "m": "có thứ bậc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cross-functional",
+    "p": "",
+    "m": "liên chức năng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "task force",
+    "p": "",
+    "m": "nhóm chuyên trách",
+    "cat": "công việc"
+  },
+  {
+    "w": "action plan",
+    "p": "",
+    "m": "kế hoạch hành động",
+    "cat": "công việc"
+  },
+  {
+    "w": "performance review",
+    "p": "",
+    "m": "đánh giá hiệu suất",
+    "cat": "công việc"
+  },
+  {
+    "w": "360-degree feedback",
+    "p": "",
+    "m": "phản hồi toàn diện từ nhiều phía",
+    "cat": "công việc"
+  },
+  {
+    "w": "soft skills",
+    "p": "",
+    "m": "kỹ năng mềm",
+    "cat": "công việc"
+  },
+  {
+    "w": "hard skills",
+    "p": "",
+    "m": "kỹ năng cứng, kỹ năng chuyên môn",
+    "cat": "công việc"
+  },
+  {
+    "w": "time management",
+    "p": "",
+    "m": "quản lý thời gian",
+    "cat": "công việc"
+  },
+  {
+    "w": "leadership",
+    "p": "",
+    "m": "khả năng lãnh đạo",
+    "cat": "công việc"
+  },
+  {
+    "w": "teamwork",
+    "p": "",
+    "m": "làm việc nhóm",
+    "cat": "công việc"
+  },
+  {
+    "w": "conflict resolution",
+    "p": "",
+    "m": "giải quyết xung đột",
+    "cat": "công việc"
+  },
+  {
+    "w": "decision-making",
+    "p": "",
+    "m": "ra quyết định",
+    "cat": "công việc"
+  },
+  {
+    "w": "risk management",
+    "p": "",
+    "m": "quản lý rủi ro",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "crisis management",
+    "p": "",
+    "m": "quản lý khủng hoảng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "contingency plan",
+    "p": "",
+    "m": "kế hoạch dự phòng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "turnaround",
+    "p": "",
+    "m": "sự phục hồi, đảo chiều",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "restructure",
+    "p": "",
+    "m": "tái cơ cấu",
+    "cat": "hành động"
+  },
+  {
+    "w": "downsize",
+    "p": "",
+    "m": "thu nhỏ, cắt giảm",
+    "cat": "hành động"
+  },
+  {
+    "w": "leverage",
+    "p": "",
+    "m": "tận dụng, đòn bẩy",
+    "cat": "hành động"
+  },
+  {
+    "w": "capitalize on",
+    "p": "",
+    "m": "tận dụng cơ hội",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "bottom line",
+    "p": "",
+    "m": "kết quả cuối cùng, lợi nhuận ròng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "touch base",
+    "p": "",
+    "m": "liên lạc nhanh, kiểm tra tiến độ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "on the same page",
+    "p": "",
+    "m": "cùng hiểu như nhau",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "think outside the box",
+    "p": "",
+    "m": "suy nghĩ sáng tạo, không theo lối mòn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "hit the ground running",
+    "p": "",
+    "m": "bắt đầu với tốc độ cao ngay lập tức",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "go the extra mile",
+    "p": "",
+    "m": "cố gắng hơn mức bình thường",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "ahead of the curve",
+    "p": "",
+    "m": "đi trước xu hướng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "in the pipeline",
+    "p": "",
+    "m": "đang được triển khai",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "ballpark figure",
+    "p": "",
+    "m": "con số ước tính sơ bộ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "move the needle",
+    "p": "",
+    "m": "tạo ra sự thay đổi đáng kể",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "drill down",
+    "p": "",
+    "m": "đào sâu vào chi tiết",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "take the lead",
+    "p": "",
+    "m": "dẫn đầu, chủ động đảm nhận",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "come up with",
+    "p": "",
+    "m": "nghĩ ra, đề xuất",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "run by",
+    "p": "",
+    "m": "tham khảo ý kiến của ai đó",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "sign off on",
+    "p": "",
+    "m": "phê duyệt, ký duyệt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "push back",
+    "p": "",
+    "m": "phản đối, kháng lại",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "scale up",
+    "p": "",
+    "m": "mở rộng quy mô",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "roll out",
+    "p": "",
+    "m": "triển khai, ra mắt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "wrap up",
+    "p": "",
+    "m": "kết thúc, hoàn tất",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "break down",
+    "p": "",
+    "m": "phân tích, phân loại chi tiết",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "bring to the table",
+    "p": "",
+    "m": "đóng góp vào cuộc thảo luận",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "keep track of",
+    "p": "",
+    "m": "theo dõi, ghi nhớ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "stand out",
+    "p": "",
+    "m": "nổi bật",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "take on board",
+    "p": "",
+    "m": "chấp nhận, ghi nhận",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "in-depth",
+    "p": "",
+    "m": "chuyên sâu, kỹ lưỡng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "up to date",
+    "p": "",
+    "m": "cập nhật, mới nhất",
+    "cat": "tínhođ"
+  },
+  {
+    "w": "state-of-the-art",
+    "p": "",
+    "m": "tiên tiến nhất, hiện đại nhất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cutting-edge",
+    "p": "",
+    "m": "tiên tiến, đột phá",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hands-on",
+    "p": "",
+    "m": "thực hành trực tiếp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "groundbreaking",
+    "p": "",
+    "m": "đột phá, tiên phong",
+    "cat": "tính từ"
+  },
+  {
+    "w": "streamlined",
+    "p": "",
+    "m": "hợp lý hóa, tinh gọn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "high-impact",
+    "p": "",
+    "m": "có tác động lớn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "data-driven",
+    "p": "",
+    "m": "dựa trên dữ liệu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "evidence-based",
+    "p": "",
+    "m": "dựa trên bằng chứng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "multidisciplinary",
+    "p": "",
+    "m": "đa ngành",
+    "cat": "tính từ"
+  },
+  {
+    "w": "interdisciplinary",
+    "p": "",
+    "m": "liên ngành",
+    "cat": "tính từ"
+  },
+  {
+    "w": "peer-to-peer",
+    "p": "",
+    "m": "ngang hàng, giữa các đồng nghiệp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "value-added",
+    "p": "",
+    "m": "có giá trị gia tăng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "outcome-based",
+    "p": "",
+    "m": "dựa trên kết quả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "results-oriented",
+    "p": "",
+    "m": "hướng đến kết quả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "insight",
+    "p": "",
+    "m": "cái nhìn sâu sắc, quan điểm thấu đáo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "implication",
+    "p": "",
+    "m": "hệ quả, ảnh hưởng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "breakthrough",
+    "p": "",
+    "m": "đột phá",
+    "cat": "học thuật"
+  },
+  {
+    "w": "contribution",
+    "p": "",
+    "m": "đóng góp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "innovation",
+    "p": "",
+    "m": "sự đổi mới",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "disruption",
+    "p": "",
+    "m": "sự gián đoạn, phá vỡ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "transformation",
+    "p": "",
+    "m": "sự biến đổi",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "adoption",
+    "p": "",
+    "m": "sự chấp nhận, áp dụng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "integration",
+    "p": "",
+    "m": "tích hợp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "interoperability",
+    "p": "",
+    "m": "khả năng tương tác",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "ecosystem",
+    "p": "",
+    "m": "hệ sinh thái",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "platform",
+    "p": "",
+    "m": "nền tảng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "infrastructure",
+    "p": "",
+    "m": "hạ tầng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "capacity",
+    "p": "",
+    "m": "năng lực, công suất",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "bandwidth",
+    "p": "",
+    "m": "băng thông, khả năng xử lý",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "scalability",
+    "p": "",
+    "m": "khả năng mở rộng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "agility",
+    "p": "",
+    "m": "sự linh hoạt, nhanh nhẹn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "resilience",
+    "p": "",
+    "m": "sự kiên cường, khả năng phục hồi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "accountability",
+    "p": "",
+    "m": "trách nhiệm giải trình",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "transparency",
+    "p": "",
+    "m": "sự minh bạch",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "ethical",
+    "p": "",
+    "m": "đạo đức",
+    "cat": "tính từ"
+  },
+  {
+    "w": "compliance",
+    "p": "",
+    "m": "sự tuân thủ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "governance",
+    "p": "",
+    "m": "quản trị",
+    "cat": "chính trị"
+  },
+  {
+    "w": "policy",
+    "p": "",
+    "m": "chính sách",
+    "cat": "chính trị"
+  },
+  {
+    "w": "regulation",
+    "p": "",
+    "m": "quy định, điều lệ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "legislation",
+    "p": "",
+    "m": "luật pháp, lập pháp",
+    "cat": "chính trị"
+  },
+  {
+    "w": "enforcement",
+    "p": "",
+    "m": "thực thi pháp luật",
+    "cat": "chính trị"
+  },
+  {
+    "w": "accountability",
+    "p": "",
+    "m": "trách nhiệm pháp lý",
+    "cat": "chính trị"
+  },
+  {
+    "w": "reform",
+    "p": "",
+    "m": "cải cách",
+    "cat": "chính trị"
+  },
+  {
+    "w": "initiative",
+    "p": "",
+    "m": "sáng kiến chính sách",
+    "cat": "chính trị"
+  },
+  {
+    "w": "framework",
+    "p": "",
+    "m": "khung pháp lý",
+    "cat": "chính trị"
+  },
+  {
+    "w": "stakeholder engagement",
+    "p": "",
+    "m": "sự tham gia của các bên liên quan",
+    "cat": "chính trị"
+  },
+  {
+    "w": "public sector",
+    "p": "",
+    "m": "khu vực công",
+    "cat": "xã hội"
+  },
+  {
+    "w": "private sector",
+    "p": "",
+    "m": "khu vực tư nhân",
+    "cat": "xã hội"
+  }
+]

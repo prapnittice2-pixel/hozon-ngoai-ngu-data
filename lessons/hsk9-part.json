@@ -1,0 +1,1180 @@
+{
+  "hsk9Lessons": [
+    {
+      "title": "Bài 1: Thơ cổ điển",
+      "type": "vocabulary",
+      "xp": 50,
+      "min": 20,
+      "order": 1,
+      "content": {
+        "image": "/images/lessons/past.svg",
+        "intro": "Bài học khám phá thế giới thi ca cổ điển Trung Hoa: từ cách luật, đối ngẫu đến ý cảnh và các thủ pháp nghệ thuật. Đây là tầng từ vựng tinh hoa nhất dành cho trình độ HSK9.",
+        "vocabulary": [
+          {
+            "word": "律诗",
+            "pinyin": "lǜ shī",
+            "meaning": "Thơ luật",
+            "example": "杜甫的七言律诗在格律上达到了炉火纯青的境界。",
+            "example_vi": "Thơ luật thất ngôn của Đỗ Phủ đã đạt tới cảnh giới điêu luyện về cách luật.",
+            "tags": [
+              "thơ cổ điển"
+            ]
+          },
+          {
+            "word": "意境",
+            "pinyin": "yì jìng",
+            "meaning": "Ý cảnh",
+            "example": "这首诗营造出一种空灵悠远的意境。",
+            "example_vi": "Bài thơ này tạo nên một ý cảnh thanh thoát, xa xăm.",
+            "tags": [
+              "thơ cổ điển"
+            ]
+          },
+          {
+            "word": "韵律",
+            "pinyin": "yùn lǜ",
+            "meaning": "Vần điệu",
+            "example": "古典诗歌的韵律之美需要反复诵读才能体会。",
+            "example_vi": "Vẻ đẹp vần điệu của thơ ca cổ điển cần đọc đi đọc lại nhiều lần mới cảm nhận được.",
+            "tags": [
+              "thơ cổ điển"
+            ]
+          },
+          {
+            "word": "对仗",
+            "pinyin": "duì zhàng",
+            "meaning": "Đối ngẫu",
+            "example": "律诗的颔联和颈联必须讲究对仗。",
+            "example_vi": "Câu hạm liên và cảnh liên trong thơ luật bắt buộc phải chú trọng đối ngẫu.",
+            "tags": [
+              "thơ cổ điển"
+            ]
+          },
+          {
+            "word": "典故",
+            "pinyin": "diǎn gù",
+            "meaning": "Điển cố",
+            "example": "李商隐的诗里用了大量典故，理解起来颇有难度。",
+            "example_vi": "Thơ Lý Thương Ẩn dùng rất nhiều điển cố, hiểu được khá khó khăn.",
+            "tags": [
+              "thơ cổ điển"
+            ]
+          },
+          {
+            "word": "咏物",
+            "pinyin": "yǒng wù",
+            "meaning": "Vịnh vật",
+            "example": "这是一首咏物诗，借梅花表达诗人高洁的品格。",
+            "example_vi": "Đây là một bài thơ vịnh vật, mượn hoa mai để bày tỏ phẩm cách cao khiết của nhà thơ.",
+            "tags": [
+              "thơ cổ điển"
+            ]
+          },
+          {
+            "word": "格律",
+            "pinyin": "gé lǜ",
+            "meaning": "Cách luật",
+            "example": "写近体诗必须严格遵守平仄格律。",
+            "example_vi": "Sáng tác thơ cận thể phải tuân thủ nghiêm ngặt cách luật bằng trắc.",
+            "tags": [
+              "thơ cổ điển"
+            ]
+          },
+          {
+            "word": "托物言志",
+            "pinyin": "tuō wù yán zhì",
+            "meaning": "Mượn vật nói chí",
+            "example": "诗人采用托物言志的手法，以青松自喻。",
+            "example_vi": "Nhà thơ dùng thủ pháp mượn vật nói chí, lấy cây tùng xanh để tự ví mình.",
+            "tags": [
+              "thơ cổ điển"
+            ]
+          },
+          {
+            "word": "沉郁",
+            "pinyin": "chén yù",
+            "meaning": "Trầm uất",
+            "example": "杜甫晚年的作品风格沉郁顿挫，感人至深。",
+            "example_vi": "Tác phẩm cuối đời của Đỗ Phủ phong cách trầm uất bi tráng, xúc động sâu sắc lòng người.",
+            "tags": [
+              "thơ cổ điển"
+            ]
+          },
+          {
+            "word": "清新",
+            "pinyin": "qīng xīn",
+            "meaning": "Thanh tân",
+            "example": "王维的山水诗语言清新自然，宛如一幅幅画卷。",
+            "example_vi": "Thơ sơn thủy của Vương Duy ngôn ngữ thanh tân tự nhiên, tựa như từng bức tranh cuộn.",
+            "tags": [
+              "thơ cổ điển"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc 之 — Hư từ văn ngôn trong văn viết hiện đại",
+            "explanation": "Ở trình độ HSK9, 之 thường thay 的 trong văn phong trang trọng, tạo sắc thái cổ kính, hàm súc. Các kết cấu cố định như X之美 (vẻ đẹp của X), X之所以……在于…… (sở dĩ X... là vì...) xuất hiện dày đặc trong bình luận văn học.",
+            "examples": [
+              "古典诗歌韵律之美，非诵读不能体会。= Vẻ đẹp vần điệu của thơ cổ điển, không tụng đọc thì không thể cảm nhận được.",
+              "这首诗之所以动人，在于其情感的真挚。= Bài thơ này sở dĩ cảm động lòng người là ở chỗ tình cảm chân thành của nó."
+            ]
+          },
+          {
+            "title": "Cấu trúc 以……自喻 / 借……表达…… — Thủ pháp tu từ ví von",
+            "explanation": "Hai khuôn câu kinh điển khi phân tích thơ: 以 + sự vật + 自喻 (lấy sự vật tự ví mình) và 借 + sự vật + 表达 + tình chí (mượn sự vật để bày tỏ tình cảm, chí hướng). Đây là ngôn ngữ phê bình văn học chuẩn mực, bắt buộc nắm vững ở HSK9.",
+            "examples": [
+              "诗人以孤雁自喻，抒发漂泊之苦。= Nhà thơ lấy con nhạn lẻ loi tự ví mình, giãi bày nỗi khổ phiêu bạt.",
+              "作者借秋菊表达不慕名利的志向。= Tác giả mượn hoa cúc mùa thu để bày tỏ chí hướng không màng danh lợi."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ 律诗 có nghĩa là gì?",
+            "options": [
+              "Thơ luật",
+              "Điển cố",
+              "Vần điệu",
+              "Ý cảnh"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Mượn vật nói chí\"?",
+            "options": [
+              "咏物",
+              "托物言志",
+              "对仗",
+              "格律"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "意境",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Ý cảnh",
+              "Đối ngẫu",
+              "Trầm uất",
+              "Thanh tân"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "典故",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Cách luật",
+              "Vịnh vật",
+              "Điển cố",
+              "Thơ luật"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 律诗的颔联和颈联必须讲究___。",
+            "options": [
+              "对仗",
+              "沉郁",
+              "清新",
+              "咏物"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Ý cảnh\"",
+            "options": [
+              "意境"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 2: Văn ngôn văn",
+      "type": "vocabulary",
+      "xp": 50,
+      "min": 20,
+      "order": 2,
+      "content": {
+        "image": "/images/lessons/time.svg",
+        "intro": "Bài học trang bị bộ thuật ngữ then chốt để đọc hiểu văn ngôn văn (cổ văn Trung Quốc): hư từ, thực từ, đảo ngữ, chữ thông giả và nghệ thuật ngắt câu. Nắm vững chúng là chìa khóa mở kho tàng điển tịch.",
+        "vocabulary": [
+          {
+            "word": "文言文",
+            "pinyin": "wén yán wén",
+            "meaning": "Văn ngôn văn",
+            "example": "中学生从初中开始系统地学习文言文。",
+            "example_vi": "Học sinh trung học bắt đầu học văn ngôn văn một cách hệ thống từ cấp hai.",
+            "tags": [
+              "văn ngôn"
+            ]
+          },
+          {
+            "word": "虚词",
+            "pinyin": "xū cí",
+            "meaning": "Hư từ",
+            "example": "之、乎、者、也都是文言文中常见的虚词。",
+            "example_vi": "Chi, hồ, giả, dã đều là những hư từ thường gặp trong văn ngôn văn.",
+            "tags": [
+              "văn ngôn"
+            ]
+          },
+          {
+            "word": "实词",
+            "pinyin": "shí cí",
+            "meaning": "Thực từ",
+            "example": "掌握实词的本义和引申义是阅读古文的基础。",
+            "example_vi": "Nắm vững nghĩa gốc và nghĩa mở rộng của thực từ là nền tảng để đọc cổ văn.",
+            "tags": [
+              "văn ngôn"
+            ]
+          },
+          {
+            "word": "倒装",
+            "pinyin": "dào zhuāng",
+            "meaning": "Đảo ngữ",
+            "example": "宾语前置是文言文中典型的倒装现象。",
+            "example_vi": "Tân ngữ đặt trước là hiện tượng đảo ngữ điển hình trong văn ngôn văn.",
+            "tags": [
+              "văn ngôn"
+            ]
+          },
+          {
+            "word": "通假字",
+            "pinyin": "tōng jiǎ zì",
+            "meaning": "Chữ thông giả",
+            "example": "读古文时遇到通假字，要按本字的读音和意义来理解。",
+            "example_vi": "Khi đọc cổ văn gặp chữ thông giả, phải hiểu theo âm đọc và ý nghĩa của chữ gốc.",
+            "tags": [
+              "văn ngôn"
+            ]
+          },
+          {
+            "word": "词类活用",
+            "pinyin": "cí lèi huó yòng",
+            "meaning": "Từ loại hoạt dụng",
+            "example": "名词作动词是文言文里常见的词类活用现象。",
+            "example_vi": "Danh từ dùng làm động từ là hiện tượng từ loại hoạt dụng thường gặp trong văn ngôn văn.",
+            "tags": [
+              "văn ngôn"
+            ]
+          },
+          {
+            "word": "断句",
+            "pinyin": "duàn jù",
+            "meaning": "Ngắt câu",
+            "example": "古书没有标点，断句能力直接影响对文意的理解。",
+            "example_vi": "Sách cổ không có dấu câu, năng lực ngắt câu ảnh hưởng trực tiếp đến việc hiểu nghĩa văn bản.",
+            "tags": [
+              "văn ngôn"
+            ]
+          },
+          {
+            "word": "注疏",
+            "pinyin": "zhù shū",
+            "meaning": "Chú sớ",
+            "example": "研究先秦典籍离不开历代学者的注疏。",
+            "example_vi": "Nghiên cứu điển tịch thời Tiên Tần không thể thiếu chú sớ của các học giả qua các triều đại.",
+            "tags": [
+              "văn ngôn"
+            ]
+          },
+          {
+            "word": "文体",
+            "pinyin": "wén tǐ",
+            "meaning": "Thể văn",
+            "example": "赋、铭、序、表是几种不同的古代文体。",
+            "example_vi": "Phú, minh, tự, biểu là mấy thể văn cổ đại khác nhau.",
+            "tags": [
+              "văn ngôn"
+            ]
+          },
+          {
+            "word": "诵读",
+            "pinyin": "sòng dú",
+            "meaning": "Tụng đọc",
+            "example": "反复诵读经典名篇有助于培养文言语感。",
+            "example_vi": "Tụng đọc đi đọc lại các danh thiên kinh điển giúp bồi dưỡng ngữ cảm văn ngôn.",
+            "tags": [
+              "văn ngôn"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc 者……也 — Khuôn câu phán đoán văn ngôn",
+            "explanation": "Khuôn câu phán đoán kinh điển của văn ngôn: A者，B也 (A chính là B). Trong văn viết hiện đại trang trọng, dấu tích của nó còn lại ở các kết cấu như 所谓X者 (cái gọi là X) và câu định nghĩa kết thúc bằng 也 trong văn phong nghị luận cổ kính.",
+            "examples": [
+              "师者，传道授业解惑也。= Người thầy là người truyền đạo, dạy nghề, giải đáp nghi hoặc vậy.",
+              "所谓通假字者，借音同音近之字代本字也。= Cái gọi là chữ thông giả, tức là mượn chữ cùng âm hoặc gần âm để thay chữ gốc vậy."
+            ]
+          },
+          {
+            "title": "Tân ngữ tiền trí — Đảo ngữ nhấn mạnh trong văn ngôn",
+            "explanation": "Trong câu phủ định hoặc câu nghi vấn văn ngôn, tân ngữ là đại từ thường đặt trước động từ (宾语前置). Hiểu quy luật này mới ngắt câu và dịch đúng. Văn viết hiện đại kế thừa qua các thành ngữ như 时不我待 (thời gian không chờ ta).",
+            "examples": [
+              "古之人不余欺也。= Người xưa không lừa dối ta vậy (不余欺 = 不欺余).",
+              "时不我待，我们必须只争朝夕。= Thời gian không chờ đợi ta, chúng ta phải tranh thủ từng sớm từng chiều."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ 虚词 có nghĩa là gì?",
+            "options": [
+              "Hư từ",
+              "Thực từ",
+              "Đảo ngữ",
+              "Thể văn"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Hiện tượng \"danh từ dùng làm động từ\" trong cổ văn gọi là gì?",
+            "options": [
+              "通假字",
+              "词类活用",
+              "断句",
+              "注疏"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "文言文",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Văn ngôn văn",
+              "Chú sớ",
+              "Tụng đọc",
+              "Ngắt câu"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "倒装",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Thực từ",
+              "Thể văn",
+              "Đảo ngữ",
+              "Hư từ"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 古书没有标点，___能力直接影响对文意的理解。",
+            "options": [
+              "断句",
+              "文体",
+              "诵读",
+              "虚词"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Văn ngôn văn\"",
+            "options": [
+              "文言文"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 3: Dịch thuật và Giao thoa văn hóa",
+      "type": "vocabulary",
+      "xp": 50,
+      "min": 20,
+      "order": 3,
+      "content": {
+        "image": "/images/lessons/directions.svg",
+        "intro": "Bài học đi sâu vào lý luận dịch thuật và giao tiếp xuyên văn hóa: từ chuẩn mực Tín Đạt Nhã của Nghiêm Phục đến các chiến lược quy hóa, dị hóa hiện đại. Từ vựng thiết yếu cho người làm cầu nối ngôn ngữ.",
+        "vocabulary": [
+          {
+            "word": "翻译",
+            "pinyin": "fān yì",
+            "meaning": "Dịch thuật",
+            "example": "文学翻译不仅是语言的转换，更是文化的再创造。",
+            "example_vi": "Dịch văn học không chỉ là chuyển đổi ngôn ngữ, mà còn là sự tái sáng tạo văn hóa.",
+            "tags": [
+              "dịch thuật"
+            ]
+          },
+          {
+            "word": "跨文化",
+            "pinyin": "kuà wén huà",
+            "meaning": "Xuyên văn hóa",
+            "example": "跨文化交际中，误解往往源于价值观念的差异。",
+            "example_vi": "Trong giao tiếp xuyên văn hóa, hiểu lầm thường bắt nguồn từ sự khác biệt về quan niệm giá trị.",
+            "tags": [
+              "dịch thuật"
+            ]
+          },
+          {
+            "word": "信达雅",
+            "pinyin": "xìn dá yǎ",
+            "meaning": "Tín Đạt Nhã",
+            "example": "严复提出的信达雅至今仍是翻译界的重要标准。",
+            "example_vi": "Tiêu chuẩn Tín Đạt Nhã do Nghiêm Phục đề xuất đến nay vẫn là chuẩn mực quan trọng của giới dịch thuật.",
+            "tags": [
+              "dịch thuật"
+            ]
+          },
+          {
+            "word": "等值",
+            "pinyin": "děng zhí",
+            "meaning": "Tương đương",
+            "example": "完全的语义等值在翻译实践中几乎不可能实现。",
+            "example_vi": "Sự tương đương ngữ nghĩa hoàn toàn hầu như không thể đạt được trong thực tiễn dịch thuật.",
+            "tags": [
+              "dịch thuật"
+            ]
+          },
+          {
+            "word": "文化负载词",
+            "pinyin": "wén huà fù zài cí",
+            "meaning": "Từ mang tải văn hóa",
+            "example": "像风水这样的文化负载词很难在外语中找到对应的表达。",
+            "example_vi": "Những từ mang tải văn hóa như phong thủy rất khó tìm được cách diễn đạt tương ứng trong ngoại ngữ.",
+            "tags": [
+              "dịch thuật"
+            ]
+          },
+          {
+            "word": "归化",
+            "pinyin": "guī huà",
+            "meaning": "Quy hóa",
+            "example": "归化策略使译文更贴近目的语读者的阅读习惯。",
+            "example_vi": "Chiến lược quy hóa khiến bản dịch gần gũi hơn với thói quen đọc của độc giả ngôn ngữ đích.",
+            "tags": [
+              "dịch thuật"
+            ]
+          },
+          {
+            "word": "异化",
+            "pinyin": "yì huà",
+            "meaning": "Dị hóa",
+            "example": "采用异化译法可以保留原文的异域文化色彩。",
+            "example_vi": "Áp dụng phép dịch dị hóa có thể giữ lại màu sắc văn hóa ngoại lai của nguyên tác.",
+            "tags": [
+              "dịch thuật"
+            ]
+          },
+          {
+            "word": "误译",
+            "pinyin": "wù yì",
+            "meaning": "Dịch sai",
+            "example": "脱离语境理解词义是造成误译的主要原因之一。",
+            "example_vi": "Hiểu nghĩa từ tách rời khỏi ngữ cảnh là một trong những nguyên nhân chính gây ra dịch sai.",
+            "tags": [
+              "dịch thuật"
+            ]
+          },
+          {
+            "word": "语境",
+            "pinyin": "yǔ jìng",
+            "meaning": "Ngữ cảnh",
+            "example": "同一个词在不同的语境中可能有截然不同的含义。",
+            "example_vi": "Cùng một từ trong các ngữ cảnh khác nhau có thể mang hàm nghĩa hoàn toàn khác nhau.",
+            "tags": [
+              "dịch thuật"
+            ]
+          },
+          {
+            "word": "对等",
+            "pinyin": "duì děng",
+            "meaning": "Đối đẳng",
+            "example": "奈达的功能对等理论强调读者反应的一致性。",
+            "example_vi": "Lý thuyết đối đẳng chức năng của Nida nhấn mạnh sự nhất quán trong phản ứng của độc giả.",
+            "tags": [
+              "dịch thuật"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc 不仅……更…… — Tầng tiến nâng cao trong văn nghị luận",
+            "explanation": "So với 不仅……而且……, kết cấu 不仅……更…… đẩy vế sau lên tầm quan trọng cao hơn hẳn, thường dùng trong văn nghị luận học thuật để nâng cấp luận điểm. Vế sau thường mang tính khái quát, trừu tượng hơn vế trước.",
+            "examples": [
+              "翻译不仅是技巧的运用，更是两种文化之间的对话。= Dịch thuật không chỉ là vận dụng kỹ xảo, mà hơn thế là cuộc đối thoại giữa hai nền văn hóa.",
+              "误译不仅影响理解，更可能引发跨文化冲突。= Dịch sai không chỉ ảnh hưởng đến việc hiểu, mà hơn thế còn có thể gây ra xung đột xuyên văn hóa."
+            ]
+          },
+          {
+            "title": "Cấu trúc 与其说……不如说…… — So sánh định tính hai cách nhìn",
+            "explanation": "Khuôn câu phủ định cách nói thứ nhất để khẳng định cách nói thứ hai chính xác hơn: \"thà nói là B còn hơn nói là A\". Đây là công cụ lập luận tinh tế đặc trưng của văn phong học thuật HSK9, thường đi kèm các danh từ trừu tượng.",
+            "examples": [
+              "与其说翻译是一门技术，不如说它是一门艺术。= Thà nói dịch thuật là một nghệ thuật còn hơn nói nó là một kỹ thuật.",
+              "与其说这是误译，不如说是两种文化之间不可避免的损耗。= Thà nói đây là sự hao hụt khó tránh giữa hai nền văn hóa còn hơn nói là dịch sai."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ 归化 có nghĩa là gì?",
+            "options": [
+              "Quy hóa",
+              "Dị hóa",
+              "Đối đẳng",
+              "Ngữ cảnh"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Tiêu chuẩn dịch thuật do Nghiêm Phục đề xuất là gì?",
+            "options": [
+              "等值",
+              "信达雅",
+              "跨文化",
+              "语境"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "翻译",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Dịch thuật",
+              "Dịch sai",
+              "Tương đương",
+              "Xuyên văn hóa"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "语境",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Quy hóa",
+              "Tín Đạt Nhã",
+              "Ngữ cảnh",
+              "Từ mang tải văn hóa"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 采用___译法可以保留原文的异域文化色彩。",
+            "options": [
+              "异化",
+              "归化",
+              "等值",
+              "误译"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Dịch thuật\"",
+            "options": [
+              "翻译"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 4: Văn học đương đại",
+      "type": "vocabulary",
+      "xp": 50,
+      "min": 20,
+      "order": 4,
+      "content": {
+        "image": "/images/lessons/future.svg",
+        "intro": "Bài học dẫn vào dòng chảy văn học Trung Quốc đương đại: từ phái tiên phong, dòng ý thức đến hậu hiện đại và giải cấu trúc. Bộ thuật ngữ phê bình văn học không thể thiếu ở trình độ HSK9.",
+        "vocabulary": [
+          {
+            "word": "当代文学",
+            "pinyin": "dāng dài wén xué",
+            "meaning": "Văn học đương đại",
+            "example": "莫言获奖后，中国当代文学受到了世界更多的关注。",
+            "example_vi": "Sau khi Mạc Ngôn đoạt giải, văn học đương đại Trung Quốc nhận được nhiều sự chú ý hơn từ thế giới.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "先锋派",
+            "pinyin": "xiān fēng pài",
+            "meaning": "Phái tiên phong",
+            "example": "八十年代的先锋派作家大胆地打破了传统的叙事模式。",
+            "example_vi": "Các nhà văn phái tiên phong thập niên tám mươi đã mạnh dạn phá vỡ mô thức tự sự truyền thống.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "意识流",
+            "pinyin": "yì shí liú",
+            "meaning": "Dòng ý thức",
+            "example": "这部小说运用意识流手法描写人物内心的波动。",
+            "example_vi": "Cuốn tiểu thuyết này vận dụng thủ pháp dòng ý thức để miêu tả sự dao động nội tâm của nhân vật.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "叙述者",
+            "pinyin": "xù shù zhě",
+            "meaning": "Người kể chuyện",
+            "example": "小说中的叙述者并不等同于作者本人。",
+            "example_vi": "Người kể chuyện trong tiểu thuyết không hề đồng nhất với chính tác giả.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "隐喻",
+            "pinyin": "yǐn yù",
+            "meaning": "Ẩn dụ",
+            "example": "城堡在小说中是权力体制的一个巨大隐喻。",
+            "example_vi": "Tòa lâu đài trong tiểu thuyết là một ẩn dụ to lớn về thể chế quyền lực.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "后现代",
+            "pinyin": "hòu xiàn dài",
+            "meaning": "Hậu hiện đại",
+            "example": "后现代作品常常模糊现实与虚构的界限。",
+            "example_vi": "Tác phẩm hậu hiện đại thường làm mờ ranh giới giữa hiện thực và hư cấu.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "乡土文学",
+            "pinyin": "xiāng tǔ wén xué",
+            "meaning": "Văn học hương thổ",
+            "example": "乡土文学以农村生活为题材，充满地域色彩。",
+            "example_vi": "Văn học hương thổ lấy đời sống nông thôn làm đề tài, đậm đà màu sắc vùng miền.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "反讽",
+            "pinyin": "fǎn fěng",
+            "meaning": "Phản phúng",
+            "example": "作者用反讽的笔调揭示了社会的荒诞。",
+            "example_vi": "Tác giả dùng giọng văn phản phúng để vạch trần sự hoang đường của xã hội.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "叙事视角",
+            "pinyin": "xù shì shì jiǎo",
+            "meaning": "Góc nhìn tự sự",
+            "example": "转换叙事视角能让故事呈现出多层次的真相。",
+            "example_vi": "Chuyển đổi góc nhìn tự sự có thể khiến câu chuyện hiện ra sự thật nhiều tầng bậc.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "解构",
+            "pinyin": "jiě gòu",
+            "meaning": "Giải cấu trúc",
+            "example": "这部作品对英雄神话进行了彻底的解构。",
+            "example_vi": "Tác phẩm này đã tiến hành giải cấu trúc triệt để huyền thoại anh hùng.",
+            "tags": [
+              "văn học"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc 对……进行…… — Khuôn câu xử trí trang trọng",
+            "explanation": "Trong văn phê bình học thuật, thay vì dùng động từ trực tiếp, người ta thường danh hóa hành động rồi đặt vào khuôn 对 + đối tượng + 进行 + động từ song âm tiết (解构/分析/批判/重构). Cách viết này tạo giọng văn khách quan, chuyên nghiệp.",
+            "examples": [
+              "评论家对这部小说的叙事结构进行了深入分析。= Nhà phê bình đã tiến hành phân tích sâu kết cấu tự sự của cuốn tiểu thuyết này.",
+              "后现代作家对宏大叙事进行解构与反讽。= Các nhà văn hậu hiện đại tiến hành giải cấu trúc và phản phúng đối với đại tự sự."
+            ]
+          },
+          {
+            "title": "Cấu trúc 并不/并非 — Phủ định nhấn mạnh bác bỏ ngộ nhận",
+            "explanation": "Trợ từ 并 đặt trước 不/非 dùng để bác bỏ một quan niệm sẵn có của người đọc: \"thực ra không hề như vậy\". 并非 mang sắc thái văn ngôn, trang trọng hơn 并不是, là dấu hiệu đặc trưng của văn nghị luận trình độ cao.",
+            "examples": [
+              "小说中的叙述者并非作者本人，二者不可混为一谈。= Người kể chuyện trong tiểu thuyết không hề là chính tác giả, hai khái niệm này không thể đánh đồng.",
+              "先锋派的实验并不意味着对传统的全盘否定。= Sự thử nghiệm của phái tiên phong không hề có nghĩa là phủ định toàn bộ truyền thống."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ 意识流 có nghĩa là gì?",
+            "options": [
+              "Dòng ý thức",
+              "Phái tiên phong",
+              "Ẩn dụ",
+              "Giải cấu trúc"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Văn học hương thổ\"?",
+            "options": [
+              "当代文学",
+              "乡土文学",
+              "先锋派",
+              "后现代"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "隐喻",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Ẩn dụ",
+              "Phản phúng",
+              "Người kể chuyện",
+              "Hậu hiện đại"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "解构",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Góc nhìn tự sự",
+              "Dòng ý thức",
+              "Giải cấu trúc",
+              "Văn học đương đại"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 作者用___的笔调揭示了社会的荒诞。",
+            "options": [
+              "反讽",
+              "隐喻",
+              "解构",
+              "意识流"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Ẩn dụ\"",
+            "options": [
+              "隐喻"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 5: Viết học thuật",
+      "type": "vocabulary",
+      "xp": 50,
+      "min": 20,
+      "order": 5,
+      "content": {
+        "image": "/images/lessons/adjectives.svg",
+        "intro": "Bài học cung cấp bộ từ vựng cốt lõi của văn viết học thuật: luận chứng, tổng quan tài liệu, giả thuyết, trích dẫn và tư duy phê phán. Đây là hành trang bắt buộc để đọc và viết luận văn bằng tiếng Trung.",
+        "vocabulary": [
+          {
+            "word": "论证",
+            "pinyin": "lùn zhèng",
+            "meaning": "Luận chứng",
+            "example": "这篇论文论证严密，结论令人信服。",
+            "example_vi": "Bài luận văn này luận chứng chặt chẽ, kết luận khiến người ta tin phục.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "文献综述",
+            "pinyin": "wén xiàn zōng shù",
+            "meaning": "Tổng quan tài liệu",
+            "example": "撰写文献综述时应当客观地梳理前人的研究成果。",
+            "example_vi": "Khi viết tổng quan tài liệu cần sắp xếp một cách khách quan thành quả nghiên cứu của người đi trước.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "假设",
+            "pinyin": "jiǎ shè",
+            "meaning": "Giả thuyết",
+            "example": "实验数据有力地支持了我们最初提出的假设。",
+            "example_vi": "Dữ liệu thí nghiệm đã ủng hộ mạnh mẽ giả thuyết chúng tôi đề xuất ban đầu.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "方法论",
+            "pinyin": "fāng fǎ lùn",
+            "meaning": "Phương pháp luận",
+            "example": "定性研究与定量研究在方法论上各有侧重。",
+            "example_vi": "Nghiên cứu định tính và nghiên cứu định lượng có trọng tâm khác nhau về phương pháp luận.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "引用",
+            "pinyin": "yǐn yòng",
+            "meaning": "Trích dẫn",
+            "example": "引用他人观点时必须注明出处，否则构成抄袭。",
+            "example_vi": "Khi trích dẫn quan điểm của người khác phải ghi rõ nguồn, nếu không sẽ cấu thành đạo văn.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "摘要",
+            "pinyin": "zhāi yào",
+            "meaning": "Tóm tắt",
+            "example": "摘要应当简明扼要地概括研究的目的、方法和结论。",
+            "example_vi": "Phần tóm tắt cần khái quát ngắn gọn súc tích mục đích, phương pháp và kết luận của nghiên cứu.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "论点",
+            "pinyin": "lùn diǎn",
+            "meaning": "Luận điểm",
+            "example": "文章的中心论点必须有充分的论据加以支撑。",
+            "example_vi": "Luận điểm trung tâm của bài viết phải được chống đỡ bằng luận cứ đầy đủ.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "批判性",
+            "pinyin": "pī pàn xìng",
+            "meaning": "Tính phê phán",
+            "example": "学术训练的核心在于培养批判性思维。",
+            "example_vi": "Cốt lõi của quá trình rèn luyện học thuật nằm ở việc bồi dưỡng tư duy phê phán.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "实证",
+            "pinyin": "shí zhèng",
+            "meaning": "Thực chứng",
+            "example": "该结论缺乏实证研究的支持，说服力有限。",
+            "example_vi": "Kết luận đó thiếu sự hỗ trợ của nghiên cứu thực chứng, sức thuyết phục có hạn.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "结论",
+            "pinyin": "jié lùn",
+            "meaning": "Kết luận",
+            "example": "在数据不充分的情况下，不宜贸然得出结论。",
+            "example_vi": "Trong tình huống dữ liệu chưa đầy đủ, không nên vội vàng rút ra kết luận.",
+            "tags": [
+              "học thuật"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc 加以/予以 + động từ song âm tiết — Văn phong công vụ học thuật",
+            "explanation": "Trong văn viết trang trọng, 加以 hoặc 予以 đứng trước động từ song âm tiết để thay cách nói trực tiếp: 加以分析 (tiến hành phân tích), 予以支撑 (đem lại sự chống đỡ). Tân ngữ thường được đưa lên trước, tạo câu bị động ý nghĩa không cần 被.",
+            "examples": [
+              "这一假设需要通过大量实证数据加以验证。= Giả thuyết này cần được kiểm chứng thông qua số lượng lớn dữ liệu thực chứng.",
+              "对于论文中存在的逻辑漏洞，应予以认真修正。= Đối với những lỗ hổng logic tồn tại trong luận văn, cần nghiêm túc sửa chữa."
+            ]
+          },
+          {
+            "title": "Hệ động từ tình thái trang trọng 应当/不宜/务必 — Mệnh lệnh mềm trong văn học thuật",
+            "explanation": "Văn học thuật tránh giọng ra lệnh trực tiếp, thay bằng hệ tình thái trang trọng: 应当 (cần phải, khách quan), 不宜 (không nên, khuyến nghị phủ định nhẹ), 务必 (nhất thiết phải, nhấn mạnh cao). Phân biệt sắc thái ba từ này là yêu cầu tinh tế của HSK9.",
+            "examples": [
+              "摘要不宜过长，应当控制在三百字以内。= Phần tóm tắt không nên quá dài, cần khống chế trong vòng ba trăm chữ.",
+              "引用文献时务必核对原文，以免以讹传讹。= Khi trích dẫn tài liệu nhất thiết phải đối chiếu nguyên văn, để tránh sai lại truyền sai."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ 文献综述 có nghĩa là gì?",
+            "options": [
+              "Tổng quan tài liệu",
+              "Luận chứng",
+              "Tóm tắt",
+              "Trích dẫn"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào có nghĩa là \"Tính phê phán\"?",
+            "options": [
+              "实证",
+              "批判性",
+              "方法论",
+              "论点"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "假设",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Giả thuyết",
+              "Kết luận",
+              "Luận điểm",
+              "Thực chứng"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "引用",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Tóm tắt",
+              "Luận chứng",
+              "Trích dẫn",
+              "Phương pháp luận"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 在数据不充分的情况下，不宜贸然得出___。",
+            "options": [
+              "结论",
+              "摘要",
+              "假设",
+              "文献综述"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Kết luận\"",
+            "options": [
+              "结论"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 6: Triết học và Tư biện",
+      "type": "vocabulary",
+      "xp": 50,
+      "min": 20,
+      "order": 6,
+      "content": {
+        "image": "/images/lessons/comparison.svg",
+        "intro": "Bài học cuối cùng của HSK9 đưa bạn vào lĩnh vực triết học và tư duy tư biện: biện chứng pháp, bản thể luận, nhận thức luận cùng các phương pháp suy luận diễn dịch và quy nạp. Đỉnh cao của từ vựng trừu tượng tiếng Trung.",
+        "vocabulary": [
+          {
+            "word": "辩证法",
+            "pinyin": "biàn zhèng fǎ",
+            "meaning": "Biện chứng pháp",
+            "example": "辩证法要求我们从对立统一中把握事物的发展。",
+            "example_vi": "Biện chứng pháp đòi hỏi chúng ta nắm bắt sự phát triển của sự vật từ sự thống nhất giữa các mặt đối lập.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "本体论",
+            "pinyin": "běn tǐ lùn",
+            "meaning": "Bản thể luận",
+            "example": "本体论探讨的是存在本身的根本问题。",
+            "example_vi": "Bản thể luận bàn về những vấn đề căn bản của chính sự tồn tại.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "认识论",
+            "pinyin": "rèn shí lùn",
+            "meaning": "Nhận thức luận",
+            "example": "认识论关注人类知识的来源、范围及其可靠性。",
+            "example_vi": "Nhận thức luận quan tâm đến nguồn gốc, phạm vi và độ tin cậy của tri thức nhân loại.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "矛盾",
+            "pinyin": "máo dùn",
+            "meaning": "Mâu thuẫn",
+            "example": "矛盾是事物发展的根本动力。",
+            "example_vi": "Mâu thuẫn là động lực căn bản cho sự phát triển của sự vật.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "辩论",
+            "pinyin": "biàn lùn",
+            "meaning": "Biện luận",
+            "example": "双方就自由意志是否存在展开了激烈的辩论。",
+            "example_vi": "Hai bên đã triển khai cuộc biện luận gay gắt về việc ý chí tự do có tồn tại hay không.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "逻辑",
+            "pinyin": "luó jí",
+            "meaning": "Logic",
+            "example": "他的论证看似有理，实则存在明显的逻辑漏洞。",
+            "example_vi": "Lập luận của anh ấy nhìn có vẻ hợp lý, kỳ thực tồn tại lỗ hổng logic rõ ràng.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "推断",
+            "pinyin": "tuī duàn",
+            "meaning": "Suy đoán",
+            "example": "仅凭个别现象就下结论，这种推断未免太草率。",
+            "example_vi": "Chỉ dựa vào hiện tượng cá biệt mà kết luận, kiểu suy đoán như vậy e rằng quá hấp tấp.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "范畴",
+            "pinyin": "fàn chóu",
+            "meaning": "Phạm trù",
+            "example": "时间与空间是哲学中最基本的范畴之一。",
+            "example_vi": "Thời gian và không gian là một trong những phạm trù cơ bản nhất của triết học.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "演绎",
+            "pinyin": "yǎn yì",
+            "meaning": "Diễn dịch",
+            "example": "演绎推理由一般原理推出个别结论。",
+            "example_vi": "Suy luận diễn dịch đi từ nguyên lý chung rút ra kết luận cá biệt.",
+            "tags": [
+              "triết học"
+            ]
+          },
+          {
+            "word": "归纳",
+            "pinyin": "guī nà",
+            "meaning": "Quy nạp",
+            "example": "归纳法通过观察大量个案来概括普遍规律。",
+            "example_vi": "Phép quy nạp khái quát quy luật phổ biến thông qua việc quan sát số lượng lớn trường hợp cụ thể.",
+            "tags": [
+              "triết học"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc 看似……实则…… — Tương phản bề mặt và bản chất",
+            "explanation": "Khuôn câu văn ngôn hóa đặc trưng của văn tư biện: 看似 (nhìn có vẻ) nêu hiện tượng bề mặt, 实则 (kỳ thực thì) lật lại bản chất. Đây là công cụ lập luận hai tầng thay cho 虽然……但是…… ở trình độ cao, câu văn cô đọng và sắc bén hơn.",
+            "examples": [
+              "这个命题看似简单，实则触及认识论的核心难题。= Mệnh đề này nhìn có vẻ đơn giản, kỳ thực chạm đến vấn đề nan giải cốt lõi của nhận thức luận.",
+              "两种观点看似矛盾，实则互为补充。= Hai quan điểm nhìn có vẻ mâu thuẫn, kỳ thực bổ sung lẫn nhau."
+            ]
+          },
+          {
+            "title": "Cấu trúc ……与否 — Danh hóa mệnh đề nghi vấn kiểu văn ngôn",
+            "explanation": "Hậu tố văn ngôn 与否 gắn sau động từ hoặc cụm động từ để danh hóa câu hỏi có/không: 存在与否 (tồn tại hay không), 成立与否 (đứng vững hay không). Cụm danh hóa này làm chủ ngữ hoặc tân ngữ trong câu phức nhiều tầng, là dấu hiệu điển hình của văn viết HSK9.",
+            "examples": [
+              "自由意志存在与否，至今仍无定论。= Ý chí tự do có tồn tại hay không, đến nay vẫn chưa có kết luận cuối cùng.",
+              "假设成立与否，取决于演绎推理是否严密。= Giả thuyết đứng vững hay không, phụ thuộc vào suy luận diễn dịch có chặt chẽ hay không."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ 辩证法 có nghĩa là gì?",
+            "options": [
+              "Biện chứng pháp",
+              "Bản thể luận",
+              "Nhận thức luận",
+              "Biện luận"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Phương pháp suy luận \"từ nguyên lý chung rút ra kết luận cá biệt\" gọi là gì?",
+            "options": [
+              "归纳",
+              "演绎",
+              "推断",
+              "辩论"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "矛盾",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Mâu thuẫn",
+              "Phạm trù",
+              "Logic",
+              "Suy đoán"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "范畴",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Quy nạp",
+              "Diễn dịch",
+              "Phạm trù",
+              "Biện chứng pháp"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: ___法通过观察大量个案来概括普遍规律。",
+            "options": [
+              "归纳",
+              "演绎",
+              "辩证",
+              "本体"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Logic\"",
+            "options": [
+              "逻辑"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    }
+  ]
+}

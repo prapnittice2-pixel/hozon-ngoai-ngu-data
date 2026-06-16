@@ -1,0 +1,2402 @@
+{
+  "hsk3Lessons": [
+    {
+      "title": "Bài 1: Du Lịch & Giao Thông",
+      "type": "vocabulary",
+      "xp": 20,
+      "min": 10,
+      "order": 1,
+      "content": {
+        "image": "/images/lessons/travel.svg",
+        "intro": "Học từ vựng về du lịch và các phương tiện giao thông thông dụng trong tiếng Trung HSK3.",
+        "vocabulary": [
+          {
+            "word": "旅行",
+            "pinyin": "lǚ xíng",
+            "meaning": "Du lịch",
+            "example": "我想去旅行。",
+            "example_vi": "Tôi muốn đi du lịch.",
+            "tags": [
+              "du lịch"
+            ]
+          },
+          {
+            "word": "火车",
+            "pinyin": "huǒ chē",
+            "meaning": "Tàu hỏa",
+            "example": "我坐火车去北京。",
+            "example_vi": "Tôi đi tàu hỏa đến Bắc Kinh.",
+            "tags": [
+              "giao thông"
+            ]
+          },
+          {
+            "word": "飞机",
+            "pinyin": "fēi jī",
+            "meaning": "Máy bay",
+            "example": "飞机票很贵。",
+            "example_vi": "Vé máy bay rất đắt.",
+            "tags": [
+              "giao thông"
+            ]
+          },
+          {
+            "word": "地铁",
+            "pinyin": "dì tiě",
+            "meaning": "Tàu điện ngầm",
+            "example": "地铁很快。",
+            "example_vi": "Tàu điện ngầm rất nhanh.",
+            "tags": [
+              "giao thông"
+            ]
+          },
+          {
+            "word": "护照",
+            "pinyin": "hù zhào",
+            "meaning": "Hộ chiếu",
+            "example": "请带好护照。",
+            "example_vi": "Hãy mang theo hộ chiếu.",
+            "tags": [
+              "du lịch"
+            ]
+          },
+          {
+            "word": "行李",
+            "pinyin": "xíng li",
+            "meaning": "Hành lý",
+            "example": "你的行李太重了。",
+            "example_vi": "Hành lý của bạn quá nặng.",
+            "tags": [
+              "du lịch"
+            ]
+          },
+          {
+            "word": "宾馆",
+            "pinyin": "bīn guǎn",
+            "meaning": "Khách sạn",
+            "example": "我住在宾馆里。",
+            "example_vi": "Tôi ở trong khách sạn.",
+            "tags": [
+              "du lịch"
+            ]
+          },
+          {
+            "word": "出发",
+            "pinyin": "chū fā",
+            "meaning": "Khởi hành",
+            "example": "我们明天出发。",
+            "example_vi": "Chúng ta khởi hành vào ngày mai.",
+            "tags": [
+              "du lịch"
+            ]
+          },
+          {
+            "word": "到达",
+            "pinyin": "dào dá",
+            "meaning": "Đến nơi",
+            "example": "飞机几点到达？",
+            "example_vi": "Máy bay đến lúc mấy giờ?",
+            "tags": [
+              "du lịch",
+              "giao thông"
+            ]
+          },
+          {
+            "word": "票",
+            "pinyin": "piào",
+            "meaning": "Vé",
+            "example": "我买了两张票。",
+            "example_vi": "Tôi đã mua hai vé.",
+            "tags": [
+              "giao thông"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Câu hỏi thời gian: 几点 (mấy giờ)",
+            "explanation": "Dùng \"几点\" để hỏi giờ giấc. Cấu trúc: 主语 + 几点 + 动词？ Ví dụ: \"飞机几点到达？\" = \"Máy bay đến lúc mấy giờ?\". Trả lời dùng số + 点 (điểm giờ) + 分 (phút).",
+            "examples": [
+              "火车几点出发？= Tàu hỏa khởi hành lúc mấy giờ?",
+              "飞机三点到达。= Máy bay đến lúc ba giờ."
+            ]
+          },
+          {
+            "title": "Cấu trúc phương tiện di chuyển: 坐...去... (đi bằng...đến...)",
+            "explanation": "Dùng \"坐\" để chỉ phương tiện di chuyển, theo sau là tên phương tiện. Cấu trúc: 坐 + 交通工具 + 去 + 地点. Ví dụ: \"坐飞机去上海\" = \"Đi máy bay đến Thượng Hải\".",
+            "examples": [
+              "我坐地铁去公司。= Tôi đi tàu điện ngầm đến công ty.",
+              "她坐火车去北京。= Cô ấy đi tàu hỏa đến Bắc Kinh."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"护照\" có nghĩa là gì?",
+            "options": [
+              "Vé tàu",
+              "Hành lý",
+              "Hộ chiếu",
+              "Khách sạn"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Phương tiện nào di chuyển dưới lòng đất?",
+            "options": [
+              "飞机",
+              "火车",
+              "地铁",
+              "出发"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "旅行",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Khởi hành",
+              "Du lịch",
+              "Hành lý",
+              "Đến nơi"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "到达",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Đặt vé",
+              "Khởi hành",
+              "Đến nơi",
+              "Du lịch"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "我___ 火车去北京。(Tôi đi tàu hỏa đến Bắc Kinh)",
+            "options": [
+              "去",
+              "坐",
+              "买",
+              "到"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Máy bay\":",
+            "options": [
+              "飞机"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 2: Mua Sắm & Giá Cả",
+      "type": "vocabulary",
+      "xp": 20,
+      "min": 10,
+      "order": 2,
+      "content": {
+        "image": "/images/lessons/shopping.svg",
+        "intro": "Học từ vựng về mua sắm, giá cả và cách mặc cả khi đi chợ hoặc siêu thị.",
+        "vocabulary": [
+          {
+            "word": "商店",
+            "pinyin": "shāng diàn",
+            "meaning": "Cửa hàng",
+            "example": "这家商店很大。",
+            "example_vi": "Cửa hàng này rất lớn.",
+            "tags": [
+              "mua sắm"
+            ]
+          },
+          {
+            "word": "价格",
+            "pinyin": "jià gé",
+            "meaning": "Giá cả",
+            "example": "这个价格太高了。",
+            "example_vi": "Giá này quá cao.",
+            "tags": [
+              "mua sắm"
+            ]
+          },
+          {
+            "word": "便宜",
+            "pinyin": "pián yi",
+            "meaning": "Rẻ",
+            "example": "这里的东西很便宜。",
+            "example_vi": "Đồ ở đây rất rẻ.",
+            "tags": [
+              "mua sắm",
+              "tính từ"
+            ]
+          },
+          {
+            "word": "贵",
+            "pinyin": "guì",
+            "meaning": "Đắt",
+            "example": "这件衣服太贵了。",
+            "example_vi": "Cái áo này quá đắt.",
+            "tags": [
+              "mua sắm",
+              "tính từ"
+            ]
+          },
+          {
+            "word": "打折",
+            "pinyin": "dǎ zhé",
+            "meaning": "Giảm giá",
+            "example": "今天打折，八折。",
+            "example_vi": "Hôm nay giảm giá, còn 80%.",
+            "tags": [
+              "mua sắm"
+            ]
+          },
+          {
+            "word": "付钱",
+            "pinyin": "fù qián",
+            "meaning": "Trả tiền",
+            "example": "我去付钱。",
+            "example_vi": "Tôi đi trả tiền.",
+            "tags": [
+              "mua sắm"
+            ]
+          },
+          {
+            "word": "找钱",
+            "pinyin": "zhǎo qián",
+            "meaning": "Thối tiền",
+            "example": "请找钱给我。",
+            "example_vi": "Hãy thối tiền cho tôi.",
+            "tags": [
+              "mua sắm"
+            ]
+          },
+          {
+            "word": "超市",
+            "pinyin": "chāo shì",
+            "meaning": "Siêu thị",
+            "example": "我在超市买菜。",
+            "example_vi": "Tôi mua rau ở siêu thị.",
+            "tags": [
+              "mua sắm"
+            ]
+          },
+          {
+            "word": "收据",
+            "pinyin": "shōu jù",
+            "meaning": "Hóa đơn",
+            "example": "请给我收据。",
+            "example_vi": "Hãy cho tôi hóa đơn.",
+            "tags": [
+              "mua sắm"
+            ]
+          },
+          {
+            "word": "换",
+            "pinyin": "huàn",
+            "meaning": "Đổi",
+            "example": "我想换一件。",
+            "example_vi": "Tôi muốn đổi một cái khác.",
+            "tags": [
+              "mua sắm"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Biểu đạt giá tiền: 多少钱 (bao nhiêu tiền)",
+            "explanation": "Dùng \"多少钱\" để hỏi giá. Cấu trúc: 这个/那个 + 多少钱？ Trả lời: số + 块/元 (đồng nhân dân tệ). \"块\" là cách nói thông thường, \"元\" là chính thức. Ví dụ: \"这个多少钱？\" = \"Cái này bao nhiêu tiền?\"",
+            "examples": [
+              "这件衣服多少钱？= Cái áo này bao nhiêu tiền?",
+              "一共五十块钱。= Tổng cộng năm mươi tệ."
+            ]
+          },
+          {
+            "title": "Cấu trúc so sánh: 比 (so với/hơn)",
+            "explanation": "Dùng \"比\" để so sánh hai sự vật. Cấu trúc: A + 比 + B + 形容词. Ý nghĩa: A...hơn B. Ví dụ: \"这个比那个便宜\" = \"Cái này rẻ hơn cái kia\".",
+            "examples": [
+              "这个比那个贵。= Cái này đắt hơn cái kia.",
+              "超市比商店便宜。= Siêu thị rẻ hơn cửa hàng."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"打折\" có nghĩa là gì?",
+            "options": [
+              "Trả tiền",
+              "Giảm giá",
+              "Thối tiền",
+              "Đổi hàng"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Câu nào dùng để hỏi giá?",
+            "options": [
+              "你好吗？",
+              "多少钱？",
+              "几点了？",
+              "在哪里？"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "便宜",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Đắt",
+              "Giảm giá",
+              "Rẻ",
+              "Trả tiền"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "超市",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Cửa hàng",
+              "Siêu thị",
+              "Hóa đơn",
+              "Giá cả"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "这个___那个贵。(Cái này đắt hơn cái kia)",
+            "options": [
+              "和",
+              "比",
+              "是",
+              "有"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Hóa đơn\":",
+            "options": [
+              "收据"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 3: Thời Tiết & Thiên Nhiên",
+      "type": "vocabulary",
+      "xp": 20,
+      "min": 10,
+      "order": 3,
+      "content": {
+        "image": "/images/lessons/nature.svg",
+        "intro": "Học từ vựng về thời tiết, các mùa trong năm và thiên nhiên xung quanh chúng ta.",
+        "vocabulary": [
+          {
+            "word": "天气",
+            "pinyin": "tiān qì",
+            "meaning": "Thời tiết",
+            "example": "今天天气很好。",
+            "example_vi": "Hôm nay thời tiết rất đẹp.",
+            "tags": [
+              "thời tiết"
+            ]
+          },
+          {
+            "word": "下雨",
+            "pinyin": "xià yǔ",
+            "meaning": "Mưa",
+            "example": "外面在下雨。",
+            "example_vi": "Bên ngoài đang mưa.",
+            "tags": [
+              "thời tiết"
+            ]
+          },
+          {
+            "word": "下雪",
+            "pinyin": "xià xuě",
+            "meaning": "Tuyết rơi",
+            "example": "冬天会下雪。",
+            "example_vi": "Mùa đông có tuyết rơi.",
+            "tags": [
+              "thời tiết",
+              "mùa"
+            ]
+          },
+          {
+            "word": "晴天",
+            "pinyin": "qíng tiān",
+            "meaning": "Trời nắng",
+            "example": "明天是晴天。",
+            "example_vi": "Ngày mai trời nắng.",
+            "tags": [
+              "thời tiết"
+            ]
+          },
+          {
+            "word": "春天",
+            "pinyin": "chūn tiān",
+            "meaning": "Mùa xuân",
+            "example": "春天花开了。",
+            "example_vi": "Mùa xuân hoa nở.",
+            "tags": [
+              "mùa"
+            ]
+          },
+          {
+            "word": "夏天",
+            "pinyin": "xià tiān",
+            "meaning": "Mùa hè",
+            "example": "夏天很热。",
+            "example_vi": "Mùa hè rất nóng.",
+            "tags": [
+              "mùa"
+            ]
+          },
+          {
+            "word": "秋天",
+            "pinyin": "qiū tiān",
+            "meaning": "Mùa thu",
+            "example": "秋天叶子变黄了。",
+            "example_vi": "Mùa thu lá chuyển sang vàng.",
+            "tags": [
+              "mùa"
+            ]
+          },
+          {
+            "word": "冬天",
+            "pinyin": "dōng tiān",
+            "meaning": "Mùa đông",
+            "example": "冬天很冷。",
+            "example_vi": "Mùa đông rất lạnh.",
+            "tags": [
+              "mùa"
+            ]
+          },
+          {
+            "word": "温度",
+            "pinyin": "wēn dù",
+            "meaning": "Nhiệt độ",
+            "example": "今天温度是25度。",
+            "example_vi": "Hôm nay nhiệt độ là 25 độ.",
+            "tags": [
+              "thời tiết"
+            ]
+          },
+          {
+            "word": "刮风",
+            "pinyin": "guā fēng",
+            "meaning": "Có gió",
+            "example": "今天刮风了。",
+            "example_vi": "Hôm nay có gió.",
+            "tags": [
+              "thời tiết"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Câu miêu tả thời tiết: 天气 + 形容词",
+            "explanation": "Dùng tính từ sau \"天气\" để mô tả thời tiết. Các tính từ thường gặp: 好 (đẹp), 坏 (xấu), 热 (nóng), 冷 (lạnh), 暖和 (ấm áp). Cấu trúc: 今天/明天 + 天气 + 形容词.",
+            "examples": [
+              "今天天气很热。= Hôm nay thời tiết rất nóng.",
+              "明天天气会冷。= Ngày mai thời tiết sẽ lạnh."
+            ]
+          },
+          {
+            "title": "Biểu đạt thay đổi trạng thái: 了 (chỉ sự thay đổi)",
+            "explanation": "Thêm \"了\" vào cuối câu để chỉ sự thay đổi trạng thái đã xảy ra. Ví dụ: \"天黑了\" = \"Trời tối rồi\". Khác với \"了\" chỉ hoàn thành hành động, \"了\" ở đây nhấn mạnh sự thay đổi.",
+            "examples": [
+              "天气变冷了。= Thời tiết trở lạnh rồi.",
+              "下雨了，快回家吧。= Mưa rồi, về nhà nhanh thôi."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "冬天 liên quan đến hiện tượng thời tiết nào?",
+            "options": [
+              "下雨",
+              "下雪",
+              "刮风",
+              "晴天"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "\"温度是25度\" nghĩa là gì?",
+            "options": [
+              "Nhiệt độ là 25 độ",
+              "Mùa hè có 25 ngày",
+              "Hôm nay là ngày 25",
+              "Gió 25 km/h"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "天气",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Nhiệt độ",
+              "Thời tiết",
+              "Mùa xuân",
+              "Trời nắng"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "春天",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Mùa đông",
+              "Mùa hè",
+              "Mùa xuân",
+              "Mùa thu"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "外面在___雨。(Bên ngoài đang mưa)",
+            "options": [
+              "下",
+              "上",
+              "有",
+              "来"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Mùa thu\":",
+            "options": [
+              "秋天"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 4: Sức Khỏe & Cơ Thể",
+      "type": "vocabulary",
+      "xp": 20,
+      "min": 10,
+      "order": 4,
+      "content": {
+        "image": "/images/lessons/health.svg",
+        "intro": "Học từ vựng về sức khỏe, các bộ phận cơ thể và cách mô tả triệu chứng bệnh.",
+        "vocabulary": [
+          {
+            "word": "头疼",
+            "pinyin": "tóu téng",
+            "meaning": "Đau đầu",
+            "example": "我头疼，想休息。",
+            "example_vi": "Tôi đau đầu, muốn nghỉ ngơi.",
+            "tags": [
+              "sức khỏe",
+              "triệu chứng"
+            ]
+          },
+          {
+            "word": "发烧",
+            "pinyin": "fā shāo",
+            "meaning": "Sốt",
+            "example": "孩子发烧了。",
+            "example_vi": "Đứa trẻ bị sốt rồi.",
+            "tags": [
+              "sức khỏe",
+              "triệu chứng"
+            ]
+          },
+          {
+            "word": "医院",
+            "pinyin": "yī yuàn",
+            "meaning": "Bệnh viện",
+            "example": "我去医院看病。",
+            "example_vi": "Tôi đến bệnh viện khám bệnh.",
+            "tags": [
+              "sức khỏe"
+            ]
+          },
+          {
+            "word": "医生",
+            "pinyin": "yī shēng",
+            "meaning": "Bác sĩ",
+            "example": "医生说我需要休息。",
+            "example_vi": "Bác sĩ nói tôi cần nghỉ ngơi.",
+            "tags": [
+              "sức khỏe",
+              "nghề nghiệp"
+            ]
+          },
+          {
+            "word": "药",
+            "pinyin": "yào",
+            "meaning": "Thuốc",
+            "example": "每天吃两次药。",
+            "example_vi": "Uống thuốc hai lần mỗi ngày.",
+            "tags": [
+              "sức khỏe"
+            ]
+          },
+          {
+            "word": "手",
+            "pinyin": "shǒu",
+            "meaning": "Bàn tay",
+            "example": "请洗手。",
+            "example_vi": "Hãy rửa tay.",
+            "tags": [
+              "cơ thể"
+            ]
+          },
+          {
+            "word": "眼睛",
+            "pinyin": "yǎn jīng",
+            "meaning": "Mắt",
+            "example": "她的眼睛很大。",
+            "example_vi": "Mắt cô ấy rất to.",
+            "tags": [
+              "cơ thể"
+            ]
+          },
+          {
+            "word": "肚子",
+            "pinyin": "dù zi",
+            "meaning": "Bụng",
+            "example": "我肚子疼。",
+            "example_vi": "Tôi đau bụng.",
+            "tags": [
+              "cơ thể",
+              "triệu chứng"
+            ]
+          },
+          {
+            "word": "休息",
+            "pinyin": "xiū xi",
+            "meaning": "Nghỉ ngơi",
+            "example": "多休息才能好。",
+            "example_vi": "Nghỉ ngơi nhiều mới mau khỏi.",
+            "tags": [
+              "sức khỏe"
+            ]
+          },
+          {
+            "word": "检查",
+            "pinyin": "jiǎn chá",
+            "meaning": "Kiểm tra / Khám",
+            "example": "医生给我做检查。",
+            "example_vi": "Bác sĩ khám cho tôi.",
+            "tags": [
+              "sức khỏe"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Mô tả triệu chứng: 我...疼/不舒服",
+            "explanation": "Dùng bộ phận cơ thể + 疼 để nói đau. Ví dụ: 头疼 (đau đầu), 肚子疼 (đau bụng), 腿疼 (đau chân). Hoặc dùng \"不舒服\" sau chủ ngữ: 我不舒服 = Tôi không khỏe.",
+            "examples": [
+              "我头疼，发烧了。= Tôi bị đau đầu và sốt.",
+              "他肚子疼，要去医院。= Anh ấy đau bụng, phải đến bệnh viện."
+            ]
+          },
+          {
+            "title": "Dùng 要 để chỉ sự cần thiết (phải làm)",
+            "explanation": "\"要\" có nhiều nghĩa. Khi dùng để chỉ nghĩa vụ hoặc nhu cầu cần thiết, \"要\" nghĩa là \"phải/cần\". Cấu trúc: 主语 + 要 + 动词. Khác với \"想\" (muốn mang tính mong muốn cá nhân).",
+            "examples": [
+              "你要多喝水。= Bạn cần uống nhiều nước hơn.",
+              "生病了要去看医生。= Bị bệnh thì phải đi khám bác sĩ."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"发烧\" có nghĩa là gì?",
+            "options": [
+              "Đau đầu",
+              "Đau bụng",
+              "Sốt",
+              "Ho"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Bộ phận cơ thể nào được dùng trong \"我___疼\" để nói đau bụng?",
+            "options": [
+              "手",
+              "眼睛",
+              "头",
+              "肚子"
+            ],
+            "ans": 3
+          },
+          {
+            "type": "listen",
+            "word": "医院",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Bác sĩ",
+              "Thuốc",
+              "Bệnh viện",
+              "Nghỉ ngơi"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "休息",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Sốt",
+              "Nghỉ ngơi",
+              "Khám bệnh",
+              "Đau đầu"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "你___多休息。(Bạn cần nghỉ ngơi nhiều)",
+            "options": [
+              "想",
+              "要",
+              "去",
+              "有"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Thuốc\":",
+            "options": [
+              "药"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 5: Sở Thích & Giải Trí",
+      "type": "vocabulary",
+      "xp": 20,
+      "min": 10,
+      "order": 5,
+      "content": {
+        "image": "/images/lessons/hobbies.svg",
+        "intro": "Học từ vựng về sở thích cá nhân và các hoạt động giải trí phổ biến.",
+        "vocabulary": [
+          {
+            "word": "爱好",
+            "pinyin": "ài hào",
+            "meaning": "Sở thích",
+            "example": "你的爱好是什么？",
+            "example_vi": "Sở thích của bạn là gì?",
+            "tags": [
+              "sở thích"
+            ]
+          },
+          {
+            "word": "唱歌",
+            "pinyin": "chàng gē",
+            "meaning": "Hát",
+            "example": "她喜欢唱歌。",
+            "example_vi": "Cô ấy thích hát.",
+            "tags": [
+              "sở thích",
+              "âm nhạc"
+            ]
+          },
+          {
+            "word": "跳舞",
+            "pinyin": "tiào wǔ",
+            "meaning": "Nhảy múa",
+            "example": "我在学跳舞。",
+            "example_vi": "Tôi đang học nhảy.",
+            "tags": [
+              "sở thích"
+            ]
+          },
+          {
+            "word": "画画",
+            "pinyin": "huà huà",
+            "meaning": "Vẽ tranh",
+            "example": "他从小喜欢画画。",
+            "example_vi": "Anh ấy thích vẽ tranh từ nhỏ.",
+            "tags": [
+              "sở thích",
+              "nghệ thuật"
+            ]
+          },
+          {
+            "word": "游泳",
+            "pinyin": "yóu yǒng",
+            "meaning": "Bơi lội",
+            "example": "我每周游泳两次。",
+            "example_vi": "Tôi bơi hai lần mỗi tuần.",
+            "tags": [
+              "sở thích",
+              "thể thao"
+            ]
+          },
+          {
+            "word": "看书",
+            "pinyin": "kàn shū",
+            "meaning": "Đọc sách",
+            "example": "睡前我喜欢看书。",
+            "example_vi": "Trước khi ngủ tôi thích đọc sách.",
+            "tags": [
+              "sở thích"
+            ]
+          },
+          {
+            "word": "音乐",
+            "pinyin": "yīn yuè",
+            "meaning": "Âm nhạc",
+            "example": "我很喜欢音乐。",
+            "example_vi": "Tôi rất thích âm nhạc.",
+            "tags": [
+              "sở thích",
+              "âm nhạc"
+            ]
+          },
+          {
+            "word": "电影",
+            "pinyin": "diàn yǐng",
+            "meaning": "Phim điện ảnh",
+            "example": "周末我们去看电影吧。",
+            "example_vi": "Cuối tuần chúng ta đi xem phim nhé.",
+            "tags": [
+              "giải trí"
+            ]
+          },
+          {
+            "word": "运动",
+            "pinyin": "yùn dòng",
+            "meaning": "Thể thao / Vận động",
+            "example": "多运动对身体好。",
+            "example_vi": "Vận động nhiều tốt cho sức khỏe.",
+            "tags": [
+              "sở thích",
+              "thể thao"
+            ]
+          },
+          {
+            "word": "弹钢琴",
+            "pinyin": "tán gāng qín",
+            "meaning": "Chơi đàn piano",
+            "example": "她弹钢琴弹得很好。",
+            "example_vi": "Cô ấy chơi đàn piano rất giỏi.",
+            "tags": [
+              "sở thích",
+              "âm nhạc"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Biểu đạt sở thích: 喜欢 + 动词/名词",
+            "explanation": "Dùng \"喜欢\" để nói về sở thích. Cấu trúc: 主语 + 喜欢 + 动词/名词. Phủ định: 不喜欢. Câu hỏi: 你喜欢...吗？ Ví dụ: \"你喜欢唱歌吗？\" = \"Bạn có thích hát không?\"",
+            "examples": [
+              "我喜欢看书和听音乐。= Tôi thích đọc sách và nghe nhạc.",
+              "他不喜欢运动。= Anh ấy không thích thể thao."
+            ]
+          },
+          {
+            "title": "Bổ ngữ kết quả: 得 + 形容词 (làm...một cách...)",
+            "explanation": "\"得\" dùng sau động từ để bổ sung mức độ thực hiện hành động. Cấu trúc: 动词 + 得 + 形容词. Dùng để khen ngợi hoặc nhận xét cách thực hiện một hành động.",
+            "examples": [
+              "她唱歌唱得很好。= Cô ấy hát rất hay.",
+              "他游泳游得很快。= Anh ấy bơi rất nhanh."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"爱好\" có nghĩa là gì?",
+            "options": [
+              "Âm nhạc",
+              "Sở thích",
+              "Thể thao",
+              "Giải trí"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Câu nào đúng để nói \"Cô ấy hát rất hay\"?",
+            "options": [
+              "她唱歌很好。",
+              "她好唱歌。",
+              "她唱歌唱得很好。",
+              "她很好唱歌。"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "游泳",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Nhảy múa",
+              "Hát",
+              "Bơi lội",
+              "Vẽ tranh"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "电影",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Âm nhạc",
+              "Phim điện ảnh",
+              "Đọc sách",
+              "Thể thao"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "我___看书和听音乐。(Tôi thích đọc sách và nghe nhạc)",
+            "options": [
+              "爱好",
+              "运动",
+              "喜欢",
+              "学习"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Nhảy múa\":",
+            "options": [
+              "跳舞"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 6: Nghề Nghiệp & Công Việc",
+      "type": "vocabulary",
+      "xp": 20,
+      "min": 10,
+      "order": 6,
+      "content": {
+        "image": "/images/lessons/work.svg",
+        "intro": "Học từ vựng về các ngành nghề, công việc và môi trường làm việc trong tiếng Trung.",
+        "vocabulary": [
+          {
+            "word": "工作",
+            "pinyin": "gōng zuò",
+            "meaning": "Công việc / Làm việc",
+            "example": "你在哪里工作？",
+            "example_vi": "Bạn làm việc ở đâu?",
+            "tags": [
+              "công việc"
+            ]
+          },
+          {
+            "word": "公司",
+            "pinyin": "gōng sī",
+            "meaning": "Công ty",
+            "example": "我在一家大公司工作。",
+            "example_vi": "Tôi làm việc ở một công ty lớn.",
+            "tags": [
+              "công việc"
+            ]
+          },
+          {
+            "word": "老板",
+            "pinyin": "lǎo bǎn",
+            "meaning": "Sếp / Ông chủ",
+            "example": "我的老板很好。",
+            "example_vi": "Sếp tôi rất tốt.",
+            "tags": [
+              "công việc",
+              "người"
+            ]
+          },
+          {
+            "word": "同事",
+            "pinyin": "tóng shì",
+            "meaning": "Đồng nghiệp",
+            "example": "我和同事关系很好。",
+            "example_vi": "Tôi và đồng nghiệp có quan hệ rất tốt.",
+            "tags": [
+              "công việc",
+              "người"
+            ]
+          },
+          {
+            "word": "工资",
+            "pinyin": "gōng zī",
+            "meaning": "Lương",
+            "example": "这份工作工资很高。",
+            "example_vi": "Công việc này lương rất cao.",
+            "tags": [
+              "công việc"
+            ]
+          },
+          {
+            "word": "上班",
+            "pinyin": "shàng bān",
+            "meaning": "Đi làm",
+            "example": "我每天八点上班。",
+            "example_vi": "Tôi đi làm lúc tám giờ mỗi ngày.",
+            "tags": [
+              "công việc"
+            ]
+          },
+          {
+            "word": "下班",
+            "pinyin": "xià bān",
+            "meaning": "Tan làm",
+            "example": "下班后我去健身。",
+            "example_vi": "Sau khi tan làm tôi đi tập gym.",
+            "tags": [
+              "công việc"
+            ]
+          },
+          {
+            "word": "会议",
+            "pinyin": "huì yì",
+            "meaning": "Cuộc họp",
+            "example": "下午有一个会议。",
+            "example_vi": "Chiều nay có một cuộc họp.",
+            "tags": [
+              "công việc"
+            ]
+          },
+          {
+            "word": "经理",
+            "pinyin": "jīng lǐ",
+            "meaning": "Giám đốc / Quản lý",
+            "example": "他是我们的经理。",
+            "example_vi": "Anh ấy là giám đốc của chúng tôi.",
+            "tags": [
+              "công việc",
+              "người"
+            ]
+          },
+          {
+            "word": "加班",
+            "pinyin": "jiā bān",
+            "meaning": "Làm thêm giờ",
+            "example": "今天需要加班。",
+            "example_vi": "Hôm nay cần làm thêm giờ.",
+            "tags": [
+              "công việc"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc \"在\" để chỉ nơi làm việc",
+            "explanation": "Dùng \"在\" để chỉ nơi chốn đang xảy ra hành động. Cấu trúc: 主语 + 在 + 地点 + 工作/学习/生活. Ví dụ: \"我在公司工作\" = \"Tôi làm việc ở công ty\". Có thể hỏi: 你在哪里工作？",
+            "examples": [
+              "他在医院工作。= Anh ấy làm việc ở bệnh viện.",
+              "她在学校教书。= Cô ấy dạy học ở trường."
+            ]
+          },
+          {
+            "title": "Biểu đạt thời gian thường xuyên: 每天/每周 + 时间",
+            "explanation": "Dùng \"每天\" (mỗi ngày), \"每周\" (mỗi tuần) để diễn tả thói quen. Thời gian thường đứng trước động từ trong câu tiếng Trung. Cấu trúc: 每天/每周 + 时间点 + 动词.",
+            "examples": [
+              "我每天九点上班，六点下班。= Tôi đi làm lúc 9 giờ, tan làm lúc 6 giờ mỗi ngày.",
+              "每周一有部门会议。= Mỗi thứ Hai có họp phòng ban."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"同事\" có nghĩa là gì?",
+            "options": [
+              "Sếp",
+              "Giám đốc",
+              "Đồng nghiệp",
+              "Nhân viên"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Từ nào có nghĩa \"Làm thêm giờ\"?",
+            "options": [
+              "上班",
+              "下班",
+              "加班",
+              "工资"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "工资",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Công ty",
+              "Lương",
+              "Công việc",
+              "Cuộc họp"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "会议",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Đi làm",
+              "Tan làm",
+              "Cuộc họp",
+              "Đồng nghiệp"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "我___公司工作。(Tôi làm việc ở công ty)",
+            "options": [
+              "去",
+              "在",
+              "有",
+              "是"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Giám đốc / Quản lý\":",
+            "options": [
+              "经理"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    }
+  ],
+  "hsk4Lessons": [
+    {
+      "title": "Bài 1: Quan Điểm & Tranh Luận",
+      "type": "vocabulary",
+      "xp": 25,
+      "min": 12,
+      "order": 1,
+      "content": {
+        "image": "/images/lessons/generic.svg",
+        "intro": "Học cách bày tỏ quan điểm, đồng ý hay phản đối và lập luận thuyết phục trong tiếng Trung HSK4.",
+        "vocabulary": [
+          {
+            "word": "观点",
+            "pinyin": "guān diǎn",
+            "meaning": "Quan điểm",
+            "example": "我对这个问题有不同的观点。",
+            "example_vi": "Tôi có quan điểm khác về vấn đề này.",
+            "tags": [
+              "tranh luận",
+              "quan điểm"
+            ]
+          },
+          {
+            "word": "认为",
+            "pinyin": "rèn wéi",
+            "meaning": "Cho rằng / Nghĩ rằng",
+            "example": "我认为这个计划不可行。",
+            "example_vi": "Tôi cho rằng kế hoạch này không khả thi.",
+            "tags": [
+              "quan điểm"
+            ]
+          },
+          {
+            "word": "同意",
+            "pinyin": "tóng yì",
+            "meaning": "Đồng ý",
+            "example": "我同意你的观点。",
+            "example_vi": "Tôi đồng ý với quan điểm của bạn.",
+            "tags": [
+              "tranh luận"
+            ]
+          },
+          {
+            "word": "反对",
+            "pinyin": "fǎn duì",
+            "meaning": "Phản đối",
+            "example": "很多人反对这个政策。",
+            "example_vi": "Nhiều người phản đối chính sách này.",
+            "tags": [
+              "tranh luận"
+            ]
+          },
+          {
+            "word": "支持",
+            "pinyin": "zhī chí",
+            "meaning": "Ủng hộ",
+            "example": "我支持你的决定。",
+            "example_vi": "Tôi ủng hộ quyết định của bạn.",
+            "tags": [
+              "tranh luận"
+            ]
+          },
+          {
+            "word": "争论",
+            "pinyin": "zhēng lùn",
+            "meaning": "Tranh luận",
+            "example": "他们在争论这个问题。",
+            "example_vi": "Họ đang tranh luận về vấn đề này.",
+            "tags": [
+              "tranh luận"
+            ]
+          },
+          {
+            "word": "理由",
+            "pinyin": "lǐ yóu",
+            "meaning": "Lý do",
+            "example": "你有什么理由反对？",
+            "example_vi": "Bạn có lý do gì để phản đối?",
+            "tags": [
+              "tranh luận",
+              "lý luận"
+            ]
+          },
+          {
+            "word": "证明",
+            "pinyin": "zhèng míng",
+            "meaning": "Chứng minh",
+            "example": "你能证明你的观点吗？",
+            "example_vi": "Bạn có thể chứng minh quan điểm của bạn không?",
+            "tags": [
+              "lý luận"
+            ]
+          },
+          {
+            "word": "虽然...但是",
+            "pinyin": "suī rán...dàn shì",
+            "meaning": "Tuy...nhưng...",
+            "example": "虽然很难，但是我会努力。",
+            "example_vi": "Tuy khó, nhưng tôi sẽ cố gắng.",
+            "tags": [
+              "cấu trúc",
+              "quan điểm"
+            ]
+          },
+          {
+            "word": "尽管",
+            "pinyin": "jǐn guǎn",
+            "meaning": "Mặc dù",
+            "example": "尽管如此，我仍然支持。",
+            "example_vi": "Mặc dù vậy, tôi vẫn ủng hộ.",
+            "tags": [
+              "cấu trúc"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc nhượng bộ: 虽然...但是... (tuy...nhưng...)",
+            "explanation": "\"虽然...但是...\" dùng để thừa nhận một điểm đối lập nhưng nhấn mạnh vào ý chính. Cấu trúc: 虽然 + [mệnh đề 1], 但是 + [mệnh đề 2]. Chủ ngữ có thể đứng trước 虽然 hoặc sau 但是. Nhấn mạnh mệnh đề sau 但是.",
+            "examples": [
+              "虽然价格贵，但是质量很好。= Tuy giá đắt nhưng chất lượng rất tốt.",
+              "他虽然年轻，但是很有经验。= Anh ấy tuy trẻ nhưng rất có kinh nghiệm."
+            ]
+          },
+          {
+            "title": "Biểu đạt ý kiến: 我认为/我觉得 (tôi cho rằng/tôi cảm thấy)",
+            "explanation": "\"认为\" mang tính lý trí, dùng khi đưa ra nhận định dựa trên lý lẽ. \"觉得\" mang tính cảm tính hơn, dùng khi bày tỏ cảm nhận cá nhân. Cả hai đều theo sau bởi mệnh đề hoàn chỉnh.",
+            "examples": [
+              "我认为环境保护很重要。= Tôi cho rằng bảo vệ môi trường rất quan trọng.",
+              "我觉得这个方案不太合适。= Tôi cảm thấy phương án này không phù hợp lắm."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"反对\" có nghĩa là gì?",
+            "options": [
+              "Đồng ý",
+              "Ủng hộ",
+              "Phản đối",
+              "Tranh luận"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Từ nào phù hợp điền vào: \"___很难，___我会努力\"?",
+            "options": [
+              "因为...所以",
+              "虽然...但是",
+              "如果...就",
+              "一边...一边"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "观点",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Lý do",
+              "Quan điểm",
+              "Chứng minh",
+              "Tranh luận"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "支持",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Phản đối",
+              "Đồng ý",
+              "Ủng hộ",
+              "Lý do"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "我___这个计划不可行。(Tôi cho rằng kế hoạch này không khả thi)",
+            "options": [
+              "支持",
+              "反对",
+              "认为",
+              "同意"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Lý do\":",
+            "options": [
+              "理由"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 2: Tin Tức & Xã Hội",
+      "type": "vocabulary",
+      "xp": 25,
+      "min": 12,
+      "order": 2,
+      "content": {
+        "image": "/images/lessons/generic.svg",
+        "intro": "Học từ vựng về tin tức, truyền thông và các vấn đề xã hội thường gặp trong tiếng Trung.",
+        "vocabulary": [
+          {
+            "word": "新闻",
+            "pinyin": "xīn wén",
+            "meaning": "Tin tức",
+            "example": "我每天早上看新闻。",
+            "example_vi": "Tôi xem tin tức mỗi sáng.",
+            "tags": [
+              "truyền thông",
+              "xã hội"
+            ]
+          },
+          {
+            "word": "报道",
+            "pinyin": "bào dào",
+            "meaning": "Bản tin / Đưa tin",
+            "example": "记者正在报道这件事。",
+            "example_vi": "Phóng viên đang đưa tin về sự việc này.",
+            "tags": [
+              "truyền thông"
+            ]
+          },
+          {
+            "word": "社会",
+            "pinyin": "shè huì",
+            "meaning": "Xã hội",
+            "example": "我们要为社会做贡献。",
+            "example_vi": "Chúng ta cần đóng góp cho xã hội.",
+            "tags": [
+              "xã hội"
+            ]
+          },
+          {
+            "word": "问题",
+            "pinyin": "wèn tí",
+            "meaning": "Vấn đề",
+            "example": "这是一个严重的社会问题。",
+            "example_vi": "Đây là một vấn đề xã hội nghiêm trọng.",
+            "tags": [
+              "xã hội"
+            ]
+          },
+          {
+            "word": "环境",
+            "pinyin": "huán jìng",
+            "meaning": "Môi trường",
+            "example": "保护环境是我们的责任。",
+            "example_vi": "Bảo vệ môi trường là trách nhiệm của chúng ta.",
+            "tags": [
+              "xã hội",
+              "môi trường"
+            ]
+          },
+          {
+            "word": "政府",
+            "pinyin": "zhèng fǔ",
+            "meaning": "Chính phủ",
+            "example": "政府出台了新政策。",
+            "example_vi": "Chính phủ ban hành chính sách mới.",
+            "tags": [
+              "xã hội",
+              "chính trị"
+            ]
+          },
+          {
+            "word": "影响",
+            "pinyin": "yǐng xiǎng",
+            "meaning": "Ảnh hưởng",
+            "example": "这件事影响了很多人。",
+            "example_vi": "Sự việc này ảnh hưởng đến nhiều người.",
+            "tags": [
+              "xã hội"
+            ]
+          },
+          {
+            "word": "解决",
+            "pinyin": "jiě jué",
+            "meaning": "Giải quyết",
+            "example": "我们需要解决这个问题。",
+            "example_vi": "Chúng ta cần giải quyết vấn đề này.",
+            "tags": [
+              "xã hội"
+            ]
+          },
+          {
+            "word": "发展",
+            "pinyin": "fā zhǎn",
+            "meaning": "Phát triển",
+            "example": "经济快速发展带来了很多变化。",
+            "example_vi": "Kinh tế phát triển nhanh đã mang lại nhiều thay đổi.",
+            "tags": [
+              "xã hội",
+              "kinh tế"
+            ]
+          },
+          {
+            "word": "责任",
+            "pinyin": "zé rèn",
+            "meaning": "Trách nhiệm",
+            "example": "每个人都有保护环境的责任。",
+            "example_vi": "Mỗi người đều có trách nhiệm bảo vệ môi trường.",
+            "tags": [
+              "xã hội"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc nhân quả: 由于...因此... (do...vì vậy...)",
+            "explanation": "\"由于\" chỉ nguyên nhân (thường là khách quan), \"因此\" chỉ kết quả. Cấu trúc này trang trọng hơn \"因为...所以\" và thường dùng trong văn viết, báo chí. Cấu trúc: 由于 + [nguyên nhân], 因此 + [kết quả].",
+            "examples": [
+              "由于环境污染严重，因此政府加大了保护力度。= Do ô nhiễm môi trường nghiêm trọng, vì vậy chính phủ tăng cường bảo vệ.",
+              "由于经济发展，因此人们的生活水平提高了。= Do kinh tế phát triển, mức sống của người dân đã được nâng cao."
+            ]
+          },
+          {
+            "title": "Bị động cách: 被 (bị/được làm)",
+            "explanation": "\"被\" dùng để tạo câu bị động. Cấu trúc: 主语 + 被 + (施事者) + 动词 + (其他成分). \"被\" thường mang hàm ý tiêu cực hoặc bất ngờ trong tiếng Trung. Ví dụ: \"报道被删除了\" = \"Bản tin đã bị xóa\".",
+            "examples": [
+              "那篇报道被删除了。= Bài báo đó đã bị xóa.",
+              "这个问题被政府重视了。= Vấn đề này đã được chính phủ chú trọng."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"解决\" có nghĩa là gì?",
+            "options": [
+              "Phát triển",
+              "Ảnh hưởng",
+              "Giải quyết",
+              "Trách nhiệm"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Cấu trúc nào thể hiện câu bị động trong tiếng Trung?",
+            "options": [
+              "主语+很+形容词",
+              "主语+被+动词",
+              "虽然...但是",
+              "由于...因此"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "社会",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Chính phủ",
+              "Môi trường",
+              "Xã hội",
+              "Tin tức"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "责任",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Ảnh hưởng",
+              "Trách nhiệm",
+              "Vấn đề",
+              "Phát triển"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "___环境污染严重，___政府加大保护力度。(Do ô nhiễm...vì vậy chính phủ...)",
+            "options": [
+              "虽然...但是",
+              "如果...就",
+              "由于...因此",
+              "一边...一边"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Chính phủ\":",
+            "options": [
+              "政府"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 3: Công Nghệ & Internet",
+      "type": "vocabulary",
+      "xp": 25,
+      "min": 12,
+      "order": 3,
+      "content": {
+        "image": "/images/lessons/technology.svg",
+        "intro": "Học từ vựng về công nghệ, internet và cuộc sống kỹ thuật số hiện đại trong tiếng Trung.",
+        "vocabulary": [
+          {
+            "word": "网络",
+            "pinyin": "wǎng luò",
+            "meaning": "Mạng internet",
+            "example": "没有网络我无法工作。",
+            "example_vi": "Không có mạng tôi không thể làm việc.",
+            "tags": [
+              "công nghệ",
+              "internet"
+            ]
+          },
+          {
+            "word": "手机",
+            "pinyin": "shǒu jī",
+            "meaning": "Điện thoại di động",
+            "example": "现代人离不开手机。",
+            "example_vi": "Người hiện đại không thể thiếu điện thoại.",
+            "tags": [
+              "công nghệ"
+            ]
+          },
+          {
+            "word": "软件",
+            "pinyin": "ruǎn jiàn",
+            "meaning": "Phần mềm",
+            "example": "这款软件很好用。",
+            "example_vi": "Phần mềm này rất dễ dùng.",
+            "tags": [
+              "công nghệ"
+            ]
+          },
+          {
+            "word": "下载",
+            "pinyin": "xià zài",
+            "meaning": "Tải xuống",
+            "example": "请下载最新版本。",
+            "example_vi": "Hãy tải xuống phiên bản mới nhất.",
+            "tags": [
+              "công nghệ",
+              "internet"
+            ]
+          },
+          {
+            "word": "上传",
+            "pinyin": "shàng chuán",
+            "meaning": "Tải lên",
+            "example": "我把照片上传到云端。",
+            "example_vi": "Tôi tải ảnh lên đám mây.",
+            "tags": [
+              "công nghệ",
+              "internet"
+            ]
+          },
+          {
+            "word": "人工智能",
+            "pinyin": "rén gōng zhì néng",
+            "meaning": "Trí tuệ nhân tạo (AI)",
+            "example": "人工智能正在改变世界。",
+            "example_vi": "Trí tuệ nhân tạo đang thay đổi thế giới.",
+            "tags": [
+              "công nghệ",
+              "AI"
+            ]
+          },
+          {
+            "word": "数据",
+            "pinyin": "shù jù",
+            "meaning": "Dữ liệu",
+            "example": "大数据分析很重要。",
+            "example_vi": "Phân tích dữ liệu lớn rất quan trọng.",
+            "tags": [
+              "công nghệ"
+            ]
+          },
+          {
+            "word": "隐私",
+            "pinyin": "yǐn sī",
+            "meaning": "Quyền riêng tư",
+            "example": "保护网络隐私很重要。",
+            "example_vi": "Bảo vệ quyền riêng tư trên mạng rất quan trọng.",
+            "tags": [
+              "công nghệ",
+              "internet"
+            ]
+          },
+          {
+            "word": "平台",
+            "pinyin": "píng tái",
+            "meaning": "Nền tảng",
+            "example": "这个平台有很多用户。",
+            "example_vi": "Nền tảng này có rất nhiều người dùng.",
+            "tags": [
+              "công nghệ",
+              "internet"
+            ]
+          },
+          {
+            "word": "创新",
+            "pinyin": "chuàng xīn",
+            "meaning": "Sáng tạo / Đổi mới",
+            "example": "科技创新推动经济发展。",
+            "example_vi": "Đổi mới công nghệ thúc đẩy phát triển kinh tế.",
+            "tags": [
+              "công nghệ"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc \"离不开\" (không thể thiếu)",
+            "explanation": "\"离不开\" = 离 (rời xa) + 不 (không) + 开 (mở/ra). Nghĩa: không thể tách rời, không thể thiếu. Cấu trúc: 主语 + 离不开 + 名词. Đây là cấu trúc bổ ngữ tiềm năng phủ định, diễn tả sự phụ thuộc.",
+            "examples": [
+              "现代生活离不开网络。= Cuộc sống hiện đại không thể thiếu internet.",
+              "学中文离不开多练习。= Học tiếng Trung không thể thiếu việc luyện tập nhiều."
+            ]
+          },
+          {
+            "title": "Cấu trúc \"随着...，...\" (cùng với sự phát triển của...)",
+            "explanation": "\"随着\" nghĩa là \"cùng với/theo\". Dùng để diễn tả sự thay đổi đồng thời. Cấu trúc: 随着 + [sự việc/thay đổi], + [kết quả]. Thường dùng trong văn phong trang trọng và báo chí.",
+            "examples": [
+              "随着科技发展，生活越来越方便。= Cùng với sự phát triển của công nghệ, cuộc sống ngày càng tiện lợi.",
+              "随着年龄增长，他越来越成熟。= Cùng với tuổi tác tăng lên, anh ấy ngày càng trưởng thành hơn."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"隐私\" có nghĩa là gì?",
+            "options": [
+              "Dữ liệu",
+              "Nền tảng",
+              "Quyền riêng tư",
+              "Sáng tạo"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "\"人工智能\" viết tắt là gì trong tiếng Anh?",
+            "options": [
+              "IoT",
+              "VR",
+              "AI",
+              "5G"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "网络",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Phần mềm",
+              "Mạng internet",
+              "Dữ liệu",
+              "Tải xuống"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "创新",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Nền tảng",
+              "Tải lên",
+              "Sáng tạo / Đổi mới",
+              "Phần mềm"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "___科技发展，生活越来越方便。(Cùng với sự phát triển của công nghệ...)",
+            "options": [
+              "因为",
+              "虽然",
+              "随着",
+              "尽管"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Dữ liệu\":",
+            "options": [
+              "数据"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 4: Văn Hóa & Nghệ Thuật",
+      "type": "vocabulary",
+      "xp": 25,
+      "min": 12,
+      "order": 4,
+      "content": {
+        "image": "/images/lessons/generic.svg",
+        "intro": "Học từ vựng về văn hóa Trung Quốc, nghệ thuật và các truyền thống đặc sắc.",
+        "vocabulary": [
+          {
+            "word": "文化",
+            "pinyin": "wén huà",
+            "meaning": "Văn hóa",
+            "example": "中国有悠久的文化历史。",
+            "example_vi": "Trung Quốc có lịch sử văn hóa lâu đời.",
+            "tags": [
+              "văn hóa"
+            ]
+          },
+          {
+            "word": "传统",
+            "pinyin": "chuán tǒng",
+            "meaning": "Truyền thống",
+            "example": "春节是中国的传统节日。",
+            "example_vi": "Tết Nguyên Đán là lễ hội truyền thống của Trung Quốc.",
+            "tags": [
+              "văn hóa",
+              "truyền thống"
+            ]
+          },
+          {
+            "word": "艺术",
+            "pinyin": "yì shù",
+            "meaning": "Nghệ thuật",
+            "example": "他对中国艺术很感兴趣。",
+            "example_vi": "Anh ấy rất quan tâm đến nghệ thuật Trung Quốc.",
+            "tags": [
+              "nghệ thuật"
+            ]
+          },
+          {
+            "word": "书法",
+            "pinyin": "shū fǎ",
+            "meaning": "Thư pháp",
+            "example": "书法是中国传统艺术。",
+            "example_vi": "Thư pháp là nghệ thuật truyền thống Trung Quốc.",
+            "tags": [
+              "nghệ thuật",
+              "truyền thống"
+            ]
+          },
+          {
+            "word": "节日",
+            "pinyin": "jié rì",
+            "meaning": "Ngày lễ / Lễ hội",
+            "example": "你最喜欢哪个节日？",
+            "example_vi": "Bạn thích ngày lễ nào nhất?",
+            "tags": [
+              "văn hóa",
+              "truyền thống"
+            ]
+          },
+          {
+            "word": "习俗",
+            "pinyin": "xí sú",
+            "meaning": "Phong tục",
+            "example": "每个地方都有不同的习俗。",
+            "example_vi": "Mỗi nơi đều có phong tục khác nhau.",
+            "tags": [
+              "văn hóa",
+              "truyền thống"
+            ]
+          },
+          {
+            "word": "京剧",
+            "pinyin": "jīng jù",
+            "meaning": "Kinh kịch (Bắc Kinh)",
+            "example": "京剧是中国国粹之一。",
+            "example_vi": "Kinh kịch là một trong những tinh hoa của Trung Quốc.",
+            "tags": [
+              "nghệ thuật",
+              "truyền thống"
+            ]
+          },
+          {
+            "word": "博物馆",
+            "pinyin": "bó wù guǎn",
+            "meaning": "Bảo tàng",
+            "example": "故宫博物馆很有名。",
+            "example_vi": "Bảo tàng Cố Cung rất nổi tiếng.",
+            "tags": [
+              "văn hóa"
+            ]
+          },
+          {
+            "word": "遗产",
+            "pinyin": "yí chǎn",
+            "meaning": "Di sản",
+            "example": "长城是世界遗产。",
+            "example_vi": "Vạn Lý Trường Thành là di sản thế giới.",
+            "tags": [
+              "văn hóa",
+              "lịch sử"
+            ]
+          },
+          {
+            "word": "欣赏",
+            "pinyin": "xīn shǎng",
+            "meaning": "Thưởng thức / Ngưỡng mộ",
+            "example": "我很欣赏中国古典音乐。",
+            "example_vi": "Tôi rất thích thưởng thức âm nhạc cổ điển Trung Quốc.",
+            "tags": [
+              "nghệ thuật"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Biểu đạt sự quan tâm: 对...感兴趣 (quan tâm đến/hứng thú với)",
+            "explanation": "\"对...感兴趣\" là cấu trúc cố định để nói về sở thích hoặc lĩnh vực quan tâm. Cấu trúc: 主语 + 对 + 领域/事物 + 感兴趣. Phủ định: 不感兴趣. Mức độ: 很/非常/特别 + 感兴趣.",
+            "examples": [
+              "她对中国历史很感兴趣。= Cô ấy rất quan tâm đến lịch sử Trung Quốc.",
+              "我对现代艺术不太感兴趣。= Tôi không quá hứng thú với nghệ thuật hiện đại."
+            ]
+          },
+          {
+            "title": "Cấu trúc \"是...之一\" (là một trong những...)",
+            "explanation": "\"...之一\" nghĩa là \"một trong những...\". Cấu trúc: [Chủ ngữ] + 是 + [danh từ nhóm] + 之一. Dùng để phân loại hoặc xếp hạng chủ ngữ vào một nhóm lớn hơn. Ví dụ: \"京剧是中国国粹之一\" = \"Kinh kịch là một trong những tinh hoa của Trung Quốc\".",
+            "examples": [
+              "长城是世界最著名的遗产之一。= Vạn Lý Trường Thành là một trong những di sản nổi tiếng nhất thế giới.",
+              "汉字是世界上最难学的文字之一。= Chữ Hán là một trong những ngôn ngữ khó học nhất thế giới."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"习俗\" có nghĩa là gì?",
+            "options": [
+              "Ngày lễ",
+              "Di sản",
+              "Phong tục",
+              "Nghệ thuật"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "\"京剧\" là loại hình nghệ thuật gì?",
+            "options": [
+              "Thư pháp",
+              "Kinh kịch",
+              "Bảo tàng",
+              "Thưởng thức"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "传统",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Văn hóa",
+              "Truyền thống",
+              "Di sản",
+              "Phong tục"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "遗产",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Bảo tàng",
+              "Truyền thống",
+              "Thưởng thức",
+              "Di sản"
+            ],
+            "ans": 3
+          },
+          {
+            "type": "fill",
+            "q": "她___中国历史很感兴趣。(Cô ấy rất quan tâm đến lịch sử Trung Quốc)",
+            "options": [
+              "在",
+              "对",
+              "有",
+              "和"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Thư pháp\":",
+            "options": [
+              "书法"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 5: Kinh Tế & Thương Mại",
+      "type": "vocabulary",
+      "xp": 25,
+      "min": 12,
+      "order": 5,
+      "content": {
+        "image": "/images/lessons/money.svg",
+        "intro": "Học từ vựng về kinh tế, thương mại và hoạt động kinh doanh trong tiếng Trung HSK4.",
+        "vocabulary": [
+          {
+            "word": "经济",
+            "pinyin": "jīng jì",
+            "meaning": "Kinh tế",
+            "example": "中国经济增长很快。",
+            "example_vi": "Kinh tế Trung Quốc tăng trưởng rất nhanh.",
+            "tags": [
+              "kinh tế"
+            ]
+          },
+          {
+            "word": "贸易",
+            "pinyin": "mào yì",
+            "meaning": "Thương mại / Mậu dịch",
+            "example": "中越两国贸易关系很好。",
+            "example_vi": "Quan hệ thương mại Trung-Việt rất tốt.",
+            "tags": [
+              "kinh tế",
+              "thương mại"
+            ]
+          },
+          {
+            "word": "市场",
+            "pinyin": "shì chǎng",
+            "meaning": "Thị trường",
+            "example": "这个市场竞争很激烈。",
+            "example_vi": "Thị trường này cạnh tranh rất khốc liệt.",
+            "tags": [
+              "kinh tế",
+              "thương mại"
+            ]
+          },
+          {
+            "word": "投资",
+            "pinyin": "tóu zī",
+            "meaning": "Đầu tư",
+            "example": "他在股市投资了很多钱。",
+            "example_vi": "Anh ấy đầu tư nhiều tiền vào thị trường chứng khoán.",
+            "tags": [
+              "kinh tế",
+              "tài chính"
+            ]
+          },
+          {
+            "word": "利润",
+            "pinyin": "lì rùn",
+            "meaning": "Lợi nhuận",
+            "example": "今年公司的利润增加了。",
+            "example_vi": "Năm nay lợi nhuận của công ty tăng.",
+            "tags": [
+              "kinh tế",
+              "tài chính"
+            ]
+          },
+          {
+            "word": "竞争",
+            "pinyin": "jìng zhēng",
+            "meaning": "Cạnh tranh",
+            "example": "市场竞争越来越激烈。",
+            "example_vi": "Cạnh tranh thị trường ngày càng khốc liệt.",
+            "tags": [
+              "kinh tế",
+              "thương mại"
+            ]
+          },
+          {
+            "word": "合同",
+            "pinyin": "hé tong",
+            "meaning": "Hợp đồng",
+            "example": "我们签了合同。",
+            "example_vi": "Chúng tôi đã ký hợp đồng.",
+            "tags": [
+              "thương mại"
+            ]
+          },
+          {
+            "word": "谈判",
+            "pinyin": "tán pàn",
+            "meaning": "Đàm phán",
+            "example": "两国正在进行贸易谈判。",
+            "example_vi": "Hai nước đang tiến hành đàm phán thương mại.",
+            "tags": [
+              "thương mại"
+            ]
+          },
+          {
+            "word": "品牌",
+            "pinyin": "pǐn pái",
+            "meaning": "Thương hiệu",
+            "example": "这个品牌在全球很有名。",
+            "example_vi": "Thương hiệu này nổi tiếng toàn cầu.",
+            "tags": [
+              "thương mại"
+            ]
+          },
+          {
+            "word": "出口",
+            "pinyin": "chū kǒu",
+            "meaning": "Xuất khẩu",
+            "example": "中国出口很多商品到越南。",
+            "example_vi": "Trung Quốc xuất khẩu nhiều hàng hóa sang Việt Nam.",
+            "tags": [
+              "kinh tế",
+              "thương mại"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc so sánh nâng cao: 越来越... (ngày càng...)",
+            "explanation": "\"越来越\" biểu đạt sự thay đổi liên tục theo hướng tăng dần. Cấu trúc: 主语 + 越来越 + 形容词/动词. Nhấn mạnh xu hướng phát triển. Ví dụ: \"市场竞争越来越激烈\" = \"Cạnh tranh thị trường ngày càng khốc liệt\".",
+            "examples": [
+              "全球化使国际贸易越来越重要。= Toàn cầu hóa khiến thương mại quốc tế ngày càng quan trọng.",
+              "这个品牌越来越受欢迎。= Thương hiệu này ngày càng được ưa chuộng."
+            ]
+          },
+          {
+            "title": "Cấu trúc kết quả: 使/让 + 宾语 + 动词/形容词",
+            "explanation": "\"使\" và \"让\" đều có nghĩa \"làm cho/khiến\". \"使\" trang trọng hơn, thường dùng trong văn viết. \"让\" thông thường hơn. Cấu trúc: 主语 + 使/让 + 宾语 + 结果. Biểu đạt nguyên nhân dẫn đến kết quả.",
+            "examples": [
+              "科技创新使经济快速发展。= Đổi mới công nghệ khiến kinh tế phát triển nhanh.",
+              "良好的合作让两国贸易增加。= Hợp tác tốt khiến thương mại hai nước tăng lên."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"谈判\" có nghĩa là gì?",
+            "options": [
+              "Hợp đồng",
+              "Cạnh tranh",
+              "Đàm phán",
+              "Thương hiệu"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Cấu trúc nào diễn tả \"ngày càng...\"?",
+            "options": [
+              "一直",
+              "越来越",
+              "已经",
+              "刚刚"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "投资",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Lợi nhuận",
+              "Xuất khẩu",
+              "Đầu tư",
+              "Thị trường"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "品牌",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Hợp đồng",
+              "Thương hiệu",
+              "Cạnh tranh",
+              "Thương mại"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "科技创新___经济快速发展。(Đổi mới công nghệ khiến kinh tế phát triển nhanh)",
+            "options": [
+              "让",
+              "使",
+              "被",
+              "给"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Xuất khẩu\":",
+            "options": [
+              "出口"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 6: Giáo Dục & Học Thuật",
+      "type": "vocabulary",
+      "xp": 25,
+      "min": 12,
+      "order": 6,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Học từ vựng về giáo dục, học thuật và môi trường đại học trong tiếng Trung HSK4.",
+        "vocabulary": [
+          {
+            "word": "教育",
+            "pinyin": "jiào yù",
+            "meaning": "Giáo dục",
+            "example": "教育是国家发展的基础。",
+            "example_vi": "Giáo dục là nền tảng phát triển của quốc gia.",
+            "tags": [
+              "giáo dục"
+            ]
+          },
+          {
+            "word": "大学",
+            "pinyin": "dà xué",
+            "meaning": "Đại học",
+            "example": "她考上了北京大学。",
+            "example_vi": "Cô ấy đã đỗ vào Đại học Bắc Kinh.",
+            "tags": [
+              "giáo dục"
+            ]
+          },
+          {
+            "word": "专业",
+            "pinyin": "zhuān yè",
+            "meaning": "Chuyên ngành",
+            "example": "你学什么专业？",
+            "example_vi": "Bạn học chuyên ngành gì?",
+            "tags": [
+              "giáo dục"
+            ]
+          },
+          {
+            "word": "论文",
+            "pinyin": "lùn wén",
+            "meaning": "Luận văn / Bài báo khoa học",
+            "example": "我正在写毕业论文。",
+            "example_vi": "Tôi đang viết luận văn tốt nghiệp.",
+            "tags": [
+              "giáo dục",
+              "học thuật"
+            ]
+          },
+          {
+            "word": "奖学金",
+            "pinyin": "jiǎng xué jīn",
+            "meaning": "Học bổng",
+            "example": "他获得了全额奖学金。",
+            "example_vi": "Anh ấy nhận được học bổng toàn phần.",
+            "tags": [
+              "giáo dục"
+            ]
+          },
+          {
+            "word": "研究",
+            "pinyin": "yán jiū",
+            "meaning": "Nghiên cứu",
+            "example": "她在做科学研究。",
+            "example_vi": "Cô ấy đang làm nghiên cứu khoa học.",
+            "tags": [
+              "học thuật"
+            ]
+          },
+          {
+            "word": "成绩",
+            "pinyin": "chéng jì",
+            "meaning": "Thành tích / Điểm số",
+            "example": "他的成绩一直很好。",
+            "example_vi": "Thành tích của anh ấy luôn rất tốt.",
+            "tags": [
+              "giáo dục"
+            ]
+          },
+          {
+            "word": "知识",
+            "pinyin": "zhī shi",
+            "meaning": "Kiến thức",
+            "example": "学习可以增加知识。",
+            "example_vi": "Học tập có thể tăng kiến thức.",
+            "tags": [
+              "giáo dục",
+              "học thuật"
+            ]
+          },
+          {
+            "word": "毕业",
+            "pinyin": "bì yè",
+            "meaning": "Tốt nghiệp",
+            "example": "她明年大学毕业。",
+            "example_vi": "Năm sau cô ấy tốt nghiệp đại học.",
+            "tags": [
+              "giáo dục"
+            ]
+          },
+          {
+            "word": "培养",
+            "pinyin": "péi yǎng",
+            "meaning": "Bồi dưỡng / Đào tạo",
+            "example": "学校培养了很多优秀人才。",
+            "example_vi": "Trường đã đào tạo nhiều nhân tài xuất sắc.",
+            "tags": [
+              "giáo dục"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc kết quả thành công: 考上/获得 (đỗ vào/đạt được)",
+            "explanation": "\"考上\" = thi đỗ vào (trường/chức vụ). \"获得\" = đạt được, giành được (giải thưởng, học bổng). Đây là các bổ ngữ hướng và kết quả quan trọng trong văn cảnh học thuật. Cấu trúc: 主语 + 考上/获得 + 目标.",
+            "examples": [
+              "他考上了清华大学。= Anh ấy đã đỗ vào Đại học Thanh Hoa.",
+              "她获得了国家奖学金。= Cô ấy nhận được học bổng nhà nước."
+            ]
+          },
+          {
+            "title": "Cấu trúc mục đích: 为了...，... (để...)",
+            "explanation": "\"为了\" chỉ mục đích hoặc mục tiêu của hành động. Cấu trúc: 为了 + [mục đích], + [hành động]. \"为了\" thường đứng đầu câu hoặc trước động từ. Khác với \"因为\" chỉ nguyên nhân, \"为了\" chỉ mục tiêu tương lai.",
+            "examples": [
+              "为了考上大学，他每天努力学习。= Để đỗ đại học, anh ấy học chăm chỉ mỗi ngày.",
+              "为了获得奖学金，她做了很多研究。= Để giành học bổng, cô ấy đã nghiên cứu rất nhiều."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "\"奖学金\" có nghĩa là gì?",
+            "options": [
+              "Luận văn",
+              "Chuyên ngành",
+              "Học bổng",
+              "Thành tích"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "Cấu trúc nào chỉ mục đích trong tiếng Trung?",
+            "options": [
+              "因为",
+              "所以",
+              "为了",
+              "虽然"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "研究",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Giáo dục",
+              "Nghiên cứu",
+              "Kiến thức",
+              "Tốt nghiệp"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "成绩",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Thành tích / Điểm số",
+              "Chuyên ngành",
+              "Đào tạo",
+              "Luận văn"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "fill",
+            "q": "___考上大学，他每天努力学习。(Để đỗ đại học, anh ấy học chăm chỉ)",
+            "options": [
+              "因为",
+              "为了",
+              "虽然",
+              "如果"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "type",
+            "q": "Nhập từ tiếng Trung có nghĩa \"Tốt nghiệp\":",
+            "options": [
+              "毕业"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    }
+  ]
+}

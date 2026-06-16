@@ -1,0 +1,3368 @@
+[
+  {
+    "w": "旅游",
+    "p": "lǚ yóu",
+    "m": "du lịch",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "景点",
+    "p": "jǐng diǎn",
+    "m": "điểm tham quan",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "导游",
+    "p": "dǎo yóu",
+    "m": "hướng dẫn viên du lịch",
+    "cat": "người"
+  },
+  {
+    "w": "行程",
+    "p": "xíng chéng",
+    "m": "lịch trình",
+    "cat": "thời gian"
+  },
+  {
+    "w": "签证",
+    "p": "qiān zhèng",
+    "m": "thị thực, visa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "护照",
+    "p": "hù zhào",
+    "m": "hộ chiếu",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "航班",
+    "p": "háng bān",
+    "m": "chuyến bay",
+    "cat": "giao thông"
+  },
+  {
+    "w": "候机",
+    "p": "hòu jī",
+    "m": "chờ máy bay",
+    "cat": "hành động"
+  },
+  {
+    "w": "登机",
+    "p": "dēng jī",
+    "m": "lên máy bay",
+    "cat": "hành động"
+  },
+  {
+    "w": "托运",
+    "p": "tuō yùn",
+    "m": "gửi hành lý",
+    "cat": "hành động"
+  },
+  {
+    "w": "行李",
+    "p": "xíng li",
+    "m": "hành lý",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "海关",
+    "p": "hǎi guān",
+    "m": "hải quan",
+    "cat": "chính trị"
+  },
+  {
+    "w": "入境",
+    "p": "rù jìng",
+    "m": "nhập cảnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "出境",
+    "p": "chū jìng",
+    "m": "xuất cảnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "旅馆",
+    "p": "lǚ guǎn",
+    "m": "khách sạn nhỏ, nhà trọ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "酒店",
+    "p": "jiǔ diàn",
+    "m": "khách sạn",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "预订",
+    "p": "yù dìng",
+    "m": "đặt trước, đặt chỗ",
+    "cat": "hành động"
+  },
+  {
+    "w": "退房",
+    "p": "tuì fáng",
+    "m": "trả phòng",
+    "cat": "hành động"
+  },
+  {
+    "w": "景观",
+    "p": "jǐng guān",
+    "m": "cảnh quan",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "名胜",
+    "p": "míng shèng",
+    "m": "danh lam thắng cảnh",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "古迹",
+    "p": "gǔ jì",
+    "m": "di tích lịch sử",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "遗址",
+    "p": "yí zhǐ",
+    "m": "di chỉ, phế tích",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "博物馆",
+    "p": "bó wù guǎn",
+    "m": "bảo tàng",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "展览",
+    "p": "zhǎn lǎn",
+    "m": "triển lãm",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "纪念品",
+    "p": "jì niàn pǐn",
+    "m": "đồ lưu niệm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "文化遗产",
+    "p": "wén huà yí chǎn",
+    "m": "di sản văn hóa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "传统",
+    "p": "chuán tǒng",
+    "m": "truyền thống",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "习俗",
+    "p": "xí sú",
+    "m": "phong tục tập quán",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "节日",
+    "p": "jié rì",
+    "m": "ngày lễ, lễ hội",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "庆典",
+    "p": "qìng diǎn",
+    "m": "lễ kỷ niệm, lễ hội",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "民俗",
+    "p": "mín sú",
+    "m": "phong tục dân gian",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "信仰",
+    "p": "xìn yǎng",
+    "m": "tín ngưỡng, đức tin",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "宗教",
+    "p": "zōng jiào",
+    "m": "tôn giáo",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "寺庙",
+    "p": "sì miào",
+    "m": "chùa chiền, đền miếu",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "文明",
+    "p": "wén míng",
+    "m": "văn minh",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "社会",
+    "p": "shè huì",
+    "m": "xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "社区",
+    "p": "shè qū",
+    "m": "cộng đồng, khu phố",
+    "cat": "xã hội"
+  },
+  {
+    "w": "公民",
+    "p": "gōng mín",
+    "m": "công dân",
+    "cat": "người"
+  },
+  {
+    "w": "群体",
+    "p": "qún tǐ",
+    "m": "nhóm người, tập thể",
+    "cat": "xã hội"
+  },
+  {
+    "w": "阶层",
+    "p": "jiē céng",
+    "m": "tầng lớp xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "贫富",
+    "p": "pín fù",
+    "m": "giàu nghèo",
+    "cat": "xã hội"
+  },
+  {
+    "w": "差距",
+    "p": "chā jù",
+    "m": "khoảng cách, sự chênh lệch",
+    "cat": "xã hội"
+  },
+  {
+    "w": "平等",
+    "p": "píng děng",
+    "m": "bình đẳng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "公正",
+    "p": "gōng zhèng",
+    "m": "công bằng, chính đáng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "歧视",
+    "p": "qí shì",
+    "m": "phân biệt đối xử",
+    "cat": "xã hội"
+  },
+  {
+    "w": "偏见",
+    "p": "piān jiàn",
+    "m": "định kiến, thành kiến",
+    "cat": "xã hội"
+  },
+  {
+    "w": "包容",
+    "p": "bāo róng",
+    "m": "bao dung, khoan dung",
+    "cat": "tính từ"
+  },
+  {
+    "w": "多元化",
+    "p": "duō yuán huà",
+    "m": "đa dạng hóa",
+    "cat": "xã hội"
+  },
+  {
+    "w": "移民",
+    "p": "yí mín",
+    "m": "người di cư, di dân",
+    "cat": "người"
+  },
+  {
+    "w": "融合",
+    "p": "róng hé",
+    "m": "hòa nhập, hợp nhất",
+    "cat": "hành động"
+  },
+  {
+    "w": "职业",
+    "p": "zhí yè",
+    "m": "nghề nghiệp",
+    "cat": "công việc"
+  },
+  {
+    "w": "岗位",
+    "p": "gǎng wèi",
+    "m": "vị trí làm việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "招聘",
+    "p": "zhāo pìn",
+    "m": "tuyển dụng",
+    "cat": "công việc"
+  },
+  {
+    "w": "应聘",
+    "p": "yìng pìn",
+    "m": "ứng tuyển",
+    "cat": "công việc"
+  },
+  {
+    "w": "简历",
+    "p": "jiǎn lì",
+    "m": "sơ yếu lý lịch, CV",
+    "cat": "công việc"
+  },
+  {
+    "w": "面试",
+    "p": "miàn shì",
+    "m": "phỏng vấn",
+    "cat": "công việc"
+  },
+  {
+    "w": "录用",
+    "p": "lù yòng",
+    "m": "tuyển dụng, nhận vào làm",
+    "cat": "công việc"
+  },
+  {
+    "w": "晋升",
+    "p": "jìn shēng",
+    "m": "thăng chức",
+    "cat": "công việc"
+  },
+  {
+    "w": "降职",
+    "p": "jiàng zhí",
+    "m": "giáng chức",
+    "cat": "công việc"
+  },
+  {
+    "w": "辞职",
+    "p": "cí zhí",
+    "m": "từ chức, nghỉ việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "解雇",
+    "p": "jiě gù",
+    "m": "sa thải",
+    "cat": "công việc"
+  },
+  {
+    "w": "薪资",
+    "p": "xīn zī",
+    "m": "lương, thù lao",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "奖金",
+    "p": "jiǎng jīn",
+    "m": "tiền thưởng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "绩效",
+    "p": "jì xiào",
+    "m": "hiệu suất, kết quả công việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "业绩",
+    "p": "yè jì",
+    "m": "thành tích kinh doanh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "同事",
+    "p": "tóng shì",
+    "m": "đồng nghiệp",
+    "cat": "người"
+  },
+  {
+    "w": "上司",
+    "p": "shàng sī",
+    "m": "cấp trên",
+    "cat": "người"
+  },
+  {
+    "w": "下属",
+    "p": "xià shǔ",
+    "m": "cấp dưới",
+    "cat": "người"
+  },
+  {
+    "w": "团队",
+    "p": "tuán duì",
+    "m": "nhóm, đội ngũ",
+    "cat": "công việc"
+  },
+  {
+    "w": "合作",
+    "p": "hé zuò",
+    "m": "hợp tác",
+    "cat": "hành động"
+  },
+  {
+    "w": "竞争",
+    "p": "jìng zhēng",
+    "m": "cạnh tranh",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "压力",
+    "p": "yā lì",
+    "m": "áp lực",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "挑战",
+    "p": "tiǎo zhàn",
+    "m": "thách thức",
+    "cat": "công việc"
+  },
+  {
+    "w": "机遇",
+    "p": "jī yù",
+    "m": "cơ hội",
+    "cat": "công việc"
+  },
+  {
+    "w": "职场",
+    "p": "zhí chǎng",
+    "m": "môi trường công sở",
+    "cat": "công việc"
+  },
+  {
+    "w": "会议",
+    "p": "huì yì",
+    "m": "cuộc họp",
+    "cat": "công việc"
+  },
+  {
+    "w": "出差",
+    "p": "chū chāi",
+    "m": "đi công tác",
+    "cat": "công việc"
+  },
+  {
+    "w": "项目",
+    "p": "xiàng mù",
+    "m": "dự án",
+    "cat": "công việc"
+  },
+  {
+    "w": "方案",
+    "p": "fāng àn",
+    "m": "phương án, kế hoạch",
+    "cat": "học thuật"
+  },
+  {
+    "w": "报告",
+    "p": "bào gào",
+    "m": "báo cáo",
+    "cat": "công việc"
+  },
+  {
+    "w": "策略",
+    "p": "cè lüè",
+    "m": "chiến lược",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "目标",
+    "p": "mù biāo",
+    "m": "mục tiêu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "效率",
+    "p": "xiào lǜ",
+    "m": "hiệu quả, năng suất",
+    "cat": "công việc"
+  },
+  {
+    "w": "喜悦",
+    "p": "xǐ yuè",
+    "m": "vui mừng, hân hoan",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "悲伤",
+    "p": "bēi shāng",
+    "m": "đau buồn, bi thương",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "愤怒",
+    "p": "fèn nù",
+    "m": "tức giận",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "恐惧",
+    "p": "kǒng jù",
+    "m": "sợ hãi",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "焦虑",
+    "p": "jiāo lǜ",
+    "m": "lo lắng, lo âu",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "沮丧",
+    "p": "jǔ sàng",
+    "m": "chán nản, thất vọng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "激动",
+    "p": "jī dòng",
+    "m": "xúc động, phấn khích",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "感激",
+    "p": "gǎn jī",
+    "m": "biết ơn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "嫉妒",
+    "p": "jí dù",
+    "m": "ghen tị",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "委屈",
+    "p": "wěi qu",
+    "m": "ấm ức, tủi thân",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "孤独",
+    "p": "gū dú",
+    "m": "cô đơn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "迷茫",
+    "p": "mí máng",
+    "m": "mơ hồ, lạc lối",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "满足",
+    "p": "mǎn zú",
+    "m": "thỏa mãn, hài lòng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "自豪",
+    "p": "zì háo",
+    "m": "tự hào",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "羞耻",
+    "p": "xiū chǐ",
+    "m": "xấu hổ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "后悔",
+    "p": "hòu huǐ",
+    "m": "hối hận",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "感动",
+    "p": "gǎn dòng",
+    "m": "cảm động, xúc động",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "绝望",
+    "p": "jué wàng",
+    "m": "tuyệt vọng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "希望",
+    "p": "xī wàng",
+    "m": "hy vọng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "恋爱",
+    "p": "liàn ài",
+    "m": "yêu đương",
+    "cat": "gia đình"
+  },
+  {
+    "w": "婚姻",
+    "p": "hūn yīn",
+    "m": "hôn nhân",
+    "cat": "gia đình"
+  },
+  {
+    "w": "离婚",
+    "p": "lí hūn",
+    "m": "ly hôn",
+    "cat": "gia đình"
+  },
+  {
+    "w": "伴侣",
+    "p": "bàn lǚ",
+    "m": "bạn đời, người bạn đồng hành",
+    "cat": "gia đình"
+  },
+  {
+    "w": "恋人",
+    "p": "liàn rén",
+    "m": "người yêu",
+    "cat": "người"
+  },
+  {
+    "w": "感情",
+    "p": "gǎn qíng",
+    "m": "tình cảm, cảm xúc",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "矛盾",
+    "p": "máo dùn",
+    "m": "mâu thuẫn",
+    "cat": "xã hội"
+  },
+  {
+    "w": "争吵",
+    "p": "zhēng chǎo",
+    "m": "cãi vã, tranh cãi",
+    "cat": "hành động"
+  },
+  {
+    "w": "和解",
+    "p": "hé jiě",
+    "m": "hòa giải",
+    "cat": "hành động"
+  },
+  {
+    "w": "信任",
+    "p": "xìn rèn",
+    "m": "tin tưởng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "忠诚",
+    "p": "zhōng chéng",
+    "m": "trung thành",
+    "cat": "tính từ"
+  },
+  {
+    "w": "背叛",
+    "p": "bèi pàn",
+    "m": "phản bội",
+    "cat": "hành động"
+  },
+  {
+    "w": "理解",
+    "p": "lǐ jiě",
+    "m": "hiểu, thông cảm",
+    "cat": "hành động"
+  },
+  {
+    "w": "支持",
+    "p": "zhī chí",
+    "m": "ủng hộ, hỗ trợ",
+    "cat": "hành động"
+  },
+  {
+    "w": "友谊",
+    "p": "yǒu yì",
+    "m": "tình bạn",
+    "cat": "xã hội"
+  },
+  {
+    "w": "人际",
+    "p": "rén jì",
+    "m": "quan hệ giữa người với người",
+    "cat": "xã hội"
+  },
+  {
+    "w": "沟通",
+    "p": "gōu tōng",
+    "m": "giao tiếp, trao đổi",
+    "cat": "hành động"
+  },
+  {
+    "w": "交流",
+    "p": "jiāo liú",
+    "m": "giao lưu, trao đổi",
+    "cat": "hành động"
+  },
+  {
+    "w": "艺术",
+    "p": "yì shù",
+    "m": "nghệ thuật",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "绘画",
+    "p": "huì huà",
+    "m": "hội họa",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "雕塑",
+    "p": "diāo sù",
+    "m": "điêu khắc",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "摄影",
+    "p": "shè yǐng",
+    "m": "nhiếp ảnh",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "音乐",
+    "p": "yīn yuè",
+    "m": "âm nhạc",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "舞蹈",
+    "p": "wǔ dǎo",
+    "m": "nhảy múa, vũ đạo",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "戏剧",
+    "p": "xì jù",
+    "m": "kịch, sân khấu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "电影",
+    "p": "diàn yǐng",
+    "m": "phim, điện ảnh",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "文学",
+    "p": "wén xué",
+    "m": "văn học",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "诗歌",
+    "p": "shī gē",
+    "m": "thơ ca",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "小说",
+    "p": "xiǎo shuō",
+    "m": "tiểu thuyết",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "创作",
+    "p": "chuàng zuò",
+    "m": "sáng tác",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "作品",
+    "p": "zuò pǐn",
+    "m": "tác phẩm",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "风格",
+    "p": "fēng gé",
+    "m": "phong cách",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "审美",
+    "p": "shěn měi",
+    "m": "thẩm mỹ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "欣赏",
+    "p": "xīn shǎng",
+    "m": "thưởng thức, trân trọng",
+    "cat": "hành động"
+  },
+  {
+    "w": "批评",
+    "p": "pī píng",
+    "m": "phê bình, chỉ trích",
+    "cat": "hành động"
+  },
+  {
+    "w": "传媒",
+    "p": "chuán méi",
+    "m": "truyền thông",
+    "cat": "学thuật"
+  },
+  {
+    "w": "媒体",
+    "p": "méi tǐ",
+    "m": "phương tiện truyền thông",
+    "cat": "học thuật"
+  },
+  {
+    "w": "新闻",
+    "p": "xīn wén",
+    "m": "tin tức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "报道",
+    "p": "bào dào",
+    "m": "đưa tin, bài báo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "采访",
+    "p": "cǎi fǎng",
+    "m": "phỏng vấn (báo chí)",
+    "cat": "hành động"
+  },
+  {
+    "w": "记者",
+    "p": "jì zhě",
+    "m": "phóng viên, nhà báo",
+    "cat": "người"
+  },
+  {
+    "w": "编辑",
+    "p": "biān jí",
+    "m": "biên tập viên",
+    "cat": "người"
+  },
+  {
+    "w": "评论",
+    "p": "píng lùn",
+    "m": "bình luận, nhận xét",
+    "cat": "hành động"
+  },
+  {
+    "w": "舆论",
+    "p": "yú lùn",
+    "m": "dư luận",
+    "cat": "xã hội"
+  },
+  {
+    "w": "网络",
+    "p": "wǎng luò",
+    "m": "mạng lưới, internet",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "社交",
+    "p": "shè jiāo",
+    "m": "giao tiếp xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "平台",
+    "p": "píng tái",
+    "m": "nền tảng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "直播",
+    "p": "zhí bō",
+    "m": "phát sóng trực tiếp",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "博主",
+    "p": "bó zhǔ",
+    "m": "blogger, người viết blog",
+    "cat": "người"
+  },
+  {
+    "w": "粉丝",
+    "p": "fěn sī",
+    "m": "người hâm mộ",
+    "cat": "người"
+  },
+  {
+    "w": "内容",
+    "p": "nèi róng",
+    "m": "nội dung",
+    "cat": "học thuật"
+  },
+  {
+    "w": "影响力",
+    "p": "yǐng xiǎng lì",
+    "m": "tầm ảnh hưởng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "流行",
+    "p": "liú xíng",
+    "m": "thịnh hành, phổ biến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "趋势",
+    "p": "qū shì",
+    "m": "xu hướng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "环境",
+    "p": "huán jìng",
+    "m": "môi trường",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "生态",
+    "p": "shēng tài",
+    "m": "sinh thái",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "污染",
+    "p": "wū rǎn",
+    "m": "ô nhiễm",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "排放",
+    "p": "pái fàng",
+    "m": "phát thải, xả thải",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "温室效应",
+    "p": "wēn shì xiào yìng",
+    "m": "hiệu ứng nhà kính",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "气候变化",
+    "p": "qì hòu biàn huà",
+    "m": "biến đổi khí hậu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "全球暖化",
+    "p": "quán qiú nuǎn huà",
+    "m": "nóng lên toàn cầu",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "碳排放",
+    "p": "tàn pái fàng",
+    "m": "phát thải carbon",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "可持续",
+    "p": "kě chí xù",
+    "m": "bền vững",
+    "cat": "tính từ"
+  },
+  {
+    "w": "绿色",
+    "p": "lǜ sè",
+    "m": "xanh lá, thân thiện môi trường",
+    "cat": "màu sắc"
+  },
+  {
+    "w": "节能",
+    "p": "jié néng",
+    "m": "tiết kiệm năng lượng",
+    "cat": "hành động"
+  },
+  {
+    "w": "减排",
+    "p": "jiǎn pái",
+    "m": "giảm phát thải",
+    "cat": "hành động"
+  },
+  {
+    "w": "回收",
+    "p": "huí shōu",
+    "m": "tái chế, thu hồi",
+    "cat": "hành động"
+  },
+  {
+    "w": "废弃物",
+    "p": "fèi qì wù",
+    "m": "chất thải",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "生物多样性",
+    "p": "shēng wù duō yàng xìng",
+    "m": "đa dạng sinh học",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "濒危",
+    "p": "bīn wēi",
+    "m": "có nguy cơ tuyệt chủng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "保护",
+    "p": "bǎo hù",
+    "m": "bảo vệ",
+    "cat": "hành động"
+  },
+  {
+    "w": "自然资源",
+    "p": "zì rán zī yuán",
+    "m": "tài nguyên thiên nhiên",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "森林砍伐",
+    "p": "sēn lín kǎn fá",
+    "m": "nạn phá rừng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "水资源",
+    "p": "shuǐ zī yuán",
+    "m": "tài nguyên nước",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "能源",
+    "p": "néng yuán",
+    "m": "năng lượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "可再生",
+    "p": "kě zài shēng",
+    "m": "có thể tái tạo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "太阳能",
+    "p": "tài yáng néng",
+    "m": "năng lượng mặt trời",
+    "cat": "học thuật"
+  },
+  {
+    "w": "风能",
+    "p": "fēng néng",
+    "m": "năng lượng gió",
+    "cat": "học thuật"
+  },
+  {
+    "w": "旅行",
+    "p": "lǚ xíng",
+    "m": "đi lại, du lịch",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "观光",
+    "p": "guān guāng",
+    "m": "tham quan",
+    "cat": "hành động"
+  },
+  {
+    "w": "探索",
+    "p": "tàn suǒ",
+    "m": "khám phá",
+    "cat": "hành động"
+  },
+  {
+    "w": "冒险",
+    "p": "mào xiǎn",
+    "m": "phiêu lưu, mạo hiểm",
+    "cat": "hành động"
+  },
+  {
+    "w": "风景",
+    "p": "fēng jǐng",
+    "m": "phong cảnh",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "海滩",
+    "p": "hǎi tān",
+    "m": "bãi biển",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "山岳",
+    "p": "shān yuè",
+    "m": "núi non",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "峡谷",
+    "p": "xiá gǔ",
+    "m": "hẻm núi, thung lũng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "瀑布",
+    "p": "pù bù",
+    "m": "thác nước",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "湖泊",
+    "p": "hú pō",
+    "m": "hồ",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "草原",
+    "p": "cǎo yuán",
+    "m": "thảo nguyên",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "沙漠",
+    "p": "shā mò",
+    "m": "sa mạc",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "热带",
+    "p": "rè dài",
+    "m": "nhiệt đới",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "寒带",
+    "p": "hán dài",
+    "m": "hàn đới",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "民族",
+    "p": "mín zú",
+    "m": "dân tộc",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "文化交流",
+    "p": "wén huà jiāo liú",
+    "m": "giao lưu văn hóa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "跨文化",
+    "p": "kuà wén huà",
+    "m": "xuyên văn hóa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "价值观",
+    "p": "jià zhí guān",
+    "m": "quan niệm giá trị",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "礼仪",
+    "p": "lǐ yí",
+    "m": "lễ nghi, phép tắc",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "仪式",
+    "p": "yí shì",
+    "m": "nghi lễ",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "祭祀",
+    "p": "jì sì",
+    "m": "tế lễ, cúng bái",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "传说",
+    "p": "chuán shuō",
+    "m": "truyền thuyết",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "神话",
+    "p": "shén huà",
+    "m": "thần thoại",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "历史",
+    "p": "lì shǐ",
+    "m": "lịch sử",
+    "cat": "học thuật"
+  },
+  {
+    "w": "朝代",
+    "p": "cháo dài",
+    "m": "triều đại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "皇帝",
+    "p": "huáng dì",
+    "m": "hoàng đế",
+    "cat": "người"
+  },
+  {
+    "w": "宫殿",
+    "p": "gōng diàn",
+    "m": "cung điện",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "城墙",
+    "p": "chéng qiáng",
+    "m": "thành lũy, tường thành",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "古典",
+    "p": "gǔ diǎn",
+    "m": "cổ điển",
+    "cat": "tính từ"
+  },
+  {
+    "w": "现代",
+    "p": "xiàn dài",
+    "m": "hiện đại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "当代",
+    "p": "dāng dài",
+    "m": "đương đại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "发展",
+    "p": "fā zhǎn",
+    "m": "phát triển",
+    "cat": "hành động"
+  },
+  {
+    "w": "进步",
+    "p": "jìn bù",
+    "m": "tiến bộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "改革",
+    "p": "gǎi gé",
+    "m": "cải cách",
+    "cat": "chính trị"
+  },
+  {
+    "w": "创新",
+    "p": "chuàng xīn",
+    "m": "đổi mới, sáng tạo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "技术",
+    "p": "jì shù",
+    "m": "kỹ thuật, công nghệ",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "数字化",
+    "p": "shù zì huà",
+    "m": "số hóa",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "人工智能",
+    "p": "rén gōng zhì néng",
+    "m": "trí tuệ nhân tạo",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "大数据",
+    "p": "dà shù jù",
+    "m": "dữ liệu lớn",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "互联网",
+    "p": "hù lián wǎng",
+    "m": "internet",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "移动支付",
+    "p": "yí dòng zhī fù",
+    "m": "thanh toán di động",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "电商",
+    "p": "diàn shāng",
+    "m": "thương mại điện tử",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "创业",
+    "p": "chuàng yè",
+    "m": "khởi nghiệp",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "投资",
+    "p": "tóu zī",
+    "m": "đầu tư",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "融资",
+    "p": "róng zī",
+    "m": "huy động vốn",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "市场",
+    "p": "shì chǎng",
+    "m": "thị trường",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "品牌",
+    "p": "pǐn pái",
+    "m": "thương hiệu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "营销",
+    "p": "yíng xiāo",
+    "m": "tiếp thị",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "消费",
+    "p": "xiāo fèi",
+    "m": "tiêu dùng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "经济",
+    "p": "jīng jì",
+    "m": "kinh tế",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "贸易",
+    "p": "mào yì",
+    "m": "mậu dịch, thương mại",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "出口",
+    "p": "chū kǒu",
+    "m": "xuất khẩu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "进口",
+    "p": "jìn kǒu",
+    "m": "nhập khẩu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "全球化",
+    "p": "quán qiú huà",
+    "m": "toàn cầu hóa",
+    "cat": "xã hội"
+  },
+  {
+    "w": "国际化",
+    "p": "guó jì huà",
+    "m": "quốc tế hóa",
+    "cat": "xã hội"
+  },
+  {
+    "w": "外交",
+    "p": "wài jiāo",
+    "m": "ngoại giao",
+    "cat": "chính trị"
+  },
+  {
+    "w": "合同",
+    "p": "hé tong",
+    "m": "hợp đồng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "谈判",
+    "p": "tán pàn",
+    "m": "đàm phán",
+    "cat": "hành động"
+  },
+  {
+    "w": "协议",
+    "p": "xié yì",
+    "m": "thỏa thuận, hiệp định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "政府",
+    "p": "zhèng fǔ",
+    "m": "chính phủ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "政策",
+    "p": "zhèng cè",
+    "m": "chính sách",
+    "cat": "chính trị"
+  },
+  {
+    "w": "法律",
+    "p": "fǎ lǜ",
+    "m": "pháp luật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "规定",
+    "p": "guī dìng",
+    "m": "quy định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "权利",
+    "p": "quán lì",
+    "m": "quyền lợi",
+    "cat": "xã hội"
+  },
+  {
+    "w": "义务",
+    "p": "yì wù",
+    "m": "nghĩa vụ",
+    "cat": "xã hội"
+  },
+  {
+    "w": "民主",
+    "p": "mín zhǔ",
+    "m": "dân chủ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "自由",
+    "p": "zì yóu",
+    "m": "tự do",
+    "cat": "tính từ"
+  },
+  {
+    "w": "人权",
+    "p": "rén quán",
+    "m": "nhân quyền",
+    "cat": "xã hội"
+  },
+  {
+    "w": "教育",
+    "p": "jiào yù",
+    "m": "giáo dục",
+    "cat": "học tập"
+  },
+  {
+    "w": "培训",
+    "p": "péi xùn",
+    "m": "đào tạo, huấn luyện",
+    "cat": "học tập"
+  },
+  {
+    "w": "素质",
+    "p": "sù zhì",
+    "m": "phẩm chất, năng lực",
+    "cat": "học tập"
+  },
+  {
+    "w": "技能",
+    "p": "jì néng",
+    "m": "kỹ năng",
+    "cat": "học tập"
+  },
+  {
+    "w": "知识",
+    "p": "zhī shi",
+    "m": "kiến thức",
+    "cat": "học tập"
+  },
+  {
+    "w": "经验",
+    "p": "jīng yàn",
+    "m": "kinh nghiệm",
+    "cat": "học tập"
+  },
+  {
+    "w": "理论",
+    "p": "lǐ lùn",
+    "m": "lý luận, lý thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "实践",
+    "p": "shí jiàn",
+    "m": "thực hành",
+    "cat": "hành động"
+  },
+  {
+    "w": "研究",
+    "p": "yán jiū",
+    "m": "nghiên cứu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "学术",
+    "p": "xué shù",
+    "m": "học thuật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "论文",
+    "p": "lùn wén",
+    "m": "luận văn, bài báo khoa học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "科学",
+    "p": "kē xué",
+    "m": "khoa học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "实验",
+    "p": "shí yàn",
+    "m": "thí nghiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "数据",
+    "p": "shù jù",
+    "m": "dữ liệu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "分析",
+    "p": "fēn xī",
+    "m": "phân tích",
+    "cat": "hành động"
+  },
+  {
+    "w": "结论",
+    "p": "jié lùn",
+    "m": "kết luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "假设",
+    "p": "jiǎ shè",
+    "m": "giả thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "证明",
+    "p": "zhèng míng",
+    "m": "chứng minh",
+    "cat": "hành động"
+  },
+  {
+    "w": "数学",
+    "p": "shù xué",
+    "m": "toán học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "物理",
+    "p": "wù lǐ",
+    "m": "vật lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "化学",
+    "p": "huà xué",
+    "m": "hóa học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "生物",
+    "p": "shēng wù",
+    "m": "sinh học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "哲学",
+    "p": "zhé xué",
+    "m": "triết học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "心理",
+    "p": "xīn lǐ",
+    "m": "tâm lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "态度",
+    "p": "tài dù",
+    "m": "thái độ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "性格",
+    "p": "xìng gé",
+    "m": "tính cách",
+    "cat": "tính từ"
+  },
+  {
+    "w": "能力",
+    "p": "néng lì",
+    "m": "năng lực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "潜力",
+    "p": "qián lì",
+    "m": "tiềm năng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "努力",
+    "p": "nǔ lì",
+    "m": "cố gắng, nỗ lực",
+    "cat": "hành động"
+  },
+  {
+    "w": "坚持",
+    "p": "jiān chí",
+    "m": "kiên trì",
+    "cat": "hành động"
+  },
+  {
+    "w": "放弃",
+    "p": "fàng qì",
+    "m": "từ bỏ",
+    "cat": "hành động"
+  },
+  {
+    "w": "进取",
+    "p": "jìn qǔ",
+    "m": "cầu tiến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "积极",
+    "p": "jī jí",
+    "m": "tích cực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "消极",
+    "p": "xiāo jí",
+    "m": "tiêu cực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "乐观",
+    "p": "lè guān",
+    "m": "lạc quan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "悲观",
+    "p": "bēi guān",
+    "m": "bi quan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "理性",
+    "p": "lǐ xìng",
+    "m": "lý tính, lý trí",
+    "cat": "tính từ"
+  },
+  {
+    "w": "感性",
+    "p": "gǎn xìng",
+    "m": "cảm tính",
+    "cat": "tính từ"
+  },
+  {
+    "w": "成熟",
+    "p": "chéng shú",
+    "m": "trưởng thành, chín chắn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "幼稚",
+    "p": "yòu zhì",
+    "m": "ấu trĩ, ngây thơ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "谦虚",
+    "p": "qiān xū",
+    "m": "khiêm tốn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "傲慢",
+    "p": "ào màn",
+    "m": "kiêu ngạo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "诚实",
+    "p": "chéng shí",
+    "m": "thành thật",
+    "cat": "tính từ"
+  },
+  {
+    "w": "虚伪",
+    "p": "xū wěi",
+    "m": "giả dối",
+    "cat": "tính từ"
+  },
+  {
+    "w": "慷慨",
+    "p": "kāng kǎi",
+    "m": "hào phóng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "吝啬",
+    "p": "lìn sè",
+    "m": "ki bo, hà tiện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "勤奋",
+    "p": "qín fèn",
+    "m": "chăm chỉ, siêng năng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "懒惰",
+    "p": "lǎn duò",
+    "m": "lười biếng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "细心",
+    "p": "xì xīn",
+    "m": "cẩn thận, tỉ mỉ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "粗心",
+    "p": "cū xīn",
+    "m": "cẩu thả, bất cẩn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "善良",
+    "p": "shàn liáng",
+    "m": "tốt bụng, lương thiện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "残忍",
+    "p": "cán rěn",
+    "m": "tàn nhẫn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "勇敢",
+    "p": "yǒng gǎn",
+    "m": "dũng cảm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "懦弱",
+    "p": "nuò ruò",
+    "m": "hèn nhát, nhu nhược",
+    "cat": "tính từ"
+  },
+  {
+    "w": "智慧",
+    "p": "zhì huì",
+    "m": "trí tuệ, sự khôn ngoan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "愚蠢",
+    "p": "yú chǔn",
+    "m": "ngu ngốc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "幸福",
+    "p": "xìng fú",
+    "m": "hạnh phúc",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "痛苦",
+    "p": "tòng kǔ",
+    "m": "đau khổ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "自信",
+    "p": "zì xìn",
+    "m": "tự tin",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "担心",
+    "p": "dān xīn",
+    "m": "lo lắng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "烦恼",
+    "p": "fán nǎo",
+    "m": "phiền não, bực bội",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "平静",
+    "p": "píng jìng",
+    "m": "bình tĩnh, yên tĩnh",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "紧张",
+    "p": "jǐn zhāng",
+    "m": "căng thẳng, lo lắng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "放松",
+    "p": "fàng sōng",
+    "m": "thư giãn",
+    "cat": "hành động"
+  },
+  {
+    "w": "宽慰",
+    "p": "kuān wèi",
+    "m": "an ủi, nhẹ nhõm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "思念",
+    "p": "sī niàn",
+    "m": "nhớ nhung",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "怀念",
+    "p": "huái niàn",
+    "m": "hoài niệm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "欣慰",
+    "p": "xīn wèi",
+    "m": "vui lòng, thỏa lòng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "得意",
+    "p": "dé yì",
+    "m": "đắc ý, tự mãn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "失落",
+    "p": "shī luò",
+    "m": "thất vọng, hụt hẫng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "惊喜",
+    "p": "jīng xǐ",
+    "m": "bất ngờ vui mừng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "感慨",
+    "p": "gǎn kǎi",
+    "m": "xúc cảm, cảm khái",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "惊讶",
+    "p": "jīng yà",
+    "m": "ngạc nhiên",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "厌烦",
+    "p": "yàn fán",
+    "m": "chán nản, bực bội",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "好奇",
+    "p": "hào qí",
+    "m": "tò mò",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "羡慕",
+    "p": "xiàn mù",
+    "m": "ngưỡng mộ, thèm muốn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "绝技",
+    "p": "jué jì",
+    "m": "tuyệt kỹ, kỹ năng đỉnh cao",
+    "cat": "học thuật"
+  },
+  {
+    "w": "才华",
+    "p": "cái huá",
+    "m": "tài năng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "天赋",
+    "p": "tiān fù",
+    "m": "thiên phú, năng khiếu bẩm sinh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "热情",
+    "p": "rè qíng",
+    "m": "nhiệt tình",
+    "cat": "tính từ"
+  },
+  {
+    "w": "冷漠",
+    "p": "lěng mò",
+    "m": "lạnh lùng, thờ ơ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "体贴",
+    "p": "tǐ tiē",
+    "m": "quan tâm, chu đáo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "温柔",
+    "p": "wēn róu",
+    "m": "dịu dàng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "严厉",
+    "p": "yán lì",
+    "m": "nghiêm khắc",
+    "cat": "tínhođ"
+  },
+  {
+    "w": "宽容",
+    "p": "kuān róng",
+    "m": "khoan dung, độ lượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "任性",
+    "p": "rèn xìng",
+    "m": "tùy tiện, bướng bỉnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "体育",
+    "p": "tǐ yù",
+    "m": "thể dục, thể thao",
+    "cat": "thể thao"
+  },
+  {
+    "w": "竞赛",
+    "p": "jìng sài",
+    "m": "thi đấu, cuộc thi",
+    "cat": "thể thao"
+  },
+  {
+    "w": "冠军",
+    "p": "guàn jūn",
+    "m": "vô địch, nhà vô địch",
+    "cat": "thể thao"
+  },
+  {
+    "w": "运动员",
+    "p": "yùn dòng yuán",
+    "m": "vận động viên",
+    "cat": "người"
+  },
+  {
+    "w": "训练",
+    "p": "xùn liàn",
+    "m": "luyện tập, huấn luyện",
+    "cat": "thể thao"
+  },
+  {
+    "w": "精神",
+    "p": "jīng shén",
+    "m": "tinh thần",
+    "cat": "tính từ"
+  },
+  {
+    "w": "意志",
+    "p": "yì zhì",
+    "m": "ý chí",
+    "cat": "tính từ"
+  },
+  {
+    "w": "毅力",
+    "p": "yì lì",
+    "m": "nghị lực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "自律",
+    "p": "zì lǜ",
+    "m": "tự kỷ luật",
+    "cat": "tính từ"
+  },
+  {
+    "w": "奉献",
+    "p": "fèng xiàn",
+    "m": "cống hiến, dâng hiến",
+    "cat": "hành động"
+  },
+  {
+    "w": "责任",
+    "p": "zé rèn",
+    "m": "trách nhiệm",
+    "cat": "xã hội"
+  },
+  {
+    "w": "使命",
+    "p": "shǐ mìng",
+    "m": "sứ mệnh",
+    "cat": "xã hội"
+  },
+  {
+    "w": "价值",
+    "p": "jià zhí",
+    "m": "giá trị",
+    "cat": "xã hội"
+  },
+  {
+    "w": "意义",
+    "p": "yì yì",
+    "m": "ý nghĩa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "目的",
+    "p": "mù dì",
+    "m": "mục đích",
+    "cat": "học thuật"
+  },
+  {
+    "w": "原则",
+    "p": "yuán zé",
+    "m": "nguyên tắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "道德",
+    "p": "dào dé",
+    "m": "đạo đức",
+    "cat": "xã hội"
+  },
+  {
+    "w": "诚信",
+    "p": "chéng xìn",
+    "m": "thành tín, trung thực",
+    "cat": "tính từ"
+  },
+  {
+    "w": "公德",
+    "p": "gōng dé",
+    "m": "đức công, đạo đức công cộng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "素养",
+    "p": "sù yǎng",
+    "m": "phẩm chất, tu dưỡng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "气质",
+    "p": "qì zhì",
+    "m": "khí chất, phong thái",
+    "cat": "tính từ"
+  },
+  {
+    "w": "风度",
+    "p": "fēng dù",
+    "m": "phong độ, phong cách",
+    "cat": "tính từ"
+  },
+  {
+    "w": "形象",
+    "p": "xíng xiàng",
+    "m": "hình ảnh, diện mạo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "声誉",
+    "p": "shēng yù",
+    "m": "danh tiếng, uy tín",
+    "cat": "xã hội"
+  },
+  {
+    "w": "威望",
+    "p": "wēi wàng",
+    "m": "uy tín, uy danh",
+    "cat": "xã hội"
+  },
+  {
+    "w": "影响",
+    "p": "yǐng xiǎng",
+    "m": "ảnh hưởng",
+    "cat": "hành động"
+  },
+  {
+    "w": "启发",
+    "p": "qǐ fā",
+    "m": "gợi ý, khai sáng",
+    "cat": "hành động"
+  },
+  {
+    "w": "激励",
+    "p": "jī lì",
+    "m": "khích lệ, khen thưởng",
+    "cat": "hành động"
+  },
+  {
+    "w": "鼓励",
+    "p": "gǔ lì",
+    "m": "động viên, khuyến khích",
+    "cat": "hành động"
+  },
+  {
+    "w": "劝说",
+    "p": "quàn shuō",
+    "m": "thuyết phục",
+    "cat": "hành động"
+  },
+  {
+    "w": "争议",
+    "p": "zhēng yì",
+    "m": "tranh luận, tranh cãi",
+    "cat": "xã hội"
+  },
+  {
+    "w": "观点",
+    "p": "guān diǎn",
+    "m": "quan điểm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "立场",
+    "p": "lì chǎng",
+    "m": "lập trường",
+    "cat": "học thuật"
+  },
+  {
+    "w": "看法",
+    "p": "kàn fǎ",
+    "m": "cách nhìn nhận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "见解",
+    "p": "jiàn jiě",
+    "m": "kiến giải, ý kiến",
+    "cat": "học thuật"
+  },
+  {
+    "w": "思想",
+    "p": "sī xiǎng",
+    "m": "tư tưởng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "概念",
+    "p": "gài niàn",
+    "m": "khái niệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "原因",
+    "p": "yuán yīn",
+    "m": "nguyên nhân",
+    "cat": "học thuật"
+  },
+  {
+    "w": "结果",
+    "p": "jié guǒ",
+    "m": "kết quả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "过程",
+    "p": "guò chéng",
+    "m": "quá trình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "方法",
+    "p": "fāng fǎ",
+    "m": "phương pháp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "途径",
+    "p": "tú jìng",
+    "m": "con đường, phương thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "手段",
+    "p": "shǒu duàn",
+    "m": "biện pháp, phương tiện",
+    "cat": "học thuật"
+  },
+  {
+    "w": "效果",
+    "p": "xiào guǒ",
+    "m": "hiệu quả",
+    "cat": "học thuật"
+  },
+  {
+    "w": "重要性",
+    "p": "zhòng yào xìng",
+    "m": "tầm quan trọng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "必要性",
+    "p": "bì yào xìng",
+    "m": "sự cần thiết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "优先",
+    "p": "yōu xiān",
+    "m": "ưu tiên",
+    "cat": "hành động"
+  },
+  {
+    "w": "解决",
+    "p": "jiě jué",
+    "m": "giải quyết",
+    "cat": "hành động"
+  },
+  {
+    "w": "克服",
+    "p": "kè fú",
+    "m": "khắc phục, vượt qua",
+    "cat": "hành động"
+  },
+  {
+    "w": "适应",
+    "p": "shì yìng",
+    "m": "thích nghi",
+    "cat": "hành động"
+  },
+  {
+    "w": "调整",
+    "p": "tiáo zhěng",
+    "m": "điều chỉnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "改善",
+    "p": "gǎi shàn",
+    "m": "cải thiện",
+    "cat": "hành động"
+  },
+  {
+    "w": "提升",
+    "p": "tí shēng",
+    "m": "nâng cao, cải thiện",
+    "cat": "hành động"
+  },
+  {
+    "w": "降低",
+    "p": "jiàng dī",
+    "m": "giảm xuống, hạ thấp",
+    "cat": "hành động"
+  },
+  {
+    "w": "增加",
+    "p": "zēng jiā",
+    "m": "tăng thêm",
+    "cat": "hành động"
+  },
+  {
+    "w": "减少",
+    "p": "jiǎn shǎo",
+    "m": "giảm bớt",
+    "cat": "hành động"
+  },
+  {
+    "w": "维护",
+    "p": "wéi hù",
+    "m": "bảo trì, duy trì",
+    "cat": "hành động"
+  },
+  {
+    "w": "促进",
+    "p": "cù jìn",
+    "m": "thúc đẩy",
+    "cat": "hành động"
+  },
+  {
+    "w": "推动",
+    "p": "tuī dòng",
+    "m": "thúc đẩy, đẩy mạnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "阻碍",
+    "p": "zǔ ài",
+    "m": "cản trở",
+    "cat": "hành động"
+  },
+  {
+    "w": "影响力",
+    "p": "yǐng xiǎng lì",
+    "m": "sức ảnh hưởng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "号召力",
+    "p": "hào zhào lì",
+    "m": "sức kêu gọi",
+    "cat": "xã hội"
+  },
+  {
+    "w": "凝聚力",
+    "p": "níng jù lì",
+    "m": "sức gắn kết",
+    "cat": "xã hội"
+  },
+  {
+    "w": "创造力",
+    "p": "chuàng zào lì",
+    "m": "sức sáng tạo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "想象力",
+    "p": "xiǎng xiàng lì",
+    "m": "trí tưởng tượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "判断力",
+    "p": "pàn duàn lì",
+    "m": "khả năng phán đoán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "执行力",
+    "p": "zhí xíng lì",
+    "m": "khả năng thực thi",
+    "cat": "công việc"
+  },
+  {
+    "w": "领导力",
+    "p": "lǐng dǎo lì",
+    "m": "khả năng lãnh đạo",
+    "cat": "công việc"
+  },
+  {
+    "w": "沟通能力",
+    "p": "gōu tōng néng lì",
+    "m": "kỹ năng giao tiếp",
+    "cat": "công việc"
+  },
+  {
+    "w": "说服力",
+    "p": "shuō fú lì",
+    "m": "sức thuyết phục",
+    "cat": "công việc"
+  },
+  {
+    "w": "表达",
+    "p": "biǎo dá",
+    "m": "biểu đạt, diễn đạt",
+    "cat": "hành động"
+  },
+  {
+    "w": "描述",
+    "p": "miáo shù",
+    "m": "mô tả",
+    "cat": "hành động"
+  },
+  {
+    "w": "说明",
+    "p": "shuō míng",
+    "m": "giải thích, thuyết minh",
+    "cat": "hành động"
+  },
+  {
+    "w": "解释",
+    "p": "jiě shì",
+    "m": "giải thích",
+    "cat": "hành động"
+  },
+  {
+    "w": "介绍",
+    "p": "jiè shào",
+    "m": "giới thiệu",
+    "cat": "hành động"
+  },
+  {
+    "w": "推荐",
+    "p": "tuī jiàn",
+    "m": "đề xuất, giới thiệu",
+    "cat": "hành động"
+  },
+  {
+    "w": "建议",
+    "p": "jiàn yì",
+    "m": "đề nghị, kiến nghị",
+    "cat": "hành động"
+  },
+  {
+    "w": "提出",
+    "p": "tí chū",
+    "m": "đề xuất, nêu ra",
+    "cat": "hành động"
+  },
+  {
+    "w": "提议",
+    "p": "tí yì",
+    "m": "đề nghị",
+    "cat": "hành động"
+  },
+  {
+    "w": "讨论",
+    "p": "tǎo lùn",
+    "m": "thảo luận",
+    "cat": "hành động"
+  },
+  {
+    "w": "协商",
+    "p": "xié shāng",
+    "m": "thương lượng",
+    "cat": "hành động"
+  },
+  {
+    "w": "决策",
+    "p": "jué cè",
+    "m": "ra quyết định",
+    "cat": "hành động"
+  },
+  {
+    "w": "执行",
+    "p": "zhí xíng",
+    "m": "thực thi, chấp hành",
+    "cat": "hành động"
+  },
+  {
+    "w": "监督",
+    "p": "jiān dū",
+    "m": "giám sát",
+    "cat": "hành động"
+  },
+  {
+    "w": "评估",
+    "p": "píng gū",
+    "m": "đánh giá",
+    "cat": "hành động"
+  },
+  {
+    "w": "反馈",
+    "p": "fǎn kuì",
+    "m": "phản hồi",
+    "cat": "hành động"
+  },
+  {
+    "w": "总结",
+    "p": "zǒng jié",
+    "m": "tổng kết",
+    "cat": "hành động"
+  },
+  {
+    "w": "规划",
+    "p": "guī huà",
+    "m": "quy hoạch, lên kế hoạch",
+    "cat": "hành động"
+  },
+  {
+    "w": "安排",
+    "p": "ān pái",
+    "m": "sắp xếp, bố trí",
+    "cat": "hành động"
+  },
+  {
+    "w": "协调",
+    "p": "xié tiáo",
+    "m": "phối hợp, điều phối",
+    "cat": "hành động"
+  },
+  {
+    "w": "组织",
+    "p": "zǔ zhī",
+    "m": "tổ chức",
+    "cat": "hành động"
+  },
+  {
+    "w": "管理",
+    "p": "guǎn lǐ",
+    "m": "quản lý",
+    "cat": "công việc"
+  },
+  {
+    "w": "领导",
+    "p": "lǐng dǎo",
+    "m": "lãnh đạo",
+    "cat": "công việc"
+  },
+  {
+    "w": "指导",
+    "p": "zhǐ dǎo",
+    "m": "hướng dẫn, chỉ đạo",
+    "cat": "hành động"
+  },
+  {
+    "w": "培养",
+    "p": "péi yǎng",
+    "m": "bồi dưỡng, đào tạo",
+    "cat": "hành động"
+  },
+  {
+    "w": "激发",
+    "p": "jī fā",
+    "m": "khơi dậy, kích thích",
+    "cat": "hành động"
+  },
+  {
+    "w": "调动",
+    "p": "diào dòng",
+    "m": "huy động, điều động",
+    "cat": "hành động"
+  },
+  {
+    "w": "开发",
+    "p": "kāi fā",
+    "m": "phát triển, khai thác",
+    "cat": "hành động"
+  },
+  {
+    "w": "利用",
+    "p": "lì yòng",
+    "m": "tận dụng",
+    "cat": "hành động"
+  },
+  {
+    "w": "整合",
+    "p": "zhěng hé",
+    "m": "tích hợp, hợp nhất",
+    "cat": "hành động"
+  },
+  {
+    "w": "优化",
+    "p": "yōu huà",
+    "m": "tối ưu hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "完善",
+    "p": "wán shàn",
+    "m": "hoàn thiện",
+    "cat": "hành động"
+  },
+  {
+    "w": "补充",
+    "p": "bǔ chōng",
+    "m": "bổ sung",
+    "cat": "hành động"
+  },
+  {
+    "w": "修改",
+    "p": "xiū gǎi",
+    "m": "sửa đổi",
+    "cat": "hành động"
+  },
+  {
+    "w": "更新",
+    "p": "gēng xīn",
+    "m": "cập nhật, đổi mới",
+    "cat": "hành động"
+  },
+  {
+    "w": "完成",
+    "p": "wán chéng",
+    "m": "hoàn thành",
+    "cat": "hành động"
+  },
+  {
+    "w": "实现",
+    "p": "shí xiàn",
+    "m": "thực hiện, đạt được",
+    "cat": "hành động"
+  },
+  {
+    "w": "达成",
+    "p": "dá chéng",
+    "m": "đạt được",
+    "cat": "hành động"
+  },
+  {
+    "w": "实施",
+    "p": "shí shī",
+    "m": "thực hiện, tiến hành",
+    "cat": "hành động"
+  },
+  {
+    "w": "推广",
+    "p": "tuī guǎng",
+    "m": "phổ biến, quảng bá",
+    "cat": "hành động"
+  },
+  {
+    "w": "宣传",
+    "p": "xuān chuán",
+    "m": "tuyên truyền",
+    "cat": "hành động"
+  },
+  {
+    "w": "展示",
+    "p": "zhǎn shì",
+    "m": "trình bày, thể hiện",
+    "cat": "hành động"
+  },
+  {
+    "w": "呈现",
+    "p": "chéng xiàn",
+    "m": "thể hiện, phô bày",
+    "cat": "hành动"
+  },
+  {
+    "w": "体现",
+    "p": "tǐ xiàn",
+    "m": "thể hiện, phản ánh",
+    "cat": "hành động"
+  },
+  {
+    "w": "反映",
+    "p": "fǎn yìng",
+    "m": "phản ánh",
+    "cat": "hành động"
+  },
+  {
+    "w": "揭示",
+    "p": "jiē shì",
+    "m": "bộc lộ, tiết lộ",
+    "cat": "hành động"
+  },
+  {
+    "w": "揭露",
+    "p": "jiē lù",
+    "m": "vạch trần, phơi bày",
+    "cat": "hành động"
+  },
+  {
+    "w": "突出",
+    "p": "tū chū",
+    "m": "nổi bật, nhấn mạnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "显著",
+    "p": "xiǎn zhù",
+    "m": "đáng chú ý, rõ ràng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "明显",
+    "p": "míng xiǎn",
+    "m": "rõ ràng, hiển nhiên",
+    "cat": "tính từ"
+  },
+  {
+    "w": "深刻",
+    "p": "shēn kè",
+    "m": "sâu sắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "广泛",
+    "p": "guǎng fàn",
+    "m": "rộng rãi, phổ biến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "普遍",
+    "p": "pǔ biàn",
+    "m": "phổ biến, phổ thông",
+    "cat": "tính từ"
+  },
+  {
+    "w": "特殊",
+    "p": "tè shū",
+    "m": "đặc biệt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "独特",
+    "p": "dú tè",
+    "m": "độc đáo, đặc trưng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "罕见",
+    "p": "hǎn jiàn",
+    "m": "hiếm gặp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "常见",
+    "p": "cháng jiàn",
+    "m": "thường gặp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "典型",
+    "p": "diǎn xíng",
+    "m": "điển hình",
+    "cat": "tính từ"
+  },
+  {
+    "w": "具体",
+    "p": "jù tǐ",
+    "m": "cụ thể",
+    "cat": "tính từ"
+  },
+  {
+    "w": "抽象",
+    "p": "chōu xiàng",
+    "m": "trừu tượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "复杂",
+    "p": "fù zá",
+    "m": "phức tạp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "简单",
+    "p": "jiǎn dān",
+    "m": "đơn giản",
+    "cat": "tính từ"
+  },
+  {
+    "w": "全面",
+    "p": "quán miàn",
+    "m": "toàn diện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "片面",
+    "p": "piàn miàn",
+    "m": "phiến diện",
+    "cat": "tính từ"
+  },
+  {
+    "w": "客观",
+    "p": "kè guān",
+    "m": "khách quan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "主观",
+    "p": "zhǔ guān",
+    "m": "chủ quan",
+    "cat": "tính từ"
+  },
+  {
+    "w": "实际",
+    "p": "shí jì",
+    "m": "thực tế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "理想",
+    "p": "lǐ xiǎng",
+    "m": "lý tưởng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "合理",
+    "p": "hé lǐ",
+    "m": "hợp lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "不合理",
+    "p": "bù hé lǐ",
+    "m": "không hợp lý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "正确",
+    "p": "zhèng què",
+    "m": "đúng đắn, chính xác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "错误",
+    "p": "cuò wù",
+    "m": "sai lầm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "有效",
+    "p": "yǒu xiào",
+    "m": "có hiệu quả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "无效",
+    "p": "wú xiào",
+    "m": "vô hiệu, không hiệu quả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "必须",
+    "p": "bì xū",
+    "m": "phải, bắt buộc",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "应该",
+    "p": "yīng gāi",
+    "m": "nên, cần phải",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "可以",
+    "p": "kě yǐ",
+    "m": "có thể, được phép",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "不得不",
+    "p": "bù dé bù",
+    "m": "không thể không, buộc phải",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "尽量",
+    "p": "jǐn liàng",
+    "m": "cố gắng hết sức",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "逐渐",
+    "p": "zhú jiàn",
+    "m": "dần dần",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "突然",
+    "p": "tū rán",
+    "m": "đột nhiên",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "立即",
+    "p": "lì jí",
+    "m": "ngay lập tức",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "最终",
+    "p": "zuì zhōng",
+    "m": "cuối cùng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "始终",
+    "p": "shǐ zhōng",
+    "m": "luôn luôn, từ đầu đến cuối",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "往往",
+    "p": "wǎng wǎng",
+    "m": "thường thường",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "偶尔",
+    "p": "ǒu ěr",
+    "m": "thỉnh thoảng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "频繁",
+    "p": "pín fán",
+    "m": "thường xuyên, liên tục",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "彻底",
+    "p": "chè dǐ",
+    "m": "triệt để, hoàn toàn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "充分",
+    "p": "chōng fèn",
+    "m": "đầy đủ, đủ",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "共同",
+    "p": "gòng tóng",
+    "m": "cùng nhau, chung",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "相互",
+    "p": "xiāng hù",
+    "m": "lẫn nhau, qua lại",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "彼此",
+    "p": "bǐ cǐ",
+    "m": "lẫn nhau",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "各自",
+    "p": "gè zì",
+    "m": "mỗi người, riêng từng người",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "分别",
+    "p": "fēn bié",
+    "m": "riêng biệt, lần lượt",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "相比",
+    "p": "xiāng bǐ",
+    "m": "so sánh với nhau",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "相对",
+    "p": "xiāng duì",
+    "m": "tương đối",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "绝对",
+    "p": "jué duì",
+    "m": "tuyệt đối",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "总体",
+    "p": "zǒng tǐ",
+    "m": "tổng thể",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "整体",
+    "p": "zhěng tǐ",
+    "m": "toàn thể",
+    "cat": "tính từ"
+  },
+  {
+    "w": "局部",
+    "p": "jú bù",
+    "m": "cục bộ, từng phần",
+    "cat": "tính từ"
+  },
+  {
+    "w": "基本",
+    "p": "jī běn",
+    "m": "cơ bản",
+    "cat": "tính từ"
+  },
+  {
+    "w": "根本",
+    "p": "gēn běn",
+    "m": "căn bản, cơ bản nhất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "核心",
+    "p": "hé xīn",
+    "m": "cốt lõi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "关键",
+    "p": "guān jiàn",
+    "m": "then chốt, quan trọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "主要",
+    "p": "zhǔ yào",
+    "m": "chủ yếu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "次要",
+    "p": "cì yào",
+    "m": "thứ yếu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "辅助",
+    "p": "fǔ zhù",
+    "m": "bổ trợ, hỗ trợ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "补充",
+    "p": "bǔ chōng",
+    "m": "bổ sung",
+    "cat": "tính từ"
+  },
+  {
+    "w": "配合",
+    "p": "pèi hé",
+    "m": "phối hợp",
+    "cat": "hành động"
+  },
+  {
+    "w": "配套",
+    "p": "pèi tào",
+    "m": "đi kèm, phối bộ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "综合",
+    "p": "zōng hé",
+    "m": "tổng hợp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "系统",
+    "p": "xì tǒng",
+    "m": "hệ thống",
+    "cat": "học thuật"
+  },
+  {
+    "w": "结构",
+    "p": "jié gòu",
+    "m": "cấu trúc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "框架",
+    "p": "kuàng jià",
+    "m": "khung, khuôn khổ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "体系",
+    "p": "tǐ xì",
+    "m": "hệ thống, cơ cấu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "机制",
+    "p": "jī zhì",
+    "m": "cơ chế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "模式",
+    "p": "mó shì",
+    "m": "mô hình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "格局",
+    "p": "gé jú",
+    "m": "cục diện, khuôn khổ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "形势",
+    "p": "xíng shì",
+    "m": "tình hình, tình thế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "状况",
+    "p": "zhuàng kuàng",
+    "m": "tình trạng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "现象",
+    "p": "xiàn xiàng",
+    "m": "hiện tượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "问题",
+    "p": "wèn tí",
+    "m": "vấn đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "难题",
+    "p": "nán tí",
+    "m": "vấn đề khó",
+    "cat": "học thuật"
+  },
+  {
+    "w": "困境",
+    "p": "kùn jìng",
+    "m": "tình cảnh khó khăn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "危机",
+    "p": "wēi jī",
+    "m": "khủng hoảng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "压迫",
+    "p": "yā pò",
+    "m": "áp bức",
+    "cat": "xã hội"
+  },
+  {
+    "w": "剥削",
+    "p": "bō xuē",
+    "m": "bóc lột",
+    "cat": "xã hội"
+  },
+  {
+    "w": "腐败",
+    "p": "fǔ bài",
+    "m": "tham nhũng, hủ bại",
+    "cat": "chính trị"
+  },
+  {
+    "w": "贫困",
+    "p": "pín kùn",
+    "m": "nghèo đói",
+    "cat": "xã hội"
+  },
+  {
+    "w": "失业",
+    "p": "shī yè",
+    "m": "thất nghiệp",
+    "cat": "xã hội"
+  },
+  {
+    "w": "老龄化",
+    "p": "lǎo líng huà",
+    "m": "già hóa (dân số)",
+    "cat": "xã hội"
+  },
+  {
+    "w": "人口",
+    "p": "rén kǒu",
+    "m": "dân số",
+    "cat": "xã hội"
+  },
+  {
+    "w": "城市化",
+    "p": "chéng shì huà",
+    "m": "đô thị hóa",
+    "cat": "xã hội"
+  },
+  {
+    "w": "农村",
+    "p": "nóng cūn",
+    "m": "nông thôn",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "乡村",
+    "p": "xiāng cūn",
+    "m": "làng quê",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "郊区",
+    "p": "jiāo qū",
+    "m": "ngoại ô",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "市中心",
+    "p": "shì zhōng xīn",
+    "m": "trung tâm thành phố",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "交通堵塞",
+    "p": "jiāo tōng dǔ sè",
+    "m": "tắc đường",
+    "cat": "giao thông"
+  },
+  {
+    "w": "公共交通",
+    "p": "gōng gòng jiāo tōng",
+    "m": "giao thông công cộng",
+    "cat": "giao thông"
+  },
+  {
+    "w": "地铁",
+    "p": "dì tiě",
+    "m": "tàu điện ngầm",
+    "cat": "giao thông"
+  },
+  {
+    "w": "高铁",
+    "p": "gāo tiě",
+    "m": "tàu cao tốc",
+    "cat": "giao thông"
+  },
+  {
+    "w": "共享单车",
+    "p": "gòng xiǎng dān chē",
+    "m": "xe đạp chia sẻ",
+    "cat": "giao thông"
+  },
+  {
+    "w": "新能源车",
+    "p": "xīn néng yuán chē",
+    "m": "xe năng lượng mới",
+    "cat": "giao thông"
+  },
+  {
+    "w": "无人驾驶",
+    "p": "wú rén jià shǐ",
+    "m": "lái xe tự động",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "房价",
+    "p": "fáng jià",
+    "m": "giá nhà",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "租房",
+    "p": "zū fáng",
+    "m": "thuê nhà",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "买房",
+    "p": "mǎi fáng",
+    "m": "mua nhà",
+    "cat": "nhà ở"
+  },
+  {
+    "w": "贷款",
+    "p": "dài kuǎn",
+    "m": "vay vốn, cho vay",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "通货膨胀",
+    "p": "tōng huò péng zhàng",
+    "m": "lạm phát",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "医疗",
+    "p": "yī liáo",
+    "m": "y tế, chữa bệnh",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "保险",
+    "p": "bǎo xiǎn",
+    "m": "bảo hiểm",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "社会保障",
+    "p": "shè huì bǎo zhàng",
+    "m": "an sinh xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "养老金",
+    "p": "yǎng lǎo jīn",
+    "m": "lương hưu",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "公益",
+    "p": "gōng yì",
+    "m": "phúc lợi công cộng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "志愿",
+    "p": "zhì yuàn",
+    "m": "tình nguyện",
+    "cat": "xã hội"
+  },
+  {
+    "w": "慈善",
+    "p": "cí shàn",
+    "m": "từ thiện",
+    "cat": "xã hội"
+  },
+  {
+    "w": "捐款",
+    "p": "juān kuǎn",
+    "m": "quyên góp tiền",
+    "cat": "hành động"
+  }
+]

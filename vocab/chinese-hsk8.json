@@ -1,0 +1,2462 @@
+[
+  {
+    "w": "六义",
+    "p": "liù yì",
+    "m": "sáu phép của Kinh Thi: phong nhã tụng phú tỉ hứng",
+    "cat": "literature"
+  },
+  {
+    "w": "风雅颂",
+    "p": "fēng yǎ sòng",
+    "m": "ba thể trong Kinh Thi: quốc phong, đại tiểu nhã, tụng",
+    "cat": "literature"
+  },
+  {
+    "w": "赋比兴",
+    "p": "fù bǐ xìng",
+    "m": "ba thủ pháp: phú (tự sự), tỉ (so sánh), hứng (gợi cảm)",
+    "cat": "literature"
+  },
+  {
+    "w": "香草美人",
+    "p": "xiāngcǎo měirén",
+    "m": "cỏ thơm mỹ nhân — ẩn dụ trong Sở từ cho lý tưởng và quân vương",
+    "cat": "literature"
+  },
+  {
+    "w": "求女",
+    "p": "qiú nǚ",
+    "m": "cầu nữ — motif tìm kiếm người lý tưởng trong Sở từ",
+    "cat": "literature"
+  },
+  {
+    "w": "神游",
+    "p": "shén yóu",
+    "m": "thần du — tinh thần phiêu bổng trong Sở từ",
+    "cat": "literature"
+  },
+  {
+    "w": "汉赋",
+    "p": "hàn fù",
+    "m": "phú thời Hán — thể loại văn xuôi vần điệu hoa lệ",
+    "cat": "literature"
+  },
+  {
+    "w": "骚体",
+    "p": "sāo tǐ",
+    "m": "thể ly tao — phong cách thơ có ảnh hưởng từ Khuất Nguyên",
+    "cat": "literature"
+  },
+  {
+    "w": "边塞诗",
+    "p": "biānsài shī",
+    "m": "thơ biên tái — thơ viết về cuộc sống biên giới",
+    "cat": "literature"
+  },
+  {
+    "w": "山水田园诗",
+    "p": "shānshuǐ tiányuán shī",
+    "m": "thơ sơn thủy điền viên",
+    "cat": "literature"
+  },
+  {
+    "w": "浪漫主义诗风",
+    "p": "làngmàn zhǔyì shīfēng",
+    "m": "phong cách thơ lãng mạn",
+    "cat": "literature"
+  },
+  {
+    "w": "现实主义诗风",
+    "p": "xiànshí zhǔyì shīfēng",
+    "m": "phong cách thơ hiện thực",
+    "cat": "literature"
+  },
+  {
+    "w": "婉约派",
+    "p": "wǎnyuē pài",
+    "m": "phái uyển ước — từ phong ý nhị trong sáng",
+    "cat": "literature"
+  },
+  {
+    "w": "豪放派",
+    "p": "háofàng pài",
+    "m": "phái hào phóng — từ phong phóng khoáng, khảng khái",
+    "cat": "literature"
+  },
+  {
+    "w": "杂剧",
+    "p": "zájù",
+    "m": "tạp kịch — hình thức kịch hát đời Nguyên",
+    "cat": "literature"
+  },
+  {
+    "w": "散曲",
+    "p": "sǎnqǔ",
+    "m": "tán khúc — thể từ khúc Nguyên ngoài kịch",
+    "cat": "literature"
+  },
+  {
+    "w": "章回体",
+    "p": "zhānghúi tǐ",
+    "m": "tiểu thuyết chương hồi",
+    "cat": "literature"
+  },
+  {
+    "w": "讽刺小说",
+    "p": "fěngcì xiǎoshuō",
+    "m": "tiểu thuyết châm biếm",
+    "cat": "literature"
+  },
+  {
+    "w": "四大名著",
+    "p": "sì dà míngzhù",
+    "m": "bốn tác phẩm danh tiếng nhất Trung Quốc",
+    "cat": "literature"
+  },
+  {
+    "w": "《红楼梦》",
+    "p": "Hónglóumèng",
+    "m": "Hồng Lâu Mộng",
+    "cat": "literature"
+  },
+  {
+    "w": "《水浒传》",
+    "p": "Shuǐhǔ Zhuàn",
+    "m": "Thủy Hử Truyện",
+    "cat": "literature"
+  },
+  {
+    "w": "《三国演义》",
+    "p": "Sānguó Yǎnyì",
+    "m": "Tam Quốc Diễn Nghĩa",
+    "cat": "literature"
+  },
+  {
+    "w": "《西游记》",
+    "p": "Xīyóujì",
+    "m": "Tây Du Ký",
+    "cat": "literature"
+  },
+  {
+    "w": "太虚幻境",
+    "p": "tàixū huànjìng",
+    "m": "cảnh ảo Thái Hư — thế giới tâm linh trong Hồng Lâu Mộng",
+    "cat": "literature"
+  },
+  {
+    "w": "家族衰落主题",
+    "p": "jiāzú shuāiluò zhǔtí",
+    "m": "chủ đề suy tàn gia tộc (Hồng Lâu Mộng)",
+    "cat": "literature"
+  },
+  {
+    "w": "忠义思想",
+    "p": "zhōngyì sīxiǎng",
+    "m": "tư tưởng trung nghĩa (Thủy Hử)",
+    "cat": "literature"
+  },
+  {
+    "w": "尊刘贬曹",
+    "p": "zūn liú biǎn cáo",
+    "m": "tôn Lưu biếm Tào (Tam Quốc)",
+    "cat": "literature"
+  },
+  {
+    "w": "诗话",
+    "p": "shī huà",
+    "m": "thi thoại — bình luận thơ",
+    "cat": "literature"
+  },
+  {
+    "w": "词话",
+    "p": "cí huà",
+    "m": "từ thoại — lý luận về từ",
+    "cat": "literature"
+  },
+  {
+    "w": "曲话",
+    "p": "qǔ huà",
+    "m": "khúc thoại — bình luận về khúc",
+    "cat": "literature"
+  },
+  {
+    "w": "文言小说",
+    "p": "wényán xiǎoshuō",
+    "m": "tiểu thuyết văn ngôn",
+    "cat": "literature"
+  },
+  {
+    "w": "志怪小说",
+    "p": "zhìguài xiǎoshuō",
+    "m": "tiểu thuyết ghi dị — truyện kỳ quái",
+    "cat": "literature"
+  },
+  {
+    "w": "传奇小说",
+    "p": "chuánqí xiǎoshuō",
+    "m": "tiểu thuyết truyền kỳ",
+    "cat": "literature"
+  },
+  {
+    "w": "话本",
+    "p": "huàběn",
+    "m": "thoại bản — truyện kể dân gian",
+    "cat": "literature"
+  },
+  {
+    "w": "拟话本",
+    "p": "nǐ huàběn",
+    "m": "nghĩ thoại bản — mô phỏng thoại bản",
+    "cat": "literature"
+  },
+  {
+    "w": "公案小说",
+    "p": "gōngàn xiǎoshuō",
+    "m": "tiểu thuyết công án — trinh thám cổ điển",
+    "cat": "literature"
+  },
+  {
+    "w": "才子佳人",
+    "p": "cáizǐ jiārén",
+    "m": "tài tử giai nhân — mô típ văn học cổ",
+    "cat": "literature"
+  },
+  {
+    "w": "人情小说",
+    "p": "rénqíng xiǎoshuō",
+    "m": "tiểu thuyết nhân tình — phản ánh xã hội",
+    "cat": "literature"
+  },
+  {
+    "w": "八股文",
+    "p": "bāgǔ wén",
+    "m": "bát cổ văn — văn thể thi cử phong kiến",
+    "cat": "literature"
+  },
+  {
+    "w": "骈文",
+    "p": "piánwén",
+    "m": "biền văn — văn đối ngẫu hoa lệ",
+    "cat": "literature"
+  },
+  {
+    "w": "古文运动",
+    "p": "gǔwén yùndòng",
+    "m": "phong trào cổ văn (Hàn Dũ)",
+    "cat": "literature"
+  },
+  {
+    "w": "文道合一",
+    "p": "wén dào héyī",
+    "m": "văn đạo nhất thể — văn chương và đạo lý hợp nhất",
+    "cat": "literature"
+  },
+  {
+    "w": "载道说",
+    "p": "zài dào shuō",
+    "m": "thuyết văn chương chở đạo",
+    "cat": "literature"
+  },
+  {
+    "w": "言志说",
+    "p": "yán zhì shuō",
+    "m": "thuyết thơ thể hiện chí hướng",
+    "cat": "literature"
+  },
+  {
+    "w": "缘情说",
+    "p": "yuán qíng shuō",
+    "m": "thuyết thơ bày tỏ tình cảm",
+    "cat": "literature"
+  },
+  {
+    "w": "意象",
+    "p": "yìxiàng",
+    "m": "ý tượng — hình tượng mang ý nghĩa biểu tượng",
+    "cat": "literature"
+  },
+  {
+    "w": "意境",
+    "p": "yìjìng",
+    "m": "ý cảnh — cảnh giới nghệ thuật trong thơ",
+    "cat": "literature"
+  },
+  {
+    "w": "神韵",
+    "p": "shén yùn",
+    "m": "thần vận — thần khí và vận vị thơ văn",
+    "cat": "literature"
+  },
+  {
+    "w": "格调",
+    "p": "gédiao",
+    "m": "cách điệu — phong cách và tình điệu thơ",
+    "cat": "literature"
+  },
+  {
+    "w": "肌理",
+    "p": "jīlǐ",
+    "m": "cơ lý — kết cấu nội tại của thơ",
+    "cat": "literature"
+  },
+  {
+    "w": "性灵说",
+    "p": "xìnglíng shuō",
+    "m": "thuyết tính linh — thơ thể hiện tính cách cá nhân",
+    "cat": "literature"
+  },
+  {
+    "w": "钟嵘品第",
+    "p": "Zhōng Róng pǐn dì",
+    "m": "xếp hạng thơ của Chung Vinh (Thi Phẩm)",
+    "cat": "literature"
+  },
+  {
+    "w": "诗品",
+    "p": "shī pǐn",
+    "m": "Thi Phẩm — tác phẩm phê bình thơ của Chung Vinh",
+    "cat": "literature"
+  },
+  {
+    "w": "文心雕龙",
+    "p": "Wénxīn Diāolóng",
+    "m": "Văn Tâm Điêu Long — lý luận văn học của Lưu Hiệp",
+    "cat": "literature"
+  },
+  {
+    "w": "比兴手法",
+    "p": "bǐxìng shǒufǎ",
+    "m": "thủ pháp tỉ hứng — ví von và liên tưởng",
+    "cat": "literature"
+  },
+  {
+    "w": "用典",
+    "p": "yòngdiǎn",
+    "m": "dùng điển tích",
+    "cat": "literature"
+  },
+  {
+    "w": "铺陈",
+    "p": "pūchén",
+    "m": "phô trần — liệt kê trình bày chi tiết (thủ pháp phú)",
+    "cat": "literature"
+  },
+  {
+    "w": "起承转合",
+    "p": "qǐ chéng zhuǎn hé",
+    "m": "khởi thừa chuyển hợp — kết cấu thơ tứ tuyệt",
+    "cat": "literature"
+  },
+  {
+    "w": "拗救",
+    "p": "ào jiù",
+    "m": "âu cứu — sửa lỗi bằng âm thanh bù trừ trong thơ Đường",
+    "cat": "literature"
+  },
+  {
+    "w": "平水韵",
+    "p": "píng shuǐ yùn",
+    "m": "Bình Thủy Vận — bảng âm vần thơ Đường",
+    "cat": "literature"
+  },
+  {
+    "w": "词牌",
+    "p": "cípái",
+    "m": "từ bài — điệu nhạc của từ",
+    "cat": "literature"
+  },
+  {
+    "w": "曲牌",
+    "p": "qǔpái",
+    "m": "khúc bài — điệu nhạc của khúc",
+    "cat": "literature"
+  },
+  {
+    "w": "宫调",
+    "p": "gōngdiào",
+    "m": "cung điệu — hệ thống âm nhạc trong khúc",
+    "cat": "literature"
+  },
+  {
+    "w": "套数",
+    "p": "tào shù",
+    "m": "sáo số — bộ khúc liên kết trong tán khúc",
+    "cat": "literature"
+  },
+  {
+    "w": "折子戏",
+    "p": "zhézi xì",
+    "m": "chiết tử hí — trích đoạn nổi tiếng trong kịch cổ",
+    "cat": "literature"
+  },
+  {
+    "w": "凯恩斯主义",
+    "p": "kǎiēnsī zhǔyì",
+    "m": "chủ nghĩa Keynes",
+    "cat": "economics"
+  },
+  {
+    "w": "货币主义",
+    "p": "huòbì zhǔyì",
+    "m": "chủ nghĩa tiền tệ (monetarism)",
+    "cat": "economics"
+  },
+  {
+    "w": "供给学派",
+    "p": "gōngjǐ xuépài",
+    "m": "trường phái kinh tế phía cung (supply-side)",
+    "cat": "economics"
+  },
+  {
+    "w": "奥地利学派",
+    "p": "àodìlì xuépài",
+    "m": "trường phái kinh tế Áo",
+    "cat": "economics"
+  },
+  {
+    "w": "新古典综合",
+    "p": "xīn gǔdiǎn zōnghé",
+    "m": "tổng hợp tân cổ điển",
+    "cat": "economics"
+  },
+  {
+    "w": "内生增长理论",
+    "p": "nèishēng zēngzhǎng lǐlùn",
+    "m": "lý thuyết tăng trưởng nội sinh",
+    "cat": "economics"
+  },
+  {
+    "w": "发展经济学",
+    "p": "fāzhǎn jīngjìxué",
+    "m": "kinh tế học phát triển",
+    "cat": "economics"
+  },
+  {
+    "w": "比较优势",
+    "p": "bǐjiào yōushì",
+    "m": "lợi thế so sánh",
+    "cat": "economics"
+  },
+  {
+    "w": "要素禀赋",
+    "p": "yàosù bǐngfù",
+    "m": "năng khiếu yếu tố (factor endowment)",
+    "cat": "economics"
+  },
+  {
+    "w": "规模经济",
+    "p": "guīmó jīngjì",
+    "m": "kinh tế quy mô",
+    "cat": "economics"
+  },
+  {
+    "w": "外部性",
+    "p": "wàibùxìng",
+    "m": "ngoại tác (externality)",
+    "cat": "economics"
+  },
+  {
+    "w": "公共品",
+    "p": "gōnggòng pǐn",
+    "m": "hàng hóa công cộng",
+    "cat": "economics"
+  },
+  {
+    "w": "市场失灵",
+    "p": "shìchǎng shīlíng",
+    "m": "thất bại thị trường",
+    "cat": "economics"
+  },
+  {
+    "w": "政府失灵",
+    "p": "zhèngfǔ shīlíng",
+    "m": "thất bại chính phủ",
+    "cat": "economics"
+  },
+  {
+    "w": "制度经济学",
+    "p": "zhìdù jīngjìxué",
+    "m": "kinh tế học thể chế",
+    "cat": "economics"
+  },
+  {
+    "w": "交易成本",
+    "p": "jiāoyì chéngběn",
+    "m": "chi phí giao dịch",
+    "cat": "economics"
+  },
+  {
+    "w": "产权理论",
+    "p": "chǎnquán lǐlùn",
+    "m": "lý thuyết quyền sở hữu",
+    "cat": "economics"
+  },
+  {
+    "w": "行为经济学",
+    "p": "xíngwéi jīngjìxué",
+    "m": "kinh tế học hành vi",
+    "cat": "economics"
+  },
+  {
+    "w": "前景理论",
+    "p": "qiánjǐng lǐlùn",
+    "m": "lý thuyết triển vọng (Kahneman)",
+    "cat": "economics"
+  },
+  {
+    "w": "损失厌恶",
+    "p": "sǔnshī yànwù",
+    "m": "sợ mất mát (loss aversion)",
+    "cat": "economics"
+  },
+  {
+    "w": "助推理论",
+    "p": "zhùtuī lǐlùn",
+    "m": "lý thuyết cú huých (nudge theory)",
+    "cat": "economics"
+  },
+  {
+    "w": "心理账户",
+    "p": "xīnlǐ zhànghù",
+    "m": "tài khoản tâm lý (mental accounting)",
+    "cat": "economics"
+  },
+  {
+    "w": "禀赋效应",
+    "p": "bǐngfù xiàoyìng",
+    "m": "hiệu ứng sở hữu (endowment effect)",
+    "cat": "economics"
+  },
+  {
+    "w": "沉没成本谬误",
+    "p": "chénmò chéngběn miùwù",
+    "m": "ngụy biện chi phí chìm",
+    "cat": "economics"
+  },
+  {
+    "w": "有限理性",
+    "p": "yǒuxiàn lǐxìng",
+    "m": "lý trí có giới hạn (bounded rationality)",
+    "cat": "economics"
+  },
+  {
+    "w": "博弈论",
+    "p": "bóyì lùn",
+    "m": "lý thuyết trò chơi (game theory)",
+    "cat": "economics"
+  },
+  {
+    "w": "纳什均衡",
+    "p": "nàshí jūnhéng",
+    "m": "cân bằng Nash",
+    "cat": "economics"
+  },
+  {
+    "w": "囚徒困境",
+    "p": "qiútú kùnjìng",
+    "m": "bài toán tù nhân (prisoner's dilemma)",
+    "cat": "economics"
+  },
+  {
+    "w": "逐底竞争",
+    "p": "zhú dǐ jìngzhēng",
+    "m": "cuộc đua xuống đáy (race to the bottom)",
+    "cat": "economics"
+  },
+  {
+    "w": "古诺竞争",
+    "p": "gǔ nuò jìngzhēng",
+    "m": "cạnh tranh Cournot",
+    "cat": "economics"
+  },
+  {
+    "w": "伯特兰竞争",
+    "p": "bó tè lán jìngzhēng",
+    "m": "cạnh tranh Bertrand",
+    "cat": "economics"
+  },
+  {
+    "w": "斯塔克尔伯格博弈",
+    "p": "sī tǎkè ěr bógé bóyì",
+    "m": "trò chơi Stackelberg",
+    "cat": "economics"
+  },
+  {
+    "w": "不完全竞争",
+    "p": "bù wánquán jìngzhēng",
+    "m": "cạnh tranh không hoàn hảo",
+    "cat": "economics"
+  },
+  {
+    "w": "垄断竞争",
+    "p": "lǒngduàn jìngzhēng",
+    "m": "cạnh tranh độc quyền",
+    "cat": "economics"
+  },
+  {
+    "w": "寡头垄断",
+    "p": "guǎtóu lǒngduàn",
+    "m": "độc quyền nhóm (oligopoly)",
+    "cat": "economics"
+  },
+  {
+    "w": "双边市场",
+    "p": "shuāngbiān shìchǎng",
+    "m": "thị trường hai mặt (two-sided market)",
+    "cat": "economics"
+  },
+  {
+    "w": "平台垄断",
+    "p": "píngtái lǒngduàn",
+    "m": "độc quyền nền tảng",
+    "cat": "economics"
+  },
+  {
+    "w": "价格歧视",
+    "p": "jiàgé qíshì",
+    "m": "phân biệt giá",
+    "cat": "economics"
+  },
+  {
+    "w": "搭便车",
+    "p": "dā biànchē",
+    "m": "ăn theo (free-riding)",
+    "cat": "economics"
+  },
+  {
+    "w": "俱乐部物品",
+    "p": "jùlèbù wùpǐn",
+    "m": "hàng hóa câu lạc bộ",
+    "cat": "economics"
+  },
+  {
+    "w": "准公共品",
+    "p": "zhǔn gōnggòng pǐn",
+    "m": "hàng hóa gần công cộng",
+    "cat": "economics"
+  },
+  {
+    "w": "拥挤外部性",
+    "p": "yōngjǐ wàibùxìng",
+    "m": "ngoại tác tắc nghẽn",
+    "cat": "economics"
+  },
+  {
+    "w": "公地悲剧",
+    "p": "gōngdì bēijù",
+    "m": "bi kịch đất công (Hardin)",
+    "cat": "economics"
+  },
+  {
+    "w": "庇古税",
+    "p": "pǐgǔ shuì",
+    "m": "thuế ngoại tác Pigou",
+    "cat": "economics"
+  },
+  {
+    "w": "科斯定理",
+    "p": "kēsī dìnglǐ",
+    "m": "định lý Coase",
+    "cat": "economics"
+  },
+  {
+    "w": "总均衡",
+    "p": "zǒng jūnhéng",
+    "m": "cân bằng tổng thể (general equilibrium)",
+    "cat": "economics"
+  },
+  {
+    "w": "帕累托效率",
+    "p": "pā lèituō xiàolǜ",
+    "m": "hiệu quả Pareto",
+    "cat": "economics"
+  },
+  {
+    "w": "卡尔多-希克斯效率",
+    "p": "kǎ ěr duō xī kè sī xiàolǜ",
+    "m": "hiệu quả Kaldor-Hicks",
+    "cat": "economics"
+  },
+  {
+    "w": "福利经济学",
+    "p": "fúlì jīngjìxué",
+    "m": "kinh tế học phúc lợi",
+    "cat": "economics"
+  },
+  {
+    "w": "阿罗不可能定理",
+    "p": "ā luó bù kěnéng dìnglǐ",
+    "m": "định lý bất khả thi Arrow",
+    "cat": "economics"
+  },
+  {
+    "w": "社会选择理论",
+    "p": "shèhuì xuǎnzé lǐlùn",
+    "m": "lý thuyết lựa chọn xã hội",
+    "cat": "economics"
+  },
+  {
+    "w": "功利主义",
+    "p": "gōnglì zhǔyì",
+    "m": "chủ nghĩa công lợi (utilitarianism)",
+    "cat": "economics"
+  },
+  {
+    "w": "罗尔斯正义论",
+    "p": "luó ěr sī zhèngyì lùn",
+    "m": "lý thuyết công lý Rawls",
+    "cat": "economics"
+  },
+  {
+    "w": "无知之幕",
+    "p": "wúzhī zhī mù",
+    "m": "tấm màn vô tri (veil of ignorance)",
+    "cat": "economics"
+  },
+  {
+    "w": "差异原则",
+    "p": "chāyì yuánzé",
+    "m": "nguyên tắc khác biệt (Rawls)",
+    "cat": "economics"
+  },
+  {
+    "w": "能力方法",
+    "p": "nénglì fāngfǎ",
+    "m": "phương pháp năng lực (Amartya Sen)",
+    "cat": "economics"
+  },
+  {
+    "w": "人类发展指数",
+    "p": "rénlèi fāzhǎn zhǐshù",
+    "m": "chỉ số phát展 con người (HDI)",
+    "cat": "economics"
+  },
+  {
+    "w": "多维贫困",
+    "p": "duōwéi pínqióng",
+    "m": "nghèo đói đa chiều",
+    "cat": "economics"
+  },
+  {
+    "w": "包容性增长",
+    "p": "bāoróngxìng zēngzhǎng",
+    "m": "tăng trưởng bao trùm",
+    "cat": "economics"
+  },
+  {
+    "w": "可持续发展",
+    "p": "kě chíxù fāzhǎn",
+    "m": "phát triển bền vững",
+    "cat": "economics"
+  },
+  {
+    "w": "绿色GDP",
+    "p": "lǜsè GDP",
+    "m": "GDP xanh",
+    "cat": "economics"
+  },
+  {
+    "w": "自然资本",
+    "p": "zìrán zīběn",
+    "m": "vốn tự nhiên",
+    "cat": "economics"
+  },
+  {
+    "w": "生态系统服务",
+    "p": "shēngtài xìtǒng fúwù",
+    "m": "dịch vụ hệ sinh thái",
+    "cat": "economics"
+  },
+  {
+    "w": "环境库兹涅茨曲线",
+    "p": "huánjìng kù zī niè cí qūxiàn",
+    "m": "đường cong Kuznets môi trường",
+    "cat": "economics"
+  },
+  {
+    "w": "碳定价",
+    "p": "tàn dìngjià",
+    "m": "định giá carbon",
+    "cat": "economics"
+  },
+  {
+    "w": "碳交易",
+    "p": "tàn jiāoyì",
+    "m": "giao dịch carbon",
+    "cat": "economics"
+  },
+  {
+    "w": "碳边境调节税",
+    "p": "tàn biānjìng tiáojié shuì",
+    "m": "thuế điều chỉnh carbon tại biên giới (CBAM)",
+    "cat": "economics"
+  },
+  {
+    "w": "气候俱乐部",
+    "p": "qìhòu jùlèbù",
+    "m": "câu lạc bộ khí hậu",
+    "cat": "economics"
+  },
+  {
+    "w": "资本积累",
+    "p": "zīběn jīlěi",
+    "m": "tích lũy vốn",
+    "cat": "economics"
+  },
+  {
+    "w": "人力资本",
+    "p": "rénlì zīběn",
+    "m": "vốn con người",
+    "cat": "economics"
+  },
+  {
+    "w": "技术进步",
+    "p": "jìshù jìnbù",
+    "m": "tiến bộ công nghệ",
+    "cat": "economics"
+  },
+  {
+    "w": "全要素生产率",
+    "p": "quán yàosù shēngchǎnlǜ",
+    "m": "năng suất nhân tố tổng hợp (TFP)",
+    "cat": "economics"
+  },
+  {
+    "w": "创新租金",
+    "p": "chuàngxīn zūjīn",
+    "m": "tô sáng tạo (innovation rent)",
+    "cat": "economics"
+  },
+  {
+    "w": "熊彼特增长",
+    "p": "xióng bǐtè zēngzhǎng",
+    "m": "tăng trưởng Schumpeter",
+    "cat": "economics"
+  },
+  {
+    "w": "创造性破坏",
+    "p": "chuàngzàoxìng pòhuài",
+    "m": "phá hủy sáng tạo (creative destruction)",
+    "cat": "economics"
+  },
+  {
+    "w": "企业家精神",
+    "p": "qǐyè jiā jīngshén",
+    "m": "tinh thần doanh nhân",
+    "cat": "economics"
+  },
+  {
+    "w": "技术扩散",
+    "p": "jìshù kuòsàn",
+    "m": "lan truyền công nghệ",
+    "cat": "economics"
+  },
+  {
+    "w": "技术差距",
+    "p": "jìshù chājù",
+    "m": "khoảng cách công nghệ",
+    "cat": "economics"
+  },
+  {
+    "w": "吸收能力",
+    "p": "xīshōu nénglì",
+    "m": "khả năng hấp thụ (absorptive capacity)",
+    "cat": "economics"
+  },
+  {
+    "w": "国家创新体系",
+    "p": "guójiā chuàngxīn tǐxì",
+    "m": "hệ thống đổi mới quốc gia",
+    "cat": "economics"
+  },
+  {
+    "w": "产学研合作",
+    "p": "chǎn xué yán hézuò",
+    "m": "hợp tác công nghiệp-học thuật-nghiên cứu",
+    "cat": "economics"
+  },
+  {
+    "w": "溢出效应",
+    "p": "yìchū xiàoyìng",
+    "m": "hiệu ứng lan tỏa (spillover effect)",
+    "cat": "economics"
+  },
+  {
+    "w": "集聚效应",
+    "p": "jíjù xiàoyìng",
+    "m": "hiệu ứng tập trung (agglomeration effect)",
+    "cat": "economics"
+  },
+  {
+    "w": "本地化优势",
+    "p": "běndìhuà yōushì",
+    "m": "lợi thế địa phương hóa",
+    "cat": "economics"
+  },
+  {
+    "w": "城乡二元结构",
+    "p": "chéngnóng èryuán jiégòu",
+    "m": "cấu trúc nhị nguyên thành thị-nông thôn",
+    "cat": "economics"
+  },
+  {
+    "w": "刘易斯拐点",
+    "p": "liú yì sī guǎidiǎn",
+    "m": "điểm uốn Lewis (lao động dư thừa)",
+    "cat": "economics"
+  },
+  {
+    "w": "人口红利",
+    "p": "rénkǒu hónglì",
+    "m": "lợi tức dân số (demographic dividend)",
+    "cat": "economics"
+  },
+  {
+    "w": "老龄化经济",
+    "p": "lǎolínghuà jīngjì",
+    "m": "kinh tế già hóa",
+    "cat": "economics"
+  },
+  {
+    "w": "生育率下降",
+    "p": "shēngyùlǜ xiàjiàng",
+    "m": "tỷ lệ sinh giảm",
+    "cat": "economics"
+  },
+  {
+    "w": "人口转型",
+    "p": "rénkǒu zhuǎnxíng",
+    "m": "chuyển đổi nhân khẩu học",
+    "cat": "economics"
+  },
+  {
+    "w": "劳动力市场",
+    "p": "láodònglì shìchǎng",
+    "m": "thị trường lao động",
+    "cat": "economics"
+  },
+  {
+    "w": "工资设定",
+    "p": "gōngzī shèdìng",
+    "m": "xác định mức lương",
+    "cat": "economics"
+  },
+  {
+    "w": "摩擦性失业",
+    "p": "mócāxìng shīyè",
+    "m": "thất nghiệp ma sát",
+    "cat": "economics"
+  },
+  {
+    "w": "结构性失业",
+    "p": "jiégòuxìng shīyè",
+    "m": "thất nghiệp cơ cấu",
+    "cat": "economics"
+  },
+  {
+    "w": "周期性失业",
+    "p": "zhōuqīxìng shīyè",
+    "m": "thất nghiệp chu kỳ",
+    "cat": "economics"
+  },
+  {
+    "w": "自然失业率",
+    "p": "zìrán shīyèlǜ",
+    "m": "tỷ lệ thất nghiệp tự nhiên",
+    "cat": "economics"
+  },
+  {
+    "w": "非加速通胀失业率",
+    "p": "fēi jiāsù tōngzhàng shīyèlǜ",
+    "m": "NAIRU — tỷ lệ thất nghiệp không đẩy nhanh lạm phát",
+    "cat": "economics"
+  },
+  {
+    "w": "菲利普斯曲线",
+    "p": "fēi lì pǔ sī qūxiàn",
+    "m": "đường cong Phillips",
+    "cat": "economics"
+  },
+  {
+    "w": "货币数量论",
+    "p": "huòbì shùliàng lùn",
+    "m": "lý thuyết số lượng tiền tệ",
+    "cat": "economics"
+  },
+  {
+    "w": "货币中性",
+    "p": "huòbì zhōngxìng",
+    "m": "trung tính tiền tệ",
+    "cat": "economics"
+  },
+  {
+    "w": "货币幻觉",
+    "p": "huòbì huànjué",
+    "m": "ảo giác tiền tệ",
+    "cat": "economics"
+  },
+  {
+    "w": "价格粘性",
+    "p": "jiàgé niánxìng",
+    "m": "độ dính của giá cả (price stickiness)",
+    "cat": "economics"
+  },
+  {
+    "w": "工资粘性",
+    "p": "gōngzī niánxìng",
+    "m": "độ dính của lương",
+    "cat": "economics"
+  },
+  {
+    "w": "流动性陷阱",
+    "p": "liúdòngxìng xiànjǐng",
+    "m": "bẫy thanh khoản (liquidity trap)",
+    "cat": "economics"
+  },
+  {
+    "w": "量化宽松",
+    "p": "liànghuà kuānsōng",
+    "m": "nới lỏng định lượng (QE)",
+    "cat": "economics"
+  },
+  {
+    "w": "收益率曲线控制",
+    "p": "shōuyìlǜ qūxiàn kòngzhì",
+    "m": "kiểm soát đường cong lợi suất (YCC)",
+    "cat": "economics"
+  },
+  {
+    "w": "负利率政策",
+    "p": "fù lìlǜ zhèngcè",
+    "m": "chính sách lãi suất âm (NIRP)",
+    "cat": "economics"
+  },
+  {
+    "w": "前瞻指引",
+    "p": "qiánzhān zhǐyǐn",
+    "m": "định hướng tiếp theo (forward guidance)",
+    "cat": "economics"
+  },
+  {
+    "w": "货币政策框架",
+    "p": "huòbì zhèngcè kuàngjià",
+    "m": "khung chính sách tiền tệ",
+    "cat": "economics"
+  },
+  {
+    "w": "通胀目标制",
+    "p": "tōngzhàng mùbiāo zhì",
+    "m": "chế độ mục tiêu lạm phát",
+    "cat": "economics"
+  },
+  {
+    "w": "财政货币协调",
+    "p": "cáizhèng huòbì xiétiáo",
+    "m": "phối hợp tài khóa-tiền tệ",
+    "cat": "economics"
+  },
+  {
+    "w": "现代货币理论",
+    "p": "xiàndài huòbì lǐlùn",
+    "m": "lý thuyết tiền tệ hiện đại (MMT)",
+    "cat": "economics"
+  },
+  {
+    "w": "双赤字",
+    "p": "shuāng chìzì",
+    "m": "thâm hụt kép (ngân sách và thương mại)",
+    "cat": "economics"
+  },
+  {
+    "w": "里卡多等价定理",
+    "p": "lǐ kǎduō děngjià dìnglǐ",
+    "m": "định lý tương đương Ricardo",
+    "cat": "economics"
+  },
+  {
+    "w": "财政乘数",
+    "p": "cáizhèng chéngshù",
+    "m": "nhân số tài khóa (fiscal multiplier)",
+    "cat": "economics"
+  },
+  {
+    "w": "挤出效应",
+    "p": "jǐchū xiàoyìng",
+    "m": "hiệu ứng lấn át (crowding-out)",
+    "cat": "economics"
+  },
+  {
+    "w": "自动稳定器",
+    "p": "zìdòng wěndìngqì",
+    "m": "ổn định tự động (automatic stabilizer)",
+    "cat": "economics"
+  },
+  {
+    "w": "债务可持续性",
+    "p": "zhàiwù kě chíxùxìng",
+    "m": "tính bền vững của nợ",
+    "cat": "economics"
+  },
+  {
+    "w": "债务-GDP比",
+    "p": "zhàiwù GDP bǐ",
+    "m": "tỷ lệ nợ/GDP",
+    "cat": "economics"
+  },
+  {
+    "w": "主权债务危机",
+    "p": "zhǔquán zhàiwù wēijī",
+    "m": "khủng hoảng nợ công",
+    "cat": "economics"
+  },
+  {
+    "w": "债务减免",
+    "p": "zhàiwù jiǎnmiǎn",
+    "m": "xóa nợ",
+    "cat": "economics"
+  },
+  {
+    "w": "国际货币体系",
+    "p": "guójì huòbì tǐxì",
+    "m": "hệ thống tiền tệ quốc tế",
+    "cat": "economics"
+  },
+  {
+    "w": "布雷顿森林体系",
+    "p": "bùléidùn sēnlín tǐxì",
+    "m": "hệ thống Bretton Woods",
+    "cat": "economics"
+  },
+  {
+    "w": "牙买加体系",
+    "p": "yámǎijiā tǐxì",
+    "m": "hệ thống Jamaica (tỷ giá thả nổi)",
+    "cat": "economics"
+  },
+  {
+    "w": "三元悖论",
+    "p": "sānyuán bèilùn",
+    "m": "tam bất năng bất khả (impossible trinity)",
+    "cat": "economics"
+  },
+  {
+    "w": "汇率制度",
+    "p": "huìlǜ zhìdù",
+    "m": "chế độ tỷ giá",
+    "cat": "economics"
+  },
+  {
+    "w": "汇率政策",
+    "p": "huìlǜ zhèngcè",
+    "m": "chính sách tỷ giá",
+    "cat": "economics"
+  },
+  {
+    "w": "货币战争",
+    "p": "huòbì zhànzhēng",
+    "m": "chiến tranh tiền tệ",
+    "cat": "economics"
+  },
+  {
+    "w": "竞争性贬值",
+    "p": "jìngzhēngxìng biǎnzhí",
+    "m": "phá giá cạnh tranh",
+    "cat": "economics"
+  },
+  {
+    "w": "资本管制",
+    "p": "zīběn guǎnzhì",
+    "m": "kiểm soát vốn",
+    "cat": "economics"
+  },
+  {
+    "w": "资本账户开放",
+    "p": "zīběn zhànghù kāifàng",
+    "m": "mở cửa tài khoản vốn",
+    "cat": "economics"
+  },
+  {
+    "w": "最优货币区",
+    "p": "zuìyōu huòbì qū",
+    "m": "khu vực tiền tệ tối ưu (OCA)",
+    "cat": "economics"
+  },
+  {
+    "w": "金融周期",
+    "p": "jīnróng zhōuqī",
+    "m": "chu kỳ tài chính",
+    "cat": "economics"
+  },
+  {
+    "w": "杠杆率",
+    "p": "gǎnggǎnlǜ",
+    "m": "tỷ lệ đòn bẩy",
+    "cat": "economics"
+  },
+  {
+    "w": "去杠杆",
+    "p": "qù gǎnggǎn",
+    "m": "hạ đòn bẩy (deleveraging)",
+    "cat": "economics"
+  },
+  {
+    "w": "金融压抑",
+    "p": "jīnróng yāyì",
+    "m": "kìm hãm tài chính (financial repression)",
+    "cat": "economics"
+  },
+  {
+    "w": "金融深化",
+    "p": "jīnróng shēnhuà",
+    "m": "tài chính hóa sâu (financial deepening)",
+    "cat": "economics"
+  },
+  {
+    "w": "金融包容",
+    "p": "jīnróng bāoróng",
+    "m": "tài chính toàn diện (financial inclusion)",
+    "cat": "economics"
+  },
+  {
+    "w": "系统性风险",
+    "p": "xìtǒngxìng fēngxiǎn",
+    "m": "rủi ro hệ thống (systemic risk)",
+    "cat": "economics"
+  },
+  {
+    "w": "宏观审慎监管",
+    "p": "hóngguān shěnshèn jiāngǔan",
+    "m": "giám sát vĩ mô thận trọng",
+    "cat": "economics"
+  },
+  {
+    "w": "逆周期资本缓冲",
+    "p": "nì zhōuqī zīběn huǎnchōng",
+    "m": "đệm vốn chu kỳ ngược",
+    "cat": "economics"
+  },
+  {
+    "w": "太大而不能倒",
+    "p": "tài dà ér bù néng dǎo",
+    "m": "quá lớn để sụp đổ (too big to fail)",
+    "cat": "economics"
+  },
+  {
+    "w": "金融危机传染",
+    "p": "jīnróng wēijī chuánrǎn",
+    "m": "lây lan khủng hoảng tài chính (contagion)",
+    "cat": "economics"
+  },
+  {
+    "w": "蝴蝶效应",
+    "p": "húdié xiàoyìng",
+    "m": "hiệu ứng cánh bướm",
+    "cat": "economics"
+  },
+  {
+    "w": "经济政策不确定性",
+    "p": "jīngjì zhèngcè bú quèdìngxìng",
+    "m": "bất định chính sách kinh tế",
+    "cat": "economics"
+  },
+  {
+    "w": "黑天鹅事件",
+    "p": "hēi tiān'é shìjiàn",
+    "m": "sự kiện thiên nga đen",
+    "cat": "economics"
+  },
+  {
+    "w": "长尾风险",
+    "p": "cháng wěi fēngxiǎn",
+    "m": "rủi ro đuôi dài (tail risk)",
+    "cat": "economics"
+  },
+  {
+    "w": "预期管理",
+    "p": "yùqī guǎnlǐ",
+    "m": "quản lý kỳ vọng",
+    "cat": "economics"
+  },
+  {
+    "w": "理性预期",
+    "p": "lǐxìng yùqī",
+    "m": "kỳ vọng lý trí (rational expectations)",
+    "cat": "economics"
+  },
+  {
+    "w": "适应性预期",
+    "p": "shìyìngxìng yùqī",
+    "m": "kỳ vọng thích ứng",
+    "cat": "economics"
+  },
+  {
+    "w": "政策一致性",
+    "p": "zhèngcè yīzhìxìng",
+    "m": "nhất quán chính sách",
+    "cat": "economics"
+  },
+  {
+    "w": "时间一致性",
+    "p": "shíjiān yīzhìxìng",
+    "m": "nhất quán theo thời gian (time consistency)",
+    "cat": "economics"
+  },
+  {
+    "w": "动态不一致性",
+    "p": "dòngtài bù yīzhìxìng",
+    "m": "bất nhất quán động (dynamic inconsistency)",
+    "cat": "economics"
+  },
+  {
+    "w": "货币承诺",
+    "p": "huòbì chéngnuò",
+    "m": "cam kết tiền tệ (monetary commitment)",
+    "cat": "economics"
+  },
+  {
+    "w": "央行独立性",
+    "p": "yāngháng dúlìxìng",
+    "m": "độc lập ngân hàng trung ương",
+    "cat": "economics"
+  },
+  {
+    "w": "通胀预期锚定",
+    "p": "tōngzhàng yùqī māodìng",
+    "m": "neo kỳ vọng lạm phát",
+    "cat": "economics"
+  },
+  {
+    "w": "社会结构理论",
+    "p": "shèhuì jiégòu lǐlùn",
+    "m": "lý thuyết cấu trúc xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会分层模型",
+    "p": "shèhuì fēncéng móxíng",
+    "m": "mô hình phân tầng xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "阶级分析",
+    "p": "jiējí fēnxī",
+    "m": "phân tích giai cấp",
+    "cat": "social_science"
+  },
+  {
+    "w": "精英理论",
+    "p": "jīngyīng lǐlùn",
+    "m": "lý thuyết tinh hoa (elite theory)",
+    "cat": "social_science"
+  },
+  {
+    "w": "多元主义",
+    "p": "duōyuán zhǔyì",
+    "m": "chủ nghĩa đa nguyên",
+    "cat": "social_science"
+  },
+  {
+    "w": "国家自主性",
+    "p": "guójiā zìzhǔxìng",
+    "m": "tự chủ nhà nước",
+    "cat": "social_science"
+  },
+  {
+    "w": "制度主义",
+    "p": "zhìdù zhǔyì",
+    "m": "chủ nghĩa thể chế (institutionalism)",
+    "cat": "social_science"
+  },
+  {
+    "w": "历史社会学",
+    "p": "lìshǐ shèhuìxué",
+    "m": "xã hội học lịch sử",
+    "cat": "social_science"
+  },
+  {
+    "w": "比较政治",
+    "p": "bǐjiào zhèngzhì",
+    "m": "chính trị học so sánh",
+    "cat": "social_science"
+  },
+  {
+    "w": "政治经济学",
+    "p": "zhèngzhì jīngjìxué",
+    "m": "kinh tế chính trị học",
+    "cat": "social_science"
+  },
+  {
+    "w": "国际政治经济学",
+    "p": "guójì zhèngzhì jīngjìxué",
+    "m": "kinh tế chính trị quốc tế",
+    "cat": "social_science"
+  },
+  {
+    "w": "依附理论",
+    "p": "yīfù lǐlùn",
+    "m": "lý thuyết lệ thuộc (dependency theory)",
+    "cat": "social_science"
+  },
+  {
+    "w": "世界体系理论",
+    "p": "shìjiè tǐxì lǐlùn",
+    "m": "lý thuyết hệ thống thế giới (Wallerstein)",
+    "cat": "social_science"
+  },
+  {
+    "w": "中心-外围",
+    "p": "zhōngxīn wàiwéi",
+    "m": "trung tâm-ngoại vi",
+    "cat": "social_science"
+  },
+  {
+    "w": "南北关系",
+    "p": "nán běi guānxi",
+    "m": "quan hệ Nam-Bắc (phát triển và đang phát triển)",
+    "cat": "social_science"
+  },
+  {
+    "w": "后殖民理论",
+    "p": "hòu zhímín lǐlùn",
+    "m": "lý thuyết hậu thực dân",
+    "cat": "social_science"
+  },
+  {
+    "w": "东方主义",
+    "p": "dōngfāng zhǔyì",
+    "m": "chủ nghĩa Đông phương (Orientalism — Said)",
+    "cat": "social_science"
+  },
+  {
+    "w": "文化帝国主义",
+    "p": "wénhuà dìguó zhǔyì",
+    "m": "chủ nghĩa đế quốc văn hóa",
+    "cat": "social_science"
+  },
+  {
+    "w": "文化霸权",
+    "p": "wénhuà bàquán",
+    "m": "bá quyền văn hóa (cultural hegemony — Gramsci)",
+    "cat": "social_science"
+  },
+  {
+    "w": "话语权",
+    "p": "huàyǔquán",
+    "m": "quyền ngôn luận / quyền thiết lập diễn ngôn",
+    "cat": "social_science"
+  },
+  {
+    "w": "知识权力",
+    "p": "zhīshì quánlì",
+    "m": "tri thức-quyền lực (Foucault)",
+    "cat": "social_science"
+  },
+  {
+    "w": "福柯话语",
+    "p": "fú kē huàyǔ",
+    "m": "diễn ngôn Foucault",
+    "cat": "social_science"
+  },
+  {
+    "w": "规训社会",
+    "p": "guīxùn shèhuì",
+    "m": "xã hội kỷ luật (disciplinary society)",
+    "cat": "social_science"
+  },
+  {
+    "w": "监视社会",
+    "p": "jiānshì shèhuì",
+    "m": "xã hội giám sát",
+    "cat": "social_science"
+  },
+  {
+    "w": "生命政治",
+    "p": "shēngmìng zhèngzhì",
+    "m": "chính trị sinh học (biopolitics — Foucault)",
+    "cat": "social_science"
+  },
+  {
+    "w": "规范化",
+    "p": "guīfànhuà",
+    "m": "bình thường hóa (normalization)",
+    "cat": "social_science"
+  },
+  {
+    "w": "他者化",
+    "p": "tāzhě huà",
+    "m": "tha hóa (othering)",
+    "cat": "social_science"
+  },
+  {
+    "w": "主体性",
+    "p": "zhǔtǐxìng",
+    "m": "tính chủ thể (subjectivity)",
+    "cat": "social_science"
+  },
+  {
+    "w": "身份认同",
+    "p": "shēnfèn rèntóng",
+    "m": "nhận đồng bản sắc (identity)",
+    "cat": "social_science"
+  },
+  {
+    "w": "交叉性",
+    "p": "jiāochāxìng",
+    "m": "tính giao nhau (intersectionality)",
+    "cat": "social_science"
+  },
+  {
+    "w": "结构性暴力",
+    "p": "jiégòuxìng bàolì",
+    "m": "bạo lực cấu trúc",
+    "cat": "social_science"
+  },
+  {
+    "w": "象征暴力",
+    "p": "xiàngzhēng bàolì",
+    "m": "bạo lực biểu tượng (Bourdieu)",
+    "cat": "social_science"
+  },
+  {
+    "w": "场域",
+    "p": "chǎngyù",
+    "m": "trường (field — Bourdieu)",
+    "cat": "social_science"
+  },
+  {
+    "w": "资本形式",
+    "p": "zīběn xíngshì",
+    "m": "các dạng vốn (kinh tế/văn hóa/xã hội — Bourdieu)",
+    "cat": "social_science"
+  },
+  {
+    "w": "惯习",
+    "p": "guànxí",
+    "m": "tập tục thói quen (habitus — Bourdieu)",
+    "cat": "social_science"
+  },
+  {
+    "w": "区隔",
+    "p": "qūgé",
+    "m": "phân biệt (distinction — Bourdieu)",
+    "cat": "social_science"
+  },
+  {
+    "w": "再生产",
+    "p": "zàishēngchǎn",
+    "m": "tái sản xuất xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "符号资本",
+    "p": "fúhào zīběn",
+    "m": "vốn biểu tượng",
+    "cat": "social_science"
+  },
+  {
+    "w": "文化资本",
+    "p": "wénhuà zīběn",
+    "m": "vốn văn hóa",
+    "cat": "social_science"
+  },
+  {
+    "w": "官僚制",
+    "p": "guānliáo zhì",
+    "m": "chế độ quan liêu (bureaucracy — Weber)",
+    "cat": "social_science"
+  },
+  {
+    "w": "理想类型",
+    "p": "lǐxiǎng lèixíng",
+    "m": "kiểu lý tưởng (ideal type — Weber)",
+    "cat": "social_science"
+  },
+  {
+    "w": "工具理性",
+    "p": "gōngjù lǐxìng",
+    "m": "lý trí công cụ (instrumental rationality)",
+    "cat": "social_science"
+  },
+  {
+    "w": "价值理性",
+    "p": "jiàzhí lǐxìng",
+    "m": "lý trí giá trị (value rationality)",
+    "cat": "social_science"
+  },
+  {
+    "w": "除魅",
+    "p": "chú mèi",
+    "m": "phi huyền ảo hóa (disenchantment — Weber)",
+    "cat": "social_science"
+  },
+  {
+    "w": "韦伯三元分层",
+    "p": "wéibó sānyuán fēncéng",
+    "m": "tam phân tầng xã hội Weber (giai cấp/địa vị/đảng)",
+    "cat": "social_science"
+  },
+  {
+    "w": "马克思主义社会学",
+    "p": "mǎkèsīzhǔyì shèhuìxué",
+    "m": "xã hội học Mác-xít",
+    "cat": "social_science"
+  },
+  {
+    "w": "异化劳动",
+    "p": "yìhuà láodòng",
+    "m": "lao động tha hóa (alienated labor)",
+    "cat": "social_science"
+  },
+  {
+    "w": "剩余价值",
+    "p": "shèngyú jiàzhí",
+    "m": "giá trị thặng dư (surplus value)",
+    "cat": "social_science"
+  },
+  {
+    "w": "资本积累矛盾",
+    "p": "zīběn jīlěi máodùn",
+    "m": "mâu thuẫn tích lũy tư bản",
+    "cat": "social_science"
+  },
+  {
+    "w": "阶级意识",
+    "p": "jiējí yìshí",
+    "m": "ý thức giai cấp",
+    "cat": "social_science"
+  },
+  {
+    "w": "虚假意识",
+    "p": "xūjiǎ yìshí",
+    "m": "ý thức giả (false consciousness)",
+    "cat": "social_science"
+  },
+  {
+    "w": "意识形态国家机器",
+    "p": "yìshí xíngtài guójiā jīqì",
+    "m": "bộ máy nhà nước ý thức hệ (Althusser)",
+    "cat": "social_science"
+  },
+  {
+    "w": "镇压性国家机器",
+    "p": "zhènyā xìng guójiā jīqì",
+    "m": "bộ máy nhà nước đàn áp",
+    "cat": "social_science"
+  },
+  {
+    "w": "上层建筑",
+    "p": "shànglèng jiànzhù",
+    "m": "kiến trúc thượng tầng",
+    "cat": "social_science"
+  },
+  {
+    "w": "经济基础",
+    "p": "jīngjì jīchǔ",
+    "m": "cơ sở kinh tế (base/infrastructure)",
+    "cat": "social_science"
+  },
+  {
+    "w": "历史唯物主义",
+    "p": "lìshǐ wéiwù zhǔyì",
+    "m": "chủ nghĩa duy vật lịch sử",
+    "cat": "social_science"
+  },
+  {
+    "w": "辩证唯物主义",
+    "p": "biànzhèng wéiwù zhǔyì",
+    "m": "chủ nghĩa duy vật biện chứng",
+    "cat": "social_science"
+  },
+  {
+    "w": "结构功能主义",
+    "p": "jiégòu gōngnéng zhǔyì",
+    "m": "chủ nghĩa chức năng cấu trúc (Parsons)",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会系统论",
+    "p": "shèhuì xìtǒng lùn",
+    "m": "lý thuyết hệ thống xã hội (Luhmann)",
+    "cat": "social_science"
+  },
+  {
+    "w": "交往行动理论",
+    "p": "jiāowǎng xíngdòng lǐlùn",
+    "m": "lý thuyết hành động giao tiếp (Habermas)",
+    "cat": "social_science"
+  },
+  {
+    "w": "生活世界",
+    "p": "shēnghuó shìjiè",
+    "m": "thế giới sống (lifeworld — Habermas)",
+    "cat": "social_science"
+  },
+  {
+    "w": "系统殖民化",
+    "p": "xìtǒng zhímínhuà",
+    "m": "thuộc địa hóa hệ thống (colonization of lifeworld)",
+    "cat": "social_science"
+  },
+  {
+    "w": "公共领域",
+    "p": "gōnggòng lǐngyù",
+    "m": "lĩnh vực công (public sphere)",
+    "cat": "social_science"
+  },
+  {
+    "w": "市民社会",
+    "p": "shìmín shèhuì",
+    "m": "xã hội công dân",
+    "cat": "social_science"
+  },
+  {
+    "w": "协商理性",
+    "p": "xiéshāng lǐxìng",
+    "m": "lý trí hiệp thương",
+    "cat": "social_science"
+  },
+  {
+    "w": "反事实推理",
+    "p": "fǎn shìshí tuīlǐ",
+    "m": "suy luận phản thực tế",
+    "cat": "social_science"
+  },
+  {
+    "w": "比较历史分析",
+    "p": "bǐjiào lìshǐ fēnxī",
+    "m": "phân tích lịch sử so sánh",
+    "cat": "social_science"
+  },
+  {
+    "w": "关键节点",
+    "p": "guānjian jiédiǎn",
+    "m": "điểm nút quan trọng (critical juncture)",
+    "cat": "social_science"
+  },
+  {
+    "w": "制度韧性",
+    "p": "zhìdù rènxìng",
+    "m": "tính đàn hồi thể chế",
+    "cat": "social_science"
+  },
+  {
+    "w": "分层理论",
+    "p": "fēncéng lǐlùn",
+    "m": "lý thuyết phân tầng",
+    "cat": "social_science"
+  },
+  {
+    "w": "流动性",
+    "p": "liúdòngxìng",
+    "m": "tính lưu động xã hội (social mobility)",
+    "cat": "social_science"
+  },
+  {
+    "w": "代际流动",
+    "p": "dàijì liúdòng",
+    "m": "lưu động xã hội liên thế hệ",
+    "cat": "social_science"
+  },
+  {
+    "w": "机会平等",
+    "p": "jīhuì píngděng",
+    "m": "bình đẳng cơ hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "结果平等",
+    "p": "jiéguǒ píngděng",
+    "m": "bình đẳng kết quả",
+    "cat": "social_science"
+  },
+  {
+    "w": "不平等指数",
+    "p": "bùpíngděng zhǐshù",
+    "m": "chỉ số bất bình đẳng",
+    "cat": "social_science"
+  },
+  {
+    "w": "基尼系数",
+    "p": "jīní xìshù",
+    "m": "hệ số Gini",
+    "cat": "social_science"
+  },
+  {
+    "w": "收入分配",
+    "p": "shōurù fēnpèi",
+    "m": "phân phối thu nhập",
+    "cat": "social_science"
+  },
+  {
+    "w": "财富集中",
+    "p": "cáifù jízhōng",
+    "m": "tập trung của cải",
+    "cat": "social_science"
+  },
+  {
+    "w": "马太效应",
+    "p": "mǎtài xiàoyìng",
+    "m": "hiệu ứng Matthew (giàu thêm giàu)",
+    "cat": "social_science"
+  },
+  {
+    "w": "累积因果",
+    "p": "lěijī yīnguǒ",
+    "m": "nhân quả tích lũy (cumulative causation)",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会流动障碍",
+    "p": "shèhuì liúdòng zhàngài",
+    "m": "rào cản lưu động xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "阶层固化",
+    "p": "jiēcéng gùhuà",
+    "m": "cứng hóa tầng lớp xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会排斥",
+    "p": "shèhuì páichì",
+    "m": "loại trừ xã hội (social exclusion)",
+    "cat": "social_science"
+  },
+  {
+    "w": "贫困文化",
+    "p": "pínqióng wénhuà",
+    "m": "văn hóa nghèo đói",
+    "cat": "social_science"
+  },
+  {
+    "w": "相对贫困",
+    "p": "xiāngduì pínqióng",
+    "m": "nghèo tương đối",
+    "cat": "social_science"
+  },
+  {
+    "w": "绝对贫困",
+    "p": "juéduì pínqióng",
+    "m": "nghèo tuyệt đối",
+    "cat": "social_science"
+  },
+  {
+    "w": "能力剥夺",
+    "p": "nénglì bōduó",
+    "m": "tước đoạt năng lực (capability deprivation — Sen)",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会脆弱性",
+    "p": "shèhuì cuìruòxìng",
+    "m": "tính dễ tổn thương xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "风险社会",
+    "p": "fēngxiǎn shèhuì",
+    "m": "xã hội rủi ro (risk society — Beck)",
+    "cat": "social_science"
+  },
+  {
+    "w": "反思性现代化",
+    "p": "fǎnsīxìng xiàndàihuà",
+    "m": "hiện đại hóa phản chiếu (reflexive modernization)",
+    "cat": "social_science"
+  },
+  {
+    "w": "后现代主义",
+    "p": "hòu xiàndài zhǔyì",
+    "m": "chủ nghĩa hậu hiện đại",
+    "cat": "social_science"
+  },
+  {
+    "w": "液态现代性",
+    "p": "yètài xiàndàixìng",
+    "m": "tính hiện đại lỏng (liquid modernity — Bauman)",
+    "cat": "social_science"
+  },
+  {
+    "w": "全球化悖论",
+    "p": "quánqiúhuà bèilùn",
+    "m": "nghịch lý toàn cầu hóa",
+    "cat": "social_science"
+  },
+  {
+    "w": "本土化",
+    "p": "běntǔhuà",
+    "m": "bản địa hóa (localization)",
+    "cat": "social_science"
+  },
+  {
+    "w": "全球本土化",
+    "p": "quánqiú běntǔhuà",
+    "m": "toàn cầu hóa bản địa (glocalization)",
+    "cat": "social_science"
+  },
+  {
+    "w": "文明冲突",
+    "p": "wénmíng chōngtū",
+    "m": "xung đột văn minh (Huntington)",
+    "cat": "social_science"
+  },
+  {
+    "w": "历史终结",
+    "p": "lìshǐ zhōngjié",
+    "m": "sự kết thúc lịch sử (Fukuyama)",
+    "cat": "social_science"
+  },
+  {
+    "w": "多极化",
+    "p": "duōjíhuà",
+    "m": "đa cực hóa",
+    "cat": "social_science"
+  },
+  {
+    "w": "民族国家",
+    "p": "mínzú guójiā",
+    "m": "nhà nước-dân tộc (nation-state)",
+    "cat": "social_science"
+  },
+  {
+    "w": "民族主义",
+    "p": "mínzú zhǔyì",
+    "m": "chủ nghĩa dân tộc",
+    "cat": "social_science"
+  },
+  {
+    "w": "公民民族主义",
+    "p": "gōngmín mínzú zhǔyì",
+    "m": "chủ nghĩa dân tộc công dân",
+    "cat": "social_science"
+  },
+  {
+    "w": "族裔民族主义",
+    "p": "zúyì mínzú zhǔyì",
+    "m": "chủ nghĩa dân tộc sắc tộc",
+    "cat": "social_science"
+  },
+  {
+    "w": "族裔共同体",
+    "p": "zúyì gòngdòngtǐ",
+    "m": "cộng đồng sắc tộc",
+    "cat": "social_science"
+  },
+  {
+    "w": "想象的共同体",
+    "p": "xiǎngxiàng de gòngdòngtǐ",
+    "m": "cộng đồng tưởng tượng (Anderson)",
+    "cat": "social_science"
+  },
+  {
+    "w": "民族叙事",
+    "p": "mínzú xùshì",
+    "m": "tự sự dân tộc",
+    "cat": "social_science"
+  },
+  {
+    "w": "集体记忆",
+    "p": "jítǐ jìyì",
+    "m": "ký ức tập thể",
+    "cat": "social_science"
+  },
+  {
+    "w": "历史记忆",
+    "p": "lìshǐ jìyì",
+    "m": "ký ức lịch sử",
+    "cat": "social_science"
+  },
+  {
+    "w": "纪念政治",
+    "p": "jìniàn zhèngzhì",
+    "m": "chính trị kỷ niệm (politics of memory)",
+    "cat": "social_science"
+  },
+  {
+    "w": "过去清算",
+    "p": "guòqù qīngsuàn",
+    "m": "xử lý quá khứ (transitional justice)",
+    "cat": "social_science"
+  },
+  {
+    "w": "真相与和解",
+    "p": "zhēnxiàng yǔ héjiě",
+    "m": "sự thật và hòa giải (TRC)",
+    "cat": "social_science"
+  },
+  {
+    "w": "转型正义",
+    "p": "zhuǎnxíng zhèngyì",
+    "m": "công lý chuyển đổi (transitional justice)",
+    "cat": "social_science"
+  },
+  {
+    "w": "记忆政治",
+    "p": "jìyì zhèngzhì",
+    "m": "chính trị ký ức",
+    "cat": "social_science"
+  },
+  {
+    "w": "重构叙事",
+    "p": "chónggòu xùshì",
+    "m": "tái cấu trúc tự sự",
+    "cat": "social_science"
+  },
+  {
+    "w": "真相委员会",
+    "p": "zhēnxiàng wěiyuánhuì",
+    "m": "ủy ban sự thật",
+    "cat": "social_science"
+  },
+  {
+    "w": "去纳粹化",
+    "p": "qù nà cuì huà",
+    "m": "phi phát xít hóa (denazification)",
+    "cat": "social_science"
+  },
+  {
+    "w": "历史和解",
+    "p": "lìshǐ héjiě",
+    "m": "hòa giải lịch sử",
+    "cat": "social_science"
+  },
+  {
+    "w": "后创伤应激",
+    "p": "hòu chuāngshāng yìngjī",
+    "m": "stress sau chấn thương (PTSD — phạm vi xã hội)",
+    "cat": "social_science"
+  },
+  {
+    "w": "文化创伤",
+    "p": "wénhuà chuāngshāng",
+    "m": "chấn thương văn hóa",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会韧性",
+    "p": "shèhuì rènxìng",
+    "m": "tính đàn hồi xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会凝聚",
+    "p": "shèhuì níngjiù",
+    "m": "gắn kết xã hội",
+    "cat": "social_science"
+  },
+  {
+    "w": "信任危机",
+    "p": "xìnrèn wēijī",
+    "m": "khủng hoảng lòng tin",
+    "cat": "social_science"
+  },
+  {
+    "w": "机构信任",
+    "p": "jīgòu xìnrèn",
+    "m": "sự tin tưởng vào thể chế",
+    "cat": "social_science"
+  },
+  {
+    "w": "社会契约",
+    "p": "shèhuì qìyuē",
+    "m": "khế ước xã hội (social contract)",
+    "cat": "social_science"
+  },
+  {
+    "w": "国家合法性危机",
+    "p": "guójiā héfǎxìng wēijī",
+    "m": "khủng hoảng tính hợp pháp nhà nước",
+    "cat": "social_science"
+  },
+  {
+    "w": "治理危机",
+    "p": "zhìlǐ wēijī",
+    "m": "khủng hoảng quản trị",
+    "cat": "social_science"
+  },
+  {
+    "w": "政治极化",
+    "p": "zhèngzhì jíhuà",
+    "m": "phân cực chính trị",
+    "cat": "social_science"
+  },
+  {
+    "w": "党派认同",
+    "p": "dǎngpài rèntóng",
+    "m": "đồng nhất đảng phái",
+    "cat": "social_science"
+  },
+  {
+    "w": "情感极化",
+    "p": "qínggǎn jíhuà",
+    "m": "phân cực cảm xúc",
+    "cat": "social_science"
+  },
+  {
+    "w": "回音室效应",
+    "p": "huíyīnshì xiàoyìng",
+    "m": "hiệu ứng buồng vang (echo chamber)",
+    "cat": "social_science"
+  },
+  {
+    "w": "确认偏误",
+    "p": "quèrèn piānwù",
+    "m": "thiên kiến xác nhận (confirmation bias)",
+    "cat": "social_science"
+  },
+  {
+    "w": "虚假信息",
+    "p": "xūjiǎ xìnxī",
+    "m": "thông tin giả (disinformation)",
+    "cat": "social_science"
+  },
+  {
+    "w": "后真相",
+    "p": "hòu zhēnxiàng",
+    "m": "hậu sự thật (post-truth)",
+    "cat": "social_science"
+  },
+  {
+    "w": "信息生态",
+    "p": "xìnxī shēngtài",
+    "m": "hệ sinh thái thông tin",
+    "cat": "social_science"
+  },
+  {
+    "w": "媒体偏见",
+    "p": "méitǐ piānjiàn",
+    "m": "thiên kiến truyền thông",
+    "cat": "social_science"
+  },
+  {
+    "w": "政治传播",
+    "p": "zhèngzhì chuánbō",
+    "m": "truyền thông chính trị",
+    "cat": "social_science"
+  },
+  {
+    "w": "宣传分析",
+    "p": "xuānchuán fēnxī",
+    "m": "phân tích tuyên truyền",
+    "cat": "social_science"
+  },
+  {
+    "w": "框架效应",
+    "p": "kuàngjià xiàoyìng",
+    "m": "hiệu ứng đóng khung (framing effect)",
+    "cat": "social_science"
+  },
+  {
+    "w": "议题框架",
+    "p": "yìtí kuàngjià",
+    "m": "khung nghị trình",
+    "cat": "social_science"
+  },
+  {
+    "w": "政治营销",
+    "p": "zhèngzhì yíngxiāo",
+    "m": "tiếp thị chính trị",
+    "cat": "social_science"
+  },
+  {
+    "w": "竞选策略",
+    "p": "jìngxuǎn cèlüè",
+    "m": "chiến lược vận động bầu cử",
+    "cat": "social_science"
+  },
+  {
+    "w": "选举行为",
+    "p": "xuǎnjǔ xíngwéi",
+    "m": "hành vi bầu cử",
+    "cat": "social_science"
+  },
+  {
+    "w": "投票率",
+    "p": "tóupiàolǜ",
+    "m": "tỷ lệ đi bỏ phiếu",
+    "cat": "social_science"
+  },
+  {
+    "w": "分裂投票",
+    "p": "fēnliè tóupiào",
+    "m": "bỏ phiếu phân đôi (split-ticket voting)",
+    "cat": "social_science"
+  },
+  {
+    "w": "战略投票",
+    "p": "zhànlüè tóupiào",
+    "m": "bỏ phiếu chiến lược",
+    "cat": "social_science"
+  },
+  {
+    "w": "选举制度",
+    "p": "xuǎnjǔ zhìdù",
+    "m": "chế độ bầu cử",
+    "cat": "social_science"
+  },
+  {
+    "w": "比例代表制",
+    "p": "bǐlì dàibiǎo zhì",
+    "m": "chế độ đại diện tỷ lệ",
+    "cat": "social_science"
+  },
+  {
+    "w": "多数制",
+    "p": "duōshù zhì",
+    "m": "chế độ đa số",
+    "cat": "social_science"
+  },
+  {
+    "w": "混合选制",
+    "p": "hùnhé xuǎnzhì",
+    "m": "chế độ bầu cử hỗn hợp",
+    "cat": "social_science"
+  },
+  {
+    "w": "重新划选区",
+    "p": "chóngxīn huà xuǎnqū",
+    "m": "phân khu bầu cử lại (redistricting)",
+    "cat": "social_science"
+  },
+  {
+    "w": "选区操弄",
+    "p": "xuǎnqū cāonòng",
+    "m": "sắp xếp khu vực bầu cử có lợi (gerrymandering)",
+    "cat": "social_science"
+  },
+  {
+    "w": "政党体制",
+    "p": "zhèngdǎng tǐzhì",
+    "m": "hệ thống đảng phái",
+    "cat": "social_science"
+  },
+  {
+    "w": "两党制",
+    "p": "liǎng dǎng zhì",
+    "m": "chế độ hai đảng",
+    "cat": "social_science"
+  },
+  {
+    "w": "多党制",
+    "p": "duō dǎng zhì",
+    "m": "chế độ đa đảng",
+    "cat": "social_science"
+  },
+  {
+    "w": "政党碎片化",
+    "p": "zhèngdǎng suìpiànhuà",
+    "m": "phân mảnh đảng phái",
+    "cat": "social_science"
+  },
+  {
+    "w": "联合政府",
+    "p": "liánhé zhèngfǔ",
+    "m": "chính phủ liên minh",
+    "cat": "social_science"
+  },
+  {
+    "w": "少数政府",
+    "p": "shǎoshù zhèngfǔ",
+    "m": "chính phủ thiểu số",
+    "cat": "social_science"
+  },
+  {
+    "w": "议会制",
+    "p": "yìhuì zhì",
+    "m": "chế độ nghị viện",
+    "cat": "social_science"
+  },
+  {
+    "w": "总统制",
+    "p": "zǒngtǒng zhì",
+    "m": "chế độ tổng thống",
+    "cat": "social_science"
+  },
+  {
+    "w": "半总统制",
+    "p": "bàn zǒngtǒng zhì",
+    "m": "chế độ bán tổng thống (semi-presidential)",
+    "cat": "social_science"
+  },
+  {
+    "w": "联邦主义",
+    "p": "liánbāng zhǔyì",
+    "m": "chủ nghĩa liên bang",
+    "cat": "social_science"
+  },
+  {
+    "w": "地方分权",
+    "p": "dìfāng fēnquán",
+    "m": "phân quyền địa phương (decentralization)",
+    "cat": "social_science"
+  },
+  {
+    "w": "财政联邦制",
+    "p": "cáizhèng liánbāng zhì",
+    "m": "chủ nghĩa liên bang tài khóa",
+    "cat": "social_science"
+  },
+  {
+    "w": "地方治理",
+    "p": "dìfāng zhìlǐ",
+    "m": "quản trị địa phương",
+    "cat": "social_science"
+  },
+  {
+    "w": "城市政治",
+    "p": "chénshì zhèngzhì",
+    "m": "chính trị đô thị",
+    "cat": "social_science"
+  },
+  {
+    "w": "大都市区",
+    "p": "dà dūshì qū",
+    "m": "vùng đô thị lớn (metropolitan area)",
+    "cat": "social_science"
+  },
+  {
+    "w": "城市贫困",
+    "p": "chénshì pínqióng",
+    "m": "nghèo đô thị",
+    "cat": "social_science"
+  },
+  {
+    "w": "绅士化",
+    "p": "shēnshì huà",
+    "m": "quý tộc hóa đô thị (gentrification)",
+    "cat": "social_science"
+  },
+  {
+    "w": "隔离",
+    "p": "gélí",
+    "m": "phân tách cư trú (residential segregation)",
+    "cat": "social_science"
+  },
+  {
+    "w": "空间不平等",
+    "p": "kōngjiān bùpíngděng",
+    "m": "bất bình đẳng không gian",
+    "cat": "social_science"
+  },
+  {
+    "w": "右派右翼",
+    "p": "yòupài yòuyì",
+    "m": "cánh hữu",
+    "cat": "social_science"
+  },
+  {
+    "w": "左派左翼",
+    "p": "zuǒpài zuǒyì",
+    "m": "cánh tả",
+    "cat": "social_science"
+  },
+  {
+    "w": "政治光谱",
+    "p": "zhèngzhì guāngpǔ",
+    "m": "phổ chính trị",
+    "cat": "social_science"
+  },
+  {
+    "w": "中间道路",
+    "p": "zhōngjiān dàolù",
+    "m": "con đường trung dung",
+    "cat": "social_science"
+  },
+  {
+    "w": "第三条道路",
+    "p": "dì sān tiáo dàolù",
+    "m": "con đường thứ ba",
+    "cat": "social_science"
+  },
+  {
+    "w": "新自由主义",
+    "p": "xīn zìyóu zhǔyì",
+    "m": "chủ nghĩa tự do mới (neoliberalism)",
+    "cat": "social_science"
+  },
+  {
+    "w": "共识经济学",
+    "p": "gòngshí jīngjìxué",
+    "m": "đồng thuận Washington (Washington Consensus)",
+    "cat": "social_science"
+  },
+  {
+    "w": "国家介入",
+    "p": "guójiā jièrù",
+    "m": "sự can thiệp nhà nước",
+    "cat": "social_science"
+  },
+  {
+    "w": "私有化浪潮",
+    "p": "sīyǒuhuà làngcháo",
+    "m": "làn sóng tư nhân hóa",
+    "cat": "social_science"
+  },
+  {
+    "w": "再国有化",
+    "p": "zài guóyǒuhuà",
+    "m": "tái quốc hữu hóa",
+    "cat": "social_science"
+  },
+  {
+    "w": "混合所有制",
+    "p": "hùnhé suǒyǒu zhì",
+    "m": "chế độ sở hữu hỗn hợp",
+    "cat": "social_science"
+  },
+  {
+    "w": "国家资本主义",
+    "p": "guójiā zīběn zhǔyì",
+    "m": "chủ nghĩa tư bản nhà nước",
+    "cat": "social_science"
+  },
+  {
+    "w": "主权财富基金",
+    "p": "zhǔquán cáifù jījīn",
+    "m": "quỹ tài sản quốc gia (sovereign wealth fund)",
+    "cat": "social_science"
+  },
+  {
+    "w": "国有企业改革",
+    "p": "guóyǒu qǐyè gǎigé",
+    "m": "cải cách doanh nghiệp nhà nước",
+    "cat": "social_science"
+  },
+  {
+    "w": "所有制结构",
+    "p": "suǒyǒu zhì jiégòu",
+    "m": "cấu trúc sở hữu",
+    "cat": "social_science"
+  },
+  {
+    "w": "公司治理",
+    "p": "gōngsī zhìlǐ",
+    "m": "quản trị công ty",
+    "cat": "social_science"
+  },
+  {
+    "w": "利益相关者",
+    "p": "lìyì xiāngguān zhě",
+    "m": "bên liên quan (stakeholder)",
+    "cat": "social_science"
+  },
+  {
+    "w": "股东至上主义",
+    "p": "gǔdōng zhì shàng zhǔyì",
+    "m": "chủ nghĩa cổ đông tối thượng (shareholder primacy)",
+    "cat": "social_science"
+  },
+  {
+    "w": "企业生态系统",
+    "p": "qǐyè shēngtài xìtǒng",
+    "m": "hệ sinh thái doanh nghiệp",
+    "cat": "social_science"
+  },
+  {
+    "w": "产业组织",
+    "p": "chǎnyè zǔzhī",
+    "m": "tổ chức ngành công nghiệp (industrial organization)",
+    "cat": "social_science"
+  }
+]

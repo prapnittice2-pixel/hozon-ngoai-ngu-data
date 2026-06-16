@@ -1,0 +1,2936 @@
+[
+  {
+    "w": "《论语》",
+    "p": "Lúnyǔ",
+    "m": "Luận Ngữ — lời ghi chép ngôn luận của Khổng Tử",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语录体",
+    "p": "yǔlù tǐ",
+    "m": "thể ngữ lục — hình thức ghi chép lời nói",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "仁义礼智信",
+    "p": "rén yì lǐ zhì xìn",
+    "m": "nhân nghĩa lễ trí tín — năm đức của Nho giáo",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "克己复礼",
+    "p": "kèjǐ fùlǐ",
+    "m": "khắc kỷ phục lễ — tự kiềm chế để theo lễ nghĩa",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "知行合一",
+    "p": "zhī xíng héyī",
+    "m": "tri hành hợp nhất",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "吾日三省吾身",
+    "p": "wú rì sān xǐng wú shēn",
+    "m": "ta mỗi ngày ba lần tự xét mình",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "《孟子》论辩",
+    "p": "Mèngzǐ lùnbiàn",
+    "m": "lập luận hùng biện trong sách Mạnh Tử",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "浩然之气",
+    "p": "hàorán zhī qì",
+    "m": "khí hạo nhiên — khí phách chính trực tràn đầy",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "民为贵",
+    "p": "mín wéi guì",
+    "m": "dân là quý nhất (tư tưởng dân bản của Mạnh Tử)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "仁政",
+    "p": "rénzhèng",
+    "m": "chính sách nhân đức",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "王道",
+    "p": "wángdào",
+    "m": "vương đạo — con đường cai trị bằng đức",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "霸道",
+    "p": "bàdào",
+    "m": "bá đạo — cai trị bằng sức mạnh",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "《荀子》议论",
+    "p": "Xúnzǐ yìlùn",
+    "m": "văn nghị luận của Tuân Tử",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "人定胜天",
+    "p": "rén dìng shèng tiān",
+    "m": "người nhất định thắng được trời",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "隆礼重法",
+    "p": "lóng lǐ zhòng fǎ",
+    "m": "trọng lễ trọng luật (tư tưởng Tuân Tử)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "积善成德",
+    "p": "jī shàn chéng dé",
+    "m": "tích thiện thành đức",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "化性起伪",
+    "p": "huà xìng qǐ wěi",
+    "m": "biến đổi bản tính qua nhân tạo (Tuân Tử)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "《韩非子》",
+    "p": "Hán Fēizǐ",
+    "m": "Hàn Phi Tử — tác phẩm pháp gia",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "法术势",
+    "p": "fǎ shù shì",
+    "m": "pháp-thuật-thế — ba công cụ cai trị của Hàn Phi",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "以法治国",
+    "p": "yǐ fǎ zhìguó",
+    "m": "lấy pháp luật trị quốc",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "愚民政策",
+    "p": "yúmín zhèngcè",
+    "m": "chính sách ngu dân hóa (Hàn Phi phê phán)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "矛盾之说",
+    "p": "máodùn zhī shuō",
+    "m": "học thuyết mâu thuẫn (nguồn gốc điển tích mâu thuẫn)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "《庄子》寓言",
+    "p": "Zhuāngzǐ yùyán",
+    "m": "ngụ ngôn trong Trang Tử",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "逍遥游",
+    "p": "xiāoyáo yóu",
+    "m": "Tiêu Dao Du — tự do tuyệt đối (Trang Tử)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "齐物论",
+    "p": "Qí wù lùn",
+    "m": "Tề Vật Luận — vạn vật bình đẳng (Trang Tử)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "鲲鹏之志",
+    "p": "kūn péng zhī zhì",
+    "m": "chí nguyện to lớn như cá kền biến thành đại bàng",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "蝴蝶梦",
+    "p": "húdié mèng",
+    "m": "giấc mộng bươm bướm — ranh giới thực và mộng (Trang Tử)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "庖丁解牛",
+    "p": "páo dīng jiě niú",
+    "m": "người đầu bếp mổ trâu — ẩn dụ về kỹ năng tinh thông",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "无为而治",
+    "p": "wúwéi ér zhì",
+    "m": "vô vi nhi trị — cai trị bằng không can thiệp",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "相濡以沫",
+    "p": "xiāng rú yǐ mò",
+    "m": "tương nhú dĩ mạt — cùng hoàn cảnh khó khăn nương tựa nhau",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "柳宗元山水游记",
+    "p": "Liǔ Zōngyuán shānshuǐ yóujì",
+    "m": "bút ký sơn thủy của Liễu Tông Nguyên",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "永州八记",
+    "p": "Yǒngzhōu bā jì",
+    "m": "Vĩnh Châu Bát Ký — tám bài du ký của Liễu Tông Nguyên",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "小石潭记",
+    "p": "Xiǎoshítán jì",
+    "m": "Tiểu Thạch Đàm Ký — tác phẩm nổi tiếng của Liễu Tông Nguyên",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "以我观物",
+    "p": "yǐ wǒ guān wù",
+    "m": "dùng cái tôi để nhìn vạn vật",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "韩愈古文",
+    "p": "Hán Yù gǔwén",
+    "m": "cổ văn của Hàn Dũ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "文以载道",
+    "p": "wén yǐ zài dào",
+    "m": "văn chương để chở đạo",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "师说",
+    "p": "shī shuō",
+    "m": "Sư Thuyết — luận về người thầy (Hàn Dũ)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "马说",
+    "p": "mǎ shuō",
+    "m": "Mã Thuyết — ẩn dụ về ngựa hay và bá lạc (Hàn Dũ)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "进学解",
+    "p": "jìnxué jiě",
+    "m": "Tiến Học Giải — tự trào học hành (Hàn Dũ)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "欧阳修论说文",
+    "p": "Ōuyáng Xiū lùnshuō wén",
+    "m": "văn nghị luận của Âu Dương Tu",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "醉翁亭记",
+    "p": "Zuìwēng tíng jì",
+    "m": "Túy Ông Đình Ký — danh tác của Âu Dương Tu",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "与民同乐",
+    "p": "yǔ mín tóng lè",
+    "m": "cùng vui với dân",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "苏轼政论",
+    "p": "Sū Shì zhènglùn",
+    "m": "văn chính luận của Tô Thức (Tô Đông Pha)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "赤壁赋",
+    "p": "Chìbì fù",
+    "m": "Xích Bích Phú — tuyệt tác của Tô Thức",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "念奴娇·赤壁怀古",
+    "p": "Niàn Nú Jiāo chìbì huáigǔ",
+    "m": "bài từ hoài cổ Xích Bích của Tô Thức",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "王安石变法论",
+    "p": "Wáng Ānshí biànfǎ lùn",
+    "m": "luận về biến pháp của Vương An Thạch",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "答司马谏议书",
+    "p": "dá Sīmǎ jiànyì shū",
+    "m": "thư phúc đáp Tư Mã Quang về phản đối cải cách",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "气势磅礴",
+    "p": "qìshì pángbó",
+    "m": "khí thế mạnh mẽ, hùng hồn",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "排山倒海",
+    "p": "pái shān dǎo hǎi",
+    "m": "dời núi lấp biển — khí thế không gì cản được",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "铁证如山",
+    "p": "tiě zhèng rú shān",
+    "m": "bằng chứng vững như núi",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "有的放矢",
+    "p": "yǒu dì fàng shǐ",
+    "m": "bắn mũi tên có đích — lập luận có mục tiêu rõ ràng",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "切中要害",
+    "p": "qiē zhōng yàohài",
+    "m": "đánh trúng yếu huyệt",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "鞭辟入里",
+    "p": "biān pì rù lǐ",
+    "m": "phân tích sâu sắc triệt để",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "一针见血",
+    "p": "yī zhēn jiàn xuè",
+    "m": "một mũi kim thấy máu — nói thẳng vào vấn đề",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "入木三分",
+    "p": "rù mù sān fēn",
+    "m": "khắc sâu ba phân — nhận xét sắc bén, thấu đáo",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "力透纸背",
+    "p": "lì tòu zhǐ bèi",
+    "m": "lực xuyên mặt sau giấy — bút lực mạnh mẽ",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "言之凿凿",
+    "p": "yán zhī záozáo",
+    "m": "lời nói xác thực, căn cứ rõ ràng",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "掷地有声",
+    "p": "zhì dì yǒu shēng",
+    "m": "ném xuống đất có tiếng — lời nói có trọng lượng",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "振聋发聩",
+    "p": "zhèn lóng fā kuì",
+    "m": "đánh thức người điếc — lời nói khai sáng mạnh mẽ",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "高屋建瓴",
+    "p": "gāo wū jiàn líng",
+    "m": "như đổ nước từ mái cao — lập luận có thế nhìn bao quát",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "深入浅出",
+    "p": "shēn rù qiǎn chū",
+    "m": "sâu sắc mà dễ hiểu",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "言简意赅",
+    "p": "yán jiǎn yì gāi",
+    "m": "lời ít mà nghĩa đầy đủ",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "辞约义丰",
+    "p": "cí yuē yì fēng",
+    "m": "lời văn ngắn gọn mà ý phong phú",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "字斟句酌",
+    "p": "zì zhēn jù zhuó",
+    "m": "suy nghĩ kỹ lưỡng từng chữ từng câu",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "精雕细琢",
+    "p": "jīng diāo xì zuó",
+    "m": "chạm khắc tỉ mỉ — viết rất cẩn thận",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "文采斐然",
+    "p": "wéncǎi fěirán",
+    "m": "văn chương xuất sắc rực rỡ",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "妙笔生花",
+    "p": "miào bǐ shēng huā",
+    "m": "bút thần sinh hoa — tài viết văn tuyệt vời",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "笔酣墨畅",
+    "p": "bǐ hān mò chàng",
+    "m": "bút mực thỏa sức — văn viết trôi chảy hứng khởi",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "一气呵成",
+    "p": "yīqì hēchéng",
+    "m": "viết một hơi hoàn chỉnh — mạch lạc liền mạch",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "纵横捭阖",
+    "p": "zòng héng bǎi hé",
+    "m": "dọc ngang mở đóng — hùng biện tự do phong phú",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "旁征博引",
+    "p": "páng zhēng bó yǐn",
+    "m": "trích dẫn rộng rãi từ nhiều nguồn",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "引经据典",
+    "p": "yǐn jīng jù diǎn",
+    "m": "dẫn kinh điển làm căn cứ",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "援古证今",
+    "p": "yuán gǔ zhèng jīn",
+    "m": "dùng xưa để chứng minh nay",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "借古讽今",
+    "p": "jiè gǔ fěng jīn",
+    "m": "mượn chuyện xưa để châm biếm nay",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "春秋笔法",
+    "p": "chūnqiū bǐfǎ",
+    "m": "bút pháp Xuân Thu — viết hàm súc có ẩn ý khen chê",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "微言大义",
+    "p": "wēi yán dàyì",
+    "m": "lời nhỏ mà ý lớn — hàm súc sâu xa",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "讽喻",
+    "p": "fěngyù",
+    "m": "phúng dụ — ẩn dụ mang tính châm biếm",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "对偶",
+    "p": "du??u",
+    "m": "đối ngẫu — phép đối trong văn học",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "排比",
+    "p": "páibǐ",
+    "m": "phép liệt kê song song",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "夸张",
+    "p": "kuāzhāng",
+    "m": "khoa trương — phép cường điệu",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "反问",
+    "p": "fǎnwèn",
+    "m": "phép phản vấn — câu hỏi tu từ",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "设问",
+    "p": "shèwèn",
+    "m": "phép giả vấn — tự hỏi tự trả lời",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "借代",
+    "p": "jièdài",
+    "m": "phép hoán dụ",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "通感",
+    "p": "tōnggǎn",
+    "m": "thông cảm giác — synaesthesia trong thơ",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "顶真",
+    "p": "dǐngzhēn",
+    "m": "đỉnh chân — lặp đầu câu (anadiplosis)",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "回环",
+    "p": "huíhuán",
+    "m": "hồi hoàn — đảo ngược (antimetabole)",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "层递",
+    "p": "céng dì",
+    "m": "tầng tiệm — tăng dần (gradatio)",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "跌宕起伏",
+    "p": "diēdàng qǐfú",
+    "m": "thăng trầm lên xuống — mạch văn biến hóa",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "波澜壮阔",
+    "p": "bōlán zhuàngkuò",
+    "m": "sóng vỗ hùng tráng — cảnh tượng rộng lớn hào hùng",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "峰回路转",
+    "p": "fēng huí lù zhuǎn",
+    "m": "núi ngoặt đường quanh — tình tiết đột ngột thay đổi",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "曲径通幽",
+    "p": "qū jìng tōng yōu",
+    "m": "đường cong thông u tịch — hàm súc thâm sâu",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "柳暗花明",
+    "p": "liǔ àn huā míng",
+    "m": "liễu tối hoa sáng — bất ngờ chuyển biến tốt đẹp",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "欲扬先抑",
+    "p": "yù yáng xiān yì",
+    "m": "muốn khen trước hãy dìm — thủ pháp tạo hiệu ứng tương phản",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "欲抑先扬",
+    "p": "yù yì xiān yáng",
+    "m": "muốn dìm trước hãy khen — thủ pháp đối lập",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "卒章显志",
+    "p": "zú zhāng xiǎn zhì",
+    "m": "cuối bài mới bộc lộ chí hướng",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "开门见山",
+    "p": "kāimén jiàn shān",
+    "m": "mở cửa thấy núi — vào thẳng vấn đề",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "以小见大",
+    "p": "yǐ xiǎo jiàn dà",
+    "m": "từ nhỏ thấy lớn — chi tiết phản ánh toàn thể",
+    "cat": "rhetoric"
+  },
+  {
+    "w": "小说构架技法",
+    "p": "xiǎoshuō gòujià jìfǎ",
+    "m": "kỹ thuật cấu trúc tiểu thuyết",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "视角叙事",
+    "p": "shìjiǎo xùshì",
+    "m": "trần thuật theo góc nhìn (point of view narration)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "全知视角",
+    "p": "quánzhī shìjiǎo",
+    "m": "góc nhìn toàn tri (omniscient narrator)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "第一人称叙事",
+    "p": "dì yī rénchēng xùshì",
+    "m": "trần thuật ngôi thứ nhất",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "不可靠叙述者",
+    "p": "bù kěkào xùshù zhě",
+    "m": "người kể chuyện không đáng tin (unreliable narrator)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "多线叙事",
+    "p": "duō xiàn xùshì",
+    "m": "trần thuật đa tuyến",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "意识流写作",
+    "p": "yìshí liú xiězuò",
+    "m": "viết theo dòng ý thức (stream of consciousness)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "内心独白",
+    "p": "nèixīn dúbái",
+    "m": "độc thoại nội tâm",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "自由间接引语",
+    "p": "zìyóu jiànjiē yǐnyǔ",
+    "m": "lời dẫn gián tiếp tự do",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "魔幻现实主义",
+    "p": "móhuàn xiànshí zhǔyì",
+    "m": "chủ nghĩa hiện thực huyền ảo (magical realism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "寓言体",
+    "p": "yùyán tǐ",
+    "m": "thể ngụ ngôn",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "元小说",
+    "p": "yuán xiǎoshuō",
+    "m": "siêu tiểu thuyết (metafiction)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "人物塑造",
+    "p": "rénwù sùzào",
+    "m": "xây dựng nhân vật",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "深度心理描写",
+    "p": "shēndù xīnlǐ miáoxiě",
+    "m": "miêu tả tâm lý chiều sâu",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "细节描写",
+    "p": "xìjié miáoxiě",
+    "m": "miêu tả chi tiết",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "细节的文学功能",
+    "p": "xìjié de wénxué gōngnéng",
+    "m": "chức năng văn học của chi tiết",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "留白艺术",
+    "p": "liúbái yìshù",
+    "m": "nghệ thuật để khoảng trống (white space art)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "象征体系",
+    "p": "xiàngzhēng tǐxì",
+    "m": "hệ thống biểu tượng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "象征体系建构",
+    "p": "xiàngzhēng tǐxì jiàngòu",
+    "m": "xây dựng hệ thống biểu tượng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "神话原型",
+    "p": "shénhuà yuánxíng",
+    "m": "nguyên mẫu thần thoại (archetypal myth)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "原型批评",
+    "p": "yuánxíng pīpíng",
+    "m": "phê bình nguyên mẫu (archetypal criticism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "英雄之旅",
+    "p": "yīngxióng zhī lǚ",
+    "m": "hành trình anh hùng (hero's journey — Campbell)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "叙事弧",
+    "p": "xùshì hú",
+    "m": "cung trần thuật (narrative arc)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "三幕结构",
+    "p": "sān mù jiégòu",
+    "m": "cấu trúc ba hồi",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "起点激励事件",
+    "p": "qǐdiǎn jīlì shìjiàn",
+    "m": "sự kiện kích hoạt mở đầu (inciting incident)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "情节转折点",
+    "p": "qíngjié zhuǎnzhédiǎn",
+    "m": "điểm ngoặt tình tiết (plot twist)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "高潮",
+    "p": "gāocháo",
+    "m": "đỉnh điểm (climax)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "消解",
+    "p": "xiāojiě",
+    "m": "giải quyết (denouement)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "戏剧性反讽",
+    "p": "xìjùxìng fǎnfěng",
+    "m": "mỉa mai kịch tính (dramatic irony)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "语言的陌生化",
+    "p": "yǔyán de mòshēnghuà",
+    "m": "xa lạ hóa ngôn ngữ (defamiliarization — Shklovsky)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "形式主义",
+    "p": "xíngshì zhǔyì",
+    "m": "chủ nghĩa hình thức văn học",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "新批评",
+    "p": "xīn pīpíng",
+    "m": "phê bình mới (New Criticism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文本细读",
+    "p": "wénběn xì dú",
+    "m": "đọc kỹ văn bản (close reading)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "张力",
+    "p": "zhānglì",
+    "m": "sức căng (tension) trong văn học",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "悖论",
+    "p": "bèilùn",
+    "m": "nghịch lý (paradox) trong văn học",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "语义歧义",
+    "p": "yǔyì qíyì",
+    "m": "đa nghĩa từ vựng (ambiguity)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "复调小说",
+    "p": "fùdiào xiǎoshuō",
+    "m": "tiểu thuyết đa thanh (polyphonic novel — Bakhtin)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "对话主义",
+    "p": "duìhuà zhǔyì",
+    "m": "chủ nghĩa đối thoại (dialogism — Bakhtin)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "狂欢化",
+    "p": "kuánghuānhuà",
+    "m": "lễ hội hóa (carnivalization — Bakhtin)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "声部",
+    "p": "shēngbù",
+    "m": "giọng (voice) trong tiểu thuyết đa thanh",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文体学",
+    "p": "wéntǐxué",
+    "m": "tu từ văn phong học (stylistics)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "叙事学",
+    "p": "xùshìxué",
+    "m": "tự sự học (narratology)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "叙事结构",
+    "p": "xùshì jiégòu",
+    "m": "cấu trúc tự sự",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "情节时间",
+    "p": "qíngjié shíjiān",
+    "m": "thời gian tình tiết (story time)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "叙述时间",
+    "p": "xùshù shíjiān",
+    "m": "thời gian trần thuật (discourse time)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "倒叙",
+    "p": "dàoxù",
+    "m": "hồi ký (analepsis / flashback)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "预叙",
+    "p": "yùxù",
+    "m": "tiên thuật (prolepsis / flashforward)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "叙事距离",
+    "p": "xùshì jùlí",
+    "m": "khoảng cách trần thuật (narrative distance)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "叙事声音",
+    "p": "xùshì shēngyīn",
+    "m": "giọng kể chuyện",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "含混性",
+    "p": "hánhùnxìng",
+    "m": "tính mơ hồ hàm chứa (七种含混 — Empson)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "复义",
+    "p": "fùyì",
+    "m": "đa nghĩa (multiple meaning)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "互文性",
+    "p": "hùwénxìng",
+    "m": "liên văn bản (intertextuality)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "影响的焦虑",
+    "p": "yǐngxiǎng de jiāolǜ",
+    "m": "lo âu ảnh hưởng (anxiety of influence — Harold Bloom)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "误读",
+    "p": "wùdú",
+    "m": "đọc sai sáng tạo (creative misreading — Bloom)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "读者反应批评",
+    "p": "dúzhě fǎnyìng pīpíng",
+    "m": "phê bình phản hồi độc giả",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "接受美学",
+    "p": "jiēshòu měixué",
+    "m": "mỹ học tiếp nhận (reception aesthetics)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "期待视野",
+    "p": "qīdài shìyě",
+    "m": "tầm đón đợi (horizon of expectations — Jauss)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "隐含读者",
+    "p": "yǐnhán dúzhě",
+    "m": "độc giả tiềm ẩn (implied reader)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "作者意图",
+    "p": "zuòzhě yìtú",
+    "m": "ý định tác giả (authorial intent)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "作者已死",
+    "p": "zuòzhě yǐ sǐ",
+    "m": "cái chết của tác giả (death of the author — Barthes)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "书写",
+    "p": "shūxiě",
+    "m": "viết (écriture — Derrida)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "延异",
+    "p": "yányì",
+    "m": "trì hoãn-khác biệt (différance — Derrida)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文字游戏",
+    "p": "wénzì yóuxì",
+    "m": "trò chơi chữ nghĩa (wordplay)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "双关",
+    "p": "shuāngguān",
+    "m": "chơi chữ (pun / double entendre)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "谐音",
+    "p": "xiéyīn",
+    "m": "đồng âm (homophone wordplay)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "藏头诗",
+    "p": "cángtóu shī",
+    "m": "thơ ẩn đầu chữ (acrostic poem)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "回文",
+    "p": "huíwén",
+    "m": "thơ thuận nghịch đọc (palindrome / reversible poem)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "集句",
+    "p": "jíjù",
+    "m": "tập cú — lấy câu từ các thơ khác nhau ghép thành bài",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "仿作",
+    "p": "fǎngzuò",
+    "m": "tác phẩm mô phỏng (parody / pastiche)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "反讽",
+    "p": "fǎnfěng",
+    "m": "phép nghịch dị — mỉa mai (irony)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "黑色幽默",
+    "p": "hēisè yōumò",
+    "m": "hài hước đen (black humor)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "荒诞主义",
+    "p": "huāngdàn zhǔyì",
+    "m": "chủ nghĩa phi lý (absurdism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "存在主义文学",
+    "p": "cúnzài zhǔyì wénxué",
+    "m": "văn học hiện sinh (existentialist literature)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "悲剧净化",
+    "p": "bēijù jìnghuà",
+    "m": "thanh tẩy bi kịch (catharsis — Aristotle)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "悲剧英雄",
+    "p": "bēijù yīngxióng",
+    "m": "anh hùng bi kịch (tragic hero)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "哈马蒂亚",
+    "p": "hā mǎ dì yà",
+    "m": "lỗi lầm bi kịch (hamartia — khuyết điểm anh hùng)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "命运悲剧",
+    "p": "mìngyùn bēijù",
+    "m": "bi kịch số mệnh",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "性格悲剧",
+    "p": "xìnggé bēijù",
+    "m": "bi kịch tính cách",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "喜剧性误解",
+    "p": "xǐjùxìng wùjiě",
+    "m": "hiểu lầm hài kịch (comic misunderstanding)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "人文主义",
+    "p": "rénwén zhǔyì",
+    "m": "chủ nghĩa nhân văn (humanism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文艺复兴精神",
+    "p": "wényì fùxīng jīngshén",
+    "m": "tinh thần Phục Hưng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "浪漫主义运动",
+    "p": "làngmànzhǔyì yùndòng",
+    "m": "phong trào lãng mạn chủ nghĩa",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "现实主义传统",
+    "p": "xiànshízhǔyì chuántǒng",
+    "m": "truyền thống hiện thực chủ nghĩa",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "自然主义",
+    "p": "zìrán zhǔyì",
+    "m": "chủ nghĩa tự nhiên (naturalism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "印象主义",
+    "p": "yìnxiàng zhǔyì",
+    "m": "chủ nghĩa ấn tượng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "象征主义",
+    "p": "xiàngzhēng zhǔyì",
+    "m": "chủ nghĩa tượng trưng (symbolism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "超现实主义",
+    "p": "chāo xiànshí zhǔyì",
+    "m": "chủ nghĩa siêu thực (surrealism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "意识流小说",
+    "p": "yìshíliú xiǎoshuō",
+    "m": "tiểu thuyết dòng ý thức",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "现代主义文学",
+    "p": "xiàndàizhǔyì wénxué",
+    "m": "văn học hiện đại chủ nghĩa",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "后现代主义文学",
+    "p": "hòu xiàndàizhǔyì wénxué",
+    "m": "văn học hậu hiện đại",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "碎片叙事",
+    "p": "suìpiàn xùshì",
+    "m": "trần thuật phân mảnh",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "拼贴手法",
+    "p": "pīntiē shǒufǎ",
+    "m": "kỹ thuật ghép dán (collage technique)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "非线性叙述",
+    "p": "fēi xiànxìng xùshù",
+    "m": "trần thuật phi tuyến tính",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "迷宫叙事",
+    "p": "mígōng xùshì",
+    "m": "trần thuật mê cung (labyrinthine narrative)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "时间错乱",
+    "p": "shíjiān cuòluàn",
+    "m": "đảo lộn thời gian (temporal dislocation)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "空间叙事",
+    "p": "kōngjiān xùshì",
+    "m": "trần thuật không gian",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "场景建构",
+    "p": "chǎngjǐng jiàngòu",
+    "m": "xây dựng bối cảnh (scene building)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "氛围营造",
+    "p": "fēnwéi yíngzào",
+    "m": "tạo dựng không khí (atmosphere)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "叙事张力",
+    "p": "xùshì zhānglì",
+    "m": "sức căng tự sự",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "悬念设置",
+    "p": "xuánniàn shèzhì",
+    "m": "tạo dựng huyền niệm (suspense)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "故事预示",
+    "p": "gùshì yùshì",
+    "m": "điềm báo truyện (foreshadowing)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "回响呼应",
+    "p": "huíxiǎng hūyìng",
+    "m": "vọng và ứng — đối ứng trước sau",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "主题升华",
+    "p": "zhǔtí shēnghuá",
+    "m": "thăng hoa chủ đề",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "人道关怀",
+    "p": "réndào guānhuái",
+    "m": "quan tâm nhân đạo",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "生命主题",
+    "p": "shēngmìng zhǔtí",
+    "m": "chủ đề về sự sống",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "死亡主题",
+    "p": "sǐwáng zhǔtí",
+    "m": "chủ đề về cái chết",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "救赎主题",
+    "p": "jiùshú zhǔtí",
+    "m": "chủ đề cứu rỗi",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "流亡主题",
+    "p": "liúwáng zhǔtí",
+    "m": "chủ đề lưu vong",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "记忆与遗忘",
+    "p": "jìyì yǔ yíwàng",
+    "m": "ký ức và quên lãng (chủ đề văn học)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "身份认同危机",
+    "p": "shēnfèn rèntóng wēijī",
+    "m": "khủng hoảng nhận đồng bản sắc",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "他者与自我",
+    "p": "tāzhě yǔ zìwǒ",
+    "m": "tha nhân và bản ngã",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "成长小说",
+    "p": "chénzhǎng xiǎoshuō",
+    "m": "tiểu thuyết trưởng thành (Bildungsroman)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "启蒙叙事",
+    "p": "qǐméng xùshì",
+    "m": "tự sự khai sáng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "反乌托邦",
+    "p": "fǎn wūtuōbāng",
+    "m": "phản không tưởng (dystopia)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "乌托邦文学",
+    "p": "wūtuōbāng wénxué",
+    "m": "văn học không tưởng (utopian literature)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "政治寓言",
+    "p": "zhèngzhì yùyán",
+    "m": "ngụ ngôn chính trị",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "科幻文学",
+    "p": "kēhuàn wénxué",
+    "m": "văn học khoa học viễn tưởng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "奇幻文学",
+    "p": "qíhuàn wénxué",
+    "m": "văn học kỳ ảo (fantasy literature)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "魔幻小说",
+    "p": "móhuàn xiǎoshuō",
+    "m": "tiểu thuyết ma thuật",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "侦探小说",
+    "p": "zhēntàn xiǎoshuō",
+    "m": "tiểu thuyết trinh thám",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "悬疑叙事",
+    "p": "xuányí xùshì",
+    "m": "tự sự huyền bí",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "哥特式小说",
+    "p": "gē tè shì xiǎoshuō",
+    "m": "tiểu thuyết Gothic",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "书信体小说",
+    "p": "shūxìntǐ xiǎoshuō",
+    "m": "tiểu thuyết thư tín (epistolary novel)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "日记体小说",
+    "p": "rìjìtǐ xiǎoshuō",
+    "m": "tiểu thuyết nhật ký",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "叙述框架",
+    "p": "xùshù kuàngjià",
+    "m": "khung trần thuật",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "叙事契约",
+    "p": "xùshì qìyuē",
+    "m": "khế ước tự sự (narrative pact)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "虚构协议",
+    "p": "xūgòu xiéyì",
+    "m": "thỏa thuận hư cấu (fictive agreement)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "悬置怀疑",
+    "p": "xuánzhì huáiyí",
+    "m": "treo hoài nghi (suspension of disbelief)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文学真实",
+    "p": "wénxué zhēnshí",
+    "m": "chân thực văn học",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "典型人物",
+    "p": "diǎnxíng rénwù",
+    "m": "nhân vật điển hình",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "扁平人物",
+    "p": "biǎnpíng rénwù",
+    "m": "nhân vật dẹt (flat character)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "圆形人物",
+    "p": "yuánxíng rénwù",
+    "m": "nhân vật tròn (round character)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "人物弧线",
+    "p": "rénwù húxiàn",
+    "m": "cung phát triển nhân vật (character arc)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "主角对立",
+    "p": "zhǔjiǎo duìlì",
+    "m": "đối lập nhân vật chính (protagonist vs antagonist)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "福伊尔人物",
+    "p": "fú yī ěr rénwù",
+    "m": "nhân vật làm nổi bật (foil character)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "人物动机",
+    "p": "rénwù dòngjī",
+    "m": "động lực nhân vật",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "人物冲突",
+    "p": "rénwù chōngtū",
+    "m": "xung đột nhân vật",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "内在冲突",
+    "p": "nèizài chōngtū",
+    "m": "xung đột nội tâm",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "外在冲突",
+    "p": "wàizài chōngtū",
+    "m": "xung đột ngoại tại",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "隐性主题",
+    "p": "yǐnxìng zhǔtí",
+    "m": "chủ đề ẩn (implicit theme)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "显性主题",
+    "p": "xiǎnxìng zhǔtí",
+    "m": "chủ đề hiện (explicit theme)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "中心意象",
+    "p": "zhōngxīn yìxiàng",
+    "m": "ý tượng trung tâm (central image)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "贯穿意象",
+    "p": "guànchuān yìxiàng",
+    "m": "ý tượng xuyên suốt (recurring image)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "意象群",
+    "p": "yìxiàng qún",
+    "m": "nhóm ý tượng (image cluster)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "色调",
+    "p": "sèdiào",
+    "m": "sắc điệu (tone)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文字的节奏",
+    "p": "wénzì de jiézòu",
+    "m": "nhịp điệu ngôn ngữ",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "韵律",
+    "p": "yùnlǜ",
+    "m": "vận luật (prosody)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "格律",
+    "p": "gélǜ",
+    "m": "quy luật niêm luật thơ",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "押韵",
+    "p": "yāyùn",
+    "m": "gieo vần (rhyme)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "头韵",
+    "p": "tóuyùn",
+    "m": "điệp âm đầu (alliteration)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "尾韵",
+    "p": "wěiyùn",
+    "m": "gieo vần cuối (end rhyme)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "内韵",
+    "p": "nèiyùn",
+    "m": "vần trong nội bộ câu (internal rhyme)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "自由诗",
+    "p": "zìyóu shī",
+    "m": "thơ tự do (free verse)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "散文诗",
+    "p": "sǎnwén shī",
+    "m": "thơ văn xuôi (prose poem)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "诗歌意义层次",
+    "p": "shīgē yìyì céngcì",
+    "m": "tầng bậc ý nghĩa thơ",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "字面意义",
+    "p": "zìmiàn yìyì",
+    "m": "nghĩa đen (literal meaning)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "隐喻意义",
+    "p": "yǐnyù yìyì",
+    "m": "nghĩa ẩn dụ",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "象征意义",
+    "p": "xiàngzhēng yìyì",
+    "m": "nghĩa biểu tượng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "寓意",
+    "p": "yùyì",
+    "m": "ngụ ý — ý nghĩa tầng sâu",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "弦外之音",
+    "p": "xián wài zhī yīn",
+    "m": "âm thanh ngoài dây đàn — hàm ý ngoài lời",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "言外之意",
+    "p": "yán wài zhī yì",
+    "m": "ý ngoài lời — nghĩa ngầm",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "潜台词",
+    "p": "qiǎntáicí",
+    "m": "ngôn ngữ tiềm ẩn — subtext",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文学正典",
+    "p": "wénxué zhèndiǎn",
+    "m": "kinh điển văn học (literary canon)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "经典化",
+    "p": "jīngdiǎnhuà",
+    "m": "kinh điển hóa (canonization)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文学场域",
+    "p": "wénxué chǎngyù",
+    "m": "trường văn học (literary field)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文学机构",
+    "p": "wénxué jīgòu",
+    "m": "thể chế văn học (literary institution)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文学奖项",
+    "p": "wénxué jiǎngxiàng",
+    "m": "giải thưởng văn học",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文学史书写",
+    "p": "wénxuéshǐ shūxiě",
+    "m": "viết lịch sử văn học",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文学人类学",
+    "p": "wénxué rénlèixué",
+    "m": "nhân học văn học",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文化诗学",
+    "p": "wénhuà shīxué",
+    "m": "thi học văn hóa (cultural poetics — Greenblatt)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "新历史主义",
+    "p": "xīn lìshǐ zhǔyì",
+    "m": "tân lịch sử chủ nghĩa (New Historicism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "女性主义文学批评",
+    "p": "nǚxìng zhǔyì wénxué pīpíng",
+    "m": "phê bình văn học nữ quyền",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "生态批评",
+    "p": "shēngtài pīpíng",
+    "m": "phê bình sinh thái (ecocriticism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "后人文主义",
+    "p": "hòu rénwén zhǔyì",
+    "m": "hậu nhân văn chủ nghĩa (posthumanism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "数字人文",
+    "p": "shùzì rénwén",
+    "m": "nhân văn học kỹ thuật số (digital humanities)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文本挖掘",
+    "p": "wénběn wājué",
+    "m": "khai thác văn bản (text mining)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "计算文学",
+    "p": "jìsuàn wénxué",
+    "m": "văn học tính toán (computational literary studies)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "远读",
+    "p": "yuǎn dú",
+    "m": "đọc từ xa (distant reading — Moretti)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "近读",
+    "p": "jìn dú",
+    "m": "đọc gần — phân tích kỹ (close reading)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "语言学转向",
+    "p": "yǔyánxué zhuǎnxiàng",
+    "m": "bước ngoặt ngôn ngữ học (linguistic turn)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文化转向",
+    "p": "wénhuà zhuǎnxiàng",
+    "m": "bước ngoặt văn hóa (cultural turn)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "情感转向",
+    "p": "qínggǎn zhuǎnxiàng",
+    "m": "bước ngoặt cảm xúc (affective turn)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "物质转向",
+    "p": "wùzhì zhuǎnxiàng",
+    "m": "bước ngoặt vật chất (material turn)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "空间转向",
+    "p": "kōngjiān zhuǎnxiàng",
+    "m": "bước ngoặt không gian (spatial turn)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "记忆转向",
+    "p": "jìyì zhuǎnxiàng",
+    "m": "bước ngoặt ký ức (memory turn)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "伦理转向",
+    "p": "lúnlǐ zhuǎnxiàng",
+    "m": "bước ngoặt đạo đức (ethical turn)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "古文观止",
+    "p": "Gǔwén Guānzhǐ",
+    "m": "Cổ Văn Quan Chỉ — tuyển tập văn xuôi cổ điển",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "骈散结合",
+    "p": "pián sǎn jiéhé",
+    "m": "kết hợp biền văn và tản văn",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "对仗工整",
+    "p": "duìzhàng gōngzhěng",
+    "m": "đối ngẫu chỉnh tề",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "句式变化",
+    "p": "jùshì biànhuà",
+    "m": "biến hóa cấu trúc câu",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语气跌宕",
+    "p": "yǔqì diēdàng",
+    "m": "ngữ khí thăng trầm",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "议论文体",
+    "p": "yìlùn wéntǐ",
+    "m": "thể loại văn nghị luận",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "论证结构",
+    "p": "lùnzhèng jiégòu",
+    "m": "cấu trúc lập luận",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "论点论据",
+    "p": "lùndiǎn lùnjù",
+    "m": "luận điểm và luận cứ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "驳论",
+    "p": "bólùn",
+    "m": "bác luận — lập luận phản bác",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "立论",
+    "p": "lìlùn",
+    "m": "lập luận — đưa ra quan điểm",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "类比论证",
+    "p": "lèibǐ lùnzhèng",
+    "m": "lập luận tương tự (analogical argument)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "归纳论证",
+    "p": "guīnà lùnzhèng",
+    "m": "lập luận quy nạp",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "演绎论证",
+    "p": "yǎnyì lùnzhèng",
+    "m": "lập luận diễn dịch",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "三段论",
+    "p": "sānduànlùn",
+    "m": "tam đoạn luận (syllogism)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "以退为进",
+    "p": "yǐ tuì wéi jìn",
+    "m": "lùi để tiến — sách lược nhượng bộ rồi phản công",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "正反对比",
+    "p": "zhèng fǎn duìbǐ",
+    "m": "so sánh chính-phản (contrast argument)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "举例论证",
+    "p": "jǔlì lùnzhèng",
+    "m": "lập luận bằng ví dụ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "列举法",
+    "p": "lièjǔ fǎ",
+    "m": "phương pháp liệt kê",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "逻辑谬误",
+    "p": "luójí miùwù",
+    "m": "ngụy biện (logical fallacy)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "稻草人谬误",
+    "p": "dàocǎorén miùwù",
+    "m": "ngụy biện người rơm (straw man fallacy)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "滑坡谬误",
+    "p": "huápō miùwù",
+    "m": "ngụy biện dốc trơn (slippery slope)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "诉诸权威",
+    "p": "sùzhū quánwēi",
+    "m": "viện dẫn thẩm quyền (appeal to authority)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "人身攻击",
+    "p": "rénshēn gōngjī",
+    "m": "tấn công cá nhân (ad hominem)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "循环论证",
+    "p": "xúnhuán lùnzhèng",
+    "m": "lập luận vòng quanh (circular reasoning)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "偷换概念",
+    "p": "tōuhuàn gàiniàn",
+    "m": "đánh tráo khái niệm",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "以偏概全",
+    "p": "yǐ piān gài quán",
+    "m": "lấy phần đại diện toàn bộ (hasty generalization)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "两难困境",
+    "p": "liǎngnán kùnjìng",
+    "m": "thế lưỡng nan (dilemma)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "假设条件",
+    "p": "jiǎshè tiáojiàn",
+    "m": "điều kiện giả định",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "反事实假设",
+    "p": "fǎn shìshí jiǎshè",
+    "m": "giả định phản thực tế",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "辩证思维",
+    "p": "biànzhèng sīwéi",
+    "m": "tư duy biện chứng",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "批判性思维",
+    "p": "pīpànxìng sīwéi",
+    "m": "tư duy phê phán",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "创造性思维",
+    "p": "chuàngzàoxìng sīwéi",
+    "m": "tư duy sáng tạo",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "发散思维",
+    "p": "fāsàn sīwéi",
+    "m": "tư duy phân kỳ (divergent thinking)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "聚合思维",
+    "p": "jùhé sīwéi",
+    "m": "tư duy hội tụ (convergent thinking)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "元认知",
+    "p": "yuán rènzhī",
+    "m": "siêu nhận thức (metacognition)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "认识论",
+    "p": "rènshílùn",
+    "m": "nhận thức luận (epistemology)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "形而上学",
+    "p": "xíng ér shàng xué",
+    "m": "siêu hình học (metaphysics)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "存在论",
+    "p": "cúnzài lùn",
+    "m": "bản thể luận (ontology)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "伦理学",
+    "p": "lúnlǐxué",
+    "m": "đạo đức học (ethics)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "价值论",
+    "p": "jiàzhí lùn",
+    "m": "luận về giá trị (axiology)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "美学",
+    "p": "měixué",
+    "m": "mỹ học (aesthetics)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "逻辑学",
+    "p": "luójíxué",
+    "m": "logic học",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "推理有效性",
+    "p": "tuīlǐ yǒuxiàoxìng",
+    "m": "hiệu lực của lập luận (validity)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "论证健全性",
+    "p": "lùnzhèng jiànquánxìng",
+    "m": "tính lành mạnh lập luận (soundness)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "必要条件",
+    "p": "bìyào tiáojiàn",
+    "m": "điều kiện cần",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "充分条件",
+    "p": "chōngfèn tiáojiàn",
+    "m": "điều kiện đủ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "充分必要条件",
+    "p": "chōngfèn bìyào tiáojiàn",
+    "m": "điều kiện cần và đủ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "假设演绎",
+    "p": "jiǎshè yǎnyì",
+    "m": "giả thuyết-diễn dịch (hypothetico-deductivism)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "证伪",
+    "p": "zhèngwěi",
+    "m": "bác bỏ (falsification — Popper)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "范式",
+    "p": "fànshì",
+    "m": "mô thức (paradigm — Kuhn)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "科学革命",
+    "p": "kēxué gémìng",
+    "m": "cách mạng khoa học (Kuhn)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "常规科学",
+    "p": "chángguī kēxué",
+    "m": "khoa học thông thường (normal science)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "研究纲领",
+    "p": "yánjiū gānglǐng",
+    "m": "chương trình nghiên cứu (research programme — Lakatos)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "保护带",
+    "p": "bǎohùdài",
+    "m": "vành đai bảo vệ (protective belt — Lakatos)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "强纲领",
+    "p": "qiáng gānglǐng",
+    "m": "chương trình mạnh (strong programme — xã hội học khoa học)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "科学社会学",
+    "p": "kēxué shèhuìxué",
+    "m": "xã hội học khoa học",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "科学技术研究",
+    "p": "kēxué jìshù yánjiū",
+    "m": "nghiên cứu khoa học và công nghệ (STS)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "行动者网络理论",
+    "p": "xíngdòng zhě wǎngluò lǐlùn",
+    "m": "lý thuyết mạng lưới tác nhân (ANT — Latour)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "物质能动性",
+    "p": "wùzhì néngdòngxìng",
+    "m": "tính năng động của vật chất",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "社会建构主义",
+    "p": "shèhuì jiàngòu zhǔyì",
+    "m": "chủ nghĩa kiến tạo xã hội",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "实在论",
+    "p": "shízài lùn",
+    "m": "chủ nghĩa thực tại (realism)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "反实在论",
+    "p": "fǎn shízài lùn",
+    "m": "chủ nghĩa phản thực tại (anti-realism)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "工具主义",
+    "p": "gōngjù zhǔyì",
+    "m": "chủ nghĩa công cụ (instrumentalism)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "实用主义",
+    "p": "shíyòng zhǔyì",
+    "m": "chủ nghĩa thực dụng (pragmatism)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语用学",
+    "p": "yǔyòngxué",
+    "m": "ngữ dụng học (pragmatics)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "会话含义",
+    "p": "huìhuà hányì",
+    "m": "hàm ngôn hội thoại (conversational implicature — Grice)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "合作原则",
+    "p": "hézuò yuánzé",
+    "m": "nguyên tắc hợp tác (cooperative principle — Grice)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "言语行为",
+    "p": "yányǔ xíngwéi",
+    "m": "hành vi ngôn ngữ (speech act — Austin)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "施事行为",
+    "p": "shīshì xíngwéi",
+    "m": "hành vi tại lời (illocutionary act)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "取效行为",
+    "p": "qǔxiào xíngwéi",
+    "m": "hành vi xuyên lời (perlocutionary act)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "认知语言学",
+    "p": "rènzhī yǔyánxué",
+    "m": "ngôn ngữ học nhận thức",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "概念隐喻",
+    "p": "gàiniàn yǐnyù",
+    "m": "ẩn dụ khái niệm (conceptual metaphor — Lakoff)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "具身认知",
+    "p": "jùshēn rènzhī",
+    "m": "nhận thức thể hiện (embodied cognition)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语言相对论",
+    "p": "yǔyán xiāngduì lùn",
+    "m": "thuyết tương đối ngôn ngữ (Sapir-Whorf)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语言决定论",
+    "p": "yǔyán juédìng lùn",
+    "m": "thuyết quyết định luận ngôn ngữ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "普遍语法",
+    "p": "pǔbiàn yǔfǎ",
+    "m": "ngữ pháp phổ quát (universal grammar — Chomsky)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语言习得机制",
+    "p": "yǔyán xídé jīzhì",
+    "m": "cơ chế tiếp thu ngôn ngữ (LAD)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "生成转换语法",
+    "p": "shēngchéng zhuǎnhuàn yǔfǎ",
+    "m": "ngữ pháp tạo sinh biến đổi",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "深层结构",
+    "p": "shēncéng jiégòu",
+    "m": "cấu trúc sâu (deep structure)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "表层结构",
+    "p": "biǎocéng jiégòu",
+    "m": "cấu trúc bề mặt (surface structure)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "最简方案",
+    "p": "zuì jiǎn fāng'àn",
+    "m": "chương trình tối giản (Minimalist Program — Chomsky)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "历史比较语言学",
+    "p": "lìshǐ bǐjiào yǔyánxué",
+    "m": "ngôn ngữ học lịch sử so sánh",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语言演化",
+    "p": "yǔyán yǎnhuà",
+    "m": "tiến hóa ngôn ngữ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语言接触",
+    "p": "yǔyán jiēchù",
+    "m": "tiếp xúc ngôn ngữ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "克里奥尔化",
+    "p": "kè lǐ ào ěr huà",
+    "m": "creole hóa (creolization)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语言死亡",
+    "p": "yǔyán sǐwáng",
+    "m": "sự tuyệt chủng ngôn ngữ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语言复兴",
+    "p": "yǔyán fùxīng",
+    "m": "phục hưng ngôn ngữ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语言规划",
+    "p": "yǔyán guīhuà",
+    "m": "quy hoạch ngôn ngữ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语言政策",
+    "p": "yǔyán zhèngcè",
+    "m": "chính sách ngôn ngữ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "多语主义",
+    "p": "duō yǔ zhǔyì",
+    "m": "chủ nghĩa đa ngữ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语言身份",
+    "p": "yǔyán shēnfèn",
+    "m": "bản sắc ngôn ngữ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语码转换",
+    "p": "yǔmǎ zhuǎnhuàn",
+    "m": "chuyển mã ngôn ngữ (code-switching)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "双言现象",
+    "p": "shuāng yán xiànxiàng",
+    "m": "hiện tượng song ngữ (diglossia)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "语言帝国主义",
+    "p": "yǔyán dìguó zhǔyì",
+    "m": "chủ nghĩa đế quốc ngôn ngữ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "英语霸权",
+    "p": "yīngyǔ bàquán",
+    "m": "bá quyền tiếng Anh",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "世界语言格局",
+    "p": "shìjiè yǔyán géjú",
+    "m": "cục diện ngôn ngữ thế giới",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "汉语国际传播",
+    "p": "hànyǔ guójì chuánbō",
+    "m": "lan truyền tiếng Hán quốc tế",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "汉字文化圈",
+    "p": "hànzì wénhuà quān",
+    "m": "vòng văn hóa chữ Hán",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "汉学研究",
+    "p": "hànxué yánjiū",
+    "m": "nghiên cứu Hán học (Sinology)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "东亚文明圈",
+    "p": "dōng yà wénmíng quān",
+    "m": "vòng văn minh Đông Á",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "儒家文化圈",
+    "p": "rújiā wénhuà quān",
+    "m": "vòng văn hóa Nho giáo",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "文化软实力",
+    "p": "wénhuà ruǎn shílì",
+    "m": "sức mạnh mềm văn hóa",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "文明对话",
+    "p": "wénmíng duìhuà",
+    "m": "đối thoại văn minh",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "跨文化传播",
+    "p": "kuà wénhuà chuánbō",
+    "m": "truyền thông liên văn hóa",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "文化认同危机",
+    "p": "wénhuà rèntóng wēijī",
+    "m": "khủng hoảng bản sắc văn hóa",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "文化保存",
+    "p": "wénhuà bǎocún",
+    "m": "bảo tồn văn hóa",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "非物质文化遗产",
+    "p": "fēi wùzhì wénhuà yíchǎn",
+    "m": "di sản văn hóa phi vật thể",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "记忆的场所",
+    "p": "jìyì de chǎngsuǒ",
+    "m": "nơi chốn ký ức (lieux de mémoire — Nora)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "文化传承",
+    "p": "wénhuà chuánchéng",
+    "m": "kế thừa văn hóa",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "传统的发明",
+    "p": "chuántǒng de fāmíng",
+    "m": "phát minh truyền thống (invention of tradition — Hobsbawm)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "文化本真性",
+    "p": "wénhuà běnzhēnxìng",
+    "m": "tính xác thực văn hóa (cultural authenticity)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "文化杂交",
+    "p": "wénhuà zájiāo",
+    "m": "lai ghép văn hóa (cultural hybridity)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "混杂性",
+    "p": "hùnzáxìng",
+    "m": "tính lai (hybridity — Bhabha)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "第三空间",
+    "p": "dì sān kōngjiān",
+    "m": "không gian thứ ba (third space — Bhabha)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "协商文化",
+    "p": "xiéshāng wénhuà",
+    "m": "văn hóa hiệp thương",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "离散族群",
+    "p": "lísàn zúqún",
+    "m": "cộng đồng di tản (diaspora)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "飞地文化",
+    "p": "fēidì wénhuà",
+    "m": "văn hóa phi địa (enclave culture)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "移民文学",
+    "p": "yímín wénxué",
+    "m": "văn học di dân",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "流亡文学",
+    "p": "liúwáng wénxué",
+    "m": "văn học lưu vong",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "边界文学",
+    "p": "biānjìng wénxué",
+    "m": "văn học biên giới (border literature)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "比较文学",
+    "p": "bǐjiào wénxué",
+    "m": "văn học so sánh (comparative literature)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "世界文学",
+    "p": "shìjiè wénxué",
+    "m": "văn học thế giới (world literature — Goethe/Moretti)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "文学翻译",
+    "p": "wénxué fānyì",
+    "m": "dịch thuật văn học",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "翻译忠实性",
+    "p": "fānyì zhōngshíxìng",
+    "m": "tính trung thực dịch thuật",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "归化异化",
+    "p": "guīhuà yìhuà",
+    "m": "thuần hóa và xa lạ hóa trong dịch thuật",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "等效翻译",
+    "p": "děngxiào fānyì",
+    "m": "dịch thuật tương đương (equivalence in translation)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "翻译伦理",
+    "p": "fānyì lúnlǐ",
+    "m": "đạo đức dịch thuật",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "翻译政治",
+    "p": "fānyì zhèngzhì",
+    "m": "chính trị dịch thuật",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "意识形态翻译",
+    "p": "yìshí xíngtài fānyì",
+    "m": "dịch thuật ý thức hệ",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "操控学派",
+    "p": "cāokòng xuépài",
+    "m": "trường phái thao túng (manipulation school) trong dịch thuật",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "改写理论",
+    "p": "gǎixiě lǐlùn",
+    "m": "lý thuyết viết lại (rewriting theory — Lefevere)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "诗学规范",
+    "p": "shīxué guīfàn",
+    "m": "chuẩn mực thi học",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "翻译研究",
+    "p": "fānyì yánjiū",
+    "m": "nghiên cứu dịch thuật (translation studies)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "后翻译",
+    "p": "hòu fānyì",
+    "m": "hậu dịch thuật (post-translation)",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "文化传播",
+    "p": "wénhuà chuánbō",
+    "m": "truyền bá văn hóa",
+    "cat": "classical_prose"
+  },
+  {
+    "w": "跨媒介叙事",
+    "p": "kuà méijiè xùshì",
+    "m": "tự sự xuyên phương tiện (transmedia storytelling)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "改编研究",
+    "p": "gǎibiān yánjiū",
+    "m": "nghiên cứu chuyển thể (adaptation studies)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "电影叙事",
+    "p": "diànyǐng xùshì",
+    "m": "tự sự điện ảnh",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "视觉叙事",
+    "p": "shìjué xùshì",
+    "m": "tự sự thị giác",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "游戏叙事",
+    "p": "yóuxì xùshì",
+    "m": "tự sự trò chơi (game narrative)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "互动叙事",
+    "p": "hùdòng xùshì",
+    "m": "tự sự tương tác",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "超文本叙事",
+    "p": "chāo wénběn xùshì",
+    "m": "tự sự siêu văn bản",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "数字叙事",
+    "p": "shùzì xùshì",
+    "m": "tự sự kỹ thuật số",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "人工智能写作",
+    "p": "réngōng zhìnéng xiězuò",
+    "m": "viết bằng AI (AI writing)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "算法创意",
+    "p": "suànfǎ chuàngyì",
+    "m": "sáng tạo thuật toán (algorithmic creativity)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "共创写作",
+    "p": "gòng chuàng xiězuò",
+    "m": "đồng sáng tác (co-authorship)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "众包叙事",
+    "p": "zhòngbāo xùshì",
+    "m": "tự sự crowdsourced",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "粉丝创作",
+    "p": "fěnsī chuàngzuò",
+    "m": "sáng tác fan fiction",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "二次创作",
+    "p": "èrcì chuàngzuò",
+    "m": "sáng tác thứ cấp (derivative work)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "版权与原创",
+    "p": "bǎnquán yǔ yuánchuàng",
+    "m": "bản quyền và nguyên tác",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "创意产业",
+    "p": "chuàngyì chǎnyè",
+    "m": "ngành công nghiệp sáng tạo",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文化生产",
+    "p": "wénhuà shēngchǎn",
+    "m": "sản xuất văn hóa",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文化消费",
+    "p": "wénhuà xiāofèi",
+    "m": "tiêu dùng văn hóa",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "大众文化",
+    "p": "dàzhòng wénhuà",
+    "m": "văn hóa đại chúng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "高雅文化",
+    "p": "gāoyǎ wénhuà",
+    "m": "văn hóa cao nhã",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文化阶层",
+    "p": "wénhuà jiēcéng",
+    "m": "phân tầng văn hóa",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "亚文化",
+    "p": "yà wénhuà",
+    "m": "tiểu văn hóa (subculture)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "反文化",
+    "p": "fǎn wénhuà",
+    "m": "phản văn hóa (counterculture)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "流行文化研究",
+    "p": "liúxíng wénhuà yánjiū",
+    "m": "nghiên cứu văn hóa đại chúng (cultural studies)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "文化工业",
+    "p": "wénhuà gōngyè",
+    "m": "công nghiệp văn hóa (culture industry — Adorno)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "商品化",
+    "p": "shāngpǐnhuà",
+    "m": "hàng hóa hóa (commodification)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "审美异化",
+    "p": "shěnměi yìhuà",
+    "m": "tha hóa thẩm mỹ",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "娱乐化",
+    "p": "yúlèhuà",
+    "m": "giải trí hóa",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "奇观社会",
+    "p": "qíguān shèhuì",
+    "m": "xã hội diễn cảnh (society of spectacle — Debord)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "拟像",
+    "p": "nǐxiàng",
+    "m": "mô phỏng giả (simulacrum — Baudrillard)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "超真实",
+    "p": "chāo zhēnshí",
+    "m": "siêu thực (hyperreality — Baudrillard)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "内爆",
+    "p": "nèibào",
+    "m": "nội bùng nổ (implosion — Baudrillard)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "符号消费",
+    "p": "fúhào xiāofèi",
+    "m": "tiêu dùng ký hiệu",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "后工业社会",
+    "p": "hòu gōngyè shèhuì",
+    "m": "xã hội hậu công nghiệp",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "知识经济",
+    "p": "zhīshì jīngjì",
+    "m": "kinh tế tri thức",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "创意经济",
+    "p": "chuàngyì jīngjì",
+    "m": "kinh tế sáng tạo",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "体验经济",
+    "p": "tǐyàn jīngjì",
+    "m": "kinh tế trải nghiệm",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "注意力经济",
+    "p": "zhùyìlì jīngjì",
+    "m": "kinh tế chú ý (attention economy)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "流量变现",
+    "p": "liúliàng biànxiàn",
+    "m": "kiếm tiền từ lưu lượng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "网红文化",
+    "p": "wǎnghóng wénhuà",
+    "m": "văn hóa người nổi tiếng mạng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "自媒体",
+    "p": "zì méitǐ",
+    "m": "tự truyền thông (self-media)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "内容创作者",
+    "p": "nèiróng chuàngzuò zhě",
+    "m": "người sáng tạo nội dung (content creator)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "算法分发",
+    "p": "suànfǎ fēnfā",
+    "m": "phân phối bằng thuật toán",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "平台权力",
+    "p": "píngtái quánlì",
+    "m": "quyền lực nền tảng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "数字劳动",
+    "p": "shùzì láodòng",
+    "m": "lao động kỹ thuật số",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "数字资本主义",
+    "p": "shùzì zīběn zhǔyì",
+    "m": "chủ nghĩa tư bản kỹ thuật số",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "技术奇点",
+    "p": "jìshù qídian",
+    "m": "kỳ điểm công nghệ (technological singularity)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "超人类主义",
+    "p": "chāo rénlèi zhǔyì",
+    "m": "chủ nghĩa siêu nhân (transhumanism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "人机融合",
+    "p": "rén jī rónghé",
+    "m": "hợp nhất người-máy (human-machine integration)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "赛博格",
+    "p": "sàibógé",
+    "m": "cyborg — người máy lai",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "机器人伦理",
+    "p": "jīqìrén lúnlǐ",
+    "m": "đạo đức robot (robot ethics)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "存在风险",
+    "p": "cúnzài fēngxiǎn",
+    "m": "rủi ro hiện hữu (existential risk)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "末世文学",
+    "p": "mòshì wénxué",
+    "m": "văn học ngày tận thế (apocalyptic literature)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "后人类文学",
+    "p": "hòu rénlèi wénxué",
+    "m": "văn học hậu nhân loại",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "克隆伦理",
+    "p": "kèlóng lúnlǐ",
+    "m": "đạo đức nhân bản",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "科幻预见",
+    "p": "kēhuàn yùjiàn",
+    "m": "viễn tưởng khoa học có tầm nhìn",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "技术批评",
+    "p": "jìshù pīpíng",
+    "m": "phê bình công nghệ (technology criticism)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "乌托邦技术",
+    "p": "wūtuōbāng jìshù",
+    "m": "công nghệ không tưởng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "反乌托邦技术",
+    "p": "fǎn wūtuōbāng jìshù",
+    "m": "công nghệ phản không tưởng",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "人类世",
+    "p": "rénlèi shì",
+    "m": "thế Nhân Loại (Anthropocene)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "气候文学",
+    "p": "qìhòu wénxué",
+    "m": "văn học khí hậu (climate fiction / cli-fi)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "生态文学",
+    "p": "shēngtài wénxué",
+    "m": "văn học sinh thái",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "荒野写作",
+    "p": "huāngyě xiězuò",
+    "m": "văn chương hoang dã (nature writing)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "物质生态诗学",
+    "p": "wùzhì shēngtài shīxué",
+    "m": "thi học sinh thái vật chất",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "气候叙事",
+    "p": "qìhòu xùshì",
+    "m": "tự sự khí hậu",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "深生态学",
+    "p": "shēn shēngtàixué",
+    "m": "sinh thái học sâu (deep ecology)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "去人类中心主义",
+    "p": "qù rénlèi zhōngxīn zhǔyì",
+    "m": "phi nhân loại trung tâm chủ nghĩa",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "物种平等",
+    "p": "wùzhǒng píngděng",
+    "m": "bình đẳng loài",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "动物研究",
+    "p": "dòngwù yánjiū",
+    "m": "nghiên cứu động vật (animal studies)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "植物研究",
+    "p": "zhíwù yánjiū",
+    "m": "nghiên cứu thực vật (plant studies)",
+    "cat": "literary_creation"
+  },
+  {
+    "w": "多物种纠缠",
+    "p": "duō wùzhǒng jiūchán",
+    "m": "vướng víu đa loài (multispecies entanglement)",
+    "cat": "literary_creation"
+  }
+]

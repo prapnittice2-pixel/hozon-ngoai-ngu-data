@@ -1,0 +1,2402 @@
+[
+  {
+    "w": "epistemology",
+    "p": "",
+    "m": "nhận thức luận, lý thuyết về tri thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "phenomenology",
+    "p": "",
+    "m": "hiện tượng luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "hermeneutics",
+    "p": "",
+    "m": "khoa học giải thích văn bản",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dialectic",
+    "p": "",
+    "m": "biện chứng pháp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ontology",
+    "p": "",
+    "m": "bản thể luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "semiotics",
+    "p": "",
+    "m": "ký hiệu học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "pragmatics",
+    "p": "",
+    "m": "dụng học ngôn ngữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "discourse analysis",
+    "p": "",
+    "m": "phân tích diễn ngôn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "poststructuralism",
+    "p": "",
+    "m": "chủ nghĩa hậu cấu trúc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "deconstruction",
+    "p": "",
+    "m": "giải cấu trúc, phân tích phê bình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "hegemony",
+    "p": "",
+    "m": "quyền bá chủ, bá quyền",
+    "cat": "chính trị"
+  },
+  {
+    "w": "ideology",
+    "p": "",
+    "m": "hệ tư tưởng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "reification",
+    "p": "",
+    "m": "vật hóa, biến khái niệm thành vật thể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "alienation",
+    "p": "",
+    "m": "sự tha hóa",
+    "cat": "xã hội"
+  },
+  {
+    "w": "subjectivity",
+    "p": "",
+    "m": "tính chủ quan, chủ thể tính",
+    "cat": "học thuật"
+  },
+  {
+    "w": "intersubjectivity",
+    "p": "",
+    "m": "tính liên chủ thể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "solipsism",
+    "p": "",
+    "m": "chủ nghĩa duy ngã",
+    "cat": "học thuật"
+  },
+  {
+    "w": "empiricism",
+    "p": "",
+    "m": "chủ nghĩa kinh nghiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "rationalism",
+    "p": "",
+    "m": "chủ nghĩa duy lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "determinism",
+    "p": "",
+    "m": "thuyết tất định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "existentialism",
+    "p": "",
+    "m": "chủ nghĩa hiện sinh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "nihilism",
+    "p": "",
+    "m": "chủ nghĩa hư vô",
+    "cat": "học thuật"
+  },
+  {
+    "w": "utilitarianism",
+    "p": "",
+    "m": "chủ nghĩa công lợi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "deontology",
+    "p": "",
+    "m": "đạo đức học nghĩa vụ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "consequentialism",
+    "p": "",
+    "m": "thuyết hệ quả trong đạo đức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "teleology",
+    "p": "",
+    "m": "mục đích luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "metaphysics",
+    "p": "",
+    "m": "siêu hình học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "axiology",
+    "p": "",
+    "m": "giá trị học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "aesthetics",
+    "p": "",
+    "m": "mỹ học",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "transcendence",
+    "p": "",
+    "m": "sự siêu việt, vượt ra ngoài",
+    "cat": "học thuật"
+  },
+  {
+    "w": "immanence",
+    "p": "",
+    "m": "sự nội tại, hiện hữu trong",
+    "cat": "học thuật"
+  },
+  {
+    "w": "aporia",
+    "p": "",
+    "m": "nghịch lý, bế tắc luận lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "tautology",
+    "p": "",
+    "m": "sự lặp nghĩa, đồng nghĩa trùng lặp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "syllogism",
+    "p": "",
+    "m": "tam đoạn luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "induction",
+    "p": "",
+    "m": "phép quy nạp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "deduction",
+    "p": "",
+    "m": "phép diễn dịch",
+    "cat": "học thuật"
+  },
+  {
+    "w": "abduction",
+    "p": "",
+    "m": "suy luận giả thuyết tốt nhất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "fallacy",
+    "p": "",
+    "m": "ngụy biện, lỗi lý luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "paradigm",
+    "p": "",
+    "m": "mô thức, khuôn mẫu tư duy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "zeitgeist",
+    "p": "",
+    "m": "tinh thần thời đại",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "weltanschauung",
+    "p": "",
+    "m": "thế giới quan",
+    "cat": "học thuật"
+  },
+  {
+    "w": "gestalt",
+    "p": "",
+    "m": "cấu hình tổng thể, hình dạng tổng thể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "leitmotif",
+    "p": "",
+    "m": "chủ đề âm nhạc lặp lại, mô-típ chủ đạo",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "verisimilitude",
+    "p": "",
+    "m": "vẻ giống thật, tính chân thực",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "mimesis",
+    "p": "",
+    "m": "sự mô phỏng, bắt chước thực tại",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "catharsis",
+    "p": "",
+    "m": "sự thanh lọc cảm xúc",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "pathos",
+    "p": "",
+    "m": "sức gợi cảm xúc bi thương",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "ethos",
+    "p": "",
+    "m": "phong cách đạo đức, tính cách",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "logos",
+    "p": "",
+    "m": "lý lẽ, logic lập luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "rhetoric",
+    "p": "",
+    "m": "nghệ thuật hùng biện, tu từ học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "trope",
+    "p": "",
+    "m": "biện pháp tu từ, hình ảnh ẩn dụ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "allegory",
+    "p": "",
+    "m": "ẩn dụ kéo dài, phúng dụ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "metonymy",
+    "p": "",
+    "m": "hoán dụ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "synecdoche",
+    "p": "",
+    "m": "đề dụ, dùng bộ phận thay toàn thể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "anaphora",
+    "p": "",
+    "m": "điệp đầu, lặp từ đầu câu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "chiasmus",
+    "p": "",
+    "m": "đảo ngữ chéo, cấu trúc đối xứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "polysemy",
+    "p": "",
+    "m": "tính đa nghĩa của từ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "ambiguity",
+    "p": "",
+    "m": "sự mơ hồ, đa nghĩa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "euphemism",
+    "p": "",
+    "m": "uyển ngữ, cách nói giảm nhẹ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dysphemism",
+    "p": "",
+    "m": "cách nói thô tục cố ý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "neologism",
+    "p": "",
+    "m": "từ mới được tạo ra",
+    "cat": "học thuật"
+  },
+  {
+    "w": "portmanteau word",
+    "p": "",
+    "m": "từ ghép lai từ hai từ khác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "morphology",
+    "p": "",
+    "m": "hình thái học ngôn ngữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "phonology",
+    "p": "",
+    "m": "âm vị học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "syntax",
+    "p": "",
+    "m": "cú pháp học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "semantics",
+    "p": "",
+    "m": "nghĩa học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "lexicology",
+    "p": "",
+    "m": "từ vựng học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "etymology",
+    "p": "",
+    "m": "từ nguyên học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cognition",
+    "p": "",
+    "m": "nhận thức, quá trình tư duy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "metacognition",
+    "p": "",
+    "m": "siêu nhận thức, tư duy về tư duy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "heuristic",
+    "p": "",
+    "m": "phương pháp tìm tòi, kinh nghiệm tắt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "schema",
+    "p": "",
+    "m": "cấu trúc nhận thức, sơ đồ tư duy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "prototype",
+    "p": "",
+    "m": "nguyên mẫu, mẫu điển hình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "affordance",
+    "p": "",
+    "m": "khả năng sử dụng mà môi trường cung cấp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "embodied cognition",
+    "p": "",
+    "m": "nhận thức thân thể, tư duy gắn với cơ thể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "situated learning",
+    "p": "",
+    "m": "học tập theo bối cảnh",
+    "cat": "học tập"
+  },
+  {
+    "w": "scaffolding",
+    "p": "",
+    "m": "giàn giáo nhận thức, hỗ trợ học tập",
+    "cat": "học tập"
+  },
+  {
+    "w": "zone of proximal development",
+    "p": "",
+    "m": "vùng phát triển gần nhất",
+    "cat": "học tập"
+  },
+  {
+    "w": "cognitive dissonance",
+    "p": "",
+    "m": "mâu thuẫn nhận thức",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "confirmation bias",
+    "p": "",
+    "m": "thiên kiến xác nhận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "halo effect",
+    "p": "",
+    "m": "hiệu ứng hào quang",
+    "cat": "học thuật"
+  },
+  {
+    "w": "priming",
+    "p": "",
+    "m": "hiệu ứng mồi, kích hoạt trước",
+    "cat": "học thuật"
+  },
+  {
+    "w": "framing effect",
+    "p": "",
+    "m": "hiệu ứng đóng khung",
+    "cat": "học thuật"
+  },
+  {
+    "w": "anchoring bias",
+    "p": "",
+    "m": "thiên kiến neo đậu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "availability heuristic",
+    "p": "",
+    "m": "heuristic sẵn có",
+    "cat": "học thuật"
+  },
+  {
+    "w": "counterfactual thinking",
+    "p": "",
+    "m": "tư duy phản thực tế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "theory of mind",
+    "p": "",
+    "m": "lý thuyết tâm trí, hiểu được tâm trạng người khác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "empathy",
+    "p": "",
+    "m": "sự đồng cảm, cảm thông",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "introspection",
+    "p": "",
+    "m": "sự tự quan sát nội tâm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "phenomenal consciousness",
+    "p": "",
+    "m": "ý thức hiện tượng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "qualia",
+    "p": "",
+    "m": "trải nghiệm chủ quan của ý thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "intentionality",
+    "p": "",
+    "m": "tính hướng đến, chủ ý trong triết học",
+    "cat": "học thuật"
+  },
+  {
+    "w": "reductionism",
+    "p": "",
+    "m": "chủ nghĩa hoàn nguyên, rút gọn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "holism",
+    "p": "",
+    "m": "chủ nghĩa toàn thể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "emergence",
+    "p": "",
+    "m": "tính xuất hiện, tính nổi trội",
+    "cat": "học thuật"
+  },
+  {
+    "w": "complexity theory",
+    "p": "",
+    "m": "lý thuyết phức tạp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "self-organization",
+    "p": "",
+    "m": "tự tổ chức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "entropy",
+    "p": "",
+    "m": "entropy, độ hỗn loạn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "recursion",
+    "p": "",
+    "m": "đệ quy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "iteration",
+    "p": "",
+    "m": "lặp lại, vòng lặp",
+    "cat": "hành động"
+  },
+  {
+    "w": "intertextuality",
+    "p": "",
+    "m": "tính liên văn bản",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "palimpsest",
+    "p": "",
+    "m": "bản thảo viết lại chồng lên, lớp nghĩa ẩn",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "pastiche",
+    "p": "",
+    "m": "tác phẩm mô phỏng phong cách nghệ thuật",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "parody",
+    "p": "",
+    "m": "tác phẩm nhại lại, phóng tác hài hước",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "satire",
+    "p": "",
+    "m": "châm biếm, trào phúng",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "irony",
+    "p": "",
+    "m": "sự mỉa mai, nghịch lý ngôn ngữ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "sarcasm",
+    "p": "",
+    "m": "mỉa mai cay độc",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "hyperbole",
+    "p": "",
+    "m": "phép cường điệu, nói quá",
+    "cat": "học thuật"
+  },
+  {
+    "w": "litotes",
+    "p": "",
+    "m": "phép nói ngầm, phủ định nhẹ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "understatement",
+    "p": "",
+    "m": "nói giảm, diễn đạt nhẹ hơn thực tế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "epiphany",
+    "p": "",
+    "m": "khoảnh khắc bừng sáng nhận thức",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "denouement",
+    "p": "",
+    "m": "đoạn kết giải quyết xung đột",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "diegesis",
+    "p": "",
+    "m": "thế giới truyện kể, không gian tự sự",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "narrative arc",
+    "p": "",
+    "m": "cung bậc tự sự, cấu trúc câu chuyện",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "unreliable narrator",
+    "p": "",
+    "m": "người kể chuyện không đáng tin",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "stream of consciousness",
+    "p": "",
+    "m": "dòng ý thức",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "polyphony",
+    "p": "",
+    "m": "đa thanh, nhiều giọng kể",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "bricolage",
+    "p": "",
+    "m": "lắp ghép sáng tạo từ nhiều nguồn",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "postmodernism",
+    "p": "",
+    "m": "chủ nghĩa hậu hiện đại",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "modernism",
+    "p": "",
+    "m": "chủ nghĩa hiện đại",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "avant-garde",
+    "p": "",
+    "m": "tiên phong, cách tân nghệ thuật",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "kitsch",
+    "p": "",
+    "m": "nghệ thuật rẻ tiền, tầm thường",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "sublimation",
+    "p": "",
+    "m": "thăng hoa, chuyển hóa xung năng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "abjection",
+    "p": "",
+    "m": "trạng thái bị gạt ra lề, kinh tởm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "uncanny",
+    "p": "",
+    "m": "kỳ dị quen thuộc, gây lo ngại",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "sublime",
+    "p": "",
+    "m": "cảm giác siêu việt hùng vĩ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "grotesque",
+    "p": "",
+    "m": "kỳ quái, quái dị",
+    "cat": "tính từ"
+  },
+  {
+    "w": "liminal",
+    "p": "",
+    "m": "thuộc ngưỡng cửa, trạng thái chuyển tiếp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "transgressive",
+    "p": "",
+    "m": "phá vỡ quy tắc, vượt ranh giới",
+    "cat": "tính từ"
+  },
+  {
+    "w": "subversive",
+    "p": "",
+    "m": "mang tính lật đổ, phá hoại trật tự",
+    "cat": "tính từ"
+  },
+  {
+    "w": "hegemonic",
+    "p": "",
+    "m": "mang tính bá quyền",
+    "cat": "tính từ"
+  },
+  {
+    "w": "patriarchal",
+    "p": "",
+    "m": "theo chế độ phụ hệ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "matriarchal",
+    "p": "",
+    "m": "theo chế độ mẫu hệ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "intersectionality",
+    "p": "",
+    "m": "tính giao thoa của các chiều bất bình đẳng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "positionality",
+    "p": "",
+    "m": "vị thế xã hội ảnh hưởng đến nhận thức",
+    "cat": "xã hội"
+  },
+  {
+    "w": "othering",
+    "p": "",
+    "m": "quá trình biến ai đó thành người ngoài",
+    "cat": "xã hội"
+  },
+  {
+    "w": "marginalization",
+    "p": "",
+    "m": "sự đẩy ra bên lề xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "disenfranchisement",
+    "p": "",
+    "m": "tước đoạt quyền công dân",
+    "cat": "chính trị"
+  },
+  {
+    "w": "emancipation",
+    "p": "",
+    "m": "giải phóng khỏi sự ràng buộc",
+    "cat": "xã hội"
+  },
+  {
+    "w": "conscientization",
+    "p": "",
+    "m": "ý thức hóa phê phán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "praxis",
+    "p": "",
+    "m": "thực hành phản ánh lý thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dialectical materialism",
+    "p": "",
+    "m": "chủ nghĩa duy vật biện chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "superstructure",
+    "p": "",
+    "m": "kiến trúc thượng tầng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "base",
+    "p": "",
+    "m": "cơ sở hạ tầng kinh tế",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "false consciousness",
+    "p": "",
+    "m": "ý thức giả, ý thức bị thao túng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "simulacrum",
+    "p": "",
+    "m": "bản sao không có nguyên bản",
+    "cat": "học thuật"
+  },
+  {
+    "w": "hyperreality",
+    "p": "",
+    "m": "siêu thực tại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "spectacle",
+    "p": "",
+    "m": "xã hội trình diễn, quang cảnh",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "commodification",
+    "p": "",
+    "m": "thương mại hóa, hàng hóa hóa",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "fetishism",
+    "p": "",
+    "m": "sùng bái vật phẩm, tôn vật giáo",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "nostalgia",
+    "p": "",
+    "m": "nỗi hoài niệm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "utopia",
+    "p": "",
+    "m": "xã hội lý tưởng, không tưởng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "dystopia",
+    "p": "",
+    "m": "xã hội phản không tưởng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "heterotopia",
+    "p": "",
+    "m": "không gian khác biệt, đối lập không gian chính",
+    "cat": "học thuật"
+  },
+  {
+    "w": "chronotope",
+    "p": "",
+    "m": "thời-không gian trong văn học",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "defamiliarization",
+    "p": "",
+    "m": "lạ hóa, làm mới cách nhìn",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "estrangement",
+    "p": "",
+    "m": "sự xa lạ hóa",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "ambivalence",
+    "p": "",
+    "m": "tính lưỡng lự, mâu thuẫn cảm xúc",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "apathy",
+    "p": "",
+    "m": "sự thờ ơ, vô cảm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "ennui",
+    "p": "",
+    "m": "chán chường, buồn tẻ sâu xa",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "angst",
+    "p": "",
+    "m": "lo âu hiện sinh",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "weltschmerz",
+    "p": "",
+    "m": "nỗi đau trước thực tại thế giới",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "schadenfreude",
+    "p": "",
+    "m": "vui mừng trước nỗi đau của người khác",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "sycophancy",
+    "p": "",
+    "m": "sự nịnh hót, xu nịnh",
+    "cat": "hành động"
+  },
+  {
+    "w": "obsequious",
+    "p": "",
+    "m": "quá nịnh bợ, hèn mọn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "pedantic",
+    "p": "",
+    "m": "hay cầu kỳ về học thuật, sách vở",
+    "cat": "tính từ"
+  },
+  {
+    "w": "didactic",
+    "p": "",
+    "m": "mang tính giảng dạy, huấn giáo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "laconic",
+    "p": "",
+    "m": "ngắn gọn súc tích",
+    "cat": "tính từ"
+  },
+  {
+    "w": "verbose",
+    "p": "",
+    "m": "dài dòng, nhiều lời",
+    "cat": "tính từ"
+  },
+  {
+    "w": "elliptical",
+    "p": "",
+    "m": "mang tính súc tích, bỏ bớt từ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "allusive",
+    "p": "",
+    "m": "hay ám chỉ, gợi ý ngầm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "elusive",
+    "p": "",
+    "m": "khó nắm bắt, khó định nghĩa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ineffable",
+    "p": "",
+    "m": "không thể diễn đạt bằng lời",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inchoate",
+    "p": "",
+    "m": "chưa hình thành rõ ràng, phôi thai",
+    "cat": "tính từ"
+  },
+  {
+    "w": "nascent",
+    "p": "",
+    "m": "mới hình thành, đang phát triển",
+    "cat": "tính từ"
+  },
+  {
+    "w": "vestigial",
+    "p": "",
+    "m": "còn lại dấu vết, thoái hóa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "atavistic",
+    "p": "",
+    "m": "mang tính tổ tiên, hoàn nguyên",
+    "cat": "tính từ"
+  },
+  {
+    "w": "anachronistic",
+    "p": "",
+    "m": "lỗi thời, không hợp thời đại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "contemporaneous",
+    "p": "",
+    "m": "cùng thời đại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "synchronic",
+    "p": "",
+    "m": "đồng đại, xét tại một thời điểm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "diachronic",
+    "p": "",
+    "m": "lịch đại, xét qua thời gian",
+    "cat": "tính từ"
+  },
+  {
+    "w": "synchrony",
+    "p": "",
+    "m": "sự đồng đại, cùng một thời điểm",
+    "cat": "thời gian"
+  },
+  {
+    "w": "diachrony",
+    "p": "",
+    "m": "sự lịch đại, biến đổi theo thời gian",
+    "cat": "thời gian"
+  },
+  {
+    "w": "epoch",
+    "p": "",
+    "m": "kỷ nguyên, thời đại",
+    "cat": "thời gian"
+  },
+  {
+    "w": "periodization",
+    "p": "",
+    "m": "phân kỳ lịch sử",
+    "cat": "thời gian"
+  },
+  {
+    "w": "rupture",
+    "p": "",
+    "m": "sự đứt gãy, gián đoạn lịch sử",
+    "cat": "học thuật"
+  },
+  {
+    "w": "continuity",
+    "p": "",
+    "m": "sự liên tục, tính liên thông",
+    "cat": "học thuật"
+  },
+  {
+    "w": "genealogy",
+    "p": "",
+    "m": "phả hệ, nguồn gốc lịch sử của tri thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "archaeology of knowledge",
+    "p": "",
+    "m": "khảo cổ học tri thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "episteme",
+    "p": "",
+    "m": "hệ thống tri thức của một thời đại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "discursive",
+    "p": "",
+    "m": "thuộc về diễn ngôn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "non-discursive",
+    "p": "",
+    "m": "ngoài diễn ngôn, không thể nói ra",
+    "cat": "tính từ"
+  },
+  {
+    "w": "performativity",
+    "p": "",
+    "m": "tính thực hiện, diễn xuất ngôn ngữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "speech act",
+    "p": "",
+    "m": "hành động ngôn từ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "illocutionary",
+    "p": "",
+    "m": "thuộc về lực ngôn trung",
+    "cat": "học thuật"
+  },
+  {
+    "w": "perlocutionary",
+    "p": "",
+    "m": "thuộc về hiệu lực tác động",
+    "cat": "học thuật"
+  },
+  {
+    "w": "locutionary",
+    "p": "",
+    "m": "thuộc về hành vi phát ngôn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "implicature",
+    "p": "",
+    "m": "hàm ý hội thoại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "presupposition",
+    "p": "",
+    "m": "tiền giả định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "deixis",
+    "p": "",
+    "m": "chỉ tố ngữ dụng, từ chỉ ngữ cảnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "code-switching",
+    "p": "",
+    "m": "chuyển mã ngôn ngữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "diglossia",
+    "p": "",
+    "m": "song ngữ dạng đa chức năng xã hội",
+    "cat": "học thuật"
+  },
+  {
+    "w": "pidgin",
+    "p": "",
+    "m": "ngôn ngữ tiếp xúc đơn giản hóa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "creole",
+    "p": "",
+    "m": "ngôn ngữ lai bản địa hóa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "lingua franca",
+    "p": "",
+    "m": "ngôn ngữ chung giao tiếp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "vernacular",
+    "p": "",
+    "m": "ngôn ngữ địa phương, bản ngữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "register",
+    "p": "",
+    "m": "phong cách ngôn ngữ theo bối cảnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "idiolect",
+    "p": "",
+    "m": "ngôn ngữ riêng của cá nhân",
+    "cat": "học thuật"
+  },
+  {
+    "w": "sociolect",
+    "p": "",
+    "m": "ngôn ngữ nhóm xã hội",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dialect",
+    "p": "",
+    "m": "phương ngữ, thổ ngữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "acrolect",
+    "p": "",
+    "m": "biến thể ngôn ngữ cao cấp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "basilect",
+    "p": "",
+    "m": "biến thể ngôn ngữ bình dân nhất",
+    "cat": "học thuật"
+  },
+  {
+    "w": "linguistic relativity",
+    "p": "",
+    "m": "thuyết tương đối ngôn ngữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "Sapir-Whorf hypothesis",
+    "p": "",
+    "m": "giả thuyết Sapir-Whorf về ngôn ngữ và tư duy",
+    "cat": "học thuật"
+  },
+  {
+    "w": "universal grammar",
+    "p": "",
+    "m": "ngữ pháp phổ quát",
+    "cat": "học thuật"
+  },
+  {
+    "w": "language acquisition",
+    "p": "",
+    "m": "thu nhận ngôn ngữ",
+    "cat": "học tập"
+  },
+  {
+    "w": "critical period",
+    "p": "",
+    "m": "giai đoạn phát triển ngôn ngữ nhạy cảm",
+    "cat": "học tập"
+  },
+  {
+    "w": "input hypothesis",
+    "p": "",
+    "m": "giả thuyết đầu vào",
+    "cat": "học tập"
+  },
+  {
+    "w": "interlanguage",
+    "p": "",
+    "m": "hệ thống ngôn ngữ trung gian",
+    "cat": "học tập"
+  },
+  {
+    "w": "fossilization",
+    "p": "",
+    "m": "hóa thạch ngôn ngữ, lỗi cố định",
+    "cat": "học tập"
+  },
+  {
+    "w": "acculturation",
+    "p": "",
+    "m": "giao thoa văn hóa, tiếp biến văn hóa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "assimilation",
+    "p": "",
+    "m": "sự đồng hóa văn hóa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "enculturation",
+    "p": "",
+    "m": "quá trình tiếp thu văn hóa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "cultural capital",
+    "p": "",
+    "m": "vốn văn hóa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "habitus",
+    "p": "",
+    "m": "thói quen xã hội nội tâm hóa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "field",
+    "p": "",
+    "m": "trường xã hội, không gian cạnh tranh",
+    "cat": "xã hội"
+  },
+  {
+    "w": "social reproduction",
+    "p": "",
+    "m": "tái sản xuất xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "symbolic violence",
+    "p": "",
+    "m": "bạo lực biểu tượng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "doxa",
+    "p": "",
+    "m": "nhận thức ngầm không bị nghi ngờ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "liminality",
+    "p": "",
+    "m": "trạng thái ngưỡng cửa chuyển tiếp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "rite of passage",
+    "p": "",
+    "m": "nghi lễ chuyển đổi",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "ritual",
+    "p": "",
+    "m": "nghi lễ, nghi thức",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "taboo",
+    "p": "",
+    "m": "điều cấm kỵ",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "totem",
+    "p": "",
+    "m": "vật tổ",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "myth",
+    "p": "",
+    "m": "thần thoại, huyền thoại",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "archetype",
+    "p": "",
+    "m": "nguyên mẫu, cổ mẫu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "collective unconscious",
+    "p": "",
+    "m": "vô thức tập thể",
+    "cat": "học thuật"
+  },
+  {
+    "w": "anima",
+    "p": "",
+    "m": "nguyên lý nữ tính trong vô thức nam",
+    "cat": "học thuật"
+  },
+  {
+    "w": "animus",
+    "p": "",
+    "m": "nguyên lý nam tính trong vô thức nữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "persona",
+    "p": "",
+    "m": "mặt nạ xã hội, vai diễn công khai",
+    "cat": "học thuật"
+  },
+  {
+    "w": "shadow",
+    "p": "",
+    "m": "bóng tối vô thức, phần bị kìm nén",
+    "cat": "học thuật"
+  },
+  {
+    "w": "narcissism",
+    "p": "",
+    "m": "chứng tự yêu, ái kỷ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "Oedipal complex",
+    "p": "",
+    "m": "phức cảm Oedipus",
+    "cat": "học thuật"
+  },
+  {
+    "w": "projection",
+    "p": "",
+    "m": "phóng chiếu tâm lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "repression",
+    "p": "",
+    "m": "sự dồn nén tâm lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "sublimate",
+    "p": "",
+    "m": "thăng hoa năng lượng tâm lý",
+    "cat": "hành động"
+  },
+  {
+    "w": "displacement",
+    "p": "",
+    "m": "sự di chuyển cảm xúc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "rationalization",
+    "p": "",
+    "m": "sự hợp lý hóa bào chữa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "denial",
+    "p": "",
+    "m": "sự phủ nhận thực tại",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "intellectualization",
+    "p": "",
+    "m": "trí tuệ hóa để tránh cảm xúc",
+    "cat": "hành động"
+  },
+  {
+    "w": "free association",
+    "p": "",
+    "m": "liên tưởng tự do",
+    "cat": "học thuật"
+  },
+  {
+    "w": "transference",
+    "p": "",
+    "m": "sự chuyển di cảm xúc trong trị liệu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "countertransference",
+    "p": "",
+    "m": "phản chuyển di của nhà trị liệu",
+    "cat": "học thuật"
+  },
+  {
+    "w": "interlocutor",
+    "p": "",
+    "m": "người đối thoại",
+    "cat": "người"
+  },
+  {
+    "w": "protagonist",
+    "p": "",
+    "m": "nhân vật chính",
+    "cat": "người"
+  },
+  {
+    "w": "antagonist",
+    "p": "",
+    "m": "nhân vật phản diện",
+    "cat": "người"
+  },
+  {
+    "w": "foil",
+    "p": "",
+    "m": "nhân vật làm nổi bật nhân vật chính",
+    "cat": "người"
+  },
+  {
+    "w": "raconteur",
+    "p": "",
+    "m": "người kể chuyện hấp dẫn",
+    "cat": "người"
+  },
+  {
+    "w": "polyglot",
+    "p": "",
+    "m": "người nói nhiều ngôn ngữ",
+    "cat": "người"
+  },
+  {
+    "w": "autodidact",
+    "p": "",
+    "m": "người tự học",
+    "cat": "người"
+  },
+  {
+    "w": "polymath",
+    "p": "",
+    "m": "người uyên bác nhiều lĩnh vực",
+    "cat": "người"
+  },
+  {
+    "w": "savant",
+    "p": "",
+    "m": "nhà thông thái, người có tài năng đặc biệt",
+    "cat": "người"
+  },
+  {
+    "w": "luminary",
+    "p": "",
+    "m": "nhân vật nổi bật, ngôi sao",
+    "cat": "người"
+  },
+  {
+    "w": "pundit",
+    "p": "",
+    "m": "chuyên gia bình luận",
+    "cat": "người"
+  },
+  {
+    "w": "demagogue",
+    "p": "",
+    "m": "kẻ kích động dân tâm",
+    "cat": "người"
+  },
+  {
+    "w": "sophist",
+    "p": "",
+    "m": "kẻ ngụy biện",
+    "cat": "người"
+  },
+  {
+    "w": "iconoclast",
+    "p": "",
+    "m": "người phá bỏ thần tượng, cải cách",
+    "cat": "người"
+  },
+  {
+    "w": "contrarian",
+    "p": "",
+    "m": "người phản biện, hay phản đối",
+    "cat": "người"
+  },
+  {
+    "w": "dilettante",
+    "p": "",
+    "m": "người tài tử, không chuyên nghiệp",
+    "cat": "người"
+  },
+  {
+    "w": "cognoscente",
+    "p": "",
+    "m": "người sành sỏi, thưởng thức tinh tế",
+    "cat": "người"
+  },
+  {
+    "w": "peripatetic",
+    "p": "",
+    "m": "hay di chuyển, lang thang, triết học dạo bộ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "eclectic",
+    "p": "",
+    "m": "chiết trung, kết hợp nhiều nguồn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "esoteric",
+    "p": "",
+    "m": "bí truyền, chỉ ít người hiểu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "exoteric",
+    "p": "",
+    "m": "phổ quát, dành cho đại chúng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "arcane",
+    "p": "",
+    "m": "bí ẩn, huyền bí",
+    "cat": "tính từ"
+  },
+  {
+    "w": "abstruse",
+    "p": "",
+    "m": "trừu tượng khó hiểu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "recondite",
+    "p": "",
+    "m": "uyên thâm ít ai biết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "tendentious",
+    "p": "",
+    "m": "thiên kiến, có dụng ý",
+    "cat": "tính từ"
+  },
+  {
+    "w": "polemical",
+    "p": "",
+    "m": "mang tính tranh luận gay gắt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "contentious",
+    "p": "",
+    "m": "gây tranh cãi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "nuanced",
+    "p": "",
+    "m": "tinh tế nhiều sắc độ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "incisive",
+    "p": "",
+    "m": "sắc bén, thấu đáo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "trenchant",
+    "p": "",
+    "m": "sắc nét, thẳng thắn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "perspicacious",
+    "p": "",
+    "m": "sáng suốt, nhận thức sắc bén",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sagacious",
+    "p": "",
+    "m": "khôn ngoan, sáng suốt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "judicious",
+    "p": "",
+    "m": "sáng suốt, biết cân nhắc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "circumspect",
+    "p": "",
+    "m": "thận trọng, xét xét kỹ lưỡng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "equivocal",
+    "p": "",
+    "m": "mơ hồ, có thể hiểu nhiều cách",
+    "cat": "tính từ"
+  },
+  {
+    "w": "unequivocal",
+    "p": "",
+    "m": "rõ ràng không mơ hồ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "categorical",
+    "p": "",
+    "m": "dứt khoát, tuyệt đối",
+    "cat": "tính từ"
+  },
+  {
+    "w": "provisional",
+    "p": "",
+    "m": "tạm thời, chưa dứt khoát",
+    "cat": "tính từ"
+  },
+  {
+    "w": "contingent",
+    "p": "",
+    "m": "tùy thuộc, không tất yếu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "necessary",
+    "p": "",
+    "m": "tất yếu, bắt buộc phải thế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "sufficient",
+    "p": "",
+    "m": "đủ, thỏa đáng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "predicate",
+    "p": "",
+    "m": "vị ngữ, thuộc tính cơ bản",
+    "cat": "học thuật"
+  },
+  {
+    "w": "proposition",
+    "p": "",
+    "m": "mệnh đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "axiom",
+    "p": "",
+    "m": "tiên đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "postulate",
+    "p": "",
+    "m": "định đề, điều giả định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "theorem",
+    "p": "",
+    "m": "định lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "corollary",
+    "p": "",
+    "m": "hệ quả của định lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "refutation",
+    "p": "",
+    "m": "sự bác bỏ, phản bác",
+    "cat": "học thuật"
+  },
+  {
+    "w": "falsification",
+    "p": "",
+    "m": "sự bác bỏ bằng thực nghiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "verificationism",
+    "p": "",
+    "m": "thuyết kiểm chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "coherentism",
+    "p": "",
+    "m": "thuyết nhất quán trong tri thức luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "foundationalism",
+    "p": "",
+    "m": "thuyết nền tảng trong tri thức luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "perspectivism",
+    "p": "",
+    "m": "chủ nghĩa quan điểm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "relativism",
+    "p": "",
+    "m": "chủ nghĩa tương đối",
+    "cat": "học thuật"
+  },
+  {
+    "w": "absolutism",
+    "p": "",
+    "m": "chủ nghĩa tuyệt đối",
+    "cat": "học thuật"
+  },
+  {
+    "w": "pluralism",
+    "p": "",
+    "m": "chủ nghĩa đa nguyên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "monism",
+    "p": "",
+    "m": "chủ nghĩa nhất nguyên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dualism",
+    "p": "",
+    "m": "chủ nghĩa nhị nguyên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "panpsychism",
+    "p": "",
+    "m": "thuyết vạn vật hữu tâm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "physicalism",
+    "p": "",
+    "m": "chủ nghĩa vật lý về tâm trí",
+    "cat": "học thuật"
+  },
+  {
+    "w": "idealism",
+    "p": "",
+    "m": "chủ nghĩa duy tâm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "materialism",
+    "p": "",
+    "m": "chủ nghĩa duy vật",
+    "cat": "học thuật"
+  },
+  {
+    "w": "pragmatism",
+    "p": "",
+    "m": "chủ nghĩa thực dụng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "instrumentalism",
+    "p": "",
+    "m": "chủ nghĩa công cụ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "contextualism",
+    "p": "",
+    "m": "chủ nghĩa bối cảnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "structuralism",
+    "p": "",
+    "m": "chủ nghĩa cấu trúc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "functionalism",
+    "p": "",
+    "m": "chủ nghĩa chức năng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "cognitivism",
+    "p": "",
+    "m": "chủ nghĩa nhận thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "behaviorism",
+    "p": "",
+    "m": "chủ nghĩa hành vi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "constructivism",
+    "p": "",
+    "m": "chủ nghĩa kiến tạo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "narrative identity",
+    "p": "",
+    "m": "bản sắc tự sự",
+    "cat": "học thuật"
+  },
+  {
+    "w": "selfhood",
+    "p": "",
+    "m": "bản ngã, tính cá nhân",
+    "cat": "học thuật"
+  },
+  {
+    "w": "agency",
+    "p": "",
+    "m": "năng lực chủ thể hành động",
+    "cat": "học thuật"
+  },
+  {
+    "w": "autonomy",
+    "p": "",
+    "m": "quyền tự trị, tự chủ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "sovereignty",
+    "p": "",
+    "m": "chủ quyền",
+    "cat": "chính trị"
+  },
+  {
+    "w": "legitimacy",
+    "p": "",
+    "m": "tính hợp pháp, chính danh",
+    "cat": "chính trị"
+  },
+  {
+    "w": "authority",
+    "p": "",
+    "m": "quyền uy, thẩm quyền",
+    "cat": "chính trị"
+  },
+  {
+    "w": "governance",
+    "p": "",
+    "m": "quản trị, cai quản",
+    "cat": "chính trị"
+  },
+  {
+    "w": "biopolitics",
+    "p": "",
+    "m": "sinh chính trị, quản lý sự sống",
+    "cat": "chính trị"
+  },
+  {
+    "w": "biopower",
+    "p": "",
+    "m": "quyền lực sinh học",
+    "cat": "chính trị"
+  },
+  {
+    "w": "disciplinary power",
+    "p": "",
+    "m": "quyền lực kỷ luật",
+    "cat": "chính trị"
+  },
+  {
+    "w": "panopticism",
+    "p": "",
+    "m": "chế độ quan sát toàn diện",
+    "cat": "chính trị"
+  },
+  {
+    "w": "surveillance",
+    "p": "",
+    "m": "sự giám sát",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "control society",
+    "p": "",
+    "m": "xã hội kiểm soát",
+    "cat": "xã hội"
+  },
+  {
+    "w": "normalization",
+    "p": "",
+    "m": "chuẩn hóa, bình thường hóa",
+    "cat": "xã hội"
+  },
+  {
+    "w": "deviance",
+    "p": "",
+    "m": "sự lệch chuẩn",
+    "cat": "xã hội"
+  },
+  {
+    "w": "stigma",
+    "p": "",
+    "m": "nhãn hiệu xấu, sự kỳ thị",
+    "cat": "xã hội"
+  },
+  {
+    "w": "labeling theory",
+    "p": "",
+    "m": "lý thuyết dán nhãn",
+    "cat": "xã hội"
+  },
+  {
+    "w": "social constructionism",
+    "p": "",
+    "m": "chủ nghĩa kiến tạo xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "essentialism",
+    "p": "",
+    "m": "chủ nghĩa bản chất luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "anti-essentialism",
+    "p": "",
+    "m": "phản bản chất luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "nominalism",
+    "p": "",
+    "m": "chủ nghĩa duy danh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "realism",
+    "p": "",
+    "m": "chủ nghĩa thực tại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "conceptualism",
+    "p": "",
+    "m": "chủ nghĩa khái niệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "exegesis",
+    "p": "",
+    "m": "chú giải văn bản, giải thích kinh điển",
+    "cat": "học thuật"
+  },
+  {
+    "w": "eisegesis",
+    "p": "",
+    "m": "đọc ý kiến cá nhân vào văn bản",
+    "cat": "học thuật"
+  },
+  {
+    "w": "gloss",
+    "p": "",
+    "m": "chú thích, giải nghĩa từ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "annotation",
+    "p": "",
+    "m": "chú thích, ghi chú bên lề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "commentary",
+    "p": "",
+    "m": "bình luận, chú giải",
+    "cat": "học thuật"
+  },
+  {
+    "w": "critique",
+    "p": "",
+    "m": "phê bình, phân tích phê phán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "appraisal",
+    "p": "",
+    "m": "đánh giá, thẩm định",
+    "cat": "học thuật"
+  },
+  {
+    "w": "explication",
+    "p": "",
+    "m": "giải thích chi tiết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "elucidation",
+    "p": "",
+    "m": "làm sáng tỏ, giải thích rõ",
+    "cat": "hành động"
+  },
+  {
+    "w": "elucidate",
+    "p": "",
+    "m": "làm sáng tỏ, giải thích",
+    "cat": "hành động"
+  },
+  {
+    "w": "articulate",
+    "p": "",
+    "m": "diễn đạt rõ ràng",
+    "cat": "hành động"
+  },
+  {
+    "w": "explicate",
+    "p": "",
+    "m": "giải thích chi tiết",
+    "cat": "hành động"
+  },
+  {
+    "w": "expound",
+    "p": "",
+    "m": "trình bày, diễn giải",
+    "cat": "hành động"
+  },
+  {
+    "w": "elaborate",
+    "p": "",
+    "m": "triển khai, phát triển thêm",
+    "cat": "hành động"
+  },
+  {
+    "w": "qualify",
+    "p": "",
+    "m": "bổ sung điều kiện, làm rõ giới hạn",
+    "cat": "hành động"
+  },
+  {
+    "w": "nuance",
+    "p": "",
+    "m": "thêm sắc thái tinh tế",
+    "cat": "hành động"
+  },
+  {
+    "w": "interrogate",
+    "p": "",
+    "m": "chất vấn, đặt câu hỏi phê phán",
+    "cat": "hành động"
+  },
+  {
+    "w": "problematize",
+    "p": "",
+    "m": "đặt ra vấn đề, phê phán giả định",
+    "cat": "hành động"
+  },
+  {
+    "w": "theorize",
+    "p": "",
+    "m": "lý thuyết hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "hypothesize",
+    "p": "",
+    "m": "đặt giả thuyết",
+    "cat": "hành động"
+  },
+  {
+    "w": "conceptualize",
+    "p": "",
+    "m": "khái niệm hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "operationalize",
+    "p": "",
+    "m": "thao tác hóa, đưa vào thực tiễn",
+    "cat": "hành động"
+  },
+  {
+    "w": "synthesize",
+    "p": "",
+    "m": "tổng hợp",
+    "cat": "hành động"
+  },
+  {
+    "w": "juxtapose",
+    "p": "",
+    "m": "đặt cạnh nhau để so sánh",
+    "cat": "hành động"
+  },
+  {
+    "w": "extrapolate",
+    "p": "",
+    "m": "ngoại suy, suy ra từ dữ liệu",
+    "cat": "hành động"
+  },
+  {
+    "w": "interpolate",
+    "p": "",
+    "m": "nội suy, thêm vào giữa",
+    "cat": "hành động"
+  },
+  {
+    "w": "triangulate",
+    "p": "",
+    "m": "tam giác hóa, xác nhận từ nhiều nguồn",
+    "cat": "hành động"
+  },
+  {
+    "w": "deconstruct",
+    "p": "",
+    "m": "giải cấu trúc, phân tích tháo rời",
+    "cat": "hành động"
+  },
+  {
+    "w": "reify",
+    "p": "",
+    "m": "vật hóa, cụ thể hóa trừu tượng",
+    "cat": "hành động"
+  },
+  {
+    "w": "hypostatize",
+    "p": "",
+    "m": "biến khái niệm thành thực thể",
+    "cat": "hành động"
+  },
+  {
+    "w": "recontextualize",
+    "p": "",
+    "m": "tái bối cảnh hóa",
+    "cat": "hành động"
+  },
+  {
+    "w": "appropriate",
+    "p": "",
+    "m": "chiếm dụng văn hóa, lấy về làm của mình",
+    "cat": "hành động"
+  },
+  {
+    "w": "inculcate",
+    "p": "",
+    "m": "khắc sâu, nhồi nhét",
+    "cat": "hành động"
+  },
+  {
+    "w": "perpetuate",
+    "p": "",
+    "m": "duy trì mãi, làm tồn tại tiếp",
+    "cat": "hành động"
+  },
+  {
+    "w": "entrench",
+    "p": "",
+    "m": "củng cố sâu, cắm chặt",
+    "cat": "hành động"
+  },
+  {
+    "w": "interrogation",
+    "p": "",
+    "m": "sự chất vấn, tra vấn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "critique",
+    "p": "",
+    "m": "phê phán, bình luận phê phán",
+    "cat": "hành động"
+  },
+  {
+    "w": "interrogative",
+    "p": "",
+    "m": "nghi vấn, đặt câu hỏi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inquisitive",
+    "p": "",
+    "m": "hiếu kỳ, hay đặt câu hỏi",
+    "cat": "tính đặc điểm"
+  },
+  {
+    "w": "speculative",
+    "p": "",
+    "m": "mang tính suy đoán",
+    "cat": "tính từ"
+  },
+  {
+    "w": "conjecture",
+    "p": "",
+    "m": "sự phỏng đoán, giả đoán",
+    "cat": "học thuật"
+  },
+  {
+    "w": "inference",
+    "p": "",
+    "m": "sự suy luận, kết luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "implication",
+    "p": "",
+    "m": "hàm ý, sự ngụ ý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "entailment",
+    "p": "",
+    "m": "sự kéo theo trong logic",
+    "cat": "học thuật"
+  },
+  {
+    "w": "contradiction",
+    "p": "",
+    "m": "mâu thuẫn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "paradox",
+    "p": "",
+    "m": "nghịch lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "antinomy",
+    "p": "",
+    "m": "mâu thuẫn giữa hai nguyên lý",
+    "cat": "học thuật"
+  },
+  {
+    "w": "dialectical tension",
+    "p": "",
+    "m": "căng thẳng biện chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "synthesis",
+    "p": "",
+    "m": "tổng hợp, kết hợp",
+    "cat": "học thuật"
+  },
+  {
+    "w": "antithesis",
+    "p": "",
+    "m": "phản đề, đối lập",
+    "cat": "học thuật"
+  },
+  {
+    "w": "thesis",
+    "p": "",
+    "m": "luận đề",
+    "cat": "học thuật"
+  },
+  {
+    "w": "nexus",
+    "p": "",
+    "m": "mối liên kết, điểm nối",
+    "cat": "học thuật"
+  },
+  {
+    "w": "locus",
+    "p": "",
+    "m": "trung tâm, nơi tập trung",
+    "cat": "địa điểm"
+  }
+]

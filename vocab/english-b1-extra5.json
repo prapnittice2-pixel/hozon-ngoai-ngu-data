@@ -1,0 +1,4252 @@
+[
+  {
+    "w": "come across",
+    "m": "tình cờ gặp, bắt gặp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "figure out",
+    "m": "tìm ra, hiểu ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put off",
+    "m": "hoãn lại, trì hoãn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "run into",
+    "m": "tình cờ gặp; đâm vào",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get over",
+    "m": "vượt qua, hồi phục",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look forward to",
+    "m": "mong chờ, mong đợi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "break up",
+    "m": "chia tay, tan vỡ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "turn down",
+    "m": "từ chối; vặn nhỏ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "turn up",
+    "m": "xuất hiện; vặn to",
+    "cat": "phrasal"
+  },
+  {
+    "w": "turn off",
+    "m": "tắt (thiết bị)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "turn on",
+    "m": "bật (thiết bị)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "turn into",
+    "m": "biến thành",
+    "cat": "phrasal"
+  },
+  {
+    "w": "give up",
+    "m": "từ bỏ, bỏ cuộc",
+    "cat": "phrasal"
+  },
+  {
+    "w": "give in",
+    "m": "đầu hàng, nhượng bộ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "give away",
+    "m": "cho đi, tặng; tiết lộ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "give back",
+    "m": "trả lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take off",
+    "m": "cất cánh; cởi ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take up",
+    "m": "bắt đầu (sở thích mới)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take over",
+    "m": "tiếp quản",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take after",
+    "m": "giống (người thân trong nhà)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take on",
+    "m": "đảm nhận, nhận thêm",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put on",
+    "m": "mặc vào; tăng (cân)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put up with",
+    "m": "chịu đựng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put away",
+    "m": "cất đi, dọn dẹp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put out",
+    "m": "dập tắt (lửa)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put down",
+    "m": "đặt xuống; chê bai",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get along",
+    "m": "hòa thuận, hợp nhau",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get away",
+    "m": "trốn thoát; đi nghỉ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get back",
+    "m": "quay về; lấy lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get up",
+    "m": "thức dậy, đứng dậy",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get on",
+    "m": "lên (xe, tàu); tiến triển",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get off",
+    "m": "xuống (xe, tàu)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get through",
+    "m": "vượt qua; hoàn thành xong",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get rid of",
+    "m": "loại bỏ, vứt bỏ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go on",
+    "m": "tiếp tục; xảy ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go out",
+    "m": "ra ngoài; hẹn hò",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go off",
+    "m": "nổ; reo (chuông); ôi thiu",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go over",
+    "m": "xem lại, kiểm tra lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go through",
+    "m": "trải qua; xem xét kỹ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go ahead",
+    "m": "tiến hành, cứ làm đi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go away",
+    "m": "đi khỏi, biến mất",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go back",
+    "m": "quay lại, trở về",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come back",
+    "m": "trở lại, quay về",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come up",
+    "m": "xuất hiện, nảy sinh",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come up with",
+    "m": "nghĩ ra, đề xuất",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come over",
+    "m": "ghé qua chơi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come out",
+    "m": "ra mắt, xuất bản; lộ ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come in",
+    "m": "đi vào; về đích",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come along",
+    "m": "đi cùng; tiến triển",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look after",
+    "m": "chăm sóc, trông nom",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look for",
+    "m": "tìm kiếm",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look into",
+    "m": "điều tra, xem xét",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look out",
+    "m": "coi chừng, cẩn thận",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look up",
+    "m": "tra cứu; ngước nhìn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look over",
+    "m": "xem qua, kiểm tra nhanh",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look around",
+    "m": "nhìn quanh, tham quan",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look down on",
+    "m": "coi thường, khinh thường",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look up to",
+    "m": "ngưỡng mộ, kính trọng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "break down",
+    "m": "hỏng hóc; suy sụp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "break into",
+    "m": "đột nhập",
+    "cat": "phrasal"
+  },
+  {
+    "w": "break out",
+    "m": "bùng phát, nổ ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "break off",
+    "m": "cắt đứt, chấm dứt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "bring up",
+    "m": "nuôi dưỡng; đề cập",
+    "cat": "phrasal"
+  },
+  {
+    "w": "bring back",
+    "m": "mang trả lại; gợi nhớ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "bring about",
+    "m": "gây ra, dẫn đến",
+    "cat": "phrasal"
+  },
+  {
+    "w": "bring in",
+    "m": "mang lại (thu nhập); đưa vào",
+    "cat": "phrasal"
+  },
+  {
+    "w": "call off",
+    "m": "hủy bỏ (sự kiện)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "call back",
+    "m": "gọi điện lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "call out",
+    "m": "gọi to, hô lớn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "carry on",
+    "m": "tiếp tục làm",
+    "cat": "phrasal"
+  },
+  {
+    "w": "carry out",
+    "m": "thực hiện, tiến hành",
+    "cat": "phrasal"
+  },
+  {
+    "w": "catch up",
+    "m": "bắt kịp, đuổi kịp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "check in",
+    "m": "làm thủ tục nhận phòng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "check out",
+    "m": "trả phòng; xem thử",
+    "cat": "phrasal"
+  },
+  {
+    "w": "check up on",
+    "m": "kiểm tra, theo dõi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "cheer up",
+    "m": "làm vui lên, phấn chấn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "clean up",
+    "m": "dọn dẹp sạch sẽ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come down with",
+    "m": "bị mắc (bệnh)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "count on",
+    "m": "trông cậy vào, tin tưởng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "cut down on",
+    "m": "cắt giảm bớt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "accomplish",
+    "m": "hoàn thành, đạt được",
+    "cat": "hành động"
+  },
+  {
+    "w": "achieve",
+    "m": "đạt được, giành được",
+    "cat": "hành động"
+  },
+  {
+    "w": "admit",
+    "m": "thừa nhận, thú nhận",
+    "cat": "hành động"
+  },
+  {
+    "w": "advise",
+    "m": "khuyên bảo, tư vấn",
+    "cat": "hành động"
+  },
+  {
+    "w": "afford",
+    "m": "đủ khả năng chi trả",
+    "cat": "hành động"
+  },
+  {
+    "w": "announce",
+    "m": "thông báo, công bố",
+    "cat": "hành động"
+  },
+  {
+    "w": "apologize",
+    "m": "xin lỗi",
+    "cat": "hành động"
+  },
+  {
+    "w": "appreciate",
+    "m": "đánh giá cao, trân trọng",
+    "cat": "hành động"
+  },
+  {
+    "w": "approach",
+    "m": "tiếp cận, đến gần",
+    "cat": "hành động"
+  },
+  {
+    "w": "argue",
+    "m": "tranh cãi, tranh luận",
+    "cat": "hành động"
+  },
+  {
+    "w": "arrange",
+    "m": "sắp xếp, bố trí",
+    "cat": "hành động"
+  },
+  {
+    "w": "arrest",
+    "m": "bắt giữ",
+    "cat": "hành động"
+  },
+  {
+    "w": "assist",
+    "m": "hỗ trợ, giúp đỡ",
+    "cat": "hành động"
+  },
+  {
+    "w": "attach",
+    "m": "đính kèm, gắn vào",
+    "cat": "hành động"
+  },
+  {
+    "w": "attempt",
+    "m": "cố gắng, thử làm",
+    "cat": "hành động"
+  },
+  {
+    "w": "attract",
+    "m": "thu hút, hấp dẫn",
+    "cat": "hành động"
+  },
+  {
+    "w": "avoid",
+    "m": "tránh, né tránh",
+    "cat": "hành động"
+  },
+  {
+    "w": "behave",
+    "m": "cư xử, hành xử",
+    "cat": "hành động"
+  },
+  {
+    "w": "belong",
+    "m": "thuộc về",
+    "cat": "hành động"
+  },
+  {
+    "w": "blame",
+    "m": "đổ lỗi, trách móc",
+    "cat": "hành động"
+  },
+  {
+    "w": "borrow",
+    "m": "mượn, vay",
+    "cat": "hành động"
+  },
+  {
+    "w": "celebrate",
+    "m": "ăn mừng, kỷ niệm",
+    "cat": "hành động"
+  },
+  {
+    "w": "claim",
+    "m": "tuyên bố, khẳng định; đòi",
+    "cat": "hành động"
+  },
+  {
+    "w": "communicate",
+    "m": "giao tiếp, liên lạc",
+    "cat": "hành động"
+  },
+  {
+    "w": "compare",
+    "m": "so sánh",
+    "cat": "hành động"
+  },
+  {
+    "w": "complain",
+    "m": "phàn nàn, khiếu nại",
+    "cat": "hành động"
+  },
+  {
+    "w": "confirm",
+    "m": "xác nhận",
+    "cat": "hành động"
+  },
+  {
+    "w": "consider",
+    "m": "cân nhắc, xem xét",
+    "cat": "hành động"
+  },
+  {
+    "w": "convince",
+    "m": "thuyết phục",
+    "cat": "hành động"
+  },
+  {
+    "w": "deliver",
+    "m": "giao hàng, chuyển phát",
+    "cat": "hành động"
+  },
+  {
+    "w": "demand",
+    "m": "yêu cầu, đòi hỏi",
+    "cat": "hành động"
+  },
+  {
+    "w": "deny",
+    "m": "phủ nhận, chối bỏ",
+    "cat": "hành động"
+  },
+  {
+    "w": "describe",
+    "m": "mô tả, miêu tả",
+    "cat": "hành động"
+  },
+  {
+    "w": "deserve",
+    "m": "xứng đáng",
+    "cat": "hành động"
+  },
+  {
+    "w": "destroy",
+    "m": "phá hủy, tiêu diệt",
+    "cat": "hành động"
+  },
+  {
+    "w": "develop",
+    "m": "phát triển",
+    "cat": "hành động"
+  },
+  {
+    "w": "disappear",
+    "m": "biến mất",
+    "cat": "hành động"
+  },
+  {
+    "w": "discover",
+    "m": "khám phá, phát hiện",
+    "cat": "hành động"
+  },
+  {
+    "w": "discuss",
+    "m": "thảo luận, bàn bạc",
+    "cat": "hành động"
+  },
+  {
+    "w": "encourage",
+    "m": "khuyến khích, động viên",
+    "cat": "hành động"
+  },
+  {
+    "w": "establish",
+    "m": "thành lập, thiết lập",
+    "cat": "hành động"
+  },
+  {
+    "w": "examine",
+    "m": "kiểm tra, khám xét",
+    "cat": "hành động"
+  },
+  {
+    "w": "expand",
+    "m": "mở rộng",
+    "cat": "hành động"
+  },
+  {
+    "w": "expect",
+    "m": "mong đợi, kỳ vọng",
+    "cat": "hành động"
+  },
+  {
+    "w": "explore",
+    "m": "khám phá, thám hiểm",
+    "cat": "hành động"
+  },
+  {
+    "w": "express",
+    "m": "bày tỏ, diễn đạt",
+    "cat": "hành động"
+  },
+  {
+    "w": "force",
+    "m": "ép buộc, bắt buộc",
+    "cat": "hành động"
+  },
+  {
+    "w": "gather",
+    "m": "tụ tập, thu thập",
+    "cat": "hành động"
+  },
+  {
+    "w": "hesitate",
+    "m": "do dự, ngần ngại",
+    "cat": "hành động"
+  },
+  {
+    "w": "identify",
+    "m": "nhận dạng, xác định",
+    "cat": "hành động"
+  },
+  {
+    "w": "ancient",
+    "m": "cổ xưa, cổ đại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "annoying",
+    "m": "khó chịu, phiền phức",
+    "cat": "tính từ"
+  },
+  {
+    "w": "anxious",
+    "m": "lo lắng, bồn chồn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "attractive",
+    "m": "hấp dẫn, cuốn hút",
+    "cat": "tính từ"
+  },
+  {
+    "w": "available",
+    "m": "có sẵn, sẵn có",
+    "cat": "tính từ"
+  },
+  {
+    "w": "average",
+    "m": "trung bình",
+    "cat": "tính từ"
+  },
+  {
+    "w": "aware",
+    "m": "nhận thức được, biết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "brilliant",
+    "m": "xuất sắc, tuyệt vời",
+    "cat": "tính từ"
+  },
+  {
+    "w": "casual",
+    "m": "thường ngày, không trang trọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "cautious",
+    "m": "thận trọng, dè dặt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "comfortable",
+    "m": "thoải mái, dễ chịu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "common",
+    "m": "phổ biến, thông thường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "complicated",
+    "m": "phức tạp, rắc rối",
+    "cat": "tính từ"
+  },
+  {
+    "w": "confident",
+    "m": "tự tin",
+    "cat": "tính từ"
+  },
+  {
+    "w": "convenient",
+    "m": "thuận tiện, tiện lợi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "creative",
+    "m": "sáng tạo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "curious",
+    "m": "tò mò, hiếu kỳ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dangerous",
+    "m": "nguy hiểm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "decent",
+    "m": "tử tế, đàng hoàng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "delicate",
+    "m": "mỏng manh, tinh tế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "disappointing",
+    "m": "đáng thất vọng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "efficient",
+    "m": "hiệu quả, năng suất",
+    "cat": "tính từ"
+  },
+  {
+    "w": "embarrassing",
+    "m": "gây xấu hổ, ngại ngùng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "enormous",
+    "m": "khổng lồ, to lớn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "essential",
+    "m": "thiết yếu, cần thiết",
+    "cat": "tính từ"
+  },
+  {
+    "w": "exhausting",
+    "m": "gây kiệt sức, mệt mỏi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "familiar",
+    "m": "quen thuộc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fascinating",
+    "m": "lôi cuốn, mê hoặc",
+    "cat": "tính từ"
+  },
+  {
+    "w": "flexible",
+    "m": "linh hoạt, mềm dẻo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "fragile",
+    "m": "dễ vỡ, mỏng manh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "generous",
+    "m": "hào phóng, rộng lượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "genuine",
+    "m": "chân thật, chính hãng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "gradual",
+    "m": "dần dần, từ từ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "grateful",
+    "m": "biết ơn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "harmful",
+    "m": "có hại",
+    "cat": "tính từ"
+  },
+  {
+    "w": "helpful",
+    "m": "hữu ích, hay giúp đỡ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "honest",
+    "m": "trung thực, thật thà",
+    "cat": "tính từ"
+  },
+  {
+    "w": "immediate",
+    "m": "ngay lập tức, tức thì",
+    "cat": "tính từ"
+  },
+  {
+    "w": "impressive",
+    "m": "ấn tượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "independent",
+    "m": "độc lập, tự lập",
+    "cat": "tính từ"
+  },
+  {
+    "w": "informal",
+    "m": "thân mật, không nghi thức",
+    "cat": "tính từ"
+  },
+  {
+    "w": "innocent",
+    "m": "vô tội, ngây thơ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "jealous",
+    "m": "ghen tị, ghen tuông",
+    "cat": "tính từ"
+  },
+  {
+    "w": "keen",
+    "m": "ham thích, hăng hái",
+    "cat": "tính từ"
+  },
+  {
+    "w": "lively",
+    "m": "sôi nổi, sống động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "loyal",
+    "m": "trung thành",
+    "cat": "tính từ"
+  },
+  {
+    "w": "mysterious",
+    "m": "bí ẩn, huyền bí",
+    "cat": "tính từ"
+  },
+  {
+    "w": "narrow",
+    "m": "hẹp, chật hẹp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "obvious",
+    "m": "rõ ràng, hiển nhiên",
+    "cat": "tính từ"
+  },
+  {
+    "w": "ordinary",
+    "m": "bình thường, thông thường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "affection",
+    "m": "tình cảm, sự yêu mến",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "amazed",
+    "m": "kinh ngạc, sửng sốt",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "amused",
+    "m": "thích thú, thấy buồn cười",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "annoyed",
+    "m": "bực mình, khó chịu",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "ashamed",
+    "m": "xấu hổ, hổ thẹn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "astonished",
+    "m": "vô cùng ngạc nhiên",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "bored",
+    "m": "chán, buồn chán",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "calm",
+    "m": "bình tĩnh, điềm tĩnh",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "cheerful",
+    "m": "vui vẻ, phấn khởi",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "confused",
+    "m": "bối rối, lúng túng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "delighted",
+    "m": "vui mừng, hân hoan",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "depressed",
+    "m": "trầm cảm, chán nản",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "desperate",
+    "m": "tuyệt vọng, liều lĩnh",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "disappointed",
+    "m": "thất vọng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "disgusted",
+    "m": "ghê tởm, kinh tởm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "embarrassed",
+    "m": "ngượng ngùng, xấu hổ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "emotional",
+    "m": "xúc động, dễ xúc cảm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "enthusiastic",
+    "m": "nhiệt tình, hăng hái",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "envious",
+    "m": "ghen tị, đố kỵ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "excited",
+    "m": "hào hứng, phấn khích",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "frightened",
+    "m": "sợ hãi, hoảng sợ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "frustrated",
+    "m": "bực bội, nản lòng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "furious",
+    "m": "giận dữ, điên tiết",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "gloomy",
+    "m": "u ám, buồn rầu",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "guilty",
+    "m": "tội lỗi, áy náy",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "hopeful",
+    "m": "đầy hy vọng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "irritated",
+    "m": "cáu kỉnh, bực bội",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "lonely",
+    "m": "cô đơn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "miserable",
+    "m": "khổ sở, đau khổ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "moody",
+    "m": "tâm trạng thất thường",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "nervous",
+    "m": "lo lắng, hồi hộp",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "optimistic",
+    "m": "lạc quan",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "panic",
+    "m": "hoảng loạn, hoảng sợ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "pessimistic",
+    "m": "bi quan",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "proud",
+    "m": "tự hào, kiêu hãnh",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "relieved",
+    "m": "nhẹ nhõm, yên tâm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "satisfied",
+    "m": "hài lòng, thỏa mãn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "scared",
+    "m": "sợ, hoảng sợ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "sensitive",
+    "m": "nhạy cảm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "stressed",
+    "m": "căng thẳng, áp lực",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "cut off",
+    "m": "cắt đứt, ngắt (điện, nước)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "cut out",
+    "m": "cắt bỏ; ngừng hẳn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "deal with",
+    "m": "giải quyết, xử lý",
+    "cat": "phrasal"
+  },
+  {
+    "w": "do up",
+    "m": "cài (nút); sửa sang",
+    "cat": "phrasal"
+  },
+  {
+    "w": "do without",
+    "m": "sống thiếu, nhịn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "drop by",
+    "m": "ghé qua, tạt qua",
+    "cat": "phrasal"
+  },
+  {
+    "w": "drop off",
+    "m": "thả xuống (xe); ngủ gật",
+    "cat": "phrasal"
+  },
+  {
+    "w": "drop out",
+    "m": "bỏ học giữa chừng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "end up",
+    "m": "cuối cùng rơi vào, kết cục",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fall apart",
+    "m": "tan rã, sụp đổ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fall behind",
+    "m": "tụt lại phía sau",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fall down",
+    "m": "ngã xuống, đổ sập",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fall out",
+    "m": "cãi nhau, bất hòa",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fill in",
+    "m": "điền vào (mẫu đơn)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fill out",
+    "m": "điền đầy đủ (biểu mẫu)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fill up",
+    "m": "đổ đầy, làm đầy",
+    "cat": "phrasal"
+  },
+  {
+    "w": "find out",
+    "m": "tìm ra, phát hiện ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fit in",
+    "m": "hòa nhập, vừa khớp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get ahead",
+    "m": "thăng tiến, vượt lên",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get around",
+    "m": "đi lại; lan truyền",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get by",
+    "m": "xoay xở, sống tạm đủ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get into",
+    "m": "bắt đầu thích; vào được",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get out",
+    "m": "ra ngoài, thoát ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get together",
+    "m": "tụ họp, gặp mặt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "give out",
+    "m": "phân phát; cạn kiệt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "grow up",
+    "m": "lớn lên, trưởng thành",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hand in",
+    "m": "nộp (bài, đơn)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hand out",
+    "m": "phân phát, phát ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hang on",
+    "m": "chờ chút; bám chặt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hang out",
+    "m": "đi chơi, tụ tập",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hang up",
+    "m": "cúp máy, gác máy",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hold on",
+    "m": "giữ máy, chờ; bám chắc",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hold up",
+    "m": "trì hoãn; cướp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hurry up",
+    "m": "nhanh lên, khẩn trương",
+    "cat": "phrasal"
+  },
+  {
+    "w": "join in",
+    "m": "tham gia cùng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "keep on",
+    "m": "tiếp tục làm mãi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "keep up",
+    "m": "duy trì, giữ vững",
+    "cat": "phrasal"
+  },
+  {
+    "w": "keep up with",
+    "m": "theo kịp, bắt kịp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "knock down",
+    "m": "đánh ngã; phá dỡ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "lay off",
+    "m": "sa thải, cho nghỉ việc",
+    "cat": "phrasal"
+  },
+  {
+    "w": "leave out",
+    "m": "bỏ sót, loại ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "let down",
+    "m": "làm thất vọng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "let in",
+    "m": "cho vào",
+    "cat": "phrasal"
+  },
+  {
+    "w": "lie down",
+    "m": "nằm xuống nghỉ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "log in",
+    "m": "đăng nhập",
+    "cat": "phrasal"
+  },
+  {
+    "w": "log out",
+    "m": "đăng xuất",
+    "cat": "phrasal"
+  },
+  {
+    "w": "make up",
+    "m": "bịa chuyện; làm hòa; trang điểm",
+    "cat": "phrasal"
+  },
+  {
+    "w": "make out",
+    "m": "nhận ra, hiểu được",
+    "cat": "phrasal"
+  },
+  {
+    "w": "make up for",
+    "m": "bù đắp, đền bù",
+    "cat": "phrasal"
+  },
+  {
+    "w": "mess up",
+    "m": "làm hỏng, làm rối tung",
+    "cat": "phrasal"
+  },
+  {
+    "w": "move in",
+    "m": "dọn vào ở",
+    "cat": "phrasal"
+  },
+  {
+    "w": "move on",
+    "m": "tiếp tục, bước tiếp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "move out",
+    "m": "dọn ra, chuyển đi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pass away",
+    "m": "qua đời, mất",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pass out",
+    "m": "ngất xỉu",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pay back",
+    "m": "trả nợ; trả đũa",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pay off",
+    "m": "trả hết nợ; đem lại kết quả",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pick out",
+    "m": "chọn ra, lựa ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pick up",
+    "m": "đón (ai); nhặt lên; học lỏm",
+    "cat": "phrasal"
+  },
+  {
+    "w": "plug in",
+    "m": "cắm điện, cắm phích",
+    "cat": "phrasal"
+  },
+  {
+    "w": "point out",
+    "m": "chỉ ra, nêu rõ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "print out",
+    "m": "in ra giấy",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pull over",
+    "m": "tấp xe vào lề",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put back",
+    "m": "đặt lại chỗ cũ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put in",
+    "m": "lắp đặt; bỏ (công sức) vào",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put through",
+    "m": "nối máy điện thoại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "run away",
+    "m": "bỏ chạy, chạy trốn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "run out of",
+    "m": "hết, cạn kiệt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "run over",
+    "m": "cán phải, chẹt qua",
+    "cat": "phrasal"
+  },
+  {
+    "w": "rule out",
+    "m": "loại trừ khả năng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "application",
+    "m": "đơn xin việc, đơn ứng tuyển",
+    "cat": "công việc"
+  },
+  {
+    "w": "appointment",
+    "m": "cuộc hẹn, lịch hẹn",
+    "cat": "công việc"
+  },
+  {
+    "w": "candidate",
+    "m": "ứng viên, thí sinh",
+    "cat": "công việc"
+  },
+  {
+    "w": "career",
+    "m": "sự nghiệp, nghề nghiệp",
+    "cat": "công việc"
+  },
+  {
+    "w": "colleague",
+    "m": "đồng nghiệp",
+    "cat": "công việc"
+  },
+  {
+    "w": "contract",
+    "m": "hợp đồng",
+    "cat": "công việc"
+  },
+  {
+    "w": "deadline",
+    "m": "hạn chót, thời hạn",
+    "cat": "công việc"
+  },
+  {
+    "w": "department",
+    "m": "phòng ban, bộ phận",
+    "cat": "công việc"
+  },
+  {
+    "w": "employee",
+    "m": "nhân viên, người lao động",
+    "cat": "công việc"
+  },
+  {
+    "w": "employer",
+    "m": "chủ lao động, người thuê",
+    "cat": "công việc"
+  },
+  {
+    "w": "employment",
+    "m": "việc làm, sự thuê mướn",
+    "cat": "công việc"
+  },
+  {
+    "w": "experience",
+    "m": "kinh nghiệm, trải nghiệm",
+    "cat": "công việc"
+  },
+  {
+    "w": "factory",
+    "m": "nhà máy, xưởng sản xuất",
+    "cat": "công việc"
+  },
+  {
+    "w": "internship",
+    "m": "kỳ thực tập",
+    "cat": "công việc"
+  },
+  {
+    "w": "interview",
+    "m": "phỏng vấn",
+    "cat": "công việc"
+  },
+  {
+    "w": "manager",
+    "m": "quản lý, giám đốc",
+    "cat": "công việc"
+  },
+  {
+    "w": "meeting",
+    "m": "cuộc họp",
+    "cat": "công việc"
+  },
+  {
+    "w": "occupation",
+    "m": "nghề nghiệp, công việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "office",
+    "m": "văn phòng",
+    "cat": "công việc"
+  },
+  {
+    "w": "overtime",
+    "m": "làm thêm giờ, tăng ca",
+    "cat": "công việc"
+  },
+  {
+    "w": "profession",
+    "m": "nghề chuyên môn",
+    "cat": "công việc"
+  },
+  {
+    "w": "promotion",
+    "m": "sự thăng chức; khuyến mãi",
+    "cat": "công việc"
+  },
+  {
+    "w": "qualification",
+    "m": "bằng cấp, trình độ chuyên môn",
+    "cat": "công việc"
+  },
+  {
+    "w": "recruit",
+    "m": "tuyển dụng, chiêu mộ",
+    "cat": "công việc"
+  },
+  {
+    "w": "resign",
+    "m": "từ chức, xin nghỉ việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "responsibility",
+    "m": "trách nhiệm",
+    "cat": "công việc"
+  },
+  {
+    "w": "retire",
+    "m": "nghỉ hưu, về hưu",
+    "cat": "công việc"
+  },
+  {
+    "w": "salary",
+    "m": "lương, tiền lương tháng",
+    "cat": "công việc"
+  },
+  {
+    "w": "schedule",
+    "m": "lịch trình, thời gian biểu",
+    "cat": "công việc"
+  },
+  {
+    "w": "shift",
+    "m": "ca làm việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "skill",
+    "m": "kỹ năng",
+    "cat": "công việc"
+  },
+  {
+    "w": "staff",
+    "m": "đội ngũ nhân viên",
+    "cat": "công việc"
+  },
+  {
+    "w": "task",
+    "m": "nhiệm vụ, công việc được giao",
+    "cat": "công việc"
+  },
+  {
+    "w": "trainee",
+    "m": "thực tập sinh, người học việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "training",
+    "m": "đào tạo, huấn luyện",
+    "cat": "công việc"
+  },
+  {
+    "w": "unemployed",
+    "m": "thất nghiệp",
+    "cat": "công việc"
+  },
+  {
+    "w": "wage",
+    "m": "tiền công, lương theo giờ",
+    "cat": "công việc"
+  },
+  {
+    "w": "workload",
+    "m": "khối lượng công việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "workplace",
+    "m": "nơi làm việc",
+    "cat": "công việc"
+  },
+  {
+    "w": "workshop",
+    "m": "hội thảo thực hành; xưởng",
+    "cat": "công việc"
+  },
+  {
+    "w": "academic",
+    "m": "thuộc về học thuật",
+    "cat": "học tập"
+  },
+  {
+    "w": "assignment",
+    "m": "bài tập được giao",
+    "cat": "học tập"
+  },
+  {
+    "w": "certificate",
+    "m": "chứng chỉ, giấy chứng nhận",
+    "cat": "học tập"
+  },
+  {
+    "w": "course",
+    "m": "khóa học",
+    "cat": "học tập"
+  },
+  {
+    "w": "curriculum",
+    "m": "chương trình giảng dạy",
+    "cat": "học tập"
+  },
+  {
+    "w": "degree",
+    "m": "bằng đại học, học vị",
+    "cat": "học tập"
+  },
+  {
+    "w": "diploma",
+    "m": "bằng tốt nghiệp, văn bằng",
+    "cat": "học tập"
+  },
+  {
+    "w": "dictionary",
+    "m": "từ điển",
+    "cat": "học tập"
+  },
+  {
+    "w": "education",
+    "m": "giáo dục",
+    "cat": "học tập"
+  },
+  {
+    "w": "essay",
+    "m": "bài luận, bài tiểu luận",
+    "cat": "học tập"
+  },
+  {
+    "w": "exam",
+    "m": "kỳ thi, bài thi",
+    "cat": "học tập"
+  },
+  {
+    "w": "fluent",
+    "m": "trôi chảy, lưu loát",
+    "cat": "học tập"
+  },
+  {
+    "w": "grade",
+    "m": "điểm số; lớp, khối",
+    "cat": "học tập"
+  },
+  {
+    "w": "graduate",
+    "m": "tốt nghiệp; cử nhân",
+    "cat": "học tập"
+  },
+  {
+    "w": "knowledge",
+    "m": "kiến thức",
+    "cat": "học tập"
+  },
+  {
+    "w": "lecture",
+    "m": "bài giảng, buổi thuyết giảng",
+    "cat": "học tập"
+  },
+  {
+    "w": "lesson",
+    "m": "bài học",
+    "cat": "học tập"
+  },
+  {
+    "w": "library",
+    "m": "thư viện",
+    "cat": "học tập"
+  },
+  {
+    "w": "literature",
+    "m": "văn học",
+    "cat": "học tập"
+  },
+  {
+    "w": "memorize",
+    "m": "học thuộc lòng, ghi nhớ",
+    "cat": "học tập"
+  },
+  {
+    "w": "practice",
+    "m": "luyện tập, thực hành",
+    "cat": "học tập"
+  },
+  {
+    "w": "presentation",
+    "m": "bài thuyết trình",
+    "cat": "học tập"
+  },
+  {
+    "w": "pupil",
+    "m": "học sinh (tiểu học)",
+    "cat": "học tập"
+  },
+  {
+    "w": "research",
+    "m": "nghiên cứu",
+    "cat": "học tập"
+  },
+  {
+    "w": "revise",
+    "m": "ôn tập; sửa lại",
+    "cat": "học tập"
+  },
+  {
+    "w": "scholarship",
+    "m": "học bổng",
+    "cat": "học tập"
+  },
+  {
+    "w": "semester",
+    "m": "học kỳ",
+    "cat": "học tập"
+  },
+  {
+    "w": "subject",
+    "m": "môn học; chủ đề",
+    "cat": "học tập"
+  },
+  {
+    "w": "tutor",
+    "m": "gia sư",
+    "cat": "học tập"
+  },
+  {
+    "w": "university",
+    "m": "trường đại học",
+    "cat": "học tập"
+  },
+  {
+    "w": "allergy",
+    "m": "dị ứng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "ambulance",
+    "m": "xe cứu thương",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "bandage",
+    "m": "băng gạc, băng cứu thương",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "bruise",
+    "m": "vết bầm tím",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "checkup",
+    "m": "khám sức khỏe định kỳ",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "clinic",
+    "m": "phòng khám",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "cough",
+    "m": "ho, cơn ho",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "cure",
+    "m": "chữa khỏi; phương thuốc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "diet",
+    "m": "chế độ ăn, ăn kiêng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "disease",
+    "m": "bệnh, bệnh tật",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "dizzy",
+    "m": "chóng mặt, choáng váng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "emergency",
+    "m": "trường hợp khẩn cấp, cấp cứu",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "fitness",
+    "m": "thể lực, sự cân đối",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "headache",
+    "m": "đau đầu, nhức đầu",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "infection",
+    "m": "nhiễm trùng, viêm nhiễm",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "injection",
+    "m": "tiêm, mũi tiêm",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "injury",
+    "m": "chấn thương, vết thương",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "medicine",
+    "m": "thuốc; y học",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "mental",
+    "m": "thuộc tinh thần, tâm thần",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "nutrition",
+    "m": "dinh dưỡng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "operation",
+    "m": "ca phẫu thuật, ca mổ",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "painful",
+    "m": "đau đớn, gây đau",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "patient",
+    "m": "bệnh nhân; kiên nhẫn",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "pharmacy",
+    "m": "hiệu thuốc, nhà thuốc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "pill",
+    "m": "viên thuốc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "poison",
+    "m": "chất độc, thuốc độc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "prescription",
+    "m": "đơn thuốc, toa thuốc",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "recover",
+    "m": "hồi phục, bình phục",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "remedy",
+    "m": "phương thuốc, cách chữa",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "sneeze",
+    "m": "hắt hơi, hắt xì",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "sore",
+    "m": "đau rát, nhức",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "surgery",
+    "m": "phẫu thuật",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "swollen",
+    "m": "sưng tấy, sưng phù",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "symptom",
+    "m": "triệu chứng",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "therapy",
+    "m": "liệu pháp, trị liệu",
+    "cat": "sức khỏe"
+  },
+  {
+    "w": "account",
+    "m": "tài khoản",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "bargain",
+    "m": "món hời; mặc cả",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "bill",
+    "m": "hóa đơn",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "budget",
+    "m": "ngân sách",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "cash",
+    "m": "tiền mặt",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "charge",
+    "m": "tính phí; phí",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "coin",
+    "m": "tiền xu, đồng xu",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "cost",
+    "m": "chi phí, giá",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "credit",
+    "m": "tín dụng, trả góp",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "currency",
+    "m": "tiền tệ, đơn vị tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "debt",
+    "m": "nợ, khoản nợ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "deposit",
+    "m": "tiền đặt cọc; gửi tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "discount",
+    "m": "giảm giá, chiết khấu",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "donate",
+    "m": "quyên góp, hiến tặng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "earn",
+    "m": "kiếm tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "exchange",
+    "m": "trao đổi; đổi tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "expense",
+    "m": "chi tiêu, khoản chi",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "fee",
+    "m": "lệ phí, phí dịch vụ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "fine",
+    "m": "tiền phạt; phạt tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "income",
+    "m": "thu nhập",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "insurance",
+    "m": "bảo hiểm",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "invest",
+    "m": "đầu tư",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "invoice",
+    "m": "hóa đơn thương mại, phiếu thanh toán",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "loan",
+    "m": "khoản vay",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "luxury",
+    "m": "xa xỉ, sang trọng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "mortgage",
+    "m": "vay thế chấp mua nhà",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "owe",
+    "m": "nợ (ai đó), thiếu nợ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "payment",
+    "m": "thanh toán, khoản trả",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "pension",
+    "m": "lương hưu",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "purchase",
+    "m": "mua sắm, sự mua",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "receipt",
+    "m": "biên lai, hóa đơn nhận tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "refund",
+    "m": "hoàn tiền, tiền hoàn lại",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "savings",
+    "m": "tiền tiết kiệm",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "tax",
+    "m": "thuế",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "withdraw",
+    "m": "rút tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "see off",
+    "m": "tiễn (ai đi xa)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "set off",
+    "m": "khởi hành, lên đường",
+    "cat": "phrasal"
+  },
+  {
+    "w": "set up",
+    "m": "thành lập, dựng nên",
+    "cat": "phrasal"
+  },
+  {
+    "w": "settle down",
+    "m": "ổn định cuộc sống, an cư",
+    "cat": "phrasal"
+  },
+  {
+    "w": "show off",
+    "m": "khoe khoang, phô trương",
+    "cat": "phrasal"
+  },
+  {
+    "w": "show up",
+    "m": "xuất hiện, có mặt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "shut down",
+    "m": "đóng cửa; tắt máy",
+    "cat": "phrasal"
+  },
+  {
+    "w": "sign up",
+    "m": "đăng ký tham gia",
+    "cat": "phrasal"
+  },
+  {
+    "w": "slow down",
+    "m": "chậm lại, giảm tốc",
+    "cat": "phrasal"
+  },
+  {
+    "w": "sort out",
+    "m": "sắp xếp, giải quyết ổn thỏa",
+    "cat": "phrasal"
+  },
+  {
+    "w": "speak up",
+    "m": "nói to lên; lên tiếng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "split up",
+    "m": "chia tay; tách ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "stand for",
+    "m": "viết tắt của; đại diện cho",
+    "cat": "phrasal"
+  },
+  {
+    "w": "stand out",
+    "m": "nổi bật",
+    "cat": "phrasal"
+  },
+  {
+    "w": "stand up for",
+    "m": "bênh vực, bảo vệ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "stay up",
+    "m": "thức khuya",
+    "cat": "phrasal"
+  },
+  {
+    "w": "stick to",
+    "m": "kiên trì với, bám sát",
+    "cat": "phrasal"
+  },
+  {
+    "w": "switch off",
+    "m": "tắt (công tắc)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "switch on",
+    "m": "bật (công tắc)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take apart",
+    "m": "tháo rời",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take back",
+    "m": "rút lại lời; mang trả lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take care of",
+    "m": "chăm sóc, lo liệu",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take down",
+    "m": "ghi chép lại; tháo dỡ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take in",
+    "m": "hiểu, tiếp thu; cưu mang",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take out",
+    "m": "lấy ra; đưa đi chơi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "tell off",
+    "m": "la mắng, rầy la",
+    "cat": "phrasal"
+  },
+  {
+    "w": "think over",
+    "m": "suy nghĩ kỹ, cân nhắc",
+    "cat": "phrasal"
+  },
+  {
+    "w": "throw away",
+    "m": "vứt đi, ném bỏ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "try on",
+    "m": "thử (quần áo)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "try out",
+    "m": "dùng thử, thử nghiệm",
+    "cat": "phrasal"
+  },
+  {
+    "w": "turn around",
+    "m": "quay lại; xoay chuyển",
+    "cat": "phrasal"
+  },
+  {
+    "w": "turn over",
+    "m": "lật lại, lật úp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "wake up",
+    "m": "tỉnh dậy, đánh thức",
+    "cat": "phrasal"
+  },
+  {
+    "w": "warm up",
+    "m": "khởi động; hâm nóng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "watch out",
+    "m": "coi chừng, đề phòng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "wear out",
+    "m": "mòn, sờn; làm kiệt sức",
+    "cat": "phrasal"
+  },
+  {
+    "w": "work out",
+    "m": "tập thể dục; tìm ra giải pháp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "write down",
+    "m": "viết ra, ghi lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "back up",
+    "m": "sao lưu; ủng hộ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "blow up",
+    "m": "nổ tung; thổi phồng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "calm down",
+    "m": "bình tĩnh lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "carry away",
+    "m": "cuốn theo, làm say mê quá mức",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come round",
+    "m": "ghé thăm; tỉnh lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "cool down",
+    "m": "nguội đi, hạ nhiệt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "dress up",
+    "m": "ăn diện, hóa trang",
+    "cat": "phrasal"
+  },
+  {
+    "w": "eat out",
+    "m": "ăn ngoài, ăn tiệm",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get on with",
+    "m": "hòa hợp với; tiếp tục làm",
+    "cat": "phrasal"
+  },
+  {
+    "w": "give off",
+    "m": "tỏa ra, phát ra (mùi, nhiệt)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go down",
+    "m": "giảm xuống, đi xuống",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go up",
+    "m": "tăng lên, đi lên",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hand over",
+    "m": "giao nộp, bàn giao",
+    "cat": "phrasal"
+  },
+  {
+    "w": "head for",
+    "m": "đi về hướng, tiến về",
+    "cat": "phrasal"
+  },
+  {
+    "w": "keep away",
+    "m": "tránh xa, giữ khoảng cách",
+    "cat": "phrasal"
+  },
+  {
+    "w": "kick off",
+    "m": "bắt đầu, khai mạc",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look through",
+    "m": "xem lướt qua, đọc qua",
+    "cat": "phrasal"
+  },
+  {
+    "w": "mix up",
+    "m": "nhầm lẫn, trộn lẫn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "name after",
+    "m": "đặt tên theo",
+    "cat": "phrasal"
+  },
+  {
+    "w": "narrow down",
+    "m": "thu hẹp (phạm vi lựa chọn)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "own up",
+    "m": "thú nhận lỗi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pass by",
+    "m": "đi ngang qua",
+    "cat": "phrasal"
+  },
+  {
+    "w": "abroad",
+    "m": "ở nước ngoài, ra nước ngoài",
+    "cat": "du lịch"
+  },
+  {
+    "w": "accommodation",
+    "m": "chỗ ở, nơi lưu trú",
+    "cat": "du lịch"
+  },
+  {
+    "w": "airline",
+    "m": "hãng hàng không",
+    "cat": "du lịch"
+  },
+  {
+    "w": "arrival",
+    "m": "sự đến nơi, chuyến đến",
+    "cat": "du lịch"
+  },
+  {
+    "w": "baggage",
+    "m": "hành lý",
+    "cat": "du lịch"
+  },
+  {
+    "w": "boarding pass",
+    "m": "thẻ lên máy bay",
+    "cat": "du lịch"
+  },
+  {
+    "w": "booking",
+    "m": "việc đặt chỗ, đặt vé",
+    "cat": "du lịch"
+  },
+  {
+    "w": "brochure",
+    "m": "tờ quảng cáo, tập gấp giới thiệu",
+    "cat": "du lịch"
+  },
+  {
+    "w": "cabin",
+    "m": "buồng (tàu, máy bay); nhà gỗ nhỏ",
+    "cat": "du lịch"
+  },
+  {
+    "w": "campsite",
+    "m": "khu cắm trại",
+    "cat": "du lịch"
+  },
+  {
+    "w": "cancel",
+    "m": "hủy (vé, đặt chỗ)",
+    "cat": "du lịch"
+  },
+  {
+    "w": "cruise",
+    "m": "du thuyền, chuyến đi biển",
+    "cat": "du lịch"
+  },
+  {
+    "w": "customs",
+    "m": "hải quan",
+    "cat": "du lịch"
+  },
+  {
+    "w": "delay",
+    "m": "trì hoãn, chậm trễ",
+    "cat": "du lịch"
+  },
+  {
+    "w": "departure",
+    "m": "sự khởi hành, chuyến đi",
+    "cat": "du lịch"
+  },
+  {
+    "w": "destination",
+    "m": "điểm đến, đích đến",
+    "cat": "du lịch"
+  },
+  {
+    "w": "embassy",
+    "m": "đại sứ quán",
+    "cat": "du lịch"
+  },
+  {
+    "w": "excursion",
+    "m": "chuyến tham quan ngắn",
+    "cat": "du lịch"
+  },
+  {
+    "w": "ferry",
+    "m": "phà",
+    "cat": "du lịch"
+  },
+  {
+    "w": "flight",
+    "m": "chuyến bay",
+    "cat": "du lịch"
+  },
+  {
+    "w": "guidebook",
+    "m": "sách hướng dẫn du lịch",
+    "cat": "du lịch"
+  },
+  {
+    "w": "hostel",
+    "m": "nhà nghỉ giá rẻ, ký túc",
+    "cat": "du lịch"
+  },
+  {
+    "w": "itinerary",
+    "m": "lịch trình chuyến đi",
+    "cat": "du lịch"
+  },
+  {
+    "w": "journey",
+    "m": "hành trình, chuyến đi xa",
+    "cat": "du lịch"
+  },
+  {
+    "w": "landmark",
+    "m": "địa danh nổi tiếng, cột mốc",
+    "cat": "du lịch"
+  },
+  {
+    "w": "luggage",
+    "m": "hành lý (va li, túi xách)",
+    "cat": "du lịch"
+  },
+  {
+    "w": "passport",
+    "m": "hộ chiếu",
+    "cat": "du lịch"
+  },
+  {
+    "w": "platform",
+    "m": "sân ga, thềm ga",
+    "cat": "du lịch"
+  },
+  {
+    "w": "reservation",
+    "m": "sự đặt trước, đặt chỗ",
+    "cat": "du lịch"
+  },
+  {
+    "w": "resort",
+    "m": "khu nghỉ dưỡng",
+    "cat": "du lịch"
+  },
+  {
+    "w": "sightseeing",
+    "m": "tham quan, ngắm cảnh",
+    "cat": "du lịch"
+  },
+  {
+    "w": "souvenir",
+    "m": "quà lưu niệm",
+    "cat": "du lịch"
+  },
+  {
+    "w": "suitcase",
+    "m": "va li",
+    "cat": "du lịch"
+  },
+  {
+    "w": "tourist",
+    "m": "khách du lịch",
+    "cat": "du lịch"
+  },
+  {
+    "w": "visa",
+    "m": "thị thực, visa",
+    "cat": "du lịch"
+  },
+  {
+    "w": "appetite",
+    "m": "sự thèm ăn, khẩu vị",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "bake",
+    "m": "nướng (bánh)",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "bitter",
+    "m": "đắng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "boil",
+    "m": "luộc, đun sôi",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "chef",
+    "m": "đầu bếp, bếp trưởng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "chop",
+    "m": "chặt, băm nhỏ",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "crispy",
+    "m": "giòn, giòn rụm",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "cuisine",
+    "m": "nền ẩm thực, cách nấu ăn",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "dessert",
+    "m": "món tráng miệng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "dish",
+    "m": "món ăn; đĩa",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "flavor",
+    "m": "hương vị, mùi vị",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "fry",
+    "m": "chiên, rán",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "grill",
+    "m": "nướng vỉ",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "ingredient",
+    "m": "nguyên liệu, thành phần",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "recipe",
+    "m": "công thức nấu ăn",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "roast",
+    "m": "quay, nướng (lò)",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "sauce",
+    "m": "nước sốt, nước chấm",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "seafood",
+    "m": "hải sản",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "slice",
+    "m": "lát cắt; thái lát",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "snack",
+    "m": "đồ ăn vặt, bữa nhẹ",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "sour",
+    "m": "chua",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "spicy",
+    "m": "cay",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "stir",
+    "m": "khuấy, đảo",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "tasty",
+    "m": "ngon miệng",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "vegetarian",
+    "m": "người ăn chay; món chay",
+    "cat": "ẩm thực"
+  },
+  {
+    "w": "attachment",
+    "m": "tệp đính kèm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "browse",
+    "m": "duyệt web, lướt xem",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "browser",
+    "m": "trình duyệt",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "charger",
+    "m": "bộ sạc, cục sạc",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "click",
+    "m": "nhấp chuột, bấm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "database",
+    "m": "cơ sở dữ liệu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "device",
+    "m": "thiết bị",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "digital",
+    "m": "kỹ thuật số",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "download",
+    "m": "tải xuống",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "file",
+    "m": "tệp tin, hồ sơ",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "gadget",
+    "m": "thiết bị nhỏ tiện ích",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "hardware",
+    "m": "phần cứng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "headphones",
+    "m": "tai nghe",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "install",
+    "m": "cài đặt",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "keyboard",
+    "m": "bàn phím",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "laptop",
+    "m": "máy tính xách tay",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "network",
+    "m": "mạng lưới, mạng máy tính",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "online",
+    "m": "trực tuyến",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "password",
+    "m": "mật khẩu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "podcast",
+    "m": "chương trình âm thanh trực tuyến",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "screen",
+    "m": "màn hình",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "search engine",
+    "m": "công cụ tìm kiếm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "smartphone",
+    "m": "điện thoại thông minh",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "software",
+    "m": "phần mềm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "update",
+    "m": "cập nhật",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "upload",
+    "m": "tải lên",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "username",
+    "m": "tên đăng nhập, tên người dùng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "website",
+    "m": "trang web",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "wireless",
+    "m": "không dây",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "virus",
+    "m": "vi-rút máy tính",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "atmosphere",
+    "m": "bầu khí quyển; bầu không khí",
+    "cat": "môi trường"
+  },
+  {
+    "w": "carbon",
+    "m": "các-bon, khí thải carbon",
+    "cat": "môi trường"
+  },
+  {
+    "w": "climate",
+    "m": "khí hậu",
+    "cat": "môi trường"
+  },
+  {
+    "w": "conservation",
+    "m": "sự bảo tồn",
+    "cat": "môi trường"
+  },
+  {
+    "w": "contaminate",
+    "m": "làm ô nhiễm, nhiễm bẩn",
+    "cat": "môi trường"
+  },
+  {
+    "w": "deforestation",
+    "m": "nạn phá rừng",
+    "cat": "môi trường"
+  },
+  {
+    "w": "drought",
+    "m": "hạn hán",
+    "cat": "môi trường"
+  },
+  {
+    "w": "ecosystem",
+    "m": "hệ sinh thái",
+    "cat": "môi trường"
+  },
+  {
+    "w": "emission",
+    "m": "khí thải, sự phát thải",
+    "cat": "môi trường"
+  },
+  {
+    "w": "endangered",
+    "m": "có nguy cơ tuyệt chủng",
+    "cat": "môi trường"
+  },
+  {
+    "w": "flood",
+    "m": "lũ lụt",
+    "cat": "môi trường"
+  },
+  {
+    "w": "fossil fuel",
+    "m": "nhiên liệu hóa thạch",
+    "cat": "môi trường"
+  },
+  {
+    "w": "global warming",
+    "m": "sự nóng lên toàn cầu",
+    "cat": "môi trường"
+  },
+  {
+    "w": "greenhouse",
+    "m": "nhà kính; hiệu ứng nhà kính",
+    "cat": "môi trường"
+  },
+  {
+    "w": "habitat",
+    "m": "môi trường sống",
+    "cat": "môi trường"
+  },
+  {
+    "w": "litter",
+    "m": "rác vứt bừa bãi; xả rác",
+    "cat": "môi trường"
+  },
+  {
+    "w": "pollution",
+    "m": "sự ô nhiễm",
+    "cat": "môi trường"
+  },
+  {
+    "w": "recycle",
+    "m": "tái chế",
+    "cat": "môi trường"
+  },
+  {
+    "w": "renewable",
+    "m": "có thể tái tạo",
+    "cat": "môi trường"
+  },
+  {
+    "w": "reuse",
+    "m": "tái sử dụng",
+    "cat": "môi trường"
+  },
+  {
+    "w": "rubbish",
+    "m": "rác rưởi, đồ bỏ đi",
+    "cat": "môi trường"
+  },
+  {
+    "w": "shortage",
+    "m": "sự thiếu hụt",
+    "cat": "môi trường"
+  },
+  {
+    "w": "solar",
+    "m": "thuộc mặt trời, năng lượng mặt trời",
+    "cat": "môi trường"
+  },
+  {
+    "w": "sustainable",
+    "m": "bền vững",
+    "cat": "môi trường"
+  },
+  {
+    "w": "waste",
+    "m": "chất thải; lãng phí",
+    "cat": "môi trường"
+  },
+  {
+    "w": "bay",
+    "m": "vịnh",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "branch",
+    "m": "cành cây; chi nhánh",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "breeze",
+    "m": "gió nhẹ, làn gió",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "cave",
+    "m": "hang động",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "cliff",
+    "m": "vách đá",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "coast",
+    "m": "bờ biển",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "desert",
+    "m": "sa mạc",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "earthquake",
+    "m": "động đất",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "hurricane",
+    "m": "bão lớn, cuồng phong",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "landscape",
+    "m": "phong cảnh, cảnh quan",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "lightning",
+    "m": "tia chớp, sét",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "ocean",
+    "m": "đại dương",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "rainbow",
+    "m": "cầu vồng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "scenery",
+    "m": "cảnh đẹp, cảnh vật",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "soil",
+    "m": "đất, thổ nhưỡng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "stream",
+    "m": "dòng suối",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "thunder",
+    "m": "sấm, tiếng sấm",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "valley",
+    "m": "thung lũng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "volcano",
+    "m": "núi lửa",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "waterfall",
+    "m": "thác nước",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "absolutely",
+    "m": "hoàn toàn, tuyệt đối",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "apparently",
+    "m": "có vẻ như, hình như",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "completely",
+    "m": "hoàn toàn, trọn vẹn",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "constantly",
+    "m": "liên tục, không ngừng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "definitely",
+    "m": "chắc chắn, nhất định",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "eventually",
+    "m": "cuối cùng, rốt cuộc",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "extremely",
+    "m": "cực kỳ, vô cùng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "fortunately",
+    "m": "may mắn thay",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "frequently",
+    "m": "thường xuyên",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "gradually",
+    "m": "dần dần, từng bước",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "immediately",
+    "m": "ngay lập tức",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "occasionally",
+    "m": "thỉnh thoảng, đôi khi",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "particularly",
+    "m": "đặc biệt là",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "rarely",
+    "m": "hiếm khi",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "slightly",
+    "m": "hơi, một chút",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "ask out",
+    "m": "mời đi hẹn hò",
+    "cat": "phrasal"
+  },
+  {
+    "w": "ask around",
+    "m": "hỏi thăm xung quanh",
+    "cat": "phrasal"
+  },
+  {
+    "w": "add up",
+    "m": "cộng lại; hợp lý",
+    "cat": "phrasal"
+  },
+  {
+    "w": "break away",
+    "m": "thoát khỏi, tách ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "bump into",
+    "m": "tình cờ gặp; va phải",
+    "cat": "phrasal"
+  },
+  {
+    "w": "burn down",
+    "m": "cháy rụi, thiêu rụi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "call for",
+    "m": "đòi hỏi, kêu gọi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "call in",
+    "m": "ghé vào; gọi đến",
+    "cat": "phrasal"
+  },
+  {
+    "w": "care for",
+    "m": "chăm sóc; yêu mến",
+    "cat": "phrasal"
+  },
+  {
+    "w": "catch on",
+    "m": "trở nên phổ biến; hiểu ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "clear up",
+    "m": "dọn sạch; trời quang; làm sáng tỏ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "close down",
+    "m": "đóng cửa hẳn, ngừng hoạt động",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come about",
+    "m": "xảy ra, diễn ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "cross out",
+    "m": "gạch bỏ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "cut up",
+    "m": "cắt nhỏ, thái nhỏ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "die down",
+    "m": "lắng xuống, dịu đi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "die out",
+    "m": "tuyệt chủng, biến mất dần",
+    "cat": "phrasal"
+  },
+  {
+    "w": "doze off",
+    "m": "ngủ gật, thiếp đi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "draw up",
+    "m": "soạn thảo (hợp đồng)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "drift off",
+    "m": "thiếp ngủ, ngủ quên",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fade away",
+    "m": "phai nhạt dần, tan biến",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fall through",
+    "m": "thất bại, đổ bể (kế hoạch)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get across",
+    "m": "truyền đạt, làm cho hiểu",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get down to",
+    "m": "bắt tay vào làm",
+    "cat": "phrasal"
+  },
+  {
+    "w": "give way",
+    "m": "nhường đường; sụp đổ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go after",
+    "m": "theo đuổi, đuổi theo",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go along with",
+    "m": "đồng ý theo, tán thành",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go without",
+    "m": "nhịn, chịu thiếu",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hand down",
+    "m": "truyền lại (cho đời sau)",
+    "cat": "phrasal"
+  },
+  {
+    "w": "heat up",
+    "m": "hâm nóng; nóng lên",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hold back",
+    "m": "kìm nén, giữ lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "let out",
+    "m": "thả ra; thốt lên",
+    "cat": "phrasal"
+  },
+  {
+    "w": "light up",
+    "m": "thắp sáng, bừng sáng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "line up",
+    "m": "xếp hàng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "live on",
+    "m": "sống nhờ vào, sống bằng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "acquaintance",
+    "m": "người quen",
+    "cat": "người"
+  },
+  {
+    "w": "adult",
+    "m": "người lớn, người trưởng thành",
+    "cat": "người"
+  },
+  {
+    "w": "audience",
+    "m": "khán giả, thính giả",
+    "cat": "người"
+  },
+  {
+    "w": "celebrity",
+    "m": "người nổi tiếng",
+    "cat": "người"
+  },
+  {
+    "w": "character",
+    "m": "nhân vật; tính cách",
+    "cat": "người"
+  },
+  {
+    "w": "citizen",
+    "m": "công dân",
+    "cat": "người"
+  },
+  {
+    "w": "companion",
+    "m": "bạn đồng hành",
+    "cat": "người"
+  },
+  {
+    "w": "crowd",
+    "m": "đám đông",
+    "cat": "người"
+  },
+  {
+    "w": "customer",
+    "m": "khách hàng",
+    "cat": "người"
+  },
+  {
+    "w": "expert",
+    "m": "chuyên gia",
+    "cat": "người"
+  },
+  {
+    "w": "foreigner",
+    "m": "người nước ngoài",
+    "cat": "người"
+  },
+  {
+    "w": "generation",
+    "m": "thế hệ",
+    "cat": "người"
+  },
+  {
+    "w": "guest",
+    "m": "khách mời, khách",
+    "cat": "người"
+  },
+  {
+    "w": "individual",
+    "m": "cá nhân",
+    "cat": "người"
+  },
+  {
+    "w": "inhabitant",
+    "m": "cư dân, người dân",
+    "cat": "người"
+  },
+  {
+    "w": "neighbor",
+    "m": "hàng xóm",
+    "cat": "người"
+  },
+  {
+    "w": "owner",
+    "m": "chủ sở hữu, chủ nhân",
+    "cat": "người"
+  },
+  {
+    "w": "passenger",
+    "m": "hành khách",
+    "cat": "người"
+  },
+  {
+    "w": "pedestrian",
+    "m": "người đi bộ",
+    "cat": "người"
+  },
+  {
+    "w": "politician",
+    "m": "chính trị gia",
+    "cat": "người"
+  },
+  {
+    "w": "refugee",
+    "m": "người tị nạn",
+    "cat": "người"
+  },
+  {
+    "w": "stranger",
+    "m": "người lạ",
+    "cat": "người"
+  },
+  {
+    "w": "teenager",
+    "m": "thiếu niên, tuổi mới lớn",
+    "cat": "người"
+  },
+  {
+    "w": "victim",
+    "m": "nạn nhân",
+    "cat": "người"
+  },
+  {
+    "w": "witness",
+    "m": "nhân chứng",
+    "cat": "người"
+  },
+  {
+    "w": "ancestor",
+    "m": "tổ tiên, ông bà xưa",
+    "cat": "gia đình"
+  },
+  {
+    "w": "bride",
+    "m": "cô dâu",
+    "cat": "gia đình"
+  },
+  {
+    "w": "bridegroom",
+    "m": "chú rể",
+    "cat": "gia đình"
+  },
+  {
+    "w": "divorce",
+    "m": "ly hôn, ly dị",
+    "cat": "gia đình"
+  },
+  {
+    "w": "engaged",
+    "m": "đã đính hôn",
+    "cat": "gia đình"
+  },
+  {
+    "w": "household",
+    "m": "hộ gia đình",
+    "cat": "gia đình"
+  },
+  {
+    "w": "in-laws",
+    "m": "gia đình bên vợ hoặc chồng",
+    "cat": "gia đình"
+  },
+  {
+    "w": "marriage",
+    "m": "hôn nhân, đám cưới",
+    "cat": "gia đình"
+  },
+  {
+    "w": "nephew",
+    "m": "cháu trai (gọi bằng cô, chú)",
+    "cat": "gia đình"
+  },
+  {
+    "w": "niece",
+    "m": "cháu gái (gọi bằng cô, chú)",
+    "cat": "gia đình"
+  },
+  {
+    "w": "orphan",
+    "m": "trẻ mồ côi",
+    "cat": "gia đình"
+  },
+  {
+    "w": "relative",
+    "m": "họ hàng, người thân",
+    "cat": "gia đình"
+  },
+  {
+    "w": "sibling",
+    "m": "anh chị em ruột",
+    "cat": "gia đình"
+  },
+  {
+    "w": "spouse",
+    "m": "vợ hoặc chồng",
+    "cat": "gia đình"
+  },
+  {
+    "w": "twin",
+    "m": "sinh đôi",
+    "cat": "gia đình"
+  },
+  {
+    "w": "charity",
+    "m": "từ thiện, tổ chức từ thiện",
+    "cat": "xã hội"
+  },
+  {
+    "w": "community",
+    "m": "cộng đồng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "crime",
+    "m": "tội ác, hành vi phạm tội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "criminal",
+    "m": "tội phạm, kẻ phạm pháp",
+    "cat": "xã hội"
+  },
+  {
+    "w": "demonstration",
+    "m": "cuộc biểu tình; sự trình diễn",
+    "cat": "xã hội"
+  },
+  {
+    "w": "discrimination",
+    "m": "sự phân biệt đối xử",
+    "cat": "xã hội"
+  },
+  {
+    "w": "election",
+    "m": "cuộc bầu cử",
+    "cat": "xã hội"
+  },
+  {
+    "w": "equality",
+    "m": "sự bình đẳng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "freedom",
+    "m": "tự do",
+    "cat": "xã hội"
+  },
+  {
+    "w": "government",
+    "m": "chính phủ",
+    "cat": "xã hội"
+  },
+  {
+    "w": "homeless",
+    "m": "vô gia cư",
+    "cat": "xã hội"
+  },
+  {
+    "w": "immigrant",
+    "m": "người nhập cư",
+    "cat": "xã hội"
+  },
+  {
+    "w": "justice",
+    "m": "công lý, công bằng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "law",
+    "m": "luật, pháp luật",
+    "cat": "xã hội"
+  },
+  {
+    "w": "media",
+    "m": "truyền thông, báo đài",
+    "cat": "xã hội"
+  },
+  {
+    "w": "minority",
+    "m": "thiểu số, nhóm thiểu số",
+    "cat": "xã hội"
+  },
+  {
+    "w": "population",
+    "m": "dân số",
+    "cat": "xã hội"
+  },
+  {
+    "w": "poverty",
+    "m": "sự nghèo đói",
+    "cat": "xã hội"
+  },
+  {
+    "w": "prison",
+    "m": "nhà tù",
+    "cat": "xã hội"
+  },
+  {
+    "w": "protest",
+    "m": "sự phản đối; biểu tình phản đối",
+    "cat": "xã hội"
+  },
+  {
+    "w": "punishment",
+    "m": "hình phạt, sự trừng phạt",
+    "cat": "xã hội"
+  },
+  {
+    "w": "rights",
+    "m": "quyền, quyền lợi",
+    "cat": "xã hội"
+  },
+  {
+    "w": "rumor",
+    "m": "tin đồn",
+    "cat": "xã hội"
+  },
+  {
+    "w": "society",
+    "m": "xã hội",
+    "cat": "xã hội"
+  },
+  {
+    "w": "trend",
+    "m": "xu hướng, trào lưu",
+    "cat": "xã hội"
+  },
+  {
+    "w": "unemployment",
+    "m": "nạn thất nghiệp",
+    "cat": "xã hội"
+  },
+  {
+    "w": "violence",
+    "m": "bạo lực",
+    "cat": "xã hội"
+  },
+  {
+    "w": "volunteer",
+    "m": "tình nguyện viên; làm tình nguyện",
+    "cat": "xã hội"
+  },
+  {
+    "w": "vote",
+    "m": "bỏ phiếu, bầu chọn",
+    "cat": "xã hội"
+  },
+  {
+    "w": "welfare",
+    "m": "phúc lợi, an sinh",
+    "cat": "xã hội"
+  },
+  {
+    "w": "architecture",
+    "m": "kiến trúc",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "carnival",
+    "m": "lễ hội hóa trang, hội hè",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "ceremony",
+    "m": "buổi lễ, nghi lễ",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "costume",
+    "m": "trang phục, phục trang",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "culture",
+    "m": "văn hóa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "exhibition",
+    "m": "triển lãm",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "festival",
+    "m": "lễ hội",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "fireworks",
+    "m": "pháo hoa",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "folk",
+    "m": "dân gian",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "heritage",
+    "m": "di sản",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "instrument",
+    "m": "nhạc cụ; dụng cụ",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "masterpiece",
+    "m": "kiệt tác",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "monument",
+    "m": "đài tưởng niệm, tượng đài",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "novel",
+    "m": "tiểu thuyết",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "orchestra",
+    "m": "dàn nhạc giao hưởng",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "parade",
+    "m": "cuộc diễu hành",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "poetry",
+    "m": "thơ ca",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "sculpture",
+    "m": "điêu khắc, tác phẩm điêu khắc",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "theater",
+    "m": "nhà hát, rạp hát",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "tradition",
+    "m": "truyền thống",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "athlete",
+    "m": "vận động viên",
+    "cat": "thể thao"
+  },
+  {
+    "w": "championship",
+    "m": "giải vô địch",
+    "cat": "thể thao"
+  },
+  {
+    "w": "coach",
+    "m": "huấn luyện viên",
+    "cat": "thể thao"
+  },
+  {
+    "w": "competition",
+    "m": "cuộc thi, cuộc đua",
+    "cat": "thể thao"
+  },
+  {
+    "w": "court",
+    "m": "sân (tennis, bóng rổ)",
+    "cat": "thể thao"
+  },
+  {
+    "w": "defeat",
+    "m": "đánh bại; thất bại",
+    "cat": "thể thao"
+  },
+  {
+    "w": "goalkeeper",
+    "m": "thủ môn",
+    "cat": "thể thao"
+  },
+  {
+    "w": "gym",
+    "m": "phòng tập thể hình",
+    "cat": "thể thao"
+  },
+  {
+    "w": "league",
+    "m": "giải đấu, liên đoàn",
+    "cat": "thể thao"
+  },
+  {
+    "w": "medal",
+    "m": "huy chương",
+    "cat": "thể thao"
+  },
+  {
+    "w": "opponent",
+    "m": "đối thủ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "racket",
+    "m": "vợt (tennis, cầu lông)",
+    "cat": "thể thao"
+  },
+  {
+    "w": "referee",
+    "m": "trọng tài",
+    "cat": "thể thao"
+  },
+  {
+    "w": "score",
+    "m": "tỷ số; ghi điểm",
+    "cat": "thể thao"
+  },
+  {
+    "w": "spectator",
+    "m": "khán giả xem trực tiếp",
+    "cat": "thể thao"
+  },
+  {
+    "w": "stadium",
+    "m": "sân vận động",
+    "cat": "thể thao"
+  },
+  {
+    "w": "tournament",
+    "m": "giải đấu, vòng thi đấu",
+    "cat": "thể thao"
+  },
+  {
+    "w": "trophy",
+    "m": "cúp, chiếc cúp",
+    "cat": "thể thao"
+  },
+  {
+    "w": "victory",
+    "m": "chiến thắng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "whistle",
+    "m": "còi; huýt sáo",
+    "cat": "thể thao"
+  },
+  {
+    "w": "apartment",
+    "m": "căn hộ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "bakery",
+    "m": "tiệm bánh",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "basement",
+    "m": "tầng hầm",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "bookstore",
+    "m": "hiệu sách, nhà sách",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "castle",
+    "m": "lâu đài",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "cathedral",
+    "m": "nhà thờ lớn",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "cottage",
+    "m": "nhà tranh, nhà nhỏ ở quê",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "countryside",
+    "m": "vùng nông thôn, miền quê",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "district",
+    "m": "quận, huyện, khu vực",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "downtown",
+    "m": "trung tâm thành phố",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "entrance",
+    "m": "lối vào, cổng vào",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "fountain",
+    "m": "đài phun nước",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "harbor",
+    "m": "bến cảng",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "headquarters",
+    "m": "trụ sở chính",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "laundry",
+    "m": "tiệm giặt; đồ giặt",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "neighborhood",
+    "m": "khu phố, vùng lân cận",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "palace",
+    "m": "cung điện",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "pavement",
+    "m": "vỉa hè",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "region",
+    "m": "vùng, khu vực, miền",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "rural",
+    "m": "thuộc nông thôn",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "square",
+    "m": "quảng trường; hình vuông",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "suburb",
+    "m": "vùng ngoại ô",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "town hall",
+    "m": "tòa thị chính",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "urban",
+    "m": "thuộc thành thị, đô thị",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "warehouse",
+    "m": "nhà kho, kho hàng",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "backpack",
+    "m": "ba lô",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "blanket",
+    "m": "chăn, mền",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "bucket",
+    "m": "xô, thùng xách",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "candle",
+    "m": "nến",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "cushion",
+    "m": "đệm, gối tựa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "drawer",
+    "m": "ngăn kéo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "envelope",
+    "m": "phong bì",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "furniture",
+    "m": "đồ nội thất",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "hammer",
+    "m": "búa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "ladder",
+    "m": "thang, cái thang",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "leather",
+    "m": "da thuộc, đồ da",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "mirror",
+    "m": "gương",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "needle",
+    "m": "kim khâu, cây kim",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "packet",
+    "m": "gói nhỏ, bao",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "pillow",
+    "m": "gối",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "razor",
+    "m": "dao cạo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "rope",
+    "m": "dây thừng",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "scissors",
+    "m": "kéo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "shelf",
+    "m": "kệ, giá để đồ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "string",
+    "m": "dây, sợi dây mảnh",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "tool",
+    "m": "dụng cụ, công cụ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "towel",
+    "m": "khăn tắm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "vase",
+    "m": "lọ hoa, bình hoa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "wallet",
+    "m": "ví tiền",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "zipper",
+    "m": "khóa kéo",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "afterwards",
+    "m": "sau đó, về sau",
+    "cat": "thời gian"
+  },
+  {
+    "w": "annual",
+    "m": "hằng năm, thường niên",
+    "cat": "thời gian"
+  },
+  {
+    "w": "century",
+    "m": "thế kỷ",
+    "cat": "thời gian"
+  },
+  {
+    "w": "dawn",
+    "m": "bình minh, rạng đông",
+    "cat": "thời gian"
+  },
+  {
+    "w": "decade",
+    "m": "thập kỷ",
+    "cat": "thời gian"
+  },
+  {
+    "w": "dusk",
+    "m": "hoàng hôn, chạng vạng",
+    "cat": "thời gian"
+  },
+  {
+    "w": "fortnight",
+    "m": "hai tuần lễ",
+    "cat": "thời gian"
+  },
+  {
+    "w": "meanwhile",
+    "m": "trong khi đó",
+    "cat": "thời gian"
+  },
+  {
+    "w": "midnight",
+    "m": "nửa đêm",
+    "cat": "thời gian"
+  },
+  {
+    "w": "moment",
+    "m": "khoảnh khắc, chốc lát",
+    "cat": "thời gian"
+  },
+  {
+    "w": "monthly",
+    "m": "hằng tháng",
+    "cat": "thời gian"
+  },
+  {
+    "w": "nowadays",
+    "m": "ngày nay, hiện nay",
+    "cat": "thời gian"
+  },
+  {
+    "w": "permanent",
+    "m": "lâu dài, vĩnh viễn",
+    "cat": "thời gian"
+  },
+  {
+    "w": "temporary",
+    "m": "tạm thời",
+    "cat": "thời gian"
+  },
+  {
+    "w": "weekly",
+    "m": "hằng tuần",
+    "cat": "thời gian"
+  }
+]

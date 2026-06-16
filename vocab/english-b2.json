@@ -1,0 +1,10002 @@
+[
+  {
+    "w": "hypothesis",
+    "m": "giả thuyết",
+    "cat": "academic"
+  },
+  {
+    "w": "methodology",
+    "m": "phương pháp luận",
+    "cat": "academic"
+  },
+  {
+    "w": "discourse",
+    "m": "diễn ngôn, bài luận",
+    "cat": "academic"
+  },
+  {
+    "w": "framework",
+    "m": "khung lý thuyết, cấu trúc",
+    "cat": "academic"
+  },
+  {
+    "w": "paradigm",
+    "m": "mô hình tư duy, hệ thống quan điểm",
+    "cat": "academic"
+  },
+  {
+    "w": "correlation",
+    "m": "tương quan",
+    "cat": "academic"
+  },
+  {
+    "w": "causation",
+    "m": "quan hệ nhân quả",
+    "cat": "academic"
+  },
+  {
+    "w": "empirical",
+    "m": "dựa trên thực nghiệm",
+    "cat": "academic"
+  },
+  {
+    "w": "quantitative",
+    "m": "định lượng",
+    "cat": "academic"
+  },
+  {
+    "w": "qualitative",
+    "m": "định tính",
+    "cat": "academic"
+  },
+  {
+    "w": "theoretical",
+    "m": "thuộc lý thuyết",
+    "cat": "academic"
+  },
+  {
+    "w": "conceptual",
+    "m": "thuộc khái niệm",
+    "cat": "academic"
+  },
+  {
+    "w": "analytical",
+    "m": "mang tính phân tích",
+    "cat": "academic"
+  },
+  {
+    "w": "systematic",
+    "m": "có hệ thống",
+    "cat": "academic"
+  },
+  {
+    "w": "rigorous",
+    "m": "chặt chẽ, nghiêm ngặt",
+    "cat": "academic"
+  },
+  {
+    "w": "objective",
+    "m": "khách quan",
+    "cat": "academic"
+  },
+  {
+    "w": "subjective",
+    "m": "chủ quan",
+    "cat": "academic"
+  },
+  {
+    "w": "reliable",
+    "m": "đáng tin cậy",
+    "cat": "academic"
+  },
+  {
+    "w": "valid",
+    "m": "hợp lệ, có giá trị",
+    "cat": "academic"
+  },
+  {
+    "w": "ambiguous",
+    "m": "mơ hồ, không rõ ràng",
+    "cat": "academic"
+  },
+  {
+    "w": "definitive",
+    "m": "dứt khoát, xác định",
+    "cat": "academic"
+  },
+  {
+    "w": "preliminary",
+    "m": "sơ bộ, ban đầu",
+    "cat": "academic"
+  },
+  {
+    "w": "fundamental",
+    "m": "cơ bản, nền tảng",
+    "cat": "academic"
+  },
+  {
+    "w": "underlying",
+    "m": "nằm dưới, cơ sở",
+    "cat": "academic"
+  },
+  {
+    "w": "inherent",
+    "m": "vốn có, nội tại",
+    "cat": "academic"
+  },
+  {
+    "w": "explicit",
+    "m": "rõ ràng, tường minh",
+    "cat": "academic"
+  },
+  {
+    "w": "implicit",
+    "m": "ngầm hiểu, ẩn ý",
+    "cat": "academic"
+  },
+  {
+    "w": "abstract",
+    "m": "trừu tượng",
+    "cat": "academic"
+  },
+  {
+    "w": "concrete",
+    "m": "cụ thể, thực tế",
+    "cat": "academic"
+  },
+  {
+    "w": "universal",
+    "m": "phổ quát, toàn cầu",
+    "cat": "academic"
+  },
+  {
+    "w": "particular",
+    "m": "đặc biệt, cụ thể",
+    "cat": "academic"
+  },
+  {
+    "w": "comprehensive",
+    "m": "toàn diện, đầy đủ",
+    "cat": "academic"
+  },
+  {
+    "w": "substantial",
+    "m": "đáng kể, quan trọng",
+    "cat": "academic"
+  },
+  {
+    "w": "significant",
+    "m": "có ý nghĩa, đáng chú ý",
+    "cat": "academic"
+  },
+  {
+    "w": "conclusive",
+    "m": "dứt khoát, kết luận được",
+    "cat": "academic"
+  },
+  {
+    "w": "assumption",
+    "m": "giả định, giả thiết",
+    "cat": "academic"
+  },
+  {
+    "w": "implication",
+    "m": "hàm ý, tác động",
+    "cat": "academic"
+  },
+  {
+    "w": "perspective",
+    "m": "quan điểm, góc nhìn",
+    "cat": "academic"
+  },
+  {
+    "w": "criterion",
+    "m": "tiêu chí, chuẩn mực",
+    "cat": "academic"
+  },
+  {
+    "w": "evidence",
+    "m": "bằng chứng",
+    "cat": "academic"
+  },
+  {
+    "w": "inference",
+    "m": "suy luận, kết luận",
+    "cat": "academic"
+  },
+  {
+    "w": "rationale",
+    "m": "lý do, căn cứ",
+    "cat": "academic"
+  },
+  {
+    "w": "scope",
+    "m": "phạm vi, quy mô",
+    "cat": "academic"
+  },
+  {
+    "w": "thesis",
+    "m": "luận điểm, luận văn",
+    "cat": "academic"
+  },
+  {
+    "w": "argument",
+    "m": "lập luận, tranh luận",
+    "cat": "academic"
+  },
+  {
+    "w": "principle",
+    "m": "nguyên tắc, nguyên lý",
+    "cat": "academic"
+  },
+  {
+    "w": "phenomenon",
+    "m": "hiện tượng",
+    "cat": "academic"
+  },
+  {
+    "w": "mechanism",
+    "m": "cơ chế",
+    "cat": "academic"
+  },
+  {
+    "w": "dimension",
+    "m": "chiều, khía cạnh",
+    "cat": "academic"
+  },
+  {
+    "w": "component",
+    "m": "thành phần, cấu phần",
+    "cat": "academic"
+  },
+  {
+    "w": "domain",
+    "m": "lĩnh vực, phạm vi",
+    "cat": "academic"
+  },
+  {
+    "w": "variable",
+    "m": "biến số",
+    "cat": "academic"
+  },
+  {
+    "w": "constant",
+    "m": "hằng số, nhất quán",
+    "cat": "academic"
+  },
+  {
+    "w": "parameter",
+    "m": "tham số, thông số",
+    "cat": "academic"
+  },
+  {
+    "w": "outcome",
+    "m": "kết quả, kết cục",
+    "cat": "academic"
+  },
+  {
+    "w": "impact",
+    "m": "tác động, ảnh hưởng",
+    "cat": "academic"
+  },
+  {
+    "w": "context",
+    "m": "bối cảnh, ngữ cảnh",
+    "cat": "academic"
+  },
+  {
+    "w": "rationale",
+    "m": "lý do, căn cứ lý luận",
+    "cat": "academic"
+  },
+  {
+    "w": "synthesis",
+    "m": "tổng hợp",
+    "cat": "academic"
+  },
+  {
+    "w": "analysis",
+    "m": "phân tích",
+    "cat": "academic"
+  },
+  {
+    "w": "evaluation",
+    "m": "đánh giá",
+    "cat": "academic"
+  },
+  {
+    "w": "interpretation",
+    "m": "giải thích, diễn giải",
+    "cat": "academic"
+  },
+  {
+    "w": "classification",
+    "m": "phân loại",
+    "cat": "academic"
+  },
+  {
+    "w": "categorization",
+    "m": "sự phân nhóm",
+    "cat": "academic"
+  },
+  {
+    "w": "generalization",
+    "m": "khái quát hóa",
+    "cat": "academic"
+  },
+  {
+    "w": "specification",
+    "m": "đặc tả, chỉ rõ",
+    "cat": "academic"
+  },
+  {
+    "w": "limitation",
+    "m": "giới hạn, hạn chế",
+    "cat": "academic"
+  },
+  {
+    "w": "assumption",
+    "m": "giả định",
+    "cat": "academic"
+  },
+  {
+    "w": "benchmark",
+    "m": "chuẩn so sánh, điểm tham chiếu",
+    "cat": "academic"
+  },
+  {
+    "w": "protocol",
+    "m": "quy trình, giao thức",
+    "cat": "academic"
+  },
+  {
+    "w": "objective",
+    "m": "mục tiêu, khách quan",
+    "cat": "academic"
+  },
+  {
+    "w": "constraint",
+    "m": "ràng buộc, hạn chế",
+    "cat": "academic"
+  },
+  {
+    "w": "index",
+    "m": "chỉ số, chỉ mục",
+    "cat": "academic"
+  },
+  {
+    "w": "matrix",
+    "m": "ma trận, hệ thống",
+    "cat": "academic"
+  },
+  {
+    "w": "cycle",
+    "m": "chu kỳ, vòng",
+    "cat": "academic"
+  },
+  {
+    "w": "phase",
+    "m": "giai đoạn, pha",
+    "cat": "academic"
+  },
+  {
+    "w": "threshold",
+    "m": "ngưỡng, ranh giới",
+    "cat": "academic"
+  },
+  {
+    "w": "magnitude",
+    "m": "độ lớn, tầm quan trọng",
+    "cat": "academic"
+  },
+  {
+    "w": "correlation coefficient",
+    "m": "hệ số tương quan",
+    "cat": "academic"
+  },
+  {
+    "w": "standard deviation",
+    "m": "độ lệch chuẩn",
+    "cat": "academic"
+  },
+  {
+    "w": "mean",
+    "m": "giá trị trung bình",
+    "cat": "academic"
+  },
+  {
+    "w": "median",
+    "m": "trung vị",
+    "cat": "academic"
+  },
+  {
+    "w": "mode",
+    "m": "số yếu vị, chế độ",
+    "cat": "academic"
+  },
+  {
+    "w": "bias",
+    "m": "sai lệch, thành kiến",
+    "cat": "academic"
+  },
+  {
+    "w": "validity",
+    "m": "tính hợp lệ",
+    "cat": "academic"
+  },
+  {
+    "w": "reliability",
+    "m": "độ tin cậy",
+    "cat": "academic"
+  },
+  {
+    "w": "generalizability",
+    "m": "khả năng khái quát",
+    "cat": "academic"
+  },
+  {
+    "w": "replicability",
+    "m": "khả năng tái lặp",
+    "cat": "academic"
+  },
+  {
+    "w": "operationalize",
+    "m": "vận hành hóa, cụ thể hóa",
+    "cat": "academic"
+  },
+  {
+    "w": "triangulate",
+    "m": "tam giác hóa (kiểm chứng từ nhiều nguồn)",
+    "cat": "academic"
+  },
+  {
+    "w": "nuance",
+    "m": "sắc thái, chi tiết tinh tế",
+    "cat": "academic"
+  },
+  {
+    "w": "critique",
+    "m": "phê bình, nhận xét phê phán",
+    "cat": "academic"
+  },
+  {
+    "w": "proposition",
+    "m": "mệnh đề, đề xuất",
+    "cat": "academic"
+  },
+  {
+    "w": "assertion",
+    "m": "khẳng định, lập luận",
+    "cat": "academic"
+  },
+  {
+    "w": "premise",
+    "m": "tiền đề",
+    "cat": "academic"
+  },
+  {
+    "w": "conclusion",
+    "m": "kết luận",
+    "cat": "academic"
+  },
+  {
+    "w": "counterargument",
+    "m": "lập luận phản biện",
+    "cat": "academic"
+  },
+  {
+    "w": "refutation",
+    "m": "bác bỏ, phản bác",
+    "cat": "academic"
+  },
+  {
+    "w": "acknowledgment",
+    "m": "thừa nhận, xác nhận",
+    "cat": "academic"
+  },
+  {
+    "w": "observation",
+    "m": "quan sát",
+    "cat": "academic"
+  },
+  {
+    "w": "documentation",
+    "m": "tài liệu hóa",
+    "cat": "academic"
+  },
+  {
+    "w": "entrepreneur",
+    "m": "doanh nhân, người khởi nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "investment",
+    "m": "đầu tư",
+    "cat": "business"
+  },
+  {
+    "w": "revenue",
+    "m": "doanh thu",
+    "cat": "business"
+  },
+  {
+    "w": "expenditure",
+    "m": "chi tiêu, chi phí",
+    "cat": "business"
+  },
+  {
+    "w": "bankruptcy",
+    "m": "phá sản",
+    "cat": "business"
+  },
+  {
+    "w": "merger",
+    "m": "sáp nhập",
+    "cat": "business"
+  },
+  {
+    "w": "acquisition",
+    "m": "thâu tóm, mua lại",
+    "cat": "business"
+  },
+  {
+    "w": "portfolio",
+    "m": "danh mục đầu tư",
+    "cat": "business"
+  },
+  {
+    "w": "inflation",
+    "m": "lạm phát",
+    "cat": "business"
+  },
+  {
+    "w": "recession",
+    "m": "suy thoái kinh tế",
+    "cat": "business"
+  },
+  {
+    "w": "depreciation",
+    "m": "khấu hao, mất giá",
+    "cat": "business"
+  },
+  {
+    "w": "dividend",
+    "m": "cổ tức",
+    "cat": "business"
+  },
+  {
+    "w": "equity",
+    "m": "vốn chủ sở hữu, cổ phần",
+    "cat": "business"
+  },
+  {
+    "w": "liability",
+    "m": "nợ phải trả, trách nhiệm pháp lý",
+    "cat": "business"
+  },
+  {
+    "w": "asset",
+    "m": "tài sản",
+    "cat": "business"
+  },
+  {
+    "w": "stakeholder",
+    "m": "bên liên quan",
+    "cat": "business"
+  },
+  {
+    "w": "shareholder",
+    "m": "cổ đông",
+    "cat": "business"
+  },
+  {
+    "w": "strategy",
+    "m": "chiến lược",
+    "cat": "business"
+  },
+  {
+    "w": "competitive",
+    "m": "cạnh tranh",
+    "cat": "business"
+  },
+  {
+    "w": "market share",
+    "m": "thị phần",
+    "cat": "business"
+  },
+  {
+    "w": "branding",
+    "m": "xây dựng thương hiệu",
+    "cat": "business"
+  },
+  {
+    "w": "marketing",
+    "m": "tiếp thị",
+    "cat": "business"
+  },
+  {
+    "w": "supply chain",
+    "m": "chuỗi cung ứng",
+    "cat": "business"
+  },
+  {
+    "w": "logistics",
+    "m": "hậu cần, logistics",
+    "cat": "business"
+  },
+  {
+    "w": "retail",
+    "m": "bán lẻ",
+    "cat": "business"
+  },
+  {
+    "w": "wholesale",
+    "m": "bán buôn",
+    "cat": "business"
+  },
+  {
+    "w": "commodity",
+    "m": "hàng hóa, nguyên liệu",
+    "cat": "business"
+  },
+  {
+    "w": "venture capital",
+    "m": "vốn mạo hiểm",
+    "cat": "business"
+  },
+  {
+    "w": "startup",
+    "m": "công ty khởi nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "disrupt",
+    "m": "gián đoạn, làm thay đổi hoàn toàn",
+    "cat": "business"
+  },
+  {
+    "w": "innovate",
+    "m": "đổi mới sáng tạo",
+    "cat": "business"
+  },
+  {
+    "w": "scale",
+    "m": "quy mô, mở rộng quy mô",
+    "cat": "business"
+  },
+  {
+    "w": "pivot",
+    "m": "chuyển hướng chiến lược",
+    "cat": "business"
+  },
+  {
+    "w": "forecast",
+    "m": "dự báo",
+    "cat": "business"
+  },
+  {
+    "w": "budget",
+    "m": "ngân sách",
+    "cat": "business"
+  },
+  {
+    "w": "audit",
+    "m": "kiểm toán",
+    "cat": "business"
+  },
+  {
+    "w": "compliance",
+    "m": "tuân thủ quy định",
+    "cat": "business"
+  },
+  {
+    "w": "outsource",
+    "m": "thuê ngoài",
+    "cat": "business"
+  },
+  {
+    "w": "delegate",
+    "m": "ủy quyền, giao nhiệm vụ",
+    "cat": "business"
+  },
+  {
+    "w": "negotiate",
+    "m": "đàm phán",
+    "cat": "business"
+  },
+  {
+    "w": "contract",
+    "m": "hợp đồng",
+    "cat": "business"
+  },
+  {
+    "w": "proposal",
+    "m": "đề xuất",
+    "cat": "business"
+  },
+  {
+    "w": "capital",
+    "m": "vốn, tư bản",
+    "cat": "business"
+  },
+  {
+    "w": "profit margin",
+    "m": "biên lợi nhuận",
+    "cat": "business"
+  },
+  {
+    "w": "cash flow",
+    "m": "dòng tiền",
+    "cat": "business"
+  },
+  {
+    "w": "balance sheet",
+    "m": "bảng cân đối kế toán",
+    "cat": "business"
+  },
+  {
+    "w": "income statement",
+    "m": "báo cáo lợi nhuận",
+    "cat": "business"
+  },
+  {
+    "w": "quarterly report",
+    "m": "báo cáo quý",
+    "cat": "business"
+  },
+  {
+    "w": "fiscal year",
+    "m": "năm tài chính",
+    "cat": "business"
+  },
+  {
+    "w": "gross domestic product",
+    "m": "tổng sản phẩm quốc nội",
+    "cat": "business"
+  },
+  {
+    "w": "interest rate",
+    "m": "lãi suất",
+    "cat": "business"
+  },
+  {
+    "w": "exchange rate",
+    "m": "tỷ giá hối đoái",
+    "cat": "business"
+  },
+  {
+    "w": "trade deficit",
+    "m": "thâm hụt thương mại",
+    "cat": "business"
+  },
+  {
+    "w": "monopoly",
+    "m": "độc quyền",
+    "cat": "business"
+  },
+  {
+    "w": "oligopoly",
+    "m": "độc quyền nhóm",
+    "cat": "business"
+  },
+  {
+    "w": "subsidy",
+    "m": "trợ cấp, bao cấp",
+    "cat": "business"
+  },
+  {
+    "w": "tariff",
+    "m": "thuế quan",
+    "cat": "business"
+  },
+  {
+    "w": "quota",
+    "m": "hạn ngạch",
+    "cat": "business"
+  },
+  {
+    "w": "arbitrage",
+    "m": "kinh doanh chênh lệch giá",
+    "cat": "business"
+  },
+  {
+    "w": "hedge",
+    "m": "phòng ngừa rủi ro",
+    "cat": "business"
+  },
+  {
+    "w": "derivative",
+    "m": "công cụ phái sinh",
+    "cat": "business"
+  },
+  {
+    "w": "bond",
+    "m": "trái phiếu",
+    "cat": "business"
+  },
+  {
+    "w": "stock market",
+    "m": "thị trường chứng khoán",
+    "cat": "business"
+  },
+  {
+    "w": "IPO",
+    "m": "phát hành cổ phiếu lần đầu ra công chúng",
+    "cat": "business"
+  },
+  {
+    "w": "due diligence",
+    "m": "thẩm định doanh nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "benchmark",
+    "m": "chuẩn đo lường hiệu suất",
+    "cat": "business"
+  },
+  {
+    "w": "KPI",
+    "m": "chỉ số hiệu suất chính",
+    "cat": "business"
+  },
+  {
+    "w": "ROI",
+    "m": "lợi tức đầu tư",
+    "cat": "business"
+  },
+  {
+    "w": "brand equity",
+    "m": "giá trị thương hiệu",
+    "cat": "business"
+  },
+  {
+    "w": "customer retention",
+    "m": "giữ chân khách hàng",
+    "cat": "business"
+  },
+  {
+    "w": "market penetration",
+    "m": "thâm nhập thị trường",
+    "cat": "business"
+  },
+  {
+    "w": "product lifecycle",
+    "m": "vòng đời sản phẩm",
+    "cat": "business"
+  },
+  {
+    "w": "value proposition",
+    "m": "đề xuất giá trị",
+    "cat": "business"
+  },
+  {
+    "w": "competitive advantage",
+    "m": "lợi thế cạnh tranh",
+    "cat": "business"
+  },
+  {
+    "w": "economies of scale",
+    "m": "lợi thế kinh tế theo quy mô",
+    "cat": "business"
+  },
+  {
+    "w": "vertical integration",
+    "m": "tích hợp theo chiều dọc",
+    "cat": "business"
+  },
+  {
+    "w": "diversification",
+    "m": "đa dạng hóa",
+    "cat": "business"
+  },
+  {
+    "w": "restructuring",
+    "m": "tái cơ cấu",
+    "cat": "business"
+  },
+  {
+    "w": "downsizing",
+    "m": "thu hẹp quy mô",
+    "cat": "business"
+  },
+  {
+    "w": "leverage",
+    "m": "đòn bẩy, tận dụng lợi thế",
+    "cat": "business"
+  },
+  {
+    "w": "liquidity",
+    "m": "tính thanh khoản",
+    "cat": "business"
+  },
+  {
+    "w": "solvency",
+    "m": "khả năng thanh toán",
+    "cat": "business"
+  },
+  {
+    "w": "collateral",
+    "m": "tài sản thế chấp",
+    "cat": "business"
+  },
+  {
+    "w": "interest",
+    "m": "lãi suất, mối quan tâm",
+    "cat": "business"
+  },
+  {
+    "w": "amortization",
+    "m": "khấu hao dần, trả nợ dần",
+    "cat": "business"
+  },
+  {
+    "w": "albeit",
+    "m": "mặc dù, dù",
+    "cat": "connectors"
+  },
+  {
+    "w": "whereby",
+    "m": "bằng cách đó, qua đó",
+    "cat": "connectors"
+  },
+  {
+    "w": "thereof",
+    "m": "của cái đó, về điều đó",
+    "cat": "connectors"
+  },
+  {
+    "w": "henceforth",
+    "m": "từ nay trở đi",
+    "cat": "connectors"
+  },
+  {
+    "w": "herein",
+    "m": "trong đây, ở đây",
+    "cat": "connectors"
+  },
+  {
+    "w": "notwithstanding",
+    "m": "bất chấp, mặc dù",
+    "cat": "connectors"
+  },
+  {
+    "w": "inasmuch as",
+    "m": "vì rằng, trong chừng mực",
+    "cat": "connectors"
+  },
+  {
+    "w": "heretofore",
+    "m": "trước đây, cho đến nay",
+    "cat": "connectors"
+  },
+  {
+    "w": "conversely",
+    "m": "ngược lại",
+    "cat": "connectors"
+  },
+  {
+    "w": "alternatively",
+    "m": "hoặc là, như một lựa chọn khác",
+    "cat": "connectors"
+  },
+  {
+    "w": "correspondingly",
+    "m": "tương ứng, tương tự",
+    "cat": "connectors"
+  },
+  {
+    "w": "simultaneously",
+    "m": "đồng thời",
+    "cat": "connectors"
+  },
+  {
+    "w": "concurrently",
+    "m": "đồng thời, song song",
+    "cat": "connectors"
+  },
+  {
+    "w": "respectively",
+    "m": "theo thứ tự, lần lượt",
+    "cat": "connectors"
+  },
+  {
+    "w": "exclusively",
+    "m": "độc quyền, chỉ riêng",
+    "cat": "connectors"
+  },
+  {
+    "w": "predominantly",
+    "m": "chủ yếu, phần lớn",
+    "cat": "connectors"
+  },
+  {
+    "w": "considerably",
+    "m": "đáng kể, khá nhiều",
+    "cat": "connectors"
+  },
+  {
+    "w": "substantially",
+    "m": "đáng kể, về cơ bản",
+    "cat": "connectors"
+  },
+  {
+    "w": "relatively",
+    "m": "tương đối",
+    "cat": "connectors"
+  },
+  {
+    "w": "comparatively",
+    "m": "một cách tương đối",
+    "cat": "connectors"
+  },
+  {
+    "w": "extensively",
+    "m": "rộng rãi, nhiều",
+    "cat": "connectors"
+  },
+  {
+    "w": "intensively",
+    "m": "chuyên sâu, mạnh mẽ",
+    "cat": "connectors"
+  },
+  {
+    "w": "consequently",
+    "m": "do đó, vì vậy",
+    "cat": "connectors"
+  },
+  {
+    "w": "subsequently",
+    "m": "sau đó, tiếp theo",
+    "cat": "connectors"
+  },
+  {
+    "w": "nevertheless",
+    "m": "tuy nhiên, dù vậy",
+    "cat": "connectors"
+  },
+  {
+    "w": "nonetheless",
+    "m": "dù thế nào đi nữa",
+    "cat": "connectors"
+  },
+  {
+    "w": "furthermore",
+    "m": "hơn nữa, thêm vào đó",
+    "cat": "connectors"
+  },
+  {
+    "w": "moreover",
+    "m": "hơn thế nữa",
+    "cat": "connectors"
+  },
+  {
+    "w": "in contrast",
+    "m": "ngược lại, trái ngược",
+    "cat": "connectors"
+  },
+  {
+    "w": "on the contrary",
+    "m": "trái lại",
+    "cat": "connectors"
+  },
+  {
+    "w": "in addition",
+    "m": "ngoài ra, bên cạnh đó",
+    "cat": "connectors"
+  },
+  {
+    "w": "as a result",
+    "m": "kết quả là",
+    "cat": "connectors"
+  },
+  {
+    "w": "in other words",
+    "m": "nói cách khác",
+    "cat": "connectors"
+  },
+  {
+    "w": "for instance",
+    "m": "chẳng hạn, ví dụ",
+    "cat": "connectors"
+  },
+  {
+    "w": "with regard to",
+    "m": "liên quan đến, về",
+    "cat": "connectors"
+  },
+  {
+    "w": "in terms of",
+    "m": "về mặt, xét về",
+    "cat": "connectors"
+  },
+  {
+    "w": "given that",
+    "m": "cho rằng, xét rằng",
+    "cat": "connectors"
+  },
+  {
+    "w": "provided that",
+    "m": "với điều kiện là",
+    "cat": "connectors"
+  },
+  {
+    "w": "insofar as",
+    "m": "trong chừng mực",
+    "cat": "connectors"
+  },
+  {
+    "w": "to the extent that",
+    "m": "đến mức mà",
+    "cat": "connectors"
+  },
+  {
+    "w": "on the grounds that",
+    "m": "với lý do rằng",
+    "cat": "connectors"
+  },
+  {
+    "w": "by virtue of",
+    "m": "nhờ vào, do",
+    "cat": "connectors"
+  },
+  {
+    "w": "in light of",
+    "m": "dưới ánh sáng của, xét đến",
+    "cat": "connectors"
+  },
+  {
+    "w": "with a view to",
+    "m": "với mục đích",
+    "cat": "connectors"
+  },
+  {
+    "w": "in the event that",
+    "m": "trong trường hợp",
+    "cat": "connectors"
+  },
+  {
+    "w": "observation",
+    "m": "quan sát, nhận xét",
+    "cat": "science"
+  },
+  {
+    "w": "experimentation",
+    "m": "thực nghiệm",
+    "cat": "science"
+  },
+  {
+    "w": "control group",
+    "m": "nhóm kiểm soát",
+    "cat": "science"
+  },
+  {
+    "w": "sample",
+    "m": "mẫu, lấy mẫu",
+    "cat": "science"
+  },
+  {
+    "w": "population",
+    "m": "quần thể, dân số",
+    "cat": "science"
+  },
+  {
+    "w": "probability",
+    "m": "xác suất",
+    "cat": "science"
+  },
+  {
+    "w": "significance",
+    "m": "mức ý nghĩa thống kê",
+    "cat": "science"
+  },
+  {
+    "w": "confidence interval",
+    "m": "khoảng tin cậy",
+    "cat": "science"
+  },
+  {
+    "w": "regression",
+    "m": "hồi quy",
+    "cat": "science"
+  },
+  {
+    "w": "peer review",
+    "m": "phản biện đồng nghiệp",
+    "cat": "science"
+  },
+  {
+    "w": "publication",
+    "m": "xuất bản, ấn phẩm",
+    "cat": "science"
+  },
+  {
+    "w": "citation",
+    "m": "trích dẫn",
+    "cat": "science"
+  },
+  {
+    "w": "replication",
+    "m": "nhân rộng, lặp lại thí nghiệm",
+    "cat": "science"
+  },
+  {
+    "w": "clinical trial",
+    "m": "thử nghiệm lâm sàng",
+    "cat": "science"
+  },
+  {
+    "w": "placebo",
+    "m": "giả dược",
+    "cat": "science"
+  },
+  {
+    "w": "randomized",
+    "m": "được ngẫu nhiên hóa",
+    "cat": "science"
+  },
+  {
+    "w": "cohort",
+    "m": "nhóm nghiên cứu",
+    "cat": "science"
+  },
+  {
+    "w": "longitudinal",
+    "m": "theo chiều dọc, dài hạn",
+    "cat": "science"
+  },
+  {
+    "w": "meta-analysis",
+    "m": "phân tích tổng hợp",
+    "cat": "science"
+  },
+  {
+    "w": "systematic review",
+    "m": "đánh giá hệ thống",
+    "cat": "science"
+  },
+  {
+    "w": "laboratory",
+    "m": "phòng thí nghiệm",
+    "cat": "science"
+  },
+  {
+    "w": "microscope",
+    "m": "kính hiển vi",
+    "cat": "science"
+  },
+  {
+    "w": "telescope",
+    "m": "kính thiên văn",
+    "cat": "science"
+  },
+  {
+    "w": "genetics",
+    "m": "di truyền học",
+    "cat": "science"
+  },
+  {
+    "w": "chromosome",
+    "m": "nhiễm sắc thể",
+    "cat": "science"
+  },
+  {
+    "w": "protein",
+    "m": "protein, chất đạm",
+    "cat": "science"
+  },
+  {
+    "w": "enzyme",
+    "m": "enzyme, men",
+    "cat": "science"
+  },
+  {
+    "w": "catalyst",
+    "m": "chất xúc tác",
+    "cat": "science"
+  },
+  {
+    "w": "hypothesis testing",
+    "m": "kiểm định giả thuyết",
+    "cat": "science"
+  },
+  {
+    "w": "data collection",
+    "m": "thu thập dữ liệu",
+    "cat": "science"
+  },
+  {
+    "w": "data analysis",
+    "m": "phân tích dữ liệu",
+    "cat": "science"
+  },
+  {
+    "w": "survey",
+    "m": "khảo sát, điều tra",
+    "cat": "science"
+  },
+  {
+    "w": "interview",
+    "m": "phỏng vấn",
+    "cat": "science"
+  },
+  {
+    "w": "case study",
+    "m": "nghiên cứu điển hình",
+    "cat": "science"
+  },
+  {
+    "w": "ethnography",
+    "m": "nghiên cứu dân tộc học",
+    "cat": "science"
+  },
+  {
+    "w": "fieldwork",
+    "m": "công việc thực địa",
+    "cat": "science"
+  },
+  {
+    "w": "laboratory experiment",
+    "m": "thí nghiệm phòng thí nghiệm",
+    "cat": "science"
+  },
+  {
+    "w": "controlled experiment",
+    "m": "thí nghiệm có kiểm soát",
+    "cat": "science"
+  },
+  {
+    "w": "independent variable",
+    "m": "biến độc lập",
+    "cat": "science"
+  },
+  {
+    "w": "dependent variable",
+    "m": "biến phụ thuộc",
+    "cat": "science"
+  },
+  {
+    "w": "statistical analysis",
+    "m": "phân tích thống kê",
+    "cat": "science"
+  },
+  {
+    "w": "data visualization",
+    "m": "trực quan hóa dữ liệu",
+    "cat": "science"
+  },
+  {
+    "w": "algorithm",
+    "m": "thuật toán",
+    "cat": "science"
+  },
+  {
+    "w": "simulation",
+    "m": "mô phỏng",
+    "cat": "science"
+  },
+  {
+    "w": "model",
+    "m": "mô hình",
+    "cat": "science"
+  },
+  {
+    "w": "prototype",
+    "m": "mẫu thử, nguyên mẫu",
+    "cat": "science"
+  },
+  {
+    "w": "innovation",
+    "m": "đổi mới, sáng kiến",
+    "cat": "science"
+  },
+  {
+    "w": "technology transfer",
+    "m": "chuyển giao công nghệ",
+    "cat": "science"
+  },
+  {
+    "w": "patent",
+    "m": "bằng sáng chế",
+    "cat": "science"
+  },
+  {
+    "w": "research and development",
+    "m": "nghiên cứu và phát triển",
+    "cat": "science"
+  },
+  {
+    "w": "autocracy",
+    "m": "chuyên quyền, độc tài",
+    "cat": "politics"
+  },
+  {
+    "w": "oligarchy",
+    "m": "chính thể đầu sỏ",
+    "cat": "politics"
+  },
+  {
+    "w": "totalitarianism",
+    "m": "chủ nghĩa toàn trị",
+    "cat": "politics"
+  },
+  {
+    "w": "sovereignty",
+    "m": "chủ quyền",
+    "cat": "politics"
+  },
+  {
+    "w": "constitution",
+    "m": "hiến pháp",
+    "cat": "politics"
+  },
+  {
+    "w": "legislature",
+    "m": "cơ quan lập pháp",
+    "cat": "politics"
+  },
+  {
+    "w": "judiciary",
+    "m": "cơ quan tư pháp",
+    "cat": "politics"
+  },
+  {
+    "w": "executive",
+    "m": "cơ quan hành pháp",
+    "cat": "politics"
+  },
+  {
+    "w": "accountability",
+    "m": "trách nhiệm giải trình",
+    "cat": "politics"
+  },
+  {
+    "w": "transparency",
+    "m": "minh bạch",
+    "cat": "politics"
+  },
+  {
+    "w": "lobbying",
+    "m": "vận động hành lang",
+    "cat": "politics"
+  },
+  {
+    "w": "advocacy",
+    "m": "vận động, ủng hộ",
+    "cat": "politics"
+  },
+  {
+    "w": "propaganda",
+    "m": "tuyên truyền",
+    "cat": "politics"
+  },
+  {
+    "w": "ideology",
+    "m": "hệ tư tưởng",
+    "cat": "politics"
+  },
+  {
+    "w": "nationalism",
+    "m": "chủ nghĩa dân tộc",
+    "cat": "politics"
+  },
+  {
+    "w": "liberalism",
+    "m": "chủ nghĩa tự do",
+    "cat": "politics"
+  },
+  {
+    "w": "conservatism",
+    "m": "chủ nghĩa bảo thủ",
+    "cat": "politics"
+  },
+  {
+    "w": "globalization",
+    "m": "toàn cầu hóa",
+    "cat": "politics"
+  },
+  {
+    "w": "protectionism",
+    "m": "chủ nghĩa bảo hộ",
+    "cat": "politics"
+  },
+  {
+    "w": "immigration",
+    "m": "nhập cư",
+    "cat": "politics"
+  },
+  {
+    "w": "asylum",
+    "m": "tị nạn, trú ẩn",
+    "cat": "politics"
+  },
+  {
+    "w": "refugee",
+    "m": "người tị nạn",
+    "cat": "politics"
+  },
+  {
+    "w": "humanitarian",
+    "m": "nhân đạo, vì con người",
+    "cat": "politics"
+  },
+  {
+    "w": "sanctions",
+    "m": "lệnh trừng phạt",
+    "cat": "politics"
+  },
+  {
+    "w": "diplomacy",
+    "m": "ngoại giao",
+    "cat": "politics"
+  },
+  {
+    "w": "peacekeeping",
+    "m": "gìn giữ hòa bình",
+    "cat": "politics"
+  },
+  {
+    "w": "multilateral",
+    "m": "đa phương",
+    "cat": "politics"
+  },
+  {
+    "w": "bilateral",
+    "m": "song phương",
+    "cat": "politics"
+  },
+  {
+    "w": "treaty",
+    "m": "hiệp ước",
+    "cat": "politics"
+  },
+  {
+    "w": "amendment",
+    "m": "tu chính án, sửa đổi",
+    "cat": "politics"
+  },
+  {
+    "w": "referendum",
+    "m": "trưng cầu dân ý",
+    "cat": "politics"
+  },
+  {
+    "w": "election",
+    "m": "bầu cử",
+    "cat": "politics"
+  },
+  {
+    "w": "coalition",
+    "m": "liên minh",
+    "cat": "politics"
+  },
+  {
+    "w": "censorship",
+    "m": "kiểm duyệt",
+    "cat": "politics"
+  },
+  {
+    "w": "civil liberties",
+    "m": "quyền tự do dân sự",
+    "cat": "politics"
+  },
+  {
+    "w": "human rights",
+    "m": "nhân quyền",
+    "cat": "politics"
+  },
+  {
+    "w": "universal suffrage",
+    "m": "phổ thông đầu phiếu",
+    "cat": "politics"
+  },
+  {
+    "w": "separation of powers",
+    "m": "phân chia quyền lực",
+    "cat": "politics"
+  },
+  {
+    "w": "checks and balances",
+    "m": "kiểm soát và cân bằng quyền lực",
+    "cat": "politics"
+  },
+  {
+    "w": "geopolitics",
+    "m": "địa chính trị",
+    "cat": "politics"
+  },
+  {
+    "w": "hegemony",
+    "m": "bá quyền, thống trị",
+    "cat": "politics"
+  },
+  {
+    "w": "subconscious",
+    "m": "tiềm thức",
+    "cat": "psychology"
+  },
+  {
+    "w": "motivation",
+    "m": "động lực, động cơ",
+    "cat": "psychology"
+  },
+  {
+    "w": "perception",
+    "m": "nhận thức, tri giác",
+    "cat": "psychology"
+  },
+  {
+    "w": "cognitive",
+    "m": "thuộc về nhận thức",
+    "cat": "psychology"
+  },
+  {
+    "w": "emotional intelligence",
+    "m": "trí tuệ cảm xúc",
+    "cat": "psychology"
+  },
+  {
+    "w": "stimulus",
+    "m": "kích thích",
+    "cat": "psychology"
+  },
+  {
+    "w": "response",
+    "m": "phản ứng, đáp ứng",
+    "cat": "psychology"
+  },
+  {
+    "w": "conditioning",
+    "m": "điều kiện hóa",
+    "cat": "psychology"
+  },
+  {
+    "w": "reinforcement",
+    "m": "củng cố, tăng cường",
+    "cat": "psychology"
+  },
+  {
+    "w": "self-esteem",
+    "m": "lòng tự trọng",
+    "cat": "psychology"
+  },
+  {
+    "w": "self-efficacy",
+    "m": "niềm tin vào năng lực bản thân",
+    "cat": "psychology"
+  },
+  {
+    "w": "resilience",
+    "m": "khả năng phục hồi",
+    "cat": "psychology"
+  },
+  {
+    "w": "coping mechanism",
+    "m": "cơ chế đối phó",
+    "cat": "psychology"
+  },
+  {
+    "w": "defense mechanism",
+    "m": "cơ chế phòng vệ",
+    "cat": "psychology"
+  },
+  {
+    "w": "consciousness",
+    "m": "ý thức",
+    "cat": "psychology"
+  },
+  {
+    "w": "instinct",
+    "m": "bản năng",
+    "cat": "psychology"
+  },
+  {
+    "w": "drive",
+    "m": "thôi thúc, động lực",
+    "cat": "psychology"
+  },
+  {
+    "w": "personality",
+    "m": "tính cách, nhân cách",
+    "cat": "psychology"
+  },
+  {
+    "w": "temperament",
+    "m": "tính khí, khí chất",
+    "cat": "psychology"
+  },
+  {
+    "w": "extrovert",
+    "m": "người hướng ngoại",
+    "cat": "psychology"
+  },
+  {
+    "w": "introvert",
+    "m": "người hướng nội",
+    "cat": "psychology"
+  },
+  {
+    "w": "anxiety",
+    "m": "lo âu, lo lắng",
+    "cat": "psychology"
+  },
+  {
+    "w": "depression",
+    "m": "trầm cảm",
+    "cat": "psychology"
+  },
+  {
+    "w": "trauma",
+    "m": "chấn thương tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "therapy",
+    "m": "trị liệu tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "counseling",
+    "m": "tư vấn tâm lý",
+    "cat": "psychology"
+  },
+  {
+    "w": "cognitive bias",
+    "m": "sai lệch nhận thức",
+    "cat": "psychology"
+  },
+  {
+    "w": "confirmation bias",
+    "m": "thiên kiến xác nhận",
+    "cat": "psychology"
+  },
+  {
+    "w": "attribution",
+    "m": "quy kết, quy nhân",
+    "cat": "psychology"
+  },
+  {
+    "w": "empathy",
+    "m": "sự đồng cảm",
+    "cat": "psychology"
+  },
+  {
+    "w": "mindfulness",
+    "m": "chánh niệm",
+    "cat": "psychology"
+  },
+  {
+    "w": "behavioral therapy",
+    "m": "liệu pháp hành vi",
+    "cat": "psychology"
+  },
+  {
+    "w": "attachment theory",
+    "m": "lý thuyết gắn bó",
+    "cat": "psychology"
+  },
+  {
+    "w": "social learning",
+    "m": "học hỏi từ xã hội",
+    "cat": "psychology"
+  },
+  {
+    "w": "deforestation",
+    "m": "phá rừng",
+    "cat": "environment"
+  },
+  {
+    "w": "biodiversity",
+    "m": "đa dạng sinh học",
+    "cat": "environment"
+  },
+  {
+    "w": "carbon neutral",
+    "m": "trung hòa carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "net zero",
+    "m": "phát thải ròng bằng không",
+    "cat": "environment"
+  },
+  {
+    "w": "circular economy",
+    "m": "kinh tế tuần hoàn",
+    "cat": "environment"
+  },
+  {
+    "w": "waste management",
+    "m": "quản lý chất thải",
+    "cat": "environment"
+  },
+  {
+    "w": "ecological",
+    "m": "thuộc về sinh thái học",
+    "cat": "environment"
+  },
+  {
+    "w": "rewilding",
+    "m": "tái hoang hóa",
+    "cat": "environment"
+  },
+  {
+    "w": "marine conservation",
+    "m": "bảo tồn biển",
+    "cat": "environment"
+  },
+  {
+    "w": "ocean acidification",
+    "m": "axit hóa đại dương",
+    "cat": "environment"
+  },
+  {
+    "w": "coral bleaching",
+    "m": "san hô tẩy trắng",
+    "cat": "environment"
+  },
+  {
+    "w": "permafrost",
+    "m": "lớp băng vĩnh cửu",
+    "cat": "environment"
+  },
+  {
+    "w": "methane",
+    "m": "khí metan",
+    "cat": "environment"
+  },
+  {
+    "w": "carbon capture",
+    "m": "thu giữ carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "habitat destruction",
+    "m": "phá hủy môi trường sống",
+    "cat": "environment"
+  },
+  {
+    "w": "species extinction",
+    "m": "tuyệt chủng loài",
+    "cat": "environment"
+  },
+  {
+    "w": "plastic pollution",
+    "m": "ô nhiễm nhựa",
+    "cat": "environment"
+  },
+  {
+    "w": "microplastics",
+    "m": "vi nhựa",
+    "cat": "environment"
+  },
+  {
+    "w": "air quality",
+    "m": "chất lượng không khí",
+    "cat": "environment"
+  },
+  {
+    "w": "greenhouse gas",
+    "m": "khí nhà kính",
+    "cat": "environment"
+  },
+  {
+    "w": "climate change",
+    "m": "biến đổi khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "global warming",
+    "m": "nóng lên toàn cầu",
+    "cat": "environment"
+  },
+  {
+    "w": "renewable energy",
+    "m": "năng lượng tái tạo",
+    "cat": "environment"
+  },
+  {
+    "w": "solar power",
+    "m": "năng lượng mặt trời",
+    "cat": "environment"
+  },
+  {
+    "w": "wind energy",
+    "m": "năng lượng gió",
+    "cat": "environment"
+  },
+  {
+    "w": "carbon footprint",
+    "m": "dấu chân carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "sustainability",
+    "m": "bền vững, phát triển bền vững",
+    "cat": "environment"
+  },
+  {
+    "w": "ecosystem",
+    "m": "hệ sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "food chain",
+    "m": "chuỗi thức ăn",
+    "cat": "environment"
+  },
+  {
+    "w": "water scarcity",
+    "m": "khan hiếm nước",
+    "cat": "environment"
+  },
+  {
+    "w": "drought",
+    "m": "hạn hán",
+    "cat": "environment"
+  },
+  {
+    "w": "flooding",
+    "m": "lũ lụt",
+    "cat": "environment"
+  },
+  {
+    "w": "soil erosion",
+    "m": "xói mòn đất",
+    "cat": "environment"
+  },
+  {
+    "w": "reforestation",
+    "m": "trồng rừng lại",
+    "cat": "environment"
+  },
+  {
+    "w": "nature-based solutions",
+    "m": "giải pháp dựa vào thiên nhiên",
+    "cat": "environment"
+  },
+  {
+    "w": "protagonist",
+    "m": "nhân vật chính",
+    "cat": "literature"
+  },
+  {
+    "w": "antagonist",
+    "m": "nhân vật phản diện",
+    "cat": "literature"
+  },
+  {
+    "w": "narrator",
+    "m": "người kể chuyện",
+    "cat": "literature"
+  },
+  {
+    "w": "plot",
+    "m": "cốt truyện",
+    "cat": "literature"
+  },
+  {
+    "w": "subplot",
+    "m": "tuyến phụ",
+    "cat": "literature"
+  },
+  {
+    "w": "theme",
+    "m": "chủ đề",
+    "cat": "literature"
+  },
+  {
+    "w": "setting",
+    "m": "bối cảnh không gian và thời gian",
+    "cat": "literature"
+  },
+  {
+    "w": "conflict",
+    "m": "xung đột",
+    "cat": "literature"
+  },
+  {
+    "w": "climax",
+    "m": "đỉnh điểm",
+    "cat": "literature"
+  },
+  {
+    "w": "foreshadowing",
+    "m": "báo trước, ngầm báo hiệu",
+    "cat": "literature"
+  },
+  {
+    "w": "symbolism",
+    "m": "chủ nghĩa tượng trưng",
+    "cat": "literature"
+  },
+  {
+    "w": "motif",
+    "m": "mô-típ, hình ảnh lặp lại",
+    "cat": "literature"
+  },
+  {
+    "w": "irony",
+    "m": "nghịch lý, trào phúng",
+    "cat": "literature"
+  },
+  {
+    "w": "metaphor",
+    "m": "ẩn dụ",
+    "cat": "literature"
+  },
+  {
+    "w": "simile",
+    "m": "so sánh",
+    "cat": "literature"
+  },
+  {
+    "w": "allusion",
+    "m": "ám chỉ",
+    "cat": "literature"
+  },
+  {
+    "w": "allegory",
+    "m": "truyện ngụ ngôn, ẩn dụ kéo dài",
+    "cat": "literature"
+  },
+  {
+    "w": "satire",
+    "m": "trào phúng, châm biếm",
+    "cat": "literature"
+  },
+  {
+    "w": "parody",
+    "m": "nhại lại",
+    "cat": "literature"
+  },
+  {
+    "w": "genre",
+    "m": "thể loại",
+    "cat": "literature"
+  },
+  {
+    "w": "biography",
+    "m": "tiểu sử",
+    "cat": "literature"
+  },
+  {
+    "w": "memoir",
+    "m": "hồi ký",
+    "cat": "literature"
+  },
+  {
+    "w": "poetry",
+    "m": "thơ ca",
+    "cat": "literature"
+  },
+  {
+    "w": "prose",
+    "m": "văn xuôi",
+    "cat": "literature"
+  },
+  {
+    "w": "dramatic irony",
+    "m": "nghịch lý kịch tính",
+    "cat": "literature"
+  },
+  {
+    "w": "unreliable narrator",
+    "m": "người kể không đáng tin",
+    "cat": "literature"
+  },
+  {
+    "w": "character arc",
+    "m": "vòng cung nhân vật",
+    "cat": "literature"
+  },
+  {
+    "w": "literary device",
+    "m": "biện pháp tu từ",
+    "cat": "literature"
+  },
+  {
+    "w": "point of view",
+    "m": "điểm nhìn",
+    "cat": "literature"
+  },
+  {
+    "w": "narrative structure",
+    "m": "cấu trúc tự sự",
+    "cat": "literature"
+  },
+  {
+    "w": "diction",
+    "m": "cách dùng từ",
+    "cat": "literature"
+  },
+  {
+    "w": "tone",
+    "m": "giọng điệu",
+    "cat": "literature"
+  },
+  {
+    "w": "imagery",
+    "m": "hình ảnh",
+    "cat": "literature"
+  },
+  {
+    "w": "personification",
+    "m": "nhân cách hóa",
+    "cat": "literature"
+  },
+  {
+    "w": "hyperbole",
+    "m": "nói quá, phóng đại",
+    "cat": "literature"
+  },
+  {
+    "w": "account for",
+    "m": "giải thích, chịu trách nhiệm",
+    "cat": "phrasal"
+  },
+  {
+    "w": "add up to",
+    "m": "tổng cộng là",
+    "cat": "phrasal"
+  },
+  {
+    "w": "amount to",
+    "m": "tương đương với",
+    "cat": "phrasal"
+  },
+  {
+    "w": "apply for",
+    "m": "nộp đơn xin",
+    "cat": "phrasal"
+  },
+  {
+    "w": "back up",
+    "m": "sao lưu, ủng hộ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "base on",
+    "m": "dựa trên",
+    "cat": "phrasal"
+  },
+  {
+    "w": "build on",
+    "m": "xây dựng dựa trên",
+    "cat": "phrasal"
+  },
+  {
+    "w": "call for",
+    "m": "yêu cầu, kêu gọi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "carry out",
+    "m": "thực hiện, tiến hành",
+    "cat": "phrasal"
+  },
+  {
+    "w": "check in",
+    "m": "làm thủ tục, đăng ký",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come back to",
+    "m": "quay lại, trở lại vấn đề",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come down to",
+    "m": "quy về, chốt lại là",
+    "cat": "phrasal"
+  },
+  {
+    "w": "deal with",
+    "m": "đối phó, xử lý",
+    "cat": "phrasal"
+  },
+  {
+    "w": "depend on",
+    "m": "phụ thuộc vào",
+    "cat": "phrasal"
+  },
+  {
+    "w": "draw on",
+    "m": "tận dụng, vận dụng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "end up",
+    "m": "kết thúc, cuối cùng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "fall into",
+    "m": "rơi vào, phân loại vào",
+    "cat": "phrasal"
+  },
+  {
+    "w": "get back to",
+    "m": "liên hệ lại, trả lời sau",
+    "cat": "phrasal"
+  },
+  {
+    "w": "give rise to",
+    "m": "tạo ra, gây ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go back to",
+    "m": "quay lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hand in",
+    "m": "nộp, giao nộp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "lead to",
+    "m": "dẫn đến",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look at",
+    "m": "xem xét, nhìn vào",
+    "cat": "phrasal"
+  },
+  {
+    "w": "make for",
+    "m": "tạo nên, đi về phía",
+    "cat": "phrasal"
+  },
+  {
+    "w": "move on",
+    "m": "tiếp tục, chuyển sang",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pass on",
+    "m": "chuyển tiếp, truyền đạt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "result in",
+    "m": "dẫn đến kết quả là",
+    "cat": "phrasal"
+  },
+  {
+    "w": "run out of",
+    "m": "hết, cạn kiệt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "set aside",
+    "m": "để dành, gác lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "stand out",
+    "m": "nổi bật",
+    "cat": "phrasal"
+  },
+  {
+    "w": "sum up",
+    "m": "tóm tắt",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take care of",
+    "m": "chăm sóc, giải quyết",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take part in",
+    "m": "tham gia vào",
+    "cat": "phrasal"
+  },
+  {
+    "w": "make the most of",
+    "m": "tận dụng tối đa",
+    "cat": "phrasal"
+  },
+  {
+    "w": "narrow down",
+    "m": "thu hẹp lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pay off",
+    "m": "đền đáp, trả nợ xong",
+    "cat": "phrasal"
+  },
+  {
+    "w": "pull off",
+    "m": "thực hiện thành công",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put up with",
+    "m": "chịu đựng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "run into",
+    "m": "tình cờ gặp, gặp phải",
+    "cat": "phrasal"
+  },
+  {
+    "w": "speak up",
+    "m": "lên tiếng, nói to hơn",
+    "cat": "phrasal"
+  },
+  {
+    "w": "think over",
+    "m": "suy nghĩ kỹ về",
+    "cat": "phrasal"
+  },
+  {
+    "w": "turn around",
+    "m": "xoay chuyển, cải thiện",
+    "cat": "phrasal"
+  },
+  {
+    "w": "work on",
+    "m": "làm việc trên, cố gắng cải thiện",
+    "cat": "phrasal"
+  },
+  {
+    "w": "catch up with",
+    "m": "theo kịp",
+    "cat": "phrasal"
+  },
+  {
+    "w": "figure out",
+    "m": "tìm ra, hiểu ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "give up",
+    "m": "từ bỏ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "hold on",
+    "m": "giữ, chờ một chút",
+    "cat": "phrasal"
+  },
+  {
+    "w": "keep up with",
+    "m": "theo kịp, duy trì",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look forward to",
+    "m": "mong đợi",
+    "cat": "phrasal"
+  },
+  {
+    "w": "make up for",
+    "m": "bù đắp cho",
+    "cat": "phrasal"
+  },
+  {
+    "w": "point out",
+    "m": "chỉ ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "rule out",
+    "m": "loại trừ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "show up",
+    "m": "xuất hiện",
+    "cat": "phrasal"
+  },
+  {
+    "w": "step up",
+    "m": "nâng cao, tăng cường",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take into account",
+    "m": "tính đến, xem xét",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look into",
+    "m": "điều tra, xem xét",
+    "cat": "phrasal"
+  },
+  {
+    "w": "bring about",
+    "m": "gây ra, mang lại",
+    "cat": "phrasal"
+  },
+  {
+    "w": "come across",
+    "m": "tình cờ gặp, gây ấn tượng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "go through",
+    "m": "trải qua, xem xét kỹ",
+    "cat": "phrasal"
+  },
+  {
+    "w": "look up to",
+    "m": "ngưỡng mộ, kính trọng",
+    "cat": "phrasal"
+  },
+  {
+    "w": "put forward",
+    "m": "đề xuất, đưa ra",
+    "cat": "phrasal"
+  },
+  {
+    "w": "take on",
+    "m": "đảm nhận, thuê",
+    "cat": "phrasal"
+  },
+  {
+    "w": "acknowledge",
+    "m": "thừa nhận, công nhận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "acquire",
+    "m": "đạt được, thu được",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "adapt",
+    "m": "thích nghi, điều chỉnh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "adhere",
+    "m": "tuân thủ, gắn liền",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "allocate",
+    "m": "phân bổ, cấp phát",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "alter",
+    "m": "thay đổi, sửa đổi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "anticipate",
+    "m": "dự đoán, mong đợi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "assert",
+    "m": "khẳng định, quả quyết",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "assess",
+    "m": "đánh giá",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "assign",
+    "m": "giao việc, phân công",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "assume",
+    "m": "giả định, đảm nhận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "attain",
+    "m": "đạt được",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "attribute",
+    "m": "quy cho, thuộc tính",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "benefit",
+    "m": "hưởng lợi, lợi ích",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "calculate",
+    "m": "tính toán",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "categorize",
+    "m": "phân loại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "characterize",
+    "m": "đặc trưng hóa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "clarify",
+    "m": "làm rõ, giải thích",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "classify",
+    "m": "phân loại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "collaborate",
+    "m": "hợp tác",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "compile",
+    "m": "biên soạn, thu thập",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "comprehend",
+    "m": "hiểu, nắm bắt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "concentrate",
+    "m": "tập trung",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "constitute",
+    "m": "cấu thành, tạo nên",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "construct",
+    "m": "xây dựng, kiến tạo",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "consume",
+    "m": "tiêu thụ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "contribute",
+    "m": "đóng góp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "coordinate",
+    "m": "phối hợp, điều phối",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "criticize",
+    "m": "chỉ trích, phê bình",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "deduce",
+    "m": "suy luận, kết luận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "define",
+    "m": "định nghĩa, xác định",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "demonstrate",
+    "m": "chứng minh, biểu diễn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "derive",
+    "m": "rút ra, bắt nguồn từ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "determine",
+    "m": "xác định, quyết định",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "differentiate",
+    "m": "phân biệt, khác biệt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "diminish",
+    "m": "giảm bớt, thu nhỏ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "distribute",
+    "m": "phân phối, phân bổ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "document",
+    "m": "ghi lại, tài liệu hóa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "eliminate",
+    "m": "loại bỏ, loại trừ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "emphasize",
+    "m": "nhấn mạnh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "evaluate",
+    "m": "đánh giá",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "evolve",
+    "m": "tiến hóa, phát triển",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "examine",
+    "m": "kiểm tra, xem xét",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "exclude",
+    "m": "loại trừ, không bao gồm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "expand",
+    "m": "mở rộng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "formulate",
+    "m": "đặt ra, soạn thảo",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "generate",
+    "m": "tạo ra, sinh ra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "identify",
+    "m": "xác định, nhận ra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "illustrate",
+    "m": "minh họa, giải thích bằng ví dụ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "implement",
+    "m": "thực hiện, triển khai",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "indicate",
+    "m": "chỉ ra, cho thấy",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "infer",
+    "m": "suy luận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "integrate",
+    "m": "tích hợp, kết hợp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "interpret",
+    "m": "giải thích, diễn giải",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "investigate",
+    "m": "điều tra, nghiên cứu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "justify",
+    "m": "biện minh, chứng minh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "maintain",
+    "m": "duy trì, bảo trì",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "manipulate",
+    "m": "thao túng, điều khiển",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "maximize",
+    "m": "tối đa hóa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "minimize",
+    "m": "tối thiểu hóa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "modify",
+    "m": "sửa đổi, thay đổi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "monitor",
+    "m": "theo dõi, giám sát",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "motivate",
+    "m": "thúc đẩy, động viên",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "obtain",
+    "m": "đạt được, thu được",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "organize",
+    "m": "tổ chức",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "perform",
+    "m": "thực hiện, biểu diễn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "predict",
+    "m": "dự đoán",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "promote",
+    "m": "thúc đẩy, quảng bá",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "propose",
+    "m": "đề xuất",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "regulate",
+    "m": "điều chỉnh, quy định",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reinforce",
+    "m": "củng cố, tăng cường",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "require",
+    "m": "yêu cầu, cần",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "respond",
+    "m": "phản hồi, đáp lại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "retain",
+    "m": "giữ lại, duy trì",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reveal",
+    "m": "tiết lộ, cho thấy",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "select",
+    "m": "lựa chọn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "simplify",
+    "m": "đơn giản hóa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "specify",
+    "m": "chỉ rõ, quy định cụ thể",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "structure",
+    "m": "cấu trúc, tổ chức",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "suggest",
+    "m": "gợi ý, đề xuất",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "summarize",
+    "m": "tóm tắt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "sustain",
+    "m": "duy trì, chịu đựng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "transform",
+    "m": "biến đổi, chuyển hóa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "utilize",
+    "m": "sử dụng, tận dụng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "validate",
+    "m": "xác nhận tính hợp lệ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "verify",
+    "m": "xác minh, kiểm tra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "accomplish",
+    "m": "hoàn thành, đạt được",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "accumulate",
+    "m": "tích lũy",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "activate",
+    "m": "kích hoạt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "adjust",
+    "m": "điều chỉnh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "advance",
+    "m": "tiến bộ, nâng cao",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "affect",
+    "m": "ảnh hưởng đến",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "aggregate",
+    "m": "tổng hợp, tổng cộng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "align",
+    "m": "thẳng hàng, đồng nhất",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "analyze",
+    "m": "phân tích",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "apply",
+    "m": "áp dụng, ứng dụng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "approach",
+    "m": "cách tiếp cận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "approve",
+    "m": "phê duyệt, chấp thuận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "authorize",
+    "m": "ủy quyền",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "broaden",
+    "m": "mở rộng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "challenge",
+    "m": "thách thức",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "clarify",
+    "m": "làm rõ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "combine",
+    "m": "kết hợp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "compare",
+    "m": "so sánh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "comply",
+    "m": "tuân thủ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "confirm",
+    "m": "xác nhận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "consider",
+    "m": "xem xét, cân nhắc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "contrast",
+    "m": "đối lập, tương phản",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "convert",
+    "m": "chuyển đổi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "create",
+    "m": "tạo ra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "design",
+    "m": "thiết kế",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "develop",
+    "m": "phát triển",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "discuss",
+    "m": "thảo luận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "distinguish",
+    "m": "phân biệt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "enable",
+    "m": "cho phép, tạo điều kiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "enforce",
+    "m": "thực thi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "enhance",
+    "m": "nâng cao, cải thiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "establish",
+    "m": "thiết lập, thành lập",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "estimate",
+    "m": "ước tính",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "extend",
+    "m": "mở rộng, kéo dài",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "facilitate",
+    "m": "tạo thuận lợi, hỗ trợ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "focus",
+    "m": "tập trung, chú trọng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "highlight",
+    "m": "nhấn mạnh, làm nổi bật",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "improve",
+    "m": "cải thiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "increase",
+    "m": "tăng, tăng lên",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "influence",
+    "m": "ảnh hưởng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "involve",
+    "m": "liên quan, bao gồm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "measure",
+    "m": "đo lường, biện pháp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "observe",
+    "m": "quan sát, nhận xét",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "overcome",
+    "m": "vượt qua",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "participate",
+    "m": "tham gia",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "prioritize",
+    "m": "ưu tiên",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "provide",
+    "m": "cung cấp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "recognize",
+    "m": "nhận ra, ghi nhận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reduce",
+    "m": "giảm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reflect",
+    "m": "phản ánh, suy ngẫm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "replace",
+    "m": "thay thế",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "represent",
+    "m": "đại diện, biểu diễn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "resolve",
+    "m": "giải quyết, quyết tâm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "restrict",
+    "m": "hạn chế, giới hạn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "review",
+    "m": "xem xét lại, đánh giá",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "revise",
+    "m": "sửa đổi, xem lại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "strengthen",
+    "m": "củng cố, tăng cường",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "support",
+    "m": "hỗ trợ, ủng hộ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "transfer",
+    "m": "chuyển, chuyển giao",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "undertake",
+    "m": "đảm nhận, tiến hành",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "update",
+    "m": "cập nhật",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "widespread",
+    "m": "phổ biến, lan rộng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "yield",
+    "m": "mang lại, sản xuất",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "abandon",
+    "m": "từ bỏ, rời bỏ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "absorb",
+    "m": "hấp thụ, tiếp thu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "accelerate",
+    "m": "tăng tốc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "access",
+    "m": "tiếp cận, truy cập",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "accommodate",
+    "m": "đáp ứng, cung cấp chỗ ở",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "achieve",
+    "m": "đạt được",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "act upon",
+    "m": "hành động theo",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "address",
+    "m": "giải quyết, xử lý",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "affect",
+    "m": "ảnh hưởng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "alleviate",
+    "m": "giảm nhẹ, làm bớt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "anticipate",
+    "m": "dự kiến, mong đợi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "articulate",
+    "m": "diễn đạt rõ ràng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "balance",
+    "m": "cân bằng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "bridge",
+    "m": "kết nối, thu hẹp khoảng cách",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "capture",
+    "m": "nắm bắt, ghi lại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "channel",
+    "m": "định hướng, kênh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "clarify",
+    "m": "làm rõ, giải thích",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "complement",
+    "m": "bổ sung, bổ trợ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "contain",
+    "m": "chứa đựng, kiểm soát",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "cope with",
+    "m": "đối phó với",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "cover",
+    "m": "bao quát, đề cập",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "demand",
+    "m": "yêu cầu, nhu cầu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "depart from",
+    "m": "khác biệt với, rời đi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "differentiate",
+    "m": "phân biệt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "drive",
+    "m": "thúc đẩy, lái xe",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "elicit",
+    "m": "rút ra, gợi ra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "encourage",
+    "m": "khuyến khích",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "engage",
+    "m": "tham gia, thu hút",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "ensure",
+    "m": "đảm bảo",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "examine",
+    "m": "kiểm tra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "exhibit",
+    "m": "triển lãm, thể hiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "expose",
+    "m": "phơi bày, tiếp xúc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "express",
+    "m": "bày tỏ, thể hiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "function",
+    "m": "hoạt động, chức năng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "gather",
+    "m": "thu thập, tập hợp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "ground",
+    "m": "cơ sở, căn cứ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "illustrate",
+    "m": "minh họa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "include",
+    "m": "bao gồm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "initiate",
+    "m": "khởi đầu, bắt đầu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "integrate",
+    "m": "tích hợp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "introduce",
+    "m": "giới thiệu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "isolate",
+    "m": "cô lập, tách biệt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "justify",
+    "m": "biện minh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "link",
+    "m": "liên kết",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "manage",
+    "m": "quản lý",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "match",
+    "m": "phù hợp, so khớp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "mediate",
+    "m": "làm trung gian",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "meet",
+    "m": "đáp ứng, gặp gỡ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "negotiate",
+    "m": "đàm phán",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "note",
+    "m": "ghi chú, lưu ý",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "obtain",
+    "m": "có được",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "oppose",
+    "m": "phản đối",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "overcome",
+    "m": "vượt qua",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "address a challenge",
+    "m": "giải quyết thách thức",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "raise an issue",
+    "m": "nêu ra vấn đề",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "demonstrate a point",
+    "m": "chứng minh một quan điểm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "draw a distinction",
+    "m": "phân biệt sự khác biệt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "establish a connection",
+    "m": "thiết lập mối liên hệ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "take a stance",
+    "m": "đứng về phía, có quan điểm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "put forward an argument",
+    "m": "đưa ra lập luận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "challenge an assumption",
+    "m": "chất vấn giả định",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "provide evidence",
+    "m": "cung cấp bằng chứng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reach a conclusion",
+    "m": "đi đến kết luận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "bear in mind",
+    "m": "ghi nhớ, lưu ý",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "come to terms",
+    "m": "chấp nhận, thỏa hiệp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "make a case",
+    "m": "lập luận ủng hộ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "shed light on",
+    "m": "làm sáng tỏ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "in keeping with",
+    "m": "phù hợp với",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "in line with",
+    "m": "phù hợp với",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "in view of",
+    "m": "xét đến",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "on balance",
+    "m": "nhìn chung, xét tổng thể",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "on the whole",
+    "m": "nhìn chung",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "to a large extent",
+    "m": "ở mức độ lớn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "to some degree",
+    "m": "ở mức độ nào đó",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "at the expense of",
+    "m": "với cái giá là, hi sinh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "in the face of",
+    "m": "trước, đối mặt với",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "in the wake of",
+    "m": "sau, do hệ quả của",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "alongside",
+    "m": "cùng với, song song",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "against the backdrop of",
+    "m": "trong bối cảnh của",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "in conjunction with",
+    "m": "kết hợp với",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "with reference to",
+    "m": "liên quan đến, dựa trên",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "widespread",
+    "m": "phổ biến rộng rãi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "narrow",
+    "m": "hẹp, thu hẹp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "broad",
+    "m": "rộng, bao quát",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "complex",
+    "m": "phức tạp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "diverse",
+    "m": "đa dạng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "dynamic",
+    "m": "năng động, thay đổi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "flexible",
+    "m": "linh hoạt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "fragile",
+    "m": "dễ vỡ, mong manh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "gradual",
+    "m": "từ từ, dần dần",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "intense",
+    "m": "mãnh liệt, dữ dội",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "marginal",
+    "m": "nhỏ bé, ngoại vi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "mature",
+    "m": "trưởng thành, chín muồi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "mutual",
+    "m": "tương hỗ, chung",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "neutral",
+    "m": "trung lập",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "ongoing",
+    "m": "đang tiếp diễn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "persistent",
+    "m": "kiên trì, dai dẳng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "potential",
+    "m": "tiềm năng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "prevalent",
+    "m": "phổ biến, thịnh hành",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "prominent",
+    "m": "nổi bật, quan trọng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "rational",
+    "m": "hợp lý, lý trí",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "relevant",
+    "m": "liên quan, thích hợp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "robust",
+    "m": "mạnh mẽ, vững chắc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "sensitive",
+    "m": "nhạy cảm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "stable",
+    "m": "ổn định",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "strategic",
+    "m": "chiến lược, mang tính chiến lược",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "systematic",
+    "m": "có hệ thống",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "transparent",
+    "m": "minh bạch, rõ ràng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "uniform",
+    "m": "đồng đều, đồng nhất",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "urgent",
+    "m": "khẩn cấp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "viable",
+    "m": "khả thi, có thể thực hiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "voluntary",
+    "m": "tự nguyện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "vulnerable",
+    "m": "dễ bị tổn thương",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "acute",
+    "m": "gay gắt, cấp tính",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "adverse",
+    "m": "bất lợi, có hại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "aggregate",
+    "m": "tổng hợp, tổng cộng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "coherent",
+    "m": "mạch lạc, nhất quán",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "conducive",
+    "m": "có lợi cho, tạo điều kiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "contentious",
+    "m": "gây tranh cãi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "controversial",
+    "m": "gây tranh luận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "cumulative",
+    "m": "tích lũy, dồn dần",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "decisive",
+    "m": "quyết định, dứt khoát",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "detrimental",
+    "m": "có hại, gây hại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "dominant",
+    "m": "chiếm ưu thế, thống trị",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "evident",
+    "m": "rõ ràng, hiển nhiên",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "excessive",
+    "m": "quá mức, thái quá",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "exclusive",
+    "m": "độc quyền, riêng biệt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "favorable",
+    "m": "thuận lợi, có lợi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "feasible",
+    "m": "khả thi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "inherent",
+    "m": "vốn có, nội tại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "integral",
+    "m": "thiết yếu, không thể tách rời",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "intrinsic",
+    "m": "nội tại, bản chất",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "marginal",
+    "m": "không đáng kể, ngoại vi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "meaningful",
+    "m": "có ý nghĩa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "negligible",
+    "m": "không đáng kể",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "notable",
+    "m": "đáng chú ý",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "objective",
+    "m": "khách quan, mục tiêu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "optimal",
+    "m": "tối ưu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "overwhelming",
+    "m": "áp đảo, quá lớn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "parallel",
+    "m": "song song, tương đồng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "peripheral",
+    "m": "ngoại vi, không cốt lõi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "profound",
+    "m": "sâu sắc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "proportional",
+    "m": "tương xứng, tỉ lệ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "provisional",
+    "m": "tạm thời, chưa chính thức",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "quantifiable",
+    "m": "đo lường được",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "rapid",
+    "m": "nhanh chóng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "recurring",
+    "m": "tái diễn, lặp lại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "redundant",
+    "m": "thừa, dư thừa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "refined",
+    "m": "tinh tế, tinh luyện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "simultaneous",
+    "m": "đồng thời",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "sophisticated",
+    "m": "tinh vi, phức tạp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "sustainable",
+    "m": "bền vững",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "tangible",
+    "m": "hữu hình, cụ thể",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "tentative",
+    "m": "tạm thời, chưa chắc chắn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "thorough",
+    "m": "kỹ lưỡng, toàn diện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "underlying",
+    "m": "cơ bản, nằm dưới",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "unequal",
+    "m": "không bình đẳng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "unique",
+    "m": "độc đáo, duy nhất",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "unprecedented",
+    "m": "chưa từng có",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "volatile",
+    "m": "dễ thay đổi, bất ổn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "breakthrough",
+    "m": "bước đột phá",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "challenge",
+    "m": "thách thức",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "commitment",
+    "m": "cam kết",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "complexity",
+    "m": "sự phức tạp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "controversy",
+    "m": "tranh cãi, tranh luận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "crisis",
+    "m": "khủng hoảng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "debate",
+    "m": "tranh luận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "deficit",
+    "m": "thâm hụt, thiếu hụt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "dilemma",
+    "m": "tiến thoái lưỡng nan, nan giải",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "discrepancy",
+    "m": "sự bất nhất, không khớp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "diversity",
+    "m": "sự đa dạng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "framework",
+    "m": "khung, cấu trúc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "gap",
+    "m": "khoảng cách, lỗ hổng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "initiative",
+    "m": "sáng kiến, chủ động",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "insight",
+    "m": "thấu hiểu, nhận thức sâu sắc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "instability",
+    "m": "sự không ổn định",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "integration",
+    "m": "tích hợp, kết hợp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "landscape",
+    "m": "bối cảnh, phong cảnh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "milestone",
+    "m": "cột mốc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "momentum",
+    "m": "đà, xung lực",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "obstacle",
+    "m": "trở ngại, chướng ngại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "opportunity",
+    "m": "cơ hội",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "outcome",
+    "m": "kết quả",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "perspective",
+    "m": "góc nhìn, quan điểm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "potential",
+    "m": "tiềm năng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "priority",
+    "m": "ưu tiên",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reform",
+    "m": "cải cách",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "shift",
+    "m": "thay đổi, chuyển dịch",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "tension",
+    "m": "căng thẳng, mâu thuẫn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "threshold",
+    "m": "ngưỡng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "trajectory",
+    "m": "quỹ đạo, lộ trình",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "trend",
+    "m": "xu hướng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "turning point",
+    "m": "bước ngoặt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "uncertainty",
+    "m": "sự không chắc chắn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "upgrade",
+    "m": "nâng cấp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "vision",
+    "m": "tầm nhìn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "vulnerability",
+    "m": "tính dễ tổn thương",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "abbreviate",
+    "m": "viết tắt, rút gọn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "abolish",
+    "m": "bãi bỏ, xóa bỏ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "abstain",
+    "m": "kiêng, bỏ phiếu trắng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "abound",
+    "m": "phong phú, có nhiều",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "abrupt",
+    "m": "đột ngột, thô lỗ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "absurd",
+    "m": "vô lý, kỳ quặc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "abuse",
+    "m": "lạm dụng, ngược đãi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "accuse",
+    "m": "tố cáo, buộc tội",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "adequate",
+    "m": "đầy đủ, thỏa đáng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "adjacent",
+    "m": "liền kề, gần",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "affluent",
+    "m": "giàu có, sung túc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "aggravate",
+    "m": "làm trầm trọng hơn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "aggressive",
+    "m": "hung hăng, tích cực mạnh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "agile",
+    "m": "linh hoạt, nhanh nhẹn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "agitate",
+    "m": "kích động, khuấy",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "alleviate",
+    "m": "giảm nhẹ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "ambition",
+    "m": "tham vọng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "amenity",
+    "m": "tiện nghi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "amid",
+    "m": "giữa, trong lúc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "amplify",
+    "m": "khuếch đại, nhấn mạnh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "annex",
+    "m": "phụ lục, thôn tính",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "anonymous",
+    "m": "ẩn danh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "antagonize",
+    "m": "gây thù địch",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "appoint",
+    "m": "bổ nhiệm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "arbitrary",
+    "m": "tùy tiện, độc đoán",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "arduous",
+    "m": "gian khổ, khó nhọc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "arid",
+    "m": "khô hạn, nhạt nhẽo",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "articulation",
+    "m": "sự diễn đạt, khớp nối",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "aspiration",
+    "m": "nguyện vọng, khát vọng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "astute",
+    "m": "sắc sảo, khôn ngoan",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "attentive",
+    "m": "chú ý, quan tâm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "authentic",
+    "m": "chân thực, đích thực",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "authorize",
+    "m": "ủy quyền, cho phép",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "autonomous",
+    "m": "tự trị, độc lập",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "avert",
+    "m": "ngăn ngừa, né tránh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "baffle",
+    "m": "bối rối, làm khó",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "banish",
+    "m": "lưu đày, trục xuất",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "bargain",
+    "m": "mặc cả, thương lượng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "barren",
+    "m": "cằn cỗi, vô sinh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "blatant",
+    "m": "trắng trợn, lộ liễu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "blend",
+    "m": "pha trộn, hòa quyện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "blur",
+    "m": "làm mờ, mờ nhạt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "bolster",
+    "m": "củng cố, chống đỡ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "boost",
+    "m": "tăng cường, thúc đẩy",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "boundless",
+    "m": "vô biên, không giới hạn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "burden",
+    "m": "gánh nặng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "bypass",
+    "m": "vượt qua, bỏ qua",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "candid",
+    "m": "thẳng thắn, thành thật",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "capable",
+    "m": "có năng lực, có thể",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "cautious",
+    "m": "thận trọng, cẩn thận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "cease",
+    "m": "ngừng, chấm dứt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "charitable",
+    "m": "từ thiện, rộng lượng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "chronic",
+    "m": "mãn tính, kéo dài",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "coherence",
+    "m": "sự mạch lạc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "coincide",
+    "m": "trùng hợp, đồng thời",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "collapse",
+    "m": "sụp đổ, tan vỡ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "commemorate",
+    "m": "kỷ niệm, tưởng niệm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "compel",
+    "m": "bắt buộc, cưỡng bức",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "condemn",
+    "m": "lên án, kết án",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "confine",
+    "m": "giới hạn, giam cầm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "confront",
+    "m": "đối mặt, đối diện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "consent",
+    "m": "đồng ý, chấp thuận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "controversy",
+    "m": "tranh cãi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "convey",
+    "m": "truyền tải, vận chuyển",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "cope",
+    "m": "đối phó",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "crucial",
+    "m": "cực kỳ quan trọng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "cultivate",
+    "m": "trồng trọt, nuôi dưỡng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "curtail",
+    "m": "cắt giảm, hạn chế",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "cynical",
+    "m": "hoài nghi, bi quan",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "daunting",
+    "m": "nản lòng, đáng sợ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "debris",
+    "m": "mảnh vỡ, tàn tích",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "decay",
+    "m": "phân hủy, suy tàn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "deceive",
+    "m": "lừa dối",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "decisive",
+    "m": "quyết định, dứt khoát",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "decline",
+    "m": "suy giảm, từ chối",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "dedicate",
+    "m": "cống hiến, dành riêng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "defer",
+    "m": "trì hoãn, nhường",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "deliberate",
+    "m": "cố ý, thảo luận kỹ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "delicate",
+    "m": "tinh tế, mong manh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "deploy",
+    "m": "triển khai, bố trí",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "deprive",
+    "m": "tước đoạt, thiếu thốn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "derive",
+    "m": "rút ra, bắt nguồn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "desirable",
+    "m": "mong muốn, hấp dẫn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "deteriorate",
+    "m": "xấu đi, suy giảm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "devote",
+    "m": "cống hiến, dành cho",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "diminish",
+    "m": "giảm bớt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "discrepancy",
+    "m": "sự không nhất quán",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "dismantle",
+    "m": "tháo dỡ, giải thể",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "dismiss",
+    "m": "bác bỏ, sa thải",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "displace",
+    "m": "thay thế, di chuyển",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "dispute",
+    "m": "tranh chấp, phản bác",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "disregard",
+    "m": "bỏ qua, coi thường",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "disrupt",
+    "m": "làm gián đoạn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "distinct",
+    "m": "rõ rệt, khác biệt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "divert",
+    "m": "chuyển hướng, giải trí",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "dominate",
+    "m": "thống trị, chiếm ưu thế",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "durable",
+    "m": "bền vững, lâu dài",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "ease",
+    "m": "dễ dàng, giảm bớt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "elaborate",
+    "m": "chi tiết, phức tạp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "eloquent",
+    "m": "hùng hồn, lưu loát",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "embed",
+    "m": "nhúng vào, cắm vào",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "emerge",
+    "m": "nổi lên, xuất hiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "empower",
+    "m": "trao quyền, tăng thêm sức mạnh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "encompass",
+    "m": "bao gồm, bao quanh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "endure",
+    "m": "chịu đựng, kéo dài",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "enforce",
+    "m": "thực thi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "enormous",
+    "m": "khổng lồ, rất lớn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "enrich",
+    "m": "làm phong phú",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "equip",
+    "m": "trang bị",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "equivalent",
+    "m": "tương đương",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "eradicate",
+    "m": "loại trừ hoàn toàn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "erode",
+    "m": "xói mòn, bào mòn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "essential",
+    "m": "thiết yếu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "exceed",
+    "m": "vượt quá",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "exhaust",
+    "m": "cạn kiệt, làm kiệt sức",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "exploit",
+    "m": "khai thác, lợi dụng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "explicit",
+    "m": "rõ ràng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "extract",
+    "m": "chiết xuất, rút ra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "exert",
+    "m": "áp dụng, gây tác động",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "fabricate",
+    "m": "chế tạo, bịa đặt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "facilitate",
+    "m": "tạo thuận lợi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "fluctuate",
+    "m": "dao động, thay đổi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "formidable",
+    "m": "đáng sợ, ấn tượng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "fragment",
+    "m": "mảnh vỡ, phân mảnh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "free up",
+    "m": "giải phóng, dọn dẹp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "fulfill",
+    "m": "thực hiện, đáp ứng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "fundamental",
+    "m": "cơ bản",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "generate",
+    "m": "tạo ra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "gradual",
+    "m": "dần dần",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "guarantee",
+    "m": "đảm bảo, bảo đảm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "hamper",
+    "m": "cản trở, gây khó khăn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "harness",
+    "m": "khai thác, harnessing",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "hinder",
+    "m": "cản trở",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "hypothetical",
+    "m": "giả định, giả thuyết",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "identical",
+    "m": "giống hệt nhau",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "illuminate",
+    "m": "chiếu sáng, làm sáng tỏ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "immense",
+    "m": "khổng lồ, vô cùng lớn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "impartial",
+    "m": "không thiên vị",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "impose",
+    "m": "áp đặt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "impractical",
+    "m": "không thực tế",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "inadequate",
+    "m": "không đầy đủ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "incline",
+    "m": "có xu hướng, dốc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "induce",
+    "m": "gây ra, thuyết phục",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "inherent",
+    "m": "vốn có",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "innovative",
+    "m": "sáng tạo, đổi mới",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "insist",
+    "m": "kiên quyết, khăng khăng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "inspire",
+    "m": "truyền cảm hứng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "insufficient",
+    "m": "không đủ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "intend",
+    "m": "dự định, có ý định",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "intense",
+    "m": "mãnh liệt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "intervene",
+    "m": "can thiệp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "intricate",
+    "m": "phức tạp, tinh xảo",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "irrelevant",
+    "m": "không liên quan",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "isolate",
+    "m": "cô lập",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "labor",
+    "m": "lao động, làm việc vất vả",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "launch",
+    "m": "khởi động, phóng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "legitimate",
+    "m": "hợp pháp, chính đáng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "lengthy",
+    "m": "dài, kéo dài",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "logical",
+    "m": "hợp lý, logic",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "manifest",
+    "m": "biểu hiện rõ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "mediate",
+    "m": "làm trung gian",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "mitigate",
+    "m": "giảm nhẹ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "mobilize",
+    "m": "huy động",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "moderate",
+    "m": "vừa phải, điều độ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "motivate",
+    "m": "thúc đẩy",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "mutual",
+    "m": "tương hỗ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "necessitate",
+    "m": "bắt buộc phải",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "neglect",
+    "m": "bỏ bê, lơ là",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "negotiate",
+    "m": "đàm phán",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "notify",
+    "m": "thông báo",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "obstruct",
+    "m": "cản trở, chặn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "ongoing",
+    "m": "đang diễn ra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "optimize",
+    "m": "tối ưu hóa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "originate",
+    "m": "bắt nguồn từ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "output",
+    "m": "đầu ra, sản lượng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "overcome",
+    "m": "vượt qua",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "parameter",
+    "m": "thông số",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "partial",
+    "m": "bộ phận, thiên vị",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "passive",
+    "m": "thụ động",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "peak",
+    "m": "đỉnh, đạt đỉnh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "perceive",
+    "m": "nhận thức, cảm nhận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "persistent",
+    "m": "kiên trì",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "pertinent",
+    "m": "liên quan, thích hợp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "phase out",
+    "m": "loại dần",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "plausible",
+    "m": "có lý, đáng tin",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "policy",
+    "m": "chính sách",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "pose",
+    "m": "đặt ra, tạo dáng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "positive",
+    "m": "tích cực, khẳng định",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "precede",
+    "m": "đến trước, quan trọng hơn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "precisely",
+    "m": "chính xác",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "predominant",
+    "m": "chiếm ưu thế",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "prerequisites",
+    "m": "điều kiện tiên quyết",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "presume",
+    "m": "cho là, suy đoán",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "prominent",
+    "m": "nổi bật",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "proportional",
+    "m": "tương xứng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "pursue",
+    "m": "theo đuổi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "qualify",
+    "m": "đủ điều kiện, hạn chế",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "rationale",
+    "m": "lý do cơ bản",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reasonable",
+    "m": "hợp lý",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reconcile",
+    "m": "hòa giải, dung hòa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "refine",
+    "m": "tinh chỉnh, lọc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reform",
+    "m": "cải cách",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "regulate",
+    "m": "điều chỉnh, quy định",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reinforce",
+    "m": "tăng cường, củng cố",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reject",
+    "m": "từ chối, phủ nhận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reliable",
+    "m": "đáng tin cậy",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "remedy",
+    "m": "biện pháp khắc phục",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "render",
+    "m": "làm cho, cung cấp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "reshape",
+    "m": "định hình lại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "restore",
+    "m": "khôi phục",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "revise",
+    "m": "sửa đổi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "rigorous",
+    "m": "chặt chẽ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "robust",
+    "m": "mạnh mẽ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "scale up",
+    "m": "mở rộng quy mô",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "scrutinize",
+    "m": "xem xét kỹ lưỡng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "secure",
+    "m": "bảo mật, đảm bảo",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "significant",
+    "m": "có ý nghĩa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "simultaneously",
+    "m": "đồng thời",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "skeptical",
+    "m": "hoài nghi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "stimulate",
+    "m": "kích thích",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "straightforward",
+    "m": "đơn giản, thẳng thắn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "substitute",
+    "m": "thay thế",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "sufficient",
+    "m": "đủ, thỏa đáng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "tackle",
+    "m": "giải quyết, đối phó",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "tangible",
+    "m": "hữu hình",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "threshold",
+    "m": "ngưỡng, ranh giới",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "transfer",
+    "m": "chuyển giao",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "transparent",
+    "m": "minh bạch",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "trigger",
+    "m": "kích hoạt, gây ra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "uncertain",
+    "m": "không chắc chắn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "underestimate",
+    "m": "đánh giá thấp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "underpin",
+    "m": "làm nền tảng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "unique",
+    "m": "độc đáo",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "unravel",
+    "m": "tháo gỡ, giải quyết",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "validate",
+    "m": "xác nhận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "vast",
+    "m": "rộng lớn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "versatile",
+    "m": "linh hoạt, đa năng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "vital",
+    "m": "thiết yếu, sống còn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "vivid",
+    "m": "sinh động",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "warrant",
+    "m": "bảo đảm, lệnh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "withstand",
+    "m": "chịu đựng, đứng vững",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "worthwhile",
+    "m": "xứng đáng, có giá trị",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "yield",
+    "m": "sản lượng, mang lại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "zealous",
+    "m": "nhiệt thành, hăng hái",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "abandon oneself to",
+    "m": "buông thả, đắm chìm trong",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "abide by",
+    "m": "tuân thủ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "account for",
+    "m": "chiếm, giải thích",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "accrue",
+    "m": "tích lũy, dồn tích",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "affirmative",
+    "m": "khẳng định, đồng ý",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "aggregate",
+    "m": "tổng cộng, tập hợp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "aid",
+    "m": "giúp đỡ, hỗ trợ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "ambiguity",
+    "m": "sự mơ hồ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "ameliorate",
+    "m": "cải thiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "ample",
+    "m": "rộng rãi, dư dả",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "analogous",
+    "m": "tương tự, tương đương",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "anomalous",
+    "m": "bất thường",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "anticipation",
+    "m": "sự mong đợi, dự kiến",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "apparatus",
+    "m": "bộ máy, thiết bị",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "applicable",
+    "m": "áp dụng được",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "appropriate",
+    "m": "phù hợp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "approximate",
+    "m": "gần đúng, xấp xỉ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "arbitrary",
+    "m": "tùy tiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "assertion",
+    "m": "sự khẳng định",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "asset",
+    "m": "tài sản, ưu điểm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "assimilate",
+    "m": "đồng hóa, tiếp thu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "attain",
+    "m": "đạt được",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "attributable",
+    "m": "có thể quy cho",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "augment",
+    "m": "tăng thêm, bổ sung",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "autonomous",
+    "m": "tự chủ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "benchmark",
+    "m": "chuẩn mực, điểm chuẩn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "broad-based",
+    "m": "diện rộng, đa chiều",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "bureaucratic",
+    "m": "quan liêu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "catalyst",
+    "m": "chất xúc tác, yếu tố thúc đẩy",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "causal",
+    "m": "nhân quả",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "caveat",
+    "m": "cảnh báo, điều kiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "certify",
+    "m": "chứng nhận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "circumvent",
+    "m": "né tránh, lách qua",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "cite",
+    "m": "trích dẫn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "coercive",
+    "m": "cưỡng bức, ép buộc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "coincide",
+    "m": "trùng hợp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "collective",
+    "m": "tập thể",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "compelling",
+    "m": "thuyết phục, hấp dẫn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "complementary",
+    "m": "bổ sung cho nhau",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "concurrent",
+    "m": "đồng thời, song song",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "confer",
+    "m": "hội nghị, trao tặng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "confound",
+    "m": "gây nhầm lẫn, bác bỏ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "conjunction",
+    "m": "liên kết, từ nối",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "connotation",
+    "m": "hàm ý, nghĩa bóng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "consecutive",
+    "m": "liên tiếp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "constrain",
+    "m": "ràng buộc, hạn chế",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "containment",
+    "m": "kiềm chế, ngăn chặn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "contingent",
+    "m": "phụ thuộc vào, tình cờ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "contradict",
+    "m": "mâu thuẫn, phủ nhận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "convergent",
+    "m": "hội tụ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "conviction",
+    "m": "niềm tin vững chắc, bản án",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "correlate",
+    "m": "tương quan",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "counterpart",
+    "m": "người/vật tương đương",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "counterproductive",
+    "m": "phản tác dụng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "credibility",
+    "m": "độ tin cậy, uy tín",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "criterion",
+    "m": "tiêu chí",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "cumulative",
+    "m": "tích lũy",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "curtail",
+    "m": "cắt giảm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "deferred",
+    "m": "bị hoãn lại",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "deliberate",
+    "m": "có chủ ý",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "dense",
+    "m": "dày đặc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "depict",
+    "m": "mô tả, miêu tả",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "derived",
+    "m": "bắt nguồn từ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "discern",
+    "m": "phân biệt, nhận ra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "disclose",
+    "m": "tiết lộ, công bố",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "discrete",
+    "m": "rời rạc, riêng biệt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "disprove",
+    "m": "bác bỏ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "distort",
+    "m": "bóp méo, làm biến dạng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "diverse",
+    "m": "đa dạng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "dynamic",
+    "m": "năng động",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "empirical",
+    "m": "thực nghiệm",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "enable",
+    "m": "cho phép",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "engage",
+    "m": "thu hút, tham gia",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "ensure",
+    "m": "đảm bảo",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "establish",
+    "m": "thiết lập",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "exceed",
+    "m": "vượt quá",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "exemplify",
+    "m": "làm ví dụ điển hình",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "facilitate",
+    "m": "tạo điều kiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "factor in",
+    "m": "tính đến",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "feasible",
+    "m": "khả thi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "findings",
+    "m": "kết quả, phát hiện",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "finite",
+    "m": "hữu hạn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "flexibility",
+    "m": "tính linh hoạt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "formulate",
+    "m": "soạn thảo",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "framework",
+    "m": "khung, cấu trúc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "functional",
+    "m": "có chức năng, thực dụng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "governance",
+    "m": "quản trị, điều hành",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "groundbreaking",
+    "m": "đột phá, tiên phong",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "guidelines",
+    "m": "hướng dẫn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "highlight",
+    "m": "làm nổi bật",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "hypothesis",
+    "m": "giả thuyết",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "identify",
+    "m": "xác định",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "illustrate",
+    "m": "minh họa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "implication",
+    "m": "hàm ý",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "impose",
+    "m": "áp đặt",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "incorporate",
+    "m": "kết hợp, tích hợp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "indicate",
+    "m": "chỉ ra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "inevitable",
+    "m": "không tránh khỏi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "infrastructure",
+    "m": "cơ sở hạ tầng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "integrated",
+    "m": "tích hợp, thống nhất",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "intermediate",
+    "m": "trung gian, trung cấp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "intervention",
+    "m": "sự can thiệp",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "invest",
+    "m": "đầu tư",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "justify",
+    "m": "chứng minh, biện minh",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "key driver",
+    "m": "động lực chính",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "knowledge gap",
+    "m": "lỗ hổng kiến thức",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "leverage",
+    "m": "đòn bẩy, tận dụng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "linear",
+    "m": "tuyến tính",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "mainstream",
+    "m": "chính dòng, phổ biến",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "mandate",
+    "m": "lệnh, ủy thác",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "mechanism",
+    "m": "cơ chế",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "methodology",
+    "m": "phương pháp luận",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "minimize",
+    "m": "giảm thiểu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "mitigate",
+    "m": "giảm nhẹ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "navigate",
+    "m": "điều hướng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "normative",
+    "m": "quy chuẩn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "objective",
+    "m": "mục tiêu, khách quan",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "operational",
+    "m": "hoạt động được",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "optimal",
+    "m": "tối ưu",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "outcome",
+    "m": "kết quả đầu ra",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "overarching",
+    "m": "bao trùm, tổng thể",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "oversight",
+    "m": "giám sát, sơ suất",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "paradigm",
+    "m": "mô hình",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "pathway",
+    "m": "con đường, lộ trình",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "performance",
+    "m": "hiệu suất, biểu diễn",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "policy framework",
+    "m": "khung chính sách",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "precedent",
+    "m": "tiền lệ",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "prerequisite",
+    "m": "điều kiện tiên quyết",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "profound",
+    "m": "sâu sắc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "rationale",
+    "m": "lý luận căn bản",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "robust",
+    "m": "vững chắc",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "scalable",
+    "m": "có thể mở rộng",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "scope",
+    "m": "phạm vi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "systematic",
+    "m": "có hệ thống",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "trade-off",
+    "m": "sự đánh đổi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "transformative",
+    "m": "có tính chuyển hóa",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "transparent",
+    "m": "minh bạch",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "ubiquitous",
+    "m": "hiện diện khắp nơi",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "underlying",
+    "m": "nền tảng, căn bản",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "unprecedented",
+    "m": "chưa từng có",
+    "cat": "vocabulary"
+  },
+  {
+    "w": "conglomerate",
+    "m": "tập đoàn, hỗn hợp",
+    "cat": "business"
+  },
+  {
+    "w": "franchise",
+    "m": "nhượng quyền thương mại",
+    "cat": "business"
+  },
+  {
+    "w": "trademark",
+    "m": "nhãn hiệu thương mại",
+    "cat": "business"
+  },
+  {
+    "w": "copyright",
+    "m": "bản quyền",
+    "cat": "business"
+  },
+  {
+    "w": "intellectual property",
+    "m": "sở hữu trí tuệ",
+    "cat": "business"
+  },
+  {
+    "w": "licensing",
+    "m": "cấp phép",
+    "cat": "business"
+  },
+  {
+    "w": "royalty",
+    "m": "tiền bản quyền",
+    "cat": "business"
+  },
+  {
+    "w": "overhead",
+    "m": "chi phí chung, tổng chi phí",
+    "cat": "business"
+  },
+  {
+    "w": "turnover",
+    "m": "doanh thu, tỷ lệ luân chuyển",
+    "cat": "business"
+  },
+  {
+    "w": "profit",
+    "m": "lợi nhuận",
+    "cat": "business"
+  },
+  {
+    "w": "loss",
+    "m": "tổn thất",
+    "cat": "business"
+  },
+  {
+    "w": "break-even",
+    "m": "hòa vốn",
+    "cat": "business"
+  },
+  {
+    "w": "markup",
+    "m": "phụ trội, nâng giá",
+    "cat": "business"
+  },
+  {
+    "w": "discount",
+    "m": "giảm giá, chiết khấu",
+    "cat": "business"
+  },
+  {
+    "w": "bulk order",
+    "m": "đơn hàng số lượng lớn",
+    "cat": "business"
+  },
+  {
+    "w": "procurement",
+    "m": "mua sắm, cung ứng",
+    "cat": "business"
+  },
+  {
+    "w": "vendor",
+    "m": "người bán, nhà cung cấp",
+    "cat": "business"
+  },
+  {
+    "w": "customer service",
+    "m": "dịch vụ khách hàng",
+    "cat": "business"
+  },
+  {
+    "w": "warranty",
+    "m": "bảo hành",
+    "cat": "business"
+  },
+  {
+    "w": "liability insurance",
+    "m": "bảo hiểm trách nhiệm",
+    "cat": "business"
+  },
+  {
+    "w": "premium",
+    "m": "phí bảo hiểm, cao cấp",
+    "cat": "business"
+  },
+  {
+    "w": "deductible",
+    "m": "khấu trừ bảo hiểm",
+    "cat": "business"
+  },
+  {
+    "w": "actuarial",
+    "m": "tính toán bảo hiểm",
+    "cat": "business"
+  },
+  {
+    "w": "underwriting",
+    "m": "bảo lãnh phát hành",
+    "cat": "business"
+  },
+  {
+    "w": "mortgage",
+    "m": "thế chấp nhà",
+    "cat": "business"
+  },
+  {
+    "w": "principal",
+    "m": "vốn gốc, người ủy quyền",
+    "cat": "business"
+  },
+  {
+    "w": "installment",
+    "m": "kỳ trả góp",
+    "cat": "business"
+  },
+  {
+    "w": "credit score",
+    "m": "điểm tín dụng",
+    "cat": "business"
+  },
+  {
+    "w": "default",
+    "m": "vỡ nợ, mặc định",
+    "cat": "business"
+  },
+  {
+    "w": "insolvency",
+    "m": "mất khả năng thanh toán",
+    "cat": "business"
+  },
+  {
+    "w": "receivership",
+    "m": "quản lý tài sản phá sản",
+    "cat": "business"
+  },
+  {
+    "w": "restructure",
+    "m": "tái cơ cấu",
+    "cat": "business"
+  },
+  {
+    "w": "turnaround",
+    "m": "phục hồi, xoay chuyển",
+    "cat": "business"
+  },
+  {
+    "w": "spin-off",
+    "m": "tách công ty con",
+    "cat": "business"
+  },
+  {
+    "w": "joint venture",
+    "m": "liên doanh",
+    "cat": "business"
+  },
+  {
+    "w": "consortium",
+    "m": "hiệp hội, tổ hợp",
+    "cat": "business"
+  },
+  {
+    "w": "cartel",
+    "m": "các-ten, liên minh độc quyền",
+    "cat": "business"
+  },
+  {
+    "w": "antitrust",
+    "m": "chống độc quyền",
+    "cat": "business"
+  },
+  {
+    "w": "regulation",
+    "m": "quy định, quy chế",
+    "cat": "business"
+  },
+  {
+    "w": "deregulation",
+    "m": "bãi bỏ quy định",
+    "cat": "business"
+  },
+  {
+    "w": "privatization",
+    "m": "tư nhân hóa",
+    "cat": "business"
+  },
+  {
+    "w": "nationalization",
+    "m": "quốc hữu hóa",
+    "cat": "business"
+  },
+  {
+    "w": "public sector",
+    "m": "khu vực công",
+    "cat": "business"
+  },
+  {
+    "w": "private sector",
+    "m": "khu vực tư nhân",
+    "cat": "business"
+  },
+  {
+    "w": "NGO",
+    "m": "tổ chức phi chính phủ",
+    "cat": "business"
+  },
+  {
+    "w": "non-profit",
+    "m": "phi lợi nhuận",
+    "cat": "business"
+  },
+  {
+    "w": "social enterprise",
+    "m": "doanh nghiệp xã hội",
+    "cat": "business"
+  },
+  {
+    "w": "B corporation",
+    "m": "doanh nghiệp B",
+    "cat": "business"
+  },
+  {
+    "w": "ESG",
+    "m": "môi trường xã hội quản trị",
+    "cat": "business"
+  },
+  {
+    "w": "corporate social responsibility",
+    "m": "trách nhiệm xã hội doanh nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "stakeholder capitalism",
+    "m": "chủ nghĩa tư bản bên liên quan",
+    "cat": "business"
+  },
+  {
+    "w": "shareholder value",
+    "m": "giá trị cổ đông",
+    "cat": "business"
+  },
+  {
+    "w": "executive compensation",
+    "m": "thù lao giám đốc",
+    "cat": "business"
+  },
+  {
+    "w": "golden parachute",
+    "m": "điều khoản đền bù hậu hĩnh",
+    "cat": "business"
+  },
+  {
+    "w": "hostile takeover",
+    "m": "thâu tóm thù địch",
+    "cat": "business"
+  },
+  {
+    "w": "white knight",
+    "m": "hiệp sĩ trắng - người bảo vệ",
+    "cat": "business"
+  },
+  {
+    "w": "poison pill",
+    "m": "chiến lược phòng thủ mua lại",
+    "cat": "business"
+  },
+  {
+    "w": "leveraged buyout",
+    "m": "mua lại bằng đòn bẩy",
+    "cat": "business"
+  },
+  {
+    "w": "management buyout",
+    "m": "mua lại bởi ban quản lý",
+    "cat": "business"
+  },
+  {
+    "w": "private equity",
+    "m": "vốn cổ phần tư nhân",
+    "cat": "business"
+  },
+  {
+    "w": "hedge fund",
+    "m": "quỹ phòng hộ",
+    "cat": "business"
+  },
+  {
+    "w": "mutual fund",
+    "m": "quỹ tương hỗ",
+    "cat": "business"
+  },
+  {
+    "w": "index fund",
+    "m": "quỹ chỉ số",
+    "cat": "business"
+  },
+  {
+    "w": "exchange-traded fund",
+    "m": "quỹ giao dịch trên sàn",
+    "cat": "business"
+  },
+  {
+    "w": "asset management",
+    "m": "quản lý tài sản",
+    "cat": "business"
+  },
+  {
+    "w": "wealth management",
+    "m": "quản lý tài sản cá nhân",
+    "cat": "business"
+  },
+  {
+    "w": "financial planning",
+    "m": "lập kế hoạch tài chính",
+    "cat": "business"
+  },
+  {
+    "w": "retirement fund",
+    "m": "quỹ hưu trí",
+    "cat": "business"
+  },
+  {
+    "w": "pension",
+    "m": "lương hưu",
+    "cat": "business"
+  },
+  {
+    "w": "annuity",
+    "m": "niên kim, trái phiếu hàng năm",
+    "cat": "business"
+  },
+  {
+    "w": "endowment",
+    "m": "quỹ đóng góp vĩnh cửu",
+    "cat": "business"
+  },
+  {
+    "w": "trust fund",
+    "m": "quỹ tín thác",
+    "cat": "business"
+  },
+  {
+    "w": "philanthropy",
+    "m": "lòng từ thiện",
+    "cat": "business"
+  },
+  {
+    "w": "grant",
+    "m": "tài trợ, cấp phép",
+    "cat": "business"
+  },
+  {
+    "w": "donation",
+    "m": "quyên góp, tặng",
+    "cat": "business"
+  },
+  {
+    "w": "crowdfunding",
+    "m": "gây quỹ cộng đồng",
+    "cat": "business"
+  },
+  {
+    "w": "microfinance",
+    "m": "tài chính vi mô",
+    "cat": "business"
+  },
+  {
+    "w": "microloan",
+    "m": "khoản vay vi mô",
+    "cat": "business"
+  },
+  {
+    "w": "remittance",
+    "m": "kiều hối",
+    "cat": "business"
+  },
+  {
+    "w": "foreign direct investment",
+    "m": "đầu tư trực tiếp nước ngoài",
+    "cat": "business"
+  },
+  {
+    "w": "trade balance",
+    "m": "cán cân thương mại",
+    "cat": "business"
+  },
+  {
+    "w": "current account",
+    "m": "tài khoản vãng lai",
+    "cat": "business"
+  },
+  {
+    "w": "capital account",
+    "m": "tài khoản vốn",
+    "cat": "business"
+  },
+  {
+    "w": "balance of payments",
+    "m": "cán cân thanh toán",
+    "cat": "business"
+  },
+  {
+    "w": "currency appreciation",
+    "m": "tăng giá tiền tệ",
+    "cat": "business"
+  },
+  {
+    "w": "quantitative easing",
+    "m": "nới lỏng định lượng",
+    "cat": "business"
+  },
+  {
+    "w": "austerity",
+    "m": "thắt lưng buộc bụng",
+    "cat": "business"
+  },
+  {
+    "w": "fiscal stimulus",
+    "m": "kích thích tài khóa",
+    "cat": "business"
+  },
+  {
+    "w": "monetary policy",
+    "m": "chính sách tiền tệ",
+    "cat": "business"
+  },
+  {
+    "w": "fiscal policy",
+    "m": "chính sách tài khóa",
+    "cat": "business"
+  },
+  {
+    "w": "supply-side economics",
+    "m": "kinh tế học cung",
+    "cat": "business"
+  },
+  {
+    "w": "demand-side economics",
+    "m": "kinh tế học cầu",
+    "cat": "business"
+  },
+  {
+    "w": "Keynesian economics",
+    "m": "kinh tế học Keynes",
+    "cat": "business"
+  },
+  {
+    "w": "neoliberal",
+    "m": "tân tự do",
+    "cat": "business"
+  },
+  {
+    "w": "developmental state",
+    "m": "nhà nước phát triển",
+    "cat": "business"
+  },
+  {
+    "w": "mixed economy",
+    "m": "kinh tế hỗn hợp",
+    "cat": "business"
+  },
+  {
+    "w": "command economy",
+    "m": "kinh tế chỉ huy",
+    "cat": "business"
+  },
+  {
+    "w": "market economy",
+    "m": "kinh tế thị trường",
+    "cat": "business"
+  },
+  {
+    "w": "gig economy",
+    "m": "kinh tế nền tảng tự do",
+    "cat": "business"
+  },
+  {
+    "w": "sharing economy",
+    "m": "kinh tế chia sẻ",
+    "cat": "business"
+  },
+  {
+    "w": "platform economy",
+    "m": "kinh tế nền tảng",
+    "cat": "business"
+  },
+  {
+    "w": "winner-takes-all",
+    "m": "người thắng chiếm tất cả",
+    "cat": "business"
+  },
+  {
+    "w": "superstar economy",
+    "m": "kinh tế siêu sao",
+    "cat": "business"
+  },
+  {
+    "w": "Gini coefficient",
+    "m": "hệ số Gini (bất bình đẳng)",
+    "cat": "business"
+  },
+  {
+    "w": "Lorenz curve",
+    "m": "đường cong Lorenz",
+    "cat": "business"
+  },
+  {
+    "w": "inequality",
+    "m": "bất bình đẳng",
+    "cat": "business"
+  },
+  {
+    "w": "poverty trap",
+    "m": "bẫy nghèo đói",
+    "cat": "business"
+  },
+  {
+    "w": "social mobility",
+    "m": "di động xã hội",
+    "cat": "business"
+  },
+  {
+    "w": "intergenerational mobility",
+    "m": "di động liên thế hệ",
+    "cat": "business"
+  },
+  {
+    "w": "meritocracy",
+    "m": "xã hội trọng tài",
+    "cat": "business"
+  },
+  {
+    "w": "credentialism",
+    "m": "coi trọng bằng cấp",
+    "cat": "business"
+  },
+  {
+    "w": "human capital",
+    "m": "vốn con người",
+    "cat": "business"
+  },
+  {
+    "w": "social capital",
+    "m": "vốn xã hội",
+    "cat": "business"
+  },
+  {
+    "w": "cultural capital",
+    "m": "vốn văn hóa",
+    "cat": "business"
+  },
+  {
+    "w": "symbolic capital",
+    "m": "vốn tượng trưng",
+    "cat": "business"
+  },
+  {
+    "w": "economic capital",
+    "m": "vốn kinh tế",
+    "cat": "business"
+  },
+  {
+    "w": "natural capital",
+    "m": "vốn tự nhiên",
+    "cat": "business"
+  },
+  {
+    "w": "ecosystem services",
+    "m": "dịch vụ hệ sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "carbon trading",
+    "m": "giao dịch carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "cap and trade",
+    "m": "hạn ngạch và giao dịch",
+    "cat": "environment"
+  },
+  {
+    "w": "carbon tax",
+    "m": "thuế carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "green bond",
+    "m": "trái phiếu xanh",
+    "cat": "environment"
+  },
+  {
+    "w": "renewable portfolio standard",
+    "m": "tiêu chuẩn danh mục năng lượng tái tạo",
+    "cat": "environment"
+  },
+  {
+    "w": "feed-in tariff",
+    "m": "thuế quan ưu đãi điện tái tạo",
+    "cat": "environment"
+  },
+  {
+    "w": "energy efficiency",
+    "m": "hiệu quả năng lượng",
+    "cat": "environment"
+  },
+  {
+    "w": "zero-emission vehicle",
+    "m": "xe không phát thải",
+    "cat": "environment"
+  },
+  {
+    "w": "green infrastructure",
+    "m": "cơ sở hạ tầng xanh",
+    "cat": "environment"
+  },
+  {
+    "w": "land use planning",
+    "m": "quy hoạch sử dụng đất",
+    "cat": "environment"
+  },
+  {
+    "w": "zoning",
+    "m": "phân vùng",
+    "cat": "environment"
+  },
+  {
+    "w": "urban sprawl",
+    "m": "đô thị hóa lan tràn",
+    "cat": "environment"
+  },
+  {
+    "w": "compact city",
+    "m": "đô thị nén",
+    "cat": "environment"
+  },
+  {
+    "w": "transit-oriented development",
+    "m": "phát triển định hướng giao thông công cộng",
+    "cat": "environment"
+  },
+  {
+    "w": "walkability",
+    "m": "tính đi bộ được",
+    "cat": "environment"
+  },
+  {
+    "w": "biophilic design",
+    "m": "thiết kế yêu thiên nhiên",
+    "cat": "environment"
+  },
+  {
+    "w": "green building",
+    "m": "công trình xanh",
+    "cat": "environment"
+  },
+  {
+    "w": "LEED certification",
+    "m": "chứng nhận LEED",
+    "cat": "environment"
+  },
+  {
+    "w": "passive house",
+    "m": "nhà thụ động (tiết kiệm năng lượng)",
+    "cat": "environment"
+  },
+  {
+    "w": "urban heat island",
+    "m": "đảo nhiệt đô thị",
+    "cat": "environment"
+  },
+  {
+    "w": "heat wave",
+    "m": "đợt nóng",
+    "cat": "environment"
+  },
+  {
+    "w": "sea level rise",
+    "m": "mực nước biển dâng",
+    "cat": "environment"
+  },
+  {
+    "w": "coastal erosion",
+    "m": "xói mòn bờ biển",
+    "cat": "environment"
+  },
+  {
+    "w": "flood plain",
+    "m": "vùng ngập lụt",
+    "cat": "environment"
+  },
+  {
+    "w": "wetland",
+    "m": "đất ngập nước",
+    "cat": "environment"
+  },
+  {
+    "w": "mangrove",
+    "m": "rừng ngập mặn",
+    "cat": "environment"
+  },
+  {
+    "w": "peatland",
+    "m": "đất than bùn",
+    "cat": "environment"
+  },
+  {
+    "w": "old-growth forest",
+    "m": "rừng nguyên sinh",
+    "cat": "environment"
+  },
+  {
+    "w": "silviculture",
+    "m": "lâm sinh học",
+    "cat": "environment"
+  },
+  {
+    "w": "agroforestry",
+    "m": "nông lâm kết hợp",
+    "cat": "environment"
+  },
+  {
+    "w": "permaculture",
+    "m": "nông nghiệp bền vững",
+    "cat": "environment"
+  },
+  {
+    "w": "regenerative agriculture",
+    "m": "nông nghiệp tái tạo",
+    "cat": "environment"
+  },
+  {
+    "w": "monoculture",
+    "m": "độc canh",
+    "cat": "environment"
+  },
+  {
+    "w": "polyculture",
+    "m": "đa canh",
+    "cat": "environment"
+  },
+  {
+    "w": "soil health",
+    "m": "sức khỏe đất",
+    "cat": "environment"
+  },
+  {
+    "w": "nitrogen cycle",
+    "m": "vòng tuần hoàn nitơ",
+    "cat": "environment"
+  },
+  {
+    "w": "phosphorus cycle",
+    "m": "vòng tuần hoàn phốt pho",
+    "cat": "environment"
+  },
+  {
+    "w": "water cycle",
+    "m": "vòng tuần hoàn nước",
+    "cat": "environment"
+  },
+  {
+    "w": "carbon cycle",
+    "m": "vòng tuần hoàn carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "trophic level",
+    "m": "mức dinh dưỡng",
+    "cat": "environment"
+  },
+  {
+    "w": "keystone species",
+    "m": "loài then chốt",
+    "cat": "environment"
+  },
+  {
+    "w": "invasive species",
+    "m": "loài xâm lấn",
+    "cat": "environment"
+  },
+  {
+    "w": "endemic species",
+    "m": "loài đặc hữu",
+    "cat": "environment"
+  },
+  {
+    "w": "apex predator",
+    "m": "loài ăn thịt đỉnh",
+    "cat": "environment"
+  },
+  {
+    "w": "trophic cascade",
+    "m": "hiệu ứng dây chuyền dinh dưỡng",
+    "cat": "environment"
+  },
+  {
+    "w": "ecosystem collapse",
+    "m": "sụp đổ hệ sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "planetary boundaries",
+    "m": "ranh giới hành tinh",
+    "cat": "environment"
+  },
+  {
+    "w": "Anthropocene",
+    "m": "kỷ Anthropocene",
+    "cat": "environment"
+  },
+  {
+    "w": "holocene",
+    "m": "kỷ Holocene",
+    "cat": "environment"
+  },
+  {
+    "w": "mass extinction",
+    "m": "tuyệt chủng hàng loạt",
+    "cat": "environment"
+  },
+  {
+    "w": "sixth mass extinction",
+    "m": "tuyệt chủng hàng loạt lần 6",
+    "cat": "environment"
+  },
+  {
+    "w": "rewilding",
+    "m": "tái hoang hóa",
+    "cat": "environment"
+  },
+  {
+    "w": "assisted migration",
+    "m": "di cư có hỗ trợ",
+    "cat": "environment"
+  },
+  {
+    "w": "gene drive",
+    "m": "lái gen",
+    "cat": "environment"
+  },
+  {
+    "w": "de-extinction",
+    "m": "phục hồi loài đã tuyệt chủng",
+    "cat": "environment"
+  },
+  {
+    "w": "conservation genetics",
+    "m": "di truyền bảo tồn",
+    "cat": "environment"
+  },
+  {
+    "w": "population viability analysis",
+    "m": "phân tích khả năng tồn tại quần thể",
+    "cat": "environment"
+  },
+  {
+    "w": "habitat corridor",
+    "m": "hành lang sinh thái",
+    "cat": "environment"
+  },
+  {
+    "w": "protected area",
+    "m": "khu vực được bảo vệ",
+    "cat": "environment"
+  },
+  {
+    "w": "national park",
+    "m": "vườn quốc gia",
+    "cat": "environment"
+  },
+  {
+    "w": "marine protected area",
+    "m": "khu bảo vệ biển",
+    "cat": "environment"
+  },
+  {
+    "w": "no-take zone",
+    "m": "vùng cấm khai thác",
+    "cat": "environment"
+  },
+  {
+    "w": "sustainable fisheries",
+    "m": "nghề cá bền vững",
+    "cat": "environment"
+  },
+  {
+    "w": "overfishing",
+    "m": "đánh bắt quá mức",
+    "cat": "environment"
+  },
+  {
+    "w": "bycatch",
+    "m": "đánh bắt phụ không chủ ý",
+    "cat": "environment"
+  },
+  {
+    "w": "aquaculture",
+    "m": "nuôi trồng thủy sản",
+    "cat": "environment"
+  },
+  {
+    "w": "ocean governance",
+    "m": "quản trị đại dương",
+    "cat": "environment"
+  },
+  {
+    "w": "deep sea mining",
+    "m": "khai thác đáy biển",
+    "cat": "environment"
+  },
+  {
+    "w": "seabed",
+    "m": "đáy biển",
+    "cat": "environment"
+  },
+  {
+    "w": "ocean current",
+    "m": "dòng hải lưu",
+    "cat": "environment"
+  },
+  {
+    "w": "thermohaline circulation",
+    "m": "tuần hoàn nhiệt muối",
+    "cat": "environment"
+  },
+  {
+    "w": "El Nino",
+    "m": "El Nino",
+    "cat": "environment"
+  },
+  {
+    "w": "La Nina",
+    "m": "La Nina",
+    "cat": "environment"
+  },
+  {
+    "w": "monsoon",
+    "m": "gió mùa",
+    "cat": "environment"
+  },
+  {
+    "w": "aerosol",
+    "m": "khí dung",
+    "cat": "environment"
+  },
+  {
+    "w": "albedo",
+    "m": "suất phản chiếu",
+    "cat": "environment"
+  },
+  {
+    "w": "climate feedback",
+    "m": "phản hồi khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "positive feedback loop",
+    "m": "vòng phản hồi dương",
+    "cat": "environment"
+  },
+  {
+    "w": "negative feedback loop",
+    "m": "vòng phản hồi âm",
+    "cat": "environment"
+  },
+  {
+    "w": "tipping element",
+    "m": "yếu tố gây đổ vỡ",
+    "cat": "environment"
+  },
+  {
+    "w": "climate sensitivity",
+    "m": "độ nhạy khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "radiative forcing",
+    "m": "lực cưỡng bức bức xạ",
+    "cat": "environment"
+  },
+  {
+    "w": "global mean temperature",
+    "m": "nhiệt độ trung bình toàn cầu",
+    "cat": "environment"
+  },
+  {
+    "w": "paleoclimatology",
+    "m": "cổ khí hậu học",
+    "cat": "environment"
+  },
+  {
+    "w": "ice core",
+    "m": "lõi băng",
+    "cat": "environment"
+  },
+  {
+    "w": "tree ring",
+    "m": "vòng thân cây",
+    "cat": "environment"
+  },
+  {
+    "w": "proxy data",
+    "m": "dữ liệu đại diện",
+    "cat": "environment"
+  },
+  {
+    "w": "climate model",
+    "m": "mô hình khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "general circulation model",
+    "m": "mô hình lưu thông tổng quát",
+    "cat": "environment"
+  },
+  {
+    "w": "climate projection",
+    "m": "dự báo khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "scenario analysis",
+    "m": "phân tích kịch bản",
+    "cat": "environment"
+  },
+  {
+    "w": "RCP",
+    "m": "đường đi đại diện nồng độ",
+    "cat": "environment"
+  },
+  {
+    "w": "SSP",
+    "m": "đường đi phát triển chung",
+    "cat": "environment"
+  },
+  {
+    "w": "mitigation",
+    "m": "giảm nhẹ biến đổi khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "adaptation",
+    "m": "thích ứng với biến đổi khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "loss and damage",
+    "m": "mất mát và thiệt hại",
+    "cat": "environment"
+  },
+  {
+    "w": "climate justice",
+    "m": "công bằng khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "climate equity",
+    "m": "bình đẳng khí hậu",
+    "cat": "environment"
+  },
+  {
+    "w": "intergenerational equity",
+    "m": "công bằng liên thế hệ",
+    "cat": "environment"
+  },
+  {
+    "w": "environmental justice",
+    "m": "công bằng môi trường",
+    "cat": "environment"
+  },
+  {
+    "w": "precautionary principle",
+    "m": "nguyên tắc thận trọng",
+    "cat": "environment"
+  },
+  {
+    "w": "polluter pays principle",
+    "m": "nguyên tắc người gây ô nhiễm phải trả",
+    "cat": "environment"
+  },
+  {
+    "w": "common but differentiated responsibilities",
+    "m": "trách nhiệm chung nhưng khác nhau",
+    "cat": "environment"
+  },
+  {
+    "w": "Paris Agreement",
+    "m": "Thỏa thuận Paris",
+    "cat": "environment"
+  },
+  {
+    "w": "Nationally Determined Contribution",
+    "m": "đóng góp quốc gia tự quyết định",
+    "cat": "environment"
+  },
+  {
+    "w": "carbon budget",
+    "m": "ngân sách carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "stranded assets",
+    "m": "tài sản bị mắc kẹt",
+    "cat": "environment"
+  },
+  {
+    "w": "just transition",
+    "m": "chuyển đổi công bằng",
+    "cat": "environment"
+  },
+  {
+    "w": "green new deal",
+    "m": "thỏa thuận xanh mới",
+    "cat": "environment"
+  },
+  {
+    "w": "decarbonization",
+    "m": "giảm carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "electrification",
+    "m": "điện khí hóa",
+    "cat": "environment"
+  },
+  {
+    "w": "hydrogen economy",
+    "m": "kinh tế hydrogen",
+    "cat": "environment"
+  },
+  {
+    "w": "green hydrogen",
+    "m": "hydrogen xanh",
+    "cat": "environment"
+  },
+  {
+    "w": "blue hydrogen",
+    "m": "hydrogen xanh lam",
+    "cat": "environment"
+  },
+  {
+    "w": "carbon capture and storage",
+    "m": "thu giữ và lưu trữ carbon",
+    "cat": "environment"
+  },
+  {
+    "w": "bioenergy",
+    "m": "năng lượng sinh học",
+    "cat": "environment"
+  },
+  {
+    "w": "biomass",
+    "m": "sinh khối",
+    "cat": "environment"
+  },
+  {
+    "w": "biofuel",
+    "m": "nhiên liệu sinh học",
+    "cat": "environment"
+  },
+  {
+    "w": "geothermal energy",
+    "m": "địa nhiệt",
+    "cat": "environment"
+  },
+  {
+    "w": "tidal energy",
+    "m": "năng lượng thủy triều",
+    "cat": "environment"
+  },
+  {
+    "w": "wave energy",
+    "m": "năng lượng sóng biển",
+    "cat": "environment"
+  },
+  {
+    "w": "hydropower",
+    "m": "thủy điện",
+    "cat": "environment"
+  },
+  {
+    "w": "nuclear energy",
+    "m": "năng lượng hạt nhân",
+    "cat": "environment"
+  },
+  {
+    "w": "nuclear fusion",
+    "m": "nhiệt hạch hạt nhân",
+    "cat": "environment"
+  },
+  {
+    "w": "energy storage",
+    "m": "lưu trữ năng lượng",
+    "cat": "environment"
+  },
+  {
+    "w": "battery technology",
+    "m": "công nghệ pin",
+    "cat": "environment"
+  },
+  {
+    "w": "smart grid",
+    "m": "lưới điện thông minh",
+    "cat": "environment"
+  },
+  {
+    "w": "demand response",
+    "m": "phản hồi nhu cầu điện",
+    "cat": "environment"
+  },
+  {
+    "w": "microgrid",
+    "m": "lưới điện nhỏ",
+    "cat": "environment"
+  },
+  {
+    "w": "virtual power plant",
+    "m": "nhà máy điện ảo",
+    "cat": "environment"
+  },
+  {
+    "w": "energy poverty",
+    "m": "nghèo năng lượng",
+    "cat": "environment"
+  },
+  {
+    "w": "energy access",
+    "m": "tiếp cận năng lượng",
+    "cat": "environment"
+  },
+  {
+    "w": "universal energy access",
+    "m": "tiếp cận năng lượng toàn dân",
+    "cat": "environment"
+  },
+  {
+    "w": "Sustainable Development Goals",
+    "m": "Mục tiêu Phát triển Bền vững",
+    "cat": "society"
+  },
+  {
+    "w": "Human Development Index",
+    "m": "Chỉ số Phát triển Con người",
+    "cat": "society"
+  },
+  {
+    "w": "multidimensional poverty",
+    "m": "nghèo đa chiều",
+    "cat": "society"
+  },
+  {
+    "w": "capability deprivation",
+    "m": "thiếu hụt năng lực",
+    "cat": "society"
+  },
+  {
+    "w": "social exclusion",
+    "m": "loại trừ xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "marginalization",
+    "m": "gạt ra bên lề",
+    "cat": "society"
+  },
+  {
+    "w": "discrimination",
+    "m": "phân biệt đối xử",
+    "cat": "society"
+  },
+  {
+    "w": "structural racism",
+    "m": "phân biệt chủng tộc hệ thống",
+    "cat": "society"
+  },
+  {
+    "w": "systemic inequality",
+    "m": "bất bình đẳng hệ thống",
+    "cat": "society"
+  },
+  {
+    "w": "intersectionality",
+    "m": "giao thoa giữa các bản sắc",
+    "cat": "society"
+  },
+  {
+    "w": "privilege",
+    "m": "đặc quyền",
+    "cat": "society"
+  },
+  {
+    "w": "microaggression",
+    "m": "xâm lấn nhỏ",
+    "cat": "society"
+  },
+  {
+    "w": "dog whistle",
+    "m": "tín hiệu ngầm phân biệt",
+    "cat": "society"
+  },
+  {
+    "w": "gaslighting",
+    "m": "thao túng tâm lý",
+    "cat": "society"
+  },
+  {
+    "w": "cancel culture",
+    "m": "văn hóa tẩy chay",
+    "cat": "society"
+  },
+  {
+    "w": "virtue signaling",
+    "m": "phô diễn đạo đức",
+    "cat": "society"
+  },
+  {
+    "w": "echo chamber",
+    "m": "phòng vang, buồng vang",
+    "cat": "society"
+  },
+  {
+    "w": "filter bubble",
+    "m": "bong bóng lọc thông tin",
+    "cat": "society"
+  },
+  {
+    "w": "disinformation",
+    "m": "thông tin sai lệch có chủ ý",
+    "cat": "society"
+  },
+  {
+    "w": "misinformation",
+    "m": "thông tin sai lệch",
+    "cat": "society"
+  },
+  {
+    "w": "conspiracy theory",
+    "m": "thuyết âm mưu",
+    "cat": "society"
+  },
+  {
+    "w": "fake news",
+    "m": "tin tức giả",
+    "cat": "society"
+  },
+  {
+    "w": "deepfake",
+    "m": "video giả mạo bằng AI",
+    "cat": "society"
+  },
+  {
+    "w": "surveillance capitalism",
+    "m": "chủ nghĩa tư bản giám sát",
+    "cat": "society"
+  },
+  {
+    "w": "data privacy",
+    "m": "quyền riêng tư dữ liệu",
+    "cat": "society"
+  },
+  {
+    "w": "digital rights",
+    "m": "quyền kỹ thuật số",
+    "cat": "society"
+  },
+  {
+    "w": "algorithmic bias",
+    "m": "thiên kiến thuật toán",
+    "cat": "society"
+  },
+  {
+    "w": "predictive policing",
+    "m": "cảnh sát dự đoán",
+    "cat": "society"
+  },
+  {
+    "w": "social credit system",
+    "m": "hệ thống tín dụng xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "surveillance state",
+    "m": "nhà nước giám sát",
+    "cat": "society"
+  },
+  {
+    "w": "civil disobedience",
+    "m": "bất tuân dân sự",
+    "cat": "society"
+  },
+  {
+    "w": "protest movement",
+    "m": "phong trào biểu tình",
+    "cat": "society"
+  },
+  {
+    "w": "social movement",
+    "m": "phong trào xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "grassroots",
+    "m": "từ cơ sở, phong trào bình dân",
+    "cat": "society"
+  },
+  {
+    "w": "coalition building",
+    "m": "xây dựng liên minh",
+    "cat": "society"
+  },
+  {
+    "w": "community organizing",
+    "m": "tổ chức cộng đồng",
+    "cat": "society"
+  },
+  {
+    "w": "voter suppression",
+    "m": "đàn áp cử tri",
+    "cat": "society"
+  },
+  {
+    "w": "gerrymandering",
+    "m": "vẽ lại địa bầu cử có lợi",
+    "cat": "society"
+  },
+  {
+    "w": "populism",
+    "m": "chủ nghĩa dân túy",
+    "cat": "society"
+  },
+  {
+    "w": "technocracy",
+    "m": "chính trị kỹ trị",
+    "cat": "society"
+  },
+  {
+    "w": "plutocracy",
+    "m": "chính trị giàu",
+    "cat": "society"
+  },
+  {
+    "w": "kleptocracy",
+    "m": "chính trị ăn cướp",
+    "cat": "society"
+  },
+  {
+    "w": "kakistocracy",
+    "m": "chính trị tệ nhất",
+    "cat": "society"
+  },
+  {
+    "w": "epistocracy",
+    "m": "chính trị của người biết",
+    "cat": "society"
+  },
+  {
+    "w": "deliberative democracy",
+    "m": "dân chủ thảo luận",
+    "cat": "society"
+  },
+  {
+    "w": "participatory democracy",
+    "m": "dân chủ tham gia",
+    "cat": "society"
+  },
+  {
+    "w": "direct democracy",
+    "m": "dân chủ trực tiếp",
+    "cat": "society"
+  },
+  {
+    "w": "representative democracy",
+    "m": "dân chủ đại diện",
+    "cat": "society"
+  },
+  {
+    "w": "liberal democracy",
+    "m": "dân chủ tự do",
+    "cat": "society"
+  },
+  {
+    "w": "illiberal democracy",
+    "m": "dân chủ phi tự do",
+    "cat": "society"
+  },
+  {
+    "w": "democratic backsliding",
+    "m": "sụt giảm dân chủ",
+    "cat": "society"
+  },
+  {
+    "w": "authoritarianism",
+    "m": "chủ nghĩa độc tài",
+    "cat": "society"
+  },
+  {
+    "w": "soft authoritarianism",
+    "m": "độc tài mềm",
+    "cat": "society"
+  },
+  {
+    "w": "hybrid regime",
+    "m": "chế độ lai ghép",
+    "cat": "society"
+  },
+  {
+    "w": "competitive authoritarianism",
+    "m": "độc tài cạnh tranh",
+    "cat": "society"
+  },
+  {
+    "w": "electoral autocracy",
+    "m": "độc tài bầu cử",
+    "cat": "society"
+  },
+  {
+    "w": "state capture",
+    "m": "nhà nước bị chi phối",
+    "cat": "society"
+  },
+  {
+    "w": "rent-seeking",
+    "m": "tìm kiếm đặc lợi",
+    "cat": "society"
+  },
+  {
+    "w": "patronage",
+    "m": "bảo trợ chính trị",
+    "cat": "society"
+  },
+  {
+    "w": "clientelism",
+    "m": "chính trị mua bán ủng hộ",
+    "cat": "society"
+  },
+  {
+    "w": "cronyism",
+    "m": "thiên vị bạn bè",
+    "cat": "society"
+  },
+  {
+    "w": "nepotism",
+    "m": "thiên vị người thân",
+    "cat": "society"
+  },
+  {
+    "w": "conflict of interest",
+    "m": "xung đột lợi ích",
+    "cat": "society"
+  },
+  {
+    "w": "revolving door",
+    "m": "cửa quay, chuyển từ công sang tư",
+    "cat": "society"
+  },
+  {
+    "w": "regulatory capture",
+    "m": "cơ quan quản lý bị chi phối",
+    "cat": "society"
+  },
+  {
+    "w": "public interest",
+    "m": "lợi ích công cộng",
+    "cat": "society"
+  },
+  {
+    "w": "common good",
+    "m": "lợi ích chung",
+    "cat": "society"
+  },
+  {
+    "w": "civic engagement",
+    "m": "gắn kết công dân",
+    "cat": "society"
+  },
+  {
+    "w": "civic duty",
+    "m": "nghĩa vụ công dân",
+    "cat": "society"
+  },
+  {
+    "w": "social contract",
+    "m": "khế ước xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "rule of law",
+    "m": "pháp quyền",
+    "cat": "society"
+  },
+  {
+    "w": "due process",
+    "m": "quy trình pháp lý",
+    "cat": "society"
+  },
+  {
+    "w": "judicial review",
+    "m": "xem xét tư pháp",
+    "cat": "society"
+  },
+  {
+    "w": "habeas corpus",
+    "m": "lệnh đưa người ra tòa",
+    "cat": "society"
+  },
+  {
+    "w": "presumption of innocence",
+    "m": "suy đoán vô tội",
+    "cat": "society"
+  },
+  {
+    "w": "burden of proof",
+    "m": "gánh nặng chứng minh",
+    "cat": "society"
+  },
+  {
+    "w": "adversarial system",
+    "m": "hệ thống tranh tụng",
+    "cat": "society"
+  },
+  {
+    "w": "inquisitorial system",
+    "m": "hệ thống thẩm vấn",
+    "cat": "society"
+  },
+  {
+    "w": "plea bargain",
+    "m": "thỏa thuận nhận tội",
+    "cat": "society"
+  },
+  {
+    "w": "prosecutorial discretion",
+    "m": "quyền tự quyết của công tố",
+    "cat": "society"
+  },
+  {
+    "w": "mandatory minimum",
+    "m": "hình phạt tối thiểu bắt buộc",
+    "cat": "society"
+  },
+  {
+    "w": "restorative justice",
+    "m": "tư pháp phục hồi",
+    "cat": "society"
+  },
+  {
+    "w": "retributive justice",
+    "m": "tư pháp trừng phạt",
+    "cat": "society"
+  },
+  {
+    "w": "distributive justice",
+    "m": "công bằng phân phối",
+    "cat": "society"
+  },
+  {
+    "w": "procedural justice",
+    "m": "công bằng quy trình",
+    "cat": "society"
+  },
+  {
+    "w": "substantive justice",
+    "m": "công bằng thực chất",
+    "cat": "society"
+  },
+  {
+    "w": "corrective justice",
+    "m": "công bằng sửa chữa",
+    "cat": "society"
+  },
+  {
+    "w": "reparations",
+    "m": "bồi thường",
+    "cat": "society"
+  },
+  {
+    "w": "affirmative action",
+    "m": "hành động khẳng định",
+    "cat": "society"
+  },
+  {
+    "w": "positive discrimination",
+    "m": "phân biệt tích cực",
+    "cat": "society"
+  },
+  {
+    "w": "reverse discrimination",
+    "m": "phân biệt ngược",
+    "cat": "society"
+  },
+  {
+    "w": "equal opportunity",
+    "m": "bình đẳng cơ hội",
+    "cat": "society"
+  },
+  {
+    "w": "equity versus equality",
+    "m": "công bằng đối với bình đẳng",
+    "cat": "society"
+  },
+  {
+    "w": "meritocracy",
+    "m": "xã hội trọng tài năng",
+    "cat": "society"
+  },
+  {
+    "w": "glass ceiling",
+    "m": "trần kính (giới hạn vô hình)",
+    "cat": "society"
+  },
+  {
+    "w": "gender pay gap",
+    "m": "khoảng cách lương giới tính",
+    "cat": "society"
+  },
+  {
+    "w": "unconscious bias",
+    "m": "thiên kiến vô thức",
+    "cat": "society"
+  },
+  {
+    "w": "stereotype threat",
+    "m": "mối đe dọa rập khuôn",
+    "cat": "society"
+  },
+  {
+    "w": "identity politics",
+    "m": "chính trị bản sắc",
+    "cat": "society"
+  },
+  {
+    "w": "recognition politics",
+    "m": "chính trị công nhận",
+    "cat": "society"
+  },
+  {
+    "w": "redistribution politics",
+    "m": "chính trị phân phối lại",
+    "cat": "society"
+  },
+  {
+    "w": "social stratification",
+    "m": "tầng lớp xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "class consciousness",
+    "m": "ý thức giai cấp",
+    "cat": "society"
+  },
+  {
+    "w": "bourgeoisie",
+    "m": "tầng lớp tư sản",
+    "cat": "society"
+  },
+  {
+    "w": "proletariat",
+    "m": "giai cấp vô sản",
+    "cat": "society"
+  },
+  {
+    "w": "precariat",
+    "m": "tầng lớp bấp bênh",
+    "cat": "society"
+  },
+  {
+    "w": "underclass",
+    "m": "tầng lớp dưới đáy",
+    "cat": "society"
+  },
+  {
+    "w": "working poor",
+    "m": "người nghèo có việc làm",
+    "cat": "society"
+  },
+  {
+    "w": "middle class squeeze",
+    "m": "tầng lớp trung lưu bị co hẹp",
+    "cat": "society"
+  },
+  {
+    "w": "upward mobility",
+    "m": "di động xã hội lên",
+    "cat": "society"
+  },
+  {
+    "w": "downward mobility",
+    "m": "di động xã hội xuống",
+    "cat": "society"
+  },
+  {
+    "w": "social safety net",
+    "m": "lưới an toàn xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "universal basic income",
+    "m": "thu nhập cơ bản phổ quát",
+    "cat": "society"
+  },
+  {
+    "w": "negative income tax",
+    "m": "thuế thu nhập âm",
+    "cat": "society"
+  },
+  {
+    "w": "welfare state",
+    "m": "nhà nước phúc lợi",
+    "cat": "society"
+  },
+  {
+    "w": "austerity politics",
+    "m": "chính trị thắt chặt chi tiêu",
+    "cat": "society"
+  },
+  {
+    "w": "privatization of welfare",
+    "m": "tư nhân hóa phúc lợi",
+    "cat": "society"
+  },
+  {
+    "w": "commodification",
+    "m": "hàng hóa hóa",
+    "cat": "society"
+  },
+  {
+    "w": "decommodification",
+    "m": "phi hàng hóa hóa",
+    "cat": "society"
+  },
+  {
+    "w": "marketization",
+    "m": "thị trường hóa",
+    "cat": "society"
+  },
+  {
+    "w": "de-marketization",
+    "m": "phi thị trường hóa",
+    "cat": "society"
+  },
+  {
+    "w": "commons",
+    "m": "tài sản chung",
+    "cat": "society"
+  },
+  {
+    "w": "enclosure",
+    "m": "rào đất, tư hữu hóa đất chung",
+    "cat": "society"
+  },
+  {
+    "w": "dispossession",
+    "m": "tước quyền sở hữu",
+    "cat": "society"
+  },
+  {
+    "w": "accumulation by dispossession",
+    "m": "tích lũy bằng tước đoạt",
+    "cat": "society"
+  },
+  {
+    "w": "primitive accumulation",
+    "m": "tích lũy nguyên thủy",
+    "cat": "society"
+  },
+  {
+    "w": "neoliberalization",
+    "m": "tân tự do hóa",
+    "cat": "society"
+  },
+  {
+    "w": "financialization",
+    "m": "tài chính hóa",
+    "cat": "society"
+  },
+  {
+    "w": "commodification of nature",
+    "m": "hàng hóa hóa thiên nhiên",
+    "cat": "society"
+  },
+  {
+    "w": "land grabbing",
+    "m": "cướp đất",
+    "cat": "society"
+  },
+  {
+    "w": "gentrification",
+    "m": "quý tộc hóa đô thị",
+    "cat": "society"
+  },
+  {
+    "w": "displacement",
+    "m": "di dời, thay thế dân cư",
+    "cat": "society"
+  },
+  {
+    "w": "urban regeneration",
+    "m": "tái tạo đô thị",
+    "cat": "society"
+  },
+  {
+    "w": "housing affordability",
+    "m": "khả năng chi trả nhà ở",
+    "cat": "society"
+  },
+  {
+    "w": "rent control",
+    "m": "kiểm soát tiền thuê",
+    "cat": "society"
+  },
+  {
+    "w": "inclusionary zoning",
+    "m": "quy hoạch bao gồm",
+    "cat": "society"
+  },
+  {
+    "w": "social housing",
+    "m": "nhà ở xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "homelessness",
+    "m": "vô gia cư",
+    "cat": "society"
+  },
+  {
+    "w": "food insecurity",
+    "m": "mất an ninh lương thực",
+    "cat": "society"
+  },
+  {
+    "w": "food desert",
+    "m": "sa mạc thực phẩm",
+    "cat": "society"
+  },
+  {
+    "w": "food sovereignty",
+    "m": "chủ quyền thực phẩm",
+    "cat": "society"
+  },
+  {
+    "w": "food justice",
+    "m": "công bằng thực phẩm",
+    "cat": "society"
+  },
+  {
+    "w": "agroecology",
+    "m": "sinh thái nông nghiệp",
+    "cat": "society"
+  },
+  {
+    "w": "food system",
+    "m": "hệ thống thực phẩm",
+    "cat": "society"
+  },
+  {
+    "w": "supply chain resilience",
+    "m": "khả năng phục hồi chuỗi cung ứng",
+    "cat": "society"
+  },
+  {
+    "w": "pandemic preparedness",
+    "m": "chuẩn bị đại dịch",
+    "cat": "society"
+  },
+  {
+    "w": "health equity",
+    "m": "công bằng y tế",
+    "cat": "society"
+  },
+  {
+    "w": "social determinants of health",
+    "m": "yếu tố xã hội quyết định sức khỏe",
+    "cat": "society"
+  },
+  {
+    "w": "universal health coverage",
+    "m": "bao phủ y tế toàn dân",
+    "cat": "society"
+  },
+  {
+    "w": "single-payer system",
+    "m": "hệ thống chi trả đơn",
+    "cat": "society"
+  },
+  {
+    "w": "managed care",
+    "m": "chăm sóc có quản lý",
+    "cat": "society"
+  },
+  {
+    "w": "fee-for-service",
+    "m": "thanh toán theo dịch vụ",
+    "cat": "society"
+  },
+  {
+    "w": "diagnostic-related group",
+    "m": "nhóm chẩn đoán liên quan",
+    "cat": "society"
+  },
+  {
+    "w": "cost-effectiveness",
+    "m": "hiệu quả chi phí",
+    "cat": "society"
+  },
+  {
+    "w": "QALY",
+    "m": "năm sống chất lượng điều chỉnh",
+    "cat": "society"
+  },
+  {
+    "w": "disability-adjusted life year",
+    "m": "năm sống điều chỉnh tàn tật",
+    "cat": "society"
+  },
+  {
+    "w": "burden of disease",
+    "m": "gánh nặng bệnh tật",
+    "cat": "society"
+  },
+  {
+    "w": "epidemiological transition",
+    "m": "chuyển đổi dịch tễ học",
+    "cat": "society"
+  },
+  {
+    "w": "demographic transition",
+    "m": "chuyển đổi nhân khẩu học",
+    "cat": "society"
+  },
+  {
+    "w": "aging population",
+    "m": "dân số già hóa",
+    "cat": "society"
+  },
+  {
+    "w": "dependency ratio",
+    "m": "tỷ lệ phụ thuộc",
+    "cat": "society"
+  },
+  {
+    "w": "birth rate",
+    "m": "tỷ lệ sinh",
+    "cat": "society"
+  },
+  {
+    "w": "death rate",
+    "m": "tỷ lệ tử",
+    "cat": "society"
+  },
+  {
+    "w": "fertility rate",
+    "m": "tỷ lệ sinh sản",
+    "cat": "society"
+  },
+  {
+    "w": "replacement rate",
+    "m": "tỷ lệ thay thế",
+    "cat": "society"
+  },
+  {
+    "w": "population growth",
+    "m": "tăng trưởng dân số",
+    "cat": "society"
+  },
+  {
+    "w": "overpopulation",
+    "m": "dân số quá đông",
+    "cat": "society"
+  },
+  {
+    "w": "urbanization",
+    "m": "đô thị hóa",
+    "cat": "society"
+  },
+  {
+    "w": "rural depopulation",
+    "m": "giảm dân số nông thôn",
+    "cat": "society"
+  },
+  {
+    "w": "brain drain",
+    "m": "chảy máu chất xám",
+    "cat": "society"
+  },
+  {
+    "w": "brain gain",
+    "m": "thu hút nhân tài",
+    "cat": "society"
+  },
+  {
+    "w": "remittance economy",
+    "m": "kinh tế kiều hối",
+    "cat": "society"
+  },
+  {
+    "w": "diaspora engagement",
+    "m": "gắn kết kiều bào",
+    "cat": "society"
+  },
+  {
+    "w": "integration policy",
+    "m": "chính sách hội nhập",
+    "cat": "society"
+  },
+  {
+    "w": "assimilation policy",
+    "m": "chính sách đồng hóa",
+    "cat": "society"
+  },
+  {
+    "w": "multicultural policy",
+    "m": "chính sách đa văn hóa",
+    "cat": "society"
+  },
+  {
+    "w": "cohesion policy",
+    "m": "chính sách gắn kết",
+    "cat": "society"
+  },
+  {
+    "w": "social cohesion",
+    "m": "gắn kết xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "trust",
+    "m": "niềm tin",
+    "cat": "society"
+  },
+  {
+    "w": "social trust",
+    "m": "tin tưởng xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "generalized trust",
+    "m": "tin tưởng phổ quát",
+    "cat": "society"
+  },
+  {
+    "w": "institutional trust",
+    "m": "tin tưởng thể chế",
+    "cat": "society"
+  },
+  {
+    "w": "political trust",
+    "m": "tin tưởng chính trị",
+    "cat": "society"
+  },
+  {
+    "w": "legitimacy",
+    "m": "tính hợp pháp",
+    "cat": "society"
+  },
+  {
+    "w": "compliance",
+    "m": "tuân thủ",
+    "cat": "society"
+  },
+  {
+    "w": "non-compliance",
+    "m": "không tuân thủ",
+    "cat": "society"
+  },
+  {
+    "w": "resistance",
+    "m": "kháng cự",
+    "cat": "society"
+  },
+  {
+    "w": "acquiescence",
+    "m": "thuận theo, chấp nhận",
+    "cat": "society"
+  },
+  {
+    "w": "nuanced",
+    "m": "tinh tế, nhiều sắc thái",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "multifaceted",
+    "m": "đa chiều, nhiều mặt",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "unprecedented",
+    "m": "chưa từng có tiền lệ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "pervasive",
+    "m": "lan tràn khắp nơi",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "resilient",
+    "m": "phục hồi, kiên cường",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "leverage",
+    "m": "đòn bẩy",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "disruptive",
+    "m": "phá vỡ trật tự cũ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "sustainable",
+    "m": "bền vững",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "innovative",
+    "m": "đổi mới, sáng tạo",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "proactive",
+    "m": "chủ động, chủ thủ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "holistic",
+    "m": "toàn diện",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "pragmatic",
+    "m": "thực dụng, thiết thực",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "empathetic",
+    "m": "thấu cảm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "collaborative",
+    "m": "hợp tác",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "transparent",
+    "m": "minh bạch",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "accountable",
+    "m": "có trách nhiệm giải trình",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "inclusive",
+    "m": "bao gồm, hòa nhập",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "equitable",
+    "m": "công bằng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "accessible",
+    "m": "dễ tiếp cận",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "scalable",
+    "m": "có thể mở rộng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "adaptable",
+    "m": "có thể thích nghi",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "forward-thinking",
+    "m": "tầm nhìn xa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "evidence-based",
+    "m": "dựa trên bằng chứng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "outcome-focused",
+    "m": "tập trung vào kết quả",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "data-driven",
+    "m": "dựa trên dữ liệu",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "solution-oriented",
+    "m": "hướng tới giải pháp",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "impact-driven",
+    "m": "tác động là ưu tiên",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "needs-based",
+    "m": "dựa trên nhu cầu",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "rights-based",
+    "m": "dựa trên quyền",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "community-led",
+    "m": "do cộng đồng dẫn dắt",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "participatory",
+    "m": "có sự tham gia",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "bottom-up",
+    "m": "từ dưới lên",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "top-down",
+    "m": "từ trên xuống",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "cross-sectoral",
+    "m": "liên ngành",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "multi-stakeholder",
+    "m": "đa bên liên quan",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "interdisciplinary",
+    "m": "liên ngành",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "transdisciplinary",
+    "m": "xuyên ngành",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "co-design",
+    "m": "đồng thiết kế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "co-produce",
+    "m": "đồng sản xuất",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "co-create",
+    "m": "đồng sáng tạo",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "co-implement",
+    "m": "đồng triển khai",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "co-evaluate",
+    "m": "đồng đánh giá",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "knowledge co-creation",
+    "m": "đồng tạo kiến thức",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "shared ownership",
+    "m": "sở hữu chung",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "joint accountability",
+    "m": "trách nhiệm chung",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "mutual accountability",
+    "m": "trách nhiệm lẫn nhau",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "downward accountability",
+    "m": "trách nhiệm với người thụ hưởng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "upward accountability",
+    "m": "trách nhiệm với cấp trên",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "horizontal accountability",
+    "m": "trách nhiệm ngang hàng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "social accountability",
+    "m": "trách nhiệm với xã hội",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "public accountability",
+    "m": "trách nhiệm với công chúng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "democratic accountability",
+    "m": "trách nhiệm dân chủ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "fiduciary duty",
+    "m": "nghĩa vụ ủy thác",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "duty of care",
+    "m": "nghĩa vụ chăm sóc",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "conflict of interest",
+    "m": "xung đột lợi ích",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "vested interest",
+    "m": "lợi ích cá nhân",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "common interest",
+    "m": "lợi ích chung",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "national interest",
+    "m": "lợi ích quốc gia",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "self-interest",
+    "m": "lợi ích cá nhân",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "special interest",
+    "m": "lợi ích đặc biệt",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "public interest",
+    "m": "lợi ích công cộng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "stakeholder interest",
+    "m": "lợi ích bên liên quan",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "competing interests",
+    "m": "các lợi ích cạnh tranh nhau",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "alignment of interests",
+    "m": "thống nhất lợi ích",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "divergence of interests",
+    "m": "phân kỳ lợi ích",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "convergence of interests",
+    "m": "hội tụ lợi ích",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "interest articulation",
+    "m": "diễn đạt lợi ích",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "interest aggregation",
+    "m": "tổng hợp lợi ích",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "interest intermediation",
+    "m": "trung gian lợi ích",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "interest representation",
+    "m": "đại diện lợi ích",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "interest group",
+    "m": "nhóm lợi ích",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "pressure group",
+    "m": "nhóm áp lực",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "advocacy group",
+    "m": "nhóm vận động",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "think tank",
+    "m": "cơ quan nghiên cứu chính sách",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "policy community",
+    "m": "cộng đồng chính sách",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "policy network",
+    "m": "mạng lưới chính sách",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "epistemic community",
+    "m": "cộng đồng nhận thức",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "advocacy coalition",
+    "m": "liên minh vận động",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "issue network",
+    "m": "mạng lưới vấn đề",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "iron triangle",
+    "m": "tam giác sắt",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "revolving door",
+    "m": "cửa quay qua lại",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "agenda setting",
+    "m": "thiết lập chương trình nghị sự",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "gatekeeping",
+    "m": "kiểm soát thông tin",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "framing",
+    "m": "đóng khung vấn đề",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "priming",
+    "m": "kích hoạt ưu tiên",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "media bias",
+    "m": "thiên kiến truyền thông",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "media framing",
+    "m": "đóng khung của truyền thông",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "media literacy",
+    "m": "hiểu biết truyền thông",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "digital literacy",
+    "m": "hiểu biết kỹ thuật số",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "information literacy",
+    "m": "hiểu biết thông tin",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "health literacy",
+    "m": "hiểu biết y tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "financial literacy",
+    "m": "hiểu biết tài chính",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "civic literacy",
+    "m": "hiểu biết công dân",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "legal literacy",
+    "m": "hiểu biết pháp luật",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "scientific literacy",
+    "m": "hiểu biết khoa học",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "environmental literacy",
+    "m": "hiểu biết môi trường",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "statistical literacy",
+    "m": "hiểu biết thống kê",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "cultural literacy",
+    "m": "hiểu biết văn hóa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "emotional literacy",
+    "m": "hiểu biết cảm xúc",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "social literacy",
+    "m": "kỹ năng xã hội",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "technological literacy",
+    "m": "hiểu biết công nghệ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "critical literacy",
+    "m": "đọc phê phán",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "visual literacy",
+    "m": "hiểu biết hình ảnh",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "data literacy",
+    "m": "hiểu biết dữ liệu",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "AI literacy",
+    "m": "hiểu biết về AI",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "resilience",
+    "m": "khả năng phục hồi",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "vulnerability",
+    "m": "dễ bị tổn thương",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "fragility",
+    "m": "dễ vỡ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "robustness",
+    "m": "vững chắc",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "anti-fragility",
+    "m": "chống mong manh",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "redundancy",
+    "m": "dự phòng, dư thừa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "diversity",
+    "m": "đa dạng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "modularity",
+    "m": "tính mô-đun",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "decentralization",
+    "m": "phân quyền",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "centralization",
+    "m": "tập quyền",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "subsidiarity",
+    "m": "nguyên tắc bổ trợ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "federalism",
+    "m": "chủ nghĩa liên bang",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "devolution",
+    "m": "phân cấp quyền hạn",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "autonomy",
+    "m": "tự chủ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "sovereignty",
+    "m": "chủ quyền",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "independence",
+    "m": "độc lập",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "interdependence",
+    "m": "phụ thuộc lẫn nhau",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "integration",
+    "m": "hội nhập",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "fragmentation",
+    "m": "phân mảnh",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "polarization",
+    "m": "phân cực",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "tribalism",
+    "m": "chủ nghĩa bộ lạc",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "in-group",
+    "m": "nội nhóm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "out-group",
+    "m": "ngoại nhóm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "groupthink",
+    "m": "tư duy nhóm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "conformity",
+    "m": "sự tuân theo",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "nonconformity",
+    "m": "sự không tuân theo",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "deviance",
+    "m": "sai lệch chuẩn mực",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "stigma",
+    "m": "kỳ thị",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "labeling theory",
+    "m": "lý thuyết dán nhãn",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "moral panic",
+    "m": "hoảng loạn đạo đức",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "folk devil",
+    "m": "ác quỷ dân gian",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "scapegoating",
+    "m": "đổ lỗi cho kẻ yếu",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "othering",
+    "m": "xa lạ hóa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "dehumanization",
+    "m": "phi nhân hóa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "demonization",
+    "m": "quỷ hóa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "radicalization",
+    "m": "cực đoan hóa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "extremism",
+    "m": "chủ nghĩa cực đoan",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "terrorism",
+    "m": "khủng bố",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "counter-terrorism",
+    "m": "chống khủng bố",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "de-radicalization",
+    "m": "giải cực đoan",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "prevention",
+    "m": "phòng ngừa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "intervention",
+    "m": "can thiệp",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "rehabilitation",
+    "m": "phục hồi",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "reintegration",
+    "m": "tái hòa nhập",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "recidivism",
+    "m": "tái phạm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "recidivism rate",
+    "m": "tỷ lệ tái phạm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "deterrence",
+    "m": "răn đe",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "incapacitation",
+    "m": "vô hiệu hóa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "rehabilitation",
+    "m": "phục hồi chức năng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "restorative justice",
+    "m": "tư pháp phục hồi",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "transformative justice",
+    "m": "tư pháp biến đổi",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "abolitionist justice",
+    "m": "tư pháp xóa bỏ nhà tù",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "carceral state",
+    "m": "nhà nước trừng phạt",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "mass incarceration",
+    "m": "giam giữ hàng loạt",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "prison-industrial complex",
+    "m": "tổ hợp công nghiệp nhà tù",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "solitary confinement",
+    "m": "giam cách ly",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "capital punishment",
+    "m": "tử hình",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "extradition",
+    "m": "dẫn độ tội phạm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "asylum seeker",
+    "m": "người xin tị nạn",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "stateless person",
+    "m": "người không quốc tịch",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "internally displaced person",
+    "m": "người di tản nội địa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "climate refugee",
+    "m": "người tị nạn khí hậu",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "economic migrant",
+    "m": "di dân kinh tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "brain drain",
+    "m": "chảy máu chất xám",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "brain gain",
+    "m": "thu hút nhân tài",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "brain circulation",
+    "m": "luân chuyển chất xám",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "knowledge transfer",
+    "m": "chuyển giao kiến thức",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "capacity building",
+    "m": "xây dựng năng lực",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "institutional strengthening",
+    "m": "tăng cường thể chế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "state-building",
+    "m": "xây dựng nhà nước",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "nation-building",
+    "m": "xây dựng quốc gia",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "peace-building",
+    "m": "xây dựng hòa bình",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "conflict resolution",
+    "m": "giải quyết xung đột",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "mediation",
+    "m": "hòa giải",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "arbitration",
+    "m": "trọng tài",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "negotiation",
+    "m": "đàm phán",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "diplomacy",
+    "m": "ngoại giao",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "coercive diplomacy",
+    "m": "ngoại giao cưỡng bức",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "soft power",
+    "m": "quyền lực mềm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "hard power",
+    "m": "quyền lực cứng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "smart power",
+    "m": "quyền lực thông minh",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "normative power",
+    "m": "quyền lực quy phạm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "structural power",
+    "m": "quyền lực cấu trúc",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "relational power",
+    "m": "quyền lực quan hệ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "discursive power",
+    "m": "quyền lực diễn ngôn",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "agenda-setting power",
+    "m": "quyền lực thiết lập chương trình",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "institutional power",
+    "m": "quyền lực thể chế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "productive power",
+    "m": "quyền lực sản xuất",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "compulsory power",
+    "m": "quyền lực cưỡng bức",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "balance of power",
+    "m": "cân bằng quyền lực",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "power transition",
+    "m": "chuyển giao quyền lực",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "unipolarity",
+    "m": "đơn cực",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "bipolarity",
+    "m": "lưỡng cực",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "multipolarity",
+    "m": "đa cực",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "non-polarity",
+    "m": "phi cực",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "hegemonic stability",
+    "m": "ổn định bá quyền",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "hegemonic decline",
+    "m": "suy thoái bá quyền",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "great power competition",
+    "m": "cạnh tranh cường quốc",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "great power rivalry",
+    "m": "tranh giành cường quốc",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "security dilemma",
+    "m": "lưỡng nan an ninh",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "arms race",
+    "m": "chạy đua vũ trang",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "deterrence theory",
+    "m": "lý thuyết răn đe",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "nuclear deterrence",
+    "m": "răn đe hạt nhân",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "mutually assured destruction",
+    "m": "bảo đảm tiêu diệt lẫn nhau",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "second-strike capability",
+    "m": "khả năng tấn công thứ hai",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "first-strike capability",
+    "m": "khả năng tấn công phủ đầu",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "escalation dominance",
+    "m": "kiểm soát leo thang",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "extended deterrence",
+    "m": "răn đe mở rộng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "conventional deterrence",
+    "m": "răn đe thông thường",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "economic coercion",
+    "m": "cưỡng bức kinh tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "economic warfare",
+    "m": "chiến tranh kinh tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "financial warfare",
+    "m": "chiến tranh tài chính",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "cyber warfare",
+    "m": "chiến tranh mạng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "information warfare",
+    "m": "chiến tranh thông tin",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "cognitive warfare",
+    "m": "chiến tranh nhận thức",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "hybrid warfare",
+    "m": "chiến tranh hỗn hợp",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "gray zone conflict",
+    "m": "xung đột vùng xám",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "proxy war",
+    "m": "chiến tranh ủy nhiệm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "asymmetric warfare",
+    "m": "chiến tranh bất đối xứng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "counterinsurgency",
+    "m": "chống nổi dậy",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "counterterrorism",
+    "m": "chống khủng bố",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "peacekeeping operation",
+    "m": "chiến dịch gìn giữ hòa bình",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "humanitarian intervention",
+    "m": "can thiệp nhân đạo",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "responsibility to protect",
+    "m": "trách nhiệm bảo vệ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "sovereignty norm",
+    "m": "chuẩn mực chủ quyền",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "non-intervention principle",
+    "m": "nguyên tắc không can thiệp",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "self-determination",
+    "m": "quyền tự quyết",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "international law",
+    "m": "luật pháp quốc tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "jus cogens",
+    "m": "quy phạm bắt buộc quốc tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "erga omnes",
+    "m": "nghĩa vụ với tất cả",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "customary international law",
+    "m": "luật quốc tế tập quán",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "treaty law",
+    "m": "luật điều ước",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "soft law",
+    "m": "luật mềm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "hard law",
+    "m": "luật cứng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "legally binding",
+    "m": "có tính ràng buộc pháp lý",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "non-binding",
+    "m": "không ràng buộc",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "enforcement mechanism",
+    "m": "cơ chế thực thi",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "dispute settlement",
+    "m": "giải quyết tranh chấp",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "jurisdiction",
+    "m": "thẩm quyền xét xử",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "extraterritorial jurisdiction",
+    "m": "thẩm quyền ngoài lãnh thổ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "universal jurisdiction",
+    "m": "thẩm quyền toàn cầu",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "immunity",
+    "m": "miễn truy tố",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "diplomatic immunity",
+    "m": "miễn truy tố ngoại giao",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "head of state immunity",
+    "m": "miễn truy tố nguyên thủ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "impunity",
+    "m": "không bị trừng phạt",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "transitional justice",
+    "m": "tư pháp chuyển tiếp",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "truth commission",
+    "m": "ủy ban sự thật",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "war crimes tribunal",
+    "m": "tòa án tội ác chiến tranh",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "international criminal court",
+    "m": "tòa án hình sự quốc tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "genocide",
+    "m": "diệt chủng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "ethnic cleansing",
+    "m": "thanh lọc sắc tộc",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "crimes against humanity",
+    "m": "tội ác chống lại loài người",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "war crimes",
+    "m": "tội ác chiến tranh",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "torture",
+    "m": "tra tấn",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "extrajudicial killing",
+    "m": "giết người không qua xét xử",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "enforced disappearance",
+    "m": "mất tích cưỡng bức",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "arbitrary detention",
+    "m": "giam giữ tùy tiện",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "political prisoner",
+    "m": "tù nhân chính trị",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "prisoner of conscience",
+    "m": "tù nhân lương tâm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "civil society",
+    "m": "xã hội dân sự",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "non-governmental organization",
+    "m": "tổ chức phi chính phủ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "multilateral organization",
+    "m": "tổ chức đa phương",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "United Nations",
+    "m": "Liên Hợp Quốc",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "World Bank",
+    "m": "Ngân hàng Thế giới",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "International Monetary Fund",
+    "m": "Quỹ Tiền tệ Quốc tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "World Trade Organization",
+    "m": "Tổ chức Thương mại Thế giới",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "NATO",
+    "m": "Tổ chức Hiệp ước Bắc Đại Tây Dương",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "European Union",
+    "m": "Liên minh Châu Âu",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "ASEAN",
+    "m": "Hiệp hội Đông Nam Á",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "African Union",
+    "m": "Liên minh Châu Phi",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "G7",
+    "m": "Nhóm bảy nước công nghiệp phát triển",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "G20",
+    "m": "Nhóm hai mươi nền kinh tế lớn",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "BRICS",
+    "m": "Brazil Nga Ấn Trung Nam Phi",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "Global South",
+    "m": "Nam bán cầu, các nước đang phát triển",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "Global North",
+    "m": "Bắc bán cầu, các nước phát triển",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "developing country",
+    "m": "nước đang phát triển",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "developed country",
+    "m": "nước đã phát triển",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "least developed country",
+    "m": "nước kém phát triển nhất",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "emerging economy",
+    "m": "nền kinh tế mới nổi",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "frontier economy",
+    "m": "nền kinh tế tiên phong",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "transition economy",
+    "m": "nền kinh tế chuyển đổi",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "command economy",
+    "m": "nền kinh tế kế hoạch",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "free market",
+    "m": "thị trường tự do",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "regulated market",
+    "m": "thị trường có quy định",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "labor market",
+    "m": "thị trường lao động",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "capital market",
+    "m": "thị trường vốn",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "commodity market",
+    "m": "thị trường hàng hóa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "housing market",
+    "m": "thị trường nhà ở",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "financial market",
+    "m": "thị trường tài chính",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "stock market",
+    "m": "thị trường chứng khoán",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "derivatives market",
+    "m": "thị trường phái sinh",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "foreign exchange market",
+    "m": "thị trường ngoại hối",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "bond market",
+    "m": "thị trường trái phiếu",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "money market",
+    "m": "thị trường tiền tệ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "credit market",
+    "m": "thị trường tín dụng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "insurance market",
+    "m": "thị trường bảo hiểm",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "real estate market",
+    "m": "thị trường bất động sản",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "commodity prices",
+    "m": "giá hàng hóa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "oil price",
+    "m": "giá dầu",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "food price",
+    "m": "giá lương thực",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "price stability",
+    "m": "ổn định giá cả",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "price shock",
+    "m": "cú sốc giá",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "demand shock",
+    "m": "cú sốc cầu",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "supply shock",
+    "m": "cú sốc cung",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "economic shock",
+    "m": "cú sốc kinh tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "financial crisis",
+    "m": "khủng hoảng tài chính",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "banking crisis",
+    "m": "khủng hoảng ngân hàng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "debt crisis",
+    "m": "khủng hoảng nợ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "currency crisis",
+    "m": "khủng hoảng tiền tệ",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "balance of payments crisis",
+    "m": "khủng hoảng cán cân thanh toán",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "hyperinflation",
+    "m": "siêu lạm phát",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "deflation",
+    "m": "giảm phát",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "stagflation",
+    "m": "đình lạm phát",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "boom",
+    "m": "bùng nổ kinh tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "bust",
+    "m": "suy sụp kinh tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "business cycle",
+    "m": "chu kỳ kinh doanh",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "expansion",
+    "m": "mở rộng kinh tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "contraction",
+    "m": "thu hẹp kinh tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "recovery",
+    "m": "phục hồi kinh tế",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "depression",
+    "m": "đại suy thoái",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "double dip recession",
+    "m": "suy thoái kép",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "V-shaped recovery",
+    "m": "phục hồi hình chữ V",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "K-shaped recovery",
+    "m": "phục hồi hình chữ K",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "L-shaped recovery",
+    "m": "phục hồi hình chữ L",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "W-shaped recovery",
+    "m": "phục hồi hình chữ W",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "productivity",
+    "m": "năng suất",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "efficiency",
+    "m": "hiệu quả",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "effectiveness",
+    "m": "tính hiệu quả về kết quả",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "capacity",
+    "m": "năng lực, sức chứa",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "capability",
+    "m": "khả năng",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "competency",
+    "m": "năng lực chuyên môn",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "expertise",
+    "m": "chuyên môn",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "proficiency",
+    "m": "thành thạo",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "aptitude",
+    "m": "năng khiếu",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "dexterity",
+    "m": "sự khéo léo",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "acumen",
+    "m": "sự nhạy bén",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "ingenuity",
+    "m": "sự sáng tạo khéo léo",
+    "cat": "vocabulary_extra"
+  },
+  {
+    "w": "resourcefulness",
+    "m": "sự tháo vát",
+    "cat": "vocabulary_extra"
+  }
+]

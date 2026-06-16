@@ -1,0 +1,1180 @@
+{
+  "hsk8Lessons": [
+    {
+      "title": "Bài 1: Ngôn ngữ học",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 15,
+      "order": 1,
+      "content": {
+        "image": "/images/lessons/adjectives.svg",
+        "intro": "Bài học giới thiệu hệ thống thuật ngữ ngôn ngữ học cốt lõi ở trình độ HSK8. Bạn sẽ học cách bàn luận về từ vựng, ngữ pháp, ngữ nghĩa và sự tiến hóa của ngôn ngữ bằng văn phong học thuật.",
+        "vocabulary": [
+          {
+            "word": "语言学",
+            "pinyin": "yǔ yán xué",
+            "meaning": "Ngôn ngữ học",
+            "example": "他在大学专攻语言学，研究方向是汉语史。",
+            "example_vi": "Anh ấy chuyên ngành ngôn ngữ học ở đại học, hướng nghiên cứu là lịch sử tiếng Hán.",
+            "tags": [
+              "ngôn ngữ học"
+            ]
+          },
+          {
+            "word": "词汇",
+            "pinyin": "cí huì",
+            "meaning": "Từ vựng",
+            "example": "阅读经典著作有助于扩大词汇量。",
+            "example_vi": "Đọc các tác phẩm kinh điển giúp mở rộng vốn từ vựng.",
+            "tags": [
+              "ngôn ngữ học"
+            ]
+          },
+          {
+            "word": "语法",
+            "pinyin": "yǔ fǎ",
+            "meaning": "Ngữ pháp",
+            "example": "汉语语法与越南语语法既有相似之处，也有明显差异。",
+            "example_vi": "Ngữ pháp tiếng Hán và ngữ pháp tiếng Việt vừa có điểm tương đồng, vừa có khác biệt rõ rệt.",
+            "tags": [
+              "ngôn ngữ học"
+            ]
+          },
+          {
+            "word": "语义",
+            "pinyin": "yǔ yì",
+            "meaning": "Ngữ nghĩa",
+            "example": "同一个词在不同语境中的语义可能完全不同。",
+            "example_vi": "Cùng một từ trong các ngữ cảnh khác nhau có thể mang ngữ nghĩa hoàn toàn khác nhau.",
+            "tags": [
+              "ngôn ngữ học"
+            ]
+          },
+          {
+            "word": "方言",
+            "pinyin": "fāng yán",
+            "meaning": "Phương ngữ",
+            "example": "中国各地的方言差异很大，有的甚至无法互相沟通。",
+            "example_vi": "Phương ngữ các vùng ở Trung Quốc khác nhau rất nhiều, có nơi thậm chí không thể giao tiếp với nhau.",
+            "tags": [
+              "ngôn ngữ học"
+            ]
+          },
+          {
+            "word": "语用",
+            "pinyin": "yǔ yòng",
+            "meaning": "Ngữ dụng",
+            "example": "语用学研究的是语言在实际交际中的使用规律。",
+            "example_vi": "Ngữ dụng học nghiên cứu quy luật sử dụng ngôn ngữ trong giao tiếp thực tế.",
+            "tags": [
+              "ngôn ngữ học"
+            ]
+          },
+          {
+            "word": "隐喻",
+            "pinyin": "yǐn yù",
+            "meaning": "Ẩn dụ",
+            "example": "诗人常用隐喻来表达难以言说的情感。",
+            "example_vi": "Nhà thơ thường dùng ẩn dụ để diễn đạt những cảm xúc khó nói thành lời.",
+            "tags": [
+              "ngôn ngữ học"
+            ]
+          },
+          {
+            "word": "语境",
+            "pinyin": "yǔ jìng",
+            "meaning": "Ngữ cảnh",
+            "example": "理解一句话的真正含义，必须结合具体语境。",
+            "example_vi": "Muốn hiểu hàm nghĩa thực sự của một câu nói, phải kết hợp với ngữ cảnh cụ thể.",
+            "tags": [
+              "ngôn ngữ học"
+            ]
+          },
+          {
+            "word": "演变",
+            "pinyin": "yǎn biàn",
+            "meaning": "Diễn biến, tiến hóa",
+            "example": "语言随着社会的发展而不断演变。",
+            "example_vi": "Ngôn ngữ không ngừng tiến hóa theo sự phát triển của xã hội.",
+            "tags": [
+              "ngôn ngữ học"
+            ]
+          },
+          {
+            "word": "语篇",
+            "pinyin": "yǔ piān",
+            "meaning": "Diễn ngôn, văn bản",
+            "example": "语篇分析关注句子之间的衔接与连贯。",
+            "example_vi": "Phân tích diễn ngôn chú trọng đến sự liên kết và mạch lạc giữa các câu.",
+            "tags": [
+              "ngôn ngữ học"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "就……而言 — Xét về phương diện nào đó",
+            "explanation": "Cấu trúc văn viết trang trọng dùng để giới hạn phạm vi nhận xét, tương đương \"xét về..., về mặt...\". Thường đứng đầu câu trong văn phong học thuật, sau đó đưa ra đánh giá hoặc so sánh.",
+            "examples": [
+              "就语法而言，汉语没有时态变化。= Xét về ngữ pháp, tiếng Hán không có biến đổi thì.",
+              "就词汇量而言，他已经达到了母语者的水平。= Xét về vốn từ vựng, anh ấy đã đạt đến trình độ của người bản ngữ."
+            ]
+          },
+          {
+            "title": "被视为 / 被称为 — Câu bị động trang trọng \"được xem là\"",
+            "explanation": "Dạng bị động trang trọng dùng trong văn viết học thuật: chủ ngữ + 被视为/被称为 + danh ngữ, nghĩa là \"được xem là / được gọi là\". Khác với 被 thông thường, cấu trúc này không mang sắc thái tiêu cực mà mang tính nhận định khách quan.",
+            "examples": [
+              "汉字被视为中华文化的重要载体。= Chữ Hán được xem là vật mang quan trọng của văn hóa Trung Hoa.",
+              "他被称为现代语言学的奠基人。= Ông được gọi là người đặt nền móng cho ngôn ngữ học hiện đại."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ \"方言\" có nghĩa là gì?",
+            "options": [
+              "Phương ngữ",
+              "Ngữ pháp",
+              "Từ vựng",
+              "Ẩn dụ"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào sau đây có nghĩa là \"ngữ cảnh\"?",
+            "options": [
+              "语义",
+              "语境",
+              "语篇",
+              "语用"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "隐喻",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Ẩn dụ",
+              "Tượng trưng",
+              "Ngữ nghĩa",
+              "Diễn ngôn"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "演变",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Phương ngữ",
+              "Từ vựng",
+              "Diễn biến, tiến hóa",
+              "Ngữ dụng"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 就语法___，汉语没有时态变化。",
+            "options": [
+              "而言",
+              "而已",
+              "为止",
+              "为主"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Ngôn ngữ học\"",
+            "options": [
+              "语言学"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 2: Lịch sử & Di sản",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 15,
+      "order": 2,
+      "content": {
+        "image": "/images/lessons/past.svg",
+        "intro": "Bài học cung cấp từ vựng học thuật về lịch sử, văn minh và di sản văn hóa. Bạn sẽ luyện cách trích dẫn sử liệu và bàn luận về sự hưng suy của các triều đại bằng văn phong trang trọng.",
+        "vocabulary": [
+          {
+            "word": "历史",
+            "pinyin": "lì shǐ",
+            "meaning": "Lịch sử",
+            "example": "中国拥有五千年的悠久历史。",
+            "example_vi": "Trung Quốc có lịch sử lâu đời năm nghìn năm.",
+            "tags": [
+              "lịch sử"
+            ]
+          },
+          {
+            "word": "文明",
+            "pinyin": "wén míng",
+            "meaning": "Văn minh",
+            "example": "黄河流域是中华文明的发源地之一。",
+            "example_vi": "Lưu vực Hoàng Hà là một trong những cái nôi của văn minh Trung Hoa.",
+            "tags": [
+              "lịch sử"
+            ]
+          },
+          {
+            "word": "遗产",
+            "pinyin": "yí chǎn",
+            "meaning": "Di sản",
+            "example": "长城被联合国列为世界文化遗产。",
+            "example_vi": "Vạn Lý Trường Thành được Liên Hợp Quốc công nhận là di sản văn hóa thế giới.",
+            "tags": [
+              "lịch sử"
+            ]
+          },
+          {
+            "word": "朝代",
+            "pinyin": "cháo dài",
+            "meaning": "Triều đại",
+            "example": "唐朝是中国历史上最繁荣的朝代之一。",
+            "example_vi": "Nhà Đường là một trong những triều đại phồn vinh nhất trong lịch sử Trung Quốc.",
+            "tags": [
+              "lịch sử"
+            ]
+          },
+          {
+            "word": "考古",
+            "pinyin": "kǎo gǔ",
+            "meaning": "Khảo cổ",
+            "example": "考古学家在这里发现了三千年前的青铜器。",
+            "example_vi": "Các nhà khảo cổ đã phát hiện đồ đồng có niên đại ba nghìn năm tại đây.",
+            "tags": [
+              "lịch sử"
+            ]
+          },
+          {
+            "word": "文物",
+            "pinyin": "wén wù",
+            "meaning": "Cổ vật, văn vật",
+            "example": "博物馆里陈列着大量珍贵的文物。",
+            "example_vi": "Trong bảo tàng trưng bày rất nhiều cổ vật quý giá.",
+            "tags": [
+              "lịch sử"
+            ]
+          },
+          {
+            "word": "史料",
+            "pinyin": "shǐ liào",
+            "meaning": "Sử liệu",
+            "example": "研究历史必须依据可靠的史料。",
+            "example_vi": "Nghiên cứu lịch sử phải dựa trên những sử liệu đáng tin cậy.",
+            "tags": [
+              "lịch sử"
+            ]
+          },
+          {
+            "word": "传统",
+            "pinyin": "chuán tǒng",
+            "meaning": "Truyền thống",
+            "example": "春节是中国最重要的传统节日。",
+            "example_vi": "Tết Nguyên đán là ngày lễ truyền thống quan trọng nhất của Trung Quốc.",
+            "tags": [
+              "lịch sử"
+            ]
+          },
+          {
+            "word": "兴衰",
+            "pinyin": "xīng shuāi",
+            "meaning": "Hưng suy",
+            "example": "一个朝代的兴衰往往与民心向背密切相关。",
+            "example_vi": "Sự hưng suy của một triều đại thường liên quan mật thiết đến lòng dân thuận hay nghịch.",
+            "tags": [
+              "lịch sử"
+            ]
+          },
+          {
+            "word": "铭记",
+            "pinyin": "míng jì",
+            "meaning": "Khắc ghi",
+            "example": "我们应当铭记历史，珍惜来之不易的和平。",
+            "example_vi": "Chúng ta cần khắc ghi lịch sử, trân trọng nền hòa bình không dễ gì có được.",
+            "tags": [
+              "lịch sử"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "据……记载 — Theo ghi chép của...",
+            "explanation": "Cấu trúc trích dẫn nguồn trong văn viết học thuật: 据 + sử liệu/tài liệu + 记载, nghĩa là \"theo ghi chép của...\". Đặt ở đầu câu để dẫn chứng cứ lịch sử, tăng tính khách quan và thuyết phục cho lập luận.",
+            "examples": [
+              "据史料记载，这座古城建于唐代。= Theo sử liệu ghi chép, tòa thành cổ này được xây vào đời Đường.",
+              "据考古发现，这里曾是古代王朝的都城。= Theo phát hiện khảo cổ, nơi đây từng là kinh đô của vương triều cổ đại."
+            ]
+          },
+          {
+            "title": "……与……密切相关 — Có liên quan mật thiết với...",
+            "explanation": "Cấu trúc văn viết dùng để nêu mối quan hệ chặt chẽ giữa hai sự vật: A 与 B 密切相关. Liên từ 与 trang trọng hơn 和, thường gặp trong văn nghị luận và nghiên cứu học thuật.",
+            "examples": [
+              "朝代的兴衰与民心密切相关。= Sự hưng suy của triều đại liên quan mật thiết đến lòng dân.",
+              "文物保护与每一个公民密切相关。= Việc bảo vệ văn vật liên quan mật thiết đến mỗi công dân."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ \"考古\" có nghĩa là gì?",
+            "options": [
+              "Khảo cổ",
+              "Sử liệu",
+              "Cổ vật",
+              "Triều đại"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào sau đây có nghĩa là \"hưng suy\"?",
+            "options": [
+              "传统",
+              "兴衰",
+              "铭记",
+              "文明"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "遗产",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Di sản",
+              "Văn minh",
+              "Lịch sử",
+              "Truyền thống"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "文物",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Sử liệu",
+              "Triều đại",
+              "Cổ vật, văn vật",
+              "Khảo cổ"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: ___史料记载，这座古城建于唐代。",
+            "options": [
+              "据",
+              "被",
+              "把",
+              "使"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Lịch sử\"",
+            "options": [
+              "历史"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 3: Tâm lý học",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 15,
+      "order": 3,
+      "content": {
+        "image": "/images/lessons/health.svg",
+        "intro": "Bài học trang bị từ vựng tâm lý học hiện đại: nhận thức, cảm xúc, tiềm thức và cơ chế thích nghi. Bạn sẽ học cách phân tích trạng thái tâm lý con người bằng ngôn ngữ học thuật.",
+        "vocabulary": [
+          {
+            "word": "心理",
+            "pinyin": "xīn lǐ",
+            "meaning": "Tâm lý",
+            "example": "长期的工作压力会影响人的心理健康。",
+            "example_vi": "Áp lực công việc kéo dài sẽ ảnh hưởng đến sức khỏe tâm lý của con người.",
+            "tags": [
+              "tâm lý học"
+            ]
+          },
+          {
+            "word": "认知",
+            "pinyin": "rèn zhī",
+            "meaning": "Nhận thức",
+            "example": "儿童的认知能力随着年龄的增长而不断发展。",
+            "example_vi": "Năng lực nhận thức của trẻ em không ngừng phát triển theo độ tuổi.",
+            "tags": [
+              "tâm lý học"
+            ]
+          },
+          {
+            "word": "情感",
+            "pinyin": "qíng gǎn",
+            "meaning": "Cảm xúc, tình cảm",
+            "example": "音乐能够唤起人们深层的情感。",
+            "example_vi": "Âm nhạc có thể khơi dậy những cảm xúc sâu kín của con người.",
+            "tags": [
+              "tâm lý học"
+            ]
+          },
+          {
+            "word": "潜意识",
+            "pinyin": "qián yì shí",
+            "meaning": "Tiềm thức",
+            "example": "梦境往往反映了人的潜意识活动。",
+            "example_vi": "Giấc mơ thường phản ánh hoạt động tiềm thức của con người.",
+            "tags": [
+              "tâm lý học"
+            ]
+          },
+          {
+            "word": "焦虑",
+            "pinyin": "jiāo lǜ",
+            "meaning": "Lo âu",
+            "example": "考试之前，许多学生都会感到焦虑。",
+            "example_vi": "Trước kỳ thi, nhiều học sinh đều cảm thấy lo âu.",
+            "tags": [
+              "tâm lý học"
+            ]
+          },
+          {
+            "word": "动机",
+            "pinyin": "dòng jī",
+            "meaning": "Động cơ",
+            "example": "明确的学习动机是取得好成绩的前提。",
+            "example_vi": "Động cơ học tập rõ ràng là tiền đề để đạt thành tích tốt.",
+            "tags": [
+              "tâm lý học"
+            ]
+          },
+          {
+            "word": "行为",
+            "pinyin": "xíng wéi",
+            "meaning": "Hành vi",
+            "example": "心理学家通过观察行为来研究人的内心世界。",
+            "example_vi": "Nhà tâm lý học nghiên cứu thế giới nội tâm con người thông qua quan sát hành vi.",
+            "tags": [
+              "tâm lý học"
+            ]
+          },
+          {
+            "word": "自我",
+            "pinyin": "zì wǒ",
+            "meaning": "Bản ngã, cái tôi",
+            "example": "青少年时期是自我意识迅速发展的阶段。",
+            "example_vi": "Tuổi thiếu niên là giai đoạn ý thức bản ngã phát triển nhanh chóng.",
+            "tags": [
+              "tâm lý học"
+            ]
+          },
+          {
+            "word": "压力",
+            "pinyin": "yā lì",
+            "meaning": "Áp lực",
+            "example": "适度的压力可以转化为前进的动力。",
+            "example_vi": "Áp lực vừa phải có thể chuyển hóa thành động lực tiến lên.",
+            "tags": [
+              "tâm lý học"
+            ]
+          },
+          {
+            "word": "适应",
+            "pinyin": "shì yìng",
+            "meaning": "Thích nghi",
+            "example": "他很快就适应了新的工作环境。",
+            "example_vi": "Anh ấy rất nhanh đã thích nghi với môi trường làm việc mới.",
+            "tags": [
+              "tâm lý học"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "随着……的……，…… — Cùng với sự... thì...",
+            "explanation": "Cấu trúc văn viết nêu hai sự việc biến đổi song hành: 随着 + danh ngữ (thường có 的 + danh từ trừu tượng), vế sau nêu kết quả thay đổi tương ứng. Rất phổ biến trong văn nghị luận và báo cáo nghiên cứu.",
+            "examples": [
+              "随着年龄的增长，人的认知能力逐渐成熟。= Cùng với sự tăng lên của tuổi tác, năng lực nhận thức của con người dần trưởng thành.",
+              "随着社会节奏的加快，焦虑问题日益普遍。= Cùng với nhịp sống xã hội ngày càng nhanh, vấn đề lo âu ngày càng phổ biến."
+            ]
+          },
+          {
+            "title": "将……转化为…… — Chuyển hóa... thành...",
+            "explanation": "Cấu trúc trang trọng tương đương 把……变成……: 将 + tân ngữ + 转化为 + kết quả. 将 là dạng văn viết của 把, 转化为 nhấn mạnh quá trình chuyển hóa về chất, thường dùng trong ngữ cảnh học thuật.",
+            "examples": [
+              "我们应该学会将压力转化为动力。= Chúng ta nên học cách chuyển hóa áp lực thành động lực.",
+              "心理咨询帮助他将消极情绪转化为积极行动。= Tư vấn tâm lý giúp anh ấy chuyển hóa cảm xúc tiêu cực thành hành động tích cực."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ \"潜意识\" có nghĩa là gì?",
+            "options": [
+              "Tiềm thức",
+              "Nhận thức",
+              "Bản ngã",
+              "Tâm lý"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào sau đây có nghĩa là \"lo âu\"?",
+            "options": [
+              "压力",
+              "焦虑",
+              "情感",
+              "动机"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "适应",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Thích nghi",
+              "Áp lực",
+              "Hành vi",
+              "Động cơ"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "认知",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Cảm xúc",
+              "Tiềm thức",
+              "Nhận thức",
+              "Bản ngã"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: ___年龄的增长，人的认知能力逐渐成熟。",
+            "options": [
+              "随着",
+              "按照",
+              "由于",
+              "为了"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Áp lực\"",
+            "options": [
+              "压力"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 4: Y học & Nghiên cứu",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 15,
+      "order": 4,
+      "content": {
+        "image": "/images/lessons/health.svg",
+        "intro": "Bài học giới thiệu thuật ngữ y học và nghiên cứu lâm sàng: chẩn đoán, điều trị, miễn dịch và thực nghiệm khoa học. Phù hợp để đọc hiểu các bài báo khoa học sức khỏe ở trình độ HSK8.",
+        "vocabulary": [
+          {
+            "word": "临床",
+            "pinyin": "lín chuáng",
+            "meaning": "Lâm sàng",
+            "example": "这种新药已经进入临床试验阶段。",
+            "example_vi": "Loại thuốc mới này đã bước vào giai đoạn thử nghiệm lâm sàng.",
+            "tags": [
+              "y học"
+            ]
+          },
+          {
+            "word": "诊断",
+            "pinyin": "zhěn duàn",
+            "meaning": "Chẩn đoán",
+            "example": "医生通过影像检查作出了准确的诊断。",
+            "example_vi": "Bác sĩ đã đưa ra chẩn đoán chính xác thông qua kiểm tra hình ảnh.",
+            "tags": [
+              "y học"
+            ]
+          },
+          {
+            "word": "治疗",
+            "pinyin": "zhì liáo",
+            "meaning": "Điều trị",
+            "example": "早期发现的癌症大多可以得到有效治疗。",
+            "example_vi": "Phần lớn ung thư được phát hiện sớm đều có thể được điều trị hiệu quả.",
+            "tags": [
+              "y học"
+            ]
+          },
+          {
+            "word": "免疫",
+            "pinyin": "miǎn yì",
+            "meaning": "Miễn dịch",
+            "example": "接种疫苗能够增强人体的免疫能力。",
+            "example_vi": "Tiêm vắc-xin có thể tăng cường khả năng miễn dịch của cơ thể.",
+            "tags": [
+              "y học"
+            ]
+          },
+          {
+            "word": "基因组",
+            "pinyin": "jī yīn zǔ",
+            "meaning": "Bộ gene",
+            "example": "人类基因组计划揭示了生命的许多奥秘。",
+            "example_vi": "Dự án bộ gene người đã hé lộ nhiều bí ẩn của sự sống.",
+            "tags": [
+              "y học"
+            ]
+          },
+          {
+            "word": "药理",
+            "pinyin": "yào lǐ",
+            "meaning": "Dược lý",
+            "example": "研究人员正在分析这种成分的药理作用。",
+            "example_vi": "Các nhà nghiên cứu đang phân tích tác dụng dược lý của thành phần này.",
+            "tags": [
+              "y học"
+            ]
+          },
+          {
+            "word": "并发症",
+            "pinyin": "bìng fā zhèng",
+            "meaning": "Biến chứng",
+            "example": "糖尿病如果控制不好，容易引起多种并发症。",
+            "example_vi": "Bệnh tiểu đường nếu không kiểm soát tốt sẽ dễ gây ra nhiều loại biến chứng.",
+            "tags": [
+              "y học"
+            ]
+          },
+          {
+            "word": "预防",
+            "pinyin": "yù fáng",
+            "meaning": "Phòng ngừa",
+            "example": "预防胜于治疗，定期体检十分必要。",
+            "example_vi": "Phòng bệnh hơn chữa bệnh, khám sức khỏe định kỳ là rất cần thiết.",
+            "tags": [
+              "y học"
+            ]
+          },
+          {
+            "word": "疗效",
+            "pinyin": "liáo xiào",
+            "meaning": "Hiệu quả điều trị",
+            "example": "这种疗法的疗效已得到临床数据的证实。",
+            "example_vi": "Hiệu quả điều trị của liệu pháp này đã được dữ liệu lâm sàng chứng thực.",
+            "tags": [
+              "y học"
+            ]
+          },
+          {
+            "word": "实验",
+            "pinyin": "shí yàn",
+            "meaning": "Thực nghiệm, thí nghiệm",
+            "example": "任何科学结论都必须经过反复实验的验证。",
+            "example_vi": "Mọi kết luận khoa học đều phải được kiểm chứng qua thực nghiệm lặp đi lặp lại.",
+            "tags": [
+              "y học"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "经……证实 — Được... chứng thực (bị động trang trọng)",
+            "explanation": "Cấu trúc bị động văn viết không dùng 被: chủ ngữ + 经 + chủ thể kiểm chứng + 证实/验证, nghĩa là \"đã qua... chứng thực\". Thường gặp trong báo cáo khoa học và văn bản y học để nêu căn cứ khách quan.",
+            "examples": [
+              "该药物的疗效已经临床试验证实。= Hiệu quả điều trị của thuốc này đã được thử nghiệm lâm sàng chứng thực.",
+              "这一假设经反复实验得到了验证。= Giả thuyết này đã được kiểm chứng qua thực nghiệm nhiều lần."
+            ]
+          },
+          {
+            "title": "一旦……，就/便…… — Một khi... thì lập tức...",
+            "explanation": "Cấu trúc giả định nhấn mạnh hậu quả tất yếu: 一旦 + điều kiện, vế sau dùng 就 hoặc 便 (trang trọng hơn) nêu kết quả xảy ra ngay. Dùng nhiều trong văn cảnh y học để cảnh báo nguy cơ.",
+            "examples": [
+              "一旦出现并发症，就必须立即住院治疗。= Một khi xuất hiện biến chứng thì phải nhập viện điều trị ngay lập tức.",
+              "病毒一旦进入人体，免疫系统便会作出反应。= Virus một khi xâm nhập cơ thể, hệ miễn dịch sẽ lập tức phản ứng."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ \"诊断\" có nghĩa là gì?",
+            "options": [
+              "Chẩn đoán",
+              "Điều trị",
+              "Phòng ngừa",
+              "Lâm sàng"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào sau đây có nghĩa là \"biến chứng\"?",
+            "options": [
+              "疗效",
+              "并发症",
+              "基因组",
+              "免疫"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "预防",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Phòng ngừa",
+              "Điều trị",
+              "Thực nghiệm",
+              "Dược lý"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "免疫",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Lâm sàng",
+              "Bộ gene",
+              "Miễn dịch",
+              "Hiệu quả điều trị"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: ___出现并发症，就必须立即住院治疗。",
+            "options": [
+              "一旦",
+              "一向",
+              "一直",
+              "一概"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Điều trị\"",
+            "options": [
+              "治疗"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 5: Chính sách công",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 15,
+      "order": 5,
+      "content": {
+        "image": "/images/lessons/jobs.svg",
+        "intro": "Bài học cung cấp từ vựng về quản trị nhà nước và chính sách công: tài chính, thuế, phúc lợi, cải cách hành chính. Bạn sẽ luyện văn phong hành chính trang trọng thường gặp trong văn kiện.",
+        "vocabulary": [
+          {
+            "word": "财政",
+            "pinyin": "cái zhèng",
+            "meaning": "Tài chính công",
+            "example": "政府决定增加财政对教育领域的投入。",
+            "example_vi": "Chính phủ quyết định tăng đầu tư tài chính công cho lĩnh vực giáo dục.",
+            "tags": [
+              "chính sách công"
+            ]
+          },
+          {
+            "word": "监管",
+            "pinyin": "jiān guǎn",
+            "meaning": "Giám sát quản lý",
+            "example": "加强对金融市场的监管是当前的重要任务。",
+            "example_vi": "Tăng cường giám sát quản lý thị trường tài chính là nhiệm vụ quan trọng hiện nay.",
+            "tags": [
+              "chính sách công"
+            ]
+          },
+          {
+            "word": "公共服务",
+            "pinyin": "gōng gòng fú wù",
+            "meaning": "Dịch vụ công",
+            "example": "提升公共服务质量是政府工作的重点。",
+            "example_vi": "Nâng cao chất lượng dịch vụ công là trọng tâm công tác của chính phủ.",
+            "tags": [
+              "chính sách công"
+            ]
+          },
+          {
+            "word": "税收",
+            "pinyin": "shuì shōu",
+            "meaning": "Thu thuế",
+            "example": "税收是国家财政收入的主要来源。",
+            "example_vi": "Thu thuế là nguồn thu chủ yếu của ngân sách nhà nước.",
+            "tags": [
+              "chính sách công"
+            ]
+          },
+          {
+            "word": "行政",
+            "pinyin": "xíng zhèng",
+            "meaning": "Hành chính",
+            "example": "简化行政审批程序有利于改善营商环境。",
+            "example_vi": "Đơn giản hóa thủ tục phê duyệt hành chính có lợi cho việc cải thiện môi trường kinh doanh.",
+            "tags": [
+              "chính sách công"
+            ]
+          },
+          {
+            "word": "福利",
+            "pinyin": "fú lì",
+            "meaning": "Phúc lợi",
+            "example": "完善的社会福利制度能够保障弱势群体的生活。",
+            "example_vi": "Chế độ phúc lợi xã hội hoàn thiện có thể bảo đảm cuộc sống của các nhóm yếu thế.",
+            "tags": [
+              "chính sách công"
+            ]
+          },
+          {
+            "word": "预算",
+            "pinyin": "yù suàn",
+            "meaning": "Ngân sách",
+            "example": "议会正在审议明年的政府预算草案。",
+            "example_vi": "Nghị viện đang thẩm định dự thảo ngân sách chính phủ năm tới.",
+            "tags": [
+              "chính sách công"
+            ]
+          },
+          {
+            "word": "改革",
+            "pinyin": "gǎi gé",
+            "meaning": "Cải cách",
+            "example": "这项改革旨在提高公共部门的运行效率。",
+            "example_vi": "Cuộc cải cách này nhằm nâng cao hiệu quả vận hành của khu vực công.",
+            "tags": [
+              "chính sách công"
+            ]
+          },
+          {
+            "word": "实施",
+            "pinyin": "shí shī",
+            "meaning": "Thực thi",
+            "example": "新政策将于明年一月正式实施。",
+            "example_vi": "Chính sách mới sẽ chính thức được thực thi vào tháng Một năm sau.",
+            "tags": [
+              "chính sách công"
+            ]
+          },
+          {
+            "word": "监督",
+            "pinyin": "jiān dū",
+            "meaning": "Giám sát",
+            "example": "公众有权对政府的工作进行监督。",
+            "example_vi": "Công chúng có quyền giám sát công việc của chính phủ.",
+            "tags": [
+              "chính sách công"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "旨在…… — Nhằm mục đích...",
+            "explanation": "Động từ văn viết trang trọng đặt sau chủ ngữ (thường là chính sách, biện pháp, dự án): A + 旨在 + động ngữ, nghĩa là \"A nhằm mục đích...\". Chỉ dùng trong văn viết, không dùng trong khẩu ngữ.",
+            "examples": [
+              "这项改革旨在减轻企业的负担。= Cuộc cải cách này nhằm giảm nhẹ gánh nặng cho doanh nghiệp.",
+              "该法案旨在保障公民的基本福利。= Dự luật này nhằm bảo đảm phúc lợi cơ bản của công dân."
+            ]
+          },
+          {
+            "title": "将于……正式…… — Sẽ chính thức... vào thời điểm...",
+            "explanation": "Cấu trúc thông báo trang trọng trong văn kiện hành chính: chủ ngữ + 将于 + thời gian + 正式 + động từ. 于 là giới từ văn viết thay cho 在, 将 biểu thị tương lai, 正式 nhấn mạnh tính chính thức.",
+            "examples": [
+              "新税收政策将于下个月正式实施。= Chính sách thuế mới sẽ chính thức được thực thi vào tháng sau.",
+              "该公共服务平台将于年底正式启动。= Nền tảng dịch vụ công này sẽ chính thức khởi động vào cuối năm."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ \"预算\" có nghĩa là gì?",
+            "options": [
+              "Ngân sách",
+              "Thu thuế",
+              "Phúc lợi",
+              "Cải cách"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào sau đây có nghĩa là \"dịch vụ công\"?",
+            "options": [
+              "行政",
+              "公共服务",
+              "监管",
+              "财政"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "改革",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Cải cách",
+              "Thực thi",
+              "Giám sát",
+              "Hành chính"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "税收",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Ngân sách",
+              "Phúc lợi",
+              "Thu thuế",
+              "Tài chính công"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 这项改革___提高公共部门的运行效率。",
+            "options": [
+              "旨在",
+              "位于",
+              "出于",
+              "善于"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Cải cách\"",
+            "options": [
+              "改革"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 6: Phê bình văn học",
+      "type": "vocabulary",
+      "xp": 40,
+      "min": 15,
+      "order": 6,
+      "content": {
+        "image": "/images/lessons/colors.svg",
+        "intro": "Bài học khép lại với bộ thuật ngữ phê bình văn học: hình tượng, tượng trưng, tự sự và tu từ. Bạn sẽ học cách phân tích và diễn giải tác phẩm văn học bằng ngôn ngữ học thuật HSK8.",
+        "vocabulary": [
+          {
+            "word": "批评",
+            "pinyin": "pī píng",
+            "meaning": "Phê bình",
+            "example": "文学批评有助于读者更深入地理解作品。",
+            "example_vi": "Phê bình văn học giúp độc giả hiểu tác phẩm một cách sâu sắc hơn.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "意象",
+            "pinyin": "yì xiàng",
+            "meaning": "Hình tượng",
+            "example": "月亮是中国古典诗歌中最常见的意象之一。",
+            "example_vi": "Mặt trăng là một trong những hình tượng thường gặp nhất trong thơ ca cổ điển Trung Quốc.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "象征",
+            "pinyin": "xiàng zhēng",
+            "meaning": "Tượng trưng",
+            "example": "在这部小说中，大海象征着自由与希望。",
+            "example_vi": "Trong cuốn tiểu thuyết này, biển cả tượng trưng cho tự do và hy vọng.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "叙事",
+            "pinyin": "xù shì",
+            "meaning": "Tự sự",
+            "example": "这部作品采用了多线并行的叙事结构。",
+            "example_vi": "Tác phẩm này sử dụng kết cấu tự sự nhiều tuyến song song.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "风格",
+            "pinyin": "fēng gé",
+            "meaning": "Phong cách",
+            "example": "鲁迅的写作风格冷峻而深刻。",
+            "example_vi": "Phong cách viết của Lỗ Tấn lạnh lùng mà sâu sắc.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "主题",
+            "pinyin": "zhǔ tí",
+            "meaning": "Chủ đề",
+            "example": "这首诗的主题是对故乡的深切思念。",
+            "example_vi": "Chủ đề của bài thơ này là nỗi nhớ quê hương da diết.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "修辞",
+            "pinyin": "xiū cí",
+            "meaning": "Tu từ",
+            "example": "作者巧妙地运用了比喻、排比等修辞手法。",
+            "example_vi": "Tác giả đã vận dụng khéo léo các biện pháp tu từ như so sánh, điệp cấu trúc.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "寓意",
+            "pinyin": "yù yì",
+            "meaning": "Ngụ ý",
+            "example": "这则寓言的寓意十分深刻，发人深省。",
+            "example_vi": "Ngụ ý của câu chuyện ngụ ngôn này rất sâu sắc, khiến người ta phải suy ngẫm.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "架构",
+            "pinyin": "jià gòu",
+            "meaning": "Kết cấu",
+            "example": "这部长篇小说的整体架构十分严谨。",
+            "example_vi": "Kết cấu tổng thể của cuốn trường thiên tiểu thuyết này rất chặt chẽ.",
+            "tags": [
+              "văn học"
+            ]
+          },
+          {
+            "word": "解读",
+            "pinyin": "jiě dú",
+            "meaning": "Diễn giải",
+            "example": "不同的读者可以对同一部作品作出不同的解读。",
+            "example_vi": "Những độc giả khác nhau có thể đưa ra những cách diễn giải khác nhau cho cùng một tác phẩm.",
+            "tags": [
+              "văn học"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "以……为…… — Lấy... làm...",
+            "explanation": "Cấu trúc văn viết cổ điển còn dùng phổ biến trong văn học thuật: 以 + A + 为 + B, nghĩa là \"lấy A làm B\". Dùng để nêu bối cảnh, chủ đề, trung tâm của tác phẩm hoặc nghiên cứu.",
+            "examples": [
+              "这部小说以战争为背景，描写了普通人的命运。= Cuốn tiểu thuyết này lấy chiến tranh làm bối cảnh, miêu tả số phận của những con người bình thường.",
+              "作者以月亮为意象，表达了思乡之情。= Tác giả lấy mặt trăng làm hình tượng để bày tỏ nỗi nhớ quê hương."
+            ]
+          },
+          {
+            "title": "不仅……，更…… — Không những..., mà còn hơn thế...",
+            "explanation": "Cấu trúc tăng tiến mạnh hơn 不仅……而且……: vế sau dùng 更 để nhấn mạnh tầng nghĩa cao hơn, sâu hơn. Thường dùng trong văn phê bình, đánh giá để đẩy lập luận lên tầng khái quát.",
+            "examples": [
+              "这部作品不仅情节动人，更蕴含着深刻的哲理。= Tác phẩm này không những có tình tiết cảm động, mà còn ẩn chứa triết lý sâu sắc.",
+              "他的批评不仅指出了问题，更提出了独到的见解。= Bài phê bình của ông không những chỉ ra vấn đề, mà còn đưa ra kiến giải độc đáo."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Từ \"意象\" có nghĩa là gì?",
+            "options": [
+              "Hình tượng",
+              "Tượng trưng",
+              "Chủ đề",
+              "Tu từ"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "Từ nào sau đây có nghĩa là \"tự sự\"?",
+            "options": [
+              "解读",
+              "叙事",
+              "寓意",
+              "架构"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "象征",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Tượng trưng",
+              "Ngụ ý",
+              "Phong cách",
+              "Phê bình"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "修辞",
+            "q": "Chọn nghĩa đúng của từ vừa nghe:",
+            "options": [
+              "Kết cấu",
+              "Diễn giải",
+              "Tu từ",
+              "Chủ đề"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Điền vào chỗ trống: 这部小说___战争为背景，描写了普通人的命运。",
+            "options": [
+              "以",
+              "把",
+              "对",
+              "向"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Phong cách\"",
+            "options": [
+              "风格"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    }
+  ]
+}

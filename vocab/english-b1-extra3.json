@@ -1,0 +1,2402 @@
+[
+  {
+    "w": "upload",
+    "p": "",
+    "m": "tải lên",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "download",
+    "p": "",
+    "m": "tải xuống",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "browser",
+    "p": "",
+    "m": "trình duyệt web",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "search engine",
+    "p": "",
+    "m": "công cụ tìm kiếm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "website",
+    "p": "",
+    "m": "trang web",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "username",
+    "p": "",
+    "m": "tên đăng nhập",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "password",
+    "p": "",
+    "m": "mật khẩu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "log in",
+    "p": "",
+    "m": "đăng nhập",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "log out",
+    "p": "",
+    "m": "đăng xuất",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "screen",
+    "p": "",
+    "m": "màn hình",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "keyboard",
+    "p": "",
+    "m": "bàn phím",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "mouse",
+    "p": "",
+    "m": "chuột máy tính",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "printer",
+    "p": "",
+    "m": "máy in",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "charger",
+    "p": "",
+    "m": "bộ sạc",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "battery",
+    "p": "",
+    "m": "pin",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "software",
+    "p": "",
+    "m": "phần mềm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "hardware",
+    "p": "",
+    "m": "phần cứng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "virus",
+    "p": "",
+    "m": "vi rút máy tính",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "backup",
+    "p": "",
+    "m": "sao lưu dữ liệu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "update",
+    "p": "",
+    "m": "cập nhật",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "install",
+    "p": "",
+    "m": "cài đặt",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "delete",
+    "p": "",
+    "m": "xóa",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "file",
+    "p": "",
+    "m": "tệp tin",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "folder",
+    "p": "",
+    "m": "thư mục",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "storage",
+    "p": "",
+    "m": "bộ nhớ lưu trữ",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "connection",
+    "p": "",
+    "m": "kết nối",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "network",
+    "p": "",
+    "m": "mạng lưới",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "signal",
+    "p": "",
+    "m": "tín hiệu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "offline",
+    "p": "",
+    "m": "không có mạng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "click",
+    "p": "",
+    "m": "nhấp chuột",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "scroll",
+    "p": "",
+    "m": "cuộn trang",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "attachment",
+    "p": "",
+    "m": "tệp đính kèm",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "inbox",
+    "p": "",
+    "m": "hộp thư đến",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "spam",
+    "p": "",
+    "m": "thư rác",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "reply",
+    "p": "",
+    "m": "trả lời",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "subscribe",
+    "p": "",
+    "m": "đăng ký theo dõi",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "notification",
+    "p": "",
+    "m": "thông báo",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "profile",
+    "p": "",
+    "m": "hồ sơ cá nhân",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "account",
+    "p": "",
+    "m": "tài khoản",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "privacy",
+    "p": "",
+    "m": "quyền riêng tư",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "post",
+    "p": "",
+    "m": "đăng bài",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "share",
+    "p": "",
+    "m": "chia sẻ",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "comment",
+    "p": "",
+    "m": "bình luận",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "follow",
+    "p": "",
+    "m": "theo dõi",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "block",
+    "p": "",
+    "m": "chặn người dùng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "hashtag",
+    "p": "",
+    "m": "thẻ bắt đầu bằng dấu #",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "stream",
+    "p": "",
+    "m": "phát trực tiếp",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "podcast",
+    "p": "",
+    "m": "chương trình âm thanh trực tuyến",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "video call",
+    "p": "",
+    "m": "gọi video",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "platform",
+    "p": "",
+    "m": "nền tảng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "user",
+    "p": "",
+    "m": "người dùng",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "data",
+    "p": "",
+    "m": "dữ liệu",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "cloud",
+    "p": "",
+    "m": "điện toán đám mây",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "social media",
+    "p": "",
+    "m": "mạng xã hội",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "algorithm",
+    "p": "",
+    "m": "thuật toán",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "emoji",
+    "p": "",
+    "m": "biểu tượng cảm xúc",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "screenshot",
+    "p": "",
+    "m": "ảnh chụp màn hình",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "selfie",
+    "p": "",
+    "m": "ảnh tự chụp",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "filter",
+    "p": "",
+    "m": "bộ lọc ảnh",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "router",
+    "p": "",
+    "m": "bộ định tuyến",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "budget",
+    "p": "",
+    "m": "ngân sách",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "expense",
+    "p": "",
+    "m": "chi phí",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "income",
+    "p": "",
+    "m": "thu nhập",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "salary",
+    "p": "",
+    "m": "lương",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "bonus",
+    "p": "",
+    "m": "tiền thưởng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "tax",
+    "p": "",
+    "m": "thuế",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "receipt",
+    "p": "",
+    "m": "biên lai",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "invoice",
+    "p": "",
+    "m": "hóa đơn",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "discount",
+    "p": "",
+    "m": "giảm giá",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "refund",
+    "p": "",
+    "m": "hoàn tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "wallet",
+    "p": "",
+    "m": "ví tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "currency",
+    "p": "",
+    "m": "tiền tệ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "exchange rate",
+    "p": "",
+    "m": "tỷ giá hối đoái",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "loan",
+    "p": "",
+    "m": "khoản vay",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "debt",
+    "p": "",
+    "m": "nợ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "interest rate",
+    "p": "",
+    "m": "lãi suất",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "investment",
+    "p": "",
+    "m": "đầu tư",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "profit",
+    "p": "",
+    "m": "lợi nhuận",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "afford",
+    "p": "",
+    "m": "đủ tiền mua",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "purchase",
+    "p": "",
+    "m": "mua hàng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "transaction",
+    "p": "",
+    "m": "giao dịch",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "withdraw",
+    "p": "",
+    "m": "rút tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "deposit",
+    "p": "",
+    "m": "gửi tiền",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "balance",
+    "p": "",
+    "m": "số dư tài khoản",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "credit card",
+    "p": "",
+    "m": "thẻ tín dụng",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "debit card",
+    "p": "",
+    "m": "thẻ ghi nợ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "ATM",
+    "p": "",
+    "m": "máy rút tiền tự động",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "fee",
+    "p": "",
+    "m": "phí dịch vụ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "bargain",
+    "p": "",
+    "m": "món hời",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "subscription fee",
+    "p": "",
+    "m": "phí đăng ký định kỳ",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "minimum wage",
+    "p": "",
+    "m": "lương tối thiểu",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "cost of living",
+    "p": "",
+    "m": "chi phí sinh hoạt",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "installment",
+    "p": "",
+    "m": "trả góp",
+    "cat": "tiền bạc"
+  },
+  {
+    "w": "match",
+    "p": "",
+    "m": "trận đấu",
+    "cat": "thể thao"
+  },
+  {
+    "w": "tournament",
+    "p": "",
+    "m": "giải đấu",
+    "cat": "thể thao"
+  },
+  {
+    "w": "championship",
+    "p": "",
+    "m": "chức vô địch",
+    "cat": "thể thao"
+  },
+  {
+    "w": "league",
+    "p": "",
+    "m": "giải thể thao",
+    "cat": "thể thao"
+  },
+  {
+    "w": "coach",
+    "p": "",
+    "m": "huấn luyện viên",
+    "cat": "thể thao"
+  },
+  {
+    "w": "referee",
+    "p": "",
+    "m": "trọng tài",
+    "cat": "thể thao"
+  },
+  {
+    "w": "athlete",
+    "p": "",
+    "m": "vận động viên",
+    "cat": "thể thao"
+  },
+  {
+    "w": "medal",
+    "p": "",
+    "m": "huy chương",
+    "cat": "thể thao"
+  },
+  {
+    "w": "trophy",
+    "p": "",
+    "m": "cúp thể thao",
+    "cat": "thể thao"
+  },
+  {
+    "w": "sprint",
+    "p": "",
+    "m": "chạy nước rút",
+    "cat": "thể thao"
+  },
+  {
+    "w": "kick",
+    "p": "",
+    "m": "đá bóng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "court",
+    "p": "",
+    "m": "sân tennis/bóng rổ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "track",
+    "p": "",
+    "m": "đường đua",
+    "cat": "thể thao"
+  },
+  {
+    "w": "gym",
+    "p": "",
+    "m": "phòng tập thể dục",
+    "cat": "thể thao"
+  },
+  {
+    "w": "workout",
+    "p": "",
+    "m": "buổi tập",
+    "cat": "thể thao"
+  },
+  {
+    "w": "training",
+    "p": "",
+    "m": "huấn luyện",
+    "cat": "thể thao"
+  },
+  {
+    "w": "warm up",
+    "p": "",
+    "m": "khởi động",
+    "cat": "thể thao"
+  },
+  {
+    "w": "stretch",
+    "p": "",
+    "m": "giãn cơ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "cycling",
+    "p": "",
+    "m": "đạp xe",
+    "cat": "thể thao"
+  },
+  {
+    "w": "hiking",
+    "p": "",
+    "m": "đi bộ đường dài",
+    "cat": "thể thao"
+  },
+  {
+    "w": "camping",
+    "p": "",
+    "m": "cắm trại",
+    "cat": "thể thao"
+  },
+  {
+    "w": "fishing",
+    "p": "",
+    "m": "câu cá",
+    "cat": "thể thao"
+  },
+  {
+    "w": "skiing",
+    "p": "",
+    "m": "trượt tuyết",
+    "cat": "thể thao"
+  },
+  {
+    "w": "surfing",
+    "p": "",
+    "m": "lướt sóng",
+    "cat": "thể thao"
+  },
+  {
+    "w": "climbing",
+    "p": "",
+    "m": "leo núi",
+    "cat": "thể thao"
+  },
+  {
+    "w": "boxing",
+    "p": "",
+    "m": "quyền anh",
+    "cat": "thể thao"
+  },
+  {
+    "w": "martial arts",
+    "p": "",
+    "m": "võ thuật",
+    "cat": "thể thao"
+  },
+  {
+    "w": "yoga",
+    "p": "",
+    "m": "yoga",
+    "cat": "thể thao"
+  },
+  {
+    "w": "jogging",
+    "p": "",
+    "m": "chạy bộ nhẹ",
+    "cat": "thể thao"
+  },
+  {
+    "w": "hobby",
+    "p": "",
+    "m": "sở thích",
+    "cat": "thể thao"
+  },
+  {
+    "w": "gardening",
+    "p": "",
+    "m": "làm vườn",
+    "cat": "thể thao"
+  },
+  {
+    "w": "knitting",
+    "p": "",
+    "m": "đan len",
+    "cat": "thể thao"
+  },
+  {
+    "w": "baking",
+    "p": "",
+    "m": "nướng bánh",
+    "cat": "thể thao"
+  },
+  {
+    "w": "collecting",
+    "p": "",
+    "m": "sưu tầm",
+    "cat": "thể thao"
+  },
+  {
+    "w": "photography",
+    "p": "",
+    "m": "nhiếp ảnh",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "painting",
+    "p": "",
+    "m": "hội họa",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "drawing",
+    "p": "",
+    "m": "vẽ tranh",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "sculpture",
+    "p": "",
+    "m": "điêu khắc",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "exhibition",
+    "p": "",
+    "m": "triển lãm",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "gallery",
+    "p": "",
+    "m": "phòng trưng bày nghệ thuật",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "concert",
+    "p": "",
+    "m": "buổi hòa nhạc",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "orchestra",
+    "p": "",
+    "m": "dàn nhạc giao hưởng",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "instrument",
+    "p": "",
+    "m": "nhạc cụ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "rhythm",
+    "p": "",
+    "m": "nhịp điệu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "melody",
+    "p": "",
+    "m": "giai điệu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "lyrics",
+    "p": "",
+    "m": "lời bài hát",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "chorus",
+    "p": "",
+    "m": "điệp khúc",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "band",
+    "p": "",
+    "m": "ban nhạc",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "rehearsal",
+    "p": "",
+    "m": "buổi tập dượt",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "stage",
+    "p": "",
+    "m": "sân khấu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "applause",
+    "p": "",
+    "m": "tiếng vỗ tay",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "cast",
+    "p": "",
+    "m": "dàn diễn viên",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "director",
+    "p": "",
+    "m": "đạo diễn",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "script",
+    "p": "",
+    "m": "kịch bản",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "plot",
+    "p": "",
+    "m": "cốt truyện",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "episode",
+    "p": "",
+    "m": "tập phim",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "series",
+    "p": "",
+    "m": "phim dài tập",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "documentary",
+    "p": "",
+    "m": "phim tài liệu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "animation",
+    "p": "",
+    "m": "phim hoạt hình",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "subtitles",
+    "p": "",
+    "m": "phụ đề",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "soundtrack",
+    "p": "",
+    "m": "nhạc nền phim",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "critic",
+    "p": "",
+    "m": "nhà phê bình",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "bestseller",
+    "p": "",
+    "m": "sách bán chạy nhất",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "chapter",
+    "p": "",
+    "m": "chương sách",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "character",
+    "p": "",
+    "m": "nhân vật",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "genre",
+    "p": "",
+    "m": "thể loại",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "fiction",
+    "p": "",
+    "m": "tiểu thuyết hư cấu",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "creative",
+    "p": "",
+    "m": "sáng tạo",
+    "cat": "tính từ"
+  },
+  {
+    "w": "talented",
+    "p": "",
+    "m": "có tài năng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "skilled",
+    "p": "",
+    "m": "có kỹ năng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "experienced",
+    "p": "",
+    "m": "có kinh nghiệm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "competitive",
+    "p": "",
+    "m": "có tính cạnh tranh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "athletic",
+    "p": "",
+    "m": "thể thao/khỏe mạnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "flexible",
+    "p": "",
+    "m": "linh hoạt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "powerful",
+    "p": "",
+    "m": "mạnh mẽ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "efficient",
+    "p": "",
+    "m": "hiệu quả",
+    "cat": "tính từ"
+  },
+  {
+    "w": "reliable",
+    "p": "",
+    "m": "đáng tin cậy",
+    "cat": "tính từ"
+  },
+  {
+    "w": "affordable",
+    "p": "",
+    "m": "giá cả phải chăng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "portable",
+    "p": "",
+    "m": "có thể mang đi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "wireless",
+    "p": "",
+    "m": "không dây",
+    "cat": "tính từ"
+  },
+  {
+    "w": "automatic",
+    "p": "",
+    "m": "tự động",
+    "cat": "tính từ"
+  },
+  {
+    "w": "virtual",
+    "p": "",
+    "m": "ảo/trực tuyến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "global",
+    "p": "",
+    "m": "toàn cầu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "available",
+    "p": "",
+    "m": "có sẵn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "popular",
+    "p": "",
+    "m": "phổ biến",
+    "cat": "tính từ"
+  },
+  {
+    "w": "original",
+    "p": "",
+    "m": "nguyên bản",
+    "cat": "tính từ"
+  },
+  {
+    "w": "practical",
+    "p": "",
+    "m": "thực tế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "exciting",
+    "p": "",
+    "m": "thú vị/hồi hộp",
+    "cat": "tính từ"
+  },
+  {
+    "w": "inspiring",
+    "p": "",
+    "m": "truyền cảm hứng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "impressive",
+    "p": "",
+    "m": "ấn tượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "dramatic",
+    "p": "",
+    "m": "kịch tính",
+    "cat": "tính từ"
+  },
+  {
+    "w": "annual",
+    "p": "",
+    "m": "hàng năm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "automatically",
+    "p": "",
+    "m": "tự động",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "regularly",
+    "p": "",
+    "m": "thường xuyên",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "occasionally",
+    "p": "",
+    "m": "thỉnh thoảng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "frequently",
+    "p": "",
+    "m": "hay xảy ra",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "rarely",
+    "p": "",
+    "m": "hiếm khi",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "currently",
+    "p": "",
+    "m": "hiện tại",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "recently",
+    "p": "",
+    "m": "gần đây",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "eventually",
+    "p": "",
+    "m": "cuối cùng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "immediately",
+    "p": "",
+    "m": "ngay lập tức",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "gradually",
+    "p": "",
+    "m": "dần dần",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "carefully",
+    "p": "",
+    "m": "cẩn thận",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "quickly",
+    "p": "",
+    "m": "nhanh chóng",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "globally",
+    "p": "",
+    "m": "trên toàn cầu",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "separately",
+    "p": "",
+    "m": "riêng biệt",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "mostly",
+    "p": "",
+    "m": "chủ yếu",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "design",
+    "p": "",
+    "m": "thiết kế",
+    "cat": "hành động"
+  },
+  {
+    "w": "create",
+    "p": "",
+    "m": "tạo ra",
+    "cat": "hành động"
+  },
+  {
+    "w": "develop",
+    "p": "",
+    "m": "phát triển",
+    "cat": "hành động"
+  },
+  {
+    "w": "launch",
+    "p": "",
+    "m": "ra mắt",
+    "cat": "hành động"
+  },
+  {
+    "w": "connect",
+    "p": "",
+    "m": "kết nối",
+    "cat": "hành động"
+  },
+  {
+    "w": "communicate",
+    "p": "",
+    "m": "giao tiếp",
+    "cat": "hành động"
+  },
+  {
+    "w": "broadcast",
+    "p": "",
+    "m": "phát sóng",
+    "cat": "hành động"
+  },
+  {
+    "w": "edit",
+    "p": "",
+    "m": "chỉnh sửa",
+    "cat": "hành động"
+  },
+  {
+    "w": "produce",
+    "p": "",
+    "m": "sản xuất",
+    "cat": "hành động"
+  },
+  {
+    "w": "perform",
+    "p": "",
+    "m": "biểu diễn",
+    "cat": "hành động"
+  },
+  {
+    "w": "compete",
+    "p": "",
+    "m": "cạnh tranh",
+    "cat": "hành động"
+  },
+  {
+    "w": "achieve",
+    "p": "",
+    "m": "đạt được",
+    "cat": "hành động"
+  },
+  {
+    "w": "manage",
+    "p": "",
+    "m": "quản lý",
+    "cat": "hành động"
+  },
+  {
+    "w": "organize",
+    "p": "",
+    "m": "tổ chức",
+    "cat": "hành động"
+  },
+  {
+    "w": "cancel",
+    "p": "",
+    "m": "hủy bỏ",
+    "cat": "hành động"
+  },
+  {
+    "w": "confirm",
+    "p": "",
+    "m": "xác nhận",
+    "cat": "hành động"
+  },
+  {
+    "w": "submit",
+    "p": "",
+    "m": "nộp/gửi",
+    "cat": "hành động"
+  },
+  {
+    "w": "register",
+    "p": "",
+    "m": "đăng ký",
+    "cat": "hành động"
+  },
+  {
+    "w": "apply",
+    "p": "",
+    "m": "ứng dụng/xin",
+    "cat": "hành động"
+  },
+  {
+    "w": "repeat",
+    "p": "",
+    "m": "lặp lại",
+    "cat": "hành động"
+  },
+  {
+    "w": "spend",
+    "p": "",
+    "m": "chi tiêu",
+    "cat": "hành động"
+  },
+  {
+    "w": "earn",
+    "p": "",
+    "m": "kiếm được",
+    "cat": "hành động"
+  },
+  {
+    "w": "borrow",
+    "p": "",
+    "m": "mượn",
+    "cat": "hành động"
+  },
+  {
+    "w": "lend",
+    "p": "",
+    "m": "cho mượn",
+    "cat": "hành động"
+  },
+  {
+    "w": "invest",
+    "p": "",
+    "m": "đầu tư",
+    "cat": "hành động"
+  },
+  {
+    "w": "compare",
+    "p": "",
+    "m": "so sánh",
+    "cat": "hành động"
+  },
+  {
+    "w": "recommend",
+    "p": "",
+    "m": "giới thiệu/khuyến nghị",
+    "cat": "hành động"
+  },
+  {
+    "w": "suggest",
+    "p": "",
+    "m": "đề xuất",
+    "cat": "hành động"
+  },
+  {
+    "w": "ticket",
+    "p": "",
+    "m": "vé",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "venue",
+    "p": "",
+    "m": "địa điểm tổ chức sự kiện",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "stadium",
+    "p": "",
+    "m": "sân vận động",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "arena",
+    "p": "",
+    "m": "đấu trường",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "cinema",
+    "p": "",
+    "m": "rạp chiếu phim",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "theater",
+    "p": "",
+    "m": "nhà hát",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "library",
+    "p": "",
+    "m": "thư viện",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "sports center",
+    "p": "",
+    "m": "trung tâm thể thao",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "swimming pool",
+    "p": "",
+    "m": "hồ bơi",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "studio",
+    "p": "",
+    "m": "phòng thu âm/nghệ thuật",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "headquarters",
+    "p": "",
+    "m": "trụ sở chính",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "branch",
+    "p": "",
+    "m": "chi nhánh",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "outlet",
+    "p": "",
+    "m": "cửa hàng bán lẻ",
+    "cat": "địa điểm"
+  },
+  {
+    "w": "headphones",
+    "p": "",
+    "m": "tai nghe",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "speaker",
+    "p": "",
+    "m": "loa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "microphone",
+    "p": "",
+    "m": "micrô",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "remote control",
+    "p": "",
+    "m": "điều khiển từ xa",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "earbuds",
+    "p": "",
+    "m": "tai nghe nhét tai",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "tripod",
+    "p": "",
+    "m": "chân máy ảnh",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "canvas",
+    "p": "",
+    "m": "vải bố dùng vẽ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "paintbrush",
+    "p": "",
+    "m": "cọ vẽ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "easel",
+    "p": "",
+    "m": "giá vẽ",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "frame",
+    "p": "",
+    "m": "khung tranh",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "guitar",
+    "p": "",
+    "m": "đàn guitar",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "violin",
+    "p": "",
+    "m": "đàn violin",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "drum",
+    "p": "",
+    "m": "trống",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "racket",
+    "p": "",
+    "m": "vợt",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "net",
+    "p": "",
+    "m": "lưới",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "helmet",
+    "p": "",
+    "m": "mũ bảo hiểm",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "jersey",
+    "p": "",
+    "m": "áo thể thao",
+    "cat": "đồ vật"
+  },
+  {
+    "w": "sneakers",
+    "p": "",
+    "m": "giày thể thao",
+    "cat": "quần áo"
+  },
+  {
+    "w": "shorts",
+    "p": "",
+    "m": "quần đùi",
+    "cat": "quần áo"
+  },
+  {
+    "w": "tracksuit",
+    "p": "",
+    "m": "bộ đồ thể thao",
+    "cat": "quần áo"
+  },
+  {
+    "w": "cap",
+    "p": "",
+    "m": "mũ lưỡi trai",
+    "cat": "quần áo"
+  },
+  {
+    "w": "swimsuit",
+    "p": "",
+    "m": "đồ bơi",
+    "cat": "quần áo"
+  },
+  {
+    "w": "uniform",
+    "p": "",
+    "m": "đồng phục",
+    "cat": "quần áo"
+  },
+  {
+    "w": "accessory",
+    "p": "",
+    "m": "phụ kiện",
+    "cat": "quần áo"
+  },
+  {
+    "w": "brand",
+    "p": "",
+    "m": "thương hiệu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "market",
+    "p": "",
+    "m": "thị trường",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "customer",
+    "p": "",
+    "m": "khách hàng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "company",
+    "p": "",
+    "m": "công ty",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "product",
+    "p": "",
+    "m": "sản phẩm",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "demand",
+    "p": "",
+    "m": "nhu cầu",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "strategy",
+    "p": "",
+    "m": "chiến lược",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "campaign",
+    "p": "",
+    "m": "chiến dịch",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "promotion",
+    "p": "",
+    "m": "khuyến mãi",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "advertisement",
+    "p": "",
+    "m": "quảng cáo",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "sponsor",
+    "p": "",
+    "m": "nhà tài trợ",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "contract",
+    "p": "",
+    "m": "hợp đồng",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "project",
+    "p": "",
+    "m": "dự án",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "presentation",
+    "p": "",
+    "m": "thuyết trình",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "survey",
+    "p": "",
+    "m": "khảo sát",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "feedback",
+    "p": "",
+    "m": "phản hồi",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "achievement",
+    "p": "",
+    "m": "thành tích",
+    "cat": "kinh doanh"
+  },
+  {
+    "w": "community",
+    "p": "",
+    "m": "cộng đồng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "volunteer",
+    "p": "",
+    "m": "tình nguyện viên",
+    "cat": "xã hội"
+  },
+  {
+    "w": "charity",
+    "p": "",
+    "m": "từ thiện",
+    "cat": "xã hội"
+  },
+  {
+    "w": "event",
+    "p": "",
+    "m": "sự kiện",
+    "cat": "xã hội"
+  },
+  {
+    "w": "membership",
+    "p": "",
+    "m": "tư cách thành viên",
+    "cat": "xã hội"
+  },
+  {
+    "w": "participant",
+    "p": "",
+    "m": "người tham gia",
+    "cat": "xã hội"
+  },
+  {
+    "w": "online community",
+    "p": "",
+    "m": "cộng đồng trực tuyến",
+    "cat": "xã hội"
+  },
+  {
+    "w": "peer group",
+    "p": "",
+    "m": "nhóm bạn cùng trang lứa",
+    "cat": "xã hội"
+  },
+  {
+    "w": "festival",
+    "p": "",
+    "m": "lễ hội",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "tradition",
+    "p": "",
+    "m": "truyền thống",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "heritage",
+    "p": "",
+    "m": "di sản",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "trend",
+    "p": "",
+    "m": "xu hướng",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "fashion",
+    "p": "",
+    "m": "thời trang",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "entertainment",
+    "p": "",
+    "m": "giải trí",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "celebrity",
+    "p": "",
+    "m": "người nổi tiếng",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "idol",
+    "p": "",
+    "m": "thần tượng",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "influence",
+    "p": "",
+    "m": "ảnh hưởng",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "pop culture",
+    "p": "",
+    "m": "văn hóa đại chúng",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "mainstream",
+    "p": "",
+    "m": "dòng chính thống",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "attitude",
+    "p": "",
+    "m": "thái độ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "confidence",
+    "p": "",
+    "m": "sự tự tin",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "passion",
+    "p": "",
+    "m": "đam mê",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "determination",
+    "p": "",
+    "m": "sự quyết tâm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "patience",
+    "p": "",
+    "m": "sự kiên nhẫn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "satisfaction",
+    "p": "",
+    "m": "sự hài lòng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "disappointment",
+    "p": "",
+    "m": "sự thất vọng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "enthusiasm",
+    "p": "",
+    "m": "nhiệt tình",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "curiosity",
+    "p": "",
+    "m": "sự tò mò",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "pride",
+    "p": "",
+    "m": "sự tự hào",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "relief",
+    "p": "",
+    "m": "cảm giác nhẹ nhõm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "nervous",
+    "p": "",
+    "m": "lo lắng/hồi hộp",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "frustrated",
+    "p": "",
+    "m": "bực bội",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "cheerful",
+    "p": "",
+    "m": "vui vẻ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "anxious",
+    "p": "",
+    "m": "lo âu",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "stressed",
+    "p": "",
+    "m": "căng thẳng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "relaxed",
+    "p": "",
+    "m": "thư giãn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "bored",
+    "p": "",
+    "m": "chán nản",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "take part in",
+    "p": "",
+    "m": "tham gia vào",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "keep in touch",
+    "p": "",
+    "m": "giữ liên lạc",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "give it a shot",
+    "p": "",
+    "m": "thử xem sao",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "look forward to",
+    "p": "",
+    "m": "mong đợi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "run out of",
+    "p": "",
+    "m": "cạn kiệt/hết",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "get used to",
+    "p": "",
+    "m": "quen với",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "make a difference",
+    "p": "",
+    "m": "tạo ra sự khác biệt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "on a budget",
+    "p": "",
+    "m": "với ngân sách hạn chế",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "hit the gym",
+    "p": "",
+    "m": "đi tập gym",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "break a record",
+    "p": "",
+    "m": "phá kỷ lục",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "in the spotlight",
+    "p": "",
+    "m": "dưới ánh đèn sân khấu",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "behind the scenes",
+    "p": "",
+    "m": "hậu trường",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "pay attention",
+    "p": "",
+    "m": "chú ý",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "go viral",
+    "p": "",
+    "m": "lan truyền nhanh trên mạng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "stay connected",
+    "p": "",
+    "m": "duy trì kết nối",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "under pressure",
+    "p": "",
+    "m": "dưới áp lực",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "take the lead",
+    "p": "",
+    "m": "dẫn đầu",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "level up",
+    "p": "",
+    "m": "nâng cấp/thăng cấp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "cut costs",
+    "p": "",
+    "m": "cắt giảm chi phí",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "make ends meet",
+    "p": "",
+    "m": "đủ sống",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "live stream",
+    "p": "",
+    "m": "phát trực tiếp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "trending",
+    "p": "",
+    "m": "đang thịnh hành",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "get fit",
+    "p": "",
+    "m": "rèn luyện sức khỏe",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "set a goal",
+    "p": "",
+    "m": "đặt mục tiêu",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "earn a living",
+    "p": "",
+    "m": "kiếm sống",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "put money aside",
+    "p": "",
+    "m": "để dành tiền",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "stream music",
+    "p": "",
+    "m": "nghe nhạc trực tuyến",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "follow a routine",
+    "p": "",
+    "m": "theo một thói quen",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "show off",
+    "p": "",
+    "m": "khoe khoang",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "drop out",
+    "p": "",
+    "m": "bỏ cuộc",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "stand out",
+    "p": "",
+    "m": "nổi bật",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "come up with",
+    "p": "",
+    "m": "nghĩ ra",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "beginner",
+    "p": "",
+    "m": "người mới bắt đầu",
+    "cat": "học tập"
+  },
+  {
+    "w": "intermediate",
+    "p": "",
+    "m": "trình độ trung cấp",
+    "cat": "học tập"
+  },
+  {
+    "w": "skill",
+    "p": "",
+    "m": "kỹ năng",
+    "cat": "học tập"
+  },
+  {
+    "w": "technique",
+    "p": "",
+    "m": "kỹ thuật",
+    "cat": "học tập"
+  },
+  {
+    "w": "method",
+    "p": "",
+    "m": "phương pháp",
+    "cat": "học tập"
+  },
+  {
+    "w": "tutorial",
+    "p": "",
+    "m": "hướng dẫn từng bước",
+    "cat": "học tập"
+  },
+  {
+    "w": "certification",
+    "p": "",
+    "m": "chứng chỉ",
+    "cat": "học tập"
+  },
+  {
+    "w": "course",
+    "p": "",
+    "m": "khóa học",
+    "cat": "học tập"
+  },
+  {
+    "w": "curriculum",
+    "p": "",
+    "m": "chương trình học",
+    "cat": "học tập"
+  },
+  {
+    "w": "semester",
+    "p": "",
+    "m": "học kỳ",
+    "cat": "học tập"
+  },
+  {
+    "w": "tutor",
+    "p": "",
+    "m": "gia sư",
+    "cat": "học tập"
+  },
+  {
+    "w": "lecture",
+    "p": "",
+    "m": "bài giảng",
+    "cat": "học tập"
+  },
+  {
+    "w": "hypothesis",
+    "p": "",
+    "m": "giả thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "evidence",
+    "p": "",
+    "m": "bằng chứng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "analysis",
+    "p": "",
+    "m": "phân tích",
+    "cat": "học thuật"
+  },
+  {
+    "w": "conclusion",
+    "p": "",
+    "m": "kết luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "argument",
+    "p": "",
+    "m": "lập luận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "perspective",
+    "p": "",
+    "m": "quan điểm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "concept",
+    "p": "",
+    "m": "khái niệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "theory",
+    "p": "",
+    "m": "lý thuyết",
+    "cat": "học thuật"
+  },
+  {
+    "w": "experiment",
+    "p": "",
+    "m": "thí nghiệm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "statistics",
+    "p": "",
+    "m": "thống kê",
+    "cat": "học thuật"
+  },
+  {
+    "w": "percentage",
+    "p": "",
+    "m": "tỷ lệ phần trăm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "average",
+    "p": "",
+    "m": "trung bình",
+    "cat": "học thuật"
+  },
+  {
+    "w": "summary",
+    "p": "",
+    "m": "tóm tắt",
+    "cat": "học thuật"
+  },
+  {
+    "w": "draft",
+    "p": "",
+    "m": "bản thảo",
+    "cat": "học thuật"
+  },
+  {
+    "w": "revision",
+    "p": "",
+    "m": "sửa bài",
+    "cat": "học thuật"
+  },
+  {
+    "w": "citation",
+    "p": "",
+    "m": "trích dẫn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "winner",
+    "p": "",
+    "m": "người chiến thắng",
+    "cat": "người"
+  },
+  {
+    "w": "champion",
+    "p": "",
+    "m": "nhà vô địch",
+    "cat": "người"
+  },
+  {
+    "w": "runner-up",
+    "p": "",
+    "m": "á quân",
+    "cat": "người"
+  },
+  {
+    "w": "spectator",
+    "p": "",
+    "m": "khán giả xem thể thao",
+    "cat": "người"
+  },
+  {
+    "w": "artist",
+    "p": "",
+    "m": "nghệ sĩ",
+    "cat": "người"
+  },
+  {
+    "w": "musician",
+    "p": "",
+    "m": "nhạc sĩ",
+    "cat": "người"
+  },
+  {
+    "w": "singer",
+    "p": "",
+    "m": "ca sĩ",
+    "cat": "người"
+  },
+  {
+    "w": "dancer",
+    "p": "",
+    "m": "vũ công",
+    "cat": "người"
+  },
+  {
+    "w": "actor",
+    "p": "",
+    "m": "diễn viên nam",
+    "cat": "người"
+  },
+  {
+    "w": "photographer",
+    "p": "",
+    "m": "nhiếp ảnh gia",
+    "cat": "người"
+  },
+  {
+    "w": "journalist",
+    "p": "",
+    "m": "nhà báo",
+    "cat": "người"
+  },
+  {
+    "w": "programmer",
+    "p": "",
+    "m": "lập trình viên",
+    "cat": "người"
+  },
+  {
+    "w": "trainer",
+    "p": "",
+    "m": "người huấn luyện",
+    "cat": "người"
+  },
+  {
+    "w": "player",
+    "p": "",
+    "m": "cầu thủ/người chơi",
+    "cat": "người"
+  },
+  {
+    "w": "opponent",
+    "p": "",
+    "m": "đối thủ",
+    "cat": "người"
+  },
+  {
+    "w": "teammate",
+    "p": "",
+    "m": "đồng đội",
+    "cat": "người"
+  },
+  {
+    "w": "influencer",
+    "p": "",
+    "m": "người có sức ảnh hưởng",
+    "cat": "người"
+  },
+  {
+    "w": "era",
+    "p": "",
+    "m": "kỷ nguyên",
+    "cat": "thời gian"
+  },
+  {
+    "w": "phase",
+    "p": "",
+    "m": "giai đoạn",
+    "cat": "thời gian"
+  },
+  {
+    "w": "quarter",
+    "p": "",
+    "m": "quý (3 tháng)",
+    "cat": "thời gian"
+  },
+  {
+    "w": "term",
+    "p": "",
+    "m": "kỳ hạn",
+    "cat": "thời gian"
+  }
+]

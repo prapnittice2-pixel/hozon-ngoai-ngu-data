@@ -1,0 +1,1436 @@
+[
+  {
+    "w": "影响",
+    "p": "yǐng xiǎng",
+    "m": "ảnh hưởng",
+    "cat": "verb"
+  },
+  {
+    "w": "发展",
+    "p": "fā zhǎn",
+    "m": "phát triển",
+    "cat": "verb"
+  },
+  {
+    "w": "变化",
+    "p": "biàn huà",
+    "m": "thay đổi, biến đổi",
+    "cat": "verb"
+  },
+  {
+    "w": "提高",
+    "p": "tí gāo",
+    "m": "nâng cao, cải thiện",
+    "cat": "verb"
+  },
+  {
+    "w": "改善",
+    "p": "gǎi shàn",
+    "m": "cải thiện, cải thiện tình trạng",
+    "cat": "verb"
+  },
+  {
+    "w": "解决",
+    "p": "jiě jué",
+    "m": "giải quyết",
+    "cat": "verb"
+  },
+  {
+    "w": "处理",
+    "p": "chǔ lǐ",
+    "m": "xử lý, giải quyết",
+    "cat": "verb"
+  },
+  {
+    "w": "政府",
+    "p": "zhèng fǔ",
+    "m": "chính phủ",
+    "cat": "politics"
+  },
+  {
+    "w": "社会",
+    "p": "shè huì",
+    "m": "xã hội",
+    "cat": "default"
+  },
+  {
+    "w": "经济",
+    "p": "jīng jì",
+    "m": "kinh tế",
+    "cat": "business"
+  },
+  {
+    "w": "文化",
+    "p": "wén huà",
+    "m": "văn hóa",
+    "cat": "culture"
+  },
+  {
+    "w": "环境",
+    "p": "huán jìng",
+    "m": "môi trường",
+    "cat": "environment"
+  },
+  {
+    "w": "消息",
+    "p": "xiāo xi",
+    "m": "tin tức, thông tin",
+    "cat": "media"
+  },
+  {
+    "w": "报道",
+    "p": "bào dào",
+    "m": "đưa tin, báo cáo",
+    "cat": "media"
+  },
+  {
+    "w": "事件",
+    "p": "shì jiàn",
+    "m": "sự kiện",
+    "cat": "default"
+  },
+  {
+    "w": "发生",
+    "p": "fā shēng",
+    "m": "xảy ra, phát sinh",
+    "cat": "verb"
+  },
+  {
+    "w": "讨论",
+    "p": "tǎo lùn",
+    "m": "thảo luận",
+    "cat": "verb"
+  },
+  {
+    "w": "评价",
+    "p": "píng jià",
+    "m": "đánh giá, nhận xét",
+    "cat": "verb"
+  },
+  {
+    "w": "建议",
+    "p": "jiàn yì",
+    "m": "đề nghị, gợi ý",
+    "cat": "verb"
+  },
+  {
+    "w": "技术",
+    "p": "jì shù",
+    "m": "kỹ thuật, công nghệ",
+    "cat": "tech"
+  },
+  {
+    "w": "科学",
+    "p": "kē xué",
+    "m": "khoa học",
+    "cat": "academic"
+  },
+  {
+    "w": "公司",
+    "p": "gōng sī",
+    "m": "công ty",
+    "cat": "business"
+  },
+  {
+    "w": "企业",
+    "p": "qǐ yè",
+    "m": "doanh nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "产品",
+    "p": "chǎn pǐn",
+    "m": "sản phẩm",
+    "cat": "business"
+  },
+  {
+    "w": "服务",
+    "p": "fú wù",
+    "m": "dịch vụ",
+    "cat": "business"
+  },
+  {
+    "w": "市场",
+    "p": "shì chǎng",
+    "m": "thị trường",
+    "cat": "business"
+  },
+  {
+    "w": "价格",
+    "p": "jià gé",
+    "m": "giá cả",
+    "cat": "money"
+  },
+  {
+    "w": "机会",
+    "p": "jī huì",
+    "m": "cơ hội",
+    "cat": "default"
+  },
+  {
+    "w": "条件",
+    "p": "tiáo jiàn",
+    "m": "điều kiện",
+    "cat": "default"
+  },
+  {
+    "w": "要求",
+    "p": "yāo qiú",
+    "m": "yêu cầu",
+    "cat": "verb"
+  },
+  {
+    "w": "标准",
+    "p": "biāo zhǔn",
+    "m": "tiêu chuẩn",
+    "cat": "default"
+  },
+  {
+    "w": "质量",
+    "p": "zhì liàng",
+    "m": "chất lượng",
+    "cat": "default"
+  },
+  {
+    "w": "效果",
+    "p": "xiào guǒ",
+    "m": "hiệu quả, kết quả",
+    "cat": "default"
+  },
+  {
+    "w": "效率",
+    "p": "xiào lǜ",
+    "m": "hiệu suất",
+    "cat": "default"
+  },
+  {
+    "w": "目的",
+    "p": "mù dì",
+    "m": "mục đích",
+    "cat": "default"
+  },
+  {
+    "w": "目标",
+    "p": "mù biāo",
+    "m": "mục tiêu",
+    "cat": "default"
+  },
+  {
+    "w": "计划",
+    "p": "jì huà",
+    "m": "kế hoạch",
+    "cat": "default"
+  },
+  {
+    "w": "方案",
+    "p": "fāng àn",
+    "m": "phương án, kế hoạch",
+    "cat": "default"
+  },
+  {
+    "w": "措施",
+    "p": "cuò shī",
+    "m": "biện pháp",
+    "cat": "default"
+  },
+  {
+    "w": "政策",
+    "p": "zhèng cè",
+    "m": "chính sách",
+    "cat": "politics"
+  },
+  {
+    "w": "法律",
+    "p": "fǎ lǜ",
+    "m": "pháp luật",
+    "cat": "law"
+  },
+  {
+    "w": "规定",
+    "p": "guī dìng",
+    "m": "quy định",
+    "cat": "law"
+  },
+  {
+    "w": "权利",
+    "p": "quán lì",
+    "m": "quyền lợi",
+    "cat": "law"
+  },
+  {
+    "w": "义务",
+    "p": "yì wù",
+    "m": "nghĩa vụ",
+    "cat": "law"
+  },
+  {
+    "w": "责任",
+    "p": "zé rèn",
+    "m": "trách nhiệm",
+    "cat": "default"
+  },
+  {
+    "w": "原因",
+    "p": "yuán yīn",
+    "m": "nguyên nhân",
+    "cat": "default"
+  },
+  {
+    "w": "结果",
+    "p": "jié guǒ",
+    "m": "kết quả",
+    "cat": "default"
+  },
+  {
+    "w": "过程",
+    "p": "guò chéng",
+    "m": "quá trình",
+    "cat": "default"
+  },
+  {
+    "w": "现象",
+    "p": "xiàn xiàng",
+    "m": "hiện tượng",
+    "cat": "default"
+  },
+  {
+    "w": "问题",
+    "p": "wèn tí",
+    "m": "vấn đề, câu hỏi",
+    "cat": "default"
+  },
+  {
+    "w": "情况",
+    "p": "qíng kuàng",
+    "m": "tình hình, tình trạng",
+    "cat": "default"
+  },
+  {
+    "w": "状况",
+    "p": "zhuàng kuàng",
+    "m": "tình trạng, trạng thái",
+    "cat": "default"
+  },
+  {
+    "w": "关系",
+    "p": "guān xi",
+    "m": "quan hệ, liên quan",
+    "cat": "default"
+  },
+  {
+    "w": "联系",
+    "p": "lián xì",
+    "m": "liên hệ, liên lạc",
+    "cat": "verb"
+  },
+  {
+    "w": "合作",
+    "p": "hé zuò",
+    "m": "hợp tác",
+    "cat": "verb"
+  },
+  {
+    "w": "竞争",
+    "p": "jìng zhēng",
+    "m": "cạnh tranh",
+    "cat": "business"
+  },
+  {
+    "w": "交流",
+    "p": "jiāo liú",
+    "m": "trao đổi, giao lưu",
+    "cat": "verb"
+  },
+  {
+    "w": "沟通",
+    "p": "gōu tōng",
+    "m": "giao tiếp, trao đổi",
+    "cat": "verb"
+  },
+  {
+    "w": "表达",
+    "p": "biǎo dá",
+    "m": "biểu đạt, diễn đạt",
+    "cat": "verb"
+  },
+  {
+    "w": "说明",
+    "p": "shuō míng",
+    "m": "giải thích, thuyết minh",
+    "cat": "verb"
+  },
+  {
+    "w": "介绍",
+    "p": "jiè shào",
+    "m": "giới thiệu",
+    "cat": "verb"
+  },
+  {
+    "w": "描述",
+    "p": "miáo shù",
+    "m": "miêu tả",
+    "cat": "verb"
+  },
+  {
+    "w": "解释",
+    "p": "jiě shì",
+    "m": "giải thích",
+    "cat": "verb"
+  },
+  {
+    "w": "翻译",
+    "p": "fān yì",
+    "m": "phiên dịch, dịch thuật",
+    "cat": "verb"
+  },
+  {
+    "w": "理解",
+    "p": "lǐ jiě",
+    "m": "hiểu, thấu hiểu",
+    "cat": "verb"
+  },
+  {
+    "w": "认识",
+    "p": "rèn shi",
+    "m": "nhận biết, quen biết",
+    "cat": "verb"
+  },
+  {
+    "w": "了解",
+    "p": "liǎo jiě",
+    "m": "hiểu rõ, tìm hiểu",
+    "cat": "verb"
+  },
+  {
+    "w": "知道",
+    "p": "zhī dào",
+    "m": "biết",
+    "cat": "verb"
+  },
+  {
+    "w": "明白",
+    "p": "míng bai",
+    "m": "hiểu rõ, rõ ràng",
+    "cat": "verb"
+  },
+  {
+    "w": "清楚",
+    "p": "qīng chǔ",
+    "m": "rõ ràng, rõ ràng",
+    "cat": "adjective"
+  },
+  {
+    "w": "确定",
+    "p": "què dìng",
+    "m": "xác định, chắc chắn",
+    "cat": "verb"
+  },
+  {
+    "w": "决定",
+    "p": "jué dìng",
+    "m": "quyết định",
+    "cat": "verb"
+  },
+  {
+    "w": "选择",
+    "p": "xuǎn zé",
+    "m": "lựa chọn",
+    "cat": "verb"
+  },
+  {
+    "w": "判断",
+    "p": "pàn duàn",
+    "m": "phán đoán, nhận định",
+    "cat": "verb"
+  },
+  {
+    "w": "考虑",
+    "p": "kǎo lǜ",
+    "m": "cân nhắc, xem xét",
+    "cat": "verb"
+  },
+  {
+    "w": "注意",
+    "p": "zhù yì",
+    "m": "chú ý",
+    "cat": "verb"
+  },
+  {
+    "w": "重视",
+    "p": "zhòng shì",
+    "m": "coi trọng, chú trọng",
+    "cat": "verb"
+  },
+  {
+    "w": "强调",
+    "p": "qiáng diào",
+    "m": "nhấn mạnh",
+    "cat": "verb"
+  },
+  {
+    "w": "支持",
+    "p": "zhī chí",
+    "m": "hỗ trợ, ủng hộ",
+    "cat": "verb"
+  },
+  {
+    "w": "反对",
+    "p": "fǎn duì",
+    "m": "phản đối",
+    "cat": "verb"
+  },
+  {
+    "w": "同意",
+    "p": "tóng yì",
+    "m": "đồng ý",
+    "cat": "verb"
+  },
+  {
+    "w": "拒绝",
+    "p": "jù jué",
+    "m": "từ chối",
+    "cat": "verb"
+  },
+  {
+    "w": "接受",
+    "p": "jiē shòu",
+    "m": "chấp nhận, tiếp nhận",
+    "cat": "verb"
+  },
+  {
+    "w": "放弃",
+    "p": "fàng qì",
+    "m": "từ bỏ",
+    "cat": "verb"
+  },
+  {
+    "w": "坚持",
+    "p": "jiān chí",
+    "m": "kiên trì, duy trì",
+    "cat": "verb"
+  },
+  {
+    "w": "努力",
+    "p": "nǔ lì",
+    "m": "cố gắng, nỗ lực",
+    "cat": "verb"
+  },
+  {
+    "w": "成功",
+    "p": "chéng gōng",
+    "m": "thành công",
+    "cat": "verb"
+  },
+  {
+    "w": "失败",
+    "p": "shī bài",
+    "m": "thất bại",
+    "cat": "verb"
+  },
+  {
+    "w": "完成",
+    "p": "wán chéng",
+    "m": "hoàn thành",
+    "cat": "verb"
+  },
+  {
+    "w": "实现",
+    "p": "shí xiàn",
+    "m": "thực hiện, đạt được",
+    "cat": "verb"
+  },
+  {
+    "w": "达到",
+    "p": "dá dào",
+    "m": "đạt được, đạt tới",
+    "cat": "verb"
+  },
+  {
+    "w": "超过",
+    "p": "chāo guò",
+    "m": "vượt qua, hơn",
+    "cat": "verb"
+  },
+  {
+    "w": "增加",
+    "p": "zēng jiā",
+    "m": "tăng thêm, tăng lên",
+    "cat": "verb"
+  },
+  {
+    "w": "减少",
+    "p": "jiǎn shǎo",
+    "m": "giảm bớt, giảm",
+    "cat": "verb"
+  },
+  {
+    "w": "扩大",
+    "p": "kuò dà",
+    "m": "mở rộng, mở rộng",
+    "cat": "verb"
+  },
+  {
+    "w": "缩小",
+    "p": "suō xiǎo",
+    "m": "thu nhỏ, giảm bớt",
+    "cat": "verb"
+  },
+  {
+    "w": "加强",
+    "p": "jiā qiáng",
+    "m": "tăng cường",
+    "cat": "verb"
+  },
+  {
+    "w": "减弱",
+    "p": "jiǎn ruò",
+    "m": "suy giảm, yếu đi",
+    "cat": "verb"
+  },
+  {
+    "w": "建立",
+    "p": "jiàn lì",
+    "m": "xây dựng, thành lập",
+    "cat": "verb"
+  },
+  {
+    "w": "形成",
+    "p": "xíng chéng",
+    "m": "hình thành",
+    "cat": "verb"
+  },
+  {
+    "w": "产生",
+    "p": "chǎn shēng",
+    "m": "tạo ra, phát sinh",
+    "cat": "verb"
+  },
+  {
+    "w": "造成",
+    "p": "zào chéng",
+    "m": "gây ra, dẫn đến",
+    "cat": "verb"
+  },
+  {
+    "w": "导致",
+    "p": "dǎo zhì",
+    "m": "dẫn đến, gây ra",
+    "cat": "verb"
+  },
+  {
+    "w": "促进",
+    "p": "cù jìn",
+    "m": "thúc đẩy, xúc tiến",
+    "cat": "verb"
+  },
+  {
+    "w": "推动",
+    "p": "tuī dòng",
+    "m": "thúc đẩy, đẩy mạnh",
+    "cat": "verb"
+  },
+  {
+    "w": "推广",
+    "p": "tuī guǎng",
+    "m": "phổ biến, quảng bá",
+    "cat": "verb"
+  },
+  {
+    "w": "宣传",
+    "p": "xuān chuán",
+    "m": "tuyên truyền, quảng cáo",
+    "cat": "media"
+  },
+  {
+    "w": "传播",
+    "p": "chuán bō",
+    "m": "lan truyền, phổ biến",
+    "cat": "media"
+  },
+  {
+    "w": "出现",
+    "p": "chū xiàn",
+    "m": "xuất hiện",
+    "cat": "verb"
+  },
+  {
+    "w": "消失",
+    "p": "xiāo shī",
+    "m": "biến mất",
+    "cat": "verb"
+  },
+  {
+    "w": "保持",
+    "p": "bǎo chí",
+    "m": "duy trì, giữ gìn",
+    "cat": "verb"
+  },
+  {
+    "w": "维持",
+    "p": "wéi chí",
+    "m": "duy trì",
+    "cat": "verb"
+  },
+  {
+    "w": "改变",
+    "p": "gǎi biàn",
+    "m": "thay đổi",
+    "cat": "verb"
+  },
+  {
+    "w": "调整",
+    "p": "tiáo zhěng",
+    "m": "điều chỉnh",
+    "cat": "verb"
+  },
+  {
+    "w": "适应",
+    "p": "shì yìng",
+    "m": "thích nghi, thích ứng",
+    "cat": "verb"
+  },
+  {
+    "w": "应对",
+    "p": "yìng duì",
+    "m": "đối phó, ứng phó",
+    "cat": "verb"
+  },
+  {
+    "w": "面对",
+    "p": "miàn duì",
+    "m": "đối mặt",
+    "cat": "verb"
+  },
+  {
+    "w": "克服",
+    "p": "kè fú",
+    "m": "vượt qua, khắc phục",
+    "cat": "verb"
+  },
+  {
+    "w": "避免",
+    "p": "bì miǎn",
+    "m": "tránh khỏi, tránh",
+    "cat": "verb"
+  },
+  {
+    "w": "防止",
+    "p": "fáng zhǐ",
+    "m": "ngăn ngừa, phòng ngừa",
+    "cat": "verb"
+  },
+  {
+    "w": "保护",
+    "p": "bǎo hù",
+    "m": "bảo vệ",
+    "cat": "verb"
+  },
+  {
+    "w": "利用",
+    "p": "lì yòng",
+    "m": "tận dụng, sử dụng",
+    "cat": "verb"
+  },
+  {
+    "w": "使用",
+    "p": "shǐ yòng",
+    "m": "sử dụng",
+    "cat": "verb"
+  },
+  {
+    "w": "应用",
+    "p": "yìng yòng",
+    "m": "ứng dụng, áp dụng",
+    "cat": "verb"
+  },
+  {
+    "w": "实施",
+    "p": "shí shī",
+    "m": "thực thi, triển khai",
+    "cat": "verb"
+  },
+  {
+    "w": "执行",
+    "p": "zhí xíng",
+    "m": "thực hiện, thi hành",
+    "cat": "verb"
+  },
+  {
+    "w": "管理",
+    "p": "guǎn lǐ",
+    "m": "quản lý",
+    "cat": "work"
+  },
+  {
+    "w": "控制",
+    "p": "kòng zhì",
+    "m": "kiểm soát",
+    "cat": "verb"
+  },
+  {
+    "w": "监督",
+    "p": "jiān dū",
+    "m": "giám sát",
+    "cat": "verb"
+  },
+  {
+    "w": "检查",
+    "p": "jiǎn chá",
+    "m": "kiểm tra",
+    "cat": "verb"
+  },
+  {
+    "w": "评估",
+    "p": "píng gū",
+    "m": "đánh giá, ước tính",
+    "cat": "verb"
+  },
+  {
+    "w": "测量",
+    "p": "cè liáng",
+    "m": "đo lường, đo đạc",
+    "cat": "verb"
+  },
+  {
+    "w": "记录",
+    "p": "jì lù",
+    "m": "ghi chép, ghi lại",
+    "cat": "verb"
+  },
+  {
+    "w": "整理",
+    "p": "zhěng lǐ",
+    "m": "sắp xếp, chỉnh lý",
+    "cat": "verb"
+  },
+  {
+    "w": "分配",
+    "p": "fēn pèi",
+    "m": "phân phối, phân công",
+    "cat": "verb"
+  },
+  {
+    "w": "安排",
+    "p": "ān pái",
+    "m": "sắp xếp, bố trí",
+    "cat": "verb"
+  },
+  {
+    "w": "组织",
+    "p": "zǔ zhī",
+    "m": "tổ chức",
+    "cat": "verb"
+  },
+  {
+    "w": "参与",
+    "p": "cān yù",
+    "m": "tham gia",
+    "cat": "verb"
+  },
+  {
+    "w": "贡献",
+    "p": "gòng xiàn",
+    "m": "đóng góp",
+    "cat": "verb"
+  },
+  {
+    "w": "成本",
+    "p": "chéng běn",
+    "m": "chi phí, giá thành",
+    "cat": "business"
+  },
+  {
+    "w": "利润",
+    "p": "lì rùn",
+    "m": "lợi nhuận",
+    "cat": "business"
+  },
+  {
+    "w": "收入",
+    "p": "shōu rù",
+    "m": "thu nhập, doanh thu",
+    "cat": "money"
+  },
+  {
+    "w": "支出",
+    "p": "zhī chū",
+    "m": "chi tiêu, chi phí",
+    "cat": "money"
+  },
+  {
+    "w": "投资",
+    "p": "tóu zī",
+    "m": "đầu tư",
+    "cat": "business"
+  },
+  {
+    "w": "资金",
+    "p": "zī jīn",
+    "m": "vốn, tài chính",
+    "cat": "money"
+  },
+  {
+    "w": "财务",
+    "p": "cái wù",
+    "m": "tài chính, tài vụ",
+    "cat": "business"
+  },
+  {
+    "w": "预算",
+    "p": "yù suàn",
+    "m": "ngân sách, dự toán",
+    "cat": "business"
+  },
+  {
+    "w": "合同",
+    "p": "hé tong",
+    "m": "hợp đồng",
+    "cat": "business"
+  },
+  {
+    "w": "合同",
+    "p": "hé tong",
+    "m": "hợp đồng",
+    "cat": "law"
+  },
+  {
+    "w": "谈判",
+    "p": "tán pàn",
+    "m": "đàm phán",
+    "cat": "business"
+  },
+  {
+    "w": "签订",
+    "p": "qiān dìng",
+    "m": "ký kết",
+    "cat": "business"
+  },
+  {
+    "w": "报价",
+    "p": "bào jià",
+    "m": "báo giá",
+    "cat": "business"
+  },
+  {
+    "w": "订单",
+    "p": "dìng dān",
+    "m": "đơn đặt hàng",
+    "cat": "business"
+  },
+  {
+    "w": "交货",
+    "p": "jiāo huò",
+    "m": "giao hàng",
+    "cat": "business"
+  },
+  {
+    "w": "供应",
+    "p": "gōng yìng",
+    "m": "cung cấp, cung ứng",
+    "cat": "business"
+  },
+  {
+    "w": "需求",
+    "p": "xū qiú",
+    "m": "nhu cầu",
+    "cat": "business"
+  },
+  {
+    "w": "供求",
+    "p": "gōng qiú",
+    "m": "cung cầu",
+    "cat": "business"
+  },
+  {
+    "w": "广告",
+    "p": "guǎng gào",
+    "m": "quảng cáo",
+    "cat": "business"
+  },
+  {
+    "w": "品牌",
+    "p": "pǐn pái",
+    "m": "thương hiệu",
+    "cat": "business"
+  },
+  {
+    "w": "客户",
+    "p": "kè hù",
+    "m": "khách hàng",
+    "cat": "business"
+  },
+  {
+    "w": "消费者",
+    "p": "xiāo fèi zhě",
+    "m": "người tiêu dùng",
+    "cat": "business"
+  },
+  {
+    "w": "生产者",
+    "p": "shēng chǎn zhě",
+    "m": "nhà sản xuất",
+    "cat": "business"
+  },
+  {
+    "w": "经营",
+    "p": "jīng yíng",
+    "m": "kinh doanh",
+    "cat": "business"
+  },
+  {
+    "w": "运营",
+    "p": "yùn yíng",
+    "m": "vận hành, điều hành",
+    "cat": "business"
+  },
+  {
+    "w": "战略",
+    "p": "zhàn lüè",
+    "m": "chiến lược",
+    "cat": "business"
+  },
+  {
+    "w": "竞争力",
+    "p": "jìng zhēng lì",
+    "m": "sức cạnh tranh",
+    "cat": "business"
+  },
+  {
+    "w": "创业",
+    "p": "chuàng yè",
+    "m": "khởi nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "创业者",
+    "p": "chuàng yè zhě",
+    "m": "doanh nhân khởi nghiệp",
+    "cat": "business"
+  },
+  {
+    "w": "行业",
+    "p": "háng yè",
+    "m": "ngành, lĩnh vực",
+    "cat": "business"
+  },
+  {
+    "w": "领域",
+    "p": "lǐng yù",
+    "m": "lĩnh vực, phạm vi",
+    "cat": "default"
+  },
+  {
+    "w": "范围",
+    "p": "fàn wéi",
+    "m": "phạm vi, tầm",
+    "cat": "default"
+  },
+  {
+    "w": "规模",
+    "p": "guī mó",
+    "m": "quy mô",
+    "cat": "default"
+  },
+  {
+    "w": "层次",
+    "p": "céng cì",
+    "m": "tầng lớp, cấp độ",
+    "cat": "default"
+  },
+  {
+    "w": "阶段",
+    "p": "jiē duàn",
+    "m": "giai đoạn",
+    "cat": "default"
+  },
+  {
+    "w": "步骤",
+    "p": "bù zhòu",
+    "m": "bước, bước đi",
+    "cat": "default"
+  },
+  {
+    "w": "程序",
+    "p": "chéng xù",
+    "m": "thủ tục, quy trình",
+    "cat": "default"
+  },
+  {
+    "w": "制度",
+    "p": "zhì dù",
+    "m": "chế độ, thể chế",
+    "cat": "politics"
+  },
+  {
+    "w": "体制",
+    "p": "tǐ zhì",
+    "m": "thể chế, cơ chế",
+    "cat": "politics"
+  },
+  {
+    "w": "机构",
+    "p": "jī gòu",
+    "m": "cơ quan, tổ chức",
+    "cat": "default"
+  },
+  {
+    "w": "部门",
+    "p": "bù mén",
+    "m": "bộ phận, phòng ban",
+    "cat": "work"
+  },
+  {
+    "w": "委员会",
+    "p": "wěi yuán huì",
+    "m": "ủy ban",
+    "cat": "politics"
+  },
+  {
+    "w": "代表",
+    "p": "dài biǎo",
+    "m": "đại biểu, đại diện",
+    "cat": "politics"
+  },
+  {
+    "w": "领导",
+    "p": "lǐng dǎo",
+    "m": "lãnh đạo",
+    "cat": "work"
+  },
+  {
+    "w": "主席",
+    "p": "zhǔ xí",
+    "m": "chủ tịch",
+    "cat": "politics"
+  },
+  {
+    "w": "总统",
+    "p": "zǒng tǒng",
+    "m": "tổng thống",
+    "cat": "politics"
+  },
+  {
+    "w": "官员",
+    "p": "guān yuán",
+    "m": "quan chức, cán bộ",
+    "cat": "politics"
+  },
+  {
+    "w": "公民",
+    "p": "gōng mín",
+    "m": "công dân",
+    "cat": "law"
+  },
+  {
+    "w": "民主",
+    "p": "mín zhǔ",
+    "m": "dân chủ",
+    "cat": "politics"
+  },
+  {
+    "w": "自由",
+    "p": "zì yóu",
+    "m": "tự do",
+    "cat": "default"
+  },
+  {
+    "w": "平等",
+    "p": "píng děng",
+    "m": "bình đẳng",
+    "cat": "default"
+  },
+  {
+    "w": "公平",
+    "p": "gōng píng",
+    "m": "công bằng",
+    "cat": "default"
+  },
+  {
+    "w": "正义",
+    "p": "zhèng yì",
+    "m": "công lý, chính nghĩa",
+    "cat": "philosophy"
+  },
+  {
+    "w": "道德",
+    "p": "dào dé",
+    "m": "đạo đức",
+    "cat": "philosophy"
+  },
+  {
+    "w": "诚信",
+    "p": "chéng xìn",
+    "m": "thành tín, trung thực",
+    "cat": "default"
+  },
+  {
+    "w": "信任",
+    "p": "xìn rèn",
+    "m": "tin tưởng",
+    "cat": "default"
+  },
+  {
+    "w": "尊重",
+    "p": "zūn zhòng",
+    "m": "tôn trọng",
+    "cat": "default"
+  },
+  {
+    "w": "谦虚",
+    "p": "qiān xū",
+    "m": "khiêm tốn",
+    "cat": "adjective"
+  },
+  {
+    "w": "勇气",
+    "p": "yǒng qì",
+    "m": "lòng dũng cảm, dũng khí",
+    "cat": "default"
+  },
+  {
+    "w": "毅力",
+    "p": "yì lì",
+    "m": "ý chí, nghị lực",
+    "cat": "default"
+  },
+  {
+    "w": "精神",
+    "p": "jīng shén",
+    "m": "tinh thần",
+    "cat": "default"
+  },
+  {
+    "w": "心态",
+    "p": "xīn tài",
+    "m": "tâm thái, thái độ tinh thần",
+    "cat": "emotion"
+  },
+  {
+    "w": "态度",
+    "p": "tài dù",
+    "m": "thái độ",
+    "cat": "default"
+  },
+  {
+    "w": "观念",
+    "p": "guān niàn",
+    "m": "quan niệm, khái niệm",
+    "cat": "default"
+  },
+  {
+    "w": "思想",
+    "p": "sī xiǎng",
+    "m": "tư tưởng, suy nghĩ",
+    "cat": "philosophy"
+  },
+  {
+    "w": "意识",
+    "p": "yì shí",
+    "m": "ý thức",
+    "cat": "philosophy"
+  },
+  {
+    "w": "观点",
+    "p": "guān diǎn",
+    "m": "quan điểm",
+    "cat": "default"
+  },
+  {
+    "w": "立场",
+    "p": "lì chǎng",
+    "m": "lập trường",
+    "cat": "default"
+  },
+  {
+    "w": "主张",
+    "p": "zhǔ zhāng",
+    "m": "chủ trương, đề xuất",
+    "cat": "verb"
+  },
+  {
+    "w": "倡导",
+    "p": "chàng dǎo",
+    "m": "xướng đề, vận động",
+    "cat": "verb"
+  },
+  {
+    "w": "提倡",
+    "p": "tí chàng",
+    "m": "đề xướng, khuyến khích",
+    "cat": "verb"
+  },
+  {
+    "w": "鼓励",
+    "p": "gǔ lì",
+    "m": "khuyến khích, động viên",
+    "cat": "verb"
+  },
+  {
+    "w": "激励",
+    "p": "jī lì",
+    "m": "kích thích, thúc đẩy",
+    "cat": "verb"
+  },
+  {
+    "w": "启发",
+    "p": "qǐ fā",
+    "m": "gợi mở, truyền cảm hứng",
+    "cat": "verb"
+  },
+  {
+    "w": "培养",
+    "p": "péi yǎng",
+    "m": "đào tạo, bồi dưỡng",
+    "cat": "verb"
+  },
+  {
+    "w": "教导",
+    "p": "jiào dǎo",
+    "m": "dạy dỗ, giáo dục",
+    "cat": "verb"
+  },
+  {
+    "w": "指导",
+    "p": "zhǐ dǎo",
+    "m": "hướng dẫn, chỉ đạo",
+    "cat": "verb"
+  },
+  {
+    "w": "帮助",
+    "p": "bāng zhù",
+    "m": "giúp đỡ",
+    "cat": "verb"
+  },
+  {
+    "w": "提供",
+    "p": "tí gōng",
+    "m": "cung cấp, đề xuất",
+    "cat": "verb"
+  },
+  {
+    "w": "获得",
+    "p": "huò dé",
+    "m": "đạt được, thu được",
+    "cat": "verb"
+  },
+  {
+    "w": "享受",
+    "p": "xiǎng shòu",
+    "m": "tận hưởng",
+    "cat": "verb"
+  },
+  {
+    "w": "体验",
+    "p": "tǐ yàn",
+    "m": "trải nghiệm",
+    "cat": "verb"
+  },
+  {
+    "w": "感受",
+    "p": "gǎn shòu",
+    "m": "cảm nhận",
+    "cat": "verb"
+  },
+  {
+    "w": "体会",
+    "p": "tǐ huì",
+    "m": "cảm nhận, thấu hiểu",
+    "cat": "verb"
+  },
+  {
+    "w": "意识到",
+    "p": "yì shí dào",
+    "m": "nhận ra, ý thức được",
+    "cat": "verb"
+  },
+  {
+    "w": "认为",
+    "p": "rèn wéi",
+    "m": "cho rằng, nghĩ rằng",
+    "cat": "verb"
+  },
+  {
+    "w": "相信",
+    "p": "xiāng xìn",
+    "m": "tin tưởng, tin vào",
+    "cat": "verb"
+  },
+  {
+    "w": "希望",
+    "p": "xī wàng",
+    "m": "hy vọng",
+    "cat": "verb"
+  },
+  {
+    "w": "期望",
+    "p": "qī wàng",
+    "m": "mong đợi, kỳ vọng",
+    "cat": "verb"
+  },
+  {
+    "w": "担心",
+    "p": "dān xīn",
+    "m": "lo lắng",
+    "cat": "emotion"
+  },
+  {
+    "w": "害怕",
+    "p": "hài pà",
+    "m": "sợ hãi",
+    "cat": "emotion"
+  },
+  {
+    "w": "惊讶",
+    "p": "jīng yà",
+    "m": "ngạc nhiên",
+    "cat": "emotion"
+  },
+  {
+    "w": "满意",
+    "p": "mǎn yì",
+    "m": "hài lòng",
+    "cat": "emotion"
+  },
+  {
+    "w": "失望",
+    "p": "shī wàng",
+    "m": "thất vọng",
+    "cat": "emotion"
+  },
+  {
+    "w": "兴趣",
+    "p": "xìng qù",
+    "m": "hứng thú, sở thích",
+    "cat": "emotion"
+  },
+  {
+    "w": "爱好",
+    "p": "ài hào",
+    "m": "sở thích, thú vui",
+    "cat": "default"
+  },
+  {
+    "w": "习惯",
+    "p": "xí guàn",
+    "m": "thói quen",
+    "cat": "default"
+  },
+  {
+    "w": "生活",
+    "p": "shēng huó",
+    "m": "cuộc sống, sinh hoạt",
+    "cat": "default"
+  },
+  {
+    "w": "生活方式",
+    "p": "shēng huó fāng shì",
+    "m": "lối sống",
+    "cat": "default"
+  },
+  {
+    "w": "工作方式",
+    "p": "gōng zuò fāng shì",
+    "m": "phương thức làm việc",
+    "cat": "work"
+  }
+]

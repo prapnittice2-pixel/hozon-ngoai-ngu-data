@@ -1,0 +1,3080 @@
+[
+  {
+    "w": "踟蹰",
+    "p": "chí chú",
+    "m": "do dự, lưỡng lự, đứng ngần ngại",
+    "cat": "hành động"
+  },
+  {
+    "w": "蹉跎",
+    "p": "cuō tuó",
+    "m": "lãng phí thời gian, bỏ phí tuổi xuân",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "嗫嚅",
+    "p": "niè rú",
+    "m": "lắp bắp, nói không rõ lời vì e ngại",
+    "cat": "hành động"
+  },
+  {
+    "w": "踌躇",
+    "p": "chóu chú",
+    "m": "do dự, chần chừ không quyết",
+    "cat": "hành động"
+  },
+  {
+    "w": "踯躅",
+    "p": "zhí zhú",
+    "m": "đi lại lưỡng lự, không tiến không lùi",
+    "cat": "hành động"
+  },
+  {
+    "w": "恻隐",
+    "p": "cè yǐn",
+    "m": "lòng trắc ẩn, sự thương xót",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "悱恻",
+    "p": "fěi cè",
+    "m": "buồn da diết, đau khổ sâu lắng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "惘然",
+    "p": "wǎng rán",
+    "m": "ngơ ngác, mất phương hướng, mơ hồ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "怆然",
+    "p": "chuàng rán",
+    "m": "đau thương, bi ai, xúc động",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "戚戚",
+    "p": "qī qī",
+    "m": "lo âu, bất an trong lòng",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "忐忑",
+    "p": "tǎn tè",
+    "m": "bồn chồn, lo lắng không yên",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "蹒跚",
+    "p": "pán shān",
+    "m": "đi chập choạng, bước loạng choạng",
+    "cat": "hành động"
+  },
+  {
+    "w": "踉跄",
+    "p": "liàng qiàng",
+    "m": "đi loạng choạng, vấp ngã",
+    "cat": "hành động"
+  },
+  {
+    "w": "逡巡",
+    "p": "qūn xún",
+    "m": "do dự không tiến lên, chần chừ",
+    "cat": "hành động"
+  },
+  {
+    "w": "徘徊",
+    "p": "pái huái",
+    "m": "đi đi lại lại, lưỡng lự",
+    "cat": "hành động"
+  },
+  {
+    "w": "缱绻",
+    "p": "qiǎn quǎn",
+    "m": "quyến luyến, vương vấn (tình cảm)",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "旖旎",
+    "p": "yǐ nǐ",
+    "m": "mềm mại yêu kiều, duyên dáng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "妩媚",
+    "p": "wǔ mèi",
+    "m": "dịu dàng quyến rũ, xinh đẹp duyên dáng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "婀娜",
+    "p": "ē nuó",
+    "m": "uyển chuyển, thướt tha",
+    "cat": "tính từ"
+  },
+  {
+    "w": "绰约",
+    "p": "chuò yuē",
+    "m": "mềm mại duyên dáng (dáng người phụ nữ)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "倜傥",
+    "p": "tì tǎng",
+    "m": "phong lưu tài hoa, hào hoa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "翩翩",
+    "p": "piān piān",
+    "m": "nhẹ nhàng, tao nhã, phong độ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "磊落",
+    "p": "lěi luò",
+    "m": "khảng khái, ngay thẳng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "峥嵘",
+    "p": "zhēng róng",
+    "m": "hùng vĩ, kiên cường, nổi bật",
+    "cat": "tính từ"
+  },
+  {
+    "w": "巉岩",
+    "p": "chán yán",
+    "m": "vách đá cheo leo, dốc đứng",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "嶙峋",
+    "p": "lín xún",
+    "m": "lởm chởm, gầy gò (người hoặc núi đá)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "逶迤",
+    "p": "wēi yí",
+    "m": "quanh co uốn khúc (đường, núi sông)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "潺潺",
+    "p": "chán chán",
+    "m": "tiếng nước chảy róc rách",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "淙淙",
+    "p": "cóng cóng",
+    "m": "tiếng nước chảy trong trẻo",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "澹澹",
+    "p": "dàn dàn",
+    "m": "gợn sóng nhẹ, yên bình",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "浩渺",
+    "p": "hào miǎo",
+    "m": "mênh mông bát ngát (biển, hồ)",
+    "cat": "thiên nhiên"
+  },
+  {
+    "w": "苍茫",
+    "p": "cāng máng",
+    "m": "mênh mông mờ mịt",
+    "cat": "tính từ"
+  },
+  {
+    "w": "寥廓",
+    "p": "liáo kuò",
+    "m": "rộng lớn trống trải",
+    "cat": "tính từ"
+  },
+  {
+    "w": "寥落",
+    "p": "liáo luò",
+    "m": "thưa thớt, tịch liêu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "寂寥",
+    "p": "jì liáo",
+    "m": "cô đơn, hiu quạnh",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "荒芜",
+    "p": "huāng wú",
+    "m": "hoang vu, bỏ hoang",
+    "cat": "tính từ"
+  },
+  {
+    "w": "萧瑟",
+    "p": "xiāo sè",
+    "m": "lạnh lẽo hiu hắt (gió thu, cảnh vật)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "凄清",
+    "p": "qī qīng",
+    "m": "lạnh lẽo, buồn bã, đìu hiu",
+    "cat": "tính từ"
+  },
+  {
+    "w": "凄凉",
+    "p": "qī liáng",
+    "m": "bi thương, thê lương",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "黯然",
+    "p": "àn rán",
+    "m": "u ám, buồn bã, sầu não",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "悠然",
+    "p": "yōu rán",
+    "m": "tự tại thư thái, an nhiên",
+    "cat": "tính từ"
+  },
+  {
+    "w": "怡然",
+    "p": "yí rán",
+    "m": "vui vẻ thỏa lòng, tự đắc",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "愀然",
+    "p": "qiǎo rán",
+    "m": "nét mặt biến sắc vì lo lắng/buồn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "愕然",
+    "p": "è rán",
+    "m": "kinh ngạc, sửng sốt",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "骇然",
+    "p": "hài rán",
+    "m": "giật mình kinh hãi",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "肃然",
+    "p": "sù rán",
+    "m": "kính phục, nghiêm trang",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "欣然",
+    "p": "xīn rán",
+    "m": "vui lòng, hân hoan",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "毅然",
+    "p": "yì rán",
+    "m": "cương quyết, dứt khoát",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "决然",
+    "p": "jué rán",
+    "m": "kiên quyết, nhất định",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "俨然",
+    "p": "yǎn rán",
+    "m": "nghiêm nghị, trang trọng; trông như thật",
+    "cat": "trạng từ"
+  },
+  {
+    "w": "蔚然",
+    "p": "wèi rán",
+    "m": "sum suê, phồn thịnh",
+    "cat": "tính từ"
+  },
+  {
+    "w": "蔚为大观",
+    "p": "wèi wéi dà guān",
+    "m": "trở thành cảnh tượng vĩ đại, hùng tráng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "洋洋大观",
+    "p": "yáng yáng dà guān",
+    "m": "phong phú đa dạng, tráng lệ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "琳琅满目",
+    "p": "lín láng mǎn mù",
+    "m": "đẹp đẽ, phong phú, nhìn đâu cũng thấy",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "美轮美奂",
+    "p": "měi lún měi huàn",
+    "m": "đẹp đẽ nguy nga tráng lệ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "富丽堂皇",
+    "p": "fù lì táng huáng",
+    "m": "lộng lẫy, nguy nga, tráng lệ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "金碧辉煌",
+    "p": "jīn bì huī huáng",
+    "m": "vàng ngọc rực rỡ, lộng lẫy",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "雕梁画栋",
+    "p": "diāo liáng huà dòng",
+    "m": "rường cột chạm khắc tinh xảo, kiến trúc hoa lệ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "鳞次栉比",
+    "p": "lín cì zhì bǐ",
+    "m": "san sát nhau như vảy cá, lớp lớp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "参差不齐",
+    "p": "cēn cī bù qí",
+    "m": "lởm chởm không đều, tham sai",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "高低不平",
+    "p": "gāo dī bù píng",
+    "m": "cao thấp không bằng phẳng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "犬牙交错",
+    "p": "quǎn yá jiāo cuò",
+    "m": "răng cưa xen kẽ, đan xen phức tạp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "盘根错节",
+    "p": "pán gēn cuò jié",
+    "m": "rễ cây rắc rối, phức tạp khó giải quyết",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "错综复杂",
+    "p": "cuò zōng fù zá",
+    "m": "phức tạp chằng chịt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "千丝万缕",
+    "p": "qiān sī wàn lǚ",
+    "m": "nghìn sợi muôn mối, liên hệ mật thiết",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "丝丝入扣",
+    "p": "sī sī rù kòu",
+    "m": "tỉ mỉ, ăn khớp từng chi tiết",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "环环相扣",
+    "p": "huán huán xiāng kòu",
+    "m": "mắt xích ăn khớp nhau, liên hoàn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "一脉相承",
+    "p": "yī mài xiāng chéng",
+    "m": "cùng một mạch truyền thừa, kế thừa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "薪火相传",
+    "p": "xīn huǒ xiāng chuán",
+    "m": "ngọn lửa truyền từ bó này sang bó khác, kế thừa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "一以贯之",
+    "p": "yī yǐ guàn zhī",
+    "m": "nhất quán từ đầu đến cuối",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "持之以恒",
+    "p": "chí zhī yǐ héng",
+    "m": "kiên trì bền bỉ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "锲而不舍",
+    "p": "qiè ér bù shě",
+    "m": "cần cù không bỏ cuộc, bền chí",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "坚韧不拔",
+    "p": "jiān rèn bù bá",
+    "m": "kiên cường bất khuất",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "百折不挠",
+    "p": "bǎi zhé bù náo",
+    "m": "trăm lần vấp ngã không nản lòng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "愈挫愈勇",
+    "p": "yù cuò yù yǒng",
+    "m": "càng thất bại càng dũng cảm hơn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "韬光养晦",
+    "p": "tāo guāng yǎng huì",
+    "m": "giấu tài chờ thời, ẩn mình tích lũy",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "厚积薄发",
+    "p": "hòu jī bó fā",
+    "m": "tích lũy nhiều rồi mới bùng phát",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "积淀",
+    "p": "jī diàn",
+    "m": "tích lũy lắng đọng (văn hóa, kiến thức)",
+    "cat": "học thuật"
+  },
+  {
+    "w": "底蕴",
+    "p": "dǐ yùn",
+    "m": "nội hàm sâu sắc, sức chứa tinh thần",
+    "cat": "học thuật"
+  },
+  {
+    "w": "内涵",
+    "p": "nèi hán",
+    "m": "nội hàm, ý nghĩa sâu sắc bên trong",
+    "cat": "học thuật"
+  },
+  {
+    "w": "精髓",
+    "p": "jīng suǐ",
+    "m": "tinh túy, cốt lõi",
+    "cat": "học thuật"
+  },
+  {
+    "w": "要旨",
+    "p": "yào zhǐ",
+    "m": "yếu chỉ, ý chính",
+    "cat": "học thuật"
+  },
+  {
+    "w": "纲领",
+    "p": "gāng lǐng",
+    "m": "cương lĩnh, nguyên tắc chủ đạo",
+    "cat": "chính trị"
+  },
+  {
+    "w": "准则",
+    "p": "zhǔn zé",
+    "m": "chuẩn tắc, nguyên tắc",
+    "cat": "học thuật"
+  },
+  {
+    "w": "规范",
+    "p": "guī fàn",
+    "m": "quy phạm, tiêu chuẩn",
+    "cat": "học thuật"
+  },
+  {
+    "w": "范畴",
+    "p": "fàn chóu",
+    "m": "phạm trù, lĩnh vực",
+    "cat": "học thuật"
+  },
+  {
+    "w": "维度",
+    "p": "wéi dù",
+    "m": "chiều kích, khía cạnh",
+    "cat": "học thuật"
+  },
+  {
+    "w": "视域",
+    "p": "shì yù",
+    "m": "tầm nhìn, phạm vi nhìn nhận",
+    "cat": "học thuật"
+  },
+  {
+    "w": "语境",
+    "p": "yǔ jìng",
+    "m": "ngữ cảnh, bối cảnh ngôn ngữ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "诠释",
+    "p": "quán shì",
+    "m": "diễn giải, chú thích, lý giải",
+    "cat": "học thuật"
+  },
+  {
+    "w": "阐释",
+    "p": "chǎn shì",
+    "m": "giải thích, làm rõ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "阐发",
+    "p": "chǎn fā",
+    "m": "phát huy, làm sáng tỏ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "阐述",
+    "p": "chǎn shù",
+    "m": "trình bày, giải thích rõ ràng",
+    "cat": "học thuật"
+  },
+  {
+    "w": "剖析",
+    "p": "pōu xī",
+    "m": "phân tích, mổ xẻ",
+    "cat": "học thuật"
+  },
+  {
+    "w": "辨析",
+    "p": "biàn xī",
+    "m": "phân biệt và phân tích",
+    "cat": "học thuật"
+  },
+  {
+    "w": "甄别",
+    "p": "zhēn bié",
+    "m": "thẩm định, phân biệt thật giả",
+    "cat": "hành động"
+  },
+  {
+    "w": "甄选",
+    "p": "zhēn xuǎn",
+    "m": "tuyển chọn kỹ lưỡng",
+    "cat": "hành động"
+  },
+  {
+    "w": "遴选",
+    "p": "lín xuǎn",
+    "m": "tuyển lựa (nhân tài, ứng viên)",
+    "cat": "hành động"
+  },
+  {
+    "w": "遴用",
+    "p": "lín yòng",
+    "m": "tuyển dụng, bổ dụng",
+    "cat": "công việc"
+  },
+  {
+    "w": "擢升",
+    "p": "zhuó shēng",
+    "m": "đề bạt, thăng chức đặc cách",
+    "cat": "công việc"
+  },
+  {
+    "w": "黜免",
+    "p": "chù miǎn",
+    "m": "cách chức, miễn nhiệm",
+    "cat": "chính trị"
+  },
+  {
+    "w": "罢黜",
+    "p": "bà chù",
+    "m": "bãi truất, phế bỏ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "废黜",
+    "p": "fèi chù",
+    "m": "phế truất, lật đổ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "禅让",
+    "p": "shàn ràng",
+    "m": "nhường ngôi, chuyển giao quyền lực hòa bình",
+    "cat": "chính trị"
+  },
+  {
+    "w": "揖让",
+    "p": "yī ràng",
+    "m": "vái chào và nhường nhịn (lễ nghi cổ)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "礼让",
+    "p": "lǐ ràng",
+    "m": "lịch sự nhường nhịn",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "谦逊",
+    "p": "qiān xùn",
+    "m": "khiêm tốn, nhún nhường",
+    "cat": "tính từ"
+  },
+  {
+    "w": "谦恭",
+    "p": "qiān gōng",
+    "m": "khiêm nhường, cung kính",
+    "cat": "tính từ"
+  },
+  {
+    "w": "恭谦",
+    "p": "gōng qiān",
+    "m": "cung kính khiêm tốn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "敦厚",
+    "p": "dūn hòu",
+    "m": "chân thực hậu đạo, hiền lành chất phác",
+    "cat": "tính từ"
+  },
+  {
+    "w": "笃实",
+    "p": "dǔ shí",
+    "m": "chân thực, thực tâm",
+    "cat": "tính từ"
+  },
+  {
+    "w": "笃定",
+    "p": "dǔ dìng",
+    "m": "vững chắc, kiên định",
+    "cat": "tính từ"
+  },
+  {
+    "w": "笃行",
+    "p": "dǔ xíng",
+    "m": "thực hành nghiêm túc, thực chứng",
+    "cat": "hành động"
+  },
+  {
+    "w": "躬行",
+    "p": "gōng xíng",
+    "m": "tự mình thực hành",
+    "cat": "hành động"
+  },
+  {
+    "w": "躬耕",
+    "p": "gōng gēng",
+    "m": "tự tay cày cấy, sống bình dị",
+    "cat": "hành động"
+  },
+  {
+    "w": "隐逸",
+    "p": "yǐn yì",
+    "m": "ở ẩn, thoát tục",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "超然",
+    "p": "chāo rán",
+    "m": "siêu thoát, vượt ra ngoài",
+    "cat": "tính từ"
+  },
+  {
+    "w": "澹泊",
+    "p": "dàn bó",
+    "m": "thanh đạm, không màng danh lợi",
+    "cat": "tính từ"
+  },
+  {
+    "w": "淡泊名利",
+    "p": "dàn bó míng lì",
+    "m": "không màng danh lợi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "宁静致远",
+    "p": "níng jìng zhì yuǎn",
+    "m": "bình tĩnh sẽ đi được xa, tĩnh mà chí cao",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "淡然处之",
+    "p": "dàn rán chǔ zhī",
+    "m": "bình thản đối xử, không để ý",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "随遇而安",
+    "p": "suí yù ér ān",
+    "m": "thuận theo hoàn cảnh mà sống yên",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "安之若素",
+    "p": "ān zhī ruò sù",
+    "m": "coi bình thường như cũ, bình thản",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "泰然处之",
+    "p": "tài rán chǔ zhī",
+    "m": "thản nhiên đối mặt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "处变不惊",
+    "p": "chǔ biàn bù jīng",
+    "m": "gặp biến không kinh, bình tĩnh trước thay đổi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "临危不惧",
+    "p": "lín wēi bù jù",
+    "m": "lâm nguy không sợ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "视死如归",
+    "p": "shì sǐ rú guī",
+    "m": "coi cái chết nhẹ như trở về nhà",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "舍生取义",
+    "p": "shě shēng qǔ yì",
+    "m": "bỏ thân lấy nghĩa, hi sinh vì đạo nghĩa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "杀身成仁",
+    "p": "shā shēn chéng rén",
+    "m": "hi sinh thân mình để thành tựu nhân nghĩa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "成仁取义",
+    "p": "chéng rén qǔ yì",
+    "m": "thành nhân nghĩa (chết vì lý tưởng cao đẹp)",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "浩然正气",
+    "p": "hào rán zhèng qì",
+    "m": "khí phách ngay thẳng hào hùng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "铮铮铁骨",
+    "p": "zhēng zhēng tiě gǔ",
+    "m": "khí phách kiên cứng như thép",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "铁骨铮铮",
+    "p": "tiě gǔ zhēng zhēng",
+    "m": "cốt cách kiên cường, bất khuất",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "不屈不挠",
+    "p": "bù qū bù náo",
+    "m": "bất khuất, không chịu khuất phục",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "宁死不屈",
+    "p": "nìng sǐ bù qū",
+    "m": "thà chết không chịu khuất phục",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "不卑不亢",
+    "p": "bù bēi bù kàng",
+    "m": "không hèn không kiêu, đĩnh đạc",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "不亢不卑",
+    "p": "bù kàng bù bēi",
+    "m": "không kiêu không hèn, đúng mức",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "刚柔相济",
+    "p": "gāng róu xiāng jì",
+    "m": "cứng mềm bổ sung cho nhau",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "外柔内刚",
+    "p": "wài róu nèi gāng",
+    "m": "bên ngoài mềm mỏng, bên trong cứng rắn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "绵里藏针",
+    "p": "mián lǐ cáng zhēn",
+    "m": "bông mềm giấu kim, ngoài hiền trong sắc",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "温文尔雅",
+    "p": "wēn wén ěr yǎ",
+    "m": "ôn nhu thanh nhã, hiền lành lịch sự",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "文质彬彬",
+    "p": "wén zhì bīn bīn",
+    "m": "văn vẻ tao nhã, lịch sự",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "彬彬有礼",
+    "p": "bīn bīn yǒu lǐ",
+    "m": "lịch sự tao nhã, văn minh",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "落落大方",
+    "p": "luò luò dà fāng",
+    "m": "phóng khoáng tự nhiên, không câu nệ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "举止得体",
+    "p": "jǔ zhǐ dé tǐ",
+    "m": "cử chỉ đúng mực, phù hợp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "进退有度",
+    "p": "jìn tuì yǒu dù",
+    "m": "tiến lui đúng mực",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "恰如其分",
+    "p": "qià rú qí fèn",
+    "m": "vừa đủ, đúng mức, thích hợp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "恰到好处",
+    "p": "qià dào hǎo chù",
+    "m": "vừa vặn đúng chỗ, đúng lúc",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "画龙点睛",
+    "p": "huà lóng diǎn jīng",
+    "m": "vẽ rồng chấm mắt, điểm then chốt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "点石成金",
+    "p": "diǎn shí chéng jīn",
+    "m": "điểm đá thành vàng, biến tầm thường thành xuất sắc",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "化腐朽为神奇",
+    "p": "huà fǔ xiǔ wéi shén qí",
+    "m": "biến mục nát thành kỳ diệu",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "妙手回春",
+    "p": "miào shǒu huí chūn",
+    "m": "tay nghề kỳ diệu cứu sống người, tài ba xuất chúng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "药到病除",
+    "p": "yào dào bìng chú",
+    "m": "thuốc vào bệnh hết, giải quyết triệt để",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "对症下药",
+    "p": "duì zhèng xià yào",
+    "m": "đối chứng dùng thuốc, giải quyết đúng vấn đề",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "治本",
+    "p": "zhì běn",
+    "m": "trị tận gốc, giải quyết căn bản",
+    "cat": "hành động"
+  },
+  {
+    "w": "标本兼治",
+    "p": "biāo běn jiān zhì",
+    "m": "trị cả ngọn lẫn gốc",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "釜底抽薪",
+    "p": "fǔ dǐ chōu xīn",
+    "m": "rút củi đáy nồi, giải quyết tận gốc",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "扬汤止沸",
+    "p": "yáng tāng zhǐ fèi",
+    "m": "múc canh đổ đi để ngừng sôi, chỉ giải quyết bề mặt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "隔靴搔痒",
+    "p": "gé xuē sāo yǎng",
+    "m": "gãi ngứa cách giày, không đúng chỗ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "不痛不痒",
+    "p": "bù tòng bù yǎng",
+    "m": "không đau không ngứa, không đúng trọng tâm",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "隔岸观火",
+    "p": "gé àn guān huǒ",
+    "m": "đứng bờ bên kia xem lửa cháy, bàng quan",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "袖手旁观",
+    "p": "xiù shǒu páng guān",
+    "m": "khoanh tay đứng nhìn, không can thiệp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "冷眼旁观",
+    "p": "lěng yǎn páng guān",
+    "m": "nhìn lạnh lùng, thờ ơ đứng ngoài",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "置之度外",
+    "p": "zhì zhī dù wài",
+    "m": "gạt ra ngoài, không quan tâm",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "漠然置之",
+    "p": "mò rán zhì zhī",
+    "m": "thờ ơ coi như không",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "漠视",
+    "p": "mò shì",
+    "m": "thờ ơ, không để ý",
+    "cat": "hành động"
+  },
+  {
+    "w": "轻视",
+    "p": "qīng shì",
+    "m": "khinh thường, xem thường",
+    "cat": "hành động"
+  },
+  {
+    "w": "蔑视",
+    "p": "miè shì",
+    "m": "khinh bỉ, coi thường",
+    "cat": "hành动"
+  },
+  {
+    "w": "鄙视",
+    "p": "bǐ shì",
+    "m": "khinh bỉ",
+    "cat": "hành động"
+  },
+  {
+    "w": "嗤之以鼻",
+    "p": "chī zhī yǐ bí",
+    "m": "khinh bỉ, phẩy mũi xem thường",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "嗤笑",
+    "p": "chī xiào",
+    "m": "cười nhạo, cười khinh bỉ",
+    "cat": "hành động"
+  },
+  {
+    "w": "嘲讽",
+    "p": "cháo fěng",
+    "m": "chế nhạo, châm biếm",
+    "cat": "hành động"
+  },
+  {
+    "w": "讥讽",
+    "p": "jī fěng",
+    "m": "mỉa mai, châm biếm",
+    "cat": "hành động"
+  },
+  {
+    "w": "讥诮",
+    "p": "jī qiào",
+    "m": "chế giễu, mỉa mai",
+    "cat": "hành động"
+  },
+  {
+    "w": "诟病",
+    "p": "gòu bìng",
+    "m": "chỉ trích, phê phán gay gắt",
+    "cat": "hành động"
+  },
+  {
+    "w": "斥责",
+    "p": "chì zé",
+    "m": "quở trách, mắng nhiếc",
+    "cat": "hành động"
+  },
+  {
+    "w": "训诫",
+    "p": "xùn jiè",
+    "m": "dạy bảo, khuyên răn nghiêm khắc",
+    "cat": "hành động"
+  },
+  {
+    "w": "苦口婆心",
+    "p": "kǔ kǒu pó xīn",
+    "m": "khuyên nhủ ân cần hết lòng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "循循善诱",
+    "p": "xún xún shàn yòu",
+    "m": "dần dần khéo léo dẫn dắt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "诲人不倦",
+    "p": "huì rén bù juàn",
+    "m": "dạy người không biết mệt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "言传身教",
+    "p": "yán chuán shēn jiào",
+    "m": "dạy bằng lời và làm gương",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "身体力行",
+    "p": "shēn tǐ lì xíng",
+    "m": "tự thân thực hành, làm gương",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "以身作则",
+    "p": "yǐ shēn zuò zé",
+    "m": "lấy thân làm gương",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "率先垂范",
+    "p": "shuài xiān chuí fàn",
+    "m": "đi đầu nêu gương",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "垂范后世",
+    "p": "chuí fàn hòu shì",
+    "m": "nêu gương cho đời sau",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "流芳百世",
+    "p": "liú fāng bǎi shì",
+    "m": "lưu danh thơm trăm đời",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "遗臭万年",
+    "p": "yí chòu wàn nián",
+    "m": "để tiếng xấu muôn năm",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "千古留名",
+    "p": "qiān gǔ liú míng",
+    "m": "lưu tên muôn đời",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "彪炳史册",
+    "p": "biāo bǐng shǐ cè",
+    "m": "ghi công tích vào sử sách rực rỡ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "载入史册",
+    "p": "zài rù shǐ cè",
+    "m": "được ghi vào sử sách",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "千秋功过",
+    "p": "qiān qiū gōng guò",
+    "m": "công tội ngàn năm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "盖棺论定",
+    "p": "gài guān lùn dìng",
+    "m": "đóng nắp quan tài mới định được (nhận định sau khi chết)",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "盖棺定论",
+    "p": "gài guān dìng lùn",
+    "m": "sau khi chết mới có kết luận cuối cùng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "盖世英雄",
+    "p": "gài shì yīng xióng",
+    "m": "anh hùng vô song, bậc nhất thiên hạ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "旷世奇才",
+    "p": "kuàng shì qí cái",
+    "m": "tài năng hiếm có xưa nay",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "旷世之作",
+    "p": "kuàng shì zhī zuò",
+    "m": "tác phẩm vô song, kiệt tác",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "传世之作",
+    "p": "chuán shì zhī zuò",
+    "m": "tác phẩm truyền đời",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "不朽之作",
+    "p": "bù xiǔ zhī zuò",
+    "m": "tác phẩm bất hủ",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "千古绝唱",
+    "p": "qiān gǔ jué chàng",
+    "m": "bài ca tuyệt vời ngàn đời, kiệt tác",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "绝世之才",
+    "p": "jué shì zhī cái",
+    "m": "tài năng tuyệt thế",
+    "cat": "tính từ"
+  },
+  {
+    "w": "惊才绝艳",
+    "p": "jīng cái jué yàn",
+    "m": "tài năng xuất chúng lộng lẫy",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "才华横溢",
+    "p": "cái huá héng yì",
+    "m": "tài hoa dào dạt, tài năng phong phú",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "博学多才",
+    "p": "bó xué duō cái",
+    "m": "học rộng đa tài",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "学富五车",
+    "p": "xué fù wǔ chē",
+    "m": "học vấn uyên bác (sách đầy năm xe)",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "满腹经纶",
+    "p": "mǎn fù jīng lún",
+    "m": "đầy bụng kinh luân, uyên bác",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "胸有成竹",
+    "p": "xiōng yǒu chéng zhú",
+    "m": "trong lòng đã có kế hoạch sẵn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "运筹帷幄",
+    "p": "yùn chóu wéi wò",
+    "m": "mưu tính trong màn trướng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "决胜千里",
+    "p": "jué shèng qiān lǐ",
+    "m": "quyết chiến từ xa nghìn dặm",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "料事如神",
+    "p": "liào shì rú shén",
+    "m": "liệu việc như thần, tiên đoán chuẩn xác",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "先见之明",
+    "p": "xiān jiàn zhī míng",
+    "m": "tầm nhìn xa trông rộng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "高瞻远瞩",
+    "p": "gāo zhān yuǎn zhǔ",
+    "m": "nhìn xa trông rộng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "深谋远虑",
+    "p": "shēn móu yuǎn lǜ",
+    "m": "mưu sâu tính xa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "深思熟虑",
+    "p": "shēn sī shú lǜ",
+    "m": "suy nghĩ kỹ lưỡng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "殚精竭虑",
+    "p": "dān jīng jié lǜ",
+    "m": "hao tâm tổn sức, dồn hết tâm sức",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "呕心沥血",
+    "p": "ǒu xīn lì xuè",
+    "m": "dốc lòng, thổ huyết tâm huyết",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "鞠躬尽瘁",
+    "p": "jū gōng jìn cuì",
+    "m": "cúi mình tận tụy đến hơi thở cuối",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "死而后已",
+    "p": "sǐ ér hòu yǐ",
+    "m": "cho đến khi chết mới thôi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "鞠躬尽瘁死而后已",
+    "p": "jū gōng jìn cuì sǐ ér hòu yǐ",
+    "m": "cống hiến đến hơi thở cuối cùng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "忠贞不渝",
+    "p": "zhōng zhēn bù yú",
+    "m": "trung trinh bất biến",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "矢志不渝",
+    "p": "shǐ zhì bù yú",
+    "m": "chí hướng không thay đổi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "始终如一",
+    "p": "shǐ zhōng rú yī",
+    "m": "đầu cuối như một, nhất quán",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "表里如一",
+    "p": "biǎo lǐ rú yī",
+    "m": "bề ngoài bề trong như nhau, thành thật",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "言行一致",
+    "p": "yán xíng yī zhì",
+    "m": "lời nói việc làm nhất quán",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "言行相符",
+    "p": "yán xíng xiāng fú",
+    "m": "lời nói phù hợp với hành động",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "名副其实",
+    "p": "míng fù qí shí",
+    "m": "danh xứng với thực chất",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "名不副实",
+    "p": "míng bù fù shí",
+    "m": "danh không xứng thực",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "徒有虚名",
+    "p": "tú yǒu xū míng",
+    "m": "chỉ có danh hão",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "空有其名",
+    "p": "kōng yǒu qí míng",
+    "m": "chỉ có tên không có thực chất",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "名存实亡",
+    "p": "míng cún shí wáng",
+    "m": "danh còn thực đã mất",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "徒劳无功",
+    "p": "tú láo wú gōng",
+    "m": "mất công vô ích",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "无济于事",
+    "p": "wú jì yú shì",
+    "m": "không giúp ích gì",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "于事无补",
+    "p": "yú shì wú bǔ",
+    "m": "không bù đắp được gì",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "无能为力",
+    "p": "wú néng wéi lì",
+    "m": "không có khả năng làm gì",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "束手无策",
+    "p": "shù shǒu wú cè",
+    "m": "bó tay không có kế",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "一筹莫展",
+    "p": "yī chóu mò zhǎn",
+    "m": "không có mưu kế nào",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "进退两难",
+    "p": "jìn tuì liǎng nán",
+    "m": "tiến thoái lưỡng nan",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "左右为难",
+    "p": "zuǒ yòu wéi nán",
+    "m": "trái phải đều khó",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "骑虎难下",
+    "p": "qí hǔ nán xià",
+    "m": "cưỡi hổ khó xuống, đã lỡ không thể dừng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "骑虎之势",
+    "p": "qí hǔ zhī shì",
+    "m": "thế cưỡi hổ, không thể dừng được",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "覆水难收",
+    "p": "fù shuǐ nán shōu",
+    "m": "nước đổ khó hốt lại, sự đã rồi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "木已成舟",
+    "p": "mù yǐ chéng zhōu",
+    "m": "thuyền đã thành hình, sự đã quyết",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "既成事实",
+    "p": "jì chéng shì shí",
+    "m": "sự đã rồi, việc đã xong",
+    "cat": "học thuật"
+  },
+  {
+    "w": "无可奈何",
+    "p": "wú kě nài hé",
+    "m": "không thể làm gì được, đành chịu",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "听天由命",
+    "p": "tīng tiān yóu mìng",
+    "m": "nghe trời định mệnh, tùy duyên",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "自怨自艾",
+    "p": "zì yuàn zì yì",
+    "m": "tự trách tự hối, tự ăn năn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "悔不当初",
+    "p": "huǐ bù dāng chū",
+    "m": "hối hận về việc đã làm",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "追悔莫及",
+    "p": "zhuī huǐ mò jí",
+    "m": "hối hận không kịp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "亡羊补牢",
+    "p": "wáng yáng bǔ láo",
+    "m": "mất dê mới vá chuồng, muộn còn hơn không",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "亡羊补牢犹未晚也",
+    "p": "wáng yáng bǔ láo yóu wèi wǎn yě",
+    "m": "mất dê rồi mới sửa chuồng, vẫn chưa muộn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "前车之鉴",
+    "p": "qián chē zhī jiàn",
+    "m": "gương của người đi trước",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "殷鉴不远",
+    "p": "yīn jiàn bù yuǎn",
+    "m": "gương Ân chẳng xa, bài học nhãn tiền",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "引以为戒",
+    "p": "yǐn yǐ wéi jiè",
+    "m": "lấy đó làm bài học răn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "以史为镜",
+    "p": "yǐ shǐ wéi jìng",
+    "m": "lấy lịch sử làm gương",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "史鉴",
+    "p": "shǐ jiàn",
+    "m": "gương soi lịch sử",
+    "cat": "học thuật"
+  },
+  {
+    "w": "鉴古知今",
+    "p": "jiàn gǔ zhī jīn",
+    "m": "nhìn xưa biết nay",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "温故知新",
+    "p": "wēn gù zhī xīn",
+    "m": "ôn cũ biết mới",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "融会贯通",
+    "p": "róng huì guàn tōng",
+    "m": "hiểu thấu suốt, thông suốt toàn bộ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "举一反三",
+    "p": "jǔ yī fǎn sān",
+    "m": "nêu một suy ra ba, thông minh suy luận",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "触类旁通",
+    "p": "chù lèi páng tōng",
+    "m": "tiếp cận loại này thông loại kia",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "博古通今",
+    "p": "bó gǔ tōng jīn",
+    "m": "thông hiểu xưa và nay",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "通古博今",
+    "p": "tōng gǔ bó jīn",
+    "m": "hiểu biết rộng xưa và nay",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "贯通中西",
+    "p": "guàn tōng zhōng xī",
+    "m": "thông suốt Đông Tây",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "中西合璧",
+    "p": "zhōng xī hé bì",
+    "m": "Đông Tây kết hợp tinh hoa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "取长补短",
+    "p": "qǔ cháng bǔ duǎn",
+    "m": "lấy dài bù ngắn, học hỏi điểm mạnh người khác",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "相辅相成",
+    "p": "xiāng fǔ xiāng chéng",
+    "m": "bổ sung nhau, hỗ trợ lẫn nhau",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "珠联璧合",
+    "p": "zhū lián bì hé",
+    "m": "ngọc trai kết hợp bích ngọc, hoàn hảo",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "天衣无缝",
+    "p": "tiān yī wú fèng",
+    "m": "áo tiên không có đường may, hoàn hảo không khiếm khuyết",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "无懈可击",
+    "p": "wú xiè kě jī",
+    "m": "không có chỗ nào có thể công kích",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "无可挑剔",
+    "p": "wú kě tiāo tī",
+    "m": "không có gì để chê",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "无与伦比",
+    "p": "wú yǔ lún bǐ",
+    "m": "không gì sánh bằng, vô song",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "首屈一指",
+    "p": "shǒu qū yī zhǐ",
+    "m": "đứng đầu, nhất trong số",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "出类拔萃",
+    "p": "chū lèi bá cuì",
+    "m": "vượt trội hơn đám đông",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "鹤立鸡群",
+    "p": "hè lì jī qún",
+    "m": "hạc đứng trong đàn gà, nổi bật",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "卓尔不群",
+    "p": "zhuó ěr bù qún",
+    "m": "xuất sắc không ai sánh bằng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "超群绝伦",
+    "p": "chāo qún jué lún",
+    "m": "siêu việt, không ai sánh kịp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "冠绝一时",
+    "p": "guàn jué yī shí",
+    "m": "đứng đầu một thời",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "独步天下",
+    "p": "dú bù tiān xià",
+    "m": "một mình độc bộ thiên hạ, vô song",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "独树一帜",
+    "p": "dú shù yī zhì",
+    "m": "một mình trương cờ, độc lập phong cách",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "自成一家",
+    "p": "zì chéng yī jiā",
+    "m": "tự lập thành phong cách riêng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "别开生面",
+    "p": "bié kāi shēng miàn",
+    "m": "mở ra cục diện mới, sáng tạo",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "推陈出新",
+    "p": "tuī chén chū xīn",
+    "m": "loại bỏ cũ tạo ra mới, cách tân",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "革故鼎新",
+    "p": "gé gù dǐng xīn",
+    "m": "cải cách cũ lập ra mới",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "除旧布新",
+    "p": "chú jiù bù xīn",
+    "m": "xóa bỏ cũ bày ra mới",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "破旧立新",
+    "p": "pò jiù lì xīn",
+    "m": "phá cũ xây mới",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "百废俱兴",
+    "p": "bǎi fèi jù xīng",
+    "m": "trăm điều bỏ phế đều được phục hưng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "欣欣向荣",
+    "p": "xīn xīn xiàng róng",
+    "m": "phát triển hưng thịnh, tươi tốt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "蒸蒸日上",
+    "p": "zhēng zhēng rì shàng",
+    "m": "ngày càng phát triển",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "日新月异",
+    "p": "rì xīn yuè yì",
+    "m": "ngày càng đổi mới, tiến bộ nhanh chóng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "与日俱增",
+    "p": "yǔ rì jù zēng",
+    "m": "tăng theo từng ngày",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "突飞猛进",
+    "p": "tū fēi měng jìn",
+    "m": "tiến triển nhanh chóng mạnh mẽ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "一日千里",
+    "p": "yī rì qiān lǐ",
+    "m": "một ngày nghìn dặm, tiến bộ rất nhanh",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "一鸣惊人",
+    "p": "yī míng jīng rén",
+    "m": "một tiếng kêu làm người kinh ngạc, nổi danh đột ngột",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "一飞冲天",
+    "p": "yī fēi chōng tiān",
+    "m": "một bay vút trời, thành công đột ngột",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "扶摇直上",
+    "p": "fú yáo zhí shàng",
+    "m": "bay thẳng lên cao (theo gió lốc)",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "平步青云",
+    "p": "píng bù qīng yún",
+    "m": "thẳng bước lên mây xanh, thăng tiến nhanh",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "青云直上",
+    "p": "qīng yún zhí shàng",
+    "m": "thẳng tiến lên mây xanh, thăng tiến vun vút",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "功成名就",
+    "p": "gōng chéng míng jiù",
+    "m": "thành danh lập nghiệp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "大功告成",
+    "p": "dà gōng gào chéng",
+    "m": "đại công cáo thành, thành công",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "旗开得胜",
+    "p": "qí kāi dé shèng",
+    "m": "cờ mở đã thắng, khởi đầu thuận lợi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "马到成功",
+    "p": "mǎ dào chéng gōng",
+    "m": "ngựa đến là thành công",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "势如破竹",
+    "p": "shì rú pò zhú",
+    "m": "thế như chẻ tre, không thể cản",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "势不可挡",
+    "p": "shì bù kě dǎng",
+    "m": "thế không thể ngăn cản",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "锐不可当",
+    "p": "ruì bù kě dāng",
+    "m": "khí thế sắc bén không ai dừng được",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "所向披靡",
+    "p": "suǒ xiàng pī mǐ",
+    "m": "đâu đến đều đánh bại hết",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "战无不胜",
+    "p": "zhàn wú bù shèng",
+    "m": "đánh không thua trận nào",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "攻无不克",
+    "p": "gōng wú bù kè",
+    "m": "đánh không thành nào không lấy được",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "百战百胜",
+    "p": "bǎi zhàn bǎi shèng",
+    "m": "trăm trận trăm thắng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "知己知彼",
+    "p": "zhī jǐ zhī bǐ",
+    "m": "biết mình biết người",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "百战不殆",
+    "p": "bǎi zhàn bù dài",
+    "m": "trăm trận không bại",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "上兵伐谋",
+    "p": "shàng bīng fá móu",
+    "m": "quân thượng sách dùng mưu kế",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "不战而屈人之兵",
+    "p": "bù zhàn ér qū rén zhī bīng",
+    "m": "không đánh mà khuất phục quân địch",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "不教而诛",
+    "p": "bù jiào ér zhū",
+    "m": "không dạy mà giết, tàn nhẫn vô lý",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "苛政猛于虎",
+    "p": "kē zhèng měng yú hǔ",
+    "m": "chính sách hà khắc hung dữ hơn hổ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "民贵君轻",
+    "p": "mín guì jūn qīng",
+    "m": "dân quý vua nhẹ, dân là trọng",
+    "cat": "chính trị"
+  },
+  {
+    "w": "民惟邦本",
+    "p": "mín wéi bāng běn",
+    "m": "dân là gốc của nước",
+    "cat": "chính trị"
+  },
+  {
+    "w": "水能载舟亦能覆舟",
+    "p": "shuǐ néng zài zhōu yì néng fù zhōu",
+    "m": "nước có thể chở thuyền cũng có thể lật thuyền",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "得民心者得天下",
+    "p": "dé mín xīn zhě dé tiān xià",
+    "m": "được lòng dân thì được thiên hạ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "天下兴亡匹夫有责",
+    "p": "tiān xià xīng wáng pǐ fū yǒu zé",
+    "m": "hưng vong thiên hạ, thường dân đều có trách nhiệm",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "忧国忧民",
+    "p": "yōu guó yōu mín",
+    "m": "lo cho nước lo cho dân",
+    "cat": "chính trị"
+  },
+  {
+    "w": "济世安民",
+    "p": "jì shì ān mín",
+    "m": "cứu đời an dân",
+    "cat": "chính trị"
+  },
+  {
+    "w": "经世致用",
+    "p": "jīng shì zhì yòng",
+    "m": "học vấn phải ứng dụng được trong thực tế",
+    "cat": "học thuật"
+  },
+  {
+    "w": "致仕",
+    "p": "zhì shì",
+    "m": "từ quan về hưu (từ cổ)",
+    "cat": "chính trị"
+  },
+  {
+    "w": "致政",
+    "p": "zhì zhèng",
+    "m": "giải trừ chức vụ về hưu",
+    "cat": "chính trị"
+  },
+  {
+    "w": "入仕",
+    "p": "rù shì",
+    "m": "bước vào con đường làm quan",
+    "cat": "chính trị"
+  },
+  {
+    "w": "仕途",
+    "p": "shì tú",
+    "m": "đường hoạn lộ, con đường làm quan",
+    "cat": "chính trị"
+  },
+  {
+    "w": "宦海沉浮",
+    "p": "huàn hǎi chén fú",
+    "m": "nổi chìm trên biển quan trường",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "官场",
+    "p": "guān chǎng",
+    "m": "quan trường, môi trường quan liêu",
+    "cat": "chính trị"
+  },
+  {
+    "w": "腐败",
+    "p": "fǔ bài",
+    "m": "tham nhũng, mục ruỗng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "廉洁奉公",
+    "p": "lián jié fèng gōng",
+    "m": "liêm khiết phụng công",
+    "cat": "chính trị"
+  },
+  {
+    "w": "勤政为民",
+    "p": "qín zhèng wéi mín",
+    "m": "cần cù trị quốc vì dân",
+    "cat": "chính trị"
+  },
+  {
+    "w": "鞠躬",
+    "p": "jū gōng",
+    "m": "cúi chào, kính trọng",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "揖",
+    "p": "yī",
+    "m": "vái tay chào (lễ nghi cổ)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "拱手",
+    "p": "gǒng shǒu",
+    "m": "chắp tay trước ngực (lễ nghi Trung Hoa)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "叩首",
+    "p": "kòu shǒu",
+    "m": "quỳ lạy đầu chạm đất",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "三跪九叩",
+    "p": "sān guì jiǔ kòu",
+    "m": "ba quỳ chín lạy (đại lễ cổ)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "执礼甚恭",
+    "p": "zhí lǐ shèn gōng",
+    "m": "thực hiện lễ nghi rất cung kính",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "礼数",
+    "p": "lǐ shù",
+    "m": "lễ nghi, phép tắc",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "礼仪之邦",
+    "p": "lǐ yí zhī bāng",
+    "m": "nước lễ nghĩa, văn minh",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "礼崩乐坏",
+    "p": "lǐ bēng yuè huài",
+    "m": "lễ nhạc sụp đổ, xã hội loạn lạc",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "克己复礼",
+    "p": "kè jǐ fù lǐ",
+    "m": "kiềm chế bản thân, khôi phục lễ nghi",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "仁义礼智信",
+    "p": "rén yì lǐ zhì xìn",
+    "m": "nhân nghĩa lễ trí tín (ngũ thường Nho giáo)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "格物致知",
+    "p": "gé wù zhì zhī",
+    "m": "tìm hiểu sự vật để đạt tri thức",
+    "cat": "học thuật"
+  },
+  {
+    "w": "诚意正心",
+    "p": "chéng yì zhèng xīn",
+    "m": "thành ý chính tâm",
+    "cat": "học thuật"
+  },
+  {
+    "w": "修身齐家",
+    "p": "xiū shēn qí jiā",
+    "m": "tu thân tề gia",
+    "cat": "học thuật"
+  },
+  {
+    "w": "治国平天下",
+    "p": "zhì guó píng tiān xià",
+    "m": "trị quốc bình thiên hạ",
+    "cat": "chính trị"
+  },
+  {
+    "w": "三纲五常",
+    "p": "sān gāng wǔ cháng",
+    "m": "tam cương ngũ thường (đạo lý Nho gia)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "天人合一",
+    "p": "tiān rén hé yī",
+    "m": "trời người hợp nhất, hài hòa với tự nhiên",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "道法自然",
+    "p": "dào fǎ zì rán",
+    "m": "đạo thuận theo tự nhiên (Lão Tử)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "无为而治",
+    "p": "wú wéi ér zhì",
+    "m": "vô vi mà trị (Đạo gia)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "清静无为",
+    "p": "qīng jìng wú wéi",
+    "m": "thanh tịnh vô vi",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "有为",
+    "p": "yǒu wéi",
+    "m": "có tác vi, làm được việc lớn",
+    "cat": "tính từ"
+  },
+  {
+    "w": "大有可为",
+    "p": "dà yǒu kě wéi",
+    "m": "nhiều cơ hội, có triển vọng lớn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "因势利导",
+    "p": "yīn shì lì dǎo",
+    "m": "thuận thế mà dẫn dắt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "顺势而为",
+    "p": "shùn shì ér wéi",
+    "m": "thuận thế mà hành động",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "随机应变",
+    "p": "suí jī yìng biàn",
+    "m": "linh hoạt ứng biến",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "见机行事",
+    "p": "jiàn jī xíng shì",
+    "m": "thấy thời cơ mà hành động",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "机不可失",
+    "p": "jī bù kě shī",
+    "m": "thời cơ không thể bỏ lỡ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "时不再来",
+    "p": "shí bù zài lái",
+    "m": "thời gian không trở lại",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "一失足成千古恨",
+    "p": "yī shī zú chéng qiān gǔ hèn",
+    "m": "một bước lỡ, ngàn đời hận",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "悬崖勒马",
+    "p": "xuán yá lè mǎ",
+    "m": "trên vách đá mới kéo cương ngựa, dừng đúng lúc",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "迷途知返",
+    "p": "mí tú zhī fǎn",
+    "m": "lạc đường biết quay về",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "浪子回头",
+    "p": "làng zǐ huí tóu",
+    "m": "đứa phóng đãng quay đầu",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "浪子回头金不换",
+    "p": "làng zǐ huí tóu jīn bù huàn",
+    "m": "con hoang đàng quay đầu, vàng không đổi được",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "痛改前非",
+    "p": "tòng gǎi qián fēi",
+    "m": "đau đớn cải sửa lỗi xưa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "洗心革面",
+    "p": "xǐ xīn gé miàn",
+    "m": "rửa lòng đổi mặt, thay đổi hoàn toàn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "脱胎换骨",
+    "p": "tuō tāi huàn gǔ",
+    "m": "lột xác hoàn toàn, thay đổi căn bản",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "凤凰涅槃",
+    "p": "fèng huáng niè pán",
+    "m": "phượng hoàng tái sinh từ lửa, hồi sinh mạnh mẽ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "浴火重生",
+    "p": "yù huǒ chóng shēng",
+    "m": "tắm lửa tái sinh, vượt qua khổ nạn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "枯木逢春",
+    "p": "kū mù féng chūn",
+    "m": "cây khô gặp mùa xuân, hồi sinh",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "死灰复燃",
+    "p": "sǐ huī fù rán",
+    "m": "tro tàn lại bùng cháy",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "卷土重来",
+    "p": "juǎn tǔ chóng lái",
+    "m": "bụi cuộn trở lại, phục hồi, trở lại mạnh mẽ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "东山再起",
+    "p": "dōng shān zài qǐ",
+    "m": "núi Đông lại trỗi dậy, hồi phục sự nghiệp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "重振旗鼓",
+    "p": "chóng zhèn qí gǔ",
+    "m": "lại vực dậy cờ trống, phục hồi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "卧薪尝胆",
+    "p": "wò xīn cháng dǎn",
+    "m": "nằm củi nếm mật, nhẫn nhục chờ thời",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "励精图治",
+    "p": "lì jīng tú zhì",
+    "m": "nỗ lực chấn hưng trị quốc",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "发愤图强",
+    "p": "fā fèn tú qiáng",
+    "m": "phấn chí nỗ lực",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "自强不息",
+    "p": "zì qiáng bù xī",
+    "m": "tự cường không ngừng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "天行健君子以自强不息",
+    "p": "tiān xíng jiàn jūn zǐ yǐ zì qiáng bù xī",
+    "m": "trời vận hành mạnh mẽ, người quân tử tự cường không ngừng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "厚德载物",
+    "p": "hòu dé zài wù",
+    "m": "đức dày chở muôn vật",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "上善若水",
+    "p": "shàng shàn ruò shuǐ",
+    "m": "thiện tối thượng như nước (Lão Tử)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "水善利万物而不争",
+    "p": "shuǐ shàn lì wàn wù ér bù zhēng",
+    "m": "nước tốt lợi muôn vật mà không tranh",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "守拙",
+    "p": "shǒu zhuō",
+    "m": "giữ vẻ vụng về, che giấu tài năng (Đào Uyên Minh)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "归隐",
+    "p": "guī yǐn",
+    "m": "về ở ẩn, rút lui khỏi trường đời",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "出世",
+    "p": "chū shì",
+    "m": "xuất thế, thoát tục",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "入世",
+    "p": "rù shì",
+    "m": "nhập thế, tham gia đời sống xã hội",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "亦出亦入",
+    "p": "yì chū yì rù",
+    "m": "vừa xuất thế vừa nhập thế",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "儒道互补",
+    "p": "rú dào hù bǔ",
+    "m": "Nho Đạo bổ sung nhau",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "三教九流",
+    "p": "sān jiào jiǔ liú",
+    "m": "ba tôn giáo chín dòng, mọi tầng lớp",
+    "cat": "xã hội"
+  },
+  {
+    "w": "诸子百家",
+    "p": "zhū zǐ bǎi jiā",
+    "m": "Bách gia Chư tử (các học phái cổ đại)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "百家争鸣",
+    "p": "bǎi jiā zhēng míng",
+    "m": "trăm nhà tranh tiếng, tự do tư tưởng",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "兼收并蓄",
+    "p": "jiān shōu bìng xù",
+    "m": "thu nhận giữ gìn tất cả, bao dung",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "海纳百川",
+    "p": "hǎi nà bǎi chuān",
+    "m": "biển bao gồm trăm sông, bao dung rộng lượng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "有容乃大",
+    "p": "yǒu róng nǎi dà",
+    "m": "có bao dung mới lớn mạnh",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "胸怀",
+    "p": "xiōng huái",
+    "m": "tâm hung, tầm nhìn, bao dung",
+    "cat": "tính từ"
+  },
+  {
+    "w": "器量",
+    "p": "qì liàng",
+    "m": "lượng tâm, sức chứa, bao dung",
+    "cat": "tính từ"
+  },
+  {
+    "w": "雅量",
+    "p": "yǎ liàng",
+    "m": "lượng độ cao thượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "宽宏大量",
+    "p": "kuān hóng dà liàng",
+    "m": "rộng lượng bao dung",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "度量",
+    "p": "dù liàng",
+    "m": "độ lượng, khả năng bao dung",
+    "cat": "tính từ"
+  },
+  {
+    "w": "心胸宽广",
+    "p": "xīn xiōng kuān guǎng",
+    "m": "lòng dạ rộng lượng",
+    "cat": "tính từ"
+  },
+  {
+    "w": "汪洋恣肆",
+    "p": "wāng yáng zì sì",
+    "m": "mênh mông phóng khoáng (văn chương)",
+    "cat": "tính từ"
+  },
+  {
+    "w": "纵横捭阖",
+    "p": "zòng héng bǎi hé",
+    "m": "mọi hướng mở đóng, thao túng tự như ý",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "挥洒自如",
+    "p": "huī sǎ zì rú",
+    "m": "phóng bút tự do, thoải mái",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "文采斐然",
+    "p": "wén cǎi fěi rán",
+    "m": "văn vẻ xuất sắc, hoa lệ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "辞藻华丽",
+    "p": "cí zǎo huá lì",
+    "m": "từ ngữ hoa lệ",
+    "cat": "tính từ"
+  },
+  {
+    "w": "妙笔生花",
+    "p": "miào bǐ shēng huā",
+    "m": "bút thần sinh hoa, viết tài ba",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "笔力遒劲",
+    "p": "bǐ lì qiú jìn",
+    "m": "bút lực mạnh mẽ, viết lực căng",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "力透纸背",
+    "p": "lì tòu zhǐ bèi",
+    "m": "lực thấu giấy, bút pháp mạnh",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "入木三分",
+    "p": "rù mù sān fēn",
+    "m": "ăn sâu vào gỗ ba phân, miêu tả sắc bén",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "惟妙惟肖",
+    "p": "wéi miào wéi xiào",
+    "m": "sống động y như thật",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "栩栩如生",
+    "p": "xǔ xǔ rú shēng",
+    "m": "sinh động như thật",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "跃然纸上",
+    "p": "yuè rán zhǐ shàng",
+    "m": "sống động trên trang giấy",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "言有尽而意无穷",
+    "p": "yán yǒu jìn ér yì wú qióng",
+    "m": "lời có giới hạn mà ý vô cùng",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "余音绕梁",
+    "p": "yú yīn rào liáng",
+    "m": "âm thanh vang vọng quanh xà nhà, để lại ấn tượng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "袅袅余音",
+    "p": "niǎo niǎo yú yīn",
+    "m": "âm thanh vương vấn, âm vang",
+    "cat": "nghệ thuật"
+  },
+  {
+    "w": "回肠荡气",
+    "p": "huí cháng dàng qì",
+    "m": "làm ruột thắt khí rung, xúc động mạnh",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "荡气回肠",
+    "p": "dàng qì huí cháng",
+    "m": "xúc động đến ruột gan",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "感人肺腑",
+    "p": "gǎn rén fèi fǔ",
+    "m": "chạm đến tận tâm can",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "催人泪下",
+    "p": "cuī rén lèi xià",
+    "m": "làm người rơi lệ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "潸然泪下",
+    "p": "shān rán lèi xià",
+    "m": "nước mắt rơi xuống",
+    "cat": "hành động"
+  },
+  {
+    "w": "涕泗横流",
+    "p": "tì sì héng liú",
+    "m": "nước mắt nước mũi chảy tràn",
+    "cat": "hành động"
+  },
+  {
+    "w": "哽咽",
+    "p": "gěng yè",
+    "m": "nghẹn ngào",
+    "cat": "hành động"
+  },
+  {
+    "w": "呜咽",
+    "p": "wū yè",
+    "m": "khóc nức nở, tiếng kêu bi ai",
+    "cat": "hành động"
+  },
+  {
+    "w": "悲恸",
+    "p": "bēi tòng",
+    "m": "bi thương, đau lòng lắm",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "悲悯",
+    "p": "bēi mǐn",
+    "m": "thương xót, bi mẫn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "悲天悯人",
+    "p": "bēi tiān mǐn rén",
+    "m": "thương trời xót người, từ bi bao la",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "怜悯",
+    "p": "lián mǐn",
+    "m": "thương hại, trắc ẩn",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "博爱",
+    "p": "bó ài",
+    "m": "bác ái, yêu tất cả",
+    "cat": "xã hội"
+  },
+  {
+    "w": "兼爱",
+    "p": "jiān ài",
+    "m": "yêu tất cả bình đẳng (Mặc Tử)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "仁爱",
+    "p": "rén ài",
+    "m": "nhân ái, yêu thương",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "大爱",
+    "p": "dà ài",
+    "m": "tình yêu thương lớn lao",
+    "cat": "xã hội"
+  },
+  {
+    "w": "大同",
+    "p": "dà tóng",
+    "m": "đại đồng, xã hội lý tưởng",
+    "cat": "xã hội"
+  },
+  {
+    "w": "天下大同",
+    "p": "tiān xià dà tóng",
+    "m": "thiên hạ đại đồng, thế giới hòa hợp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "和而不同",
+    "p": "hé ér bù tóng",
+    "m": "hòa mà không đồng, hợp tác không mất bản sắc",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "求同存异",
+    "p": "qiú tóng cún yì",
+    "m": "tìm điểm chung giữ điểm khác biệt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "殊途同归",
+    "p": "shū tú tóng guī",
+    "m": "đường khác nhau về cùng một chỗ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "异曲同工",
+    "p": "yì qǔ tóng gōng",
+    "m": "khúc khác mà công hiệu như nhau",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "不谋而合",
+    "p": "bù móu ér hé",
+    "m": "không bàn mà hợp ý, trùng hợp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "心有灵犀一点通",
+    "p": "xīn yǒu líng xī yī diǎn tōng",
+    "m": "lòng có sừng thần một điểm thông, tâm đầu ý hợp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "心心相印",
+    "p": "xīn xīn xiāng yìn",
+    "m": "tâm tâm tương ấn, hiểu nhau",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "志同道合",
+    "p": "zhì tóng dào hé",
+    "m": "chí hướng và con đường giống nhau",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "高山流水",
+    "p": "gāo shān liú shuǐ",
+    "m": "núi cao nước chảy, tri âm tri kỷ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "伯牙子期",
+    "p": "bó yá zǐ qī",
+    "m": "Bá Nha Tử Kỳ, biểu tượng tri âm",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "知音",
+    "p": "zhī yīn",
+    "m": "tri âm, người hiểu mình sâu sắc",
+    "cat": "người"
+  },
+  {
+    "w": "知己",
+    "p": "zhī jǐ",
+    "m": "tri kỷ, người hiểu mình",
+    "cat": "người"
+  },
+  {
+    "w": "莫逆之交",
+    "p": "mò nì zhī jiāo",
+    "m": "bạn không có điều gì trái ngược, thân thiết nhất",
+    "cat": "người"
+  },
+  {
+    "w": "刎颈之交",
+    "p": "wěn jǐng zhī jiāo",
+    "m": "bạn dám cùng chịu chết, thân thiết sống chết",
+    "cat": "người"
+  },
+  {
+    "w": "管鲍之交",
+    "p": "guǎn bào zhī jiāo",
+    "m": "bạn bè như Quản Trọng và Bào Thúc Nha",
+    "cat": "người"
+  },
+  {
+    "w": "肝胆相照",
+    "p": "gān dǎn xiāng zhào",
+    "m": "lòng gan chiếu sáng nhau, thành thật với nhau",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "推心置腹",
+    "p": "tuī xīn zhì fù",
+    "m": "đặt lòng mình vào bụng người, thành thật",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "倾心",
+    "p": "qīng xīn",
+    "m": "nghiêng lòng, hết lòng, yêu mến",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "倾慕",
+    "p": "qīng mù",
+    "m": "ngưỡng mộ, mến phục",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "钦佩",
+    "p": "qīn pèi",
+    "m": "kính phục, ngưỡng mộ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "叹服",
+    "p": "tàn fú",
+    "m": "thán phục, khen ngợi kính phục",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "折服",
+    "p": "zhé fú",
+    "m": "bị chinh phục, tâm phục",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "五体投地",
+    "p": "wǔ tǐ tóu dì",
+    "m": "năm vóc đổ xuống đất, tâm phục khẩu phục",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "心悦诚服",
+    "p": "xīn yuè chéng fú",
+    "m": "tâm dạ vui lòng thật sự phục",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "口服心不服",
+    "p": "kǒu fú xīn bù fú",
+    "m": "miệng phục lòng không phục",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "阳奉阴违",
+    "p": "yáng fèng yīn wéi",
+    "m": "dương tuân âm vi, bề ngoài vâng lệnh bên trong trái lệnh",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "口蜜腹剑",
+    "p": "kǒu mì fù jiàn",
+    "m": "miệng mật bụng gươm",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "笑里藏刀",
+    "p": "xiào lǐ cáng dāo",
+    "m": "cười mà giấu dao, hai mặt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "两面三刀",
+    "p": "liǎng miàn sān dāo",
+    "m": "hai mặt ba lưỡi, xảo trá",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "心口不一",
+    "p": "xīn kǒu bù yī",
+    "m": "lòng miệng không nhất quán, giả dối",
+    "cat": "tính từ"
+  },
+  {
+    "w": "言不由衷",
+    "p": "yán bù yóu zhōng",
+    "m": "lời không từ lòng thật, không thành thật",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "背信弃义",
+    "p": "bèi xìn qì yì",
+    "m": "bội tín phụ nghĩa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "忘恩负义",
+    "p": "wàng ēn fù yì",
+    "m": "vong ân bội nghĩa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "恩将仇报",
+    "p": "ēn jiāng chóu bào",
+    "m": "lấy oán báo ơn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "以怨报德",
+    "p": "yǐ yuàn bào dé",
+    "m": "lấy oán trả ơn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "知恩图报",
+    "p": "zhī ēn tú bào",
+    "m": "biết ơn mà tìm cách báo đáp",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "饮水思源",
+    "p": "yǐn shuǐ sī yuán",
+    "m": "uống nước nhớ nguồn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "不忘初心",
+    "p": "bù wàng chū xīn",
+    "m": "không quên tâm nguyện ban đầu",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "牢记使命",
+    "p": "láo jì shǐ mìng",
+    "m": "ghi nhớ sứ mệnh",
+    "cat": "chính trị"
+  },
+  {
+    "w": "使命感",
+    "p": "shǐ mìng gǎn",
+    "m": "cảm giác sứ mệnh",
+    "cat": "xã hội"
+  },
+  {
+    "w": "责任担当",
+    "p": "zé rèn dān dāng",
+    "m": "trách nhiệm và gánh vác",
+    "cat": "xã hội"
+  },
+  {
+    "w": "担当精神",
+    "p": "dān dāng jīng shén",
+    "m": "tinh thần dám gánh vác trách nhiệm",
+    "cat": "xã hội"
+  },
+  {
+    "w": "家国情怀",
+    "p": "jiā guó qíng huái",
+    "m": "tình cảm gắn bó gia đình và đất nước",
+    "cat": "xã hội"
+  },
+  {
+    "w": "赤子之心",
+    "p": "chì zǐ zhī xīn",
+    "m": "lòng trẻ thơ thuần khiết, lòng son",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "赤诚",
+    "p": "chì chéng",
+    "m": "son sắt thành thật",
+    "cat": "tính từ"
+  },
+  {
+    "w": "赤胆忠心",
+    "p": "chì dǎn zhōng xīn",
+    "m": "gan dạ trung thành son sắt",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "忠肝义胆",
+    "p": "zhōng gān yì dǎn",
+    "m": "gan trung dạ nghĩa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "义薄云天",
+    "p": "yì bó yún tiān",
+    "m": "nghĩa khí cao tới trời mây",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "侠义",
+    "p": "xiá yì",
+    "m": "nghĩa hiệp, trượng nghĩa",
+    "cat": "tính từ"
+  },
+  {
+    "w": "行侠仗义",
+    "p": "xíng xiá zhàng yì",
+    "m": "hành hiệp trượng nghĩa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "路见不平拔刀相助",
+    "p": "lù jiàn bù píng bá dāo xiāng zhù",
+    "m": "thấy bất bình liền ra tay giúp đỡ",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "扶危济困",
+    "p": "fú wēi jì kùn",
+    "m": "giúp người nguy khó",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "济贫扶弱",
+    "p": "jì pín fú ruò",
+    "m": "giúp người nghèo kẻ yếu",
+    "cat": "xã hội"
+  },
+  {
+    "w": "弱肉强食",
+    "p": "ruò ròu qiáng shí",
+    "m": "yếu bị mạnh ăn, luật rừng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "优胜劣汰",
+    "p": "yōu shèng liè tài",
+    "m": "ưu thắng liệt bại, chọn lọc tự nhiên",
+    "cat": "học thuật"
+  },
+  {
+    "w": "物竞天择",
+    "p": "wù jìng tiān zé",
+    "m": "vật tranh nhau trời chọn lọc, tiến hóa",
+    "cat": "học thuật"
+  },
+  {
+    "w": "适者生存",
+    "p": "shì zhě shēng cún",
+    "m": "thích nghi mới tồn tại",
+    "cat": "học thuật"
+  },
+  {
+    "w": "沧海横流",
+    "p": "cāng hǎi héng liú",
+    "m": "biển xanh dậy sóng, thời thế loạn lạc",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "沧海桑田",
+    "p": "cāng hǎi sāng tián",
+    "m": "biển xanh thành ruộng dâu, biến đổi lớn",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "物是人非",
+    "p": "wù shì rén fēi",
+    "m": "cảnh vật còn đó người xưa đã đổi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "物换星移",
+    "p": "wù huàn xīng yí",
+    "m": "cảnh vật thay sao dời, thời gian trôi qua",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "斗转星移",
+    "p": "dǒu zhuǎn xīng yí",
+    "m": "sao Bắc Đẩu xoay vần, thời gian trôi qua",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "岁月如梭",
+    "p": "suì yuè rú suō",
+    "m": "tuổi tháng như thoi đưa",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "白驹过隙",
+    "p": "bái jū guò xì",
+    "m": "ngựa trắng qua khe, thời gian nhanh chóng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "光阴似箭",
+    "p": "guāng yīn sì jiàn",
+    "m": "thời gian tựa tên bay",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "韶华",
+    "p": "sháo huá",
+    "m": "tuổi xuân, tuổi trẻ đẹp đẽ",
+    "cat": "thời gian"
+  },
+  {
+    "w": "韶光",
+    "p": "sháo guāng",
+    "m": "ánh sáng mùa xuân, tuổi trẻ",
+    "cat": "thời gian"
+  },
+  {
+    "w": "华年",
+    "p": "huá nián",
+    "m": "tuổi trẻ hoa lệ",
+    "cat": "thời gian"
+  },
+  {
+    "w": "芳华",
+    "p": "fāng huá",
+    "m": "tuổi xuân tươi đẹp, hoa thơm",
+    "cat": "thời gian"
+  },
+  {
+    "w": "青葱岁月",
+    "p": "qīng cōng suì yuè",
+    "m": "những năm tháng xanh tươi (tuổi trẻ)",
+    "cat": "thời gian"
+  },
+  {
+    "w": "垂暮之年",
+    "p": "chuí mù zhī nián",
+    "m": "tuổi chiều tà, tuổi già",
+    "cat": "thời gian"
+  },
+  {
+    "w": "桑榆暮景",
+    "p": "sāng yú mù jǐng",
+    "m": "cảnh chiều tà dâu du, tuổi già",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "老当益壮",
+    "p": "lǎo dāng yì zhuàng",
+    "m": "già mà càng mạnh",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "宝刀未老",
+    "p": "bǎo dāo wèi lǎo",
+    "m": "gươm báu chưa cũ, tài năng chưa lỗi thời",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "老骥伏枥",
+    "p": "lǎo jì fú lì",
+    "m": "ngựa già nằm tàu, chí lớn chưa thôi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "壮心不已",
+    "p": "zhuàng xīn bù yǐ",
+    "m": "hoài bão lớn chưa thôi",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "烈士暮年",
+    "p": "liè shì mù nián",
+    "m": "liệt sĩ tuổi xế chiều (vẫn chí cao)",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "冯唐易老",
+    "p": "féng táng yì lǎo",
+    "m": "Phùng Đường dễ già (tài cao mà không gặp thời)",
+    "cat": "văn hóa"
+  },
+  {
+    "w": "磋砣岁月",
+    "p": "cuō tuó suì yuè",
+    "m": "lãng phí tuổi tháng",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "虚度年华",
+    "p": "xū dù nián huá",
+    "m": "lãng phí tuổi xuân",
+    "cat": "thành ngữ"
+  },
+  {
+    "w": "年华似水",
+    "p": "nián huá sì shuǐ",
+    "m": "tuổi xuân như nước trôi qua",
+    "cat": "thành ngữ"
+  }
+]
