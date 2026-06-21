@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-16-v1",
-  "generated": "2026-06-16T15:06:57.865Z",
+  "version": "2026-06-21-v1",
+  "generated": "2026-06-21T12:35:32.122Z",
   "files": {
     "vocab/chinese-hsk1-extra.json": "vocab/chinese-hsk1-extra.json",
     "vocab/chinese-hsk1.json": "vocab/chinese-hsk1.json",
@@ -32,6 +32,7 @@
     "vocab/chinese-hsk9-extra.json": "vocab/chinese-hsk9-extra.json",
     "vocab/chinese-hsk9-extra2.json": "vocab/chinese-hsk9-extra2.json",
     "vocab/chinese-hsk9.json": "vocab/chinese-hsk9.json",
+    "vocab/chinese-new-batch.json": "vocab/chinese-new-batch.json",
     "vocab/english-a1-extra.json": "vocab/english-a1-extra.json",
     "vocab/english-a1-extra2.json": "vocab/english-a1-extra2.json",
     "vocab/english-a1.json": "vocab/english-a1.json",
@@ -79,6 +80,7 @@
     "vocab/english-c2-extra8.json": "vocab/english-c2-extra8.json",
     "vocab/english-c2-extra9.json": "vocab/english-c2-extra9.json",
     "vocab/english-c2.json": "vocab/english-c2.json",
+    "vocab/english-new-batch.json": "vocab/english-new-batch.json",
     "lessons/hsk3-hsk4.json": "lessons/hsk3-hsk4.json",
     "lessons/hsk5-hsk6.json": "lessons/hsk5-hsk6.json",
     "lessons/hsk7-hsk9.json": "lessons/hsk7-hsk9.json",
@@ -87,6 +89,8 @@
     "lessons/hsk9-part.json": "lessons/hsk9-part.json",
     "lessons/eng-b1-b2.json": "lessons/eng-b1-b2.json",
     "lessons/eng-c1-c2.json": "lessons/eng-c1-c2.json",
+    "lessons/zh-new.json": "lessons/zh-new.json",
+    "lessons/en-new.json": "lessons/en-new.json",
     "meta/cat-meta.json": "meta/cat-meta.json"
   }
 }
