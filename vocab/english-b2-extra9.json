@@ -2,1856 +2,2227 @@
   {
     "w": "surgeon",
     "m": "bác sĩ phẫu thuật",
-    "cat": "người"
+    "cat": "người",
+    "p": "sˈɜːdʒən"
   },
   {
     "w": "physician",
     "m": "bác sĩ nội khoa",
-    "cat": "người"
+    "cat": "người",
+    "p": "fɪzˈɪʃən"
   },
   {
     "w": "pharmacist",
     "m": "dược sĩ",
-    "cat": "người"
+    "cat": "người",
+    "p": "fˈɑːɹmɐsˌɪst"
   },
   {
     "w": "paramedic",
     "m": "nhân viên cấp cứu",
-    "cat": "người"
+    "cat": "người",
+    "p": "pˌæɹəmˈɛdɪk"
   },
   {
     "w": "therapist",
     "m": "nhà trị liệu",
-    "cat": "người"
+    "cat": "người",
+    "p": "θˈɛɹəpˌɪst"
   },
   {
     "w": "psychologist",
     "m": "nhà tâm lý học",
-    "cat": "người"
+    "cat": "người",
+    "p": "saɪkˈɑːlədʒˌɪst"
   },
   {
     "w": "economist",
     "m": "nhà kinh tế học",
-    "cat": "người"
+    "cat": "người",
+    "p": "ɪkˈɑːnəmˌɪst"
   },
   {
     "w": "accountant",
     "m": "kế toán viên",
-    "cat": "người"
+    "cat": "người",
+    "p": "ɐkˈaʊntənt"
   },
   {
     "w": "auditor",
     "m": "kiểm toán viên",
-    "cat": "người"
+    "cat": "người",
+    "p": "ˈɔːdɪɾɚ"
   },
   {
     "w": "analyst",
     "m": "chuyên viên phân tích",
-    "cat": "người"
+    "cat": "người",
+    "p": "ˈænɐlˌɪst"
   },
   {
     "w": "consultant",
     "m": "chuyên gia tư vấn",
-    "cat": "người"
+    "cat": "người",
+    "p": "kənsˈʌltənt"
   },
   {
     "w": "entrepreneur",
     "m": "doanh nhân khởi nghiệp",
-    "cat": "người"
+    "cat": "người",
+    "p": "ˌɑːntɹɪpɹənˈʊɹ"
   },
   {
     "w": "executive",
     "m": "giám đốc điều hành",
-    "cat": "người"
+    "cat": "người",
+    "p": "ɛɡzˈɛkjuːtˌɪv"
   },
   {
     "w": "administrator",
     "m": "quản trị viên",
-    "cat": "người"
+    "cat": "người",
+    "p": "ɐdmˈɪnɪstɹˌeɪɾɚ"
   },
   {
     "w": "supervisor",
     "m": "người giám sát",
-    "cat": "người"
+    "cat": "người",
+    "p": "sˈuːpɚvˌaɪzɚ"
   },
   {
     "w": "technician",
     "m": "kỹ thuật viên",
-    "cat": "người"
+    "cat": "người",
+    "p": "tɛknˈɪʃən"
   },
   {
     "w": "electrician",
     "m": "thợ điện",
-    "cat": "người"
+    "cat": "người",
+    "p": "ᵻlɛktɹˈɪʃən"
   },
   {
     "w": "plumber",
     "m": "thợ sửa ống nước",
-    "cat": "người"
+    "cat": "người",
+    "p": "plˈʌmɚ"
   },
   {
     "w": "carpenter",
     "m": "thợ mộc",
-    "cat": "người"
+    "cat": "người",
+    "p": "kˈɑːɹpəntɚ"
   },
   {
     "w": "mechanic",
     "m": "thợ máy",
-    "cat": "người"
+    "cat": "người",
+    "p": "mᵻkˈænɪk"
   },
   {
     "w": "welder",
     "m": "thợ hàn",
-    "cat": "người"
+    "cat": "người",
+    "p": "wˈɛldɚ"
   },
   {
     "w": "blacksmith",
     "m": "thợ rèn",
-    "cat": "người"
+    "cat": "người",
+    "p": "blˈæksmɪθ"
   },
   {
     "w": "locksmith",
     "m": "thợ khóa",
-    "cat": "người"
+    "cat": "người",
+    "p": "lˈɑːksmɪθ"
   },
   {
     "w": "tailor",
     "m": "thợ may",
-    "cat": "người"
+    "cat": "người",
+    "p": "tˈeɪlɚ"
   },
   {
     "w": "cobbler",
     "m": "thợ đóng giày",
-    "cat": "người"
+    "cat": "người",
+    "p": "kˈɑːblɚ"
   },
   {
     "w": "jeweller",
     "m": "thợ kim hoàn",
-    "cat": "người"
+    "cat": "người",
+    "p": "dʒˈuːəlɚ"
   },
   {
     "w": "florist",
     "m": "người bán hoa",
-    "cat": "người"
+    "cat": "người",
+    "p": "flˈɔːɹɪst"
   },
   {
     "w": "butcher",
     "m": "người bán thịt",
-    "cat": "người"
+    "cat": "người",
+    "p": "bˈʊtʃɚ"
   },
   {
     "w": "baker",
     "m": "thợ làm bánh",
-    "cat": "người"
+    "cat": "người",
+    "p": "bˈeɪkɚ"
   },
   {
     "w": "barber",
     "m": "thợ cắt tóc nam",
-    "cat": "người"
+    "cat": "người",
+    "p": "bˈɑːɹbɚ"
   },
   {
     "w": "hairdresser",
     "m": "thợ làm tóc",
-    "cat": "người"
+    "cat": "người",
+    "p": "hˈɛɹdɹɛsɚ"
   },
   {
     "w": "beautician",
     "m": "chuyên viên thẩm mỹ",
-    "cat": "người"
+    "cat": "người",
+    "p": "bjuːtˈɪʃən"
   },
   {
     "w": "masseur",
     "m": "người mát-xa nam",
-    "cat": "người"
+    "cat": "người",
+    "p": "mæsˈʊɹ"
   },
   {
     "w": "librarian",
     "m": "thủ thư",
-    "cat": "người"
+    "cat": "người",
+    "p": "laɪbɹˈɛɹiən"
   },
   {
     "w": "curator",
     "m": "người phụ trách bảo tàng",
-    "cat": "người"
+    "cat": "người",
+    "p": "kjʊɹɹˈeɪɾɚ"
   },
   {
     "w": "archaeologist",
     "m": "nhà khảo cổ học",
-    "cat": "người"
+    "cat": "người",
+    "p": "ˌɑːɹkiːˈɑːlədʒˌɪst"
   },
   {
     "w": "geologist",
     "m": "nhà địa chất học",
-    "cat": "người"
+    "cat": "người",
+    "p": "dʒɪˈɑːlədʒˌɪst"
   },
   {
     "w": "biologist",
     "m": "nhà sinh học",
-    "cat": "người"
+    "cat": "người",
+    "p": "baɪˈɑːlədʒˌɪst"
   },
   {
     "w": "chemist",
     "m": "nhà hóa học",
-    "cat": "người"
+    "cat": "người",
+    "p": "kˈɛmɪst"
   },
   {
     "w": "physicist",
     "m": "nhà vật lý học",
-    "cat": "người"
+    "cat": "người",
+    "p": "fˈɪzɪsˌɪst"
   },
   {
     "w": "astronomer",
     "m": "nhà thiên văn học",
-    "cat": "người"
+    "cat": "người",
+    "p": "ɐstɹˈɑːnəmɚ"
   },
   {
     "w": "mathematician",
     "m": "nhà toán học",
-    "cat": "người"
+    "cat": "người",
+    "p": "mˌæθɪmɐtˈɪʃən"
   },
   {
     "w": "statistician",
     "m": "nhà thống kê",
-    "cat": "người"
+    "cat": "người",
+    "p": "stˌæɾɪstˈɪʃən"
   },
   {
     "w": "meteorologist",
     "m": "nhà khí tượng học",
-    "cat": "người"
+    "cat": "người",
+    "p": "mˌiːɾɪɔːɹˈɑːlədʒˌɪst"
   },
   {
     "w": "veterinarian",
     "m": "bác sĩ thú y",
-    "cat": "người"
+    "cat": "người",
+    "p": "vˌɛɾɚɹɪnˈɛɹiən"
   },
   {
     "w": "botanist",
     "m": "nhà thực vật học",
-    "cat": "người"
+    "cat": "người",
+    "p": "bˈɑːtɐnˌɪst"
   },
   {
     "w": "zoologist",
     "m": "nhà động vật học",
-    "cat": "người"
+    "cat": "người",
+    "p": "zuːˈɑːlədʒˌɪst"
   },
   {
     "w": "linguist",
     "m": "nhà ngôn ngữ học",
-    "cat": "người"
+    "cat": "người",
+    "p": "lˈɪŋɡwɪst"
   },
   {
     "w": "diplomat",
     "m": "nhà ngoại giao",
-    "cat": "người"
+    "cat": "người",
+    "p": "dˈɪpləmˌæt"
   },
   {
     "w": "ambassador",
     "m": "đại sứ",
-    "cat": "người"
+    "cat": "người",
+    "p": "ɐmbˈæsədɚ"
   },
   {
     "w": "senator",
     "m": "thượng nghị sĩ",
-    "cat": "người"
+    "cat": "người",
+    "p": "sˈɛnəɾɚ"
   },
   {
     "w": "governor",
     "m": "thống đốc",
-    "cat": "người"
+    "cat": "người",
+    "p": "ɡˈʌvɚnɚ"
   },
   {
     "w": "mayor",
     "m": "thị trưởng",
-    "cat": "người"
+    "cat": "người",
+    "p": "mˈeɪɚ"
   },
   {
     "w": "councillor",
     "m": "ủy viên hội đồng",
-    "cat": "người"
+    "cat": "người",
+    "p": "kˈaʊnsɪlɚ"
   },
   {
     "w": "magistrate",
     "m": "thẩm phán địa phương",
-    "cat": "người"
+    "cat": "người",
+    "p": "mˈædʒɪstɹˌeɪt"
   },
   {
     "w": "detective",
     "m": "thám tử",
-    "cat": "người"
+    "cat": "người",
+    "p": "dɪtˈɛktɪv"
   },
   {
     "w": "sergeant",
     "m": "trung sĩ",
-    "cat": "người"
+    "cat": "người",
+    "p": "sˈɑːɹdʒənt"
   },
   {
     "w": "lieutenant",
     "m": "trung úy",
-    "cat": "người"
+    "cat": "người",
+    "p": "luːtˈɛnənt"
   },
   {
     "w": "colonel",
     "m": "đại tá",
-    "cat": "người"
+    "cat": "người",
+    "p": "kˈɜːnəl"
   },
   {
     "w": "admiral",
     "m": "đô đốc",
-    "cat": "người"
+    "cat": "người",
+    "p": "ˈædmɜːɹəl"
   },
   {
     "w": "general",
     "m": "tướng quân",
-    "cat": "người"
+    "cat": "người",
+    "p": "dʒˈɛnɚɹəl"
   },
   {
     "w": "recruit",
     "m": "tân binh",
-    "cat": "người"
+    "cat": "người",
+    "p": "ɹᵻkɹˈuːt"
   },
   {
     "w": "veteran",
     "m": "cựu chiến binh",
-    "cat": "người"
+    "cat": "người",
+    "p": "vˈɛɾɚɹən"
   },
   {
     "w": "refugee",
     "m": "người tị nạn",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɹˈɛfjuːdʒˌiː"
   },
   {
     "w": "immigrant",
     "m": "người nhập cư",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˈɪmɪɡɹənt"
   },
   {
     "w": "emigrant",
     "m": "người di cư ra nước ngoài",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˈɛmɪɡɹənt"
   },
   {
     "w": "citizen",
     "m": "công dân",
-    "cat": "society"
+    "cat": "society",
+    "p": "sˈɪɾɪzən"
   },
   {
     "w": "resident",
     "m": "cư dân",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɹˈɛzᵻdənt"
   },
   {
     "w": "tenant",
     "m": "người thuê nhà",
-    "cat": "society"
+    "cat": "society",
+    "p": "tˈɛnənt"
   },
   {
     "w": "landlord",
     "m": "chủ nhà cho thuê",
-    "cat": "society"
+    "cat": "society",
+    "p": "lˈændlɔːɹd"
   },
   {
     "w": "pedestrian",
     "m": "người đi bộ",
-    "cat": "society"
+    "cat": "society",
+    "p": "pədˈɛstɹiən"
   },
   {
     "w": "commuter",
     "m": "người đi làm xa",
-    "cat": "society"
+    "cat": "society",
+    "p": "kəmjˈuːɾɚ"
   },
   {
     "w": "passenger",
     "m": "hành khách",
-    "cat": "society"
+    "cat": "society",
+    "p": "pˈæsɪndʒɚ"
   },
   {
     "w": "spectator",
     "m": "khán giả",
-    "cat": "society"
+    "cat": "society",
+    "p": "spɛktˈeɪɾɚ"
   },
   {
     "w": "audience",
     "m": "khán thính giả",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˈɔːdiəns"
   },
   {
     "w": "witness",
     "m": "nhân chứng",
-    "cat": "society"
+    "cat": "society",
+    "p": "wˈɪtnəs"
   },
   {
     "w": "bystander",
     "m": "người ngoài cuộc",
-    "cat": "society"
+    "cat": "society",
+    "p": "bˈaɪstændɚ"
   },
   {
     "w": "volunteer",
     "m": "tình nguyện viên",
-    "cat": "society"
+    "cat": "society",
+    "p": "vˌɑːləntˈɪɹ"
   },
   {
     "w": "apprentice",
     "m": "người học việc",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɐpɹˈɛntɪs"
   },
   {
     "w": "intern",
     "m": "thực tập sinh",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˈɪntɜːn"
   },
   {
     "w": "freelancer",
     "m": "người làm tự do",
-    "cat": "society"
+    "cat": "society",
+    "p": "fɹˈiːlænsɚ"
   },
   {
     "w": "colleague",
     "m": "đồng nghiệp",
-    "cat": "society"
+    "cat": "society",
+    "p": "kˈɑːliːɡ"
   },
   {
     "w": "subordinate",
     "m": "cấp dưới",
-    "cat": "society"
+    "cat": "society",
+    "p": "sʌbˈɔːɹdᵻnət"
   },
   {
     "w": "successor",
     "m": "người kế nhiệm",
-    "cat": "society"
+    "cat": "society",
+    "p": "səksˈɛsɚ"
   },
   {
     "w": "predecessor",
     "m": "người tiền nhiệm",
-    "cat": "society"
+    "cat": "society",
+    "p": "pɹˈɛdᵻsˌɛsɚ"
   },
   {
     "w": "heir",
     "m": "người thừa kế",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˈɛɹ"
   },
   {
     "w": "orphan",
     "m": "trẻ mồ côi",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˈɔːɹfən"
   },
   {
     "w": "widow",
     "m": "góa phụ",
-    "cat": "society"
+    "cat": "society",
+    "p": "wˈɪdoʊ"
   },
   {
     "w": "widower",
     "m": "người đàn ông góa vợ",
-    "cat": "society"
+    "cat": "society",
+    "p": "wˈɪdoʊɚ"
   },
   {
     "w": "bachelor",
     "m": "người độc thân; cử nhân",
-    "cat": "society"
+    "cat": "society",
+    "p": "bˈætʃəlɚ"
   },
   {
     "w": "toddler",
     "m": "trẻ mới biết đi",
-    "cat": "society"
+    "cat": "society",
+    "p": "tˈɑːdlɚ"
   },
   {
     "w": "adolescent",
     "m": "thanh thiếu niên",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˌædəlˈɛsənt"
   },
   {
     "w": "teenager",
     "m": "thiếu niên",
-    "cat": "society"
+    "cat": "society",
+    "p": "tˈiːneɪdʒɚ"
   },
   {
     "w": "infant",
     "m": "trẻ sơ sinh",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˈɪnfənt"
   },
   {
     "w": "steering wheel",
     "m": "vô lăng",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "stˈɪɹɪŋ wˈiːl"
   },
   {
     "w": "dashboard",
     "m": "bảng điều khiển xe",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "dˈæʃbɔːɹd"
   },
   {
     "w": "windscreen",
     "m": "kính chắn gió",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "wˈɪndskɹiːn"
   },
   {
     "w": "bumper",
     "m": "cản xe",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "bˈʌmpɚ"
   },
   {
     "w": "exhaust pipe",
     "m": "ống xả",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ɛɡzˈɔːst pˈaɪp"
   },
   {
     "w": "clutch",
     "m": "bộ ly hợp",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "klˈʌtʃ"
   },
   {
     "w": "gearbox",
     "m": "hộp số",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ɡˈɪɹbɑːks"
   },
   {
     "w": "radiator",
     "m": "bộ tản nhiệt",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ɹˈeɪdɪˌeɪɾɚ"
   },
   {
     "w": "carburettor",
     "m": "bộ chế hòa khí",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "kˈɑːɹbjʊɹɹˌɛɾɚ"
   },
   {
     "w": "throttle",
     "m": "van tiết lưu, ga",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "θɹˈɑːɾəl"
   },
   {
     "w": "ignition",
     "m": "hệ thống đánh lửa",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ɪɡnˈɪʃən"
   },
   {
     "w": "axle",
     "m": "trục xe",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ˈæksəl"
   },
   {
     "w": "chassis",
     "m": "khung gầm",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "tʃˈæsi"
   },
   {
     "w": "suspension",
     "m": "hệ thống giảm xóc",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "səspˈɛnʃən"
   },
   {
     "w": "transmission",
     "m": "hệ thống truyền động",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "tɹænsmˈɪʃən"
   },
   {
     "w": "odometer",
     "m": "đồng hồ đo quãng đường",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "oʊdˈɑːmɪɾɚ"
   },
   {
     "w": "spanner",
     "m": "cờ lê",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "spˈænɚ"
   },
   {
     "w": "wrench",
     "m": "mỏ lết",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ɹˈɛntʃ"
   },
   {
     "w": "pliers",
     "m": "kìm",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "plˈaɪɚz"
   },
   {
     "w": "screwdriver",
     "m": "tua vít",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "skɹˈuːdɹaɪvɚ"
   },
   {
     "w": "chisel",
     "m": "cái đục",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "tʃˈɪzəl"
   },
   {
     "w": "drill",
     "m": "máy khoan",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "dɹˈɪl"
   },
   {
     "w": "sandpaper",
     "m": "giấy nhám",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "sˈændpeɪpɚ"
   },
   {
     "w": "adhesive",
     "m": "chất kết dính",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ɐdhˈiːsɪv"
   },
   {
     "w": "lubricant",
     "m": "chất bôi trơn",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "lˈuːbɹɪkənt"
   },
   {
     "w": "tweezers",
     "m": "cái nhíp",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "twˈiːzɚz"
   },
   {
     "w": "magnifier",
     "m": "kính lúp",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "mˈæɡnɪfˌaɪɚ"
   },
   {
     "w": "telescope",
     "m": "kính viễn vọng",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "tˈɛlᵻskˌoʊp"
   },
   {
     "w": "microscope",
     "m": "kính hiển vi",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "mˈaɪkɹəskˌoʊp"
   },
   {
     "w": "barometer",
     "m": "phong vũ biểu",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "bɚɹˈɑːmɪɾɚ"
   },
   {
     "w": "thermometer",
     "m": "nhiệt kế",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "θɜːmˈɑːmɪɾɚ"
   },
   {
     "w": "stethoscope",
     "m": "ống nghe y khoa",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "stˈɛθəskˌoʊp"
   },
   {
     "w": "syringe",
     "m": "ống tiêm",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "sɪɹˈɪndʒ"
   },
   {
     "w": "scalpel",
     "m": "dao mổ",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "skˈælpəl"
   },
   {
     "w": "bandage",
     "m": "băng gạc",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "bˈændɪdʒ"
   },
   {
     "w": "crutch",
     "m": "nạng",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "kɹˈʌtʃ"
   },
   {
     "w": "wheelchair",
     "m": "xe lăn",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "wˈiːltʃɛɹ"
   },
   {
     "w": "stretcher",
     "m": "cáng cứu thương",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "stɹˈɛtʃɚ"
   },
   {
     "w": "compass",
     "m": "la bàn",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "kˈʌmpəs"
   },
   {
     "w": "binoculars",
     "m": "ống nhòm",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "bᵻnˈɑːkjʊlɚz"
   },
   {
     "w": "tripod",
     "m": "chân máy ba chân",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "tɹˈaɪpɑːd"
   },
   {
     "w": "projector",
     "m": "máy chiếu",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "pɹədʒˈɛktɚ"
   },
   {
     "w": "amplifier",
     "m": "bộ khuếch đại",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ˈæmplɪfˌaɪɚ"
   },
   {
     "w": "microphone",
     "m": "micro",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "mˈaɪkɹəfˌoʊn"
   },
   {
     "w": "generator",
     "m": "máy phát điện",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "dʒˈɛnɚɹˌeɪɾɚ"
   },
   {
     "w": "transformer",
     "m": "máy biến áp",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "tɹænsfˈɔːɹmɚ"
   },
   {
     "w": "battery",
     "m": "pin, ắc quy",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "bˈæɾɚɹi"
   },
   {
     "w": "socket",
     "m": "ổ cắm điện",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "sˈɑːkɪt"
   },
   {
     "w": "fuse",
     "m": "cầu chì",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "fjˈuːz"
   },
   {
     "w": "valve",
     "m": "van",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "vˈælv"
   },
   {
     "w": "piston",
     "m": "pít-tông",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "pˈɪstən"
   },
   {
     "w": "gauge",
     "m": "đồng hồ đo",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ɡˈeɪdʒ"
   },
   {
     "w": "lever",
     "m": "đòn bẩy, cần gạt",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "lˈɛvɚ"
   },
   {
     "w": "pulley",
     "m": "ròng rọc",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "pˈʊli"
   },
   {
     "w": "hinge",
     "m": "bản lề",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "hˈɪndʒ"
   },
   {
     "w": "bolt",
     "m": "bu lông",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "bˈoʊlt"
   },
   {
     "w": "nut",
     "m": "đai ốc",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "nˈʌt"
   },
   {
     "w": "washer",
     "m": "vòng đệm",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "wˈɑːʃɚ"
   },
   {
     "w": "rivet",
     "m": "đinh tán",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ɹˈɪvɪt"
   },
   {
     "w": "clamp",
     "m": "cái kẹp",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "klˈæmp"
   },
   {
     "w": "violin",
     "m": "đàn vĩ cầm",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "vaɪəlˈɪn"
   },
   {
     "w": "cello",
     "m": "đàn xen-lô",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "tʃˈɛloʊ"
   },
   {
     "w": "flute",
     "m": "sáo",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "flˈuːt"
   },
   {
     "w": "clarinet",
     "m": "kèn cla-ri-nét",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "klˌæɹənˈɛt"
   },
   {
     "w": "trumpet",
     "m": "kèn trompet",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "tɹˈʌmpɪt"
   },
   {
     "w": "saxophone",
     "m": "kèn xắc-xô",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "sˈæksəfˌoʊn"
   },
   {
     "w": "trombone",
     "m": "kèn trombone",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "tɹɑːmbˈoʊn"
   },
   {
     "w": "harp",
     "m": "đàn hạc",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "hˈɑːɹp"
   },
   {
     "w": "accordion",
     "m": "đàn xếp",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "ɐkˈɔːɹdiən"
   },
   {
     "w": "harmonica",
     "m": "kèn ác-mô-ni-ca",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "hɑːɹmˈɑːnɪkə"
   },
   {
     "w": "tambourine",
     "m": "trống lục lạc",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "tˈæmbɚɹˌiːn"
   },
   {
     "w": "xylophone",
     "m": "đàn phiến gỗ",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "zˈaɪləfˌoʊn"
   },
   {
     "w": "bagpipes",
     "m": "kèn túi",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "bˈæɡpaɪps"
   },
   {
     "w": "keyboard",
     "m": "đàn phím điện tử",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "kˈiːbɔːɹd"
   },
   {
     "w": "conductor",
     "m": "nhạc trưởng",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "kəndˈʌktɚ"
   },
   {
     "w": "soloist",
     "m": "nghệ sĩ độc tấu",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "sˈoʊloʊˌɪst"
   },
   {
     "w": "choir",
     "m": "dàn hợp xướng",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "kwˈaɪɚ"
   },
   {
     "w": "melody",
     "m": "giai điệu",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "mˈɛlədi"
   },
   {
     "w": "harmony",
     "m": "hòa âm",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "hˈɑːɹməni"
   },
   {
     "w": "rhythm",
     "m": "nhịp điệu",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "ɹˈɪðəm"
   },
   {
     "w": "tempo",
     "m": "nhịp độ",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "tˈɛmpoʊ"
   },
   {
     "w": "lyrics",
     "m": "lời bài hát",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "lˈɪɹɪks"
   },
   {
     "w": "ballad",
     "m": "ca khúc trữ tình",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "bˈæləd"
   },
   {
     "w": "anthem",
     "m": "bài ca chính thức",
-    "cat": "nghệ thuật"
+    "cat": "nghệ thuật",
+    "p": "ˈænθəm"
   },
   {
     "w": "archery",
     "m": "bắn cung",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "ˈɑːɹtʃɚɹi"
   },
   {
     "w": "fencing",
     "m": "đấu kiếm",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "fˈɛnsɪŋ"
   },
   {
     "w": "gymnastics",
     "m": "thể dục dụng cụ",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "dʒɪmnˈæstɪks"
   },
   {
     "w": "athletics",
     "m": "điền kinh",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "æθlˈɛɾɪks"
   },
   {
     "w": "wrestling",
     "m": "đấu vật",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "ɹˈɛsəlɪŋ"
   },
   {
     "w": "judo",
     "m": "võ judo",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "dʒˈuːdoʊ"
   },
   {
     "w": "karate",
     "m": "võ karate",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "kɚɹˈɑːɾi"
   },
   {
     "w": "rowing",
     "m": "chèo thuyền",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "ɹˈoʊɪŋ"
   },
   {
     "w": "sailing",
     "m": "đua thuyền buồm",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "sˈeɪlɪŋ"
   },
   {
     "w": "canoeing",
     "m": "chèo xuồng",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "kənˈuːɪŋ"
   },
   {
     "w": "surfing",
     "m": "lướt sóng",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "sˈɜːfɪŋ"
   },
   {
     "w": "snowboarding",
     "m": "trượt ván tuyết",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "snˈoʊbɔːɹdɪŋ"
   },
   {
     "w": "skateboarding",
     "m": "trượt ván",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "skˈeɪtbɔːɹdɪŋ"
   },
   {
     "w": "cycling",
     "m": "đua xe đạp",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "sˈaɪklɪŋ"
   },
   {
     "w": "hurdles",
     "m": "chạy vượt rào",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "hˈɜːdəlz"
   },
   {
     "w": "javelin",
     "m": "ném lao",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "dʒˈævəlɪn"
   },
   {
     "w": "discus",
     "m": "ném đĩa",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "dˈɪskəs"
   },
   {
     "w": "hockey",
     "m": "khúc côn cầu",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "hˈɑːki"
   },
   {
     "w": "rugby",
     "m": "bóng bầu dục",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "ɹˈʌɡbi"
   },
   {
     "w": "cricket",
     "m": "môn cricket",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "kɹˈɪkɪt"
   },
   {
     "w": "squash",
     "m": "bóng quần",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "skwˈɑːʃ"
   },
   {
     "w": "referee",
     "m": "trọng tài",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "ɹˌɛfɚɹˈiː"
   },
   {
     "w": "umpire",
     "m": "trọng tài (tennis, cricket)",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "ˈʌmpaɪɚ"
   },
   {
     "w": "stadium",
     "m": "sân vận động",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "stˈeɪdiəm"
   },
   {
     "w": "arena",
     "m": "đấu trường",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "ɚɹˈiːnə"
   },
   {
     "w": "marathon",
     "m": "chạy marathon",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "mˈæɹəθˌɑːn"
   },
   {
     "w": "championship",
     "m": "giải vô địch",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "tʃˈæmpiənʃˌɪp"
   },
   {
     "w": "tournament",
     "m": "giải đấu",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "tˈʊɹnəmənt"
   },
   {
     "w": "trophy",
     "m": "cúp vô địch",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "tɹˈoʊfi"
   },
   {
     "w": "podium",
     "m": "bục trao giải",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "p": "pˈoʊdiəm"
   },
   {
     "w": "spinach",
     "m": "rau bina",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "spˈɪnɪtʃ"
   },
   {
     "w": "broccoli",
     "m": "bông cải xanh",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "bɹˈɑːkəli"
   },
   {
     "w": "cauliflower",
     "m": "súp lơ trắng",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "kˈɑːlɪflˌaʊɚ"
   },
   {
     "w": "cabbage",
     "m": "bắp cải",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "kˈæbɪdʒ"
   },
   {
     "w": "lettuce",
     "m": "rau diếp",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "lˈɛɾɪs"
   },
   {
     "w": "celery",
     "m": "cần tây",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "sˈɛlɚɹi"
   },
   {
     "w": "cucumber",
     "m": "dưa chuột",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "kjˈuːkʌmbɚ"
   },
   {
     "w": "aubergine",
     "m": "cà tím",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "ˈoʊbɚʒˌiːn"
   },
   {
     "w": "courgette",
     "m": "bí ngòi",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "kɜːdʒˈɛt"
   },
   {
     "w": "pumpkin",
     "m": "bí ngô",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "pˈʌmpkɪn"
   },
   {
     "w": "radish",
     "m": "củ cải",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "ɹˈædɪʃ"
   },
   {
     "w": "beetroot",
     "m": "củ dền",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "bˈiːtɹuːt"
   },
   {
     "w": "turnip",
     "m": "củ cải trắng",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "tˈɜːnɪp"
   },
   {
     "w": "asparagus",
     "m": "măng tây",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "ɐspˈæɹəɡəs"
   },
   {
     "w": "artichoke",
     "m": "a-ti-sô",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "ˈɑːɹɾɪtʃˌoʊk"
   },
   {
     "w": "mushroom",
     "m": "nấm",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "mˈʌʃɹuːm"
   },
   {
     "w": "chickpea",
     "m": "đậu gà",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "tʃˈɪkpiː"
   },
   {
     "w": "lentil",
     "m": "đậu lăng",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "lˈɛntəl"
   },
   {
     "w": "apricot",
     "m": "quả mơ",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "ˈeɪpɹɪkˌɑːt"
   },
   {
     "w": "plum",
     "m": "quả mận",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "plˈʌm"
   },
   {
     "w": "raspberry",
     "m": "phúc bồn tử",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "ɹˈæsbɛɹi"
   },
   {
     "w": "blueberry",
     "m": "việt quất",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "blˈuːbɛɹi"
   },
   {
     "w": "blackberry",
     "m": "mâm xôi đen",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "blˈækbɛɹi"
   },
   {
     "w": "cranberry",
     "m": "nam việt quất",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "kɹˈænbɛɹi"
   },
   {
     "w": "pomegranate",
     "m": "quả lựu",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "pˈɑːmɪɡɹˌæneɪt"
   },
   {
     "w": "coconut",
     "m": "quả dừa",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "kˈoʊkənˌʌt"
   },
   {
     "w": "avocado",
     "m": "quả bơ",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "ˌævəkˈɑːdoʊ"
   },
   {
     "w": "fig",
     "m": "quả sung",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "fˈɪɡ"
   },
   {
     "w": "date",
     "m": "quả chà là",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "dˈeɪt"
   },
   {
     "w": "walnut",
     "m": "quả óc chó",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "wˈɔːlnʌt"
   },
   {
     "w": "almond",
     "m": "hạnh nhân",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "ˈɔlmənd"
   },
   {
     "w": "cashew",
     "m": "hạt điều",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "kˈæʃjuː"
   },
   {
     "w": "hazelnut",
     "m": "hạt phỉ",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "hˈeɪzəlnˌʌt"
   },
   {
     "w": "chestnut",
     "m": "hạt dẻ",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "tʃˈɛstnʌt"
   },
   {
     "w": "cinnamon",
     "m": "quế",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "sˈɪnəmən"
   },
   {
     "w": "nutmeg",
     "m": "nhục đậu khấu",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "nˈʌtmɛɡ"
   },
   {
     "w": "turmeric",
     "m": "nghệ",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "tɜːmˈɛɹɪk"
   },
   {
     "w": "cumin",
     "m": "thì là Ai Cập",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "kjˈuːmɪn"
   },
   {
     "w": "coriander",
     "m": "rau mùi",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "kˌɔːɹɪˈændɚ"
   },
   {
     "w": "parsley",
     "m": "mùi tây",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "pˈɑːɹsli"
   },
   {
     "w": "basil",
     "m": "húng quế",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "bˈeɪzəl"
   },
   {
     "w": "oregano",
     "m": "lá kinh giới",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "ˌɔːɹɪɡˈɑːnoʊ"
   },
   {
     "w": "vinegar",
     "m": "giấm",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "vˈɪnᵻɡɚ"
   },
   {
     "w": "mustard",
     "m": "mù tạt",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "mˈʌstɚd"
   },
   {
     "w": "mayonnaise",
     "m": "sốt mayonnaise",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "mˌeɪənˈeɪz"
   },
   {
     "w": "yeast",
     "m": "men nở",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "jˈiːst"
   },
   {
     "w": "dough",
     "m": "bột nhào",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "dˈoʊ"
   },
   {
     "w": "batter",
     "m": "bột nhão",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "bˈæɾɚ"
   },
   {
     "w": "custard",
     "m": "kem trứng",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "kˈʌstɚd"
   },
   {
     "w": "pastry",
     "m": "bánh ngọt nướng",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "pˈeɪstɹi"
   },
   {
     "w": "crust",
     "m": "vỏ bánh",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "kɹˈʌst"
   },
   {
     "w": "poultry",
     "m": "gia cầm",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "pˈoʊltɹi"
   },
   {
     "w": "venison",
     "m": "thịt nai",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "vˈɛnɪsən"
   },
   {
     "w": "mutton",
     "m": "thịt cừu già",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "mˈʌʔn̩"
   },
   {
     "w": "sausage",
     "m": "xúc xích",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "sˈɔːsɪdʒ"
   },
   {
     "w": "bacon",
     "m": "thịt xông khói",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "bˈeɪkən"
   },
   {
     "w": "sardine",
     "m": "cá mòi",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "sɑːɹdˈiːn"
   },
   {
     "w": "salmon",
     "m": "cá hồi",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "sˈæmən"
   },
   {
     "w": "tuna",
     "m": "cá ngừ",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "tˈuːnə"
   },
   {
     "w": "trout",
     "m": "cá hồi vân",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "tɹˈaʊt"
   },
   {
     "w": "squid",
     "m": "mực ống",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "skwˈɪd"
   },
   {
     "w": "oyster",
     "m": "hàu",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "ˈɔɪstɚ"
   },
   {
     "w": "mussel",
     "m": "trai, vẹm",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "mˈʌsəl"
   },
   {
     "w": "scallop",
     "m": "sò điệp",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "skˈæləp"
   },
   {
     "w": "lobster",
     "m": "tôm hùm",
-    "cat": "ẩm thực"
+    "cat": "ẩm thực",
+    "p": "lˈɑːbstɚ"
   },
   {
     "w": "continent",
     "m": "lục địa",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "kˈɑːntɪnənt"
   },
   {
     "w": "nationality",
     "m": "quốc tịch",
-    "cat": "society"
+    "cat": "society",
+    "p": "nˌæʃənˈælᵻɾi"
   },
   {
     "w": "frontier",
     "m": "biên cương",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "fɹʌntˈɪɹ"
   },
   {
     "w": "territory",
     "m": "lãnh thổ",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "tˈɛɹɪtˌɔːɹi"
   },
   {
     "w": "province",
     "m": "tỉnh",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "pɹˈɑːvɪns"
   },
   {
     "w": "municipality",
     "m": "khu tự quản, thành phố",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "mjuːnˈɪsɪpˈælᵻɾi"
   },
   {
     "w": "metropolis",
     "m": "đô thị lớn",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "mətɹˈɑːpəlˌɪs"
   },
   {
     "w": "outskirts",
     "m": "vùng ngoại ô",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "ˈaʊtskɜːts"
   },
   {
     "w": "slum",
     "m": "khu ổ chuột",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "slˈʌm"
   },
   {
     "w": "harbour",
     "m": "bến cảng",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "hˈɑːɹbɚ"
   },
   {
     "w": "dock",
     "m": "bến tàu",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "dˈɑːk"
   },
   {
     "w": "wharf",
     "m": "cầu cảng",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "wˈɔːɹf"
   },
   {
     "w": "lighthouse",
     "m": "hải đăng",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "lˈaɪthaʊs"
   },
   {
     "w": "observatory",
     "m": "đài thiên văn",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "əbzˈɜːvətˌɔːɹi"
   },
   {
     "w": "cathedral",
     "m": "nhà thờ lớn",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "kɐθˈiːdɹəl"
   },
   {
     "w": "monastery",
     "m": "tu viện",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "mˈɑːnɐstɚɹi"
   },
   {
     "w": "shrine",
     "m": "đền thờ nhỏ",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "ʃɹˈaɪn"
   },
   {
     "w": "fortress",
     "m": "pháo đài",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "fˈɔːɹtɹəs"
   },
   {
     "w": "citadel",
     "m": "thành lũy",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "sˈɪɾədˌɛl"
   },
   {
     "w": "monument",
     "m": "đài tưởng niệm",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "mˈɑːnjuːmənt"
   },
   {
     "w": "landmark",
     "m": "địa danh nổi bật",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "lˈændmɑːɹk"
   },
   {
     "w": "plaza",
     "m": "quảng trường",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "plˈɑːzə"
   },
   {
     "w": "boulevard",
     "m": "đại lộ",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "bˈuːlɪvˌɑːɹd"
   },
   {
     "w": "alley",
     "m": "con hẻm",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "ˈæli"
   },
   {
     "w": "crossroads",
     "m": "ngã tư đường",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "kɹˈɔsɹoʊdz"
   },
   {
     "w": "roundabout",
     "m": "vòng xuyến",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "ɹˈaʊndɐbˌaʊt"
   },
   {
     "w": "junction",
     "m": "giao lộ",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "dʒˈʌŋkʃən"
   },
   {
     "w": "underpass",
     "m": "hầm chui",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "ˌʌndɚpˈæs"
   },
   {
     "w": "overpass",
     "m": "cầu vượt",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "ˌoʊvɚpˈæs"
   },
   {
     "w": "viaduct",
     "m": "cầu cạn",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "vˈaɪədˌʌkt"
   },
   {
     "w": "aqueduct",
     "m": "cầu máng dẫn nước",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "ˈækwᵻdˌʌkt"
   },
   {
     "w": "reservoir",
     "m": "hồ chứa nước",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "ɹˈɛzɚvwˌɑːɹ"
   },
   {
     "w": "dam",
     "m": "đập nước",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "dˈæm"
   },
   {
     "w": "canal",
     "m": "kênh đào",
-    "cat": "địa điểm"
+    "cat": "địa điểm",
+    "p": "kənˈæl"
   },
   {
     "w": "current account",
     "m": "tài khoản vãng lai",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "kˈɜːɹənt ɐkˈaʊnt"
   },
   {
     "w": "savings account",
     "m": "tài khoản tiết kiệm",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "sˈeɪvɪŋz ɐkˈaʊnt"
   },
   {
     "w": "overdraft",
     "m": "thấu chi",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "ˈoʊvɚdɹˌæft"
   },
   {
     "w": "interest rate",
     "m": "lãi suất",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "ˈɪntɹɛst ɹˈeɪt"
   },
   {
     "w": "installment",
     "m": "trả góp",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "ɪnstˈɔːlmənt"
   },
   {
     "w": "invoice",
     "m": "hóa đơn",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "ˈɪnvɔɪs"
   },
   {
     "w": "receipt",
     "m": "biên lai",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "ɹᵻsˈiːt"
   },
   {
     "w": "transaction",
     "m": "giao dịch",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "tɹænsˈækʃən"
   },
   {
     "w": "withdrawal",
     "m": "sự rút tiền",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "wɪθdɹˈɔːl"
   },
   {
     "w": "deposit",
     "m": "khoản tiền gửi",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "dᵻpˈɑːzɪt"
   },
   {
     "w": "balance",
     "m": "số dư",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "bˈæləns"
   },
   {
     "w": "statement",
     "m": "sao kê",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "stˈeɪtmənt"
   },
   {
     "w": "currency",
     "m": "tiền tệ",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "kˈɜːɹənsi"
   },
   {
     "w": "exchange rate",
     "m": "tỷ giá hối đoái",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "ɛkstʃˈeɪndʒ ɹˈeɪt"
   },
   {
     "w": "commission",
     "m": "hoa hồng",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "kəmˈɪʃən"
   },
   {
     "w": "premium",
     "m": "phí bảo hiểm",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "pɹˈiːmiəm"
   },
   {
     "w": "pension",
     "m": "lương hưu",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "pˈɛnʃən"
   },
   {
     "w": "inheritance",
     "m": "tài sản thừa kế",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "ɪnhˈɛɹɪtəns"
   },
   {
     "w": "allowance",
     "m": "tiền trợ cấp",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "ɐlˈaʊəns"
   },
   {
     "w": "wage",
     "m": "tiền công",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "wˈeɪdʒ"
   },
   {
     "w": "salary",
     "m": "lương tháng",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "sˈælɚɹi"
   },
   {
     "w": "bonus",
     "m": "tiền thưởng",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "bˈoʊnəs"
   },
   {
     "w": "fee",
     "m": "lệ phí",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "fˈiː"
   },
   {
     "w": "fare",
     "m": "tiền vé",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "fˈɛɹ"
   },
   {
     "w": "toll",
     "m": "phí cầu đường",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "tˈoʊl"
   },
   {
     "w": "rent",
     "m": "tiền thuê",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "ɹˈɛnt"
   },
   {
     "w": "loan",
     "m": "khoản vay",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "lˈoʊn"
   },
   {
     "w": "debt",
     "m": "nợ",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "dˈɛt"
   },
   {
     "w": "profit",
     "m": "lợi nhuận",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "pɹˈɑːfɪt"
   },
   {
     "w": "expenditure",
     "m": "khoản chi tiêu",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "p": "ɛkspˈɛndɪtʃɚ"
   },
   {
     "w": "thunderstorm",
     "m": "giông bão có sấm",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "θˈʌndɚstˌɔːɹm"
   },
   {
     "w": "drizzle",
     "m": "mưa phùn",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "dɹˈɪzəl"
   },
   {
     "w": "downpour",
     "m": "trận mưa như trút",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "dˈaʊnpɔːɹ"
   },
   {
     "w": "blizzard",
     "m": "bão tuyết",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "blˈɪzɚd"
   },
   {
     "w": "hailstorm",
     "m": "mưa đá",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "hˈeɪlstɔːɹm"
   },
   {
     "w": "frost",
     "m": "sương giá",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "fɹˈɔst"
   },
   {
     "w": "dew",
     "m": "sương",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "dˈuː"
   },
   {
     "w": "mist",
     "m": "sương mỏng",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "mˈɪst"
   },
   {
     "w": "breeze",
     "m": "gió nhẹ",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "bɹˈiːz"
   },
   {
     "w": "gale",
     "m": "gió mạnh",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "ɡˈeɪl"
   },
   {
     "w": "draught",
     "m": "luồng gió lùa",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "dɹˈæft"
   },
   {
     "w": "avalanche",
     "m": "tuyết lở",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "ˈævəlˌænʃ"
   },
   {
     "w": "landslide",
     "m": "lở đất",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "lˈændslaɪd"
   },
   {
     "w": "drought",
     "m": "hạn hán",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "dɹˈaʊt"
   },
   {
     "w": "famine",
     "m": "nạn đói",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "fˈæmɪn"
   },
   {
     "w": "tide",
     "m": "thủy triều",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "tˈaɪd"
   },
   {
     "w": "wave",
     "m": "sóng",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "wˈeɪv"
   },
   {
     "w": "ripple",
     "m": "gợn sóng lăn tăn",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "ɹˈɪpəl"
   },
   {
     "w": "current",
     "m": "dòng chảy",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "kˈɜːɹənt"
   },
   {
     "w": "whirlpool",
     "m": "xoáy nước",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "wˈɜːlpuːl"
   },
   {
     "w": "meadow",
     "m": "đồng cỏ",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "mˈɛdoʊ"
   },
   {
     "w": "pasture",
     "m": "bãi chăn thả",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "pˈæstʃɚ"
   },
   {
     "w": "marsh",
     "m": "đầm lầy",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "mˈɑːɹʃ"
   },
   {
     "w": "swamp",
     "m": "vùng đầm lầy",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "swˈɑːmp"
   },
   {
     "w": "bog",
     "m": "đầm lầy than bùn",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "bˈɑːɡ"
   },
   {
     "w": "cliff",
     "m": "vách đá",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "klˈɪf"
   },
   {
     "w": "ravine",
     "m": "khe núi sâu",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "ɹəvˈiːn"
   },
   {
     "w": "gorge",
     "m": "hẻm núi",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "ɡˈɔːɹdʒ"
   },
   {
     "w": "summit",
     "m": "đỉnh núi",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "sˈʌmɪt"
   },
   {
     "w": "slope",
     "m": "sườn dốc",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "slˈoʊp"
   },
   {
     "w": "foothill",
     "m": "chân đồi",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "fˈʊthɪl"
   },
   {
     "w": "boulder",
     "m": "tảng đá lớn",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "bˈoʊldɚ"
   },
   {
     "w": "pebble",
     "m": "viên sỏi",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "pˈɛbəl"
   },
   {
     "w": "gravel",
     "m": "sỏi đá",
-    "cat": "thiên nhiên"
+    "cat": "thiên nhiên",
+    "p": "ɡɹˈævəl"
   }
 ]

@@ -2,5006 +2,6007 @@
   {
     "w": "morphology",
     "m": "hình thái học",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "mɔːɹfˈɑːlədʒi"
   },
   {
     "w": "syntax",
     "m": "cú pháp học",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "sˈɪntæks"
   },
   {
     "w": "phonology",
     "m": "âm vị học",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "fənˈɑːlədʒi"
   },
   {
     "w": "pragmatics",
     "m": "ngữ dụng học",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "pɹæɡmˈæɾɪks"
   },
   {
     "w": "sociolinguistics",
     "m": "ngôn ngữ học xã hội",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "sˌoʊsɪˌoʊlɪŋɡwˈɪstɪks"
   },
   {
     "w": "psycholinguistics",
     "m": "ngôn ngữ học tâm lý",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "sˌaɪkoʊlɪŋɡwˈɪstɪks"
   },
   {
     "w": "neurolinguistics",
     "m": "ngôn ngữ học thần kinh",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "nˌʊɹɹoʊlɪŋɡwˈɪstɪks"
   },
   {
     "w": "computational linguistics",
     "m": "ngôn ngữ học tính toán",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "kˌɑːmpjuːtˈeɪʃənəl lɪŋɡwˈɪstɪks"
   },
   {
     "w": "corpus linguistics",
     "m": "ngôn ngữ học ngữ liệu",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "kˈɔːɹpəs lɪŋɡwˈɪstɪks"
   },
   {
     "w": "discourse analysis",
     "m": "phân tích diễn ngôn",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "dˈɪskɔːɹs ɐnˈæləsˌɪs"
   },
   {
     "w": "conversation analysis",
     "m": "phân tích hội thoại",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "kɑːnvɚsˈeɪʃən ɐnˈæləsˌɪs"
   },
   {
     "w": "critical discourse analysis",
     "m": "phân tích diễn ngôn phê phán",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "kɹˈɪɾɪkəl dˈɪskɔːɹs ɐnˈæləsˌɪs"
   },
   {
     "w": "speech act theory",
     "m": "lý thuyết hành vi ngôn ngữ",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "spˈiːtʃ ˈækt θˈiəɹi"
   },
   {
     "w": "relevance theory",
     "m": "lý thuyết liên quan",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ɹˈɛlᵻvəns θˈiəɹi"
   },
   {
     "w": "prototype theory",
     "m": "lý thuyết nguyên mẫu",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "pɹˈoʊɾoʊtˌaɪp θˈiəɹi"
   },
   {
     "w": "cognitive linguistics",
     "m": "ngôn ngữ học nhận thức",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "kˈɑːɡnᵻtˌɪv lɪŋɡwˈɪstɪks"
   },
   {
     "w": "construction grammar",
     "m": "ngữ pháp kiến trúc",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "kənstɹˈʌkʃən ɡɹˈæmɚ"
   },
   {
     "w": "generative grammar",
     "m": "ngữ pháp tạo sinh",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "dʒˈɛnɚɹətˌɪv ɡɹˈæmɚ"
   },
   {
     "w": "transformational grammar",
     "m": "ngữ pháp biến đổi",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "tɹænsfɔːɹmˈeɪʃənəl ɡɹˈæmɚ"
   },
   {
     "w": "minimalist program",
     "m": "chương trình tối giản (ngôn ngữ học)",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "mˈɪnɪməlˌɪst pɹˈoʊɡɹæm"
   },
   {
     "w": "optimality theory",
     "m": "lý thuyết tối ưu",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ˌɑːptɪmˈælᵻɾi θˈiəɹi"
   },
   {
     "w": "lexical phonology",
     "m": "âm vị học từ vựng",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "lˈɛksɪkəl fənˈɑːlədʒi"
   },
   {
     "w": "prosody",
     "m": "ngữ điệu, vần luật",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "pɹˈɑːsədi"
   },
   {
     "w": "intonation",
     "m": "ngữ điệu",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ˌɪntənˈeɪʃən"
   },
   {
     "w": "syllabification",
     "m": "phân âm tiết",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "sˌɪlɐbˌɪfɪkˈeɪʃən"
   },
   {
     "w": "morpheme",
     "m": "hình vị",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "mˈɔːɹfiːm"
   },
   {
     "w": "allomorph",
     "m": "dị thể hình vị",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ˈæləmˌɔːɹf"
   },
   {
     "w": "phoneme",
     "m": "âm vị",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "fˈoʊniːm"
   },
   {
     "w": "allophone",
     "m": "dị thể âm vị",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ˈæləfˌoʊn"
   },
   {
     "w": "grapheme",
     "m": "chữ vị",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ɡɹˈæfiːm"
   },
   {
     "w": "lexeme",
     "m": "từ vị",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "lˈɛksiːm"
   },
   {
     "w": "sememe",
     "m": "nghĩa vị",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "sˈɛmiːm"
   },
   {
     "w": "morphosyntax",
     "m": "hình thái - cú pháp",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "mˈɔːɹfəsˌɪntæks"
   },
   {
     "w": "coarticulation",
     "m": "đồng cấu âm",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "kˌɔːɹɾɪkjʊlˈeɪʃən"
   },
   {
     "w": "assimilation",
     "m": "đồng hóa âm thanh",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ɐsˌɪmɪlˈeɪʃən"
   },
   {
     "w": "dissimilation",
     "m": "dị hóa âm thanh",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "dɪsˌɪmɪlˈeɪʃən"
   },
   {
     "w": "elision",
     "m": "tỉnh lược",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ᵻlˈɪʒən"
   },
   {
     "w": "epenthesis",
     "m": "chèn âm",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ˈɛpənθəsˌɪs"
   },
   {
     "w": "metathesis",
     "m": "đảo vị trí âm",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "mˌɛɾəθəsˈɪs"
   },
   {
     "w": "deixis",
     "m": "hồi chỉ, tham chiếu ngôn cảnh",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "dˈeɪksɪs"
   },
   {
     "w": "anaphora resolution",
     "m": "giải quyết hồi chiếu",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ˈænɐfˌɔːɹɚ ɹˌɛzəlˈuːʃən"
   },
   {
     "w": "presupposition",
     "m": "tiền giả định",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "pɹˌiːsəpəzˈɪʃən"
   },
   {
     "w": "entailment",
     "m": "kéo theo logic",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ɛntˈeɪlmənt"
   },
   {
     "w": "implicature",
     "m": "hàm ý hội thoại",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ˈɪmplɪkətʃˌʊɹ"
   },
   {
     "w": "cooperative principle",
     "m": "nguyên tắc hợp tác (Grice)",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "koʊˈɑːpɚɹətˌɪv pɹˈɪnsɪpəl"
   },
   {
     "w": "face theory",
     "m": "lý thuyết thể diện",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "fˈeɪs θˈiəɹi"
   },
   {
     "w": "politeness theory",
     "m": "lý thuyết lịch sự",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "pəlˈaɪtnəs θˈiəɹi"
   },
   {
     "w": "indexicality",
     "m": "tính chỉ thị",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ɪndˈɛksɪkˈælᵻɾi"
   },
   {
     "w": "iconicity",
     "m": "tính biểu tượng",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ˌaɪkənˈɪsᵻɾi"
   },
   {
     "w": "arbitrariness",
     "m": "tính võ đoán của ký hiệu",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "ˈɑːɹbɪtɹˌɛɹinəs"
   },
   {
     "w": "duality of patterning",
     "m": "tính kép của cấu trúc ngôn ngữ",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "duːˈælᵻɾi ʌv pˈætɚnɪŋ"
   },
   {
     "w": "linguistic relativity",
     "m": "tương đối ngôn ngữ (Sapir-Whorf)",
-    "cat": "linguistics"
+    "cat": "linguistics",
+    "p": "lɪŋɡwˈɪstɪk ɹˌɛlətˈɪvᵻɾi"
   },
   {
     "w": "oratory",
     "m": "hùng biện, diễn thuyết",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "ˈɔːɹətˌɔːɹi"
   },
   {
     "w": "cadence",
     "m": "nhịp điệu, nhịp ngữ",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "kˈeɪdəns"
   },
   {
     "w": "epistrophe",
     "m": "điệp cuối câu",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "ᵻpˈɪstɹəfi"
   },
   {
     "w": "symploce",
     "m": "điệp cả đầu và cuối",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "sˈɪmploʊs"
   },
   {
     "w": "anadiplosis",
     "m": "điệp lại từ cuối câu trước vào đầu câu sau",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "ˌænɐdɪplˈoʊsɪs"
   },
   {
     "w": "antanaclasis",
     "m": "lặp từ với nghĩa khác",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "ˌæntɐnɐklˈɑːsiz"
   },
   {
     "w": "polyptoton",
     "m": "dùng các dạng biến thể của một từ",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "pˌɑːlɪptˈɑːtən"
   },
   {
     "w": "hendiadys",
     "m": "dùng hai từ thay một cụm tính từ-danh từ",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "hˈɛndɪˌædiz"
   },
   {
     "w": "zeugma",
     "m": "dùng một từ khớp với nhiều từ khác",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "zjˈuːɡmə"
   },
   {
     "w": "syllepsis",
     "m": "dùng một từ khớp không đồng nhất với hai từ",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "sɪlˈɛpsɪs"
   },
   {
     "w": "prolepsis",
     "m": "đối kháng trước, phòng ngừa phản bác",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "pɹoʊlˈɛpsɪs"
   },
   {
     "w": "anacoluthon",
     "m": "câu đứt đoạn, không hoàn chỉnh cú pháp",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "ˈænɐkˌɑːlʌθən"
   },
   {
     "w": "parenthesis",
     "m": "câu chêm xen, ngoặc đơn",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "pɚɹˈɛnθəsˌɪs"
   },
   {
     "w": "enumeration",
     "m": "liệt kê",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "ɪnˌuːmɚɹˈeɪʃən"
   },
   {
     "w": "amplification",
     "m": "khuếch đại, mở rộng",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "ˌæmplɪfɪkˈeɪʃən"
   },
   {
     "w": "auxesis",
     "m": "tăng dần, leo thang",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "ɔːksˈiːsɪs"
   },
   {
     "w": "meiosis",
     "m": "thu nhỏ, nói giảm",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "meɪˈoʊsɪs"
   },
   {
     "w": "parallelism",
     "m": "song song cú pháp",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "pˈæɹəlˌɛlɪzəm"
   },
   {
     "w": "tricolon",
     "m": "bộ ba câu song song",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "tɹˈaɪkɑːlən"
   },
   {
     "w": "isocolon",
     "m": "câu song song đẳng chiều",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "ˈaɪsəkˌɑːlən"
   },
   {
     "w": "homoioteleuton",
     "m": "vần đuôi giống nhau",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "hˈɑːmɔɪˌoʊtluːtən"
   },
   {
     "w": "asyndeton",
     "m": "liệt kê không dùng liên từ",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "ɐsˈɪndɛtən"
   },
   {
     "w": "polysyndeton",
     "m": "liệt kê dùng nhiều liên từ",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "pˌɑːlɪsˈɪndɛtən"
   },
   {
     "w": "parataxis",
     "m": "cú pháp phối hợp",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "pˌæɹətˈæksɪs"
   },
   {
     "w": "hypotaxis",
     "m": "cú pháp lệ thuộc",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "hˌaɪpoʊtˈæksiz"
   },
   {
     "w": "periodic sentence",
     "m": "câu kết thúc ở mệnh đề chính",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "pˌiəɹɪˈɑːdɪk sˈɛntəns"
   },
   {
     "w": "cumulative sentence",
     "m": "câu bắt đầu bằng mệnh đề chính",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "kjˈuːmjʊlətˌɪv sˈɛntəns"
   },
   {
     "w": "balanced sentence",
     "m": "câu cân bằng",
-    "cat": "rhetoric_advanced"
+    "cat": "rhetoric_advanced",
+    "p": "bˈælənst sˈɛntəns"
   },
   {
     "w": "deconstruction",
     "m": "giải cấu trúc",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "dˌiːkənstɹˈʌkʃən"
   },
   {
     "w": "postmodernism",
     "m": "chủ nghĩa hậu hiện đại",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "pˈoʊstmədɚnˌɪzəm"
   },
   {
     "w": "hermeneutics",
     "m": "giải thích học văn bản",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "hˌɜːmənˈuːɾɪks"
   },
   {
     "w": "structuralism",
     "m": "chủ nghĩa cấu trúc",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "stɹˈʌktʃɚɹəlˌɪzəm"
   },
   {
     "w": "post-structuralism",
     "m": "chủ nghĩa hậu cấu trúc",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "pˈoʊststɹˈʌktʃɚɹəlˌɪzəm"
   },
   {
     "w": "psychoanalytic criticism",
     "m": "phê bình phân tâm học",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "sˌaɪkoʊˌænɐlˈɪɾɪk kɹˈɪɾɪsˌɪzəm"
   },
   {
     "w": "feminist criticism",
     "m": "phê bình nữ quyền",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "fˈɛmɪnˌɪst kɹˈɪɾɪsˌɪzəm"
   },
   {
     "w": "postcolonial theory",
     "m": "lý thuyết hậu thực dân",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "pˌoʊstkəlˈoʊnɪəl θˈiəɹi"
   },
   {
     "w": "narratology",
     "m": "tự sự học",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "nɚɹɐtˈɑːlədʒi"
   },
   {
     "w": "intertextuality",
     "m": "liên văn bản",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "ˌɪntɚtˌɛkstʃuːˈælᵻɾi"
   },
   {
     "w": "hypertextuality",
     "m": "siêu liên kết văn bản",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "hˌaɪpɚtˌɛkstʃuːˈælᵻɾi"
   },
   {
     "w": "metatextuality",
     "m": "siêu văn bản",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "mˌɛɾətˌɛkstʃuːˈælᵻɾi"
   },
   {
     "w": "palimpsest",
     "m": "văn bản viết đè, lớp nghĩa chồng chất",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "pˈælɪmpsɪst"
   },
   {
     "w": "simulacrum",
     "m": "hình ảnh giả, sao chép không có nguyên bản",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "sˌɪmjʊlˈeɪkɹəm"
   },
   {
     "w": "hyperreality",
     "m": "siêu thực tại",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "hˌaɪpɚɹɪˈælᵻɾi"
   },
   {
     "w": "différance",
     "m": "khái niệm derrida: sai biệt và trì hoãn",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "dˈɪfeɪɹəns"
   },
   {
     "w": "trace",
     "m": "dấu vết (Derrida)",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "tɹˈeɪs"
   },
   {
     "w": "supplement",
     "m": "bổ sung (Derrida)",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "sˈʌplɪmənt"
   },
   {
     "w": "aporia",
     "m": "ngõ cụt lý luận, nghịch lý không giải quyết được",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "ɐpˈɔːɹiə"
   },
   {
     "w": "logocentrism",
     "m": "trung tâm ngôn từ",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "lˈɑːɡoʊsˌɛntɹɪzəm"
   },
   {
     "w": "subaltern",
     "m": "người bị bên lề hóa, không có tiếng nói",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "sˈʌbɔltɚn"
   },
   {
     "w": "hegemony",
     "m": "bá quyền văn hóa",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "hˈɛdʒɪməni"
   },
   {
     "w": "counter-hegemony",
     "m": "phản bá quyền",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "kˈaʊntɚhˈɛdʒɪməni"
   },
   {
     "w": "biopower",
     "m": "quyền lực sinh học (Foucault)",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "bˌaɪoʊpˈaʊɚ"
   },
   {
     "w": "panopticon",
     "m": "tháp canh giám sát toàn diện (Foucault)",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "pˈænəptˌɪkən"
   },
   {
     "w": "heterotopia",
     "m": "không gian khác (Foucault)",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "hˌɛɾɚɹətˈoʊpiə"
   },
   {
     "w": "rhizome",
     "m": "thân rễ (Deleuze), cấu trúc phi phân cấp",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "ɹˈaɪzoʊm"
   },
   {
     "w": "nomadism",
     "m": "du mục, không cố định",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "nˈoʊmeɪdˌɪzəm"
   },
   {
     "w": "assemblage",
     "m": "tổ hợp, lắp ghép",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "ɐsˈɛmblɪdʒ"
   },
   {
     "w": "fabulation",
     "m": "hư cấu có yếu tố kỳ ảo",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "fˌæbjʊlˈeɪʃən"
   },
   {
     "w": "historiographic metafiction",
     "m": "siêu hư cấu lịch sử",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "hˌɪstɔːɹɪəɡɹˈæfɪk mˌɛɾəfˈɪkʃən"
   },
   {
     "w": "magical realism",
     "m": "hiện thực huyền ảo",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "mˈædʒɪkəl ɹˈiːəlɪzəm"
   },
   {
     "w": "defamiliarization",
     "m": "lạ hóa (Shklovsky)",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "dᵻfəmˌɪlɪɹᵻzˈeɪʃən"
   },
   {
     "w": "foregrounding",
     "m": "tiền cảnh hóa, làm nổi bật",
-    "cat": "literary_criticism"
+    "cat": "literary_criticism",
+    "p": "fˈɔːɹɡɹaʊndɪŋ"
   },
   {
     "w": "vernacular",
     "m": "ngôn ngữ địa phương, tiếng bản địa",
-    "cat": "register"
+    "cat": "register",
+    "p": "vɜːnˈækjʊlɚ"
   },
   {
     "w": "colloquial",
     "m": "thông tục, khẩu ngữ",
-    "cat": "register"
+    "cat": "register",
+    "p": "kəlˈoʊkwɪəl"
   },
   {
     "w": "archaic",
     "m": "cổ xưa, lỗi thời",
-    "cat": "register"
+    "cat": "register",
+    "p": "ɑːɹkˈeɪɪk"
   },
   {
     "w": "neologism",
     "m": "từ mới tạo ra",
-    "cat": "register"
+    "cat": "register",
+    "p": "niːˈoʊlədʒˌɪzəm"
   },
   {
     "w": "argot",
     "m": "tiếng lóng của nhóm đặc biệt",
-    "cat": "register"
+    "cat": "register",
+    "p": "ˈɑːɹɡət"
   },
   {
     "w": "patois",
     "m": "thổ ngữ, phương ngữ",
-    "cat": "register"
+    "cat": "register",
+    "p": "pˈætwɑː"
   },
   {
     "w": "pidgin",
     "m": "ngôn ngữ lai tạp",
-    "cat": "register"
+    "cat": "register",
+    "p": "pˈɪdʒɪn"
   },
   {
     "w": "creole",
     "m": "ngôn ngữ creole (hóa từ pidgin)",
-    "cat": "register"
+    "cat": "register",
+    "p": "kɹɪˈoʊl"
   },
   {
     "w": "idiolect",
     "m": "cách nói riêng của một cá nhân",
-    "cat": "register"
+    "cat": "register",
+    "p": "ˈɪdɪˌoʊləkt"
   },
   {
     "w": "amelioration",
     "m": "cải thiện ý nghĩa từ",
-    "cat": "register"
+    "cat": "register",
+    "p": "ɐmˌiːlɪɹˈeɪʃən"
   },
   {
     "w": "pejoration",
     "m": "xấu đi của nghĩa từ",
-    "cat": "register"
+    "cat": "register",
+    "p": "pˌɛdʒɚɹˈeɪʃən"
   },
   {
     "w": "semantic bleaching",
     "m": "phai nhạt nghĩa",
-    "cat": "register"
+    "cat": "register",
+    "p": "səmˈæntɪk blˈiːtʃɪŋ"
   },
   {
     "w": "semantic widening",
     "m": "mở rộng nghĩa",
-    "cat": "register"
+    "cat": "register",
+    "p": "səmˈæntɪk wˈaɪdənɪŋ"
   },
   {
     "w": "semantic narrowing",
     "m": "thu hẹp nghĩa",
-    "cat": "register"
+    "cat": "register",
+    "p": "səmˈæntɪk nˈæɹoʊɪŋ"
   },
   {
     "w": "connotation",
     "m": "hàm nghĩa, sắc thái ý",
-    "cat": "register"
+    "cat": "register",
+    "p": "kɑːnətˈeɪʃən"
   },
   {
     "w": "denotation",
     "m": "nghĩa tự điển",
-    "cat": "register"
+    "cat": "register",
+    "p": "dᵻnoʊtˈeɪʃən"
   },
   {
     "w": "pragmatic meaning",
     "m": "nghĩa ngữ dụng",
-    "cat": "register"
+    "cat": "register",
+    "p": "pɹæɡmˈæɾɪk mˈiːnɪŋ"
   },
   {
     "w": "register",
     "m": "phong cách ngôn ngữ theo tình huống",
-    "cat": "register"
+    "cat": "register",
+    "p": "ɹˈɛdʒɪstɚ"
   },
   {
     "w": "code-switching",
     "m": "chuyển mã ngôn ngữ",
-    "cat": "register"
+    "cat": "register",
+    "p": "kˈoʊdswˈɪtʃɪŋ"
   },
   {
     "w": "diglossia",
     "m": "song ngữ cộng đồng",
-    "cat": "register"
+    "cat": "register",
+    "p": "dɪɡlˈɔsiə"
   },
   {
     "w": "lingua franca",
     "m": "ngôn ngữ chung",
-    "cat": "register"
+    "cat": "register",
+    "p": "lˈɪŋɡjuːə fɹˈæŋkə"
   },
   {
     "w": "lexical gap",
     "m": "khoảng trống từ vựng",
-    "cat": "register"
+    "cat": "register",
+    "p": "lˈɛksɪkəl ɡˈæp"
   },
   {
     "w": "euphemistic treadmill",
     "m": "vòng thay thế uyển ngữ",
-    "cat": "register"
+    "cat": "register",
+    "p": "jˌuːfɪmˈɪstɪk tɹˈɛdmɪl"
   },
   {
     "w": "language endangerment",
     "m": "ngôn ngữ bị nguy cơ mất",
-    "cat": "register"
+    "cat": "register",
+    "p": "lˈæŋɡwɪdʒ ɛndˈeɪndʒɚmənt"
   },
   {
     "w": "language revitalization",
     "m": "hồi sinh ngôn ngữ",
-    "cat": "register"
+    "cat": "register",
+    "p": "lˈæŋɡwɪdʒ ɹᵻvˌaɪɾəlᵻzˈeɪʃən"
   },
   {
     "w": "oral tradition",
     "m": "truyền thống truyền khẩu",
-    "cat": "register"
+    "cat": "register",
+    "p": "ˈɔːɹəl tɹɐdˈɪʃən"
   },
   {
     "w": "consequentialism",
     "m": "chủ nghĩa hậu quả (đạo đức)",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "kˌɑːnsɪkwˈɛnʃɪəlˌɪzəm"
   },
   {
     "w": "deontology",
     "m": "đạo đức học về bổn phận",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "diːəntˈɑːlədʒi"
   },
   {
     "w": "virtue ethics",
     "m": "đạo đức học đức hạnh",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "vˈɜːtʃuː ˈɛθɪks"
   },
   {
     "w": "contractarianism",
     "m": "chủ nghĩa khế ước xã hội",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "kɑːntɹɐktˈɛɹiənˌɪzəm"
   },
   {
     "w": "care ethics",
     "m": "đạo đức chăm sóc",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "kˈɛɹ ˈɛθɪks"
   },
   {
     "w": "discourse ethics",
     "m": "đạo đức diễn ngôn (Habermas)",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "dˈɪskɔːɹs ˈɛθɪks"
   },
   {
     "w": "moral realism",
     "m": "chủ nghĩa thực tế đạo đức",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "mˈɔːɹəl ɹˈiːəlɪzəm"
   },
   {
     "w": "anti-realism",
     "m": "chủ nghĩa phản thực tế",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "ˈæntaɪɹˈiːəlɪzəm"
   },
   {
     "w": "error theory",
     "m": "lý thuyết lỗi đạo đức",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "ˈɛɹɚ θˈiəɹi"
   },
   {
     "w": "expressivism",
     "m": "chủ nghĩa biểu đạt đạo đức",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "ɛkspɹˈɛsɪvˌɪzəm"
   },
   {
     "w": "prescriptivism",
     "m": "chủ nghĩa quy định đạo đức",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "pɹɪskɹˈɪptɪvˌɪzəm"
   },
   {
     "w": "moral luck",
     "m": "may mắn đạo đức",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "mˈɔːɹəl lˈʌk"
   },
   {
     "w": "trolley problem",
     "m": "bài toán xe điện",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "tɹˈɑːli pɹˈɑːbləm"
   },
   {
     "w": "doctrine of double effect",
     "m": "học thuyết hiệu ứng kép",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "dˈɑːktɹɪn ʌv dˈʌbəl ɪfˈɛkt"
   },
   {
     "w": "categorical imperative",
     "m": "mệnh lệnh tuyệt đối (Kant)",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "kˌæɾɪɡˈɔːɹɪkəl ɪmpˈɛɹətˌɪv"
   },
   {
     "w": "veil of ignorance",
     "m": "tấm màn vô minh (Rawls)",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "vˈeɪl ʌv ˈɪɡnɚɹəns"
   },
   {
     "w": "original position",
     "m": "vị thế ban đầu (Rawls)",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "ɚɹˈɪdʒɪnəl pəzˈɪʃən"
   },
   {
     "w": "capabilities approach",
     "m": "cách tiếp cận năng lực (Sen/Nussbaum)",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "kˌeɪpəbˈɪlᵻɾiz ɐpɹˈoʊtʃ"
   },
   {
     "w": "reflective equilibrium",
     "m": "cân bằng phản chiếu",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "ɹᵻflˈɛktɪv ˌiːkwɪlˈɪbɹiəm"
   },
   {
     "w": "normative ethics",
     "m": "đạo đức học quy chuẩn",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "nˈɔːɹmətˌɪv ˈɛθɪks"
   },
   {
     "w": "applied ethics",
     "m": "đạo đức học ứng dụng",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "ɐplˈaɪd ˈɛθɪks"
   },
   {
     "w": "meta-ethics",
     "m": "siêu đạo đức học",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "mˈɛɾəˈɛθɪks"
   },
   {
     "w": "moral intuitionism",
     "m": "trực giác đạo đức",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "mˈɔːɹəl ɪntuːˈɪʃənˌɪzəm"
   },
   {
     "w": "nihilism",
     "m": "chủ nghĩa hư vô",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "nˈaɪəlˌɪzəm"
   },
   {
     "w": "moral relativism",
     "m": "tương đối luận đạo đức",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "mˈɔːɹəl ɹˈɛlətˌɪvɪzəm"
   },
   {
     "w": "moral absolutism",
     "m": "tuyệt đối luận đạo đức",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "mˈɔːɹəl ˈæbsəlˌuːɾɪzəm"
   },
   {
     "w": "utilitarianism",
     "m": "chủ nghĩa công lợi",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "jˌuːɾɪlɪtˈɛɹiənˌɪzəm"
   },
   {
     "w": "altruism",
     "m": "lòng vị tha",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "ˈɔːltɹuːˌɪzəm"
   },
   {
     "w": "egoism",
     "m": "chủ nghĩa vị kỷ",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "ˈiːɡoʊˌɪzəm"
   },
   {
     "w": "paternalism",
     "m": "chủ nghĩa gia trưởng",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "pətˈɜːnəlˌɪzəm"
   },
   {
     "w": "supererogation",
     "m": "hành động vượt bổn phận đạo đức",
-    "cat": "ethics"
+    "cat": "ethics",
+    "p": "sˌuːpɚɹɪɹəɡˈeɪʃən"
   },
   {
     "w": "positivism",
     "m": "chủ nghĩa thực chứng",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "pˈɑːzɪtˌɪvɪzəm"
   },
   {
     "w": "underdetermination",
     "m": "sự thiếu xác định (khoa học)",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "ˌʌndɚdɪtˌɜːmᵻnˈeɪʃən"
   },
   {
     "w": "theory-ladenness",
     "m": "tính phụ thuộc lý thuyết",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "θˈiəɹilˈeɪdənnəs"
   },
   {
     "w": "auxiliary hypotheses",
     "m": "giả thuyết bổ trợ",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "ɔːksˈɪliəɹi haɪpˈɑːθəsˌiːz"
   },
   {
     "w": "research program",
     "m": "chương trình nghiên cứu (Lakatos)",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "ɹᵻsˈɜːtʃ pɹˈoʊɡɹæm"
   },
   {
     "w": "progressive problemshift",
     "m": "dịch chuyển vấn đề tiến bộ",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "pɹəɡɹˈɛsɪv pɹˈɑːbəlmʃˌɪft"
   },
   {
     "w": "degenerative problemshift",
     "m": "dịch chuyển vấn đề thoái hóa",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "dᵻdʒˈɛnɚɹətˌɪv pɹˈɑːbəlmʃˌɪft"
   },
   {
     "w": "normal science",
     "m": "khoa học bình thường (Kuhn)",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "nˈɔːɹməl sˈaɪəns"
   },
   {
     "w": "revolutionary science",
     "m": "khoa học cách mạng (Kuhn)",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "ɹˌɛvəlˈuːʃənˌɛɹi sˈaɪəns"
   },
   {
     "w": "anomaly recognition",
     "m": "nhận ra bất thường",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "ɐnˈɑːməli ɹˌɛkəɡnˈɪʃən"
   },
   {
     "w": "multiple realizability",
     "m": "thực hiện đa dạng",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "mˌʌltɪpəl ɹˌiːəlaɪzəbˈɪlᵻɾi"
   },
   {
     "w": "causal closure",
     "m": "đóng kín nhân quả",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "kˈɔːzəl klˈoʊʒɚ"
   },
   {
     "w": "downward causation",
     "m": "nhân quả từ trên xuống",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "dˈaʊnwɚd kɔːsˈeɪʃən"
   },
   {
     "w": "emergence principle",
     "m": "nguyên lý nổi lên",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "ɪmˈɜːdʒəns pɹˈɪnsɪpəl"
   },
   {
     "w": "explanatory gap",
     "m": "khoảng cách giải thích (ý thức)",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "ɛksplˈænətˌɔːɹi ɡˈæp"
   },
   {
     "w": "hard problem of consciousness",
     "m": "vấn đề khó của ý thức",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "hˈɑːɹd pɹˈɑːbləm ʌv kˈɑːnʃəsnəs"
   },
   {
     "w": "qualia",
     "m": "chất liệu trải nghiệm chủ quan",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "kwˈɔliə"
   },
   {
     "w": "phenomenal consciousness",
     "m": "ý thức hiện tượng học",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "fɪnˈɑːmɪnəl kˈɑːnʃəsnəs"
   },
   {
     "w": "epiphenomenalism",
     "m": "chủ nghĩa phụ hiện tượng",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "ˈɛpɪfɪnˌɑːmɪnəlˌɪzəm"
   },
   {
     "w": "eliminative materialism",
     "m": "chủ nghĩa duy vật loại trừ",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "ᵻlˈɪmɪnətˌɪv mətˈɪɹiəlˌɪzəm"
   },
   {
     "w": "naturalized epistemology",
     "m": "nhận thức luận tự nhiên hóa",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "nˈætʃɚɹəlˌaɪzd ᵻpˌɪstɪmˈɑːlədʒi"
   },
   {
     "w": "logical positivism",
     "m": "chủ nghĩa thực chứng logic",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "lˈɑːdʒɪkəl pˈɑːzɪtˌɪvɪzəm"
   },
   {
     "w": "verificationism",
     "m": "chủ nghĩa xác minh",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "vˌɛɹɪfɪkˈeɪʃənˌɪzəm"
   },
   {
     "w": "demarcation problem",
     "m": "vấn đề phân giới khoa học",
-    "cat": "science_discourse"
+    "cat": "science_discourse",
+    "p": "dᵻmɑːɹkˈeɪʃən pɹˈɑːbləm"
   },
   {
     "w": "tonality",
     "m": "giọng điệu, âm điệu",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "toʊnˈælᵻɾi"
   },
   {
     "w": "narrative distance",
     "m": "khoảng cách tự sự",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "nˈæɹətˌɪv dˈɪstəns"
   },
   {
     "w": "free indirect discourse",
     "m": "diễn ngôn gián tiếp tự do",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "fɹˈiː ˌɪndɚɹˈɛkt dˈɪskɔːɹs"
   },
   {
     "w": "interior monologue",
     "m": "độc thoại nội tâm",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "ɪntˈɪɹiɚ mˈɑːnoʊlˌɑːɡ"
   },
   {
     "w": "unreliable narration",
     "m": "kể chuyện không đáng tin",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "ˌʌnɹᵻlˈaɪəbəl nɚɹˈeɪʃən"
   },
   {
     "w": "dramatic irony",
     "m": "nghịch lý kịch tính",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "dɹəmˈæɾɪk ˈaɪɹəni"
   },
   {
     "w": "cosmic irony",
     "m": "nghịch lý vũ trụ",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "kˈɑːzmɪk ˈaɪɹəni"
   },
   {
     "w": "self-referentiality",
     "m": "tự tham chiếu",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "sˈɛlfɹˌɛfɚɹˈɛnʃɪˈælᵻɾi"
   },
   {
     "w": "metafiction",
     "m": "siêu hư cấu",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "mˌɛɾəfˈɪkʃən"
   },
   {
     "w": "ostranenie",
     "m": "lạ hóa (tiếng Nga)",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "ˈɑːstɹeɪnni"
   },
   {
     "w": "automatization",
     "m": "tự động hóa nhận thức",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "ˌɔːɾəmˌæɾᵻzˈeɪʃən"
   },
   {
     "w": "polyphony",
     "m": "đa âm, đa giọng",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "pˌɑːlˈɪfəni"
   },
   {
     "w": "dialogism",
     "m": "chủ nghĩa đối thoại (Bakhtin)",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "dˈaɪələdʒˌɪzəm"
   },
   {
     "w": "carnivalesque",
     "m": "lễ hội tính (Bakhtin)",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "kˌɑːɹnɪveɪlˈɛsk"
   },
   {
     "w": "grotesque realism",
     "m": "hiện thực kỳ quái",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "ɡɹoʊtˈɛsk ɹˈiːəlɪzəm"
   },
   {
     "w": "heteroglossia",
     "m": "đa ngữ (Bakhtin)",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "hˌɛɾɚɹəɡlˈɔsiə"
   },
   {
     "w": "univocal",
     "m": "một giọng, đơn điệu",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "jˈuːnɪvˌɑːkəl"
   },
   {
     "w": "ellipsis",
     "m": "tỉnh lược, dấu chấm lửng",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "ɪlˈɪpsɪs"
   },
   {
     "w": "anachronism",
     "m": "sai lịch sử, không đúng thời đại",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "ænˈækɹənˌɪzəm"
   },
   {
     "w": "prolepsis",
     "m": "dự báo, tiền nghiệm",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "pɹoʊlˈɛpsɪs"
   },
   {
     "w": "analepsis",
     "m": "hồi tưởng, nhìn lại",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "ˌæneɪlˈɛpsɪs"
   },
   {
     "w": "mise en abyme",
     "m": "gương phản chiếu bên trong văn bản",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "mɪsˈiː ˈɛn ɐbˈaɪm"
   },
   {
     "w": "focalization",
     "m": "tiêu điểm hóa tự sự",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "fˌoʊkəlᵻzˈeɪʃən"
   },
   {
     "w": "extradiegetic",
     "m": "ngoài câu chuyện (người kể)",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "ˌɛkstɹədiːdʒˈɛɾɪk"
   },
   {
     "w": "intradiegetic",
     "m": "trong câu chuyện (người kể)",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "ˌɪntɹədiːdʒˈɛɾɪk"
   },
   {
     "w": "homodiegetic",
     "m": "người kể là nhân vật trong truyện",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "hˌɑːmoʊdiːdʒˈɛɾɪk"
   },
   {
     "w": "heterodiegetic",
     "m": "người kể ngoài câu chuyện",
-    "cat": "style_writing"
+    "cat": "style_writing",
+    "p": "hˌɛɾɚɹˌoʊdiːdʒˈɛɾɪk"
   },
   {
     "w": "ineffable",
     "m": "không thể diễn đạt bằng lời",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnˈɛfəbəl"
   },
   {
     "w": "serendipitous",
     "m": "tình cờ may mắn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˌɛɹəndˈɪpɪɾəs"
   },
   {
     "w": "ephemeral",
     "m": "phù du, chóng tàn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪfˈɛmɚɹəl"
   },
   {
     "w": "mellifluous",
     "m": "ngọt ngào, du dương",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mɛlˈɪfluːəs"
   },
   {
     "w": "surreptitious",
     "m": "lén lút, bí mật",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sɚɹɪptˈɪʃəs"
   },
   {
     "w": "clandestine",
     "m": "bí mật, ngầm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "klændˈɛstɪn"
   },
   {
     "w": "perspicacious",
     "m": "sắc bén, tinh tường",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɚspɪkˈeɪʃəs"
   },
   {
     "w": "garrulous",
     "m": "ba hoa, nói nhiều",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɡˈæɹələs"
   },
   {
     "w": "loquacious",
     "m": "hay nói, nhiều lời",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ləkwˈeɪʃəs"
   },
   {
     "w": "taciturn",
     "m": "ít nói, trầm lặng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈæsɪtˌɜːn"
   },
   {
     "w": "laconic",
     "m": "ngắn gọn, súc tích",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lækˈɑːnɪk"
   },
   {
     "w": "vociferous",
     "m": "ồn ào, kêu to",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "voʊsˈɪfɚɹəs"
   },
   {
     "w": "obstreperous",
     "m": "ồn ào, ngang ngược",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "əbstɹˈɛpɚɹəs"
   },
   {
     "w": "recalcitrant",
     "m": "bướng bỉnh, không chịu phục",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹᵻkˈælsɪtɹənt"
   },
   {
     "w": "intransigent",
     "m": "cứng nhắc, không thỏa hiệp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪntɹˈænsɪdʒənt"
   },
   {
     "w": "obdurate",
     "m": "ngoan cố, cứng đầu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɑːbdʒɚɹət"
   },
   {
     "w": "indefatigable",
     "m": "không biết mệt mỏi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪndᵻfˈæɾɪɡəbəl"
   },
   {
     "w": "pusillanimous",
     "m": "hèn nhát, yếu đuối",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pjˌuːsɪlˈænɪməs"
   },
   {
     "w": "magnanimous",
     "m": "khoan dung, độ lượng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mæɡnˈænɪməs"
   },
   {
     "w": "munificent",
     "m": "rộng lượng, hào phóng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mjuːnˈɪfɪsənt"
   },
   {
     "w": "parsimonious",
     "m": "keo kiệt, bủn xỉn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˌɑːɹsɪmˈoʊniəs"
   },
   {
     "w": "profligate",
     "m": "hoang phí, bừa bãi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˈɑːflᵻɡˌeɪt"
   },
   {
     "w": "penurious",
     "m": "bần cùng, cơ cực",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɛnjˈʊɹɹiəs"
   },
   {
     "w": "querulous",
     "m": "hay phàn nàn, hay than vãn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kwˈɜːjʊləs"
   },
   {
     "w": "truculent",
     "m": "hung hăng, hiếu chiến",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹˈʌkjʊlənt"
   },
   {
     "w": "pugnacious",
     "m": "háo chiến, ưa đánh nhau",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pʌɡnˈeɪʃəs"
   },
   {
     "w": "bellicose",
     "m": "hay gây chiến, hiếu chiến",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bˈɛlɪkˌoʊs"
   },
   {
     "w": "irascible",
     "m": "nóng tính, dễ nổi giận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪɹˈæsəbəl"
   },
   {
     "w": "petulant",
     "m": "cáu kỉnh, bực bội",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɛtʃələnt"
   },
   {
     "w": "churlish",
     "m": "thô lỗ, bẳn tính",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tʃˈɜːlɪʃ"
   },
   {
     "w": "boorish",
     "m": "thô lỗ, vô văn hóa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bˈɔːɹɪʃ"
   },
   {
     "w": "loutish",
     "m": "thô thiển, kém văn hóa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈaʊɾɪʃ"
   },
   {
     "w": "supercilious",
     "m": "kiêu ngạo, hợm hĩnh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˌuːpɚsˈɪliəs"
   },
   {
     "w": "imperious",
     "m": "hống hách, độc đoán",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪmpˈɪɹiəs"
   },
   {
     "w": "obsequious",
     "m": "nịnh hót, quỵ lụy",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "əbsˈiːkwɪəs"
   },
   {
     "w": "unctuous",
     "m": "nịnh nọt thái quá, bề ngoài tốt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈʌŋktʃuːəs"
   },
   {
     "w": "sycophantic",
     "m": "xu nịnh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˌɪkəfˈæntɪk"
   },
   {
     "w": "inveterate",
     "m": "lâu năm, cố hữu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnvˈɛɾɚɹˌeɪt"
   },
   {
     "w": "inimical",
     "m": "thù địch, bất lợi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnˈɪmɪkəl"
   },
   {
     "w": "internecine",
     "m": "gây hại lẫn nhau",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪntɚnˈɛsiːn"
   },
   {
     "w": "propitious",
     "m": "thuận lợi, may mắn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹəpˈɪʃəs"
   },
   {
     "w": "auspicious",
     "m": "tốt lành, thuận lợi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɔːspˈɪʃəs"
   },
   {
     "w": "inauspicious",
     "m": "không tốt lành",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnɔːspˈɪʃəs"
   },
   {
     "w": "felicitous",
     "m": "thích hợp, khéo léo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fɛlˈɪsɪɾəs"
   },
   {
     "w": "infelicitous",
     "m": "không phù hợp, vụng về",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnfɛlˈɪsɪɾəs"
   },
   {
     "w": "apposite",
     "m": "thích hợp, đúng chỗ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐpˈɑːzɪt"
   },
   {
     "w": "apropos",
     "m": "đúng lúc, thích hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌæpɹəpˈoʊ"
   },
   {
     "w": "germane",
     "m": "liên quan, thích hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dʒˈɜːmeɪn"
   },
   {
     "w": "salient",
     "m": "nổi bật, quan trọng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈeɪliənt"
   },
   {
     "w": "trenchant",
     "m": "sắc bén, cắt ngắn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹˈɛntʃənt"
   },
   {
     "w": "mordant",
     "m": "châm biếm cay cú",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɔːɹdənt"
   },
   {
     "w": "caustic",
     "m": "mỉa mai, cay độc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈɔːstɪk"
   },
   {
     "w": "acerbic",
     "m": "cay đắng, độc địa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐsˈɜːbɪk"
   },
   {
     "w": "acrimonious",
     "m": "chua cay, gay gắt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌækɹɪmˈoʊniəs"
   },
   {
     "w": "vitriolic",
     "m": "cay độc, hằn học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vˌɪtɹɪˈɑːlɪk"
   },
   {
     "w": "vituperate",
     "m": "chửi bới, lên án",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vˈɪɾuːpɚɹˌeɪt"
   },
   {
     "w": "excoriate",
     "m": "lên án kịch liệt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɛkskˈɔːɹɪˌeɪt"
   },
   {
     "w": "castigate",
     "m": "nghiêm khắc phê phán",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈæstᵻɡˌeɪt"
   },
   {
     "w": "censure",
     "m": "lên án, chỉ trích chính thức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɛnʃɚ"
   },
   {
     "w": "opprobrium",
     "m": "sự nhục nhã, tiếng xấu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɑːpɹˈɑːbɹiəm"
   },
   {
     "w": "ignominy",
     "m": "nhục nhã, ô nhục",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɪɡnəmˌɪni"
   },
   {
     "w": "obloquy",
     "m": "chỉ trích công khai",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɑːbləkwi"
   },
   {
     "w": "contumely",
     "m": "sự khinh miệt, lời xúc phạm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kəntˈuːmli"
   },
   {
     "w": "traduce",
     "m": "vu khống, bôi nhọ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹˈædʒuːs"
   },
   {
     "w": "calumny",
     "m": "vu khống, nói xấu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈælʌmni"
   },
   {
     "w": "malfeasance",
     "m": "hành vi sai trái, tham nhũng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˌælfˈiːzəns"
   },
   {
     "w": "turpitude",
     "m": "tội lỗi, sự vô đạo đức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈɜːpɪtˌuːd"
   },
   {
     "w": "perfidy",
     "m": "sự phản bội, gian trá",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɜːfɪdi"
   },
   {
     "w": "duplicity",
     "m": "sự giả dối, lừa đảo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "duːplˈɪsᵻɾi"
   },
   {
     "w": "mendacity",
     "m": "sự gian dối",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mɛndˈæsᵻɾi"
   },
   {
     "w": "venal",
     "m": "hay hối lộ, tham nhũng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vˈiːnəl"
   },
   {
     "w": "venality",
     "m": "tham nhũng, hay ăn hối lộ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vɛnˈælᵻɾi"
   },
   {
     "w": "rapacious",
     "m": "tham lam, hám lợi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹæpˈeɪʃəs"
   },
   {
     "w": "avaricious",
     "m": "hám tiền, keo kiệt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌævɚɹˈɪʃəs"
   },
   {
     "w": "covetous",
     "m": "tham lam, thèm khát",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈʌvəɾəs"
   },
   {
     "w": "acquisitive",
     "m": "ham muốn có được",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐkwˈɪzᵻtˌɪv"
   },
   {
     "w": "profuse",
     "m": "dồi dào, phong phú",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹəfjˈuːz"
   },
   {
     "w": "copious",
     "m": "nhiều, phong phú",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈoʊpiəs"
   },
   {
     "w": "plethora",
     "m": "thừa mứa, quá nhiều",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "plˈɛθɚɹə"
   },
   {
     "w": "surfeit",
     "m": "quá mức, dư thừa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɜːfɪt"
   },
   {
     "w": "paucity",
     "m": "thiếu hụt, khan hiếm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɔːsᵻɾi"
   },
   {
     "w": "dearth",
     "m": "sự thiếu hụt, khan hiếm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dˈɜːθ"
   },
   {
     "w": "lacuna",
     "m": "khoảng trống, thiếu sót",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lækˈuːnə"
   },
   {
     "w": "hiatus",
     "m": "gián đoạn, ngưng quãng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "haɪˈeɪɾəs"
   },
   {
     "w": "respite",
     "m": "nghỉ ngơi tạm thời, giải thoát",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˈɛspɪt"
   },
   {
     "w": "surcease",
     "m": "chấm dứt, ngưng lại",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɜːsiːs"
   },
   {
     "w": "cessation",
     "m": "sự ngưng, chấm dứt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sɛsˈeɪʃən"
   },
   {
     "w": "denouement",
     "m": "kết cục, phần giải quyết",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "deɪnˈuːmɔ̃"
   },
   {
     "w": "coda",
     "m": "đoạn kết thêm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈoʊdə"
   },
   {
     "w": "epilogue",
     "m": "lời bạt, kết vĩ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɛpɪlˌɑːɡ"
   },
   {
     "w": "prologue",
     "m": "lời tựa, phần mở đầu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˈoʊlɑːɡ"
   },
   {
     "w": "exordium",
     "m": "phần mở đầu bài diễn văn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɛɡzˈɔːɹdiəm"
   },
   {
     "w": "peroration",
     "m": "phần kết bài diễn văn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˌɛɹɚɹˈeɪʃən"
   },
   {
     "w": "exegesis",
     "m": "giải thích văn bản tôn giáo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɛɡzɪdʒˈiːsɪs"
   },
   {
     "w": "eisegesis",
     "m": "đọc ý cá nhân vào văn bản",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌaɪzɪdʒˈiːsɪs"
   },
   {
     "w": "apocryphal",
     "m": "không xác thực, ngụy tạo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐpˈɑːkɹɪfəl"
   },
   {
     "w": "apothegm",
     "m": "câu châm ngôn ngắn gọn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐpˈɑːθɛm"
   },
   {
     "w": "aphorism",
     "m": "câu cách ngôn, châm ngôn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈæfɚɹˌɪzəm"
   },
   {
     "w": "maxim",
     "m": "châm ngôn, nguyên tắc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈæksɪm"
   },
   {
     "w": "adage",
     "m": "tục ngữ, câu nói quen thuộc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈædɪdʒ"
   },
   {
     "w": "bromide",
     "m": "câu sáo rỗng, nhàm chán",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bɹˈoʊmaɪd"
   },
   {
     "w": "platitude",
     "m": "câu nói sáo, vô vị",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "plˈæɾɪtˌuːd"
   },
   {
     "w": "truism",
     "m": "điều hiển nhiên nhàm chán",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹˈuːɪzəm"
   },
   {
     "w": "tautology",
     "m": "tương đồng luận, lặp lại",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɔːtˈɑːlədʒi"
   },
   {
     "w": "solecism",
     "m": "lỗi ngữ pháp, lỗi phép xã giao",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈoʊlsɪzəm"
   },
   {
     "w": "malapropism",
     "m": "nhầm từ nghe giống nhau",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈælɐpɹˌɑːpɪzəm"
   },
   {
     "w": "spoonerism",
     "m": "đổi chỗ âm đầu vô ý",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "spˈuːnɚɹˌɪzəm"
   },
   {
     "w": "portmanteau word",
     "m": "từ ghép hai từ lại",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɔːɹtmɐntˌoʊ wˈɜːd"
   },
   {
     "w": "catachresis",
     "m": "dùng từ sai nhưng chấp nhận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˌæɾɐtʃɹˈiːsɪs"
   },
   {
     "w": "dysphemism",
     "m": "dùng từ thô thay từ tế nhị",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪsfˈiːmɪzəm"
   },
   {
     "w": "hypocorism",
     "m": "từ thân mật, tên gọi yêu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˌaɪpoʊkˈɔːɹɪzəm"
   },
   {
     "w": "kenning",
     "m": "cụm từ thơ cổ thay thế danh từ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈɛnɪŋ"
   },
   {
     "w": "periphrasis",
     "m": "nói vòng vo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɚɹɪfɹˈɑːsiz"
   },
   {
     "w": "circumlocution",
     "m": "nói vòng vo, dài dòng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˌɜːkəmləkjˈuːʃən"
   },
   {
     "w": "pleonasm",
     "m": "thừa từ, dư thừa ngữ nghĩa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "plɪˈɑːnæzəm"
   },
   {
     "w": "tautophony",
     "m": "lặp âm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɔːtˈɑːfəni"
   },
   {
     "w": "cacophony",
     "m": "âm thanh khó nghe, chói tai",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kɐkˈɑːfəni"
   },
   {
     "w": "euphony",
     "m": "âm điệu du dương, êm tai",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "jˈuːfəni"
   },
   {
     "w": "onomatopoeia",
     "m": "từ tượng thanh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɑːnəmˌæɾəpˈoʊiə"
   },
   {
     "w": "tmesis",
     "m": "chèn từ vào giữa từ ghép",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈiːmˈiːsɪs"
   },
   {
     "w": "hendecasyllable",
     "m": "câu thơ mười một âm tiết",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˈɛndɪkˌæsɪləbəl"
   },
   {
     "w": "iambic pentameter",
     "m": "thơ năm âm bộ iamb",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "aɪˈæmbɪk pˈɛntɐmˌiːɾɚ"
   },
   {
     "w": "alexandrine",
     "m": "câu thơ mười hai âm tiết",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌælɪɡzˈændɹiːn"
   },
   {
     "w": "vers libre",
     "m": "thơ tự do",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vˈɜːz liːbɹə"
   },
   {
     "w": "enjambment",
     "m": "vắt câu sang dòng thơ tiếp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɛndʒˈæmmənt"
   },
   {
     "w": "caesura",
     "m": "dừng giữa dòng thơ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈiːsɜːɹə"
   },
   {
     "w": "dactyl",
     "m": "âm tiết dài ngắn ngắn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dˈæktaɪl"
   },
   {
     "w": "spondee",
     "m": "hai âm tiết dài",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "spˈɑːndiː"
   },
   {
     "w": "trochee",
     "m": "âm tiết dài ngắn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹˈoʊkiː"
   },
   {
     "w": "anapest",
     "m": "ngắn ngắn dài",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈæneɪpˌɪst"
   },
   {
     "w": "pyrrhic",
     "m": "ngắn ngắn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɪrhɪk"
   },
   {
     "w": "elegy",
     "m": "thơ ai điếu, khúc bi ca",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɛlɪdʒi"
   },
   {
     "w": "ode",
     "m": "bài thơ tụng ca",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈoʊd"
   },
   {
     "w": "villanelle",
     "m": "thể thơ villanelle",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vˌɪleɪnˈɛl"
   },
   {
     "w": "pantoum",
     "m": "thể thơ pantoum",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pæntˈuːm"
   },
   {
     "w": "ghazal",
     "m": "thể thơ ghazal",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɡˈɑːzəl"
   },
   {
     "w": "haiku",
     "m": "thơ haiku",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˈaɪkuː"
   },
   {
     "w": "limerick",
     "m": "thơ vui limerick",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈɪmɚɹˌɪk"
   },
   {
     "w": "sonnet",
     "m": "thể thơ 14 câu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɑːnɪt"
   },
   {
     "w": "terza rima",
     "m": "thể thơ ba dòng liên vần",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈɜːzɚ ɹˈiːmə"
   },
   {
     "w": "ottava rima",
     "m": "thể thơ tám dòng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɑːtˈɑːvɚ ɹˈiːmə"
   },
   {
     "w": "rhyme royal",
     "m": "thể thơ vua vần",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˈaɪm ɹˈɔɪəl"
   },
   {
     "w": "Petrarchan sonnet",
     "m": "sonnet kiểu Petrarch",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɛtɹɑːɹtʃən sˈɑːnɪt"
   },
   {
     "w": "Shakespearean sonnet",
     "m": "sonnet kiểu Shakespeare",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ʃˈeɪkspɪɹˌiən sˈɑːnɪt"
   },
   {
     "w": "verisimilitude",
     "m": "tính chân thực, giống thực tế",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vˈɛɹɪsˌɪmɪlˌɪɾuːd"
   },
   {
     "w": "verity",
     "m": "sự thật, điều hiển nhiên",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vˈɛɹᵻɾi"
   },
   {
     "w": "veracity",
     "m": "tính trung thực, chính xác",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vəɹˈæsᵻɾi"
   },
   {
     "w": "integrity",
     "m": "liêm chính, toàn vẹn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪntˈɛɡɹᵻɾi"
   },
   {
     "w": "probity",
     "m": "liêm khiết, chính trực",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˈɑːbᵻɾi"
   },
   {
     "w": "rectitude",
     "m": "ngay thẳng, chính trực",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˈɛktɪtˌuːd"
   },
   {
     "w": "scrupulous",
     "m": "cẩn thận tỉ mỉ, có lương tâm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "skɹˈuːpjʊləs"
   },
   {
     "w": "punctilious",
     "m": "cầu kỳ về lễ nghi, quá tỉ mỉ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pʌŋktˈɪliəs"
   },
   {
     "w": "fastidious",
     "m": "khó tính, cầu kỳ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fæstˈɪdiəs"
   },
   {
     "w": "finicky",
     "m": "kén chọn, khó tính",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈɪnɪki"
   },
   {
     "w": "squeamish",
     "m": "dễ thấy ghê, nhạy cảm thái quá",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "skwˈiːmɪʃ"
   },
   {
     "w": "diffident",
     "m": "thiếu tự tin, nhút nhát",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dˈɪfɪdənt"
   },
   {
     "w": "reticent",
     "m": "kín đáo, ít nói",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˈɛɾɪsənt"
   },
   {
     "w": "circumspect",
     "m": "thận trọng, cẩn thận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɜːkəmspˌɛkt"
   },
   {
     "w": "wary",
     "m": "cảnh giác, thận trọng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "wˈɛɹi"
   },
   {
     "w": "chary",
     "m": "dè dặt, cẩn thận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tʃˈɛɹi"
   },
   {
     "w": "sanguine",
     "m": "lạc quan, đỏ tươi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈæŋɡwɪn"
   },
   {
     "w": "phlegmatic",
     "m": "điềm tĩnh, lạnh lùng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "flɛɡmˈæɾɪk"
   },
   {
     "w": "melancholic",
     "m": "u sầu, buồn bã",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˌɛləŋkˈɑːlɪk"
   },
   {
     "w": "choleric",
     "m": "nóng tính, dễ giận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "koʊlˈɛɹɪk"
   },
   {
     "w": "bilious",
     "m": "cáu kỉnh, khó chịu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bˈɪliəs"
   },
   {
     "w": "dyspeptic",
     "m": "cau có, khó chịu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪspˈɛptɪk"
   },
   {
     "w": "lugubrious",
     "m": "u ám, buồn bã",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ləɡˈuːbɹɪəs"
   },
   {
     "w": "maudlin",
     "m": "sentimental thái quá",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɔːdlɪn"
   },
   {
     "w": "lachrymose",
     "m": "hay khóc, ủy mị",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈækɹɪmˌoʊs"
   },
   {
     "w": "bathetic",
     "m": "rơi xuống từ cao cả sang tầm thường",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "beɪðˈɛɾɪk"
   },
   {
     "w": "risible",
     "m": "buồn cười, đáng cười",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˈɪzᵻbəl"
   },
   {
     "w": "ludicrous",
     "m": "lố bịch, ngớ ngẩn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈuːdɪkɹəs"
   },
   {
     "w": "farcical",
     "m": "hài hước kệch cỡm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈɑːɹsɪkəl"
   },
   {
     "w": "absurdist",
     "m": "thuộc chủ nghĩa phi lý",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐbsˈɜːdɪst"
   },
   {
     "w": "sardonic",
     "m": "mỉa mai cay độc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sɑːɹdˈɑːnɪk"
   },
   {
     "w": "wry",
     "m": "mỉa mai nhẹ, hóm hỉnh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˈaɪ"
   },
   {
     "w": "droll",
     "m": "hóm hỉnh, buồn cười nhẹ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɹˈoʊl"
   },
   {
     "w": "waggish",
     "m": "tinh nghịch, đùa cợt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "wˈæɡɪʃ"
   },
   {
     "w": "jocular",
     "m": "vui vẻ, hay đùa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dʒˈɑːkjʊlɚ"
   },
   {
     "w": "facetious",
     "m": "đùa không đúng lúc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fɐsˈiːʃəs"
   },
   {
     "w": "flippant",
     "m": "vô trách nhiệm, coi thường",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "flˈɪpənt"
   },
   {
     "w": "impertinent",
     "m": "vô lễ, xấc xược",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪmpˈɜːtɪnənt"
   },
   {
     "w": "impudent",
     "m": "vô lễ, liều lĩnh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪmpjˈuːdənt"
   },
   {
     "w": "insolent",
     "m": "xấc láo, hỗn hào",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɪnsələnt"
   },
   {
     "w": "brazen",
     "m": "trơ tráo, không biết xấu hổ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bɹˈeɪzən"
   },
   {
     "w": "audacious",
     "m": "táo bạo, liều lĩnh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɔːdˈeɪʃəs"
   },
   {
     "w": "intrepid",
     "m": "dũng cảm, can đảm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪntɹˈɛpɪd"
   },
   {
     "w": "dauntless",
     "m": "vô úy, không sợ hãi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dˈɔːntləs"
   },
   {
     "w": "stalwart",
     "m": "vững chắc, trung thành",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "stˈɔːlwɔːɹt"
   },
   {
     "w": "steadfast",
     "m": "kiên định, không lay chuyển",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "stˈɛdfæst"
   },
   {
     "w": "unwavering",
     "m": "không dao động, vững chắc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ʌnwˈeɪvɚɹɪŋ"
   },
   {
     "w": "resolute",
     "m": "quyết tâm, kiên quyết",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˈɛzəlˌuːt"
   },
   {
     "w": "inexorable",
     "m": "không thể ngăn cản, tàn nhẫn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnˈɛksɚɹəbəl"
   },
   {
     "w": "relentless",
     "m": "không ngừng, không thương xót",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹɪlˈɛntləs"
   },
   {
     "w": "ruthless",
     "m": "tàn nhẫn, không thương hại",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˈuːθləs"
   },
   {
     "w": "merciless",
     "m": "không có lòng thương",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɜːsiləs"
   },
   {
     "w": "implacable",
     "m": "không thể xoa dịu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪmplˈækəbəl"
   },
   {
     "w": "indomitable",
     "m": "không khuất phục",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪndˈɑːmɪɾəbəl"
   },
   {
     "w": "invincible",
     "m": "bất khả chiến bại",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnvˈɪnsᵻbəl"
   },
   {
     "w": "impervious",
     "m": "không thấm qua, miễn nhiễm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪmpˈɜːviəs"
   },
   {
     "w": "impregnable",
     "m": "kiên cố, không thể công phá",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪmpɹˈɛɡnəbəl"
   },
   {
     "w": "invulnerable",
     "m": "không thể tổn thương",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnvˈʌlnɚɹəbəl"
   },
   {
     "w": "inviolable",
     "m": "bất khả xâm phạm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnvˈaɪələbəl"
   },
   {
     "w": "sacrosanct",
     "m": "thiêng liêng, bất khả xâm phạm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈækɹəsˌæŋkt"
   },
   {
     "w": "indefeasible",
     "m": "không thể mất hiệu lực",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪndᵻfˈiːzᵻbəl"
   },
   {
     "w": "inalienable",
     "m": "không thể chuyển nhượng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnˈeɪliənəbəl"
   },
   {
     "w": "interminable",
     "m": "không hồi kết, mãi mãi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪntˈɜːmɪnəbəl"
   },
   {
     "w": "inexhaustible",
     "m": "không cạn kiệt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪnɛɡzˈɔːstᵻbəl"
   },
   {
     "w": "insatiable",
     "m": "không thể thỏa mãn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnsˈeɪʃɪəbəl"
   },
   {
     "w": "voracious",
     "m": "tham ăn, ham muốn cực kỳ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vɔːɹˈeɪʃəs"
   },
   {
     "w": "ravenous",
     "m": "đói mãnh liệt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˈævənəs"
   },
   {
     "w": "edacious",
     "m": "háu ăn, tham lam",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɛdˈeɪʃəs"
   },
   {
     "w": "omnivorous",
     "m": "ăn tạp, quan tâm mọi thứ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɑːmnˈɪvɚɹəs"
   },
   {
     "w": "cosmopolitan",
     "m": "thế giới đại đồng, nhiều nơi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˌɑːzməpˈɑːlɪtən"
   },
   {
     "w": "eclectic",
     "m": "chọn lọc từ nhiều nguồn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪklˈɛktɪk"
   },
   {
     "w": "heterodox",
     "m": "dị giáo, không chính thống",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˈɛɾɚɹˌoʊdɑːks"
   },
   {
     "w": "orthodox",
     "m": "chính thống",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɔːɹθədˌɑːks"
   },
   {
     "w": "canonical",
     "m": "quy phạm, chính tắc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kɐnˈɑːnɪkəl"
   },
   {
     "w": "apocryphal",
     "m": "không được công nhận, ngụy thư",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐpˈɑːkɹɪfəl"
   },
   {
     "w": "esoteric",
     "m": "bí truyền, chỉ dành cho người được chọn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛsoʊtˈɛɹɪk"
   },
   {
     "w": "recondite",
     "m": "ít biết, uyên thâm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˌiːkəndˈaɪt"
   },
   {
     "w": "abstruse",
     "m": "khó hiểu, bí hiểm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐbstɹˈuːs"
   },
   {
     "w": "arcane",
     "m": "bí ẩn, bí truyền",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɑːɹkˈeɪn"
   },
   {
     "w": "cryptic",
     "m": "bí ẩn, khó hiểu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kɹˈɪptɪk"
   },
   {
     "w": "enigmatic",
     "m": "bí ẩn, khó đoán",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛnɪɡmˈæɾɪk"
   },
   {
     "w": "inscrutable",
     "m": "khó dò, bí hiểm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnskɹˈuːɾəbəl"
   },
   {
     "w": "impenetrable",
     "m": "không thể hiểu, dày đặc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪmpˈɛnɪtɹəbəl"
   },
   {
     "w": "labyrinthine",
     "m": "mê cung, phức tạp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˌæbɚɹˈɪnθiːn"
   },
   {
     "w": "Byzantine",
     "m": "phức tạp rắc rối",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bˈɪzɐntˌiːn"
   },
   {
     "w": "tortuous",
     "m": "quanh co, uốn lượn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈɔːɹtʃuːəs"
   },
   {
     "w": "convoluted",
     "m": "rắc rối, phức tạp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˌɑːnvəlˈuːɾᵻd"
   },
   {
     "w": "circumlocutory",
     "m": "vòng vo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɜːkəmlˌɑːkjuːtˌɔːɹi"
   },
   {
     "w": "turgid",
     "m": "phồng to, hoa mỹ rỗng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈɜːdʒɪd"
   },
   {
     "w": "grandiloquent",
     "m": "hoa mỹ, hùng hồn giả tạo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɡɹˈændɪlˌɑːkwənt"
   },
   {
     "w": "bombastic",
     "m": "khoác lác, hoa hòe",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bəmbˈæstɪk"
   },
   {
     "w": "pompous",
     "m": "hợm hĩnh, khoa trương",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɑːmpəs"
   },
   {
     "w": "pretentious",
     "m": "giả tạo, ra vẻ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹɪtˈɛnʃəs"
   },
   {
     "w": "ostentatious",
     "m": "khoe khoang, phô trương",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɑːstəntˈeɪʃəs"
   },
   {
     "w": "flamboyant",
     "m": "rực rỡ, phô trương",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "flˈæmbɔɪənt"
   },
   {
     "w": "garish",
     "m": "lòe loẹt, sặc sỡ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɡˈɛɹɪʃ"
   },
   {
     "w": "gaudy",
     "m": "lòe loẹt, rẻ tiền",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɡˈɔːdi"
   },
   {
     "w": "tawdry",
     "m": "lòe loẹt nhưng rẻ tiền",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈɔːdɹi"
   },
   {
     "w": "meretricious",
     "m": "hấp dẫn giả tạo, rẻ tiền",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˌɛɹɪtɹˈɪʃəs"
   },
   {
     "w": "specious",
     "m": "có vẻ hợp lý nhưng sai",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "spˈiːʃəs"
   },
   {
     "w": "plausible",
     "m": "có lý, đáng tin",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "plˈɔːzᵻbəl"
   },
   {
     "w": "credulous",
     "m": "dễ tin, cả tin",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kɹˈɛdʒuːləs"
   },
   {
     "w": "credulity",
     "m": "sự cả tin",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kɹɛdʒˈuːlᵻɾi"
   },
   {
     "w": "gullible",
     "m": "dễ bị lừa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɡˈʌlᵻbəl"
   },
   {
     "w": "naïve",
     "m": "ngây thơ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "naɪˈiːv"
   },
   {
     "w": "ingenuous",
     "m": "thẳng thắn chân thực",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪndʒˈɛnjuːəs"
   },
   {
     "w": "disingenuous",
     "m": "giả vờ thành thật",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dˌɪsɪndʒˈɛnjuːəs"
   },
   {
     "w": "dissembling",
     "m": "giả vờ, che đậy",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪsˈɛmblɪŋ"
   },
   {
     "w": "dissimulation",
     "m": "giả vờ, giấu giếm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪsˌɪmjʊlˈeɪʃən"
   },
   {
     "w": "prevarication",
     "m": "nói quanh co, nói lòng vòng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹɪvˌæɹɪkˈeɪʃən"
   },
   {
     "w": "equivocation",
     "m": "nói mập mờ, lưỡng nghĩa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪkwˌɪvəkˈeɪʃən"
   },
   {
     "w": "tergiversation",
     "m": "phản bội, thay đổi lập trường",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˌɜːɡɪvɚsˈeɪʃən"
   },
   {
     "w": "temporize",
     "m": "trì hoãn, chần chừ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈɛmpɚɹˌaɪz"
   },
   {
     "w": "procrastinate",
     "m": "trì hoãn, để sau",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹoʊkɹˈæstᵻnˌeɪt"
   },
   {
     "w": "vacillate",
     "m": "dao động, do dự",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vˈæsɪlˌeɪt"
   },
   {
     "w": "prevaricate",
     "m": "nói quanh co, tránh né",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹɪvˈæɹᵻkˌeɪt"
   },
   {
     "w": "hedge",
     "m": "né tránh, không dứt khoát",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˈɛdʒ"
   },
   {
     "w": "equivocate",
     "m": "nói mập mờ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪkwˈɪvəkˌeɪt"
   },
   {
     "w": "palter",
     "m": "giả dối, nói mập mờ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɔltɚ"
   },
   {
     "w": "fib",
     "m": "nói dối nhỏ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈɪb"
   },
   {
     "w": "dissemble",
     "m": "che đậy, giả vờ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪsˈɛmbəl"
   },
   {
     "w": "dissimulate",
     "m": "giả vờ, giấu cảm xúc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪsˈɪmjʊlˌeɪt"
   },
   {
     "w": "simulate",
     "m": "giả vờ, mô phỏng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɪmjʊlˌeɪt"
   },
   {
     "w": "feign",
     "m": "giả vờ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈeɪn"
   },
   {
     "w": "counterfeit",
     "m": "giả mạo, làm giả",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈaʊntɚfˌeɪt"
   },
   {
     "w": "spurious",
     "m": "giả, không xác thực",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "spjˈʊɹɹiəs"
   },
   {
     "w": "ersatz",
     "m": "giả mạo, thay thế kém",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɜːsæts"
   },
   {
     "w": "factitious",
     "m": "nhân tạo, giả tạo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fæktˈɪʃəs"
   },
   {
     "w": "adventitious",
     "m": "ngẫu nhiên, bên ngoài",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌædvəntˈɪʃəs"
   },
   {
     "w": "fortuitous",
     "m": "tình cờ, may mắn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fɔːɹtˈuːɪɾəs"
   },
   {
     "w": "serendipity",
     "m": "tình cờ may mắn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˌɛɹəndˈɪpᵻɾi"
   },
   {
     "w": "synchronicity",
     "m": "đồng bộ ngẫu nhiên (Jung)",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˌɪŋkɹənˈɪsᵻɾi"
   },
   {
     "w": "concatenation",
     "m": "chuỗi, nối tiếp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kəŋkˌætənˈeɪʃən"
   },
   {
     "w": "confluence",
     "m": "sự hội tụ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈɑːnfluːəns"
   },
   {
     "w": "convergence",
     "m": "sự hội tụ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kənvˈɜːdʒəns"
   },
   {
     "w": "nexus",
     "m": "mối liên hệ, trung tâm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈɛksəs"
   },
   {
     "w": "crux",
     "m": "điểm cốt lõi, vấn đề then chốt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kɹˈʌks"
   },
   {
     "w": "nub",
     "m": "trọng tâm, vấn đề",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈʌb"
   },
   {
     "w": "kernel",
     "m": "hạt nhân, cốt lõi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈɜːnəl"
   },
   {
     "w": "quintessence",
     "m": "tinh túy, bản chất",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kwˈɪntɛsəns"
   },
   {
     "w": "apotheosis",
     "m": "đỉnh cao, sự hoàn hảo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐpˈɑːθiːəsiz"
   },
   {
     "w": "acme",
     "m": "đỉnh cao, điểm cực đại",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈækmi"
   },
   {
     "w": "zenith",
     "m": "đỉnh điểm, thiên đỉnh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "zˈiːnɪθ"
   },
   {
     "w": "nadir",
     "m": "điểm thấp nhất",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈædɪɹ"
   },
   {
     "w": "perigee",
     "m": "cận điểm quỹ đạo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɛɹɪdʒˌiː"
   },
   {
     "w": "apogee",
     "m": "viễn điểm, đỉnh cao",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈæpoʊdʒˌiː"
   },
   {
     "w": "aphelion",
     "m": "điểm xa nhất với mặt trời",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐfˈɛliən"
   },
   {
     "w": "perihelion",
     "m": "điểm gần nhất với mặt trời",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˌɛɹɪhˈɛliən"
   },
   {
     "w": "diurnal",
     "m": "thuộc ban ngày, hàng ngày",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dˈɪɜːnəl"
   },
   {
     "w": "nocturnal",
     "m": "thuộc ban đêm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nɑːktˈɜːnəl"
   },
   {
     "w": "crepuscular",
     "m": "thuộc lúc chạng vạng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kɹɛpˈʌskjʊlɚ"
   },
   {
     "w": "liminal",
     "m": "ở ngưỡng, trạng thái chuyển tiếp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈɪmɪnəl"
   },
   {
     "w": "transitional",
     "m": "chuyển tiếp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹænsˈɪʃənəl"
   },
   {
     "w": "interstitial",
     "m": "nằm giữa, kẽ hở",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪntɚstˈɪʃəl"
   },
   {
     "w": "peripheral",
     "m": "ngoại vi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɚɹˈɪfɚɹəl"
   },
   {
     "w": "marginal",
     "m": "không đáng kể, ngoại vi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɑːɹdʒɪnəl"
   },
   {
     "w": "incipient",
     "m": "mới bắt đầu, mới nảy sinh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnsˈɪpiənt"
   },
   {
     "w": "nascent",
     "m": "non nớt, vừa hình thành",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈeɪsənt"
   },
   {
     "w": "embryonic",
     "m": "phôi thai, sơ khai",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛmbɹɪˈɑːnɪk"
   },
   {
     "w": "rudimentary",
     "m": "sơ khai, cơ bản nhất",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˌuːdɪmˈɛntɚɹi"
   },
   {
     "w": "vestigial",
     "m": "tàn tích, còn lại",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vˈɛstɪdʒəl"
   },
   {
     "w": "atavistic",
     "m": "quay về tổ tiên",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌæɾɐvˈɪstɪk"
   },
   {
     "w": "anachronistic",
     "m": "lạc hậu, không đúng thời",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌænɐkɹənˈɪstɪk"
   },
   {
     "w": "contemporaneous",
     "m": "cùng thời đại",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kəntˌɛmpɔːɹˈeɪniəs"
   },
   {
     "w": "synchronous",
     "m": "đồng bộ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɪŋkɹənəs"
   },
   {
     "w": "asynchronous",
     "m": "không đồng bộ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐsˈɪŋkɹənəs"
   },
   {
     "w": "sequential",
     "m": "theo thứ tự",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "siːkwˈɛnʃəl"
   },
   {
     "w": "iterative",
     "m": "lặp đi lặp lại, cải tiến dần",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɪɾɚɹətˌɪv"
   },
   {
     "w": "recursive",
     "m": "đệ quy",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹᵻkˈɜːsɪv"
   },
   {
     "w": "stochastic",
     "m": "ngẫu nhiên, xác suất",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "stətʃˈæstɪk"
   },
   {
     "w": "deterministic",
     "m": "tất định, xác định",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪtˌɜːmɪnˈɪstɪk"
   },
   {
     "w": "probabilistic",
     "m": "mang tính xác suất",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˌɑːbəbɪlˈɪstɪk"
   },
   {
     "w": "heuristic",
     "m": "phương pháp thực nghiệm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hjuːɹˈɪstɪk"
   },
   {
     "w": "algorithmic",
     "m": "theo thuật toán",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌælɡɚɹˈɪθmɪk"
   },
   {
     "w": "combinatorial",
     "m": "tổ hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˌɑːmbɪnɐtˈɔːɹɪəl"
   },
   {
     "w": "permutational",
     "m": "hoán vị",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˌɜːmjuːtˈeɪʃənəl"
   },
   {
     "w": "isomorphic",
     "m": "đẳng cấu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌaɪsəmˈɔːɹfɪk"
   },
   {
     "w": "homomorphic",
     "m": "đồng cấu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˌɑːməmˈɔːɹfɪk"
   },
   {
     "w": "polymorphic",
     "m": "đa hình",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˌɑːlɪmˈɔːɹfɪk"
   },
   {
     "w": "monomorphic",
     "m": "đơn hình",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˌɑːnoʊmˈɔːɹfɪk"
   },
   {
     "w": "orthogonal",
     "m": "trực giao",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɔːɹθˈɑːɡənəl"
   },
   {
     "w": "canonical",
     "m": "chính tắc, quy phạm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kɐnˈɑːnɪkəl"
   },
   {
     "w": "apostate",
     "m": "người bội giáo, người từ bỏ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐpˈɔsteɪt"
   },
   {
     "w": "heretic",
     "m": "kẻ dị giáo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˈɛɹətˌɪk"
   },
   {
     "w": "iconoclast",
     "m": "người phá bỏ thần tượng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈaɪkənˌɑːklæst"
   },
   {
     "w": "contrarian",
     "m": "người luôn đi ngược lại",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˌɑːntɹɚɹˈaɪən"
   },
   {
     "w": "maverick",
     "m": "người độc lập, không tuân theo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈævɚɹˌɪk"
   },
   {
     "w": "nonconformist",
     "m": "người không tuân theo quy tắc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˌɑːŋkənfˈɔːɹmɪst"
   },
   {
     "w": "heterodox",
     "m": "không chính thống",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˈɛɾɚɹˌoʊdɑːks"
   },
   {
     "w": "subversive",
     "m": "lật đổ, phá vỡ trật tự",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "səbvˈɜːsɪv"
   },
   {
     "w": "transgressive",
     "m": "vi phạm quy tắc, vượt giới hạn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹænsɡɹˈɛsɪv"
   },
   {
     "w": "disruptive",
     "m": "phá vỡ, gây rối loạn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪsɹˈʌptɪv"
   },
   {
     "w": "revolutionary",
     "m": "cách mạng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˌɛvəlˈuːʃənˌɛɹi"
   },
   {
     "w": "radical",
     "m": "triệt để, cực đoan",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˈædɪkəl"
   },
   {
     "w": "reactionary",
     "m": "phản động, bảo thủ cực đoan",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹɪˈækʃənˌɛɹi"
   },
   {
     "w": "progressive",
     "m": "tiến bộ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹəɡɹˈɛsɪv"
   },
   {
     "w": "moderate",
     "m": "ôn hòa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɑːdɚɹət"
   },
   {
     "w": "centrist",
     "m": "trung dung",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɛntɹɪst"
   },
   {
     "w": "partisan",
     "m": "đảng phái, chiến đấu viên",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɑːɹɾɪsən"
   },
   {
     "w": "factional",
     "m": "phe phái",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈækʃənəl"
   },
   {
     "w": "sectarian",
     "m": "bè phái, cực đoan tôn giáo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sɛktˈɛɹiən"
   },
   {
     "w": "fundamentalist",
     "m": "người cực đoan cơ bản",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˌʌndəmˈɛntəlˌɪst"
   },
   {
     "w": "orthodox",
     "m": "chính thống",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɔːɹθədˌɑːks"
   },
   {
     "w": "traditionalist",
     "m": "người bảo vệ truyền thống",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹɐdˈɪʃənəlˌɪst"
   },
   {
     "w": "conservationist",
     "m": "người bảo tồn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˌɑːnsɚvˈeɪʃənˌɪst"
   },
   {
     "w": "preservationist",
     "m": "người bảo tồn di sản",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹɪzɚvˈeɪʃənˌɪst"
   },
   {
     "w": "revisionist",
     "m": "người xét lại lịch sử",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹᵻvˈɪʒənˌɪst"
   },
   {
     "w": "abolitionist",
     "m": "người đòi xóa bỏ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌæbəlˈɪʃənˌɪst"
   },
   {
     "w": "reformist",
     "m": "người ủng hộ cải cách",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹᵻfˈɔːɹmɪst"
   },
   {
     "w": "incrementalist",
     "m": "người ủng hộ thay đổi từng bước",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪŋkɹɪmˈɛntəlˌɪst"
   },
   {
     "w": "transformationalist",
     "m": "người ủng hộ thay đổi triệt để",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹænsfɔːɹmˈeɪʃənəlˌɪst"
   },
   {
     "w": "utopian",
     "m": "không tưởng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "juːtˈoʊpiən"
   },
   {
     "w": "dystopian",
     "m": "phản không tưởng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪstˈoʊpiən"
   },
   {
     "w": "millenarian",
     "m": "liên quan đến kỷ nguyên hoàn hảo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mɪlənˈɛɹiən"
   },
   {
     "w": "eschatological",
     "m": "liên quan đến cánh chung",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛʃɐɾəlˈɑːdʒɪkəl"
   },
   {
     "w": "apocalyptic",
     "m": "ngày tận thế, khải huyền",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐpˌɑːkɐlˈɪptɪk"
   },
   {
     "w": "messianic",
     "m": "cứu thế, mang tính đấng cứu thế",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˌɛsɪˈænɪk"
   },
   {
     "w": "prophetic",
     "m": "tiên tri, mang tính tiên báo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹɑːfˈɛɾɪk"
   },
   {
     "w": "oracular",
     "m": "tiên tri, như lời sấm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɔːɹˈækjʊlɚ"
   },
   {
     "w": "sibylline",
     "m": "bí ẩn, tiên tri",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɪbɪlˌaɪn"
   },
   {
     "w": "chthonic",
     "m": "thuộc cõi âm ti",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˌiːˈeɪtʃθˈɑːnɪk"
   },
   {
     "w": "numinous",
     "m": "thiêng liêng, kính sợ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈuːmɪnəs"
   },
   {
     "w": "ineffable",
     "m": "không nói được",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnˈɛfəbəl"
   },
   {
     "w": "liminal space",
     "m": "không gian ngưỡng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈɪmɪnəl spˈeɪs"
   },
   {
     "w": "apophatic",
     "m": "tiêu cực thần học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐpəfˈæɾɪk"
   },
   {
     "w": "cataphatic",
     "m": "tích cực thần học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˌæɾɐfˈæɾɪk"
   },
   {
     "w": "mystical",
     "m": "huyền bí",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɪstɪkəl"
   },
   {
     "w": "transcendental",
     "m": "siêu việt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹænsəndˈɛntəl"
   },
   {
     "w": "immanent",
     "m": "nội tại, hiện diện trong",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪmˈeɪnənt"
   },
   {
     "w": "pantheistic",
     "m": "phiếm thần luận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˌænθiːˈɪstɪk"
   },
   {
     "w": "panentheistic",
     "m": "thuyết Thần nội tại",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˌeɪnənθiːˈɪstɪk"
   },
   {
     "w": "theistic",
     "m": "hữu thần",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "θiːˈɪstɪk"
   },
   {
     "w": "atheistic",
     "m": "vô thần",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌeɪθɪˈɪstɪk"
   },
   {
     "w": "agnostic",
     "m": "bất khả tri",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "æɡnˈɑːstɪk"
   },
   {
     "w": "deistic",
     "m": "tự nhiên thần luận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "deɪˈɪstɪk"
   },
   {
     "w": "animistic",
     "m": "vạn vật hữu linh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌænɪmˈɪstɪk"
   },
   {
     "w": "totemic",
     "m": "tô tem",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɑːtˈɛmɪk"
   },
   {
     "w": "shamanic",
     "m": "pháp sư",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ʃæmˈænɪk"
   },
   {
     "w": "ritualistic",
     "m": "nghi lễ, theo nghi thức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˌɪtʃuːəlˈɪstɪk"
   },
   {
     "w": "ceremonial",
     "m": "lễ nghi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˌɛɹᵻmˈoʊnɪəl"
   },
   {
     "w": "liturgical",
     "m": "phụng vụ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lɪtˈɜːdʒɪkəl"
   },
   {
     "w": "sacramental",
     "m": "thuộc bí tích",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˌækɹəmˈɛntəl"
   },
   {
     "w": "ecclesiastical",
     "m": "thuộc giáo hội",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ᵻklˌiːzɪˈæstɪkəl"
   },
   {
     "w": "clerical",
     "m": "giáo sĩ, văn phòng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "klˈɛɹɪkəl"
   },
   {
     "w": "monastic",
     "m": "tu sĩ, khổ tu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mənˈæstɪk"
   },
   {
     "w": "ascetic",
     "m": "khổ hạnh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐsˈɛɾɪk"
   },
   {
     "w": "anchorite",
     "m": "ẩn sĩ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈæŋkɚɹˌaɪt"
   },
   {
     "w": "hermetic",
     "m": "hàn kín, bí ẩn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hɜːmˈɛɾɪk"
   },
   {
     "w": "occult",
     "m": "huyền bí học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "əkˈʌlt"
   },
   {
     "w": "esoteric",
     "m": "bí truyền",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛsoʊtˈɛɹɪk"
   },
   {
     "w": "exoteric",
     "m": "công khai, bình dân",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɛɡzoʊtˈɛɹɪk"
   },
   {
     "w": "gnosis",
     "m": "sự hiểu biết huyền bí",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈoʊsɪs"
   },
   {
     "w": "apocryphal",
     "m": "không chính tắc, ngụy tạo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐpˈɑːkɹɪfəl"
   },
   {
     "w": "hagiographic",
     "m": "tiểu sử thánh nhân",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˌædʒɪəɡɹˈæfɪk"
   },
   {
     "w": "hagiography",
     "m": "tiểu sử thánh nhân",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˌædʒɪˈɑːɡɹəfi"
   },
   {
     "w": "iconography",
     "m": "biểu tượng học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌaɪkənˈɑːɡɹəfi"
   },
   {
     "w": "iconoclasm",
     "m": "phá tượng, phá bỏ truyền thống",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈaɪkənˌɑːklæzəm"
   },
   {
     "w": "idolatry",
     "m": "thờ thần tượng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "aɪdˈɑːlətɹi"
   },
   {
     "w": "iconodulism",
     "m": "tôn kính ảnh thánh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈaɪkənˌɑːdʒuːlˌɪzəm"
   },
   {
     "w": "fetishism",
     "m": "sùng bái vật thể",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈɛɾɪʃˌɪzəm"
   },
   {
     "w": "anthropomorphism",
     "m": "nhân cách hóa thần linh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ænθɹˈɑːpəmˌɔːɹfɪzəm"
   },
   {
     "w": "theriomorphism",
     "m": "hình thú của thần linh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ðɚɹɪˈɑːmɔːɹfˌɪzəm"
   },
   {
     "w": "syncretism",
     "m": "hỗn hợp tôn giáo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɪŋkɹɪtˌɪzəm"
   },
   {
     "w": "syncretic",
     "m": "hỗn hợp, pha tạp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sɪŋkɹˈɛɾɪk"
   },
   {
     "w": "ecumenical",
     "m": "liên giáo hội",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛkjuːmˈɛnɪkəl"
   },
   {
     "w": "interfaith",
     "m": "liên tôn giáo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪntɚfˈeɪθ"
   },
   {
     "w": "pluralistic",
     "m": "đa nguyên",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "plˌʊɹɹəlˈɪstɪk"
   },
   {
     "w": "exclusivist",
     "m": "độc quyền, không khoan nhượng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɛksklˈuːsɪvˌɪst"
   },
   {
     "w": "inclusivist",
     "m": "bao gộp, rộng rãi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪŋklˈuːsɪvˌɪst"
   },
   {
     "w": "perennialist",
     "m": "theo chủ nghĩa vĩnh cửu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɛɹənˌɪəlˌɪst"
   },
   {
     "w": "liberationist",
     "m": "theo thần học giải phóng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˌɪbɚɹˈeɪʃənˌɪst"
   },
   {
     "w": "theodicy",
     "m": "biện minh cho Chúa trước khổ đau",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "θiːədˈɪsi"
   },
   {
     "w": "eschatology",
     "m": "học về cánh chung",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛʃɐtˈɑːlədʒi"
   },
   {
     "w": "soteriology",
     "m": "học về sự cứu rỗi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "soʊtˌiəɹɪˈɑːlədʒi"
   },
   {
     "w": "hamartiology",
     "m": "học về tội lỗi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˌæmɑːɹɾɪˈɑːlədʒi"
   },
   {
     "w": "pneumatology",
     "m": "học về Thánh Linh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˌuːmɐtˈɑːlədʒi"
   },
   {
     "w": "Christology",
     "m": "học về bản chất Chúa Giêsu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kɹɪstˈɑːlədʒi"
   },
   {
     "w": "ecclesiology",
     "m": "học về giáo hội",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ᵻklˌiːzɪˈɑːlədʒi"
   },
   {
     "w": "ontological argument",
     "m": "lập luận bản thể luận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɑːntəlˈɑːdʒɪkəl ˈɑːɹɡjuːmənt"
   },
   {
     "w": "cosmological argument",
     "m": "lập luận vũ trụ học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˌɑːzməlˈɑːdʒɪkəl ˈɑːɹɡjuːmənt"
   },
   {
     "w": "teleological argument",
     "m": "lập luận mục đích luận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˌɛlᵻəlˈɑːdʒɪkəl ˈɑːɹɡjuːmənt"
   },
   {
     "w": "moral argument",
     "m": "lập luận đạo đức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɔːɹəl ˈɑːɹɡjuːmənt"
   },
   {
     "w": "argument from design",
     "m": "lập luận từ thiết kế",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɑːɹɡjuːmənt fɹʌm dɪzˈaɪn"
   },
   {
     "w": "argument from evil",
     "m": "lập luận từ cái ác",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɑːɹɡjuːmənt fɹʌm ˈiːvəl"
   },
   {
     "w": "Pascal's wager",
     "m": "cá cược của Pascal",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈæskəlz wˈeɪdʒɚ"
   },
   {
     "w": "leap of faith",
     "m": "bước nhảy đức tin",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈiːp ʌv fˈeɪθ"
   },
   {
     "w": "fideism",
     "m": "đức tin chủ nghĩa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈaɪdɪzəm"
   },
   {
     "w": "evidentialism",
     "m": "bằng chứng chủ nghĩa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛvɪdˈɛnʃɪəlˌɪzəm"
   },
   {
     "w": "reformed epistemology",
     "m": "nhận thức luận cải cách",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹᵻfˈɔːɹmd ᵻpˌɪstɪmˈɑːlədʒi"
   },
   {
     "w": "natural theology",
     "m": "thần học tự nhiên",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈætʃɚɹəl θɪˈɑːlədʒi"
   },
   {
     "w": "revealed theology",
     "m": "thần học mặc khải",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹᵻvˈiːld θɪˈɑːlədʒi"
   },
   {
     "w": "apophatic theology",
     "m": "thần học phủ định",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐpəfˈæɾɪk θɪˈɑːlədʒi"
   },
   {
     "w": "cataphatic theology",
     "m": "thần học khẳng định",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˌæɾɐfˈæɾɪk θɪˈɑːlədʒi"
   },
   {
     "w": "process theology",
     "m": "thần học tiến trình",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˈɑːsɛs θɪˈɑːlədʒi"
   },
   {
     "w": "liberation theology",
     "m": "thần học giải phóng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˌɪbɚɹˈeɪʃən θɪˈɑːlədʒi"
   },
   {
     "w": "feminist theology",
     "m": "thần học nữ quyền",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈɛmɪnˌɪst θɪˈɑːlədʒi"
   },
   {
     "w": "eco-theology",
     "m": "thần học sinh thái",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈiːkoʊθɪˈɑːlədʒi"
   },
   {
     "w": "political theology",
     "m": "thần học chính trị",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pəlˈɪɾɪkəl θɪˈɑːlədʒi"
   },
   {
     "w": "death of God theology",
     "m": "thần học cái chết của Chúa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dˈɛθ ʌv ɡˈɑːd θɪˈɑːlədʒi"
   },
   {
     "w": "secular theology",
     "m": "thần học thế tục",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɛkjʊlɚ θɪˈɑːlədʒi"
   },
   {
     "w": "negative theology",
     "m": "thần học phủ định",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈɛɡətˌɪv θɪˈɑːlədʒi"
   },
   {
     "w": "apophasis",
     "m": "phủ định thần học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐpəfˈɑːsiz"
   },
   {
     "w": "cataphasis",
     "m": "khẳng định thần học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˌæɾɐfˈɑːsiz"
   },
   {
     "w": "metaphysical dualism",
     "m": "nhị nguyên siêu hình",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˌɛɾəfˈɪzɪkəl dˈuːəlˌɪzəm"
   },
   {
     "w": "monism",
     "m": "nhất nguyên luận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈoʊnɪzəm"
   },
   {
     "w": "substance dualism",
     "m": "nhị nguyên bản thể",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈʌbstəns dˈuːəlˌɪzəm"
   },
   {
     "w": "property dualism",
     "m": "nhị nguyên thuộc tính",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˈɑːpɚɾi dˈuːəlˌɪzəm"
   },
   {
     "w": "epiphenomenalism",
     "m": "hiện tượng phụ luận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɛpɪfɪnˌɑːmɪnəlˌɪzəm"
   },
   {
     "w": "interactionism",
     "m": "luận tương tác",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪntɚɹˈækʃənˌɪzəm"
   },
   {
     "w": "occasionalism",
     "m": "nhân duyên luận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "əkˈeɪʒənəlˌɪzəm"
   },
   {
     "w": "parallelism",
     "m": "song hành luận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈæɹəlˌɛlɪzəm"
   },
   {
     "w": "identity theory",
     "m": "lý thuyết đồng nhất",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "aɪdˈɛntᵻɾi θˈiəɹi"
   },
   {
     "w": "type identity theory",
     "m": "lý thuyết đồng nhất kiểu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈaɪp aɪdˈɛntᵻɾi θˈiəɹi"
   },
   {
     "w": "token identity theory",
     "m": "lý thuyết đồng nhất phần tử",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈoʊkən aɪdˈɛntᵻɾi θˈiəɹi"
   },
   {
     "w": "anomalous monism",
     "m": "nhất nguyên dị thường",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐnˈɑːmələs mˈoʊnɪzəm"
   },
   {
     "w": "eliminative materialism",
     "m": "duy vật loại trừ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ᵻlˈɪmɪnətˌɪv mətˈɪɹiəlˌɪzəm"
   },
   {
     "w": "reductive materialism",
     "m": "duy vật quy giản",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹᵻdˈʌktɪv mətˈɪɹiəlˌɪzəm"
   },
   {
     "w": "non-reductive physicalism",
     "m": "duy vật lý không quy giản",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈɑːnɹᵻdˈʌktɪv fˈɪzɪkəlˌɪzəm"
   },
   {
     "w": "structural realism",
     "m": "chủ nghĩa thực tế cấu trúc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "stɹˈʌktʃɚɹəl ɹˈiːəlɪzəm"
   },
   {
     "w": "scientific anti-realism",
     "m": "phản thực tế khoa học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "saɪəntˈɪfɪk ˈæntaɪɹˈiːəlɪzəm"
   },
   {
     "w": "constructive empiricism",
     "m": "kinh nghiệm xây dựng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kənstɹˈʌktɪv ɛmpˈɪɹɪsˌɪzəm"
   },
   {
     "w": "instrumentalism",
     "m": "chủ nghĩa công cụ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪnstɹəmˈɛntəlˌɪzəm"
   },
   {
     "w": "pragmatic truth",
     "m": "chân lý thực dụng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹæɡmˈæɾɪk tɹˈuːθ"
   },
   {
     "w": "correspondence theory",
     "m": "lý thuyết phù hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˌɔːɹɪspˈɑːndəns θˈiəɹi"
   },
   {
     "w": "coherence theory",
     "m": "lý thuyết mạch lạc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "koʊhˈɪɹəns θˈiəɹi"
   },
   {
     "w": "deflationary theory",
     "m": "lý thuyết thu giảm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "diːflˈeɪʃənˌɛɹi θˈiəɹi"
   },
   {
     "w": "disquotational theory",
     "m": "lý thuyết phi trích dẫn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪskwoʊtˈeɪʃənəl θˈiəɹi"
   },
   {
     "w": "prosentential theory",
     "m": "lý thuyết mệnh đề thay thế",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˌoʊsəntˈɛnʃəl θˈiəɹi"
   },
   {
     "w": "performative theory",
     "m": "lý thuyết thực hiện",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɚfˈɔːɹmətˌɪv θˈiəɹi"
   },
   {
     "w": "redundancy theory",
     "m": "lý thuyết thừa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹᵻdˈʌndənsi θˈiəɹi"
   },
   {
     "w": "minimalist theory",
     "m": "lý thuyết tối giản",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɪnɪməlˌɪst θˈiəɹi"
   },
   {
     "w": "semantic theory",
     "m": "lý thuyết ngữ nghĩa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "səmˈæntɪk θˈiəɹi"
   },
   {
     "w": "epistemic theory",
     "m": "lý thuyết nhận thức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ᵻpɪstˈɛmɪk θˈiəɹi"
   },
   {
     "w": "alethic",
     "m": "liên quan đến chân lý",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐlˈɛθɪk"
   },
   {
     "w": "doxastic",
     "m": "liên quan đến niềm tin",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɑːksˈæstɪk"
   },
   {
     "w": "propositional",
     "m": "mệnh đề",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˌɑːpəzˈɪʃənəl"
   },
   {
     "w": "veridical",
     "m": "thực, chân thực",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vɛɹˈɪdɪkəl"
   },
   {
     "w": "veracity",
     "m": "tính trung thực",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vəɹˈæsᵻɾi"
   },
   {
     "w": "truth-apt",
     "m": "có thể đúng hay sai",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹˈuːθˈæpt"
   },
   {
     "w": "truth-maker",
     "m": "cái làm cho điều gì đó đúng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹˈuːθmˈeɪkɚ"
   },
   {
     "w": "truth-bearer",
     "m": "cái mang chân lý",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹˈuːθbˈɛɹɚ"
   },
   {
     "w": "bivalence",
     "m": "nguyên tắc hai giá trị",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "baɪvəlˈɛns"
   },
   {
     "w": "excluded middle",
     "m": "nguyên tắc loại bỏ trung gian",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɛksklˈuːdᵻd mˈɪdəl"
   },
   {
     "w": "contradiction",
     "m": "mâu thuẫn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˌɑːntɹədˈɪkʃən"
   },
   {
     "w": "tautology",
     "m": "tương đồng logic",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɔːtˈɑːlədʒi"
   },
   {
     "w": "contingent",
     "m": "ngẫu nhiên, có thể có hay không",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kəntˈɪndʒənt"
   },
   {
     "w": "necessary truth",
     "m": "chân lý tất yếu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈɛsᵻsɚɹi tɹˈuːθ"
   },
   {
     "w": "possible world",
     "m": "thế giới có thể có",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɑːsᵻbəl wˈɜːld"
   },
   {
     "w": "modal logic",
     "m": "logic thức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈoʊdəl lˈɑːdʒɪk"
   },
   {
     "w": "deontic logic",
     "m": "logic bổn phận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "diːˈɑːntɪk lˈɑːdʒɪk"
   },
   {
     "w": "epistemic logic",
     "m": "logic nhận thức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ᵻpɪstˈɛmɪk lˈɑːdʒɪk"
   },
   {
     "w": "temporal logic",
     "m": "logic thời gian",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈɛmpɚɹəl lˈɑːdʒɪk"
   },
   {
     "w": "counterfactual conditional",
     "m": "câu điều kiện phản thực tế",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈaʊntɚfˌæktʃuːəl kəndˈɪʃənəl"
   },
   {
     "w": "strict conditional",
     "m": "điều kiện nghiêm ngặt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "stɹˈɪkt kəndˈɪʃənəl"
   },
   {
     "w": "material conditional",
     "m": "điều kiện vật chất",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mətˈɪɹiəl kəndˈɪʃənəl"
   },
   {
     "w": "indicative conditional",
     "m": "điều kiện chỉ thị",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪndˈɪkətˌɪv kəndˈɪʃənəl"
   },
   {
     "w": "subjunctive conditional",
     "m": "điều kiện giả định",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈʌbdʒəŋktˌɪv kəndˈɪʃənəl"
   },
   {
     "w": "biconditional",
     "m": "điều kiện song chiều",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "baɪkəndˈɪʃənəl"
   },
   {
     "w": "modus ponens",
     "m": "phép suy diễn khẳng định",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈoʊdəs pˈoʊnənz"
   },
   {
     "w": "modus tollens",
     "m": "phép suy diễn phủ định",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈoʊdəs tˈoʊlənz"
   },
   {
     "w": "disjunctive syllogism",
     "m": "tam đoạn luận phân disjunction",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪsdʒˈʌŋktɪv sˈɪlədʒˌɪzəm"
   },
   {
     "w": "hypothetical syllogism",
     "m": "tam đoạn luận giả định",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˌaɪpəθˈɛɾɪkəl sˈɪlədʒˌɪzəm"
   },
   {
     "w": "constructive dilemma",
     "m": "luận đề xây dựng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kənstɹˈʌktɪv dᵻlˈɛmə"
   },
   {
     "w": "destructive dilemma",
     "m": "luận đề phá hủy",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dᵻstɹˈʌktɪv dᵻlˈɛmə"
   },
   {
     "w": "absorption",
     "m": "quy tắc hấp thụ logic",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐbsˈɔːɹpʃən"
   },
   {
     "w": "simplification",
     "m": "quy tắc đơn giản hóa logic",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˌɪmplɪfɪkˈeɪʃən"
   },
   {
     "w": "conjunction",
     "m": "phép hội logic",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kəndʒˈʌŋkʃən"
   },
   {
     "w": "disjunction",
     "m": "phép tuyển logic",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪsdʒˈʌŋkʃən"
   },
   {
     "w": "negation",
     "m": "phủ định logic",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nᵻɡˈeɪʃən"
   },
   {
     "w": "implication",
     "m": "kéo theo logic",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪmplɪkˈeɪʃən"
   },
   {
     "w": "equivalence",
     "m": "tương đương logic",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪkwˈɪvələns"
   },
   {
     "w": "universal quantifier",
     "m": "lượng từ phổ quát",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "jˌuːnɪvˈɜːsəl kwˈɔntɪfˌaɪɚ"
   },
   {
     "w": "existential quantifier",
     "m": "lượng từ tồn tại",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɛɡzɪstˈɛnʃəl kwˈɔntɪfˌaɪɚ"
   },
   {
     "w": "predicate logic",
     "m": "logic vị từ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˈɛdᵻkˌeɪt lˈɑːdʒɪk"
   },
   {
     "w": "propositional logic",
     "m": "logic mệnh đề",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˌɑːpəzˈɪʃənəl lˈɑːdʒɪk"
   },
   {
     "w": "first-order logic",
     "m": "logic bậc một",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈɜːstˈɔːɹdɚ lˈɑːdʒɪk"
   },
   {
     "w": "second-order logic",
     "m": "logic bậc hai",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɛkəndˈɔːɹdɚ lˈɑːdʒɪk"
   },
   {
     "w": "higher-order logic",
     "m": "logic bậc cao",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˈaɪɚɹˈɔːɹdɚ lˈɑːdʒɪk"
   },
   {
     "w": "set theory",
     "m": "lý thuyết tập hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɛt θˈiəɹi"
   },
   {
     "w": "type theory",
     "m": "lý thuyết kiểu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈaɪp θˈiəɹi"
   },
   {
     "w": "category theory",
     "m": "lý thuyết phạm trù",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈæɾɪɡɚɹi θˈiəɹi"
   },
   {
     "w": "proof theory",
     "m": "lý thuyết chứng minh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˈuːf θˈiəɹi"
   },
   {
     "w": "model theory",
     "m": "lý thuyết mô hình",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɑːdəl θˈiəɹi"
   },
   {
     "w": "computability theory",
     "m": "lý thuyết tính toán",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kəmpjˌuːɾəbˈɪlᵻɾi θˈiəɹi"
   },
   {
     "w": "complexity theory",
     "m": "lý thuyết độ phức tạp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kəmplˈɛksᵻɾi θˈiəɹi"
   },
   {
     "w": "information theory",
     "m": "lý thuyết thông tin",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪnfɚmˈeɪʃən θˈiəɹi"
   },
   {
     "w": "game theory",
     "m": "lý thuyết trò chơi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɡˈeɪm θˈiəɹi"
   },
   {
     "w": "decision theory",
     "m": "lý thuyết quyết định",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dᵻsˈɪʒən θˈiəɹi"
   },
   {
     "w": "social choice theory",
     "m": "lý thuyết lựa chọn xã hội",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈoʊʃəl tʃˈɔɪs θˈiəɹi"
   },
   {
     "w": "mechanism design",
     "m": "thiết kế cơ chế",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɛkənˌɪzəm dɪzˈaɪn"
   },
   {
     "w": "Arrow's impossibility theorem",
     "m": "định lý bất khả thi Arrow",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈæɹoʊz ɪmpˌɑːsəbˈɪlᵻɾi θˈiəɹəm"
   },
   {
     "w": "Nash equilibrium",
     "m": "cân bằng Nash",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈæʃ ˌiːkwɪlˈɪbɹiəm"
   },
   {
     "w": "prisoner's dilemma",
     "m": "thế lưỡng nan người tù",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˈɪzənɚz dᵻlˈɛmə"
   },
   {
     "w": "public goods game",
     "m": "trò chơi hàng hóa công cộng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈʌblɪk ɡˈʊdz ɡˈeɪm"
   },
   {
     "w": "ultimatum game",
     "m": "trò chơi tối hậu thư",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌʌltɪmˈeɪɾəm ɡˈeɪm"
   },
   {
     "w": "dictator game",
     "m": "trò chơi độc tài",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪktˈeɪɾɚ ɡˈeɪm"
   },
   {
     "w": "stag hunt",
     "m": "trò chơi săn nai",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "stˈæɡ hˈʌnt"
   },
   {
     "w": "battle of the sexes",
     "m": "trò chơi trận chiến giới tính",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bˈæɾəl ʌvðə sˈɛksᵻz"
   },
   {
     "w": "assurance game",
     "m": "trò chơi đảm bảo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "əʃˈʊɹɹəns ɡˈeɪm"
   },
   {
     "w": "coordination game",
     "m": "trò chơi phối hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "koʊˈɔːɹdᵻnˈeɪʃən ɡˈeɪm"
   },
   {
     "w": "zero-sum game",
     "m": "trò chơi tổng bằng không",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "zˈiəɹoʊsˈʌm ɡˈeɪm"
   },
   {
     "w": "positive-sum game",
     "m": "trò chơi tổng dương",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɑːzᵻtˌɪvsˈʌm ɡˈeɪm"
   },
   {
     "w": "negative-sum game",
     "m": "trò chơi tổng âm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈɛɡətˌɪvsˈʌm ɡˈeɪm"
   },
   {
     "w": "iterated game",
     "m": "trò chơi lặp lại",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɪɾɚɹˌeɪɾᵻd ɡˈeɪm"
   },
   {
     "w": "one-shot game",
     "m": "trò chơi một lần",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "wˈʌnʃˈɑːt ɡˈeɪm"
   },
   {
     "w": "dominant strategy",
     "m": "chiến lược ưu thế",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dˈɑːmɪnənt stɹˈæɾədʒi"
   },
   {
     "w": "dominated strategy",
     "m": "chiến lược bị ưu thế",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dˈɑːmᵻnˌeɪɾᵻd stɹˈæɾədʒi"
   },
   {
     "w": "minimax strategy",
     "m": "chiến lược minimax",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɪnɪmˌæks stɹˈæɾədʒi"
   },
   {
     "w": "maximin strategy",
     "m": "chiến lược maximin",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈæksɪmˌɪn stɹˈæɾədʒi"
   },
   {
     "w": "mixed strategy",
     "m": "chiến lược hỗn hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɪkst stɹˈæɾədʒi"
   },
   {
     "w": "pure strategy",
     "m": "chiến lược thuần túy",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pjˈʊɹ stɹˈæɾədʒi"
   },
   {
     "w": "backward induction",
     "m": "quy nạp ngược",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bˈækwɚd ɪndˈʌkʃən"
   },
   {
     "w": "forward induction",
     "m": "quy nạp thuận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈɔːɹwɚd ɪndˈʌkʃən"
   },
   {
     "w": "subgame perfect equilibrium",
     "m": "cân bằng hoàn hảo trò chơi con",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈʌbɡeɪm pˈɜːfɛkt ˌiːkwɪlˈɪbɹiəm"
   },
   {
     "w": "Pareto optimal",
     "m": "tối ưu Pareto",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pæɹˈiːɾoʊ ˈɑːptɪməl"
   },
   {
     "w": "Pareto improvement",
     "m": "cải thiện Pareto",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pæɹˈiːɾoʊ ɪmpɹˈuːvmənt"
   },
   {
     "w": "Pareto efficiency",
     "m": "hiệu quả Pareto",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pæɹˈiːɾoʊ ɪfˈɪʃənsi"
   },
   {
     "w": "Kaldor-Hicks efficiency",
     "m": "hiệu quả Kaldor-Hicks",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈældɔːɹhˈɪks ɪfˈɪʃənsi"
   },
   {
     "w": "externality",
     "m": "ngoại tác",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɛkstˈɜːnˈælᵻɾi"
   },
   {
     "w": "positive externality",
     "m": "ngoại tác dương",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɑːzᵻtˌɪv ɛkstˈɜːnˈælᵻɾi"
   },
   {
     "w": "negative externality",
     "m": "ngoại tác âm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈɛɡətˌɪv ɛkstˈɜːnˈælᵻɾi"
   },
   {
     "w": "market failure",
     "m": "thất bại thị trường",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɑːɹkɪt fˈeɪlɪɹ"
   },
   {
     "w": "public good",
     "m": "hàng hóa công cộng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈʌblɪk ɡˈʊd"
   },
   {
     "w": "common good",
     "m": "lợi ích chung",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈɑːmən ɡˈʊd"
   },
   {
     "w": "tragedy of the commons",
     "m": "bi kịch của cái chung",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹˈædʒədi ʌvðə kˈɑːmənz"
   },
   {
     "w": "free rider problem",
     "m": "vấn đề đi nhờ xe miễn phí",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fɹˈiː ɹˈaɪdɚ pɹˈɑːbləm"
   },
   {
     "w": "collective action problem",
     "m": "vấn đề hành động tập thể",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kəlˈɛktɪv ˈækʃən pɹˈɑːbləm"
   },
   {
     "w": "social dilemma",
     "m": "thế lưỡng nan xã hội",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈoʊʃəl dᵻlˈɛmə"
   },
   {
     "w": "coordination problem",
     "m": "vấn đề phối hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "koʊˈɔːɹdᵻnˈeɪʃən pɹˈɑːbləm"
   },
   {
     "w": "information asymmetry",
     "m": "bất đối xứng thông tin",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪnfɚmˈeɪʃən eɪsˈɪmətɹi"
   },
   {
     "w": "adverse selection",
     "m": "lựa chọn bất lợi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ædvˈɜːs sᵻlˈɛkʃən"
   },
   {
     "w": "moral hazard",
     "m": "rủi ro đạo đức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɔːɹəl hˈæzɚd"
   },
   {
     "w": "principal-agent problem",
     "m": "vấn đề chính-đại lý",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˈɪnsɪpəlˈeɪdʒənt pɹˈɑːbləm"
   },
   {
     "w": "hold-up problem",
     "m": "vấn đề bắt bí",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˈoʊldˌʌp pɹˈɑːbləm"
   },
   {
     "w": "commitment problem",
     "m": "vấn đề cam kết",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kəmˈɪtmənt pɹˈɑːbləm"
   },
   {
     "w": "credible commitment",
     "m": "cam kết đáng tin",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kɹˈɛdɪbəl kəmˈɪtmənt"
   },
   {
     "w": "signaling",
     "m": "phát tín hiệu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɪɡnəlɪŋ"
   },
   {
     "w": "screening",
     "m": "sàng lọc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "skɹˈiːnɪŋ"
   },
   {
     "w": "cheap talk",
     "m": "nói suông không ràng buộc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tʃˈiːp tˈɔːk"
   },
   {
     "w": "costly signaling",
     "m": "tín hiệu tốn kém",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈɔstli sˈɪɡnəlɪŋ"
   },
   {
     "w": "strategic information transmission",
     "m": "truyền thông tin chiến lược",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "stɹətˈiːdʒɪk ˌɪnfɚmˈeɪʃən tɹænsmˈɪʃən"
   },
   {
     "w": "Bayesian updating",
     "m": "cập nhật Bayesian",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "beɪˈiːʒən ʌpdˈeɪɾɪŋ"
   },
   {
     "w": "prior probability",
     "m": "xác suất tiên nghiệm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˈaɪɚ pɹˌɑːbəbˈɪlᵻɾi"
   },
   {
     "w": "posterior probability",
     "m": "xác suất hậu nghiệm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɑːstˈɪɹiɚ pɹˌɑːbəbˈɪlᵻɾi"
   },
   {
     "w": "likelihood ratio",
     "m": "tỉ lệ khả năng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈaɪklihˌʊd ɹˈeɪʃɪˌoʊ"
   },
   {
     "w": "base rate",
     "m": "tỉ lệ cơ sở",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bˈeɪs ɹˈeɪt"
   },
   {
     "w": "base rate neglect",
     "m": "bỏ qua tỉ lệ cơ sở",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bˈeɪs ɹˈeɪt nᵻɡlˈɛkt"
   },
   {
     "w": "Bayesian reasoning",
     "m": "lý luận Bayesian",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "beɪˈiːʒən ɹˈiːzənɪŋ"
   },
   {
     "w": "frequentist",
     "m": "trường phái tần số xác suất",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fɹˈiːkwəntˌɪst"
   },
   {
     "w": "subjectivist",
     "m": "trường phái chủ quan",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈʌbdʒɪktˌɪvɪst"
   },
   {
     "w": "propensity interpretation",
     "m": "giải thích xác suất xu hướng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹəpˈɛnsᵻɾi ɪntˌɜːpɹɪtˈeɪʃən"
   },
   {
     "w": "objective probability",
     "m": "xác suất khách quan",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɑːbdʒˈɛktɪv pɹˌɑːbəbˈɪlᵻɾi"
   },
   {
     "w": "subjective probability",
     "m": "xác suất chủ quan",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sʌbdʒˈɛktɪv pɹˌɑːbəbˈɪlᵻɾi"
   },
   {
     "w": "logical probability",
     "m": "xác suất logic",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈɑːdʒɪkəl pɹˌɑːbəbˈɪlᵻɾi"
   },
   {
     "w": "epistemic probability",
     "m": "xác suất nhận thức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ᵻpɪstˈɛmɪk pɹˌɑːbəbˈɪlᵻɾi"
   },
   {
     "w": "physical probability",
     "m": "xác suất vật lý",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈɪzɪkəl pɹˌɑːbəbˈɪlᵻɾi"
   },
   {
     "w": "aleatory uncertainty",
     "m": "bất định ngẫu nhiên",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐlˈiːtˌɔːɹi ʌnsˈɜːtənti"
   },
   {
     "w": "epistemic uncertainty",
     "m": "bất định nhận thức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ᵻpɪstˈɛmɪk ʌnsˈɜːtənti"
   },
   {
     "w": "deep uncertainty",
     "m": "bất định sâu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dˈiːp ʌnsˈɜːtənti"
   },
   {
     "w": "known unknowns",
     "m": "điều biết mình không biết",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈoʊn ʌnnˈoʊnz"
   },
   {
     "w": "unknown unknowns",
     "m": "điều không biết mình không biết",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ʌnnˈoʊn ʌnnˈoʊnz"
   },
   {
     "w": "black swan event",
     "m": "sự kiện thiên nga đen",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "blˈæk swˈɑːn ᵻvˈɛnt"
   },
   {
     "w": "fat-tailed distribution",
     "m": "phân phối đuôi dày",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈættˈeɪld dˌɪstɹɪbjˈuːʃən"
   },
   {
     "w": "power law",
     "m": "luật lũy thừa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈaʊɚ lˈɔː"
   },
   {
     "w": "Pareto distribution",
     "m": "phân phối Pareto",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pæɹˈiːɾoʊ dˌɪstɹɪbjˈuːʃən"
   },
   {
     "w": "Zipf's law",
     "m": "định luật Zipf",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "zˈɪpfs lˈɔː"
   },
   {
     "w": "scale-free network",
     "m": "mạng không cần tỉ lệ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "skˈeɪlfɹˈiː nˈɛtwɜːk"
   },
   {
     "w": "small world phenomenon",
     "m": "hiện tượng thế giới nhỏ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "smˈɔːl wˈɜːld fɪnˈɑːmɪnən"
   },
   {
     "w": "six degrees of separation",
     "m": "sáu bậc tách biệt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɪks dᵻɡɹˈiːz ʌv sˌɛpɚɹˈeɪʃən"
   },
   {
     "w": "network effect",
     "m": "hiệu ứng mạng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈɛtwɜːk ɪfˈɛkt"
   },
   {
     "w": "path dependency",
     "m": "phụ thuộc con đường",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈæθ dᵻpˈɛndənsi"
   },
   {
     "w": "lock-in effect",
     "m": "hiệu ứng khóa chặt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈɑːkɪn ɪfˈɛkt"
   },
   {
     "w": "critical mass",
     "m": "khối lượng tới hạn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kɹˈɪɾɪkəl mˈæs"
   },
   {
     "w": "tipping point",
     "m": "điểm tới hạn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈɪpɪŋ pˈɔɪnt"
   },
   {
     "w": "cascade effect",
     "m": "hiệu ứng dây chuyền",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kɐskˈeɪd ɪfˈɛkt"
   },
   {
     "w": "butterfly effect",
     "m": "hiệu ứng con bướm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bˈʌɾɚflˌaɪ ɪfˈɛkt"
   },
   {
     "w": "chaos theory",
     "m": "lý thuyết hỗn loạn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈeɪɑːs θˈiəɹi"
   },
   {
     "w": "complexity theory",
     "m": "lý thuyết phức tạp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kəmplˈɛksᵻɾi θˈiəɹi"
   },
   {
     "w": "emergence",
     "m": "tính nổi lên",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪmˈɜːdʒəns"
   },
   {
     "w": "self-organization",
     "m": "tự tổ chức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɛlfˌɔːɹɡɐnᵻzˈeɪʃən"
   },
   {
     "w": "adaptive system",
     "m": "hệ thống thích nghi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐdˈæptɪv sˈɪstəm"
   },
   {
     "w": "complex adaptive system",
     "m": "hệ thống phức tạp thích nghi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈɑːmplɛks ɐdˈæptɪv sˈɪstəm"
   },
   {
     "w": "co-evolution",
     "m": "đồng tiến hóa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈoʊˌɛvəlˈuːʃən"
   },
   {
     "w": "niche construction",
     "m": "xây dựng hốc sinh thái",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈɪtʃ kənstɹˈʌkʃən"
   },
   {
     "w": "gene-culture co-evolution",
     "m": "đồng tiến hóa gen-văn hóa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dʒˈiːŋkˈʌltʃɚ kˈoʊˌɛvəlˈuːʃən"
   },
   {
     "w": "cultural evolution",
     "m": "tiến hóa văn hóa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈʌltʃɚɹəl ˌɛvəlˈuːʃən"
   },
   {
     "w": "memetics",
     "m": "học thuyết meme",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mɛmˈɛɾɪks"
   },
   {
     "w": "meme",
     "m": "đơn vị văn hóa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈiːm"
   },
   {
     "w": "replicator",
     "m": "thực thể tự sao chép",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˈɛplᵻkˌeɪɾɚ"
   },
   {
     "w": "vehicle",
     "m": "phương tiện mang gen/meme",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vˈiəkəl"
   },
   {
     "w": "fitness landscape",
     "m": "cảnh quan thích nghi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˈɪtnəs lˈændskeɪp"
   },
   {
     "w": "adaptive radiation",
     "m": "phóng xạ thích nghi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐdˈæptɪv ɹˌeɪdɪˈeɪʃən"
   },
   {
     "w": "speciation",
     "m": "hình thành loài",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "spˌiːʃɪˈeɪʃən"
   },
   {
     "w": "allopatric speciation",
     "m": "hình thành loài địa lý",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌæləpˈætɹɪk spˌiːʃɪˈeɪʃən"
   },
   {
     "w": "sympatric speciation",
     "m": "hình thành loài đồng sinh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɪmpətɹˌɪk spˌiːʃɪˈeɪʃən"
   },
   {
     "w": "reproductive isolation",
     "m": "cô lập sinh sản",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹᵻpɹədˈʌktɪv ˌaɪsəlˈeɪʃən"
   },
   {
     "w": "genetic drift",
     "m": "trôi dạt di truyền",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dʒɪnˈɛɾɪk dɹˈɪft"
   },
   {
     "w": "natural selection",
     "m": "chọn lọc tự nhiên",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈætʃɚɹəl sᵻlˈɛkʃən"
   },
   {
     "w": "sexual selection",
     "m": "chọn lọc sinh dục",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɛkʃuːəl sᵻlˈɛkʃən"
   },
   {
     "w": "kin selection",
     "m": "chọn lọc họ hàng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈɪn sᵻlˈɛkʃən"
   },
   {
     "w": "group selection",
     "m": "chọn lọc nhóm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɡɹˈuːp sᵻlˈɛkʃən"
   },
   {
     "w": "inclusive fitness",
     "m": "thể lực toàn diện",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪŋklˈuːsɪv fˈɪtnəs"
   },
   {
     "w": "altruism",
     "m": "vị tha",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɔːltɹuːˌɪzəm"
   },
   {
     "w": "reciprocal altruism",
     "m": "vị tha hỗ tương",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹᵻsˈɪpɹəkəl ˈɔːltɹuːˌɪzəm"
   },
   {
     "w": "indirect reciprocity",
     "m": "hỗ tương gián tiếp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪndɚɹˈɛkt ɹᵻsɪpɹˈɑːsᵻɾi"
   },
   {
     "w": "strong reciprocity",
     "m": "hỗ tương mạnh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "stɹˈɔŋ ɹᵻsɪpɹˈɑːsᵻɾi"
   },
   {
     "w": "costly punishment",
     "m": "trừng phạt tốn kém",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈɔstli pˈʌnɪʃmənt"
   },
   {
     "w": "altruistic punishment",
     "m": "trừng phạt vị tha",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɔːltɹuːˈɪstɪk pˈʌnɪʃmənt"
   },
   {
     "w": "reputation mechanism",
     "m": "cơ chế danh tiếng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˌɛpjuːtˈeɪʃən mˈɛkənˌɪzəm"
   },
   {
     "w": "norm enforcement",
     "m": "thực thi chuẩn mực",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˈɔːɹm ɛnfˈɔːɹsmənt"
   },
   {
     "w": "prosocial behavior",
     "m": "hành vi vì xã hội",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹˈɑːsoʊʃəl bᵻhˈeɪvjɚ"
   },
   {
     "w": "antisocial behavior",
     "m": "hành vi phản xã hội",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌæntɪsˈoʊʃəl bᵻhˈeɪvjɚ"
   },
   {
     "w": "cooperation",
     "m": "hợp tác",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "koʊˈɑːpɚɹˈeɪʃən"
   },
   {
     "w": "defection",
     "m": "phản bội",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dᵻfˈɛkʃən"
   },
   {
     "w": "tit-for-tat",
     "m": "ăn miếng trả miếng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈɪtfɔːɹtˈæt"
   },
   {
     "w": "win-stay lose-shift",
     "m": "giữ khi thắng đổi khi thua",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "wˈɪnstˈeɪ lˈuːzʃˈɪft"
   },
   {
     "w": "grim trigger",
     "m": "kích hoạt tàn nhẫn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɡɹˈɪm tɹˈɪɡɚ"
   },
   {
     "w": "pavlov strategy",
     "m": "chiến lược Pavlov",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈævlʌv stɹˈæɾədʒi"
   },
   {
     "w": "evolutionary stable strategy",
     "m": "chiến lược bền vững tiến hóa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛvəlˈuːʃənˌɛɹi stˈeɪbəl stɹˈæɾədʒi"
   },
   {
     "w": "replicator dynamics",
     "m": "động lực nhân bản",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˈɛplᵻkˌeɪɾɚ daɪnˈæmɪks"
   },
   {
     "w": "frequency-dependent selection",
     "m": "chọn lọc phụ thuộc tần số",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fɹˈiːkwənsidᵻpˈɛndənt sᵻlˈɛkʃən"
   },
   {
     "w": "phenotypic plasticity",
     "m": "tính dẻo dai kiểu hình",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˌɛnətˈɪpɪk plæstˈɪsᵻɾi"
   },
   {
     "w": "epigenetics",
     "m": "biểu sinh học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛpɪdʒɪnˈɛɾɪks"
   },
   {
     "w": "horizontal gene transfer",
     "m": "truyền gen nằm ngang",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˌɔːɹɪzˈɔntəl dʒˈiːn tɹˈænsfɜː"
   },
   {
     "w": "endosymbiosis",
     "m": "cộng sinh nội phần",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛndoʊsˌɪmbaɪˈoʊsɪs"
   },
   {
     "w": "phylogenetics",
     "m": "tiến hóa phát sinh loài",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˌaɪloʊdʒnˈɛɾɪks"
   },
   {
     "w": "cladistics",
     "m": "phân loại theo nhánh",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "klædˈɪstɪks"
   },
   {
     "w": "monophyletic",
     "m": "đơn ngành tiến hóa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˌɑːnoʊfaɪlˈɛɾɪk"
   },
   {
     "w": "paraphyletic",
     "m": "cận ngành tiến hóa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˌæɹəfaɪlˈɛɾɪk"
   },
   {
     "w": "polyphyletic",
     "m": "đa ngành tiến hóa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˌɑːlɪfaɪlˈɛɾɪk"
   },
   {
     "w": "convergent evolution",
     "m": "tiến hóa hội tụ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kənvˈɜːdʒənt ˌɛvəlˈuːʃən"
   },
   {
     "w": "parallel evolution",
     "m": "tiến hóa song song",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈæɹəlˌɛl ˌɛvəlˈuːʃən"
   },
   {
     "w": "homology",
     "m": "tương đồng cấu trúc",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "həmˈɑːlədʒi"
   },
   {
     "w": "analogy",
     "m": "tương tự chức năng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐnˈælədʒi"
   },
   {
     "w": "homoplasy",
     "m": "tương đồng hội tụ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˈɑːməpləsi"
   },
   {
     "w": "synapomorphy",
     "m": "đặc điểm dẫn xuất chung",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sɪnˈæpəmˌɔːɹfi"
   },
   {
     "w": "plesiomorphy",
     "m": "đặc điểm nguyên thủy",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "plˈiːzɪəmˌɔːɹfi"
   },
   {
     "w": "apomorphy",
     "m": "đặc điểm dẫn xuất",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐpˈɑːmɔːɹfi"
   },
   {
     "w": "autapomorphy",
     "m": "đặc điểm dẫn xuất riêng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɔːtˈæpəmˌɔːɹfi"
   },
   {
     "w": "parsimony principle",
     "m": "nguyên lý tiết kiệm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɑːɹsɪməni pɹˈɪnsɪpəl"
   },
   {
     "w": "Occam's razor",
     "m": "dao cạo Occam",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɑːkæmz ɹˈeɪzɚ"
   },
   {
     "w": "Morgan's canon",
     "m": "luật tiết kiệm Morgan",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˈɔːɹɡənz kˈænən"
   },
   {
     "w": "abduction",
     "m": "suy luận quy nạp đến giải thích tốt nhất",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐbdˈʌkʃən"
   },
   {
     "w": "inference to the best explanation",
     "m": "suy luận đến giải thích tốt nhất",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɪnfɚɹəns tə ðə bˈɛst ɛksplɐnˈeɪʃən"
   },
   {
     "w": "Ockham's razor",
     "m": "nguyên tắc tiết kiệm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɑːkæmz ɹˈeɪzɚ"
   },
   {
     "w": "Ptolemaic epicycle",
     "m": "vòng thiên văn Ptolemy",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "toʊlmˈeɪɪk ˈɛpɪsˌaɪkəl"
   },
   {
     "w": "Copernican revolution",
     "m": "cuộc cách mạng Copernicus",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈoʊpɚnˌɪkən ɹˌɛvəlˈuːʃən"
   },
   {
     "w": "heliocentric model",
     "m": "mô hình nhật tâm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hˌɛlɪoʊsˈɛntɹɪk mˈɑːdəl"
   },
   {
     "w": "geocentric model",
     "m": "mô hình địa tâm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dʒˌiːoʊsˈɛntɹɪk mˈɑːdəl"
   },
   {
     "w": "paradigm incommensurability",
     "m": "không thể so sánh mô hình",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈæɹədˌaɪm ɪŋkəmˌɛnʒɚɹəbˈɪlᵻɾi"
   },
   {
     "w": "scientific revolution",
     "m": "cách mạng khoa học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "saɪəntˈɪfɪk ɹˌɛvəlˈuːʃən"
   },
   {
     "w": "big science",
     "m": "khoa học quy mô lớn",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bˈɪɡ sˈaɪəns"
   },
   {
     "w": "little science",
     "m": "khoa học quy mô nhỏ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈɪɾəl sˈaɪəns"
   },
   {
     "w": "open science",
     "m": "khoa học mở",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈoʊpən sˈaɪəns"
   },
   {
     "w": "citizen science",
     "m": "khoa học công dân",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈɪɾɪzən sˈaɪəns"
   },
   {
     "w": "science communication",
     "m": "truyền thông khoa học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈaɪəns kəmjˌuːnɪkˈeɪʃən"
   },
   {
     "w": "public understanding of science",
     "m": "hiểu biết công chúng về khoa học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈʌblɪk ˌʌndɚstˈændɪŋ ʌv sˈaɪəns"
   },
   {
     "w": "science policy",
     "m": "chính sách khoa học",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈaɪəns pˈɑːlɪsi"
   },
   {
     "w": "technology assessment",
     "m": "đánh giá công nghệ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɛknˈɑːlədʒi ɐsˈɛsmənt"
   },
   {
     "w": "technological determinism",
     "m": "quyết định luận công nghệ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˌɛknəlˈɑːdʒɪkəl dɪtˈɜːmɪnˌɪzəm"
   },
   {
     "w": "social construction of technology",
     "m": "kiến tạo xã hội của công nghệ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈoʊʃəl kənstɹˈʌkʃən ʌv tɛknˈɑːlədʒi"
   },
   {
     "w": "obfuscation",
     "m": "làm mờ, che giấu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɑːbfəskˈeɪʃən"
   },
   {
     "w": "dissimulate",
     "m": "giả vờ không biết",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dɪsˈɪmjʊlˌeɪt"
   },
   {
     "w": "countenance",
     "m": "bề mặt, dung mạo; ủng hộ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kˈaʊntənəns"
   },
   {
     "w": "abet",
     "m": "tiếp tay, đồng lõa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐbˈɛt"
   },
   {
     "w": "machiavellian",
     "m": "đi theo đường mù chương",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "mˌækiəvˈɛliən"
   },
   {
     "w": "pragmatic realism",
     "m": "chủ nghĩa thực tế thực dụng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹæɡmˈæɾɪk ɹˈiːəlɪzəm"
   },
   {
     "w": "epistemic humility",
     "m": "khiêm tốn nhận thức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ᵻpɪstˈɛmɪk hjuːmˈɪlᵻɾi"
   },
   {
     "w": "intellectual honesty",
     "m": "trung thực trí tuệ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪntəlˈɛktʃuːəl ˈɑːnɪsti"
   },
   {
     "w": "conceptual clarity",
     "m": "rõ ràng khái niệm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kənsˈɛptʃuːəl klˈæɹᵻɾi"
   },
   {
     "w": "terminological precision",
     "m": "chính xác thuật ngữ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˌɜːmɪnəlˈɑːdʒɪkəl pɹɪsˈɪʒən"
   },
   {
     "w": "theoretical consistency",
     "m": "nhất quán lý thuyết",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "θiəɹˈɛɾɪkəl kənsˈɪstənsi"
   },
   {
     "w": "argumentative coherence",
     "m": "mạch lạc lập luận",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɑːɹɡjuːmˈɛntətˌɪv koʊhˈɪɹəns"
   },
   {
     "w": "analytical rigor",
     "m": "chặt chẽ phân tích",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌænɐlˈɪɾɪkəl ɹˈɪɡɚ"
   },
   {
     "w": "empirical adequacy",
     "m": "đầy đủ thực nghiệm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɛmpˈɪɹɪkəl ˈædɪkwəsi"
   },
   {
     "w": "predictive accuracy",
     "m": "chính xác dự đoán",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹɪdˈɪktɪv ˈækjʊɹəsi"
   },
   {
     "w": "explanatory depth",
     "m": "chiều sâu giải thích",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɛksplˈænətˌɔːɹi dˈɛpθ"
   },
   {
     "w": "illuminating",
     "m": "làm sáng tỏ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪlˈuːmᵻnˌeɪɾɪŋ"
   },
   {
     "w": "elucidatory",
     "m": "có tính giải thích",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ᵻlˈuːsɪdətˌɔːɹi"
   },
   {
     "w": "heuristic value",
     "m": "giá trị heuristic",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "hjuːɹˈɪstɪk vˈæljuː"
   },
   {
     "w": "generative",
     "m": "sinh sản, tạo ý tưởng mới",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dʒˈɛnɚɹətˌɪv"
   },
   {
     "w": "productive",
     "m": "có ích, hiệu quả",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹədˈʌktɪv"
   },
   {
     "w": "fruitful",
     "m": "phong phú, mang lại kết quả",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fɹˈuːtfəl"
   },
   {
     "w": "sterile",
     "m": "vô trùng, không sinh sản",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "stˈɛɹəl"
   },
   {
     "w": "barren",
     "m": "cằn cỗi",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bˈæɹən"
   },
   {
     "w": "intractable",
     "m": "khó giải quyết",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪntɹˈæktəbəl"
   },
   {
     "w": "recondite",
     "m": "uyên thâm, ít ai biết",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹˌiːkəndˈaɪt"
   },
   {
     "w": "abstruse",
     "m": "khó hiểu, phức tạp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɐbstɹˈuːs"
   },
   {
     "w": "pellucid",
     "m": "trong suốt, rõ ràng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɛluːsˌɪd"
   },
   {
     "w": "limpid",
     "m": "trong sáng, rõ ràng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈɪmpɪd"
   },
   {
     "w": "limpidity",
     "m": "sự trong sáng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lɪmpˈɪdᵻɾi"
   },
   {
     "w": "luminous",
     "m": "sáng sủa, sáng rõ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˈuːmɪnəs"
   },
   {
     "w": "opaque",
     "m": "mờ đục, khó hiểu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "oʊpˈeɪk"
   },
   {
     "w": "transparent",
     "m": "trong suốt, minh bạch",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹænspˈæɹənt"
   },
   {
     "w": "perspicuous",
     "m": "rõ ràng, dễ hiểu",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɚspˈɪkjuːəs"
   },
   {
     "w": "perspicuity",
     "m": "sự rõ ràng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɚspɪkjˈuːɪɾi"
   },
   {
     "w": "luminosity",
     "m": "sự sáng sủa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "lˌuːmɪnˈɔsᵻɾi"
   },
   {
     "w": "clarity of thought",
     "m": "tư duy rõ ràng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "klˈæɹᵻɾi ʌv θˈɔːt"
   },
   {
     "w": "precision of language",
     "m": "độ chính xác ngôn ngữ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹɪsˈɪʒən ʌv lˈæŋɡwɪdʒ"
   },
   {
     "w": "economy of expression",
     "m": "tiết kiệm trong diễn đạt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪkˈɑːnəmi ʌv ɛkspɹˈɛʃən"
   },
   {
     "w": "concision",
     "m": "súc tích",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "kənsˈɪʒən"
   },
   {
     "w": "terseness",
     "m": "ngắn gọn, súc tích",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tˈɜːsnəs"
   },
   {
     "w": "verbosity",
     "m": "dài dòng, lắm lời",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "vɜːbˈɔsᵻɾi"
   },
   {
     "w": "prolixity",
     "m": "dài dòng, dài lê thê",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɹəlˈɪksᵻɾi"
   },
   {
     "w": "circumlocution",
     "m": "nói vòng vo",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˌɜːkəmləkjˈuːʃən"
   },
   {
     "w": "periphrasis",
     "m": "nói vòng vo, diễn giải dài",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pɚɹɪfɹˈɑːsiz"
   },
   {
     "w": "pleonasm",
     "m": "dùng từ thừa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "plɪˈɑːnæzəm"
   },
   {
     "w": "tautology",
     "m": "lặp ý vô nghĩa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɔːtˈɑːlədʒi"
   },
   {
     "w": "redundancy",
     "m": "dư thừa",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɹᵻdˈʌndənsi"
   },
   {
     "w": "economy",
     "m": "tiết kiệm, kinh tế",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪkˈɑːnəmi"
   },
   {
     "w": "parsimony",
     "m": "tiết kiệm triệt để, keo kiệt",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˈɑːɹsɪməni"
   },
   {
     "w": "elegance",
     "m": "thanh lịch, tinh tế",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈɛlɪɡəns"
   },
   {
     "w": "inelegance",
     "m": "thiếu thanh lịch",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnˈɛlɪɡəns"
   },
   {
     "w": "clumsiness",
     "m": "vụng về",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "klˈʌmzinəs"
   },
   {
     "w": "felicity",
     "m": "sự hạnh phúc, sự phù hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fɛlˈɪsᵻɾi"
   },
   {
     "w": "infelicity",
     "m": "bất hạnh, không phù hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnfɛlˈɪsᵻɾi"
   },
   {
     "w": "aptness",
     "m": "sự thích hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˈæptnəs"
   },
   {
     "w": "inapt",
     "m": "không thích hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪnˈæpt"
   },
   {
     "w": "decorum",
     "m": "sự đúng mực",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "dᵻkˈɔːɹəm"
   },
   {
     "w": "impropriety",
     "m": "sự không đúng mực",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪmpɹəpɹˈaɪəɾi"
   },
   {
     "w": "solecism",
     "m": "lỗi xã giao, lỗi ngữ pháp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˈoʊlsɪzəm"
   },
   {
     "w": "gaucherie",
     "m": "sự vụng về, thiếu tế nhị",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɡˈɔːtʃɚɹi"
   },
   {
     "w": "faux pas",
     "m": "lỡ lời, xử sự sai",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "fˌoʊ pˈɑː"
   },
   {
     "w": "peccadillo",
     "m": "lỗi nhỏ",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "pˌɛkɐdˈɪloʊ"
   },
   {
     "w": "transgression",
     "m": "vi phạm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "tɹænsɡɹˈɛʃən"
   },
   {
     "w": "indiscretion",
     "m": "thiếu thận trọng",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɪndɪskɹˈɛʃən"
   },
   {
     "w": "impropriety",
     "m": "sự không phù hợp",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ɪmpɹəpɹˈaɪəɾi"
   },
   {
     "w": "breach of etiquette",
     "m": "vi phạm lễ phép",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bɹˈiːtʃ ʌv ˈɛɾɪkət"
   },
   {
     "w": "solipsistic",
     "m": "theo chủ nghĩa duy ngã",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "sˌɑːlɪpsˈɪstɪk"
   },
   {
     "w": "narcissistic",
     "m": "ái kỷ, tự yêu bản thân quá mức",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "nˌɑːɹsɪsˈɪstɪk"
   },
   {
     "w": "egocentric",
     "m": "lấy bản thân làm trung tâm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌiːɡoʊsˈɛntɹɪk"
   },
   {
     "w": "ethnocentric",
     "m": "lấy dân tộc mình làm trung tâm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛθnəsˈɛntɹɪk"
   },
   {
     "w": "anthropocentric",
     "m": "lấy con người làm trung tâm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌænθɹəpəsˈɛntɹɪk"
   },
   {
     "w": "ecocentric",
     "m": "lấy hệ sinh thái làm trung tâm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "ˌɛkoʊsˈɛntɹɪk"
   },
   {
     "w": "biocentric",
     "m": "lấy sự sống làm trung tâm",
-    "cat": "mastery"
+    "cat": "mastery",
+    "p": "bˌaɪoʊsˈɛntɹɪk"
   }
 ]

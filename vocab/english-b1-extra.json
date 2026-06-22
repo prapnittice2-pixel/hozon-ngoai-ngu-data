@@ -1,3817 +1,3817 @@
 [
   {
     "w": "colleague",
-    "p": "",
+    "p": "kˈɑːliːɡ",
     "m": "đồng nghiệp",
     "cat": "công việc"
   },
   {
     "w": "supervisor",
-    "p": "",
+    "p": "sˈuːpɚvˌaɪzɚ",
     "m": "người giám sát, quản lý trực tiếp",
     "cat": "công việc"
   },
   {
     "w": "deadline",
-    "p": "",
+    "p": "dˈɛdlaɪn",
     "m": "hạn chót, thời hạn nộp bài/công việc",
     "cat": "công việc"
   },
   {
     "w": "meeting room",
-    "p": "",
+    "p": "mˈiːɾɪŋ ɹˈuːm",
     "m": "phòng họp",
     "cat": "công việc"
   },
   {
     "w": "office supplies",
-    "p": "",
+    "p": "ˈɑːfɪs səplˈaɪz",
     "m": "văn phòng phẩm",
     "cat": "công việc"
   },
   {
     "w": "workload",
-    "p": "",
+    "p": "wˈɜːkloʊd",
     "m": "khối lượng công việc",
     "cat": "công việc"
   },
   {
     "w": "overtime",
-    "p": "",
+    "p": "ˈoʊvɚtˌaɪm",
     "m": "làm thêm giờ",
     "cat": "công việc"
   },
   {
     "w": "promotion",
-    "p": "",
+    "p": "pɹəmˈoʊʃən",
     "m": "thăng chức",
     "cat": "công việc"
   },
   {
     "w": "resignation",
-    "p": "",
+    "p": "ɹˌɛzɪɡnˈeɪʃən",
     "m": "sự từ chức, đơn xin nghỉ việc",
     "cat": "công việc"
   },
   {
     "w": "pay rise",
-    "p": "",
+    "p": "pˈeɪ ɹˈaɪz",
     "m": "tăng lương",
     "cat": "công việc"
   },
   {
     "w": "job interview",
-    "p": "",
+    "p": "dʒˈɑːb ˈɪntɚvjˌuː",
     "m": "buổi phỏng vấn xin việc",
     "cat": "công việc"
   },
   {
     "w": "application form",
-    "p": "",
+    "p": "ˌæplɪkˈeɪʃən fˈɔːɹm",
     "m": "mẫu đơn xin việc",
     "cat": "công việc"
   },
   {
     "w": "curriculum vitae",
-    "p": "",
+    "p": "kɜːɹˈɪkjʊləm vˈɪɾiː",
     "m": "bản lý lịch, CV",
     "cat": "công việc"
   },
   {
     "w": "reference",
-    "p": "",
+    "p": "ɹˈɛfɹəns",
     "m": "người giới thiệu, thư giới thiệu",
     "cat": "công việc"
   },
   {
     "w": "shift",
-    "p": "",
+    "p": "ʃˈɪft",
     "m": "ca làm việc",
     "cat": "công việc"
   },
   {
     "w": "part-time",
-    "p": "",
+    "p": "pˈɑːɹttˈaɪm",
     "m": "làm việc bán thời gian",
     "cat": "công việc"
   },
   {
     "w": "full-time",
-    "p": "",
+    "p": "fˈʊltˈaɪm",
     "m": "làm việc toàn thời gian",
     "cat": "công việc"
   },
   {
     "w": "freelance",
-    "p": "",
+    "p": "fɹˈiːlæns",
     "m": "làm việc tự do, freelance",
     "cat": "công việc"
   },
   {
     "w": "remote work",
-    "p": "",
+    "p": "ɹᵻmˈoʊt wˈɜːk",
     "m": "làm việc từ xa",
     "cat": "công việc"
   },
   {
     "w": "maternity leave",
-    "p": "",
+    "p": "mətˈɜːnᵻɾi lˈiːv",
     "m": "nghỉ thai sản",
     "cat": "công việc"
   },
   {
     "w": "annual leave",
-    "p": "",
+    "p": "ˈænjuːəl lˈiːv",
     "m": "nghỉ phép năm",
     "cat": "công việc"
   },
   {
     "w": "sick leave",
-    "p": "",
+    "p": "sˈɪk lˈiːv",
     "m": "nghỉ ốm",
     "cat": "công việc"
   },
   {
     "w": "team leader",
-    "p": "",
+    "p": "tˈiːm lˈiːdɚ",
     "m": "trưởng nhóm",
     "cat": "công việc"
   },
   {
     "w": "department",
-    "p": "",
+    "p": "dᵻpˈɑːɹtmənt",
     "m": "phòng ban, bộ phận",
     "cat": "công việc"
   },
   {
     "w": "headquarters",
-    "p": "",
+    "p": "hɛdkwˈɔːɹɾɚz",
     "m": "trụ sở chính",
     "cat": "công việc"
   },
   {
     "w": "conference call",
-    "p": "",
+    "p": "kˈɑːnfɹəns kˈɔːl",
     "m": "cuộc họp qua điện thoại/video",
     "cat": "công việc"
   },
   {
     "w": "agenda",
-    "p": "",
+    "p": "ɐdʒˈɛndə",
     "m": "chương trình nghị sự, lịch họp",
     "cat": "công việc"
   },
   {
     "w": "minutes",
-    "p": "",
+    "p": "mˈɪnɪts",
     "m": "biên bản cuộc họp",
     "cat": "công việc"
   },
   {
     "w": "report",
-    "p": "",
+    "p": "ɹᵻpˈɔːɹt",
     "m": "báo cáo",
     "cat": "công việc"
   },
   {
     "w": "spreadsheet",
-    "p": "",
+    "p": "spɹˈɛdʃiːt",
     "m": "bảng tính",
     "cat": "công việc"
   },
   {
     "w": "printer",
-    "p": "",
+    "p": "pɹˈɪntɚ",
     "m": "máy in",
     "cat": "đồ vật"
   },
   {
     "w": "stapler",
-    "p": "",
+    "p": "stˈeɪplɚ",
     "m": "cái dập ghim",
     "cat": "đồ vật"
   },
   {
     "w": "filing cabinet",
-    "p": "",
+    "p": "fˈaɪlɪŋ kˈæbᵻnət",
     "m": "tủ đựng hồ sơ",
     "cat": "đồ vật"
   },
   {
     "w": "whiteboard",
-    "p": "",
+    "p": "wˈaɪtbɔːɹd",
     "m": "bảng trắng",
     "cat": "đồ vật"
   },
   {
     "w": "projector",
-    "p": "",
+    "p": "pɹədʒˈɛktɚ",
     "m": "máy chiếu",
     "cat": "đồ vật"
   },
   {
     "w": "briefcase",
-    "p": "",
+    "p": "bɹˈiːfkeɪs",
     "m": "cặp tài liệu",
     "cat": "đồ vật"
   },
   {
     "w": "keyboard",
-    "p": "",
+    "p": "kˈiːbɔːɹd",
     "m": "bàn phím",
     "cat": "công nghệ"
   },
   {
     "w": "screen",
-    "p": "",
+    "p": "skɹˈiːn",
     "m": "màn hình",
     "cat": "công nghệ"
   },
   {
     "w": "password",
-    "p": "",
+    "p": "pˈæswɜːd",
     "m": "mật khẩu",
     "cat": "công nghệ"
   },
   {
     "w": "log in",
-    "p": "",
+    "p": "lˈɔɡ ˈɪn",
     "m": "đăng nhập",
     "cat": "hành động"
   },
   {
     "w": "attach",
-    "p": "",
+    "p": "ɐtˈætʃ",
     "m": "đính kèm (file)",
     "cat": "hành động"
   },
   {
     "w": "forward",
-    "p": "",
+    "p": "fˈɔːɹwɚd",
     "m": "chuyển tiếp (email)",
     "cat": "hành động"
   },
   {
     "w": "schedule",
-    "p": "",
+    "p": "skˈɛdʒuːl",
     "m": "lên lịch, thời gian biểu",
     "cat": "công việc"
   },
   {
     "w": "negotiate",
-    "p": "",
+    "p": "nᵻɡˈoʊʃɪˌeɪt",
     "m": "đàm phán, thương lượng",
     "cat": "hành động"
   },
   {
     "w": "collaborate",
-    "p": "",
+    "p": "kəlˈæbɚɹˌeɪt",
     "m": "hợp tác cùng nhau",
     "cat": "hành động"
   },
   {
     "w": "present",
-    "p": "",
+    "p": "pɹˈɛzənt",
     "m": "trình bày",
     "cat": "hành động"
   },
   {
     "w": "submit",
-    "p": "",
+    "p": "səbmˈɪt",
     "m": "nộp (bài/hồ sơ)",
     "cat": "hành động"
   },
   {
     "w": "approve",
-    "p": "",
+    "p": "ɐpɹˈuːv",
     "m": "phê duyệt, chấp thuận",
     "cat": "hành động"
   },
   {
     "w": "review",
-    "p": "",
+    "p": "ɹᵻvjˈuː",
     "m": "xem xét lại, đánh giá",
     "cat": "hành động"
   },
   {
     "w": "resign",
-    "p": "",
+    "p": "ɹɪzˈaɪn",
     "m": "từ chức, xin nghỉ việc",
     "cat": "hành động"
   },
   {
     "w": "hire",
-    "p": "",
+    "p": "hˈaɪɚ",
     "m": "tuyển dụng",
     "cat": "hành động"
   },
   {
     "w": "fire",
-    "p": "",
+    "p": "fˈaɪɚ",
     "m": "sa thải",
     "cat": "hành động"
   },
   {
     "w": "retire",
-    "p": "",
+    "p": "ɹᵻtˈaɪɚ",
     "m": "nghỉ hưu",
     "cat": "hành động"
   },
   {
     "w": "commute",
-    "p": "",
+    "p": "kəmjˈuːt",
     "m": "đi làm hàng ngày (đi lại)",
     "cat": "giao thông"
   },
   {
     "w": "rush hour",
-    "p": "",
+    "p": "ɹˈʌʃ ˈaʊɚ",
     "m": "giờ cao điểm",
     "cat": "giao thông"
   },
   {
     "w": "business trip",
-    "p": "",
+    "p": "bˈɪznəs tɹˈɪp",
     "m": "chuyến công tác",
     "cat": "công việc"
   },
   {
     "w": "passport",
-    "p": "",
+    "p": "pˈæspɔːɹt",
     "m": "hộ chiếu",
     "cat": "giao thông"
   },
   {
     "w": "visa",
-    "p": "",
+    "p": "vˈiːzə",
     "m": "thị thực, visa",
     "cat": "giao thông"
   },
   {
     "w": "boarding pass",
-    "p": "",
+    "p": "bˈɔːɹdɪŋ pˈæs",
     "m": "thẻ lên máy bay",
     "cat": "giao thông"
   },
   {
     "w": "departure",
-    "p": "",
+    "p": "dᵻpˈɑːɹtʃɚ",
     "m": "sự khởi hành, cổng đi",
     "cat": "giao thông"
   },
   {
     "w": "arrival",
-    "p": "",
+    "p": "ɚɹˈaɪvəl",
     "m": "sự đến nơi, cổng đến",
     "cat": "giao thông"
   },
   {
     "w": "check in",
-    "p": "",
+    "p": "tʃˈɛk ˈɪn",
     "m": "làm thủ tục (sân bay/khách sạn)",
     "cat": "giao thông"
   },
   {
     "w": "check out",
-    "p": "",
+    "p": "tʃˈɛk ˈaʊt",
     "m": "trả phòng",
     "cat": "hành động"
   },
   {
     "w": "luggage",
-    "p": "",
+    "p": "lˈʌɡɪdʒ",
     "m": "hành lý",
     "cat": "giao thông"
   },
   {
     "w": "hand luggage",
-    "p": "",
+    "p": "hˈænd lˈʌɡɪdʒ",
     "m": "hành lý xách tay",
     "cat": "giao thông"
   },
   {
     "w": "customs",
-    "p": "",
+    "p": "kˈʌstəmz",
     "m": "hải quan",
     "cat": "giao thông"
   },
   {
     "w": "currency exchange",
-    "p": "",
+    "p": "kˈɜːɹənsi ɛkstʃˈeɪndʒ",
     "m": "đổi ngoại tệ",
     "cat": "tiền bạc"
   },
   {
     "w": "tourist",
-    "p": "",
+    "p": "tˈʊɹɹɪst",
     "m": "khách du lịch",
     "cat": "người"
   },
   {
     "w": "guided tour",
-    "p": "",
+    "p": "ɡˈaɪdᵻd tˈʊɹ",
     "m": "tour có hướng dẫn viên",
     "cat": "địa điểm"
   },
   {
     "w": "sightseeing",
-    "p": "",
+    "p": "sˈaɪtsiːɪŋ",
     "m": "tham quan, ngắm cảnh",
     "cat": "hành động"
   },
   {
     "w": "souvenir",
-    "p": "",
+    "p": "sˌuːvənˈɪɹ",
     "m": "quà lưu niệm",
     "cat": "đồ vật"
   },
   {
     "w": "resort",
-    "p": "",
+    "p": "ɹᵻzˈɔːɹt",
     "m": "khu nghỉ dưỡng",
     "cat": "địa điểm"
   },
   {
     "w": "hostel",
-    "p": "",
+    "p": "hˈɑːstəl",
     "m": "nhà trọ, ký túc xá",
     "cat": "địa điểm"
   },
   {
     "w": "accommodation",
-    "p": "",
+    "p": "ɐkˌɑːmədˈeɪʃən",
     "m": "chỗ ở, nơi lưu trú",
     "cat": "địa điểm"
   },
   {
     "w": "reservation",
-    "p": "",
+    "p": "ɹˌɛzɚvˈeɪʃən",
     "m": "đặt chỗ trước, đặt phòng",
     "cat": "hành động"
   },
   {
     "w": "book",
-    "p": "",
+    "p": "bˈʊk",
     "m": "đặt trước (phòng/vé)",
     "cat": "hành động"
   },
   {
     "w": "cancel",
-    "p": "",
+    "p": "kˈænsəl",
     "m": "hủy bỏ",
     "cat": "hành động"
   },
   {
     "w": "refund",
-    "p": "",
+    "p": "ɹᵻfˈʌnd",
     "m": "hoàn tiền",
     "cat": "tiền bạc"
   },
   {
     "w": "itinerary",
-    "p": "",
+    "p": "aɪtˈɪnɚɹˌɛɹi",
     "m": "lịch trình du lịch",
     "cat": "địa điểm"
   },
   {
     "w": "destination",
-    "p": "",
+    "p": "dˌɛstɪnˈeɪʃən",
     "m": "điểm đến",
     "cat": "địa điểm"
   },
   {
     "w": "landmark",
-    "p": "",
+    "p": "lˈændmɑːɹk",
     "m": "địa danh, điểm tham quan nổi tiếng",
     "cat": "địa điểm"
   },
   {
     "w": "monument",
-    "p": "",
+    "p": "mˈɑːnjuːmənt",
     "m": "tượng đài, di tích",
     "cat": "địa điểm"
   },
   {
     "w": "museum",
-    "p": "",
+    "p": "mjuːzˈiəm",
     "m": "bảo tàng",
     "cat": "địa điểm"
   },
   {
     "w": "exhibition",
-    "p": "",
+    "p": "ɛksɪbˈɪʃən",
     "m": "triển lãm",
     "cat": "nghệ thuật"
   },
   {
     "w": "gallery",
-    "p": "",
+    "p": "ɡˈælɚɹi",
     "m": "phòng trưng bày nghệ thuật",
     "cat": "nghệ thuật"
   },
   {
     "w": "heritage",
-    "p": "",
+    "p": "hˈɛɹɪɾɪdʒ",
     "m": "di sản (văn hóa)",
     "cat": "văn hóa"
   },
   {
     "w": "local cuisine",
-    "p": "",
+    "p": "lˈoʊkəl kwᵻzˈiːn",
     "m": "ẩm thực địa phương",
     "cat": "thức ăn"
   },
   {
     "w": "exchange rate",
-    "p": "",
+    "p": "ɛkstʃˈeɪndʒ ɹˈeɪt",
     "m": "tỷ giá hối đoái",
     "cat": "tiền bạc"
   },
   {
     "w": "travel insurance",
-    "p": "",
+    "p": "tɹˈævəl ɪnʃˈʊɹɹəns",
     "m": "bảo hiểm du lịch",
     "cat": "giao thông"
   },
   {
     "w": "jet lag",
-    "p": "",
+    "p": "dʒˈɛt lˈæɡ",
     "m": "mệt mỏi do lệch múi giờ",
     "cat": "sức khỏe"
   },
   {
     "w": "connecting flight",
-    "p": "",
+    "p": "kənˈɛktɪŋ flˈaɪt",
     "m": "chuyến bay nối chuyến",
     "cat": "giao thông"
   },
   {
     "w": "platform",
-    "p": "",
+    "p": "plˈætfɔːɹm",
     "m": "sân ga, ke ga",
     "cat": "giao thông"
   },
   {
     "w": "timetable",
-    "p": "",
+    "p": "tˈaɪmteɪbəl",
     "m": "thời gian biểu, lịch tàu/xe",
     "cat": "giao thông"
   },
   {
     "w": "delay",
-    "p": "",
+    "p": "dᵻlˈeɪ",
     "m": "sự chậm trễ",
     "cat": "giao thông"
   },
   {
     "w": "transfer",
-    "p": "",
+    "p": "tɹˈænsfɜː",
     "m": "chuyển tuyến, đổi xe/tàu",
     "cat": "giao thông"
   },
   {
     "w": "environment",
-    "p": "",
+    "p": "ɛnvˈaɪɹənmənt",
     "m": "môi trường",
     "cat": "thiên nhiên"
   },
   {
     "w": "pollution",
-    "p": "",
+    "p": "pəlˈuːʃən",
     "m": "ô nhiễm",
     "cat": "thiên nhiên"
   },
   {
     "w": "climate change",
-    "p": "",
+    "p": "klˈaɪmət tʃˈeɪndʒ",
     "m": "biến đổi khí hậu",
     "cat": "thiên nhiên"
   },
   {
     "w": "global warming",
-    "p": "",
+    "p": "ɡlˈoʊbəl wˈɔːɹmɪŋ",
     "m": "sự nóng lên toàn cầu",
     "cat": "thiên nhiên"
   },
   {
     "w": "greenhouse gas",
-    "p": "",
+    "p": "ɡɹˈiːnhaʊs ɡˈæs",
     "m": "khí nhà kính",
     "cat": "thiên nhiên"
   },
   {
     "w": "renewable energy",
-    "p": "",
+    "p": "ɹᵻnˈuːəbəl ˈɛnɚdʒi",
     "m": "năng lượng tái tạo",
     "cat": "thiên nhiên"
   },
   {
     "w": "solar panel",
-    "p": "",
+    "p": "sˈoʊlɚ pˈænəl",
     "m": "tấm pin năng lượng mặt trời",
     "cat": "công nghệ"
   },
   {
     "w": "wind turbine",
-    "p": "",
+    "p": "wˈɪnd tˈɜːbaɪn",
     "m": "tua bin gió",
     "cat": "thiên nhiên"
   },
   {
     "w": "recycle",
-    "p": "",
+    "p": "ɹᵻsˈaɪkəl",
     "m": "tái chế",
     "cat": "hành động"
   },
   {
     "w": "waste",
-    "p": "",
+    "p": "wˈeɪst",
     "m": "rác thải, chất thải",
     "cat": "thiên nhiên"
   },
   {
     "w": "conservation",
-    "p": "",
+    "p": "kˌɑːnsɚvˈeɪʃən",
     "m": "sự bảo tồn (thiên nhiên)",
     "cat": "thiên nhiên"
   },
   {
     "w": "endangered species",
-    "p": "",
+    "p": "ɛndˈeɪndʒɚd spˈiːsiːz",
     "m": "loài động vật nguy cấp",
     "cat": "động vật"
   },
   {
     "w": "habitat",
-    "p": "",
+    "p": "hˈæbɪtˌæt",
     "m": "môi trường sống (của động vật)",
     "cat": "thiên nhiên"
   },
   {
     "w": "deforestation",
-    "p": "",
+    "p": "diːfˌɔːɹɪstˈeɪʃən",
     "m": "nạn phá rừng",
     "cat": "thiên nhiên"
   },
   {
     "w": "flood",
-    "p": "",
+    "p": "flˈʌd",
     "m": "lũ lụt",
     "cat": "thời tiết"
   },
   {
     "w": "drought",
-    "p": "",
+    "p": "dɹˈaʊt",
     "m": "hạn hán",
     "cat": "thời tiết"
   },
   {
     "w": "earthquake",
-    "p": "",
+    "p": "ˈɜːθkweɪk",
     "m": "động đất",
     "cat": "thời tiết"
   },
   {
     "w": "tsunami",
-    "p": "",
+    "p": "tsuːnˈɑːmi",
     "m": "sóng thần",
     "cat": "thời tiết"
   },
   {
     "w": "carbon footprint",
-    "p": "",
+    "p": "kˈɑːɹbən fˈʊtpɹɪnt",
     "m": "dấu vết carbon",
     "cat": "thiên nhiên"
   },
   {
     "w": "sustainable",
-    "p": "",
+    "p": "səstˈeɪnəbəl",
     "m": "bền vững",
     "cat": "tính từ"
   },
   {
     "w": "eco-friendly",
-    "p": "",
+    "p": "ˈiːkoʊfɹˈɛndli",
     "m": "thân thiện với môi trường",
     "cat": "tính từ"
   },
   {
     "w": "biodiversity",
-    "p": "",
+    "p": "bˌaɪoʊdaɪvˈɜːsᵻɾi",
     "m": "đa dạng sinh học",
     "cat": "thiên nhiên"
   },
   {
     "w": "rainforest",
-    "p": "",
+    "p": "ɹˈeɪnfˌɔːɹɪst",
     "m": "rừng nhiệt đới",
     "cat": "thiên nhiên"
   },
   {
     "w": "coral reef",
-    "p": "",
+    "p": "kˈɔːɹəl ɹˈiːf",
     "m": "rạn san hô",
     "cat": "thiên nhiên"
   },
   {
     "w": "iceberg",
-    "p": "",
+    "p": "ˈaɪsbɜːɡ",
     "m": "tảng băng trôi",
     "cat": "thiên nhiên"
   },
   {
     "w": "glacier",
-    "p": "",
+    "p": "ɡlˈeɪʃɚ",
     "m": "sông băng",
     "cat": "thiên nhiên"
   },
   {
     "w": "atmosphere",
-    "p": "",
+    "p": "ˈætməsfˌɪɹ",
     "m": "bầu khí quyển",
     "cat": "thiên nhiên"
   },
   {
     "w": "ozone layer",
-    "p": "",
+    "p": "ˈoʊzoʊn lˈeɪɚ",
     "m": "tầng ozone",
     "cat": "thiên nhiên"
   },
   {
     "w": "air quality",
-    "p": "",
+    "p": "ˈɛɹ kwˈɔlᵻɾi",
     "m": "chất lượng không khí",
     "cat": "thiên nhiên"
   },
   {
     "w": "water shortage",
-    "p": "",
+    "p": "wˈɔːɾɚ ʃˈɔːɹɾɪdʒ",
     "m": "thiếu hụt nước",
     "cat": "thiên nhiên"
   },
   {
     "w": "soil erosion",
-    "p": "",
+    "p": "sˈɔɪl ɪɹˈoʊʒən",
     "m": "xói mòn đất",
     "cat": "thiên nhiên"
   },
   {
     "w": "organic",
-    "p": "",
+    "p": "ɔːɹɡˈænɪk",
     "m": "hữu cơ, không dùng hóa chất",
     "cat": "tính từ"
   },
   {
     "w": "compost",
-    "p": "",
+    "p": "kˈɑːmpoʊst",
     "m": "phân compost, phân hữu cơ",
     "cat": "thiên nhiên"
   },
   {
     "w": "emission",
-    "p": "",
+    "p": "ɪmˈɪʃən",
     "m": "khí thải",
     "cat": "thiên nhiên"
   },
   {
     "w": "poverty",
-    "p": "",
+    "p": "pˈɑːvɚɾi",
     "m": "nghèo đói",
     "cat": "xã hội"
   },
   {
     "w": "inequality",
-    "p": "",
+    "p": "ɪniːkwˈɔlᵻɾi",
     "m": "bất bình đẳng",
     "cat": "xã hội"
   },
   {
     "w": "discrimination",
-    "p": "",
+    "p": "dɪskɹˌɪmᵻnˈeɪʃən",
     "m": "sự phân biệt đối xử",
     "cat": "xã hội"
   },
   {
     "w": "racism",
-    "p": "",
+    "p": "ɹˈeɪsɪzəm",
     "m": "chủ nghĩa phân biệt chủng tộc",
     "cat": "xã hội"
   },
   {
     "w": "gender equality",
-    "p": "",
+    "p": "dʒˈɛndɚɹ iːkwˈɔlᵻɾi",
     "m": "bình đẳng giới",
     "cat": "xã hội"
   },
   {
     "w": "human rights",
-    "p": "",
+    "p": "hjˈuːmən ɹˈaɪts",
     "m": "quyền con người",
     "cat": "xã hội"
   },
   {
     "w": "homeless",
-    "p": "",
+    "p": "hˈoʊmləs",
     "m": "vô gia cư",
     "cat": "xã hội"
   },
   {
     "w": "refugee",
-    "p": "",
+    "p": "ɹˈɛfjuːdʒˌiː",
     "m": "người tị nạn",
     "cat": "người"
   },
   {
     "w": "immigrant",
-    "p": "",
+    "p": "ˈɪmɪɡɹənt",
     "m": "người nhập cư",
     "cat": "người"
   },
   {
     "w": "integration",
-    "p": "",
+    "p": "ˌɪntᵻɡɹˈeɪʃən",
     "m": "sự hòa nhập (xã hội)",
     "cat": "xã hội"
   },
   {
     "w": "protest",
-    "p": "",
+    "p": "pɹˈoʊtɛst",
     "m": "cuộc biểu tình, phản đối",
     "cat": "xã hội"
   },
   {
     "w": "campaign",
-    "p": "",
+    "p": "kæmpˈeɪn",
     "m": "chiến dịch (xã hội/chính trị)",
     "cat": "xã hội"
   },
   {
     "w": "charity",
-    "p": "",
+    "p": "tʃˈæɹᵻɾi",
     "m": "tổ chức từ thiện",
     "cat": "xã hội"
   },
   {
     "w": "volunteer",
-    "p": "",
+    "p": "vˌɑːləntˈɪɹ",
     "m": "tình nguyện viên",
     "cat": "người"
   },
   {
     "w": "donation",
-    "p": "",
+    "p": "doʊnˈeɪʃən",
     "m": "sự quyên góp, tiền từ thiện",
     "cat": "tiền bạc"
   },
   {
     "w": "awareness",
-    "p": "",
+    "p": "ɐwˈɛɹnəs",
     "m": "sự nhận thức, ý thức",
     "cat": "học thuật"
   },
   {
     "w": "unemployment",
-    "p": "",
+    "p": "ʌnɛmplˈɔɪmənt",
     "m": "nạn thất nghiệp",
     "cat": "xã hội"
   },
   {
     "w": "crime rate",
-    "p": "",
+    "p": "kɹˈaɪm ɹˈeɪt",
     "m": "tỷ lệ tội phạm",
     "cat": "xã hội"
   },
   {
     "w": "public transport",
-    "p": "",
+    "p": "pˈʌblɪk tɹˈænspɔːɹt",
     "m": "giao thông công cộng",
     "cat": "giao thông"
   },
   {
     "w": "overcrowding",
-    "p": "",
+    "p": "ˌoʊvɚkɹˈaʊdɪŋ",
     "m": "sự đông đúc quá mức",
     "cat": "xã hội"
   },
   {
     "w": "addiction",
-    "p": "",
+    "p": "ɐdˈɪkʃən",
     "m": "sự nghiện ngập",
     "cat": "sức khỏe"
   },
   {
     "w": "mental health",
-    "p": "",
+    "p": "mˈɛntəl hˈɛlθ",
     "m": "sức khỏe tâm thần",
     "cat": "sức khỏe"
   },
   {
     "w": "obesity",
-    "p": "",
+    "p": "oʊbˈiːsəɾi",
     "m": "bệnh béo phì",
     "cat": "sức khỏe"
   },
   {
     "w": "literacy",
-    "p": "",
+    "p": "lˈɪɾɚɹəsi",
     "m": "khả năng đọc viết",
     "cat": "học tập"
   },
   {
     "w": "education system",
-    "p": "",
+    "p": "ˌɛdʒuːkˈeɪʃən sˈɪstəm",
     "m": "hệ thống giáo dục",
     "cat": "học tập"
   },
   {
     "w": "social media",
-    "p": "",
+    "p": "sˈoʊʃəl mˈiːdiːə",
     "m": "mạng xã hội",
     "cat": "công nghệ"
   },
   {
     "w": "fake news",
-    "p": "",
+    "p": "fˈeɪk nˈuːz",
     "m": "tin tức giả mạo",
     "cat": "xã hội"
   },
   {
     "w": "cyberbullying",
-    "p": "",
+    "p": "sˈaɪbɚbˌʊlɪɪŋ",
     "m": "bắt nạt trực tuyến",
     "cat": "xã hội"
   },
   {
     "w": "give up",
-    "p": "",
+    "p": "ɡˈɪv ˈʌp",
     "m": "từ bỏ",
     "cat": "thành ngữ"
   },
   {
     "w": "look forward to",
-    "p": "",
+    "p": "lˈʊk fˈɔːɹwɚd tuː",
     "m": "mong đợi, trông chờ",
     "cat": "thành ngữ"
   },
   {
     "w": "find out",
-    "p": "",
+    "p": "fˈaɪnd ˈaʊt",
     "m": "tìm hiểu, phát hiện ra",
     "cat": "thành ngữ"
   },
   {
     "w": "carry on",
-    "p": "",
+    "p": "kˈæɹi ˈɔn",
     "m": "tiếp tục",
     "cat": "thành ngữ"
   },
   {
     "w": "set up",
-    "p": "",
+    "p": "sˈɛt ˈʌp",
     "m": "thiết lập, thành lập",
     "cat": "thành ngữ"
   },
   {
     "w": "pick up",
-    "p": "",
+    "p": "pˈɪk ˈʌp",
     "m": "nhặt lên; đón (ai đó)",
     "cat": "thành ngữ"
   },
   {
     "w": "turn down",
-    "p": "",
+    "p": "tˈɜːn dˈaʊn",
     "m": "từ chối (lời đề nghị)",
     "cat": "thành ngữ"
   },
   {
     "w": "put off",
-    "p": "",
+    "p": "pˌʊt ˈɔf",
     "m": "trì hoãn",
     "cat": "thành ngữ"
   },
   {
     "w": "take on",
-    "p": "",
+    "p": "tˈeɪk ˈɔn",
     "m": "nhận (việc/trách nhiệm)",
     "cat": "thành ngữ"
   },
   {
     "w": "deal with",
-    "p": "",
+    "p": "dˈiːl wɪð",
     "m": "giải quyết, đối phó với",
     "cat": "thành ngữ"
   },
   {
     "w": "come across",
-    "p": "",
+    "p": "kˈʌm əkɹˈɑːs",
     "m": "tình cờ gặp, tìm thấy",
     "cat": "thành ngữ"
   },
   {
     "w": "get along with",
-    "p": "",
+    "p": "ɡɛt ɐlˈɔŋ wɪð",
     "m": "hòa thuận với (ai)",
     "cat": "thành ngữ"
   },
   {
     "w": "run out of",
-    "p": "",
+    "p": "ɹˈʌn ˌaʊɾəv",
     "m": "hết (thứ gì đó)",
     "cat": "thành ngữ"
   },
   {
     "w": "look into",
-    "p": "",
+    "p": "lˈʊk ˌɪntʊ",
     "m": "điều tra, xem xét kỹ",
     "cat": "thành ngữ"
   },
   {
     "w": "bring up",
-    "p": "",
+    "p": "bɹˈɪŋ ˈʌp",
     "m": "nuôi dưỡng; đề cập đến",
     "cat": "thành ngữ"
   },
   {
     "w": "come up with",
-    "p": "",
+    "p": "kˈʌm ˈʌp wɪð",
     "m": "nghĩ ra (ý tưởng)",
     "cat": "thành ngữ"
   },
   {
     "w": "go through",
-    "p": "",
+    "p": "ɡˌoʊ θɹˈuː",
     "m": "trải qua, kiểm tra kỹ",
     "cat": "thành ngữ"
   },
   {
     "w": "take care of",
-    "p": "",
+    "p": "tˈeɪk kˈɛɹ ʌv",
     "m": "chăm sóc, lo liệu cho",
     "cat": "thành ngữ"
   },
   {
     "w": "put up with",
-    "p": "",
+    "p": "pˌʊt ˈʌp wɪð",
     "m": "chịu đựng, nhẫn nhịn",
     "cat": "thành ngữ"
   },
   {
     "w": "catch up with",
-    "p": "",
+    "p": "kˈætʃ ˈʌp wɪð",
     "m": "bắt kịp (ai/cái gì)",
     "cat": "thành ngữ"
   },
   {
     "w": "break down",
-    "p": "",
+    "p": "bɹˈeɪk dˈaʊn",
     "m": "hỏng hóc; phân tích chi tiết",
     "cat": "thành ngữ"
   },
   {
     "w": "turn out",
-    "p": "",
+    "p": "tˈɜːn ˈaʊt",
     "m": "hóa ra, kết quả là",
     "cat": "thành ngữ"
   },
   {
     "w": "fill in",
-    "p": "",
+    "p": "fˈɪl ˈɪn",
     "m": "điền vào (biểu mẫu)",
     "cat": "thành ngữ"
   },
   {
     "w": "hand in",
-    "p": "",
+    "p": "hˈænd ˈɪn",
     "m": "nộp (bài tập)",
     "cat": "thành ngữ"
   },
   {
     "w": "look up",
-    "p": "",
+    "p": "lˈʊk ˈʌp",
     "m": "tra cứu (từ điển)",
     "cat": "thành ngữ"
   },
   {
     "w": "point out",
-    "p": "",
+    "p": "pˈɔɪnt ˈaʊt",
     "m": "chỉ ra, nhận xét",
     "cat": "thành ngữ"
   },
   {
     "w": "put forward",
-    "p": "",
+    "p": "pˌʊt fˈɔːɹwɚd",
     "m": "đề xuất, đưa ra",
     "cat": "thành ngữ"
   },
   {
     "w": "take part in",
-    "p": "",
+    "p": "tˈeɪk pˈɑːɹt ˈɪn",
     "m": "tham gia vào",
     "cat": "thành ngữ"
   },
   {
     "w": "turn up",
-    "p": "",
+    "p": "tˈɜːn ˈʌp",
     "m": "xuất hiện, đến nơi",
     "cat": "thành ngữ"
   },
   {
     "w": "work out",
-    "p": "",
+    "p": "wˈɜːk ˈaʊt",
     "m": "tập thể dục; giải quyết được",
     "cat": "thành ngữ"
   },
   {
     "w": "budget",
-    "p": "",
+    "p": "bˈʌdʒɪt",
     "m": "ngân sách",
     "cat": "tiền bạc"
   },
   {
     "w": "profit",
-    "p": "",
+    "p": "pɹˈɑːfɪt",
     "m": "lợi nhuận",
     "cat": "kinh doanh"
   },
   {
     "w": "loss",
-    "p": "",
+    "p": "lˈɔs",
     "m": "thua lỗ, tổn thất",
     "cat": "kinh doanh"
   },
   {
     "w": "investment",
-    "p": "",
+    "p": "ɪnvˈɛstmənt",
     "m": "đầu tư",
     "cat": "kinh doanh"
   },
   {
     "w": "shareholder",
-    "p": "",
+    "p": "ʃˈɛɹhoʊldɚ",
     "m": "cổ đông",
     "cat": "kinh doanh"
   },
   {
     "w": "competitor",
-    "p": "",
+    "p": "kəmpˈɛɾɪɾɚ",
     "m": "đối thủ cạnh tranh",
     "cat": "kinh doanh"
   },
   {
     "w": "market",
-    "p": "",
+    "p": "mˈɑːɹkɪt",
     "m": "thị trường",
     "cat": "kinh doanh"
   },
   {
     "w": "brand",
-    "p": "",
+    "p": "bɹˈænd",
     "m": "thương hiệu",
     "cat": "kinh doanh"
   },
   {
     "w": "consumer",
-    "p": "",
+    "p": "kənsˈuːmɚ",
     "m": "người tiêu dùng",
     "cat": "kinh doanh"
   },
   {
     "w": "supply",
-    "p": "",
+    "p": "səplˈaɪ",
     "m": "cung (ứng)",
     "cat": "kinh doanh"
   },
   {
     "w": "demand",
-    "p": "",
+    "p": "dᵻmˈænd",
     "m": "nhu cầu (thị trường)",
     "cat": "kinh doanh"
   },
   {
     "w": "contract",
-    "p": "",
+    "p": "kˈɑːntɹækt",
     "m": "hợp đồng",
     "cat": "kinh doanh"
   },
   {
     "w": "headquarters",
-    "p": "",
+    "p": "hɛdkwˈɔːɹɾɚz",
     "m": "trụ sở chính công ty",
     "cat": "kinh doanh"
   },
   {
     "w": "merger",
-    "p": "",
+    "p": "mˈɜːdʒɚ",
     "m": "sự sáp nhập (công ty)",
     "cat": "kinh doanh"
   },
   {
     "w": "strategy",
-    "p": "",
+    "p": "stɹˈæɾədʒi",
     "m": "chiến lược",
     "cat": "kinh doanh"
   },
   {
     "w": "target",
-    "p": "",
+    "p": "tˈɑːɹɡɪt",
     "m": "mục tiêu, chỉ tiêu",
     "cat": "kinh doanh"
   },
   {
     "w": "launch",
-    "p": "",
+    "p": "lˈɑːntʃ",
     "m": "ra mắt (sản phẩm)",
     "cat": "kinh doanh"
   },
   {
     "w": "campaign",
-    "p": "",
+    "p": "kæmpˈeɪn",
     "m": "chiến dịch marketing",
     "cat": "kinh doanh"
   },
   {
     "w": "revenue",
-    "p": "",
+    "p": "ɹˈɛvənˌuː",
     "m": "doanh thu",
     "cat": "kinh doanh"
   },
   {
     "w": "expense",
-    "p": "",
+    "p": "ɛkspˈɛns",
     "m": "chi phí",
     "cat": "tiền bạc"
   },
   {
     "w": "invoice",
-    "p": "",
+    "p": "ˈɪnvɔɪs",
     "m": "hóa đơn (thương mại)",
     "cat": "kinh doanh"
   },
   {
     "w": "receipt",
-    "p": "",
+    "p": "ɹᵻsˈiːt",
     "m": "biên lai, hóa đơn mua hàng",
     "cat": "tiền bạc"
   },
   {
     "w": "tax",
-    "p": "",
+    "p": "tˈæks",
     "m": "thuế",
     "cat": "tiền bạc"
   },
   {
     "w": "mortgage",
-    "p": "",
+    "p": "mˈɔːɹɡɪdʒ",
     "m": "khoản vay thế chấp (mua nhà)",
     "cat": "tiền bạc"
   },
   {
     "w": "loan",
-    "p": "",
+    "p": "lˈoʊn",
     "m": "khoản vay",
     "cat": "tiền bạc"
   },
   {
     "w": "interest rate",
-    "p": "",
+    "p": "ˈɪntɹɛst ɹˈeɪt",
     "m": "lãi suất",
     "cat": "tiền bạc"
   },
   {
     "w": "salary",
-    "p": "",
+    "p": "sˈælɚɹi",
     "m": "lương tháng",
     "cat": "công việc"
   },
   {
     "w": "bonus",
-    "p": "",
+    "p": "bˈoʊnəs",
     "m": "tiền thưởng",
     "cat": "công việc"
   },
   {
     "w": "allowance",
-    "p": "",
+    "p": "ɐlˈaʊəns",
     "m": "phụ cấp",
     "cat": "công việc"
   },
   {
     "w": "pension",
-    "p": "",
+    "p": "pˈɛnʃən",
     "m": "lương hưu",
     "cat": "công việc"
   },
   {
     "w": "optimistic",
-    "p": "",
+    "p": "ˌɑːptɪmˈɪstɪk",
     "m": "lạc quan",
     "cat": "tính từ"
   },
   {
     "w": "pessimistic",
-    "p": "",
+    "p": "pˌɛsɪmˈɪstɪk",
     "m": "bi quan",
     "cat": "tính từ"
   },
   {
     "w": "ambitious",
-    "p": "",
+    "p": "æmbˈɪʃəs",
     "m": "có tham vọng",
     "cat": "tính từ"
   },
   {
     "w": "reliable",
-    "p": "",
+    "p": "ɹᵻlˈaɪəbəl",
     "m": "đáng tin cậy",
     "cat": "tính từ"
   },
   {
     "w": "flexible",
-    "p": "",
+    "p": "flˈɛksɪbəl",
     "m": "linh hoạt",
     "cat": "tính từ"
   },
   {
     "w": "efficient",
-    "p": "",
+    "p": "ɪfˈɪʃənt",
     "m": "hiệu quả, năng suất cao",
     "cat": "tính từ"
   },
   {
     "w": "productive",
-    "p": "",
+    "p": "pɹədˈʌktɪv",
     "m": "hiệu suất cao, năng suất",
     "cat": "tính từ"
   },
   {
     "w": "competitive",
-    "p": "",
+    "p": "kəmpˈɛɾᵻtˌɪv",
     "m": "cạnh tranh",
     "cat": "tính từ"
   },
   {
     "w": "innovative",
-    "p": "",
+    "p": "ˈɪnəvˌeɪɾɪv",
     "m": "sáng tạo, đổi mới",
     "cat": "tính từ"
   },
   {
     "w": "professional",
-    "p": "",
+    "p": "pɹəfˈɛʃənəl",
     "m": "chuyên nghiệp",
     "cat": "tính từ"
   },
   {
     "w": "motivated",
-    "p": "",
+    "p": "mˈoʊɾᵻvˌeɪɾᵻd",
     "m": "có động lực",
     "cat": "tính từ"
   },
   {
     "w": "dedicated",
-    "p": "",
+    "p": "dˈɛdᵻkˌeɪɾᵻd",
     "m": "tận tụy, cống hiến",
     "cat": "tính từ"
   },
   {
     "w": "experienced",
-    "p": "",
+    "p": "ɛkspˈiəɹɪənst",
     "m": "có kinh nghiệm",
     "cat": "tính từ"
   },
   {
     "w": "qualified",
-    "p": "",
+    "p": "kwˈɔlᵻfˌaɪd",
     "m": "đủ năng lực, có bằng cấp",
     "cat": "tính từ"
   },
   {
     "w": "confident",
-    "p": "",
+    "p": "kˈɑːnfɪdənt",
     "m": "tự tin",
     "cat": "tính từ"
   },
   {
     "w": "polite",
-    "p": "",
+    "p": "pəlˈaɪt",
     "m": "lịch sự",
     "cat": "tính từ"
   },
   {
     "w": "punctual",
-    "p": "",
+    "p": "pˈʌŋktʃuːəl",
     "m": "đúng giờ",
     "cat": "tính từ"
   },
   {
     "w": "patient",
-    "p": "",
+    "p": "pˈeɪʃənt",
     "m": "kiên nhẫn",
     "cat": "tính từ"
   },
   {
     "w": "creative",
-    "p": "",
+    "p": "kɹiːˈeɪɾɪv",
     "m": "sáng tạo",
     "cat": "tính từ"
   },
   {
     "w": "responsible",
-    "p": "",
+    "p": "ɹᵻspˈɑːnsᵻbəl",
     "m": "có trách nhiệm",
     "cat": "tính từ"
   },
   {
     "w": "honestly",
-    "p": "",
+    "p": "ˈɑːnɪstli",
     "m": "một cách thành thật",
     "cat": "trạng từ"
   },
   {
     "w": "carefully",
-    "p": "",
+    "p": "kˈɛɹfəli",
     "m": "một cách cẩn thận",
     "cat": "trạng từ"
   },
   {
     "w": "efficiently",
-    "p": "",
+    "p": "ɪfˈɪʃəntli",
     "m": "một cách hiệu quả",
     "cat": "trạng từ"
   },
   {
     "w": "gradually",
-    "p": "",
+    "p": "ɡɹˈædʒuːəli",
     "m": "dần dần",
     "cat": "trạng từ"
   },
   {
     "w": "recently",
-    "p": "",
+    "p": "ɹˈiːsəntli",
     "m": "gần đây",
     "cat": "trạng từ"
   },
   {
     "w": "currently",
-    "p": "",
+    "p": "kˈɜːɹəntli",
     "m": "hiện tại, hiện nay",
     "cat": "trạng từ"
   },
   {
     "w": "eventually",
-    "p": "",
+    "p": "ᵻvˈɛntʃuːəli",
     "m": "cuối cùng, rồi thì",
     "cat": "trạng từ"
   },
   {
     "w": "approximately",
-    "p": "",
+    "p": "ɐpɹˈɑːksɪmətli",
     "m": "xấp xỉ, khoảng chừng",
     "cat": "trạng từ"
   },
   {
     "w": "particularly",
-    "p": "",
+    "p": "pɚtˈɪkjʊlɚli",
     "m": "đặc biệt là",
     "cat": "trạng từ"
   },
   {
     "w": "significantly",
-    "p": "",
+    "p": "sɪɡnˈɪfɪkəntli",
     "m": "đáng kể, một cách đáng kể",
     "cat": "trạng từ"
   },
   {
     "w": "frequently",
-    "p": "",
+    "p": "fɹˈiːkwəntli",
     "m": "thường xuyên",
     "cat": "trạng từ"
   },
   {
     "w": "immediately",
-    "p": "",
+    "p": "ɪmˈiːdɪətli",
     "m": "ngay lập tức",
     "cat": "trạng từ"
   },
   {
     "w": "obviously",
-    "p": "",
+    "p": "ˈɑːbviəsli",
     "m": "rõ ràng là",
     "cat": "trạng từ"
   },
   {
     "w": "surprisingly",
-    "p": "",
+    "p": "sɚpɹˈaɪzɪŋli",
     "m": "một cách đáng ngạc nhiên",
     "cat": "trạng từ"
   },
   {
     "w": "unfortunately",
-    "p": "",
+    "p": "ʌnfˈɔːɹtʃənətli",
     "m": "thật không may",
     "cat": "trạng từ"
   },
   {
     "w": "fortunately",
-    "p": "",
+    "p": "fˈɔːɹtʃənətli",
     "m": "thật may mắn",
     "cat": "trạng từ"
   },
   {
     "w": "typically",
-    "p": "",
+    "p": "tˈɪpɪkli",
     "m": "thông thường, một cách điển hình",
     "cat": "trạng từ"
   },
   {
     "w": "largely",
-    "p": "",
+    "p": "lˈɑːɹdʒli",
     "m": "phần lớn, chủ yếu",
     "cat": "trạng từ"
   },
   {
     "w": "mainly",
-    "p": "",
+    "p": "mˈeɪnli",
     "m": "chủ yếu, phần lớn",
     "cat": "trạng từ"
   },
   {
     "w": "closely",
-    "p": "",
+    "p": "klˈoʊsli",
     "m": "chặt chẽ, kỹ lưỡng",
     "cat": "trạng từ"
   },
   {
     "w": "frustrated",
-    "p": "",
+    "p": "fɹʌstɹˈeɪɾᵻd",
     "m": "bực bội, thất vọng",
     "cat": "cảm xúc"
   },
   {
     "w": "anxious",
-    "p": "",
+    "p": "ˈæŋʃəs",
     "m": "lo lắng, bồn chồn",
     "cat": "cảm xúc"
   },
   {
     "w": "excited",
-    "p": "",
+    "p": "ɛksˈaɪɾᵻd",
     "m": "hào hứng, phấn khích",
     "cat": "cảm xúc"
   },
   {
     "w": "relieved",
-    "p": "",
+    "p": "ɹᵻlˈiːvd",
     "m": "nhẹ nhõm",
     "cat": "cảm xúc"
   },
   {
     "w": "disappointed",
-    "p": "",
+    "p": "dˌɪsɐpˈɔɪntᵻd",
     "m": "thất vọng",
     "cat": "cảm xúc"
   },
   {
     "w": "proud",
-    "p": "",
+    "p": "pɹˈaʊd",
     "m": "tự hào",
     "cat": "cảm xúc"
   },
   {
     "w": "embarrassed",
-    "p": "",
+    "p": "ɛmbˈæɹəst",
     "m": "xấu hổ, ngượng ngùng",
     "cat": "cảm xúc"
   },
   {
     "w": "jealous",
-    "p": "",
+    "p": "dʒˈɛləs",
     "m": "ghen tị, đố kị",
     "cat": "cảm xúc"
   },
   {
     "w": "bored",
-    "p": "",
+    "p": "bˈɔːɹd",
     "m": "chán nản",
     "cat": "cảm xúc"
   },
   {
     "w": "satisfied",
-    "p": "",
+    "p": "sˈæɾɪsfˌaɪd",
     "m": "hài lòng, thỏa mãn",
     "cat": "cảm xúc"
   },
   {
     "w": "confused",
-    "p": "",
+    "p": "kənfjˈuːzd",
     "m": "bối rối, không hiểu",
     "cat": "cảm xúc"
   },
   {
     "w": "nervous",
-    "p": "",
+    "p": "nˈɜːvəs",
     "m": "hồi hộp, lo lắng",
     "cat": "cảm xúc"
   },
   {
     "w": "stressed",
-    "p": "",
+    "p": "stɹˈɛst",
     "m": "căng thẳng",
     "cat": "cảm xúc"
   },
   {
     "w": "homesick",
-    "p": "",
+    "p": "hˈoʊmsɪk",
     "m": "nhớ nhà",
     "cat": "cảm xúc"
   },
   {
     "w": "grateful",
-    "p": "",
+    "p": "ɡɹˈeɪtfəl",
     "m": "biết ơn",
     "cat": "cảm xúc"
   },
   {
     "w": "curious",
-    "p": "",
+    "p": "kjˈʊɹɹiəs",
     "m": "tò mò",
     "cat": "cảm xúc"
   },
   {
     "w": "surprised",
-    "p": "",
+    "p": "sɚpɹˈaɪzd",
     "m": "ngạc nhiên",
     "cat": "cảm xúc"
   },
   {
     "w": "lonely",
-    "p": "",
+    "p": "lˈoʊnli",
     "m": "cô đơn",
     "cat": "cảm xúc"
   },
   {
     "w": "content",
-    "p": "",
+    "p": "kˈɑːntɛnt",
     "m": "hài lòng, bằng lòng",
     "cat": "cảm xúc"
   },
   {
     "w": "shocked",
-    "p": "",
+    "p": "ʃˈɑːkt",
     "m": "choáng váng, bị sốc",
     "cat": "cảm xúc"
   },
   {
     "w": "tradition",
-    "p": "",
+    "p": "tɹɐdˈɪʃən",
     "m": "truyền thống",
     "cat": "văn hóa"
   },
   {
     "w": "custom",
-    "p": "",
+    "p": "kˈʌstəm",
     "m": "phong tục, tập quán",
     "cat": "văn hóa"
   },
   {
     "w": "ceremony",
-    "p": "",
+    "p": "sˈɛɹᵻməni",
     "m": "nghi lễ, buổi lễ",
     "cat": "văn hóa"
   },
   {
     "w": "festival",
-    "p": "",
+    "p": "fˈɛstɪvəl",
     "m": "lễ hội",
     "cat": "văn hóa"
   },
   {
     "w": "celebration",
-    "p": "",
+    "p": "sˌɛləbɹˈeɪʃən",
     "m": "sự kỷ niệm, lễ kỷ niệm",
     "cat": "văn hóa"
   },
   {
     "w": "belief",
-    "p": "",
+    "p": "bᵻlˈiːf",
     "m": "niềm tin",
     "cat": "văn hóa"
   },
   {
     "w": "religion",
-    "p": "",
+    "p": "ɹᵻlˈɪdʒən",
     "m": "tôn giáo",
     "cat": "văn hóa"
   },
   {
     "w": "language barrier",
-    "p": "",
+    "p": "lˈæŋɡwɪdʒ bˈæɹiɚ",
     "m": "rào cản ngôn ngữ",
     "cat": "văn hóa"
   },
   {
     "w": "stereotype",
-    "p": "",
+    "p": "stˈɛɹɪˌoʊtaɪp",
     "m": "định kiến",
     "cat": "văn hóa"
   },
   {
     "w": "multicultural",
-    "p": "",
+    "p": "mˌʌltɪkˈʌltʃɚɹəl",
     "m": "đa văn hóa",
     "cat": "văn hóa"
   },
   {
     "w": "bilingual",
-    "p": "",
+    "p": "baɪlˈɪŋɡwəl",
     "m": "thông thạo hai ngôn ngữ",
     "cat": "văn hóa"
   },
   {
     "w": "etiquette",
-    "p": "",
+    "p": "ˈɛɾɪkət",
     "m": "nghi thức, phép tắc xã giao",
     "cat": "văn hóa"
   },
   {
     "w": "local market",
-    "p": "",
+    "p": "lˈoʊkəl mˈɑːɹkɪt",
     "m": "chợ địa phương",
     "cat": "địa điểm"
   },
   {
     "w": "street food",
-    "p": "",
+    "p": "stɹˈiːt fˈuːd",
     "m": "đồ ăn đường phố",
     "cat": "thức ăn"
   },
   {
     "w": "spicy",
-    "p": "",
+    "p": "spˈaɪsi",
     "m": "cay",
     "cat": "tính từ"
   },
   {
     "w": "mild",
-    "p": "",
+    "p": "mˈaɪld",
     "m": "nhẹ nhàng, không cay",
     "cat": "tính từ"
   },
   {
     "w": "seafood",
-    "p": "",
+    "p": "sˈiːfuːd",
     "m": "hải sản",
     "cat": "thức ăn"
   },
   {
     "w": "vegetarian",
-    "p": "",
+    "p": "vˌɛdʒɪtˈɛɹiən",
     "m": "ăn chay",
     "cat": "thức ăn"
   },
   {
     "w": "ingredient",
-    "p": "",
+    "p": "ɪŋɡɹˈiːdiənt",
     "m": "nguyên liệu (nấu ăn)",
     "cat": "thức ăn"
   },
   {
     "w": "recipe",
-    "p": "",
+    "p": "ɹˈɛsᵻpˌiː",
     "m": "công thức nấu ăn",
     "cat": "thức ăn"
   },
   {
     "w": "allergic",
-    "p": "",
+    "p": "ɐlˈɜːdʒɪk",
     "m": "bị dị ứng",
     "cat": "sức khỏe"
   },
   {
     "w": "portion",
-    "p": "",
+    "p": "pˈɔːɹʃən",
     "m": "khẩu phần, suất ăn",
     "cat": "thức ăn"
   },
   {
     "w": "takeaway",
-    "p": "",
+    "p": "tˈeɪkəwˌeɪ",
     "m": "thức ăn mang về",
     "cat": "thức ăn"
   },
   {
     "w": "diet",
-    "p": "",
+    "p": "dˈaɪət",
     "m": "chế độ ăn kiêng",
     "cat": "sức khỏe"
   },
   {
     "w": "calorie",
-    "p": "",
+    "p": "kˈælɚɹi",
     "m": "calo",
     "cat": "sức khỏe"
   },
   {
     "w": "nutrition",
-    "p": "",
+    "p": "njuːtɹˈɪʃən",
     "m": "dinh dưỡng",
     "cat": "sức khỏe"
   },
   {
     "w": "appetizer",
-    "p": "",
+    "p": "ˈæpɪtˌaɪzɚ",
     "m": "món khai vị",
     "cat": "thức ăn"
   },
   {
     "w": "main course",
-    "p": "",
+    "p": "mˈeɪn kˈɔːɹs",
     "m": "món chính",
     "cat": "thức ăn"
   },
   {
     "w": "dessert",
-    "p": "",
+    "p": "dɪzˈɜːt",
     "m": "món tráng miệng",
     "cat": "thức ăn"
   },
   {
     "w": "tip",
-    "p": "",
+    "p": "tˈɪp",
     "m": "tiền típ, tiền bo",
     "cat": "tiền bạc"
   },
   {
     "w": "bill",
-    "p": "",
+    "p": "bˈɪl",
     "m": "hóa đơn (nhà hàng)",
     "cat": "tiền bạc"
   },
   {
     "w": "buffet",
-    "p": "",
+    "p": "bˈʌfɪt",
     "m": "bữa ăn tự chọn, tiệc buffet",
     "cat": "thức ăn"
   },
   {
     "w": "fitness",
-    "p": "",
+    "p": "fˈɪtnəs",
     "m": "thể lực, sức khỏe thể chất",
     "cat": "thể thao"
   },
   {
     "w": "workout",
-    "p": "",
+    "p": "wˈɜːkaʊt",
     "m": "bài tập thể dục",
     "cat": "thể thao"
   },
   {
     "w": "gym",
-    "p": "",
+    "p": "dʒˈɪm",
     "m": "phòng tập thể hình",
     "cat": "thể thao"
   },
   {
     "w": "yoga",
-    "p": "",
+    "p": "jˈoʊɡə",
     "m": "yoga",
     "cat": "thể thao"
   },
   {
     "w": "jogging",
-    "p": "",
+    "p": "dʒˈɑːɡɪŋ",
     "m": "chạy bộ (nhẹ nhàng)",
     "cat": "thể thao"
   },
   {
     "w": "cycling",
-    "p": "",
+    "p": "sˈaɪklɪŋ",
     "m": "đạp xe",
     "cat": "thể thao"
   },
   {
     "w": "swimming",
-    "p": "",
+    "p": "swˈɪmɪŋ",
     "m": "bơi lội",
     "cat": "thể thao"
   },
   {
     "w": "competition",
-    "p": "",
+    "p": "kˌɑːmpətˈɪʃən",
     "m": "cuộc thi đấu",
     "cat": "thể thao"
   },
   {
     "w": "championship",
-    "p": "",
+    "p": "tʃˈæmpiənʃˌɪp",
     "m": "giải vô địch",
     "cat": "thể thao"
   },
   {
     "w": "medal",
-    "p": "",
+    "p": "mˈɛdəl",
     "m": "huy chương",
     "cat": "thể thao"
   },
   {
     "w": "trophy",
-    "p": "",
+    "p": "tɹˈoʊfi",
     "m": "cúp (thể thao)",
     "cat": "thể thao"
   },
   {
     "w": "athlete",
-    "p": "",
+    "p": "ˈæθliːt",
     "m": "vận động viên",
     "cat": "thể thao"
   },
   {
     "w": "coach",
-    "p": "",
+    "p": "kˈoʊtʃ",
     "m": "huấn luyện viên",
     "cat": "thể thao"
   },
   {
     "w": "referee",
-    "p": "",
+    "p": "ɹˌɛfɚɹˈiː",
     "m": "trọng tài",
     "cat": "thể thao"
   },
   {
     "w": "tournament",
-    "p": "",
+    "p": "tˈʊɹnəmənt",
     "m": "giải đấu",
     "cat": "thể thao"
   },
   {
     "w": "fan",
-    "p": "",
+    "p": "fˈæn",
     "m": "người hâm mộ",
     "cat": "thể thao"
   },
   {
     "w": "score",
-    "p": "",
+    "p": "skˈɔːɹ",
     "m": "tỉ số, điểm số",
     "cat": "thể thao"
   },
   {
     "w": "defeat",
-    "p": "",
+    "p": "dᵻfˈiːt",
     "m": "sự thất bại, đánh bại",
     "cat": "thể thao"
   },
   {
     "w": "victory",
-    "p": "",
+    "p": "vˈɪktɚɹi",
     "m": "chiến thắng",
     "cat": "thể thao"
   },
   {
     "w": "tie",
-    "p": "",
+    "p": "tˈaɪ",
     "m": "hòa (tỷ số)",
     "cat": "thể thao"
   },
   {
     "w": "novel",
-    "p": "",
+    "p": "nˈɑːvəl",
     "m": "tiểu thuyết",
     "cat": "nghệ thuật"
   },
   {
     "w": "author",
-    "p": "",
+    "p": "ˈɔːθɚ",
     "m": "tác giả",
     "cat": "nghệ thuật"
   },
   {
     "w": "plot",
-    "p": "",
+    "p": "plˈɑːt",
     "m": "cốt truyện",
     "cat": "nghệ thuật"
   },
   {
     "w": "character",
-    "p": "",
+    "p": "kˈæɹɪktɚ",
     "m": "nhân vật (trong truyện/phim)",
     "cat": "nghệ thuật"
   },
   {
     "w": "genre",
-    "p": "",
+    "p": "ʒˈɑːnɹə",
     "m": "thể loại (sách/phim/nhạc)",
     "cat": "nghệ thuật"
   },
   {
     "w": "fiction",
-    "p": "",
+    "p": "fˈɪkʃən",
     "m": "tiểu thuyết hư cấu",
     "cat": "nghệ thuật"
   },
   {
     "w": "non-fiction",
-    "p": "",
+    "p": "nˈɑːnfˈɪkʃən",
     "m": "sách phi hư cấu",
     "cat": "nghệ thuật"
   },
   {
     "w": "biography",
-    "p": "",
+    "p": "baɪˈɑːɡɹəfi",
     "m": "tiểu sử",
     "cat": "nghệ thuật"
   },
   {
     "w": "poetry",
-    "p": "",
+    "p": "pˈoʊɪtɹi",
     "m": "thơ ca",
     "cat": "nghệ thuật"
   },
   {
     "w": "lyrics",
-    "p": "",
+    "p": "lˈɪɹɪks",
     "m": "lời bài hát",
     "cat": "nghệ thuật"
   },
   {
     "w": "composer",
-    "p": "",
+    "p": "kəmpˈoʊzɚ",
     "m": "nhạc sĩ sáng tác",
     "cat": "nghệ thuật"
   },
   {
     "w": "conductor",
-    "p": "",
+    "p": "kəndˈʌktɚ",
     "m": "nhạc trưởng",
     "cat": "nghệ thuật"
   },
   {
     "w": "performance",
-    "p": "",
+    "p": "pɚfˈɔːɹməns",
     "m": "buổi biểu diễn",
     "cat": "nghệ thuật"
   },
   {
     "w": "rehearsal",
-    "p": "",
+    "p": "ɹᵻhˈɜːsəl",
     "m": "buổi tập (biểu diễn)",
     "cat": "nghệ thuật"
   },
   {
     "w": "audience",
-    "p": "",
+    "p": "ˈɔːdiəns",
     "m": "khán giả, thính giả",
     "cat": "nghệ thuật"
   },
   {
     "w": "applause",
-    "p": "",
+    "p": "ɐplˈɔːz",
     "m": "tiếng vỗ tay",
     "cat": "nghệ thuật"
   },
   {
     "w": "sculpture",
-    "p": "",
+    "p": "skˈʌlptʃɚ",
     "m": "điêu khắc, tác phẩm điêu khắc",
     "cat": "nghệ thuật"
   },
   {
     "w": "portrait",
-    "p": "",
+    "p": "pˈɔːɹtɹɪt",
     "m": "chân dung",
     "cat": "nghệ thuật"
   },
   {
     "w": "landscape",
-    "p": "",
+    "p": "lˈændskeɪp",
     "m": "bức tranh phong cảnh",
     "cat": "nghệ thuật"
   },
   {
     "w": "architect",
-    "p": "",
+    "p": "ˈɑːɹkɪtˌɛkt",
     "m": "kiến trúc sư",
     "cat": "nghệ thuật"
   },
   {
     "w": "government",
-    "p": "",
+    "p": "ɡˈʌvɚnmənt",
     "m": "chính phủ",
     "cat": "chính trị"
   },
   {
     "w": "parliament",
-    "p": "",
+    "p": "pˈɑːɹləmənt",
     "m": "nghị viện, quốc hội",
     "cat": "chính trị"
   },
   {
     "w": "election",
-    "p": "",
+    "p": "ᵻlˈɛkʃən",
     "m": "cuộc bầu cử",
     "cat": "chính trị"
   },
   {
     "w": "vote",
-    "p": "",
+    "p": "vˈoʊt",
     "m": "bỏ phiếu, phiếu bầu",
     "cat": "chính trị"
   },
   {
     "w": "policy",
-    "p": "",
+    "p": "pˈɑːlɪsi",
     "m": "chính sách",
     "cat": "chính trị"
   },
   {
     "w": "law",
-    "p": "",
+    "p": "lˈɔː",
     "m": "luật pháp",
     "cat": "chính trị"
   },
   {
     "w": "democracy",
-    "p": "",
+    "p": "dᵻmˈɑːkɹəsi",
     "m": "dân chủ",
     "cat": "chính trị"
   },
   {
     "w": "freedom",
-    "p": "",
+    "p": "fɹˈiːdəm",
     "m": "tự do",
     "cat": "chính trị"
   },
   {
     "w": "justice",
-    "p": "",
+    "p": "dʒˈʌstɪs",
     "m": "công lý",
     "cat": "chính trị"
   },
   {
     "w": "constitution",
-    "p": "",
+    "p": "kˌɑːnstɪtˈuːʃən",
     "m": "hiến pháp",
     "cat": "chính trị"
   },
   {
     "w": "citizen",
-    "p": "",
+    "p": "sˈɪɾɪzən",
     "m": "công dân",
     "cat": "người"
   },
   {
     "w": "nationality",
-    "p": "",
+    "p": "nˌæʃənˈælᵻɾi",
     "m": "quốc tịch",
     "cat": "người"
   },
   {
     "w": "debate",
-    "p": "",
+    "p": "dᵻbˈeɪt",
     "m": "cuộc tranh luận",
     "cat": "học thuật"
   },
   {
     "w": "argument",
-    "p": "",
+    "p": "ˈɑːɹɡjuːmənt",
     "m": "lập luận, tranh cãi",
     "cat": "học thuật"
   },
   {
     "w": "evidence",
-    "p": "",
+    "p": "ˈɛvɪdəns",
     "m": "bằng chứng",
     "cat": "học thuật"
   },
   {
     "w": "research",
-    "p": "",
+    "p": "ɹᵻsˈɜːtʃ",
     "m": "nghiên cứu",
     "cat": "học thuật"
   },
   {
     "w": "survey",
-    "p": "",
+    "p": "sˈɜːveɪ",
     "m": "cuộc khảo sát",
     "cat": "học thuật"
   },
   {
     "w": "statistic",
-    "p": "",
+    "p": "stɐtˈɪstɪk",
     "m": "số liệu thống kê",
     "cat": "học thuật"
   },
   {
     "w": "graph",
-    "p": "",
+    "p": "ɡɹˈæf",
     "m": "biểu đồ",
     "cat": "học thuật"
   },
   {
     "w": "conclusion",
-    "p": "",
+    "p": "kəŋklˈuːʒən",
     "m": "kết luận",
     "cat": "học thuật"
   },
   {
     "w": "theory",
-    "p": "",
+    "p": "θˈiəɹi",
     "m": "lý thuyết",
     "cat": "học thuật"
   },
   {
     "w": "experiment",
-    "p": "",
+    "p": "ɛkspˈɛɹɪmənt",
     "m": "thí nghiệm",
     "cat": "học thuật"
   },
   {
     "w": "hypothesis",
-    "p": "",
+    "p": "haɪpˈɑːθəsˌɪs",
     "m": "giả thuyết",
     "cat": "học thuật"
   },
   {
     "w": "analysis",
-    "p": "",
+    "p": "ɐnˈæləsˌɪs",
     "m": "sự phân tích",
     "cat": "học thuật"
   },
   {
     "w": "evaluate",
-    "p": "",
+    "p": "ɪvˈæljuːˌeɪt",
     "m": "đánh giá",
     "cat": "hành động"
   },
   {
     "w": "summarize",
-    "p": "",
+    "p": "sˈʌmɚɹˌaɪz",
     "m": "tóm tắt",
     "cat": "hành động"
   },
   {
     "w": "define",
-    "p": "",
+    "p": "dᵻfˈaɪn",
     "m": "định nghĩa",
     "cat": "hành động"
   },
   {
     "w": "describe",
-    "p": "",
+    "p": "dᵻskɹˈaɪb",
     "m": "mô tả",
     "cat": "hành động"
   },
   {
     "w": "compare",
-    "p": "",
+    "p": "kəmpˈɛɹ",
     "m": "so sánh",
     "cat": "hành động"
   },
   {
     "w": "contrast",
-    "p": "",
+    "p": "kˈɑːntɹæst",
     "m": "đối chiếu, chỉ ra sự khác biệt",
     "cat": "hành động"
   },
   {
     "w": "improve",
-    "p": "",
+    "p": "ɪmpɹˈuːv",
     "m": "cải thiện",
     "cat": "hành động"
   },
   {
     "w": "achieve",
-    "p": "",
+    "p": "ɐtʃˈiːv",
     "m": "đạt được",
     "cat": "hành động"
   },
   {
     "w": "overcome",
-    "p": "",
+    "p": "ˌoʊvɚkˈʌm",
     "m": "vượt qua (khó khăn)",
     "cat": "hành động"
   },
   {
     "w": "encourage",
-    "p": "",
+    "p": "ɛŋkˈɜːɹɪdʒ",
     "m": "khuyến khích",
     "cat": "hành động"
   },
   {
     "w": "persuade",
-    "p": "",
+    "p": "pɚswˈeɪd",
     "m": "thuyết phục",
     "cat": "hành động"
   },
   {
     "w": "predict",
-    "p": "",
+    "p": "pɹɪdˈɪkt",
     "m": "dự đoán",
     "cat": "hành động"
   },
   {
     "w": "estimate",
-    "p": "",
+    "p": "ˈɛstᵻmət",
     "m": "ước tính",
     "cat": "hành động"
   },
   {
     "w": "measure",
-    "p": "",
+    "p": "mˈɛʒɚ",
     "m": "đo lường",
     "cat": "hành động"
   },
   {
     "w": "recommend",
-    "p": "",
+    "p": "ɹˌɛkəmˈɛnd",
     "m": "đề xuất, giới thiệu",
     "cat": "hành động"
   },
   {
     "w": "suggest",
-    "p": "",
+    "p": "sədʒˈɛst",
     "m": "gợi ý, đề nghị",
     "cat": "hành động"
   },
   {
     "w": "consider",
-    "p": "",
+    "p": "kənsˈɪdɚ",
     "m": "cân nhắc, xem xét",
     "cat": "hành động"
   },
   {
     "w": "increase",
-    "p": "",
+    "p": "ˈɪŋkɹiːs",
     "m": "tăng lên",
     "cat": "hành động"
   },
   {
     "w": "decrease",
-    "p": "",
+    "p": "dˈiːkɹiːs",
     "m": "giảm xuống",
     "cat": "hành động"
   },
   {
     "w": "maintain",
-    "p": "",
+    "p": "meɪntˈeɪn",
     "m": "duy trì",
     "cat": "hành động"
   },
   {
     "w": "provide",
-    "p": "",
+    "p": "pɹəvˈaɪd",
     "m": "cung cấp",
     "cat": "hành động"
   },
   {
     "w": "require",
-    "p": "",
+    "p": "ɹᵻkwˈaɪɚ",
     "m": "yêu cầu, đòi hỏi",
     "cat": "hành động"
   },
   {
     "w": "involve",
-    "p": "",
+    "p": "ɪnvˈɑːlv",
     "m": "liên quan đến, bao gồm",
     "cat": "hành động"
   },
   {
     "w": "affect",
-    "p": "",
+    "p": "ɐfˈɛkt",
     "m": "ảnh hưởng đến",
     "cat": "hành động"
   },
   {
     "w": "ensure",
-    "p": "",
+    "p": "ɛnʃˈʊɹ",
     "m": "đảm bảo",
     "cat": "hành động"
   },
   {
     "w": "reduce",
-    "p": "",
+    "p": "ɹᵻdˈuːs",
     "m": "giảm, thu nhỏ",
     "cat": "hành động"
   },
   {
     "w": "support",
-    "p": "",
+    "p": "səpˈɔːɹt",
     "m": "hỗ trợ, ủng hộ",
     "cat": "hành động"
   },
   {
     "w": "expand",
-    "p": "",
+    "p": "ɛkspˈænd",
     "m": "mở rộng",
     "cat": "hành động"
   },
   {
     "w": "develop",
-    "p": "",
+    "p": "dɪvˈɛləp",
     "m": "phát triển",
     "cat": "hành động"
   },
   {
     "w": "manage",
-    "p": "",
+    "p": "mˈænɪdʒ",
     "m": "quản lý",
     "cat": "hành động"
   },
   {
     "w": "achieve a goal",
-    "p": "",
+    "p": "ɐtʃˈiːv ɐ ɡˈoʊl",
     "m": "đạt được mục tiêu",
     "cat": "thành ngữ"
   },
   {
     "w": "make a decision",
-    "p": "",
+    "p": "mˌeɪk ɐ dᵻsˈɪʒən",
     "m": "đưa ra quyết định",
     "cat": "thành ngữ"
   },
   {
     "w": "take responsibility",
-    "p": "",
+    "p": "tˈeɪk ɹᵻspˌɑːnsəbˈɪlᵻɾi",
     "m": "chịu trách nhiệm",
     "cat": "thành ngữ"
   },
   {
     "w": "make progress",
-    "p": "",
+    "p": "mˌeɪk pɹˈɑːɡɹɛs",
     "m": "tiến bộ, có tiến triển",
     "cat": "thành ngữ"
   },
   {
     "w": "raise awareness",
-    "p": "",
+    "p": "ɹˈeɪz ɐwˈɛɹnəs",
     "m": "nâng cao nhận thức",
     "cat": "thành ngữ"
   },
   {
     "w": "face a challenge",
-    "p": "",
+    "p": "fˈeɪs ɐ tʃˈælɪndʒ",
     "m": "đối mặt với thách thức",
     "cat": "thành ngữ"
   },
   {
     "w": "reach an agreement",
-    "p": "",
+    "p": "ɹˈiːtʃ ɐn ɐɡɹˈiːmənt",
     "m": "đạt được thỏa thuận",
     "cat": "thành ngữ"
   },
   {
     "w": "make an effort",
-    "p": "",
+    "p": "mˌeɪk ɐn ˈɛfɚt",
     "m": "cố gắng, nỗ lực",
     "cat": "thành ngữ"
   },
   {
     "w": "pay attention",
-    "p": "",
+    "p": "pˈeɪ ɐtˈɛnʃən",
     "m": "chú ý",
     "cat": "thành ngữ"
   },
   {
     "w": "take a risk",
-    "p": "",
+    "p": "tˈeɪk ɐ ɹˈɪsk",
     "m": "mạo hiểm",
     "cat": "thành ngữ"
   },
   {
     "w": "on the other hand",
-    "p": "",
+    "p": "ɔnðɪ ˈʌðɚ hˈænd",
     "m": "mặt khác",
     "cat": "thành ngữ"
   },
   {
     "w": "as a result",
-    "p": "",
+    "p": "æz ɐ ɹɪzˈʌlt",
     "m": "kết quả là, do đó",
     "cat": "thành ngữ"
   },
   {
     "w": "in addition",
-    "p": "",
+    "p": "ɪn ɐdˈɪʃən",
     "m": "ngoài ra, thêm vào đó",
     "cat": "thành ngữ"
   },
   {
     "w": "for instance",
-    "p": "",
+    "p": "fɔːɹ ˈɪnstəns",
     "m": "ví dụ như",
     "cat": "thành ngữ"
   },
   {
     "w": "in conclusion",
-    "p": "",
+    "p": "ɪn kəŋklˈuːʒən",
     "m": "tóm lại, kết luận",
     "cat": "thành ngữ"
   },
   {
     "w": "in general",
-    "p": "",
+    "p": "ɪn dʒˈɛnɚɹəl",
     "m": "nói chung",
     "cat": "thành ngữ"
   },
   {
     "w": "according to",
-    "p": "",
+    "p": "ɐkˈɔːɹdɪŋ tuː",
     "m": "theo (tài liệu/người nói)",
     "cat": "thành ngữ"
   },
   {
     "w": "due to",
-    "p": "",
+    "p": "dˈuː tuː",
     "m": "do bởi, vì",
     "cat": "thành ngữ"
   },
   {
     "w": "despite",
-    "p": "",
+    "p": "dᵻspˈaɪt",
     "m": "mặc dù, bất chấp",
     "cat": "thành ngữ"
   },
   {
     "w": "whereas",
-    "p": "",
+    "p": "wˈɛɹæz",
     "m": "trong khi đó (đối lập)",
     "cat": "thành ngữ"
   },
   {
     "w": "break the ice",
-    "p": "",
+    "p": "bɹˈeɪk ðɪ ˈaɪs",
     "m": "phá vỡ bầu không khí ngại ngùng",
     "cat": "thành ngữ"
   },
   {
     "w": "hit the nail on the head",
-    "p": "",
+    "p": "hˈɪt ðə nˈeɪl ɔnðə hˈɛd",
     "m": "nói đúng vào vấn đề",
     "cat": "thành ngữ"
   },
   {
     "w": "once in a while",
-    "p": "",
+    "p": "wˈʌns ɪn ɐ wˈaɪl",
     "m": "thỉnh thoảng",
     "cat": "thành ngữ"
   },
   {
     "w": "under pressure",
-    "p": "",
+    "p": "ˌʌndɚ pɹˈɛʃɚ",
     "m": "dưới áp lực",
     "cat": "thành ngữ"
   },
   {
     "w": "take a break",
-    "p": "",
+    "p": "tˈeɪk ɐ bɹˈeɪk",
     "m": "nghỉ giải lao",
     "cat": "thành ngữ"
   },
   {
     "w": "landlord",
-    "p": "",
+    "p": "lˈændlɔːɹd",
     "m": "chủ nhà trọ, chủ nhà cho thuê",
     "cat": "nhà ở"
   },
   {
     "w": "tenant",
-    "p": "",
+    "p": "tˈɛnənt",
     "m": "người thuê nhà",
     "cat": "người"
   },
   {
     "w": "rent",
-    "p": "",
+    "p": "ɹˈɛnt",
     "m": "tiền thuê nhà",
     "cat": "tiền bạc"
   },
   {
     "w": "lease",
-    "p": "",
+    "p": "lˈiːs",
     "m": "hợp đồng thuê (nhà/xe)",
     "cat": "nhà ở"
   },
   {
     "w": "utility bill",
-    "p": "",
+    "p": "juːtˈɪlᵻɾi bˈɪl",
     "m": "hóa đơn điện nước",
     "cat": "tiền bạc"
   },
   {
     "w": "appliance",
-    "p": "",
+    "p": "ɐplˈaɪəns",
     "m": "thiết bị gia dụng",
     "cat": "đồ vật"
   },
   {
     "w": "furniture",
-    "p": "",
+    "p": "fˈɜːnɪtʃɚ",
     "m": "đồ nội thất",
     "cat": "đồ vật"
   },
   {
     "w": "neighbourhood",
-    "p": "",
+    "p": "nˈeɪbɚhˌʊd",
     "m": "khu phố, hàng xóm láng giềng",
     "cat": "nhà ở"
   },
   {
     "w": "suburb",
-    "p": "",
+    "p": "sˈʌbɜːb",
     "m": "vùng ngoại ô",
     "cat": "địa điểm"
   },
   {
     "w": "apartment",
-    "p": "",
+    "p": "ɐpˈɑːɹtmənt",
     "m": "căn hộ",
     "cat": "nhà ở"
   },
   {
     "w": "terraced house",
-    "p": "",
+    "p": "tˈɛɹɪst hˈaʊs",
     "m": "nhà liền kề",
     "cat": "nhà ở"
   },
   {
     "w": "detached house",
-    "p": "",
+    "p": "dɪtˈætʃt hˈaʊs",
     "m": "nhà riêng lẻ, biệt thự",
     "cat": "nhà ở"
   },
   {
     "w": "balcony",
-    "p": "",
+    "p": "bˈælkəni",
     "m": "ban công",
     "cat": "nhà ở"
   },
   {
     "w": "basement",
-    "p": "",
+    "p": "bˈeɪsmənt",
     "m": "tầng hầm",
     "cat": "nhà ở"
   },
   {
     "w": "renovation",
-    "p": "",
+    "p": "ɹˌɛnəvˈeɪʃən",
     "m": "sự cải tạo, sửa chữa nhà",
     "cat": "nhà ở"
   },
   {
     "w": "mortgage payment",
-    "p": "",
+    "p": "mˈɔːɹɡɪdʒ pˈeɪmənt",
     "m": "tiền trả góp mua nhà",
     "cat": "tiền bạc"
   },
   {
     "w": "estate agent",
-    "p": "",
+    "p": "ᵻstˈeɪt ˈeɪdʒənt",
     "m": "môi giới bất động sản",
     "cat": "công việc"
   },
   {
     "w": "insurance",
-    "p": "",
+    "p": "ɪnʃˈʊɹɹəns",
     "m": "bảo hiểm",
     "cat": "tiền bạc"
   },
   {
     "w": "property",
-    "p": "",
+    "p": "pɹˈɑːpɚɾi",
     "m": "bất động sản, tài sản",
     "cat": "tiền bạc"
   },
   {
     "w": "cashier",
-    "p": "",
+    "p": "kæʃˈɪɹ",
     "m": "thu ngân",
     "cat": "công việc"
   },
   {
     "w": "surgeon",
-    "p": "",
+    "p": "sˈɜːdʒən",
     "m": "bác sĩ phẫu thuật",
     "cat": "công việc"
   },
   {
     "w": "accountant",
-    "p": "",
+    "p": "ɐkˈaʊntənt",
     "m": "kế toán viên",
     "cat": "công việc"
   },
   {
     "w": "lawyer",
-    "p": "",
+    "p": "lˈɔɪɚ",
     "m": "luật sư",
     "cat": "công việc"
   },
   {
     "w": "journalist",
-    "p": "",
+    "p": "dʒˈɜːnəlˌɪst",
     "m": "nhà báo",
     "cat": "công việc"
   },
   {
     "w": "architect",
-    "p": "",
+    "p": "ˈɑːɹkɪtˌɛkt",
     "m": "kiến trúc sư",
     "cat": "công việc"
   },
   {
     "w": "pharmacist",
-    "p": "",
+    "p": "fˈɑːɹmɐsˌɪst",
     "m": "dược sĩ",
     "cat": "công việc"
   },
   {
     "w": "electrician",
-    "p": "",
+    "p": "ᵻlɛktɹˈɪʃən",
     "m": "thợ điện",
     "cat": "công việc"
   },
   {
     "w": "plumber",
-    "p": "",
+    "p": "plˈʌmɚ",
     "m": "thợ sửa ống nước",
     "cat": "công việc"
   },
   {
     "w": "receptionist",
-    "p": "",
+    "p": "ɹᵻsˈɛpʃənˌɪst",
     "m": "lễ tân",
     "cat": "công việc"
   },
   {
     "w": "librarian",
-    "p": "",
+    "p": "laɪbɹˈɛɹiən",
     "m": "thủ thư",
     "cat": "công việc"
   },
   {
     "w": "pilot",
-    "p": "",
+    "p": "pˈaɪlət",
     "m": "phi công",
     "cat": "công việc"
   },
   {
     "w": "flight attendant",
-    "p": "",
+    "p": "flˈaɪt ɐtˈɛndənt",
     "m": "tiếp viên hàng không",
     "cat": "công việc"
   },
   {
     "w": "scientist",
-    "p": "",
+    "p": "sˈaɪəntɪst",
     "m": "nhà khoa học",
     "cat": "công việc"
   },
   {
     "w": "researcher",
-    "p": "",
+    "p": "ɹᵻsˈɜːtʃɚ",
     "m": "nhà nghiên cứu",
     "cat": "công việc"
   },
   {
     "w": "instructor",
-    "p": "",
+    "p": "ɪnstɹˈʌktɚ",
     "m": "giảng viên, người hướng dẫn",
     "cat": "công việc"
   },
   {
     "w": "mechanic",
-    "p": "",
+    "p": "mᵻkˈænɪk",
     "m": "thợ cơ khí, thợ sửa xe",
     "cat": "công việc"
   },
   {
     "w": "chef",
-    "p": "",
+    "p": "ʃˈɛf",
     "m": "đầu bếp",
     "cat": "công việc"
   },
   {
     "w": "waiter",
-    "p": "",
+    "p": "wˈeɪɾɚ",
     "m": "bồi bàn (nam)",
     "cat": "công việc"
   },
   {
     "w": "nurse",
-    "p": "",
+    "p": "nˈɜːs",
     "m": "y tá",
     "cat": "công việc"
   },
   {
     "w": "dentist",
-    "p": "",
+    "p": "dˈɛntɪst",
     "m": "nha sĩ",
     "cat": "công việc"
   },
   {
     "w": "therapist",
-    "p": "",
+    "p": "θˈɛɹəpˌɪst",
     "m": "nhà trị liệu, chuyên gia tâm lý",
     "cat": "công việc"
   },
   {
     "w": "social worker",
-    "p": "",
+    "p": "sˈoʊʃəl wˈɜːkɚ",
     "m": "nhân viên xã hội",
     "cat": "công việc"
   },
   {
     "w": "headquarters",
-    "p": "",
+    "p": "hɛdkwˈɔːɹɾɚz",
     "m": "tổng hành dinh, trụ sở",
     "cat": "địa điểm"
   },
   {
     "w": "suburb",
-    "p": "",
+    "p": "sˈʌbɜːb",
     "m": "ngoại ô thành phố",
     "cat": "địa điểm"
   },
   {
     "w": "countryside",
-    "p": "",
+    "p": "kˈʌntɹɪsˌaɪd",
     "m": "vùng nông thôn",
     "cat": "địa điểm"
   },
   {
     "w": "valley",
-    "p": "",
+    "p": "vˈæli",
     "m": "thung lũng",
     "cat": "thiên nhiên"
   },
   {
     "w": "waterfall",
-    "p": "",
+    "p": "wˈɔːɾɚfˌɔːl",
     "m": "thác nước",
     "cat": "thiên nhiên"
   },
   {
     "w": "cliff",
-    "p": "",
+    "p": "klˈɪf",
     "m": "vách đá",
     "cat": "thiên nhiên"
   },
   {
     "w": "cave",
-    "p": "",
+    "p": "kˈeɪv",
     "m": "hang động",
     "cat": "thiên nhiên"
   },
   {
     "w": "tide",
-    "p": "",
+    "p": "tˈaɪd",
     "m": "thủy triều",
     "cat": "thiên nhiên"
   },
   {
     "w": "wave",
-    "p": "",
+    "p": "wˈeɪv",
     "m": "sóng biển",
     "cat": "thiên nhiên"
   },
   {
     "w": "pebble",
-    "p": "",
+    "p": "pˈɛbəl",
     "m": "viên cuội, hòn đá nhỏ",
     "cat": "thiên nhiên"
   },
   {
     "w": "soil",
-    "p": "",
+    "p": "sˈɔɪl",
     "m": "đất, thổ nhưỡng",
     "cat": "thiên nhiên"
   },
   {
     "w": "harvest",
-    "p": "",
+    "p": "hˈɑːɹvɪst",
     "m": "mùa gặt, thu hoạch",
     "cat": "thiên nhiên"
   },
   {
     "w": "crop",
-    "p": "",
+    "p": "kɹˈɑːp",
     "m": "cây trồng, vụ mùa",
     "cat": "thiên nhiên"
   },
   {
     "w": "pasture",
-    "p": "",
+    "p": "pˈæstʃɚ",
     "m": "đồng cỏ",
     "cat": "thiên nhiên"
   },
   {
     "w": "meadow",
-    "p": "",
+    "p": "mˈɛdoʊ",
     "m": "đồng cỏ, bãi cỏ",
     "cat": "thiên nhiên"
   },
   {
     "w": "bush",
-    "p": "",
+    "p": "bˈʊʃ",
     "m": "bụi cây",
     "cat": "thiên nhiên"
   },
   {
     "w": "trunk",
-    "p": "",
+    "p": "tɹˈʌŋk",
     "m": "thân cây",
     "cat": "thiên nhiên"
   },
   {
     "w": "branch",
-    "p": "",
+    "p": "bɹˈæntʃ",
     "m": "cành cây",
     "cat": "thiên nhiên"
   },
   {
     "w": "root",
-    "p": "",
+    "p": "ɹˈuːt",
     "m": "rễ cây",
     "cat": "thiên nhiên"
   },
   {
     "w": "seed",
-    "p": "",
+    "p": "sˈiːd",
     "m": "hạt giống",
     "cat": "thiên nhiên"
   },
   {
     "w": "bloom",
-    "p": "",
+    "p": "blˈuːm",
     "m": "nở hoa",
     "cat": "hành động"
   },
   {
     "w": "wither",
-    "p": "",
+    "p": "wˈɪðɚ",
     "m": "héo tàn",
     "cat": "hành động"
   },
   {
     "w": "hive",
-    "p": "",
+    "p": "hˈaɪv",
     "m": "tổ ong",
     "cat": "động vật"
   },
   {
     "w": "nest",
-    "p": "",
+    "p": "nˈɛst",
     "m": "tổ chim",
     "cat": "động vật"
   },
   {
     "w": "mammal",
-    "p": "",
+    "p": "mˈæməl",
     "m": "động vật có vú",
     "cat": "động vật"
   },
   {
     "w": "reptile",
-    "p": "",
+    "p": "ɹˈɛptaɪl",
     "m": "bò sát",
     "cat": "động vật"
   },
   {
     "w": "insect",
-    "p": "",
+    "p": "ˈɪnsɛkt",
     "m": "côn trùng",
     "cat": "động vật"
   },
   {
     "w": "prey",
-    "p": "",
+    "p": "pɹˈeɪ",
     "m": "con mồi",
     "cat": "động vật"
   },
   {
     "w": "predator",
-    "p": "",
+    "p": "pɹˈɛdəɾɚ",
     "m": "động vật săn mồi",
     "cat": "động vật"
   },
   {
     "w": "flock",
-    "p": "",
+    "p": "flˈɑːk",
     "m": "đàn (chim)",
     "cat": "động vật"
   },
   {
     "w": "herd",
-    "p": "",
+    "p": "hˈɜːd",
     "m": "đàn (gia súc)",
     "cat": "động vật"
   },
   {
     "w": "pack",
-    "p": "",
+    "p": "pˈæk",
     "m": "bầy (chó sói)",
     "cat": "động vật"
   },
   {
     "w": "stray",
-    "p": "",
+    "p": "stɹˈeɪ",
     "m": "con vật hoang, lạc",
     "cat": "động vật"
   },
   {
     "w": "veterinarian",
-    "p": "",
+    "p": "vˌɛɾɚɹɪnˈɛɹiən",
     "m": "bác sĩ thú y",
     "cat": "công việc"
   },
   {
     "w": "extinct",
-    "p": "",
+    "p": "ɛkstˈɪŋkt",
     "m": "đã tuyệt chủng",
     "cat": "tính từ"
   },
   {
     "w": "wild",
-    "p": "",
+    "p": "wˈaɪld",
     "m": "hoang dã",
     "cat": "tính từ"
   },
   {
     "w": "tame",
-    "p": "",
+    "p": "tˈeɪm",
     "m": "đã thuần hóa, hiền lành",
     "cat": "tính từ"
   },
   {
     "w": "migration",
-    "p": "",
+    "p": "maɪɡɹˈeɪʃən",
     "m": "sự di cư (của động vật/người)",
     "cat": "thiên nhiên"
   },
   {
     "w": "generation",
-    "p": "",
+    "p": "dʒˌɛnɚɹˈeɪʃən",
     "m": "thế hệ",
     "cat": "gia đình"
   },
   {
     "w": "ancestor",
-    "p": "",
+    "p": "ˈænsɛstɚ",
     "m": "tổ tiên, ông bà",
     "cat": "gia đình"
   },
   {
     "w": "relative",
-    "p": "",
+    "p": "ɹˈɛlətˌɪv",
     "m": "họ hàng, người thân",
     "cat": "gia đình"
   },
   {
     "w": "upbringing",
-    "p": "",
+    "p": "ʌpbɹɪŋɪŋ",
     "m": "cách nuôi dưỡng, giáo dục từ nhỏ",
     "cat": "gia đình"
   },
   {
     "w": "sibling",
-    "p": "",
+    "p": "sˈɪblɪŋ",
     "m": "anh chị em ruột",
     "cat": "gia đình"
   },
   {
     "w": "spouse",
-    "p": "",
+    "p": "spˈaʊs",
     "m": "vợ hoặc chồng",
     "cat": "gia đình"
   },
   {
     "w": "stepfather",
-    "p": "",
+    "p": "stˈɛpfɑːðɚ",
     "m": "cha dượng",
     "cat": "gia đình"
   },
   {
     "w": "stepmother",
-    "p": "",
+    "p": "stˈɛpmʌðɚ",
     "m": "mẹ kế",
     "cat": "gia đình"
   },
   {
     "w": "guardian",
-    "p": "",
+    "p": "ɡˈɑːɹdiən",
     "m": "người giám hộ",
     "cat": "gia đình"
   },
   {
     "w": "orphan",
-    "p": "",
+    "p": "ˈɔːɹfən",
     "m": "trẻ mồ côi",
     "cat": "người"
   },
   {
     "w": "widow",
-    "p": "",
+    "p": "wˈɪdoʊ",
     "m": "người phụ nữ góa chồng",
     "cat": "người"
   },
   {
     "w": "widower",
-    "p": "",
+    "p": "wˈɪdoʊɚ",
     "m": "người đàn ông góa vợ",
     "cat": "người"
   },
   {
     "w": "elderly",
-    "p": "",
+    "p": "ˈɛldɚli",
     "m": "người cao tuổi",
     "cat": "người"
   },
   {
     "w": "adolescent",
-    "p": "",
+    "p": "ˌædəlˈɛsənt",
     "m": "thanh thiếu niên",
     "cat": "người"
   },
   {
     "w": "decade",
-    "p": "",
+    "p": "dˈɛkeɪd",
     "m": "thập kỷ (10 năm)",
     "cat": "thời gian"
   },
   {
     "w": "era",
-    "p": "",
+    "p": "ˈiəɹə",
     "m": "thời đại, kỷ nguyên",
     "cat": "thời gian"
   },
   {
     "w": "semester",
-    "p": "",
+    "p": "səmˈɛstɚ",
     "m": "học kỳ",
     "cat": "thời gian"
   },
   {
     "w": "term",
-    "p": "",
+    "p": "tˈɜːm",
     "m": "học kỳ; nhiệm kỳ",
     "cat": "thời gian"
   },
   {
     "w": "deadline",
-    "p": "",
+    "p": "dˈɛdlaɪn",
     "m": "hạn chót",
     "cat": "thời gian"
   },
   {
     "w": "quarter",
-    "p": "",
+    "p": "kwˈɔːɹɾɚ",
     "m": "quý (3 tháng)",
     "cat": "thời gian"
   },
   {
     "w": "annual",
-    "p": "",
+    "p": "ˈænjuːəl",
     "m": "hàng năm",
     "cat": "tính từ"
   },
   {
     "w": "weekly",
-    "p": "",
+    "p": "wˈiːkli",
     "m": "hàng tuần",
     "cat": "tính từ"
   },
   {
     "w": "peak hour",
-    "p": "",
+    "p": "pˈiːk ˈaʊɚ",
     "m": "giờ cao điểm",
     "cat": "thời gian"
   },
   {
     "w": "estimate",
-    "p": "",
+    "p": "ˈɛstᵻmət",
     "m": "ước lượng, ước tính",
     "cat": "số đếm"
   },
   {
     "w": "average",
-    "p": "",
+    "p": "ˈævɹɪdʒ",
     "m": "trung bình",
     "cat": "số đếm"
   },
   {
     "w": "percentage",
-    "p": "",
+    "p": "pɚsˈɛntɪdʒ",
     "m": "tỷ lệ phần trăm",
     "cat": "số đếm"
   },
   {
     "w": "majority",
-    "p": "",
+    "p": "mədʒˈɔːɹᵻɾi",
     "m": "đa số",
     "cat": "số đếm"
   },
   {
     "w": "minority",
-    "p": "",
+    "p": "maɪnˈɔːɹᵻɾi",
     "m": "thiểu số",
     "cat": "số đếm"
   },
   {
     "w": "proportion",
-    "p": "",
+    "p": "pɹəpˈɔːɹʃən",
     "m": "tỷ lệ",
     "cat": "số đếm"
   },
   {
     "w": "sum",
-    "p": "",
+    "p": "sˈʌm",
     "m": "tổng số",
     "cat": "số đếm"
   },
   {
     "w": "double",
-    "p": "",
+    "p": "dˈʌbəl",
     "m": "gấp đôi",
     "cat": "số đếm"
   },
   {
     "w": "triple",
-    "p": "",
+    "p": "tɹˈɪpəl",
     "m": "gấp ba",
     "cat": "số đếm"
   },
   {
     "w": "dozen",
-    "p": "",
+    "p": "dˈʌzən",
     "m": "một tá (12 cái)",
     "cat": "số đếm"
   },
   {
     "w": "navy blue",
-    "p": "",
+    "p": "nˈeɪvi blˈuː",
     "m": "màu xanh hải quân",
     "cat": "màu sắc"
   },
   {
     "w": "turquoise",
-    "p": "",
+    "p": "tˈɜːkwɔɪs",
     "m": "màu xanh ngọc lam",
     "cat": "màu sắc"
   },
   {
     "w": "beige",
-    "p": "",
+    "p": "bˈeɪʒ",
     "m": "màu be",
     "cat": "màu sắc"
   },
   {
     "w": "cream",
-    "p": "",
+    "p": "kɹˈiːm",
     "m": "màu kem",
     "cat": "màu sắc"
   },
   {
     "w": "crimson",
-    "p": "",
+    "p": "kɹˈɪmsən",
     "m": "màu đỏ thẫm",
     "cat": "màu sắc"
   },
   {
     "w": "olive",
-    "p": "",
+    "p": "ˈɑːlɪv",
     "m": "màu xanh ô liu",
     "cat": "màu sắc"
   },
   {
     "w": "pale",
-    "p": "",
+    "p": "pˈeɪl",
     "m": "màu nhạt, xanh xao",
     "cat": "màu sắc"
   },
   {
     "w": "vivid",
-    "p": "",
+    "p": "vˈɪvɪd",
     "m": "sắc nét, rực rỡ",
     "cat": "tính từ"
   },
   {
     "w": "striped",
-    "p": "",
+    "p": "stɹˈaɪpt",
     "m": "có sọc",
     "cat": "tính từ"
   },
   {
     "w": "plain",
-    "p": "",
+    "p": "plˈeɪn",
     "m": "trơn, không hoa văn",
     "cat": "tính từ"
   },
   {
     "w": "sweatshirt",
-    "p": "",
+    "p": "swˈɛtʃɜːt",
     "m": "áo nỉ dài tay",
     "cat": "quần áo"
   },
   {
     "w": "cardigan",
-    "p": "",
+    "p": "kˈɑːɹdɪɡən",
     "m": "áo len dài tay có cúc",
     "cat": "quần áo"
   },
   {
     "w": "hoodie",
-    "p": "",
+    "p": "hˈʊdi",
     "m": "áo hoodie, áo nỉ có mũ",
     "cat": "quần áo"
   },
   {
     "w": "blouse",
-    "p": "",
+    "p": "blˈaʊz",
     "m": "áo sơ mi nữ",
     "cat": "quần áo"
   },
   {
     "w": "suit",
-    "p": "",
+    "p": "sˈuːt",
     "m": "bộ vest",
     "cat": "quần áo"
   },
   {
     "w": "tie",
-    "p": "",
+    "p": "tˈaɪ",
     "m": "cà vạt",
     "cat": "quần áo"
   },
   {
     "w": "gloves",
-    "p": "",
+    "p": "ɡlˈʌvz",
     "m": "găng tay",
     "cat": "quần áo"
   },
   {
     "w": "scarf",
-    "p": "",
+    "p": "skˈɑːɹf",
     "m": "khăn quàng cổ",
     "cat": "quần áo"
   },
   {
     "w": "heel",
-    "p": "",
+    "p": "hˈiːl",
     "m": "gót chân; gót giày",
     "cat": "quần áo"
   },
   {
     "w": "flip-flops",
-    "p": "",
+    "p": "flˈɪpflˈɑːps",
     "m": "dép tông",
     "cat": "quần áo"
   },
   {
     "w": "underwear",
-    "p": "",
+    "p": "ˌʌndɚwˈɛɹ",
     "m": "đồ lót",
     "cat": "quần áo"
   },
   {
     "w": "tight",
-    "p": "",
+    "p": "tˈaɪt",
     "m": "chật, bó sát",
     "cat": "tính từ"
   },
   {
     "w": "loose",
-    "p": "",
+    "p": "lˈuːs",
     "m": "rộng, lỏng lẻo",
     "cat": "tính từ"
   },
   {
     "w": "leather",
-    "p": "",
+    "p": "lˈɛðɚ",
     "m": "da (thuộc)",
     "cat": "đồ vật"
   },
   {
     "w": "cotton",
-    "p": "",
+    "p": "kˈɑːʔn̩",
     "m": "vải bông, cotton",
     "cat": "đồ vật"
   },
   {
     "w": "silk",
-    "p": "",
+    "p": "sˈɪlk",
     "m": "tơ lụa",
     "cat": "đồ vật"
   },
   {
     "w": "iron",
-    "p": "",
+    "p": "ˈaɪɚn",
     "m": "ủi (quần áo)",
     "cat": "hành động"
   },
   {
     "w": "thumbnail",
-    "p": "",
+    "p": "θˈʌmneɪl",
     "m": "ngón tay cái; ảnh thu nhỏ",
     "cat": "cơ thể"
   },
   {
     "w": "elbow",
-    "p": "",
+    "p": "ˈɛlboʊ",
     "m": "khuỷu tay",
     "cat": "cơ thể"
   },
   {
     "w": "wrist",
-    "p": "",
+    "p": "ɹˈɪst",
     "m": "cổ tay",
     "cat": "cơ thể"
   },
   {
     "w": "ankle",
-    "p": "",
+    "p": "ˈæŋkəl",
     "m": "mắt cá chân",
     "cat": "cơ thể"
   },
   {
     "w": "chin",
-    "p": "",
+    "p": "tʃˈɪn",
     "m": "cằm",
     "cat": "cơ thể"
   },
   {
     "w": "forehead",
-    "p": "",
+    "p": "fˈɔːɹhɛd",
     "m": "trán",
     "cat": "cơ thể"
   },
   {
     "w": "palm",
-    "p": "",
+    "p": "pˈɑːm",
     "m": "lòng bàn tay",
     "cat": "cơ thể"
   },
   {
     "w": "spine",
-    "p": "",
+    "p": "spˈaɪn",
     "m": "cột sống",
     "cat": "cơ thể"
   },
   {
     "w": "lung",
-    "p": "",
+    "p": "lˈʌŋ",
     "m": "phổi",
     "cat": "cơ thể"
   },
   {
     "w": "liver",
-    "p": "",
+    "p": "lˈɪvɚ",
     "m": "gan",
     "cat": "cơ thể"
   },
   {
     "w": "kidney",
-    "p": "",
+    "p": "kˈɪdni",
     "m": "thận",
     "cat": "cơ thể"
   },
   {
     "w": "blood pressure",
-    "p": "",
+    "p": "blˈʌd pɹˈɛʃɚ",
     "m": "huyết áp",
     "cat": "sức khỏe"
   },
   {
     "w": "fever",
-    "p": "",
+    "p": "fˈiːvɚ",
     "m": "sốt",
     "cat": "sức khỏe"
   },
   {
     "w": "prescription",
-    "p": "",
+    "p": "pɹɪskɹˈɪpʃən",
     "m": "đơn thuốc",
     "cat": "sức khỏe"
   },
   {
     "w": "symptom",
-    "p": "",
+    "p": "sˈɪmptəm",
     "m": "triệu chứng",
     "cat": "sức khỏe"
   },
   {
     "w": "diagnose",
-    "p": "",
+    "p": "dˌaɪəɡnˈoʊz",
     "m": "chẩn đoán (bệnh)",
     "cat": "hành động"
   },
   {
     "w": "injection",
-    "p": "",
+    "p": "ɪndʒˈɛkʃən",
     "m": "mũi tiêm",
     "cat": "sức khỏe"
   },
   {
     "w": "surgery",
-    "p": "",
+    "p": "sˈɜːdʒɚɹi",
     "m": "phẫu thuật",
     "cat": "sức khỏe"
   },
   {
     "w": "recovery",
-    "p": "",
+    "p": "ɹᵻkˈʌvɚɹi",
     "m": "sự hồi phục",
     "cat": "sức khỏe"
   },
   {
     "w": "immune system",
-    "p": "",
+    "p": "ɪmjˈuːn sˈɪstəm",
     "m": "hệ miễn dịch",
     "cat": "sức khỏe"
   },
   {
     "w": "clinic",
-    "p": "",
+    "p": "klˈɪnɪk",
     "m": "phòng khám",
     "cat": "địa điểm"
   },
   {
     "w": "pharmacy",
-    "p": "",
+    "p": "fˈɑːɹməsi",
     "m": "nhà thuốc",
     "cat": "địa điểm"
   },
   {
     "w": "waiting room",
-    "p": "",
+    "p": "wˈeɪɾɪŋ ɹˈuːm",
     "m": "phòng chờ",
     "cat": "địa điểm"
   },
   {
     "w": "specialist",
-    "p": "",
+    "p": "spˈɛʃəlˌɪst",
     "m": "bác sĩ chuyên khoa",
     "cat": "công việc"
   },
   {
     "w": "emergency",
-    "p": "",
+    "p": "ɪmˈɜːdʒənsi",
     "m": "trường hợp khẩn cấp",
     "cat": "sức khỏe"
   },
   {
     "w": "first aid",
-    "p": "",
+    "p": "fˈɜːst ˈeɪd",
     "m": "sơ cứu",
     "cat": "sức khỏe"
   },
   {
     "w": "bandage",
-    "p": "",
+    "p": "bˈændɪdʒ",
     "m": "băng bó vết thương",
     "cat": "sức khỏe"
   },
   {
     "w": "tuition",
-    "p": "",
+    "p": "tuːˈɪʃən",
     "m": "học phí",
     "cat": "học tập"
   },
   {
     "w": "scholarship",
-    "p": "",
+    "p": "skˈɑːlɚʃˌɪp",
     "m": "học bổng",
     "cat": "học tập"
   },
   {
     "w": "degree",
-    "p": "",
+    "p": "dᵻɡɹˈiː",
     "m": "bằng đại học",
     "cat": "học tập"
   },
   {
     "w": "diploma",
-    "p": "",
+    "p": "dɪplˈoʊmə",
     "m": "bằng chứng chỉ",
     "cat": "học tập"
   },
   {
     "w": "assignment",
-    "p": "",
+    "p": "ɐsˈaɪnmənt",
     "m": "bài tập được giao",
     "cat": "học tập"
   },
   {
     "w": "essay",
-    "p": "",
+    "p": "ˈɛseɪ",
     "m": "bài luận",
     "cat": "học tập"
   },
   {
     "w": "thesis",
-    "p": "",
+    "p": "θˈiːsɪs",
     "m": "luận văn, luận án",
     "cat": "học tập"
   },
   {
     "w": "timetable",
-    "p": "",
+    "p": "tˈaɪmteɪbəl",
     "m": "thời khóa biểu",
     "cat": "học tập"
   },
   {
     "w": "lecture",
-    "p": "",
+    "p": "lˈɛktʃɚ",
     "m": "bài giảng, buổi học đại học",
     "cat": "học tập"
   },
   {
     "w": "tutorial",
-    "p": "",
+    "p": "tuːtˈɔːɹɪəl",
     "m": "buổi học nhóm nhỏ, hướng dẫn",
     "cat": "học tập"
   },
   {
     "w": "seminar",
-    "p": "",
+    "p": "sˈɛmɪnˌɑːɹ",
     "m": "hội thảo, buổi học chuyên đề",
     "cat": "học tập"
   },
   {
     "w": "syllabus",
-    "p": "",
+    "p": "sˈɪlæbəs",
     "m": "chương trình học",
     "cat": "học tập"
   },
   {
     "w": "grade",
-    "p": "",
+    "p": "ɡɹˈeɪd",
     "m": "điểm số, xếp loại",
     "cat": "học tập"
   },
   {
     "w": "pass",
-    "p": "",
+    "p": "pˈæs",
     "m": "đỗ (kỳ thi)",
     "cat": "học tập"
   },
   {
     "w": "fail",
-    "p": "",
+    "p": "fˈeɪl",
     "m": "trượt (kỳ thi)",
     "cat": "học tập"
   },
   {
     "w": "revise",
-    "p": "",
+    "p": "ɹᵻvˈaɪz",
     "m": "ôn tập, xem lại",
     "cat": "học tập"
   },
   {
     "w": "motivate",
-    "p": "",
+    "p": "mˈoʊɾᵻvˌeɪt",
     "m": "tạo động lực",
     "cat": "hành động"
   },
   {
     "w": "inspire",
-    "p": "",
+    "p": "ɪnspˈaɪɚ",
     "m": "truyền cảm hứng",
     "cat": "hành động"
   },
   {
     "w": "concentrate",
-    "p": "",
+    "p": "kˈɑːnsəntɹˌeɪt",
     "m": "tập trung",
     "cat": "hành động"
   },
   {
     "w": "memorize",
-    "p": "",
+    "p": "mˈɛmɚɹˌaɪz",
     "m": "ghi nhớ, học thuộc",
     "cat": "hành động"
   },
   {
     "w": "app",
-    "p": "",
+    "p": "ˈæp",
     "m": "ứng dụng (điện thoại)",
     "cat": "công nghệ"
   },
   {
     "w": "download",
-    "p": "",
+    "p": "dˈaʊnloʊd",
     "m": "tải xuống",
     "cat": "hành động"
   },
   {
     "w": "upload",
-    "p": "",
+    "p": "ˈʌploʊd",
     "m": "tải lên",
     "cat": "hành động"
   },
   {
     "w": "browser",
-    "p": "",
+    "p": "bɹˈaʊzɚ",
     "m": "trình duyệt web",
     "cat": "công nghệ"
   },
   {
     "w": "cloud",
-    "p": "",
+    "p": "klˈaʊd",
     "m": "điện toán đám mây",
     "cat": "công nghệ"
   },
   {
     "w": "software",
-    "p": "",
+    "p": "sˈɔftwɛɹ",
     "m": "phần mềm",
     "cat": "công nghệ"
   },
   {
     "w": "hardware",
-    "p": "",
+    "p": "hˈɑːɹdwɛɹ",
     "m": "phần cứng",
     "cat": "công nghệ"
   },
   {
     "w": "update",
-    "p": "",
+    "p": "ˈʌpdeɪt",
     "m": "cập nhật",
     "cat": "hành động"
   },
   {
     "w": "virus",
-    "p": "",
+    "p": "vˈaɪɹəs",
     "m": "vi rút máy tính",
     "cat": "công nghệ"
   },
   {
     "w": "backup",
-    "p": "",
+    "p": "bˈækʌp",
     "m": "sao lưu dữ liệu",
     "cat": "công nghệ"
   },
   {
     "w": "wireless",
-    "p": "",
+    "p": "wˈaɪɚləs",
     "m": "không dây",
     "cat": "công nghệ"
   },
   {
     "w": "charger",
-    "p": "",
+    "p": "tʃˈɑːɹdʒɚ",
     "m": "bộ sạc điện",
     "cat": "đồ vật"
   },
   {
     "w": "microwave",
-    "p": "",
+    "p": "mˈaɪkɹoʊwˌeɪv",
     "m": "lò vi sóng",
     "cat": "đồ vật"
   },
   {
     "w": "freezer",
-    "p": "",
+    "p": "fɹˈiːzɚ",
     "m": "ngăn đông lạnh, tủ đông",
     "cat": "đồ vật"
   },
   {
     "w": "dishwasher",
-    "p": "",
+    "p": "dˈɪʃwɑːʃɚ",
     "m": "máy rửa bát",
     "cat": "đồ vật"
   },
   {
     "w": "vacuum cleaner",
-    "p": "",
+    "p": "vˈækjuːm klˈiːnɚ",
     "m": "máy hút bụi",
     "cat": "đồ vật"
   },
   {
     "w": "iron",
-    "p": "",
+    "p": "ˈaɪɚn",
     "m": "bàn ủi quần áo",
     "cat": "đồ vật"
   },
   {
     "w": "ladder",
-    "p": "",
+    "p": "lˈædɚ",
     "m": "thang",
     "cat": "đồ vật"
   },
   {
     "w": "hammer",
-    "p": "",
+    "p": "hˈæmɚ",
     "m": "cái búa",
     "cat": "đồ vật"
   },
   {
     "w": "screwdriver",
-    "p": "",
+    "p": "skɹˈuːdɹaɪvɚ",
     "m": "tua vít",
     "cat": "đồ vật"
   },
   {
     "w": "drill",
-    "p": "",
+    "p": "dɹˈɪl",
     "m": "máy khoan",
     "cat": "đồ vật"
   }

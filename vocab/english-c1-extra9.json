@@ -2,731 +2,877 @@
   {
     "w": "scaffolding",
     "m": "giàn giáo",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "skˈæfoʊldɪŋ"
   },
   {
     "w": "foundation",
     "m": "nền móng",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "faʊndˈeɪʃən"
   },
   {
     "w": "beam",
     "m": "xà, dầm",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "bˈiːm"
   },
   {
     "w": "pillar",
     "m": "cột trụ",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "pˈɪlɚ"
   },
   {
     "w": "column",
     "m": "cột",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "kˈɑːlʌm"
   },
   {
     "w": "arch",
     "m": "vòm",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ˈɑːɹtʃ"
   },
   {
     "w": "dome",
     "m": "mái vòm",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "dˈoʊm"
   },
   {
     "w": "facade",
     "m": "mặt tiền",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "fəsˈɑːd"
   },
   {
     "w": "balcony",
     "m": "ban công",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "bˈælkəni"
   },
   {
     "w": "porch",
     "m": "hiên nhà",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "pˈɔːɹtʃ"
   },
   {
     "w": "corridor",
     "m": "hành lang",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "kˈɔɹɪdˌɔːɹ"
   },
   {
     "w": "staircase",
     "m": "cầu thang",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "stˈɛɹkeɪs"
   },
   {
     "w": "banister",
     "m": "tay vịn cầu thang",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "bˈænɪstɚ"
   },
   {
     "w": "threshold",
     "m": "ngưỡng cửa",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "θɹˈɛʃoʊld"
   },
   {
     "w": "chimney",
     "m": "ống khói",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "tʃˈɪmni"
   },
   {
     "w": "gutter",
     "m": "máng xối",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ɡˈʌɾɚ"
   },
   {
     "w": "shutter",
     "m": "cửa chớp",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ʃˈʌɾɚ"
   },
   {
     "w": "awning",
     "m": "mái hiên che",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ˈɔːnɪŋ"
   },
   {
     "w": "partition",
     "m": "vách ngăn",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "pɑːɹtˈɪʃən"
   },
   {
     "w": "insulation",
     "m": "vật liệu cách nhiệt",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "ˌɪnsəlˈeɪʃən"
   },
   {
     "w": "plumbing",
     "m": "hệ thống ống nước",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "plˈʌmɪŋ"
   },
   {
     "w": "wiring",
     "m": "hệ thống dây điện",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "wˈaɪɚɹɪŋ"
   },
   {
     "w": "ventilation",
     "m": "hệ thống thông gió",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "vˌɛntɪlˈeɪʃən"
   },
   {
     "w": "thermostat",
     "m": "bộ điều nhiệt",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "θˈɜːməstˌæt"
   },
   {
     "w": "tile",
     "m": "gạch lát",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "tˈaɪl"
   },
   {
     "w": "brick",
     "m": "viên gạch",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "bɹˈɪk"
   },
   {
     "w": "cement",
     "m": "xi măng",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "sᵻmˈɛnt"
   },
   {
     "w": "concrete",
     "m": "bê tông",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "kˈɑːŋkɹiːt"
   },
   {
     "w": "plaster",
     "m": "vữa trát",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "plˈæstɚ"
   },
   {
     "w": "timber",
     "m": "gỗ xây dựng",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "tˈɪmbɚ"
   },
   {
     "w": "plywood",
     "m": "gỗ dán",
-    "cat": "đồ vật"
+    "cat": "đồ vật",
+    "p": "plˈaɪwʊd"
   },
   {
     "w": "hovercraft",
     "m": "tàu đệm khí",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "hˈʌvɚkɹˌæft"
   },
   {
     "w": "submarine",
     "m": "tàu ngầm",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "sˈʌbmɚɹˌiːn"
   },
   {
     "w": "yacht",
     "m": "du thuyền",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "jˈɑːt"
   },
   {
     "w": "canoe",
     "m": "xuồng",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "kənˈuː"
   },
   {
     "w": "kayak",
     "m": "thuyền kayak",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "kˈaɪæk"
   },
   {
     "w": "raft",
     "m": "bè",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "ɹˈæft"
   },
   {
     "w": "barge",
     "m": "sà lan",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "bˈɑːɹdʒ"
   },
   {
     "w": "ferry",
     "m": "phà",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "fˈɛɹi"
   },
   {
     "w": "tram",
     "m": "tàu điện",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "tɹˈæm"
   },
   {
     "w": "trolley",
     "m": "xe điện bánh hơi",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "tɹˈɑːli"
   },
   {
     "w": "carriage",
     "m": "toa tàu, xe ngựa",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "kˈæɹɪdʒ"
   },
   {
     "w": "wagon",
     "m": "toa hàng",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "wˈæɡən"
   },
   {
     "w": "van",
     "m": "xe tải nhỏ",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "vˈæn"
   },
   {
     "w": "lorry",
     "m": "xe tải",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "lˈɔɹi"
   },
   {
     "w": "truck",
     "m": "xe tải",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "tɹˈʌk"
   },
   {
     "w": "trailer",
     "m": "rơ-moóc",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "tɹˈeɪlɚ"
   },
   {
     "w": "bulldozer",
     "m": "máy ủi",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "bˈʊldoʊzɚ"
   },
   {
     "w": "crane",
     "m": "cần cẩu",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "kɹˈeɪn"
   },
   {
     "w": "forklift",
     "m": "xe nâng",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "fˈɔːɹklɪft"
   },
   {
     "w": "tractor",
     "m": "máy kéo",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "tɹˈæktɚ"
   },
   {
     "w": "ambulance",
     "m": "xe cứu thương",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "ˈæmbjʊləns"
   },
   {
     "w": "glider",
     "m": "tàu lượn",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "ɡlˈaɪdɚ"
   },
   {
     "w": "parachute",
     "m": "dù nhảy",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "pˈæɹəʃˌuːt"
   },
   {
     "w": "scooter",
     "m": "xe tay ga",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "skˈuːɾɚ"
   },
   {
     "w": "unicycle",
     "m": "xe đạp một bánh",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "jˈuːnɪsˌaɪkəl"
   },
   {
     "w": "sledge",
     "m": "xe trượt tuyết",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "slˈɛdʒ"
   },
   {
     "w": "cabin",
     "m": "khoang lái",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "kˈæbɪn"
   },
   {
     "w": "cockpit",
     "m": "buồng lái máy bay",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "kˈɑːkpɪt"
   },
   {
     "w": "runway",
     "m": "đường băng",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "ɹˈʌnweɪ"
   },
   {
     "w": "terminal",
     "m": "nhà ga sân bay",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "tˈɜːmɪnəl"
   },
   {
     "w": "platform",
     "m": "sân ga",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "plˈætfɔːɹm"
   },
   {
     "w": "junction",
     "m": "giao lộ",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "dʒˈʌŋkʃən"
   },
   {
     "w": "toll booth",
     "m": "trạm thu phí",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "tˈoʊl bˈuːθ"
   },
   {
     "w": "crossing",
     "m": "chỗ qua đường",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "kɹˈɔsɪŋ"
   },
   {
     "w": "diversion",
     "m": "đường tránh",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "daɪvˈɜːʒən"
   },
   {
     "w": "congestion",
     "m": "sự ùn tắc",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "kəndʒˈɛstʃən"
   },
   {
     "w": "detour",
     "m": "đường vòng",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "dˈiːtʊɹ"
   },
   {
     "w": "shortcut",
     "m": "đường tắt",
-    "cat": "giao thông"
+    "cat": "giao thông",
+    "p": "ʃˈɔːɹtkʌt"
   },
   {
     "w": "itinerary",
     "m": "lịch trình",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "aɪtˈɪnɚɹˌɛɹi"
   },
   {
     "w": "expedition",
     "m": "chuyến thám hiểm",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "ˌɛkspədˈɪʃən"
   },
   {
     "w": "voyage",
     "m": "chuyến hải hành",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "vˈɔɪɪdʒ"
   },
   {
     "w": "excursion",
     "m": "chuyến tham quan ngắn",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "ɛkskˈɜːʃən"
   },
   {
     "w": "pilgrimage",
     "m": "cuộc hành hương",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "pˈɪlɡɹɪmɪdʒ"
   },
   {
     "w": "safari",
     "m": "chuyến săn ảnh thú",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "sɐfˈɑːɹɹi"
   },
   {
     "w": "cruise",
     "m": "chuyến du ngoạn biển",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "kɹˈuːz"
   },
   {
     "w": "stopover",
     "m": "điểm dừng chân",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "stˈɑːpoʊvɚ"
   },
   {
     "w": "layover",
     "m": "thời gian quá cảnh",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "lˈeɪoʊvɚ"
   },
   {
     "w": "destination",
     "m": "điểm đến",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "dˌɛstɪnˈeɪʃən"
   },
   {
     "w": "departure",
     "m": "sự khởi hành",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "dᵻpˈɑːɹtʃɚ"
   },
   {
     "w": "arrival",
     "m": "sự đến nơi",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "ɚɹˈaɪvəl"
   },
   {
     "w": "checkpoint",
     "m": "trạm kiểm soát",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "tʃˈɛkpɔɪnt"
   },
   {
     "w": "customs",
     "m": "hải quan",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "kˈʌstəmz"
   },
   {
     "w": "immigration",
     "m": "nhập cảnh",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "ˌɪmɪɡɹˈeɪʃən"
   },
   {
     "w": "boarding",
     "m": "sự lên tàu/máy bay",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "bˈɔːɹdɪŋ"
   },
   {
     "w": "luggage",
     "m": "hành lý",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "lˈʌɡɪdʒ"
   },
   {
     "w": "backpack",
     "m": "ba lô",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "bˈækpæk"
   },
   {
     "w": "compass",
     "m": "la bàn",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "kˈʌmpəs"
   },
   {
     "w": "landmark",
     "m": "địa danh nổi tiếng",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "lˈændmɑːɹk"
   },
   {
     "w": "attraction",
     "m": "điểm thu hút du khách",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "ɐtɹˈækʃən"
   },
   {
     "w": "resort",
     "m": "khu nghỉ dưỡng",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "ɹᵻzˈɔːɹt"
   },
   {
     "w": "hostel",
     "m": "nhà trọ giá rẻ",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "hˈɑːstəl"
   },
   {
     "w": "campsite",
     "m": "khu cắm trại",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "kˈæmpsaɪt"
   },
   {
     "w": "guesthouse",
     "m": "nhà nghỉ",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "ɡˈɛsthaʊs"
   },
   {
     "w": "vacancy",
     "m": "phòng trống",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "vˈeɪkənsi"
   },
   {
     "w": "checkout",
     "m": "sự trả phòng",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "tʃˈɛkaʊt"
   },
   {
     "w": "concierge",
     "m": "nhân viên hỗ trợ khách",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "kˌɑːnsɪˈɛɹʒ"
   },
   {
     "w": "porter",
     "m": "người khuân hành lý",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "pˈɔːɹɾɚ"
   },
   {
     "w": "tariff",
     "m": "biểu giá",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "tˈæɹɪf"
   },
   {
     "w": "brochure",
     "m": "tờ rơi quảng cáo",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "bɹoʊʃˈʊɹr"
   },
   {
     "w": "sightseeing",
     "m": "ngắm cảnh",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "sˈaɪtsiːɪŋ"
   },
   {
     "w": "wander",
     "m": "đi lang thang khám phá",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "wˈɔndɚ"
   },
   {
     "w": "explore",
     "m": "khám phá",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "ɛksplˈɔːɹ"
   },
   {
     "w": "navigate",
     "m": "định hướng dẫn đường",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "nˈævɪɡˌeɪt"
   },
   {
     "w": "trek",
     "m": "đi bộ đường dài gian nan",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "tɹˈɛk"
   },
   {
     "w": "roam",
     "m": "rong ruổi",
-    "cat": "du lịch"
+    "cat": "du lịch",
+    "p": "ɹˈoʊm"
   },
   {
     "w": "abundance",
     "m": "sự phong phú dồi dào",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ɐbˈʌndəns"
   },
   {
     "w": "clarity",
     "m": "sự rõ ràng",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "klˈæɹᵻɾi"
   },
   {
     "w": "coherence",
     "m": "sự mạch lạc",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "koʊhˈɪɹəns"
   },
   {
     "w": "consistency",
     "m": "sự nhất quán",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "kənsˈɪstənsi"
   },
   {
     "w": "continuity",
     "m": "sự liên tục",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "kɑːntɪnjˈuːᵻɾi"
   },
   {
     "w": "diversity",
     "m": "sự đa dạng",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "daɪvˈɜːsᵻɾi"
   },
   {
     "w": "emphasis",
     "m": "sự nhấn mạnh",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ˈɛmfəsɪs"
   },
   {
     "w": "essence",
     "m": "bản chất cốt lõi",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ˈɛsəns"
   },
   {
     "w": "framework",
     "m": "khung lý thuyết",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "fɹˈeɪmwɜːk"
   },
   {
     "w": "hierarchy",
     "m": "hệ thống thứ bậc",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "hˈaɪɚɹɑːɹki"
   },
   {
     "w": "intensity",
     "m": "cường độ",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ɪntˈɛnsᵻɾi"
   },
   {
     "w": "magnitude",
     "m": "độ lớn",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "mˈæɡnɪtˌuːd"
   },
   {
     "w": "mechanism",
     "m": "cơ chế",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "mˈɛkənˌɪzəm"
   },
   {
     "w": "paradox",
     "m": "nghịch lý",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "pˈæɹədˌɑːks"
   },
   {
     "w": "perspective",
     "m": "góc nhìn",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "pɚspˈɛktɪv"
   },
   {
     "w": "phenomenon",
     "m": "hiện tượng",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "fɪnˈɑːmɪnən"
   },
   {
     "w": "premise",
     "m": "tiền đề",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "pɹˈɛmɪs"
   },
   {
     "w": "rationale",
     "m": "cơ sở lý luận",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ɹˌæʃənˈæl"
   },
   {
     "w": "spectrum",
     "m": "phổ, dải",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "spˈɛktɹəm"
   },
   {
     "w": "synthesis",
     "m": "sự tổng hợp",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "sˈɪnθəsˌɪs"
   },
   {
     "w": "transition",
     "m": "sự chuyển tiếp",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "tɹænsˈɪʃən"
   },
   {
     "w": "validity",
     "m": "tính hợp lệ",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "vælˈɪdᵻɾi"
   },
   {
     "w": "variation",
     "m": "sự biến thiên",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "vˌɛɹɪˈeɪʃən"
   },
   {
     "w": "correlation",
     "m": "sự tương quan",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "kˌɔɹɪlˈeɪʃən"
   },
   {
     "w": "distinction",
     "m": "sự phân biệt",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "dɪstˈɪŋkʃən"
   },
   {
     "w": "interpretation",
     "m": "sự diễn giải",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ɪntˌɜːpɹɪtˈeɪʃən"
   },
   {
     "w": "assumption",
     "m": "giả định",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ɐsˈʌmpʃən"
   },
   {
     "w": "contradiction",
     "m": "sự mâu thuẫn",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "kˌɑːntɹədˈɪkʃən"
   },
   {
     "w": "implication",
     "m": "hàm ý",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ˌɪmplɪkˈeɪʃən"
   },
   {
     "w": "justification",
     "m": "sự biện minh",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "dʒˌʌstɪfɪkˈeɪʃən"
   },
   {
     "w": "speculation",
     "m": "sự suy đoán",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "spˌɛkjʊlˈeɪʃən"
   },
   {
     "w": "presumption",
     "m": "sự suy đoán mặc định",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "pɹɪsˈʌmpʃən"
   },
   {
     "w": "proposition",
     "m": "mệnh đề",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "pɹˌɑːpəzˈɪʃən"
   },
   {
     "w": "hypothesis",
     "m": "giả thuyết",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "haɪpˈɑːθəsˌɪs"
   },
   {
     "w": "deduction",
     "m": "sự suy diễn",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "dᵻdˈʌkʃən"
   },
   {
     "w": "induction",
     "m": "sự quy nạp",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ɪndˈʌkʃən"
   },
   {
     "w": "abstraction",
     "m": "sự trừu tượng hóa",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ɐbstɹˈækʃən"
   },
   {
     "w": "generalisation",
     "m": "sự khái quát hóa",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "dʒˌɛnɚɹələzˈeɪʃən"
   },
   {
     "w": "classification",
     "m": "sự phân loại",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "klˌæsɪfɪkˈeɪʃən"
   },
   {
     "w": "differentiation",
     "m": "sự phân biệt hóa",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "dˌɪfɚɹˌɛnʃɪˈeɪʃən"
   }
 ]

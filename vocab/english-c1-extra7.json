@@ -2,1756 +2,2107 @@
   {
     "w": "photosynthesis",
     "m": "quang hợp",
-    "cat": "science"
+    "cat": "science",
+    "p": "fˌoʊɾoʊsˈɪnθəsˌɪs"
   },
   {
     "w": "chlorophyll",
     "m": "diệp lục",
-    "cat": "science"
+    "cat": "science",
+    "p": "klˌɔːɹoʊfˈɪl"
   },
   {
     "w": "ecosystem",
     "m": "hệ sinh thái",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˈiːkoʊsˌɪstəm"
   },
   {
     "w": "biome",
     "m": "quần xã sinh vật",
-    "cat": "science"
+    "cat": "science",
+    "p": "bˈaɪoʊm"
   },
   {
     "w": "habitat",
     "m": "môi trường sống",
-    "cat": "science"
+    "cat": "science",
+    "p": "hˈæbɪtˌæt"
   },
   {
     "w": "organism",
     "m": "sinh vật",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˈɔːɹɡənˌɪzəm"
   },
   {
     "w": "microorganism",
     "m": "vi sinh vật",
-    "cat": "science"
+    "cat": "science",
+    "p": "mˌaɪkɹoʊˈɔːɹɡənˌɪzəm"
   },
   {
     "w": "bacterium",
     "m": "vi khuẩn",
-    "cat": "science"
+    "cat": "science",
+    "p": "bæktˈɪɹiəm"
   },
   {
     "w": "fungus",
     "m": "nấm",
-    "cat": "science"
+    "cat": "science",
+    "p": "fˈʌŋɡəs"
   },
   {
     "w": "enzyme",
     "m": "enzyme, men",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˈɛnzaɪm"
   },
   {
     "w": "protein",
     "m": "chất đạm",
-    "cat": "science"
+    "cat": "science",
+    "p": "pɹˈoʊtiːn"
   },
   {
     "w": "chromosome",
     "m": "nhiễm sắc thể",
-    "cat": "science"
+    "cat": "science",
+    "p": "kɹˈoʊməsˌoʊm"
   },
   {
     "w": "nucleus",
     "m": "nhân tế bào",
-    "cat": "science"
+    "cat": "science",
+    "p": "nˈuːklɪəs"
   },
   {
     "w": "membrane",
     "m": "màng tế bào",
-    "cat": "science"
+    "cat": "science",
+    "p": "mˈɛmbɹeɪn"
   },
   {
     "w": "mitochondria",
     "m": "ty thể",
-    "cat": "science"
+    "cat": "science",
+    "p": "mˌaɪɾəkˈɑːndɹiə"
   },
   {
     "w": "organelle",
     "m": "bào quan",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˌɔːɹɡənˈɛl"
   },
   {
     "w": "tissue",
     "m": "mô",
-    "cat": "science"
+    "cat": "science",
+    "p": "tˈɪʃuː"
   },
   {
     "w": "hormone",
     "m": "hoóc môn, nội tiết tố",
-    "cat": "science"
+    "cat": "science",
+    "p": "hˈɔːɹmoʊn"
   },
   {
     "w": "neuron",
     "m": "nơ-ron thần kinh",
-    "cat": "science"
+    "cat": "science",
+    "p": "nˈʊɹɹɑːn"
   },
   {
     "w": "synapse",
     "m": "khớp thần kinh",
-    "cat": "science"
+    "cat": "science",
+    "p": "sˈɪnæps"
   },
   {
     "w": "reproduction",
     "m": "sự sinh sản",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɹᵻpɹədˈʌkʃən"
   },
   {
     "w": "mutation",
     "m": "sự đột biến",
-    "cat": "science"
+    "cat": "science",
+    "p": "mjuːtˈeɪʃən"
   },
   {
     "w": "adaptation",
     "m": "sự thích nghi",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˌædæptˈeɪʃən"
   },
   {
     "w": "evolution",
     "m": "sự tiến hóa",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˌɛvəlˈuːʃən"
   },
   {
     "w": "natural selection",
     "m": "chọn lọc tự nhiên",
-    "cat": "science"
+    "cat": "science",
+    "p": "nˈætʃɚɹəl sᵻlˈɛkʃən"
   },
   {
     "w": "extinction",
     "m": "sự tuyệt chủng",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɛkstˈɪŋkʃən"
   },
   {
     "w": "species",
     "m": "loài",
-    "cat": "science"
+    "cat": "science",
+    "p": "spˈiːsiːz"
   },
   {
     "w": "vertebrate",
     "m": "động vật có xương sống",
-    "cat": "science"
+    "cat": "science",
+    "p": "vˈɜːɾɪbɹˌeɪt"
   },
   {
     "w": "invertebrate",
     "m": "động vật không xương sống",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɪnvˈɜːɾɪbɹˌeɪt"
   },
   {
     "w": "mammal",
     "m": "động vật có vú",
-    "cat": "science"
+    "cat": "science",
+    "p": "mˈæməl"
   },
   {
     "w": "amphibian",
     "m": "động vật lưỡng cư",
-    "cat": "science"
+    "cat": "science",
+    "p": "æmfˈɪbiən"
   },
   {
     "w": "reptile",
     "m": "động vật bò sát",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɹˈɛptaɪl"
   },
   {
     "w": "crustacean",
     "m": "động vật giáp xác",
-    "cat": "science"
+    "cat": "science",
+    "p": "kɹʌstˈeɪʃən"
   },
   {
     "w": "larva",
     "m": "ấu trùng",
-    "cat": "science"
+    "cat": "science",
+    "p": "lˈɑːɹvə"
   },
   {
     "w": "pollination",
     "m": "sự thụ phấn",
-    "cat": "science"
+    "cat": "science",
+    "p": "pˌɑːlᵻnˈeɪʃən"
   },
   {
     "w": "germination",
     "m": "sự nảy mầm",
-    "cat": "science"
+    "cat": "science",
+    "p": "dʒˌɜːmᵻnˈeɪʃən"
   },
   {
     "w": "respiration",
     "m": "sự hô hấp",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɹˌɛspᵻɹˈeɪʃən"
   },
   {
     "w": "circulation",
     "m": "sự tuần hoàn",
-    "cat": "science"
+    "cat": "science",
+    "p": "sˌɜːkjʊlˈeɪʃən"
   },
   {
     "w": "digestion",
     "m": "sự tiêu hóa",
-    "cat": "science"
+    "cat": "science",
+    "p": "daɪdʒˈɛstʃən"
   },
   {
     "w": "secretion",
     "m": "sự bài tiết",
-    "cat": "science"
+    "cat": "science",
+    "p": "sᵻkɹˈiːʃən"
   },
   {
     "w": "atom",
     "m": "nguyên tử",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˈæɾəm"
   },
   {
     "w": "molecule",
     "m": "phân tử",
-    "cat": "science"
+    "cat": "science",
+    "p": "mˈɑːlɪkjˌuːl"
   },
   {
     "w": "electron",
     "m": "điện tử",
-    "cat": "science"
+    "cat": "science",
+    "p": "ᵻlˈɛktɹɑːn"
   },
   {
     "w": "proton",
     "m": "proton",
-    "cat": "science"
+    "cat": "science",
+    "p": "pɹˈoʊtɑːn"
   },
   {
     "w": "neutron",
     "m": "neutron",
-    "cat": "science"
+    "cat": "science",
+    "p": "nˈuːtɹɑːn"
   },
   {
     "w": "isotope",
     "m": "đồng vị",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˈaɪsətˌoʊp"
   },
   {
     "w": "compound",
     "m": "hợp chất",
-    "cat": "science"
+    "cat": "science",
+    "p": "kˈɑːmpaʊnd"
   },
   {
     "w": "element",
     "m": "nguyên tố",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˈɛlɪmənt"
   },
   {
     "w": "reaction",
     "m": "phản ứng",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɹɪˈækʃən"
   },
   {
     "w": "oxidation",
     "m": "sự oxy hóa",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˌɑːksɪdˈeɪʃən"
   },
   {
     "w": "combustion",
     "m": "sự đốt cháy",
-    "cat": "science"
+    "cat": "science",
+    "p": "kəmbˈʌstʃən"
   },
   {
     "w": "solubility",
     "m": "độ tan",
-    "cat": "science"
+    "cat": "science",
+    "p": "sˌɑːljuːbˈɪlᵻɾi"
   },
   {
     "w": "density",
     "m": "mật độ, tỷ trọng",
-    "cat": "science"
+    "cat": "science",
+    "p": "dˈɛnsᵻɾi"
   },
   {
     "w": "viscosity",
     "m": "độ nhớt",
-    "cat": "science"
+    "cat": "science",
+    "p": "vɪskˈɔsᵻɾi"
   },
   {
     "w": "acidity",
     "m": "độ axit",
-    "cat": "science"
+    "cat": "science",
+    "p": "æsˈɪdᵻɾi"
   },
   {
     "w": "alkaline",
     "m": "có tính kiềm",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˈælkəlˌaɪn"
   },
   {
     "w": "catalyst",
     "m": "chất xúc tác",
-    "cat": "science"
+    "cat": "science",
+    "p": "kˈæɾɐlˌɪst"
   },
   {
     "w": "solvent",
     "m": "dung môi",
-    "cat": "science"
+    "cat": "science",
+    "p": "sˈɑːlvənt"
   },
   {
     "w": "compound",
     "m": "hợp chất hóa học",
-    "cat": "science"
+    "cat": "science",
+    "p": "kˈɑːmpaʊnd"
   },
   {
     "w": "velocity",
     "m": "vận tốc",
-    "cat": "science"
+    "cat": "science",
+    "p": "vəlˈɑːsᵻɾi"
   },
   {
     "w": "acceleration",
     "m": "gia tốc",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɐksˌɛlɚɹˈeɪʃən"
   },
   {
     "w": "friction",
     "m": "ma sát",
-    "cat": "science"
+    "cat": "science",
+    "p": "fɹˈɪkʃən"
   },
   {
     "w": "gravity",
     "m": "trọng lực",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɡɹˈævᵻɾi"
   },
   {
     "w": "momentum",
     "m": "động lượng",
-    "cat": "science"
+    "cat": "science",
+    "p": "moʊmˈɛntəm"
   },
   {
     "w": "inertia",
     "m": "quán tính",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɪnˈɜːʃə"
   },
   {
     "w": "kinetic",
     "m": "thuộc động năng",
-    "cat": "science"
+    "cat": "science",
+    "p": "kᵻnˈɛɾɪk"
   },
   {
     "w": "thermal",
     "m": "thuộc nhiệt",
-    "cat": "science"
+    "cat": "science",
+    "p": "θˈɜːməl"
   },
   {
     "w": "voltage",
     "m": "điện áp",
-    "cat": "science"
+    "cat": "science",
+    "p": "vˈoʊltɪdʒ"
   },
   {
     "w": "current",
     "m": "dòng điện",
-    "cat": "science"
+    "cat": "science",
+    "p": "kˈɜːɹənt"
   },
   {
     "w": "resistance",
     "m": "điện trở",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɹᵻsˈɪstəns"
   },
   {
     "w": "frequency",
     "m": "tần số",
-    "cat": "science"
+    "cat": "science",
+    "p": "fɹˈiːkwənsi"
   },
   {
     "w": "amplitude",
     "m": "biên độ",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˈæmplɪtˌuːd"
   },
   {
     "w": "wavelength",
     "m": "bước sóng",
-    "cat": "science"
+    "cat": "science",
+    "p": "wˈeɪvlɛŋθ"
   },
   {
     "w": "radiation",
     "m": "bức xạ",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɹˌeɪdɪˈeɪʃən"
   },
   {
     "w": "magnetism",
     "m": "từ tính",
-    "cat": "science"
+    "cat": "science",
+    "p": "mˈæɡnɪtˌɪzəm"
   },
   {
     "w": "refraction",
     "m": "sự khúc xạ",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɹᵻfɹˈækʃən"
   },
   {
     "w": "reflection",
     "m": "sự phản xạ",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɹᵻflˈɛkʃən"
   },
   {
     "w": "diffraction",
     "m": "sự nhiễu xạ",
-    "cat": "science"
+    "cat": "science",
+    "p": "dᵻfɹˈækʃən"
   },
   {
     "w": "spectrum",
     "m": "quang phổ",
-    "cat": "science"
+    "cat": "science",
+    "p": "spˈɛktɹəm"
   },
   {
     "w": "trajectory",
     "m": "quỹ đạo",
-    "cat": "science"
+    "cat": "science",
+    "p": "tɹədʒˈɛktɚɹi"
   },
   {
     "w": "equilibrium",
     "m": "trạng thái cân bằng",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˌiːkwɪlˈɪbɹiəm"
   },
   {
     "w": "anatomy",
     "m": "giải phẫu học",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "ɐnˈæɾəmi"
   },
   {
     "w": "physiology",
     "m": "sinh lý học",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "fˌɪzɪˈɑːlədʒi"
   },
   {
     "w": "pathology",
     "m": "bệnh lý học",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "pæθˈɑːlədʒi"
   },
   {
     "w": "oncology",
     "m": "ung thư học",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "ɑːŋkˈɑːlədʒi"
   },
   {
     "w": "cardiology",
     "m": "tim mạch học",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "kˌɑːɹdɪˈoʊlədʒi"
   },
   {
     "w": "neurology",
     "m": "thần kinh học",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "nʊɹɹˈɑːlədʒi"
   },
   {
     "w": "dermatology",
     "m": "da liễu học",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "dˌɜːmɐtˈɑːlədʒi"
   },
   {
     "w": "pediatrics",
     "m": "nhi khoa",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "pˌiːdɪˈætɹɪks"
   },
   {
     "w": "psychiatry",
     "m": "tâm thần học",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "saɪkˈaɪətɹi"
   },
   {
     "w": "surgery",
     "m": "phẫu thuật",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "sˈɜːdʒɚɹi"
   },
   {
     "w": "anesthesia",
     "m": "sự gây mê",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "ˌænɪsθˈiːʒə"
   },
   {
     "w": "diagnosis",
     "m": "sự chẩn đoán",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "dˌaɪəɡnˈoʊsɪs"
   },
   {
     "w": "prognosis",
     "m": "tiên lượng",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "pɹɑːɡnˈoʊsɪs"
   },
   {
     "w": "symptom",
     "m": "triệu chứng",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "sˈɪmptəm"
   },
   {
     "w": "syndrome",
     "m": "hội chứng",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "sˈɪndɹoʊm"
   },
   {
     "w": "inflammation",
     "m": "sự viêm",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "ɪnflæmˈeɪʃən"
   },
   {
     "w": "infection",
     "m": "sự nhiễm trùng",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "ɪnfˈɛkʃən"
   },
   {
     "w": "immunity",
     "m": "miễn dịch",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "ɪmjˈuːnᵻɾi"
   },
   {
     "w": "vaccine",
     "m": "vắc xin",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "væksˈiːn"
   },
   {
     "w": "antibiotic",
     "m": "kháng sinh",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "ˌæntɪbaɪˈɑːɾɪk"
   },
   {
     "w": "antibody",
     "m": "kháng thể",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "ˈæntɪbˌɑːdi"
   },
   {
     "w": "pathogen",
     "m": "mầm bệnh",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "pˈæθədʒən"
   },
   {
     "w": "epidemic",
     "m": "dịch bệnh",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "ˌɛpɪdˈɛmɪk"
   },
   {
     "w": "pandemic",
     "m": "đại dịch",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "pændˈɛmɪk"
   },
   {
     "w": "contagious",
     "m": "dễ lây",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "kəntˈeɪdʒəs"
   },
   {
     "w": "chronic",
     "m": "mãn tính",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "kɹˈɑːnɪk"
   },
   {
     "w": "acute",
     "m": "cấp tính",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "ɐkjˈuːt"
   },
   {
     "w": "benign",
     "m": "lành tính",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "bᵻnˈaɪn"
   },
   {
     "w": "malignant",
     "m": "ác tính",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "məlˈɪɡnənt"
   },
   {
     "w": "tumor",
     "m": "khối u",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "tˈuːmɚ"
   },
   {
     "w": "biopsy",
     "m": "sinh thiết",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "baɪˈɑːpsi"
   },
   {
     "w": "transfusion",
     "m": "truyền máu",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "tɹænsfjˈuːʒən"
   },
   {
     "w": "transplant",
     "m": "cấy ghép",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "tɹænsplˈænt"
   },
   {
     "w": "prosthesis",
     "m": "bộ phận giả",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "pɹˈɑːsθəsˌɪs"
   },
   {
     "w": "rehabilitation",
     "m": "phục hồi chức năng",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "ɹᵻhˌæbɪlɪtˈeɪʃən"
   },
   {
     "w": "metabolism",
     "m": "sự trao đổi chất",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "mətˈæbəlˌɪzəm"
   },
   {
     "w": "nutrient",
     "m": "chất dinh dưỡng",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "njˈuːtɹiənt"
   },
   {
     "w": "deficiency",
     "m": "sự thiếu hụt",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "dᵻfˈɪʃənsi"
   },
   {
     "w": "dosage",
     "m": "liều lượng",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "dˈoʊsɪdʒ"
   },
   {
     "w": "prescription",
     "m": "đơn thuốc",
-    "cat": "medicine"
+    "cat": "medicine",
+    "p": "pɹɪskɹˈɪpʃən"
   },
   {
     "w": "algorithm",
     "m": "thuật toán",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "ˈælɡɚɹˌɪθəm"
   },
   {
     "w": "encryption",
     "m": "mã hóa",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "ɛŋkɹˈɪpʃən"
   },
   {
     "w": "database",
     "m": "cơ sở dữ liệu",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "dˈeɪɾəbˌeɪs"
   },
   {
     "w": "bandwidth",
     "m": "băng thông",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "bˈændwɪdθ"
   },
   {
     "w": "firewall",
     "m": "tường lửa",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "fˈaɪɚwɔːl"
   },
   {
     "w": "server",
     "m": "máy chủ",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "sˈɜːvɚ"
   },
   {
     "w": "protocol",
     "m": "giao thức",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "pɹˈoʊɾəkˌɑːl"
   },
   {
     "w": "interface",
     "m": "giao diện",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "ˈɪntɚfˌeɪs"
   },
   {
     "w": "processor",
     "m": "bộ xử lý",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "pɹˈɑːsɛsɚ"
   },
   {
     "w": "semiconductor",
     "m": "chất bán dẫn",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "sˌɛmɪkəndˈʌktɚ"
   },
   {
     "w": "microchip",
     "m": "vi mạch",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "mˈaɪkɹoʊtʃˌɪp"
   },
   {
     "w": "circuit",
     "m": "mạch điện",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "sˈɜːkɪt"
   },
   {
     "w": "hardware",
     "m": "phần cứng",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "hˈɑːɹdwɛɹ"
   },
   {
     "w": "software",
     "m": "phần mềm",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "sˈɔftwɛɹ"
   },
   {
     "w": "compiler",
     "m": "trình biên dịch",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "kəmpˈaɪlɚ"
   },
   {
     "w": "debugging",
     "m": "gỡ lỗi",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "dˈiːbˌʌɡɪŋ"
   },
   {
     "w": "latency",
     "m": "độ trễ",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "lˈeɪtənsi"
   },
   {
     "w": "cache",
     "m": "bộ nhớ đệm",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "kˈæʃ"
   },
   {
     "w": "backup",
     "m": "bản sao lưu",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "bˈækʌp"
   },
   {
     "w": "malware",
     "m": "phần mềm độc hại",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "mˈælwɛɹ"
   },
   {
     "w": "phishing",
     "m": "lừa đảo trực tuyến",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "fˈɪʃɪŋ"
   },
   {
     "w": "authentication",
     "m": "sự xác thực",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "ɔːθˌɛntɪkˈeɪʃən"
   },
   {
     "w": "virtualization",
     "m": "ảo hóa",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "vˌɜːtʃuːəlᵻzˈeɪʃən"
   },
   {
     "w": "scalability",
     "m": "khả năng mở rộng",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "skˌeɪləbˈɪlᵻɾi"
   },
   {
     "w": "redundancy",
     "m": "sự dự phòng",
-    "cat": "tech"
+    "cat": "tech",
+    "p": "ɹᵻdˈʌndənsi"
   },
   {
     "w": "latitude",
     "m": "vĩ độ",
-    "cat": "science"
+    "cat": "science",
+    "p": "lˈæɾɪtˌuːd"
   },
   {
     "w": "longitude",
     "m": "kinh độ",
-    "cat": "science"
+    "cat": "science",
+    "p": "lˈɔndʒɪtˌuːd"
   },
   {
     "w": "equator",
     "m": "đường xích đạo",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɪkwˈeɪɾɚ"
   },
   {
     "w": "hemisphere",
     "m": "bán cầu",
-    "cat": "science"
+    "cat": "science",
+    "p": "hˈɛmɪsfˌɪɹ"
   },
   {
     "w": "continent",
     "m": "lục địa",
-    "cat": "science"
+    "cat": "science",
+    "p": "kˈɑːntɪnənt"
   },
   {
     "w": "peninsula",
     "m": "bán đảo",
-    "cat": "science"
+    "cat": "science",
+    "p": "pənˈɪnsjʊlə"
   },
   {
     "w": "archipelago",
     "m": "quần đảo",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˌɑːɹkɪpɪlˈeɪɡoʊ"
   },
   {
     "w": "plateau",
     "m": "cao nguyên",
-    "cat": "science"
+    "cat": "science",
+    "p": "plætˈoʊ"
   },
   {
     "w": "glacier",
     "m": "sông băng",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɡlˈeɪʃɚ"
   },
   {
     "w": "tundra",
     "m": "đài nguyên",
-    "cat": "science"
+    "cat": "science",
+    "p": "tˈʌndɹə"
   },
   {
     "w": "savanna",
     "m": "thảo nguyên nhiệt đới",
-    "cat": "science"
+    "cat": "science",
+    "p": "sævˈænə"
   },
   {
     "w": "estuary",
     "m": "cửa sông",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˈɛstjuːˌɛɹi"
   },
   {
     "w": "sediment",
     "m": "trầm tích",
-    "cat": "science"
+    "cat": "science",
+    "p": "sˈɛdɪmənt"
   },
   {
     "w": "erosion",
     "m": "sự xói mòn",
-    "cat": "science"
+    "cat": "science",
+    "p": "ɪɹˈoʊʒən"
   },
   {
     "w": "tectonic",
     "m": "thuộc kiến tạo địa chất",
-    "cat": "science"
+    "cat": "science",
+    "p": "tɛktˈɑːnɪk"
   },
   {
     "w": "seismic",
     "m": "thuộc địa chấn",
-    "cat": "science"
+    "cat": "science",
+    "p": "sˈaɪzmɪk"
   },
   {
     "w": "volcanic",
     "m": "thuộc núi lửa",
-    "cat": "science"
+    "cat": "science",
+    "p": "vɑːlkˈænɪk"
   },
   {
     "w": "magma",
     "m": "mắc ma",
-    "cat": "science"
+    "cat": "science",
+    "p": "mˈæɡmə"
   },
   {
     "w": "strata",
     "m": "các tầng địa chất",
-    "cat": "science"
+    "cat": "science",
+    "p": "stɹˈɑːɾə"
   },
   {
     "w": "fossil",
     "m": "hóa thạch",
-    "cat": "science"
+    "cat": "science",
+    "p": "fˈɑːsəl"
   },
   {
     "w": "mineral",
     "m": "khoáng vật",
-    "cat": "science"
+    "cat": "science",
+    "p": "mˈɪnɚɹəl"
   },
   {
     "w": "ore",
     "m": "quặng",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˈɔːɹ"
   },
   {
     "w": "crystalline",
     "m": "thuộc tinh thể",
-    "cat": "science"
+    "cat": "science",
+    "p": "kɹˈɪstɐlˌaɪn"
   },
   {
     "w": "precipitation",
     "m": "lượng mưa; sự kết tủa",
-    "cat": "science"
+    "cat": "science",
+    "p": "pɹɪsˌɪpɪtˈeɪʃən"
   },
   {
     "w": "humidity",
     "m": "độ ẩm",
-    "cat": "science"
+    "cat": "science",
+    "p": "hjuːmˈɪdᵻɾi"
   },
   {
     "w": "atmosphere",
     "m": "khí quyển",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˈætməsfˌɪɹ"
   },
   {
     "w": "ozone",
     "m": "tầng ô-zôn",
-    "cat": "science"
+    "cat": "science",
+    "p": "ˈoʊzoʊn"
   },
   {
     "w": "meteorology",
     "m": "khí tượng học",
-    "cat": "science"
+    "cat": "science",
+    "p": "mˌiːɾɪɔːɹˈɑːlədʒi"
   },
   {
     "w": "climatology",
     "m": "khí hậu học",
-    "cat": "science"
+    "cat": "science",
+    "p": "klˌaɪmɐtˈɑːlədʒi"
   },
   {
     "w": "hydrology",
     "m": "thủy văn học",
-    "cat": "science"
+    "cat": "science",
+    "p": "haɪdɹˈɑːlədʒi"
   },
   {
     "w": "constitution",
     "m": "hiến pháp",
-    "cat": "law"
+    "cat": "law",
+    "p": "kˌɑːnstɪtˈuːʃən"
   },
   {
     "w": "amendment",
     "m": "sự sửa đổi (luật)",
-    "cat": "law"
+    "cat": "law",
+    "p": "ɐmˈɛndmənt"
   },
   {
     "w": "legislature",
     "m": "cơ quan lập pháp",
-    "cat": "law"
+    "cat": "law",
+    "p": "lˈɛdʒɪslətʃɚ"
   },
   {
     "w": "judiciary",
     "m": "ngành tư pháp",
-    "cat": "law"
+    "cat": "law",
+    "p": "dʒuːdˈɪʃɚɹi"
   },
   {
     "w": "prosecutor",
     "m": "công tố viên",
-    "cat": "law"
+    "cat": "law",
+    "p": "pɹˈɑːsɪkjˌuːɾɚ"
   },
   {
     "w": "attorney",
     "m": "luật sư",
-    "cat": "law"
+    "cat": "law",
+    "p": "ɐtˈɜːni"
   },
   {
     "w": "plaintiff",
     "m": "nguyên đơn",
-    "cat": "law"
+    "cat": "law",
+    "p": "plˈeɪntɪf"
   },
   {
     "w": "defendant",
     "m": "bị đơn",
-    "cat": "law"
+    "cat": "law",
+    "p": "dᵻfˈɛndənt"
   },
   {
     "w": "witness",
     "m": "nhân chứng",
-    "cat": "law"
+    "cat": "law",
+    "p": "wˈɪtnəs"
   },
   {
     "w": "verdict",
     "m": "phán quyết",
-    "cat": "law"
+    "cat": "law",
+    "p": "vˈɜːdɪkt"
   },
   {
     "w": "sentence",
     "m": "bản án",
-    "cat": "law"
+    "cat": "law",
+    "p": "sˈɛntəns"
   },
   {
     "w": "appeal",
     "m": "kháng cáo",
-    "cat": "law"
+    "cat": "law",
+    "p": "ɐpˈiːl"
   },
   {
     "w": "custody",
     "m": "sự giam giữ; quyền nuôi con",
-    "cat": "law"
+    "cat": "law",
+    "p": "kˈʌstədi"
   },
   {
     "w": "bail",
     "m": "tiền bảo lãnh",
-    "cat": "law"
+    "cat": "law",
+    "p": "bˈeɪl"
   },
   {
     "w": "warrant",
     "m": "lệnh (bắt, khám)",
-    "cat": "law"
+    "cat": "law",
+    "p": "wˈɔːɹənt"
   },
   {
     "w": "felony",
     "m": "trọng tội",
-    "cat": "law"
+    "cat": "law",
+    "p": "fˈɛləni"
   },
   {
     "w": "misdemeanor",
     "m": "tội nhẹ",
-    "cat": "law"
+    "cat": "law",
+    "p": "mˌɪsdᵻmˈiːnɚ"
   },
   {
     "w": "perjury",
     "m": "tội khai man",
-    "cat": "law"
+    "cat": "law",
+    "p": "pˈɜːdʒɚɹi"
   },
   {
     "w": "libel",
     "m": "tội phỉ báng (viết)",
-    "cat": "law"
+    "cat": "law",
+    "p": "lˈaɪbəl"
   },
   {
     "w": "slander",
     "m": "tội vu khống (nói)",
-    "cat": "law"
+    "cat": "law",
+    "p": "slˈændɚ"
   },
   {
     "w": "fraud",
     "m": "gian lận",
-    "cat": "law"
+    "cat": "law",
+    "p": "fɹˈɔːd"
   },
   {
     "w": "embezzlement",
     "m": "tội tham ô",
-    "cat": "law"
+    "cat": "law",
+    "p": "ɛmbˈɛzəlmənt"
   },
   {
     "w": "extortion",
     "m": "tội tống tiền",
-    "cat": "law"
+    "cat": "law",
+    "p": "ɛkstˈɔːɹʃən"
   },
   {
     "w": "negligence",
     "m": "sự cẩu thả (pháp lý)",
-    "cat": "law"
+    "cat": "law",
+    "p": "nˈɛɡlɪdʒəns"
   },
   {
     "w": "defamation",
     "m": "sự phỉ báng",
-    "cat": "law"
+    "cat": "law",
+    "p": "dᵻfɐmˈeɪʃən"
   },
   {
     "w": "copyright",
     "m": "bản quyền",
-    "cat": "law"
+    "cat": "law",
+    "p": "kˈɑːpɪɹˌaɪt"
   },
   {
     "w": "patent",
     "m": "bằng sáng chế",
-    "cat": "law"
+    "cat": "law",
+    "p": "pˈæʔn̩t"
   },
   {
     "w": "trademark",
     "m": "nhãn hiệu",
-    "cat": "law"
+    "cat": "law",
+    "p": "tɹˈeɪdmɑːɹk"
   },
   {
     "w": "contract",
     "m": "hợp đồng",
-    "cat": "law"
+    "cat": "law",
+    "p": "kˈɑːntɹækt"
   },
   {
     "w": "clause",
     "m": "điều khoản",
-    "cat": "law"
+    "cat": "law",
+    "p": "klˈɔːz"
   },
   {
     "w": "deductible",
     "m": "khoản khấu trừ",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "dᵻdˈʌktᵻbəl"
   },
   {
     "w": "mortgage",
     "m": "khoản vay thế chấp",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "mˈɔːɹɡɪdʒ"
   },
   {
     "w": "insolvency",
     "m": "sự mất khả năng thanh toán",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "ɪnsˈɑːlvənsi"
   },
   {
     "w": "bankruptcy",
     "m": "sự phá sản",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "bˈæŋkɹʌptsi"
   },
   {
     "w": "arbitrage",
     "m": "kinh doanh chênh lệch giá",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "ˈɑːɹbɪtɹɪdʒ"
   },
   {
     "w": "portfolio",
     "m": "danh mục đầu tư",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "pɔːɹtfˈoʊlɪˌoʊ"
   },
   {
     "w": "derivative",
     "m": "công cụ phái sinh",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "dᵻɹˈɪvətˌɪv"
   },
   {
     "w": "hedge",
     "m": "phòng ngừa rủi ro",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "hˈɛdʒ"
   },
   {
     "w": "recession",
     "m": "suy thoái kinh tế",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "ɹᵻsˈɛʃən"
   },
   {
     "w": "stagflation",
     "m": "lạm phát đình đốn",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "stæɡflˈeɪʃən"
   },
   {
     "w": "monopoly",
     "m": "độc quyền",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "mənˈɑːpəli"
   },
   {
     "w": "oligopoly",
     "m": "độc quyền nhóm",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "ˌɑːlɪɡˈɑːpəli"
   },
   {
     "w": "deregulation",
     "m": "sự bãi bỏ quy định",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "diːɹˌɛɡjʊlˈeɪʃən"
   },
   {
     "w": "privatization",
     "m": "sự tư nhân hóa",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "pɹˌaɪvəɾᵻzˈeɪʃən"
   },
   {
     "w": "nationalization",
     "m": "sự quốc hữu hóa",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "nˌæʃənəlᵻzˈeɪʃən"
   },
   {
     "w": "remittance",
     "m": "kiều hối",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "ɹᵻmˈɪtəns"
   },
   {
     "w": "depreciation",
     "m": "sự khấu hao",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "dᵻpɹˌiːʃɪˈeɪʃən"
   },
   {
     "w": "amortization",
     "m": "sự khấu hao dần",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "ɐmˌɔːɹɾᵻzˈeɪʃən"
   },
   {
     "w": "liquidity",
     "m": "tính thanh khoản",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "lɪkwˈɪdᵻɾi"
   },
   {
     "w": "solvency",
     "m": "khả năng thanh toán",
-    "cat": "economics"
+    "cat": "economics",
+    "p": "sˈɑːlvənsi"
   },
   {
     "w": "democracy",
     "m": "nền dân chủ",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "dᵻmˈɑːkɹəsi"
   },
   {
     "w": "oligarchy",
     "m": "chế độ đầu sỏ",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "ˈɑːlɪɡˌɑːɹki"
   },
   {
     "w": "autocracy",
     "m": "chế độ chuyên quyền",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "ɔːtˈɑːkɹəsi"
   },
   {
     "w": "totalitarian",
     "m": "toàn trị",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "toʊtˌælᵻtˈɛɹiən"
   },
   {
     "w": "authoritarian",
     "m": "độc đoán",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "ˌɔːθɔːɹɪtˈɛɹiən"
   },
   {
     "w": "federalism",
     "m": "chủ nghĩa liên bang",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "fˈɛdɚɹəlˌɪzəm"
   },
   {
     "w": "sovereignty",
     "m": "chủ quyền",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "sˈɑːvɚɹˌɪnti"
   },
   {
     "w": "diplomacy",
     "m": "ngoại giao",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "dɪplˈoʊməsi"
   },
   {
     "w": "treaty",
     "m": "hiệp ước",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "tɹˈiːɾi"
   },
   {
     "w": "sanction",
     "m": "lệnh trừng phạt",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "sˈæŋkʃən"
   },
   {
     "w": "embargo",
     "m": "lệnh cấm vận",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "ɛmbˈɑːɹɡoʊ"
   },
   {
     "w": "coalition",
     "m": "liên minh",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "kˌoʊəlˈɪʃən"
   },
   {
     "w": "referendum",
     "m": "trưng cầu dân ý",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "ɹˌɛfɚɹˈɛndəm"
   },
   {
     "w": "constituency",
     "m": "khu vực bầu cử",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "kənstˈɪtʃuːənsi"
   },
   {
     "w": "incumbent",
     "m": "đương nhiệm",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "ɪŋkˈʌmbənt"
   },
   {
     "w": "lobbyist",
     "m": "người vận động hành lang",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "lˈɑːbɪˌɪst"
   },
   {
     "w": "propaganda",
     "m": "tuyên truyền",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "pɹˌɑːpɐɡˈændə"
   },
   {
     "w": "dissident",
     "m": "người bất đồng chính kiến",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "dˈɪsɪdənt"
   },
   {
     "w": "insurgency",
     "m": "cuộc nổi dậy",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "ɪnsˈɜːdʒənsi"
   },
   {
     "w": "coup",
     "m": "cuộc đảo chính",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "kˈuːp"
   },
   {
     "w": "regime",
     "m": "chế độ cai trị",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "ɹeɪʒˈiːm"
   },
   {
     "w": "manifesto",
     "m": "bản tuyên ngôn",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "mˌænɪfˈɛstoʊ"
   },
   {
     "w": "ratify",
     "m": "phê chuẩn",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "ɹˈæɾᵻfˌaɪ"
   },
   {
     "w": "veto",
     "m": "quyền phủ quyết",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "vˈiːɾoʊ"
   },
   {
     "w": "impeachment",
     "m": "sự luận tội",
-    "cat": "politics"
+    "cat": "politics",
+    "p": "ɪmpˈiːtʃmənt"
   },
   {
     "w": "renewable energy",
     "m": "năng lượng tái tạo",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "ɹᵻnˈuːəbəl ˈɛnɚdʒi"
   },
   {
     "w": "biodiversity",
     "m": "đa dạng sinh học",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "bˌaɪoʊdaɪvˈɜːsᵻɾi"
   },
   {
     "w": "deforestation",
     "m": "nạn phá rừng",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "diːfˌɔːɹɪstˈeɪʃən"
   },
   {
     "w": "desertification",
     "m": "sa mạc hóa",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "dɪzˌɜːɾɪfɪkˈeɪʃən"
   },
   {
     "w": "carbon footprint",
     "m": "dấu chân carbon",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "kˈɑːɹbən fˈʊtpɹɪnt"
   },
   {
     "w": "greenhouse effect",
     "m": "hiệu ứng nhà kính",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "ɡɹˈiːnhaʊs ɪfˈɛkt"
   },
   {
     "w": "global warming",
     "m": "nóng lên toàn cầu",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "ɡlˈoʊbəl wˈɔːɹmɪŋ"
   },
   {
     "w": "sustainability",
     "m": "tính bền vững",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "səstˌeɪnəbˈɪlᵻɾi"
   },
   {
     "w": "conservation",
     "m": "sự bảo tồn",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "kˌɑːnsɚvˈeɪʃən"
   },
   {
     "w": "contamination",
     "m": "sự ô nhiễm",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "kəntˌæmᵻnˈeɪʃən"
   },
   {
     "w": "pollutant",
     "m": "chất gây ô nhiễm",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "pəlˈuːtənt"
   },
   {
     "w": "recycling",
     "m": "sự tái chế",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "ɹᵻsˈaɪklɪŋ"
   },
   {
     "w": "compost",
     "m": "phân hữu cơ",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "kˈɑːmpoʊst"
   },
   {
     "w": "emission",
     "m": "khí thải",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "ɪmˈɪʃən"
   },
   {
     "w": "depletion",
     "m": "sự cạn kiệt",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "dᵻplˈiːʃən"
   },
   {
     "w": "ecosystem services",
     "m": "dịch vụ hệ sinh thái",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "ˈiːkoʊsˌɪstəm sˈɜːvɪsᵻz"
   },
   {
     "w": "renewable",
     "m": "tái tạo được",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "ɹᵻnˈuːəbəl"
   },
   {
     "w": "organic",
     "m": "hữu cơ",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "ɔːɹɡˈænɪk"
   },
   {
     "w": "biodegradable",
     "m": "phân hủy sinh học",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "bˌaɪoʊdᵻɡɹˈeɪdəbəl"
   },
   {
     "w": "watershed",
     "m": "lưu vực sông",
-    "cat": "môi trường"
+    "cat": "môi trường",
+    "p": "wˈɔːɾɚʃˌɛd"
   },
   {
     "w": "cognition",
     "m": "nhận thức",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "kɑːɡnˈɪʃən"
   },
   {
     "w": "perception",
     "m": "tri giác",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "pɚsˈɛpʃən"
   },
   {
     "w": "motivation",
     "m": "động lực",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "mˌoʊɾɪvˈeɪʃən"
   },
   {
     "w": "reinforcement",
     "m": "sự củng cố",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "ɹˌiːɪnfˈɔːɹsmənt"
   },
   {
     "w": "conditioning",
     "m": "sự điều kiện hóa",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "kəndˈɪʃənɪŋ"
   },
   {
     "w": "cognition bias",
     "m": "thiên kiến nhận thức",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "kɑːɡnˈɪʃən bˈaɪəs"
   },
   {
     "w": "introvert",
     "m": "người hướng nội",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "ˈɪntɹəvˌɜːt"
   },
   {
     "w": "extrovert",
     "m": "người hướng ngoại",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "ˈɛkstɹəvˌɜːt"
   },
   {
     "w": "neurosis",
     "m": "chứng nhiễu tâm",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "nʊɹɹˈoʊsɪs"
   },
   {
     "w": "phobia",
     "m": "chứng ám ảnh sợ",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "fˈoʊbiə"
   },
   {
     "w": "trauma",
     "m": "sang chấn tâm lý",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "tɹˈɔːmə"
   },
   {
     "w": "resilience",
     "m": "khả năng phục hồi tâm lý",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "ɹᵻsˈɪliəns"
   },
   {
     "w": "empathy",
     "m": "sự đồng cảm",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "ˈɛmpəθi"
   },
   {
     "w": "intuition",
     "m": "trực giác",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "ɪntuːˈɪʃən"
   },
   {
     "w": "subconscious",
     "m": "tiềm thức",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "sʌbkˈɑːnʃəs"
   },
   {
     "w": "temperament",
     "m": "khí chất",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "tˈɛmpɹəmənt"
   },
   {
     "w": "disposition",
     "m": "khuynh hướng tâm lý",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "dˌɪspəzˈɪʃən"
   },
   {
     "w": "self-esteem",
     "m": "lòng tự trọng",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "sˈɛlfɛstˈiːm"
   },
   {
     "w": "anxiety",
     "m": "sự lo âu",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "æŋzˈaɪəɾi"
   },
   {
     "w": "obsession",
     "m": "sự ám ảnh",
-    "cat": "psychology"
+    "cat": "psychology",
+    "p": "əbsˈɛʃən"
   },
   {
     "w": "narrative",
     "m": "lối tự sự",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "nˈæɹətˌɪv"
   },
   {
     "w": "protagonist",
     "m": "nhân vật chính",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "pɹˈoʊɾɐɡənˌɪst"
   },
   {
     "w": "antagonist",
     "m": "nhân vật phản diện",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "æntˈæɡənˌɪst"
   },
   {
     "w": "climax",
     "m": "cao trào",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "klˈaɪmæks"
   },
   {
     "w": "metaphor",
     "m": "ẩn dụ",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "mˈɛɾəfˌɔːɹ"
   },
   {
     "w": "simile",
     "m": "so sánh tu từ",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "sˈɪmɪli"
   },
   {
     "w": "personification",
     "m": "nhân hóa",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "pɜːsˈɑːnɪfɪkˈeɪʃən"
   },
   {
     "w": "irony",
     "m": "sự mỉa mai",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "ˈaɪɹəni"
   },
   {
     "w": "symbolism",
     "m": "chủ nghĩa tượng trưng",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "sˈɪmbəlˌɪzəm"
   },
   {
     "w": "foreshadowing",
     "m": "sự báo trước",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "fɔːɹʃˈædoʊɪŋ"
   },
   {
     "w": "imagery",
     "m": "hình ảnh thơ văn",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "ˈɪmɪdʒɹi"
   },
   {
     "w": "alliteration",
     "m": "phép điệp âm đầu",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "ɐlˌɪɾɚɹˈeɪʃən"
   },
   {
     "w": "prose",
     "m": "văn xuôi",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "pɹˈoʊz"
   },
   {
     "w": "verse",
     "m": "thơ, câu thơ",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "vˈɜːs"
   },
   {
     "w": "stanza",
     "m": "khổ thơ",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "stˈænzə"
   },
   {
     "w": "genre",
     "m": "thể loại",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "ʒˈɑːnɹə"
   },
   {
     "w": "manuscript",
     "m": "bản thảo",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "mˈænjuːskɹˌɪpt"
   },
   {
     "w": "anthology",
     "m": "tuyển tập",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "ænθˈɑːlədʒi"
   },
   {
     "w": "memoir",
     "m": "hồi ký",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "mˈɛmwɑːɹ"
   },
   {
     "w": "epic",
     "m": "sử thi",
-    "cat": "literature"
+    "cat": "literature",
+    "p": "ˈɛpɪk"
   },
   {
     "w": "sculpture",
     "m": "điêu khắc",
-    "cat": "art"
+    "cat": "art",
+    "p": "skˈʌlptʃɚ"
   },
   {
     "w": "portrait",
     "m": "chân dung",
-    "cat": "art"
+    "cat": "art",
+    "p": "pˈɔːɹtɹɪt"
   },
   {
     "w": "landscape",
     "m": "tranh phong cảnh",
-    "cat": "art"
+    "cat": "art",
+    "p": "lˈændskeɪp"
   },
   {
     "w": "canvas",
     "m": "vải vẽ tranh",
-    "cat": "art"
+    "cat": "art",
+    "p": "kˈænvəs"
   },
   {
     "w": "palette",
     "m": "bảng màu",
-    "cat": "art"
+    "cat": "art",
+    "p": "pˈælət"
   },
   {
     "w": "perspective",
     "m": "phối cảnh",
-    "cat": "art"
+    "cat": "art",
+    "p": "pɚspˈɛktɪv"
   },
   {
     "w": "composition",
     "m": "bố cục",
-    "cat": "art"
+    "cat": "art",
+    "p": "kˌɑːmpəzˈɪʃən"
   },
   {
     "w": "texture",
     "m": "kết cấu bề mặt",
-    "cat": "art"
+    "cat": "art",
+    "p": "tˈɛkstʃɚ"
   },
   {
     "w": "silhouette",
     "m": "hình bóng",
-    "cat": "art"
+    "cat": "art",
+    "p": "sˌɪlʊwˈɛt"
   },
   {
     "w": "mural",
     "m": "bích họa",
-    "cat": "art"
+    "cat": "art",
+    "p": "mjˈʊɹɹəl"
   },
   {
     "w": "fresco",
     "m": "tranh tường ướt",
-    "cat": "art"
+    "cat": "art",
+    "p": "fɹˈɛskoʊ"
   },
   {
     "w": "engraving",
     "m": "tranh khắc",
-    "cat": "art"
+    "cat": "art",
+    "p": "ɛŋɡɹˈeɪvɪŋ"
   },
   {
     "w": "ceramics",
     "m": "đồ gốm sứ",
-    "cat": "art"
+    "cat": "art",
+    "p": "sᵻɹˈæmɪks"
   },
   {
     "w": "choreography",
     "m": "biên đạo múa",
-    "cat": "art"
+    "cat": "art",
+    "p": "kˌɔːɹɪˈɑːɡɹəfi"
   },
   {
     "w": "improvisation",
     "m": "sự ứng tác",
-    "cat": "art"
+    "cat": "art",
+    "p": "ˌɪmpɹəvəzˈeɪʃən"
   },
   {
     "w": "composer",
     "m": "nhà soạn nhạc",
-    "cat": "art"
+    "cat": "art",
+    "p": "kəmpˈoʊzɚ"
   },
   {
     "w": "symphony",
     "m": "bản giao hưởng",
-    "cat": "art"
+    "cat": "art",
+    "p": "sˈɪmfəni"
   },
   {
     "w": "orchestra",
     "m": "dàn nhạc",
-    "cat": "art"
+    "cat": "art",
+    "p": "ˈɔːɹkᵻstɹə"
   },
   {
     "w": "acoustics",
     "m": "âm học",
-    "cat": "art"
+    "cat": "art",
+    "p": "ɐkˈuːstɪks"
   },
   {
     "w": "aesthetics",
     "m": "thẩm mỹ học",
-    "cat": "art"
+    "cat": "art",
+    "p": "ɛsθˈɛɾɪks"
   },
   {
     "w": "curriculum",
     "m": "chương trình giảng dạy",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "kɜːɹˈɪkjʊləm"
   },
   {
     "w": "pedagogy",
     "m": "phương pháp sư phạm",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "pˈɛdɐɡˌɑːɡi"
   },
   {
     "w": "literacy",
     "m": "khả năng đọc viết",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "lˈɪɾɚɹəsi"
   },
   {
     "w": "numeracy",
     "m": "khả năng tính toán",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "nˈuːmɚɹəsi"
   },
   {
     "w": "scholarship",
     "m": "học bổng; sự uyên bác",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "skˈɑːlɚʃˌɪp"
   },
   {
     "w": "thesis",
     "m": "luận văn",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "θˈiːsɪs"
   },
   {
     "w": "dissertation",
     "m": "luận án",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "dɪsɚtˈeɪʃən"
   },
   {
     "w": "seminar",
     "m": "hội thảo chuyên đề",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "sˈɛmɪnˌɑːɹ"
   },
   {
     "w": "tutorial",
     "m": "buổi phụ đạo",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "tuːtˈɔːɹɪəl"
   },
   {
     "w": "accreditation",
     "m": "sự công nhận, kiểm định",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ɐkɹˌɛdɪtˈeɪʃən"
   },
   {
     "w": "plagiarism",
     "m": "sự đạo văn",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "plˈeɪdʒɚɹˌɪzəm"
   },
   {
     "w": "citation",
     "m": "trích dẫn",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "saɪtˈeɪʃən"
   },
   {
     "w": "peer review",
     "m": "bình duyệt đồng cấp",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "pˈɪɹ ɹᵻvjˈuː"
   },
   {
     "w": "interdisciplinary",
     "m": "liên ngành",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ˌɪntɚdˈɪsɪplˌɪnɛɹi"
   },
   {
     "w": "empiricism",
     "m": "chủ nghĩa kinh nghiệm",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ɛmpˈɪɹɪsˌɪzəm"
   },
   {
     "w": "rationale",
     "m": "cơ sở lý luận",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "ɹˌæʃənˈæl"
   },
   {
     "w": "methodology",
     "m": "phương pháp luận",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "mˌɛθədˈɑːlədʒi"
   },
   {
     "w": "correlation",
     "m": "mối tương quan",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "kˌɔɹɪlˈeɪʃən"
   },
   {
     "w": "variable",
     "m": "biến số",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "vˈɛɹɪəbəl"
   },
   {
     "w": "hypothesis",
     "m": "giả thuyết",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "p": "haɪpˈɑːθəsˌɪs"
   }
 ]

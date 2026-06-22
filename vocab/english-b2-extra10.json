@@ -2,1241 +2,1489 @@
   {
     "w": "diligent",
     "m": "siêng năng cần mẫn",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dˈɪlɪdʒənt"
   },
   {
     "w": "industrious",
     "m": "chăm chỉ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɪndˈʌstɹiəs"
   },
   {
     "w": "conscientious",
     "m": "tận tâm chu đáo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kˌɑːnsɪˈɛnʃəs"
   },
   {
     "w": "meticulous",
     "m": "tỉ mỉ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "mɛtˈɪkjʊləs"
   },
   {
     "w": "thorough",
     "m": "kỹ lưỡng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "θˈʌɹoʊ"
   },
   {
     "w": "methodical",
     "m": "có phương pháp",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "mɛθˈɑːdɪkəl"
   },
   {
     "w": "organised",
     "m": "ngăn nắp có tổ chức",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈɔːɹɡɐnˌaɪzd"
   },
   {
     "w": "punctual",
     "m": "đúng giờ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pˈʌŋktʃuːəl"
   },
   {
     "w": "reliable",
     "m": "đáng tin cậy",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɹᵻlˈaɪəbəl"
   },
   {
     "w": "dependable",
     "m": "có thể trông cậy",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dᵻpˈɛndəbəl"
   },
   {
     "w": "trustworthy",
     "m": "đáng tin",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "tɹˈʌstwɜːði"
   },
   {
     "w": "loyal",
     "m": "trung thành",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "lˈɔɪəl"
   },
   {
     "w": "faithful",
     "m": "chung thủy",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "fˈeɪθfəl"
   },
   {
     "w": "devoted",
     "m": "tận tụy",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dɪvˈoʊɾᵻd"
   },
   {
     "w": "dedicated",
     "m": "hết lòng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dˈɛdᵻkˌeɪɾᵻd"
   },
   {
     "w": "ambitious",
     "m": "đầy tham vọng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "æmbˈɪʃəs"
   },
   {
     "w": "determined",
     "m": "quyết tâm",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dɪtˈɜːmɪnd"
   },
   {
     "w": "persistent",
     "m": "kiên trì",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pɚsˈɪstənt"
   },
   {
     "w": "resilient",
     "m": "kiên cường",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɹᵻsˈɪliənt"
   },
   {
     "w": "resourceful",
     "m": "tháo vát",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɹᵻsˈɔːɹsfəl"
   },
   {
     "w": "adaptable",
     "m": "dễ thích nghi",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɐdˈæptəbəl"
   },
   {
     "w": "versatile",
     "m": "đa năng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "vˈɜːsətˌaɪl"
   },
   {
     "w": "competent",
     "m": "có năng lực",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kˈɑːmpɪtənt"
   },
   {
     "w": "proficient",
     "m": "thành thạo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pɹəfˈɪʃənt"
   },
   {
     "w": "skilful",
     "m": "khéo léo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "skˈɪlfəl"
   },
   {
     "w": "talented",
     "m": "tài năng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "tˈæləntᵻd"
   },
   {
     "w": "gifted",
     "m": "có thiên phú",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɡˈɪftᵻd"
   },
   {
     "w": "ingenious",
     "m": "khéo léo sáng tạo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɪndʒˈiːniəs"
   },
   {
     "w": "innovative",
     "m": "đổi mới",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈɪnəvˌeɪɾɪv"
   },
   {
     "w": "imaginative",
     "m": "giàu trí tưởng tượng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɪmˈædʒɪnətˌɪv"
   },
   {
     "w": "perceptive",
     "m": "nhạy bén tinh ý",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pɚsˈɛptɪv"
   },
   {
     "w": "insightful",
     "m": "sâu sắc thấu đáo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɪnsˈaɪtfəl"
   },
   {
     "w": "astute",
     "m": "khôn ngoan sắc sảo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɐstˈuːt"
   },
   {
     "w": "shrewd",
     "m": "tinh ranh khôn khéo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ʃɹˈuːd"
   },
   {
     "w": "cunning",
     "m": "xảo quyệt",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kˈʌnɪŋ"
   },
   {
     "w": "sly",
     "m": "ranh mãnh",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "slˈaɪ"
   },
   {
     "w": "devious",
     "m": "quanh co lươn lẹo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dˈiːviəs"
   },
   {
     "w": "manipulative",
     "m": "hay thao túng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "mənˈɪpjʊlətˌɪv"
   },
   {
     "w": "deceitful",
     "m": "dối trá",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dᵻsˈiːtfəl"
   },
   {
     "w": "treacherous",
     "m": "phản trắc",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "tɹˈɛtʃɚɹəs"
   },
   {
     "w": "ruthless",
     "m": "tàn nhẫn",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɹˈuːθləs"
   },
   {
     "w": "merciless",
     "m": "không thương xót",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "mˈɜːsiləs"
   },
   {
     "w": "callous",
     "m": "chai sạn vô cảm",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kˈæləs"
   },
   {
     "w": "heartless",
     "m": "nhẫn tâm",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "hˈɑːɹtləs"
   },
   {
     "w": "cruel",
     "m": "độc ác",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kɹˈuːəl"
   },
   {
     "w": "vindictive",
     "m": "thù dai",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "vɪndˈɪktɪv"
   },
   {
     "w": "spiteful",
     "m": "hằn học",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "spˈaɪtfəl"
   },
   {
     "w": "malicious",
     "m": "hiểm độc",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "mɐlˈɪʃəs"
   },
   {
     "w": "hostile",
     "m": "thù địch",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "hˈɑːstəl"
   },
   {
     "w": "aggressive",
     "m": "hung hăng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɐɡɹˈɛsɪv"
   },
   {
     "w": "belligerent",
     "m": "hiếu chiến",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "bᵻlˈɪdʒɚɹənt"
   },
   {
     "w": "confrontational",
     "m": "hay đối đầu",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kɑːnfɹəntˈeɪʃənəl"
   },
   {
     "w": "argumentative",
     "m": "hay cãi",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˌɑːɹɡjuːmˈɛntətˌɪv"
   },
   {
     "w": "stubborn",
     "m": "bướng bỉnh",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "stˈʌbɚn"
   },
   {
     "w": "obstinate",
     "m": "ngoan cố",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈɑːbstᵻnət"
   },
   {
     "w": "headstrong",
     "m": "ương ngạnh",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "hˈɛdstɹɔŋ"
   },
   {
     "w": "defiant",
     "m": "thách thức chống đối",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dᵻfˈaɪənt"
   },
   {
     "w": "rebellious",
     "m": "nổi loạn",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɹᵻbˈɛliəs"
   },
   {
     "w": "impulsive",
     "m": "bốc đồng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɪmpˈʌlsɪv"
   },
   {
     "w": "reckless",
     "m": "liều lĩnh",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɹˈɛkləs"
   },
   {
     "w": "rash",
     "m": "hấp tấp",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɹˈæʃ"
   },
   {
     "w": "hasty",
     "m": "vội vàng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "hˈeɪsti"
   },
   {
     "w": "careless",
     "m": "bất cẩn",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kˈɛɹləs"
   },
   {
     "w": "negligent",
     "m": "cẩu thả",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "nˈɛɡlɪdʒənt"
   },
   {
     "w": "absent-minded",
     "m": "đãng trí",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈæbsəntmˈaɪndᵻd"
   },
   {
     "w": "forgetful",
     "m": "hay quên",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "fɚɡˈɛtfəl"
   },
   {
     "w": "clumsy",
     "m": "vụng về",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "klˈʌmzi"
   },
   {
     "w": "awkward",
     "m": "lóng ngóng, lúng túng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈɔːkwɚd"
   },
   {
     "w": "timid",
     "m": "nhút nhát",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "tˈɪmɪd"
   },
   {
     "w": "shy",
     "m": "e thẹn",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ʃˈaɪ"
   },
   {
     "w": "reserved",
     "m": "dè dặt kín đáo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɹɪzˈɜːvd"
   },
   {
     "w": "introverted",
     "m": "hướng nội",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈɪntɹəvˌɜːɾᵻd"
   },
   {
     "w": "withdrawn",
     "m": "thu mình khép kín",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "wɪθdɹˈɔːn"
   },
   {
     "w": "aloof",
     "m": "lạnh lùng xa cách",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɐlˈuːf"
   },
   {
     "w": "indifferent",
     "m": "thờ ơ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɪndˈɪfɹənt"
   },
   {
     "w": "apathetic",
     "m": "lãnh đạm",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˌæpɐθˈɛɾɪk"
   },
   {
     "w": "sociable",
     "m": "hòa đồng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "sˈoʊʃiəbəl"
   },
   {
     "w": "outgoing",
     "m": "cởi mở năng động",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "aʊtɡˈoʊɪŋ"
   },
   {
     "w": "gregarious",
     "m": "thích giao du",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɡɹɛɡˈɛɹiəs"
   },
   {
     "w": "charismatic",
     "m": "có sức hút",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kˌæɹɪsmˈæɾɪk"
   },
   {
     "w": "charming",
     "m": "quyến rũ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "tʃˈɑːɹmɪŋ"
   },
   {
     "w": "affable",
     "m": "dễ gần niềm nở",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈæfəbəl"
   },
   {
     "w": "amiable",
     "m": "dễ mến",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈeɪmiəbəl"
   },
   {
     "w": "genial",
     "m": "vui vẻ ân cần",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dʒˈiːnɪəl"
   },
   {
     "w": "cordial",
     "m": "thân tình",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kˈɔːɹdʒəl"
   },
   {
     "w": "courteous",
     "m": "lịch thiệp",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kˈɜːɾiəs"
   },
   {
     "w": "gracious",
     "m": "nhã nhặn ân cần",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɡɹˈeɪʃəs"
   },
   {
     "w": "considerate",
     "m": "chu đáo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kənsˈɪdɚɹət"
   },
   {
     "w": "thoughtful",
     "m": "ân cần chu đáo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "θˈɔːtfəl"
   },
   {
     "w": "compassionate",
     "m": "giàu lòng trắc ẩn",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kəmpˈæʃənət"
   },
   {
     "w": "sympathetic",
     "m": "thông cảm",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "sˌɪmpəθˈɛɾɪk"
   },
   {
     "w": "empathetic",
     "m": "đồng cảm",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˌɛmpɐθˈɛɾɪk"
   },
   {
     "w": "benevolent",
     "m": "nhân từ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "bənˈɛvələnt"
   },
   {
     "w": "generous",
     "m": "hào phóng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dʒˈɛnɚɹəs"
   },
   {
     "w": "selfless",
     "m": "vị tha quên mình",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "sˈɛlfləs"
   },
   {
     "w": "humble",
     "m": "khiêm tốn",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "hˈʌmbəl"
   },
   {
     "w": "modest",
     "m": "giản dị khiêm nhường",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "mˈɑːdɪst"
   },
   {
     "w": "unassuming",
     "m": "khiêm nhường giản dị",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ʌnɐsˈuːmɪŋ"
   },
   {
     "w": "down-to-earth",
     "m": "thực tế giản dị",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dˌaʊntʊˈɜːθ"
   },
   {
     "w": "easygoing",
     "m": "dễ tính thoải mái",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈiːzɪɡˌoʊɪŋ"
   },
   {
     "w": "laid-back",
     "m": "ung dung thư thái",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "lˈeɪdbˈæk"
   },
   {
     "w": "placid",
     "m": "điềm tĩnh",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "plˈæsɪd"
   },
   {
     "w": "serene",
     "m": "thanh thản",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "sɚɹˈiːn"
   },
   {
     "w": "composed",
     "m": "bình tĩnh tự chủ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kəmpˈoʊzd"
   },
   {
     "w": "level-headed",
     "m": "chín chắn điềm đạm",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "lˈɛvəlhˈɛdᵻd"
   },
   {
     "w": "rational",
     "m": "lý trí",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɹˈæʃənəl"
   },
   {
     "w": "sensible",
     "m": "biết điều hợp lý",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "sˈɛnsᵻbəl"
   },
   {
     "w": "practical",
     "m": "thực tế",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pɹˈæktɪkəl"
   },
   {
     "w": "pragmatic",
     "m": "thực dụng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pɹæɡmˈæɾɪk"
   },
   {
     "w": "decisive",
     "m": "quyết đoán",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dᵻsˈaɪsɪv"
   },
   {
     "w": "assertive",
     "m": "quả quyết tự tin",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɐsˈɜːɾɪv"
   },
   {
     "w": "confident",
     "m": "tự tin",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kˈɑːnfɪdənt"
   },
   {
     "w": "self-assured",
     "m": "tự tin vững vàng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "sˈɛlfəʃˈʊɹd"
   },
   {
     "w": "arrogant",
     "m": "kiêu căng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈæɹəɡənt"
   },
   {
     "w": "conceited",
     "m": "tự phụ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kənsˈiːɾᵻd"
   },
   {
     "w": "vain",
     "m": "hợm hĩnh",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "vˈeɪn"
   },
   {
     "w": "pompous",
     "m": "khoa trương tự đại",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pˈɑːmpəs"
   },
   {
     "w": "condescending",
     "m": "kẻ cả bề trên",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kˌɑːndᵻsˈɛndɪŋ"
   },
   {
     "w": "patronising",
     "m": "trịch thượng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pˈætɹənˌaɪzɪŋ"
   },
   {
     "w": "snobbish",
     "m": "hợm đời",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "snˈɑːbɪʃ"
   },
   {
     "w": "pretentious",
     "m": "làm bộ làm tịch",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pɹɪtˈɛnʃəs"
   },
   {
     "w": "hypocritical",
     "m": "đạo đức giả",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "hˌɪpəkɹˈɪɾɪkəl"
   },
   {
     "w": "insincere",
     "m": "không chân thành",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˌɪnsɪnsˈɪɹ"
   },
   {
     "w": "superficial",
     "m": "hời hợt nông cạn",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "sˈuːpɚfˈɪʃəl"
   },
   {
     "w": "shallow",
     "m": "nông cạn",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ʃˈæloʊ"
   },
   {
     "w": "frivolous",
     "m": "phù phiếm",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "fɹˈɪvələs"
   },
   {
     "w": "immature",
     "m": "non nớt trẻ con",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˌɪmətʃˈʊɹ"
   },
   {
     "w": "naive",
     "m": "ngây thơ cả tin",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "naɪˈiːv"
   },
   {
     "w": "gullible",
     "m": "dễ bị lừa",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɡˈʌlᵻbəl"
   },
   {
     "w": "eccentric",
     "m": "lập dị",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɛksˈɛntɹɪk"
   },
   {
     "w": "peculiar",
     "m": "kỳ quặc",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pɪkjˈuːlɪɹ"
   },
   {
     "w": "quirky",
     "m": "khác người ngộ nghĩnh",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kwˈɜːki"
   },
   {
     "w": "unconventional",
     "m": "phá cách",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ʌŋkənvˈɛnʃənəl"
   },
   {
     "w": "flamboyant",
     "m": "sặc sỡ phô trương",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "flˈæmbɔɪənt"
   },
   {
     "w": "melancholic",
     "m": "u sầu",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "mˌɛləŋkˈɑːlɪk"
   },
   {
     "w": "moody",
     "m": "thất thường ủ rũ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "mˈuːdi"
   },
   {
     "w": "temperamental",
     "m": "hay thay đổi tính khí",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "tˌɛmpɹəmˈɛntəl"
   },
   {
     "w": "irritable",
     "m": "dễ cáu",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈɪɹɪɾəbəl"
   },
   {
     "w": "grumpy",
     "m": "cáu kỉnh",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɡɹˈʌmpi"
   },
   {
     "w": "bad-tempered",
     "m": "nóng tính",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "bˈædtˈɛmpɚd"
   },
   {
     "w": "sullen",
     "m": "lầm lì ủ ê",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "sˈʌlən"
   },
   {
     "w": "morose",
     "m": "rầu rĩ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "mɚɹˈoʊs"
   },
   {
     "w": "gloomy",
     "m": "ảm đạm",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɡlˈuːmi"
   },
   {
     "w": "pessimistic",
     "m": "bi quan",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pˌɛsɪmˈɪstɪk"
   },
   {
     "w": "cynical",
     "m": "hoài nghi yếm thế",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "sˈɪnɪkəl"
   },
   {
     "w": "skeptical",
     "m": "đa nghi",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "skˈɛptɪkəl"
   },
   {
     "w": "suspicious",
     "m": "ngờ vực",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "səspˈɪʃəs"
   },
   {
     "w": "paranoid",
     "m": "hoang tưởng đa nghi",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pˈæɹənˌɔɪd"
   },
   {
     "w": "optimistic",
     "m": "lạc quan",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˌɑːptɪmˈɪstɪk"
   },
   {
     "w": "cheerful",
     "m": "vui vẻ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "tʃˈɪɹfəl"
   },
   {
     "w": "jovial",
     "m": "vui tính",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "dʒˈoʊvɪəl"
   },
   {
     "w": "vivacious",
     "m": "sôi nổi hoạt bát",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "vɪvˈeɪʃəs"
   },
   {
     "w": "energetic",
     "m": "tràn đầy năng lượng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˌɛnɚdʒˈɛɾɪk"
   },
   {
     "w": "enthusiastic",
     "m": "nhiệt tình",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ɛnθˌuːziˈæstɪk"
   },
   {
     "w": "passionate",
     "m": "đam mê",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "pˈæʃənət"
   },
   {
     "w": "spirited",
     "m": "hăng hái",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "spˈɪɹɪɾᵻd"
   },
   {
     "w": "lively",
     "m": "sống động",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "lˈaɪvli"
   },
   {
     "w": "dynamic",
     "m": "năng động",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "daɪnˈæmɪk"
   },
   {
     "w": "sluggish",
     "m": "chậm chạp uể oải",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "slˈʌɡɪʃ"
   },
   {
     "w": "lethargic",
     "m": "lờ đờ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "lɛθˈɑːɹdʒɪk"
   },
   {
     "w": "indolent",
     "m": "lười nhác",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈɪndələnt"
   },
   {
     "w": "idle",
     "m": "nhàn rỗi, lười",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "ˈaɪdəl"
   },
   {
     "w": "complacent",
     "m": "tự mãn",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "p": "kəmplˈeɪsənt"
   },
   {
     "w": "prosperity",
     "m": "sự thịnh vượng",
-    "cat": "society"
+    "cat": "society",
+    "p": "pɹəspˈɛɹᵻɾi"
   },
   {
     "w": "adversity",
     "m": "nghịch cảnh",
-    "cat": "society"
+    "cat": "society",
+    "p": "ædvˈɚsᵻɾi"
   },
   {
     "w": "hardship",
     "m": "sự gian khổ",
-    "cat": "society"
+    "cat": "society",
+    "p": "hˈɑːɹdʃɪp"
   },
   {
     "w": "misfortune",
     "m": "điều bất hạnh",
-    "cat": "society"
+    "cat": "society",
+    "p": "mɪsfˈɔːɹtʃʊn"
   },
   {
     "w": "calamity",
     "m": "tai họa",
-    "cat": "society"
+    "cat": "society",
+    "p": "kɐlˈæmᵻɾi"
   },
   {
     "w": "catastrophe",
     "m": "thảm họa",
-    "cat": "society"
+    "cat": "society",
+    "p": "kɐtˈæstɹəfi"
   },
   {
     "w": "disaster",
     "m": "thảm họa",
-    "cat": "society"
+    "cat": "society",
+    "p": "dɪzˈæstɚ"
   },
   {
     "w": "crisis",
     "m": "khủng hoảng",
-    "cat": "society"
+    "cat": "society",
+    "p": "kɹˈaɪsɪs"
   },
   {
     "w": "turmoil",
     "m": "sự rối ren",
-    "cat": "society"
+    "cat": "society",
+    "p": "tˈɜːmɔɪl"
   },
   {
     "w": "chaos",
     "m": "sự hỗn loạn",
-    "cat": "society"
+    "cat": "society",
+    "p": "kˈeɪɑːs"
   },
   {
     "w": "stability",
     "m": "sự ổn định",
-    "cat": "society"
+    "cat": "society",
+    "p": "stəbˈɪlᵻɾi"
   },
   {
     "w": "equilibrium",
     "m": "sự cân bằng",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˌiːkwɪlˈɪbɹiəm"
   },
   {
     "w": "harmony",
     "m": "sự hòa hợp",
-    "cat": "society"
+    "cat": "society",
+    "p": "hˈɑːɹməni"
   },
   {
     "w": "unity",
     "m": "sự đoàn kết",
-    "cat": "society"
+    "cat": "society",
+    "p": "jˈuːnɪɾi"
   },
   {
     "w": "solidarity",
     "m": "tình đoàn kết",
-    "cat": "society"
+    "cat": "society",
+    "p": "sˌɑːlɪdˈæɹᵻɾi"
   },
   {
     "w": "cohesion",
     "m": "sự gắn kết",
-    "cat": "society"
+    "cat": "society",
+    "p": "koʊhˈiːʒən"
   },
   {
     "w": "fragmentation",
     "m": "sự phân mảnh",
-    "cat": "society"
+    "cat": "society",
+    "p": "fɹˌæɡməntˈeɪʃən"
   },
   {
     "w": "polarisation",
     "m": "sự phân cực",
-    "cat": "society"
+    "cat": "society",
+    "p": "pˌoʊlɚɹəzˈeɪʃən"
   },
   {
     "w": "segregation",
     "m": "sự phân biệt tách biệt",
-    "cat": "society"
+    "cat": "society",
+    "p": "sˌɛɡɹɪɡˈeɪʃən"
   },
   {
     "w": "integration",
     "m": "sự hòa nhập",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˌɪntᵻɡɹˈeɪʃən"
   },
   {
     "w": "assimilation",
     "m": "sự đồng hóa",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɐsˌɪmɪlˈeɪʃən"
   },
   {
     "w": "diversity",
     "m": "sự đa dạng",
-    "cat": "society"
+    "cat": "society",
+    "p": "daɪvˈɜːsᵻɾi"
   },
   {
     "w": "tolerance",
     "m": "sự khoan dung",
-    "cat": "society"
+    "cat": "society",
+    "p": "tˈɑːlɚɹəns"
   },
   {
     "w": "prejudice",
     "m": "định kiến",
-    "cat": "society"
+    "cat": "society",
+    "p": "pɹˈɛdʒuːdɪs"
   },
   {
     "w": "bias",
     "m": "thiên kiến",
-    "cat": "society"
+    "cat": "society",
+    "p": "bˈaɪəs"
   },
   {
     "w": "stereotype",
     "m": "khuôn mẫu rập khuôn",
-    "cat": "society"
+    "cat": "society",
+    "p": "stˈɛɹɪˌoʊtaɪp"
   },
   {
     "w": "stigma",
     "m": "sự kỳ thị",
-    "cat": "society"
+    "cat": "society",
+    "p": "stˈɪɡmə"
   },
   {
     "w": "discrimination",
     "m": "sự phân biệt đối xử",
-    "cat": "society"
+    "cat": "society",
+    "p": "dɪskɹˌɪmᵻnˈeɪʃən"
   },
   {
     "w": "oppression",
     "m": "sự áp bức",
-    "cat": "society"
+    "cat": "society",
+    "p": "əpɹˈɛʃən"
   },
   {
     "w": "exploitation",
     "m": "sự bóc lột",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɛksplɔɪtˈeɪʃən"
   },
   {
     "w": "injustice",
     "m": "sự bất công",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɪndʒˈʌstɪs"
   },
   {
     "w": "inequality",
     "m": "sự bất bình đẳng",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɪniːkwˈɔlᵻɾi"
   },
   {
     "w": "poverty",
     "m": "sự nghèo đói",
-    "cat": "society"
+    "cat": "society",
+    "p": "pˈɑːvɚɾi"
   },
   {
     "w": "deprivation",
     "m": "sự thiếu thốn",
-    "cat": "society"
+    "cat": "society",
+    "p": "dˌɛpɹɪvˈeɪʃən"
   },
   {
     "w": "affluence",
     "m": "sự sung túc",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˈæfluːəns"
   },
   {
     "w": "abundance",
     "m": "sự dồi dào",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɐbˈʌndəns"
   },
   {
     "w": "scarcity",
     "m": "sự khan hiếm",
-    "cat": "society"
+    "cat": "society",
+    "p": "skˈɛɹsᵻɾi"
   },
   {
     "w": "surplus",
     "m": "sự dư thừa",
-    "cat": "society"
+    "cat": "society",
+    "p": "sˈɜːplʌs"
   },
   {
     "w": "welfare",
     "m": "phúc lợi",
-    "cat": "society"
+    "cat": "society",
+    "p": "wˈɛlfɛɹ"
   },
   {
     "w": "charity",
     "m": "hoạt động từ thiện",
-    "cat": "society"
+    "cat": "society",
+    "p": "tʃˈæɹᵻɾi"
   },
   {
     "w": "compassion",
     "m": "lòng trắc ẩn",
-    "cat": "society"
+    "cat": "society",
+    "p": "kəmpˈæʃən"
   },
   {
     "w": "empathy",
     "m": "sự thấu cảm",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˈɛmpəθi"
   },
   {
     "w": "altruism",
     "m": "lòng vị tha",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˈɔːltɹuːˌɪzəm"
   },
   {
     "w": "benevolence",
     "m": "lòng nhân từ",
-    "cat": "society"
+    "cat": "society",
+    "p": "bənˈɛvələns"
   },
   {
     "w": "reputation",
     "m": "danh tiếng",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɹˌɛpjuːtˈeɪʃən"
   },
   {
     "w": "prestige",
     "m": "uy tín",
-    "cat": "society"
+    "cat": "society",
+    "p": "pɹɛstˈiːʒ"
   },
   {
     "w": "status",
     "m": "địa vị",
-    "cat": "society"
+    "cat": "society",
+    "p": "stˈæɾəs"
   },
   {
     "w": "hierarchy",
     "m": "thứ bậc",
-    "cat": "society"
+    "cat": "society",
+    "p": "hˈaɪɚɹɑːɹki"
   },
   {
     "w": "authority",
     "m": "quyền uy",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɐθˈɔːɹɪɾi"
   },
   {
     "w": "influence",
     "m": "tầm ảnh hưởng",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˈɪnfluːəns"
   },
   {
     "w": "dominance",
     "m": "sự thống trị",
-    "cat": "society"
+    "cat": "society",
+    "p": "dˈɑːmɪnəns"
   },
   {
     "w": "subordination",
     "m": "sự lệ thuộc",
-    "cat": "society"
+    "cat": "society",
+    "p": "sˌʌbɔːɹdᵻnˈeɪʃən"
   },
   {
     "w": "autonomy",
     "m": "sự tự chủ",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɔːtˈɑːnəmi"
   },
   {
     "w": "dependence",
     "m": "sự phụ thuộc",
-    "cat": "society"
+    "cat": "society",
+    "p": "dᵻpˈɛndəns"
   },
   {
     "w": "interdependence",
     "m": "sự phụ thuộc lẫn nhau",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˌɪntɚdᵻpˈɛndəns"
   },
   {
     "w": "obligation",
     "m": "nghĩa vụ",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˌɑːblɪɡˈeɪʃən"
   },
   {
     "w": "commitment",
     "m": "sự cam kết",
-    "cat": "society"
+    "cat": "society",
+    "p": "kəmˈɪtmənt"
   },
   {
     "w": "accountability",
     "m": "trách nhiệm giải trình",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɐkˌaʊntəbˈɪlᵻɾi"
   },
   {
     "w": "transparency",
     "m": "sự minh bạch",
-    "cat": "society"
+    "cat": "society",
+    "p": "tɹænspˈæɹənsi"
   },
   {
     "w": "corruption",
     "m": "sự tham nhũng",
-    "cat": "society"
+    "cat": "society",
+    "p": "kɚɹˈʌpʃən"
   },
   {
     "w": "bribery",
     "m": "sự hối lộ",
-    "cat": "society"
+    "cat": "society",
+    "p": "bɹˈaɪbɚɹi"
   },
   {
     "w": "nepotism",
     "m": "sự thiên vị họ hàng",
-    "cat": "society"
+    "cat": "society",
+    "p": "nˈɛpətˌɪzəm"
   },
   {
     "w": "favouritism",
     "m": "sự thiên vị",
-    "cat": "society"
+    "cat": "society",
+    "p": "fˈeɪvɚɹˌɪɾɪzəm"
   },
   {
     "w": "meritocracy",
     "m": "chế độ trọng dụng nhân tài",
-    "cat": "society"
+    "cat": "society",
+    "p": "mˌɛɹɪtˈɑːkɹəsi"
   },
   {
     "w": "censorship",
     "m": "sự kiểm duyệt",
-    "cat": "society"
+    "cat": "society",
+    "p": "sˈɛnsɚʃˌɪp"
   },
   {
     "w": "propaganda",
     "m": "sự tuyên truyền",
-    "cat": "society"
+    "cat": "society",
+    "p": "pɹˌɑːpɐɡˈændə"
   },
   {
     "w": "surveillance",
     "m": "sự giám sát",
-    "cat": "society"
+    "cat": "society",
+    "p": "sɚvˈeɪləns"
   },
   {
     "w": "conformity",
     "m": "sự tuân theo số đông",
-    "cat": "society"
+    "cat": "society",
+    "p": "kənfˈɔːɹmᵻɾi"
   },
   {
     "w": "deviance",
     "m": "sự lệch chuẩn",
-    "cat": "society"
+    "cat": "society",
+    "p": "dˈiːviəns"
   },
   {
     "w": "rebellion",
     "m": "sự nổi loạn",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɹᵻbˈɛliən"
   },
   {
     "w": "revolution",
     "m": "cuộc cách mạng",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɹˌɛvəlˈuːʃən"
   },
   {
     "w": "reform",
     "m": "sự cải cách",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɹᵻfˈɔːɹm"
   },
   {
     "w": "progress",
     "m": "sự tiến bộ",
-    "cat": "society"
+    "cat": "society",
+    "p": "pɹˈɑːɡɹɛs"
   },
   {
     "w": "regression",
     "m": "sự thụt lùi",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɹᵻɡɹˈɛʃən"
   },
   {
     "w": "stagnation",
     "m": "sự trì trệ",
-    "cat": "society"
+    "cat": "society",
+    "p": "stæɡnˈeɪʃən"
   },
   {
     "w": "momentum",
     "m": "đà phát triển",
-    "cat": "society"
+    "cat": "society",
+    "p": "moʊmˈɛntəm"
   },
   {
     "w": "breakthrough",
     "m": "bước đột phá",
-    "cat": "society"
+    "cat": "society",
+    "p": "bɹˈeɪkθɹuː"
   },
   {
     "w": "milestone",
     "m": "cột mốc",
-    "cat": "society"
+    "cat": "society",
+    "p": "mˈaɪlstoʊn"
   },
   {
     "w": "setback",
     "m": "sự thụt lùi tạm thời",
-    "cat": "society"
+    "cat": "society",
+    "p": "sˈɛtbæk"
   },
   {
     "w": "obstacle",
     "m": "chướng ngại",
-    "cat": "society"
+    "cat": "society",
+    "p": "ˈɑːbstəkəl"
   },
   {
     "w": "hindrance",
     "m": "sự cản trở",
-    "cat": "society"
+    "cat": "society",
+    "p": "hˈɪndɹəns"
   },
   {
     "w": "impediment",
     "m": "trở ngại",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɪmpˈɛdɪmənt"
   },
   {
     "w": "deterrent",
     "m": "yếu tố răn đe",
-    "cat": "society"
+    "cat": "society",
+    "p": "dɪtˈɜːɹənt"
   },
   {
     "w": "incentive",
     "m": "động lực khuyến khích",
-    "cat": "society"
+    "cat": "society",
+    "p": "ɪnsˈɛntɪv"
   },
   {
     "w": "catalyst",
     "m": "chất xúc tác thúc đẩy",
-    "cat": "society"
+    "cat": "society",
+    "p": "kˈæɾɐlˌɪst"
   }
 ]
