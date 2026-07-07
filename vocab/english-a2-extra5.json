@@ -1,0 +1,128 @@
+[
+  {
+    "w": "have breakfast",
+    "p": "hæv ˈbrɛkfəst",
+    "m": "ăn sáng",
+    "cat": "daily"
+  },
+  {
+    "w": "go to work",
+    "p": "ɡoʊ tuː wɜːrk",
+    "m": "đi làm",
+    "cat": "daily"
+  },
+  {
+    "w": "come home",
+    "p": "kʌm hoʊm",
+    "m": "về nhà",
+    "cat": "daily"
+  },
+  {
+    "w": "last week",
+    "p": "læst wiːk",
+    "m": "tuần trước",
+    "cat": "time"
+  },
+  {
+    "w": "next month",
+    "p": "nɛkst mʌnθ",
+    "m": "tháng sau",
+    "cat": "time"
+  },
+  {
+    "w": "in the morning",
+    "p": "ɪn ðə ˈmɔːrnɪŋ",
+    "m": "vào buổi sáng",
+    "cat": "time"
+  },
+  {
+    "w": "at the moment",
+    "p": "æt ðə ˈmoʊmənt",
+    "m": "hiện tại, lúc này",
+    "cat": "time"
+  },
+  {
+    "w": "these days",
+    "p": "ðiːz deɪz",
+    "m": "dạo này, hiện nay",
+    "cat": "time"
+  },
+  {
+    "w": "lately",
+    "p": "ˈleɪtli",
+    "m": "gần đây, dạo gần đây",
+    "cat": "time"
+  },
+  {
+    "w": "since",
+    "p": "sɪns",
+    "m": "từ khi, kể từ, từ lúc",
+    "cat": "language"
+  },
+  {
+    "w": "for a while",
+    "p": "fɔːr ə waɪl",
+    "m": "một lúc, một khoảng thời gian",
+    "cat": "time"
+  },
+  {
+    "w": "oval",
+    "p": "ˈoʊvəl",
+    "m": "hình bầu dục",
+    "cat": "tính từ"
+  },
+  {
+    "w": "diamond",
+    "p": "ˈdaɪəmənd",
+    "m": "hình thoi; kim cương",
+    "cat": "tính từ"
+  },
+  {
+    "w": "out of stock",
+    "p": "aʊt əv stɒk",
+    "m": "hết hàng, không còn trong kho",
+    "cat": "shopping"
+  },
+  {
+    "w": "sold out",
+    "p": "soʊld aʊt",
+    "m": "đã bán hết",
+    "cat": "shopping"
+  },
+  {
+    "w": "ticket machine",
+    "p": "ˈtɪkɪt məˈʃiːn",
+    "m": "máy bán vé tự động",
+    "cat": "transport"
+  },
+  {
+    "w": "speed limit",
+    "p": "spiːd ˈlɪmɪt",
+    "m": "giới hạn tốc độ",
+    "cat": "transport"
+  },
+  {
+    "w": "parking",
+    "p": "ˈpɑːrkɪŋ",
+    "m": "bãi đỗ xe; việc đậu xe",
+    "cat": "transport"
+  },
+  {
+    "w": "text",
+    "p": "tɛkst",
+    "m": "nhắn tin, gửi tin nhắn văn bản",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "voicemail",
+    "p": "ˈvɔɪsmeɪl",
+    "m": "hộp thư thoại, tin nhắn thoại",
+    "cat": "công nghệ"
+  },
+  {
+    "w": "attic",
+    "p": "ˈætɪk",
+    "m": "gác xép, tầng áp mái",
+    "cat": "home"
+  }
+]
