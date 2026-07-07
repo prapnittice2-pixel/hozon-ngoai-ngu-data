@@ -1,0 +1,344 @@
+[
+  {
+    "w": "捡",
+    "p": "jiǎn",
+    "m": "nhặt lên, lượm",
+    "cat": "verb"
+  },
+  {
+    "w": "爬",
+    "p": "pá",
+    "m": "bò, leo, trèo",
+    "cat": "verb"
+  },
+  {
+    "w": "洗",
+    "p": "xǐ",
+    "m": "rửa, giặt",
+    "cat": "verb"
+  },
+  {
+    "w": "踢",
+    "p": "tī",
+    "m": "đá (bóng)",
+    "cat": "verb"
+  },
+  {
+    "w": "佩服",
+    "p": "pèifú",
+    "m": "khâm phục, ngưỡng mộ",
+    "cat": "cảm xúc"
+  },
+  {
+    "w": "还没",
+    "p": "hái méi",
+    "m": "vẫn chưa",
+    "cat": "language"
+  },
+  {
+    "w": "逛街",
+    "p": "guàngjiē",
+    "m": "đi dạo phố, mua sắm dạo",
+    "cat": "verb"
+  },
+  {
+    "w": "工厂",
+    "p": "gōngchǎng",
+    "m": "nhà máy, xí nghiệp",
+    "cat": "place"
+  },
+  {
+    "w": "停车场",
+    "p": "tíngchēchǎng",
+    "m": "bãi đỗ xe",
+    "cat": "place"
+  },
+  {
+    "w": "百货商店",
+    "p": "bǎihuò shāngdiàn",
+    "m": "cửa hàng bách hóa, trung tâm thương mại",
+    "cat": "place"
+  },
+  {
+    "w": "厨师",
+    "p": "chúshī",
+    "m": "đầu bếp, người nấu ăn",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "服务员",
+    "p": "fúwùyuán",
+    "m": "nhân viên phục vụ, bồi bàn",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "科学家",
+    "p": "kēxuéjiā",
+    "m": "nhà khoa học",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "邮递员",
+    "p": "yóudìyuán",
+    "m": "người đưa thư, nhân viên bưu điện",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "消防员",
+    "p": "xiāofángyuán",
+    "m": "lính cứu hỏa",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "飞行员",
+    "p": "fēixíngyuán",
+    "m": "phi công",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "工人",
+    "p": "gōngrén",
+    "m": "công nhân, thợ",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "农民",
+    "p": "nóngmín",
+    "m": "nông dân",
+    "cat": "nghề nghiệp"
+  },
+  {
+    "w": "腰",
+    "p": "yāo",
+    "m": "eo, lưng dưới",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "手掌",
+    "p": "shǒuzhǎng",
+    "m": "lòng bàn tay",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "手腕",
+    "p": "shǒuwàn",
+    "m": "cổ tay",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "膝盖",
+    "p": "xīgài",
+    "m": "đầu gối",
+    "cat": "cơ thể"
+  },
+  {
+    "w": "梨",
+    "p": "lí",
+    "m": "quả lê",
+    "cat": "food"
+  },
+  {
+    "w": "桃",
+    "p": "táo",
+    "m": "quả đào",
+    "cat": "food"
+  },
+  {
+    "w": "蛋",
+    "p": "dàn",
+    "m": "trứng",
+    "cat": "food"
+  },
+  {
+    "w": "粥",
+    "p": "zhōu",
+    "m": "cháo",
+    "cat": "food"
+  },
+  {
+    "w": "冰淇淋",
+    "p": "bīngqílín",
+    "m": "kem lạnh",
+    "cat": "food"
+  },
+  {
+    "w": "绿茶",
+    "p": "lǜchá",
+    "m": "trà xanh",
+    "cat": "food"
+  },
+  {
+    "w": "折扣",
+    "p": "zhékòu",
+    "m": "giảm giá, chiết khấu",
+    "cat": "shopping"
+  },
+  {
+    "w": "木头",
+    "p": "mùtou",
+    "m": "gỗ, khúc gỗ",
+    "cat": "material"
+  },
+  {
+    "w": "石头",
+    "p": "shítou",
+    "m": "đá, hòn đá",
+    "cat": "material"
+  },
+  {
+    "w": "铁",
+    "p": "tiě",
+    "m": "sắt",
+    "cat": "material"
+  },
+  {
+    "w": "金",
+    "p": "jīn",
+    "m": "vàng, kim loại",
+    "cat": "material"
+  },
+  {
+    "w": "银",
+    "p": "yín",
+    "m": "bạc",
+    "cat": "material"
+  },
+  {
+    "w": "塑料",
+    "p": "sùliào",
+    "m": "nhựa, chất dẻo",
+    "cat": "material"
+  },
+  {
+    "w": "玻璃",
+    "p": "bōlí",
+    "m": "kính, thủy tinh",
+    "cat": "material"
+  },
+  {
+    "w": "河流",
+    "p": "héliú",
+    "m": "sông, dòng chảy",
+    "cat": "nature"
+  },
+  {
+    "w": "树叶",
+    "p": "shùyè",
+    "m": "lá cây",
+    "cat": "nature"
+  },
+  {
+    "w": "根",
+    "p": "gēn",
+    "m": "rễ, gốc",
+    "cat": "nature"
+  },
+  {
+    "w": "种子",
+    "p": "zhǒngzi",
+    "m": "hạt giống",
+    "cat": "nature"
+  },
+  {
+    "w": "沙子",
+    "p": "shāzi",
+    "m": "cát",
+    "cat": "nature"
+  },
+  {
+    "w": "岸",
+    "p": "àn",
+    "m": "bờ (sông, biển)",
+    "cat": "nature"
+  },
+  {
+    "w": "池塘",
+    "p": "chítáng",
+    "m": "ao, hồ nhỏ",
+    "cat": "nature"
+  },
+  {
+    "w": "牙刷",
+    "p": "yáshuā",
+    "m": "bàn chải đánh răng",
+    "cat": "home"
+  },
+  {
+    "w": "枕头",
+    "p": "zhěntou",
+    "m": "cái gối",
+    "cat": "home"
+  },
+  {
+    "w": "被子",
+    "p": "bèizi",
+    "m": "chăn, chăn bông",
+    "cat": "home"
+  },
+  {
+    "w": "梳子",
+    "p": "shūzi",
+    "m": "lược chải tóc",
+    "cat": "home"
+  },
+  {
+    "w": "盆",
+    "p": "pén",
+    "m": "chậu, thau",
+    "cat": "home"
+  },
+  {
+    "w": "桶",
+    "p": "tǒng",
+    "m": "thùng, xô",
+    "cat": "home"
+  },
+  {
+    "w": "领带",
+    "p": "lǐngdài",
+    "m": "cà vạt",
+    "cat": "clothing"
+  },
+  {
+    "w": "戒指",
+    "p": "jièzhi",
+    "m": "nhẫn",
+    "cat": "clothing"
+  },
+  {
+    "w": "耳环",
+    "p": "ěrhuán",
+    "m": "hoa tai, khuyên tai",
+    "cat": "clothing"
+  },
+  {
+    "w": "猴子",
+    "p": "hóuzi",
+    "m": "con khỉ",
+    "cat": "động vật"
+  },
+  {
+    "w": "节假日",
+    "p": "jiéjiàrì",
+    "m": "ngày lễ, ngày nghỉ",
+    "cat": "time"
+  },
+  {
+    "w": "工作日",
+    "p": "gōngzuòrì",
+    "m": "ngày làm việc",
+    "cat": "time"
+  },
+  {
+    "w": "假期",
+    "p": "jiàqī",
+    "m": "kỳ nghỉ, kỳ nghỉ phép",
+    "cat": "time"
+  },
+  {
+    "w": "臭",
+    "p": "chòu",
+    "m": "hôi, thối",
+    "cat": "tính từ"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "w": "看病",
+    "p": "kàn bìng",
+    "m": "đi khám bệnh, đến gặp bác sĩ",
+    "cat": "health"
+  },
+  {
+    "w": "杯子",
+    "p": "bēizi",
+    "m": "cái cốc, ly uống nước",
+    "cat": "home"
+  },
+  {
+    "w": "叉子",
+    "p": "chāzi",
+    "m": "cái nĩa",
+    "cat": "home"
+  },
+  {
+    "w": "剪刀",
+    "p": "jiǎndāo",
+    "m": "cái kéo",
+    "cat": "home"
+  },
+  {
+    "w": "窗帘",
+    "p": "chuānglián",
+    "m": "rèm cửa, màn che",
+    "cat": "home"
+  },
+  {
+    "w": "床单",
+    "p": "chuángdān",
+    "m": "ga trải giường, khăn trải giường",
+    "cat": "home"
+  },
+  {
+    "w": "扫地",
+    "p": "sǎo dì",
+    "m": "quét nhà, quét sàn",
+    "cat": "verb"
+  },
+  {
+    "w": "倒垃圾",
+    "p": "dào lājī",
+    "m": "đổ rác, mang rác ra ngoài",
+    "cat": "verb"
+  },
+  {
+    "w": "大衣",
+    "p": "dàyī",
+    "m": "áo khoác dài, áo măng tô",
+    "cat": "clothing"
+  },
+  {
+    "w": "夹克",
+    "p": "jiākè",
+    "m": "áo khoác ngắn, jacket",
+    "cat": "clothing"
+  },
+  {
+    "w": "背包",
+    "p": "bēibāo",
+    "m": "ba lô, túi đeo lưng",
+    "cat": "clothing"
+  },
+  {
+    "w": "难道",
+    "p": "nándào",
+    "m": "lẽ nào, chẳng lẽ (câu hỏi tu từ)",
+    "cat": "language"
+  },
+  {
+    "w": "闪电",
+    "p": "shǎndiàn",
+    "m": "tia sét, chớp",
+    "cat": "nature"
+  },
+  {
+    "w": "雾",
+    "p": "wù",
+    "m": "sương mù",
+    "cat": "nature"
+  },
+  {
+    "w": "草坪",
+    "p": "cǎopíng",
+    "m": "bãi cỏ, thảm cỏ",
+    "cat": "nature"
+  }
+]
