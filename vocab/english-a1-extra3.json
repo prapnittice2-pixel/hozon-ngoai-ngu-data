@@ -1,0 +1,26 @@
+[
+  {
+    "w": "weather",
+    "p": "wˈɛðɚ",
+    "m": "thời tiết",
+    "cat": "nature"
+  },
+  {
+    "w": "sport",
+    "p": "spˈoːɹt",
+    "m": "thể thao, môn thể thao",
+    "cat": "sport"
+  },
+  {
+    "w": "letter",
+    "p": "lˈɛɾɚ",
+    "m": "chữ cái; bức thư",
+    "cat": "school"
+  },
+  {
+    "w": "alphabet",
+    "p": "ˈælfəbɛt",
+    "m": "bảng chữ cái",
+    "cat": "school"
+  }
+]

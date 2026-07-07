@@ -1,0 +1,128 @@
+[
+  {
+    "w": "今年",
+    "p": "jīnnián",
+    "m": "năm nay",
+    "cat": "time"
+  },
+  {
+    "w": "去年",
+    "p": "qùnián",
+    "m": "năm ngoái",
+    "cat": "time"
+  },
+  {
+    "w": "明年",
+    "p": "míngnián",
+    "m": "năm sau",
+    "cat": "time"
+  },
+  {
+    "w": "上个月",
+    "p": "shàng ge yuè",
+    "m": "tháng trước",
+    "cat": "time"
+  },
+  {
+    "w": "下个月",
+    "p": "xià ge yuè",
+    "m": "tháng sau",
+    "cat": "time"
+  },
+  {
+    "w": "上周",
+    "p": "shàng zhōu",
+    "m": "tuần trước",
+    "cat": "time"
+  },
+  {
+    "w": "下周",
+    "p": "xià zhōu",
+    "m": "tuần sau",
+    "cat": "time"
+  },
+  {
+    "w": "月初",
+    "p": "yuèchū",
+    "m": "đầu tháng",
+    "cat": "time"
+  },
+  {
+    "w": "月底",
+    "p": "yuèdǐ",
+    "m": "cuối tháng",
+    "cat": "time"
+  },
+  {
+    "w": "刚刚",
+    "p": "gānggāng",
+    "m": "vừa mới, vừa xong",
+    "cat": "time"
+  },
+  {
+    "w": "楼上",
+    "p": "lóushàng",
+    "m": "tầng trên, lầu trên",
+    "cat": "place"
+  },
+  {
+    "w": "楼下",
+    "p": "lóuxià",
+    "m": "tầng dưới, lầu dưới",
+    "cat": "place"
+  },
+  {
+    "w": "门口",
+    "p": "ménkǒu",
+    "m": "cửa ra vào, ngay cổng",
+    "cat": "place"
+  },
+  {
+    "w": "那边",
+    "p": "nàbiān",
+    "m": "phía đó, bên đó",
+    "cat": "place"
+  },
+  {
+    "w": "这边",
+    "p": "zhèbiān",
+    "m": "phía này, bên này",
+    "cat": "place"
+  },
+  {
+    "w": "哪边",
+    "p": "nǎbiān",
+    "m": "phía nào, bên nào",
+    "cat": "place"
+  },
+  {
+    "w": "不好意思",
+    "p": "bù hǎoyìsi",
+    "m": "xin lỗi, ngại ngùng, xấu hổ",
+    "cat": "greeting"
+  },
+  {
+    "w": "没问题",
+    "p": "méi wèntí",
+    "m": "không vấn đề gì, được thôi",
+    "cat": "greeting"
+  },
+  {
+    "w": "上午好",
+    "p": "shàngwǔ hǎo",
+    "m": "chào buổi sáng",
+    "cat": "greeting"
+  },
+  {
+    "w": "下午好",
+    "p": "xiàwǔ hǎo",
+    "m": "chào buổi chiều",
+    "cat": "greeting"
+  },
+  {
+    "w": "晚上好",
+    "p": "wǎnshàng hǎo",
+    "m": "chào buổi tối",
+    "cat": "greeting"
+  }
+]

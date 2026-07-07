@@ -2227,6 +2227,791 @@
           }
         ]
       }
+    },
+    {
+      "title": "Lesson 7: Idioms & Fixed Expressions (C2)",
+      "type": "vocabulary",
+      "xp": 45,
+      "min": 20,
+      "order": 7,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "At C2 level, idiomatic mastery separates proficient users from truly native-like speakers. These fixed expressions, proverbs and idioms are deeply embedded in professional discourse, literature and everyday sophisticated conversation. Understanding them is essential for full comprehension of English media.",
+        "vocabulary": [
+          {
+            "word": "Burn one's bridges",
+            "pinyin": "/bɜːrn wʌnz ˈbrɪdʒɪz/",
+            "meaning": "Đốt cầu sau lưng — không để đường lui",
+            "example": "By publicly criticising her employer, she burned her bridges and made future employment in the industry impossible.",
+            "example_vi": "Bằng cách công khai chỉ trích người sử dụng lao động, cô ấy đã đốt cầu sau lưng và làm việc tìm kiếm việc làm trong ngành sau này trở nên bất khả thi.",
+            "tags": [
+              "idioms"
+            ]
+          },
+          {
+            "word": "The tip of the iceberg",
+            "pinyin": "/ðə tɪp əv ðə ˈaɪsbɜːrɡ/",
+            "meaning": "Phần nổi của tảng băng — chỉ là phần nhỏ của vấn đề lớn hơn",
+            "example": "The reported cases represent only the tip of the iceberg; the actual scale of the problem is far greater.",
+            "example_vi": "Các trường hợp được báo cáo chỉ là phần nổi của tảng băng; quy mô thực sự của vấn đề lớn hơn rất nhiều.",
+            "tags": [
+              "idioms"
+            ]
+          },
+          {
+            "word": "A double-edged sword",
+            "pinyin": "/ə ˌdʌbl edʒd ˈsɔːrd/",
+            "meaning": "Con dao hai lưỡi — thứ vừa có lợi vừa có hại",
+            "example": "Social media is a double-edged sword: it connects people but also spreads misinformation rapidly.",
+            "example_vi": "Mạng xã hội là con dao hai lưỡi: kết nối mọi người nhưng cũng lan truyền thông tin sai lệch rất nhanh.",
+            "tags": [
+              "idioms"
+            ]
+          },
+          {
+            "word": "Bite the bullet",
+            "pinyin": "/baɪt ðə ˈbʊlɪt/",
+            "meaning": "Cắn răng chịu đựng — làm điều không muốn nhưng cần thiết",
+            "example": "We'll just have to bite the bullet and accept the terms, even if they're not ideal.",
+            "example_vi": "Chúng ta sẽ phải cắn răng chấp nhận các điều khoản, dù chúng không lý tưởng.",
+            "tags": [
+              "idioms"
+            ]
+          },
+          {
+            "word": "Cut corners",
+            "pinyin": "/kʌt ˈkɔːrnərz/",
+            "meaning": "Làm tắt, tiết kiệm không đúng chỗ — bỏ qua bước cần thiết",
+            "example": "The contractor cut corners on safety measures, which eventually led to the accident.",
+            "example_vi": "Nhà thầu đã làm tắt về các biện pháp an toàn, điều này cuối cùng dẫn đến tai nạn.",
+            "tags": [
+              "idioms"
+            ]
+          },
+          {
+            "word": "On the fence",
+            "pinyin": "/ɒn ðə fens/",
+            "meaning": "Đứng giữa hàng rào — chưa quyết định, trung lập",
+            "example": "The senator remained on the fence about the bill, refusing to commit to either side.",
+            "example_vi": "Thượng nghị sĩ vẫn đứng giữa hàng rào về dự luật, từ chối cam kết với bên nào.",
+            "tags": [
+              "idioms"
+            ]
+          },
+          {
+            "word": "Move the goalposts",
+            "pinyin": "/muːv ðə ˈɡoʊlpəʊsts/",
+            "meaning": "Di chuyển cột gôn — thay đổi quy tắc sau khi đã bắt đầu",
+            "example": "Every time we met their demands, they moved the goalposts and made new requirements.",
+            "example_vi": "Mỗi lần chúng tôi đáp ứng yêu cầu của họ, họ lại di chuyển cột gôn và đưa ra yêu cầu mới.",
+            "tags": [
+              "idioms"
+            ]
+          },
+          {
+            "word": "Reinvent the wheel",
+            "pinyin": "/ˌriːɪnˈvent ðə wiːl/",
+            "meaning": "Phát minh lại cái bánh xe — làm lại thứ đã có sẵn (vô ích)",
+            "example": "There's no need to reinvent the wheel; existing frameworks can be adapted for our purpose.",
+            "example_vi": "Không cần phát minh lại cái bánh xe; các khung có sẵn có thể được điều chỉnh cho mục đích của chúng ta.",
+            "tags": [
+              "idioms"
+            ]
+          },
+          {
+            "word": "Play devil's advocate",
+            "pinyin": "/pleɪ ˈdevlz ˈædvəkɪt/",
+            "meaning": "Đóng vai phản biện — lập luận phía ngược lại để kiểm tra lý luận",
+            "example": "I'm not saying I disagree, but let me play devil's advocate: what if the opposite approach works better?",
+            "example_vi": "Tôi không nói rằng tôi không đồng ý, nhưng hãy để tôi đóng vai phản biện: điều gì sẽ xảy ra nếu cách tiếp cận ngược lại tốt hơn?",
+            "tags": [
+              "idioms"
+            ]
+          },
+          {
+            "word": "A blessing in disguise",
+            "pinyin": "/ə ˈblesɪŋ ɪn dɪsˈɡaɪz/",
+            "meaning": "Phúc hoạ khó lường — điều tưởng xấu hóa ra lại tốt",
+            "example": "Losing that job turned out to be a blessing in disguise; it pushed her to start her own company.",
+            "example_vi": "Mất công việc đó hóa ra là phúc hoạ khó lường; nó đã thúc đẩy cô ấy thành lập công ty riêng.",
+            "tags": [
+              "idioms"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Using idioms naturally — register and context",
+            "explanation": "C2 users know WHEN to use idioms, not just what they mean. Idioms are typically informal-to-neutral register. Avoid them in formal academic writing, legal documents, or technical reports. They work well in: journalism, opinion pieces, speeches, casual professional conversations, and creative writing. The key is contextual awareness — the same expression can be witty in a column and inappropriate in a thesis.",
+            "examples": [
+              "Appropriate (journalism): 'The initial figures are just the tip of the iceberg, analysts warn.' = (báo chí: phù hợp)",
+              "Inappropriate (academic thesis): 'The data suggests we are seeing just the tip of the iceberg regarding...' → Replace with: '...merely the initial manifestation of...' (dùng văn học thuật thay idiom)"
+            ]
+          },
+          {
+            "title": "Extending idioms for rhetorical effect",
+            "explanation": "Advanced speakers sometimes extend an idiom metaphorically for stylistic impact. This is a sophisticated rhetorical device: take a well-known idiom and extend its metaphor one step further. This shows both mastery and creativity.",
+            "examples": [
+              "Base: 'Social media is a double-edged sword.' Extension: '...and we have already cut ourselves on both edges.'",
+              "Base: 'We need to bite the bullet.' Extension: '...but first we must ensure we know exactly where it's aimed.'"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What does 'burn one's bridges' mean?",
+            "options": [
+              "To destroy physical infrastructure",
+              "To eliminate the possibility of going back or reconciling",
+              "To work extremely hard",
+              "To take a shortcut"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "If a manager 'moves the goalposts', they:",
+            "options": [
+              "Improve the team's performance",
+              "Change the requirements after work has begun",
+              "Achieve an important milestone",
+              "Delegate responsibilities"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "A blessing in disguise",
+            "q": "What does the expression just heard mean?",
+            "options": [
+              "An obvious advantage",
+              "Something seemingly bad that turns out to be good",
+              "A hidden danger",
+              "An unexpected setback"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Cut corners",
+            "q": "Choose the correct meaning:",
+            "options": [
+              "To navigate efficiently",
+              "To skip necessary steps to save time or money",
+              "To sharpen one's skills",
+              "To reduce staff numbers"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: 'I don't personally agree with this view, but let me ___ and argue the other side.' (đóng vai phản biện)",
+            "options": [
+              "play devil's advocate",
+              "burn my bridges",
+              "cut corners",
+              "move the goalposts"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Complete the idiom: 'The reported cases are just the tip of the ___' (1 word):",
+            "options": [
+              "iceberg"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 8: Academic Collocations & Hedging",
+      "type": "vocabulary",
+      "xp": 45,
+      "min": 20,
+      "order": 8,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Academic English at C2 level is not just about vocabulary — it's about precise collocations and the art of 'hedging' (softening claims appropriately). These patterns are the hallmark of high-scoring IELTS Band 9, TOEFL 115+, and Cambridge CPE writing. Mastery of these turns your writing from proficient to native-like.",
+        "vocabulary": [
+          {
+            "word": "Draw a distinction",
+            "pinyin": "/drɔː ə dɪˈstɪŋkʃn/",
+            "meaning": "Phân biệt rõ ràng (collocation học thuật)",
+            "example": "It is essential to draw a clear distinction between correlation and causation.",
+            "example_vi": "Điều quan trọng là phải phân biệt rõ ràng giữa tương quan và quan hệ nhân quả.",
+            "tags": [
+              "collocations"
+            ]
+          },
+          {
+            "word": "Shed light on",
+            "pinyin": "/ʃed laɪt ɒn/",
+            "meaning": "Làm sáng tỏ, giải thích (collocation học thuật)",
+            "example": "The new research sheds considerable light on the mechanisms of long-term memory.",
+            "example_vi": "Nghiên cứu mới làm sáng tỏ đáng kể về cơ chế của trí nhớ dài hạn.",
+            "tags": [
+              "collocations"
+            ]
+          },
+          {
+            "word": "It could be argued that",
+            "pinyin": "/ɪt kʊd biː ˈɑːɡjuːd ðæt/",
+            "meaning": "Có thể lập luận rằng (hedging phrase)",
+            "example": "It could be argued that the policy has had unintended consequences.",
+            "example_vi": "Có thể lập luận rằng chính sách này đã có những hậu quả không mong muốn.",
+            "tags": [
+              "hedging"
+            ]
+          },
+          {
+            "word": "To a certain extent",
+            "pinyin": "/tə ə ˈsɜːrtn ɪkˈstent/",
+            "meaning": "Ở một mức độ nào đó (hedging)",
+            "example": "To a certain extent, economic growth depends on political stability.",
+            "example_vi": "Ở một mức độ nào đó, tăng trưởng kinh tế phụ thuộc vào ổn định chính trị.",
+            "tags": [
+              "hedging"
+            ]
+          },
+          {
+            "word": "Have significant implications for",
+            "pinyin": "/hæv sɪɡˈnɪfɪkənt ɪmplɪˈkeɪʃənz fɔːr/",
+            "meaning": "Có ý nghĩa/hàm ý quan trọng đối với",
+            "example": "These findings have significant implications for public health policy.",
+            "example_vi": "Những phát hiện này có ý nghĩa quan trọng đối với chính sách y tế công cộng.",
+            "tags": [
+              "collocations"
+            ]
+          },
+          {
+            "word": "Warrants further investigation",
+            "pinyin": "/ˈwɒrənts ˈfɜːrðər ɪnˌvestɪˈɡeɪʃn/",
+            "meaning": "Đáng được điều tra thêm",
+            "example": "Whether this correlation reflects causation warrants further investigation.",
+            "example_vi": "Liệu mối tương quan này có phản ánh quan hệ nhân quả hay không đáng được điều tra thêm.",
+            "tags": [
+              "collocations"
+            ]
+          },
+          {
+            "word": "The evidence suggests",
+            "pinyin": "/ðə ˈevɪdəns səˈdʒests/",
+            "meaning": "Bằng chứng cho thấy (hedging)",
+            "example": "The evidence suggests a strong link between sleep deprivation and cognitive decline.",
+            "example_vi": "Bằng chứng cho thấy có mối liên hệ chặt chẽ giữa thiếu ngủ và suy giảm nhận thức.",
+            "tags": [
+              "hedging"
+            ]
+          },
+          {
+            "word": "Throw into question",
+            "pinyin": "/θrəʊ ˈɪntə ˈkwestʃən/",
+            "meaning": "Đặt vào nghi vấn, đặt dấu hỏi cho",
+            "example": "The new data throws into question the validity of the previous model.",
+            "example_vi": "Dữ liệu mới đặt dấu hỏi cho tính hợp lệ của mô hình trước đây.",
+            "tags": [
+              "collocations"
+            ]
+          },
+          {
+            "word": "In the light of",
+            "pinyin": "/ɪn ðə laɪt əv/",
+            "meaning": "Dưới ánh sáng của, căn cứ vào",
+            "example": "In the light of recent developments, the committee has revised its recommendations.",
+            "example_vi": "Căn cứ vào các diễn biến gần đây, ủy ban đã xem xét lại các khuyến nghị.",
+            "tags": [
+              "collocations"
+            ]
+          },
+          {
+            "word": "Far from straightforward",
+            "pinyin": "/fɑːr frɒm ˈstreɪtˈfɔːrwərd/",
+            "meaning": "Hoàn toàn không đơn giản, phức tạp hơn nhiều so với vẻ ngoài",
+            "example": "The relationship between language and thought is far from straightforward.",
+            "example_vi": "Mối quan hệ giữa ngôn ngữ và tư duy hoàn toàn không đơn giản.",
+            "tags": [
+              "collocations"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Hedging — The academic art of being appropriately uncertain",
+            "explanation": "Hedging is the use of cautious language to signal that claims may not be absolute. Over-confident assertions are a sign of unsophisticated writing. Strong writers hedge with: modal verbs (may, might, could, would), adverbs (arguably, possibly, seemingly, apparently), reporting verbs (suggests, indicates, appears to), and impersonal phrases (it could be argued that, there is reason to believe). The goal is precision, not weakness.",
+            "examples": [
+              "Unhedged (weak): 'Social media causes depression.' (absolute, unsubstantiated)",
+              "Hedged (strong): 'Evidence suggests that heavy social media use may be associated with heightened levels of anxiety and depression, particularly among adolescents.' (hedged with 'evidence suggests', 'may be', 'associated with', qualified by 'particularly among')"
+            ]
+          },
+          {
+            "title": "Academic collocation patterns: Verb + Noun clusters",
+            "explanation": "English academic writing relies heavily on fixed Verb+Noun collocations. Unlike in everyday English, these verb choices are often non-obvious. Key patterns: draw (a conclusion / a distinction / an analogy), shed (light on / doubt on), raise (a question / concerns / awareness), have (implications / ramifications / repercussions for), call into question, throw into relief. Native-like writing uses these naturally.",
+            "examples": [
+              "'The study draws a clear distinction between…' NOT 'The study makes a distinction…' (though both are used, 'draws' is more academic)",
+              "'This finding raises serious concerns about...' NOT 'This finding creates worries about...' (register mismatch)"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Which phrase is an example of 'hedging' in academic writing?",
+            "options": [
+              "'Social media causes depression.'",
+              "'The evidence suggests a possible link between...'",
+              "'It is absolutely certain that...'",
+              "'The study proves conclusively that...'"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "Choose the correct collocation: 'The research ___ light on the mechanisms of memory.'",
+            "options": [
+              "shines",
+              "throws",
+              "sheds",
+              "casts"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Draw a distinction",
+            "q": "What does the phrase just heard mean in academic English?",
+            "options": [
+              "To create a drawing",
+              "To end an argument",
+              "To make a clear difference between two things",
+              "To select a random example"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "Warrants further investigation",
+            "q": "Choose the correct meaning:",
+            "options": [
+              "Has been fully explained",
+              "Has no further relevance",
+              "Deserves additional research",
+              "Has already been disproven"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: '___ recent findings, the original theory must be reconsidered.' (căn cứ vào)",
+            "options": [
+              "In the light of",
+              "Due to the fact that",
+              "It could be argued",
+              "The evidence suggests"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Complete: 'The causes of this phenomenon are ___ from straightforward.' (hoàn toàn không đơn giản — 3 letters):",
+            "options": [
+              "far"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 9: Advanced Discourse Markers",
+      "type": "vocabulary",
+      "xp": 45,
+      "min": 20,
+      "order": 9,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "Discourse markers are the glue of sophisticated English. At C2, these are not just linking words — they signal logical relationships, speaker attitude, and the architecture of an argument. Mastering the nuanced differences between similar discourse markers (e.g., 'nevertheless' vs 'nonetheless' vs 'notwithstanding') is a key marker of C2 proficiency.",
+        "vocabulary": [
+          {
+            "word": "Notwithstanding",
+            "pinyin": "/ˌnɒtwɪθˈstændɪŋ/",
+            "meaning": "Mặc dù vậy, bất chấp (trang trọng hơn despite)",
+            "example": "Notwithstanding the challenges, the team delivered an exceptional outcome.",
+            "example_vi": "Mặc dù những thách thức, nhóm đã đạt được kết quả xuất sắc.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "Insofar as",
+            "pinyin": "/ɪnsəˈfɑːr æz/",
+            "meaning": "Trong chừng mực mà, theo mức độ mà",
+            "example": "The policy is effective insofar as it addresses the immediate crisis, but it neglects long-term structural issues.",
+            "example_vi": "Chính sách có hiệu quả trong chừng mực nó giải quyết cuộc khủng hoảng trước mắt, nhưng bỏ qua các vấn đề cấu trúc dài hạn.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "By the same token",
+            "pinyin": "/baɪ ðə seɪm ˈtəʊkən/",
+            "meaning": "Tương tự như vậy, cùng lý lẽ đó (kết nối lập luận song song)",
+            "example": "Excellence requires effort; by the same token, it also demands patience.",
+            "example_vi": "Xuất sắc đòi hỏi nỗ lực; tương tự như vậy, nó cũng đòi hỏi sự kiên nhẫn.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "In retrospect",
+            "pinyin": "/ɪn ˈretrəspekt/",
+            "meaning": "Nhìn lại, nhìn từ góc nhìn sau sự kiện",
+            "example": "In retrospect, the decision to expand too rapidly proved to be a critical mistake.",
+            "example_vi": "Nhìn lại, quyết định mở rộng quá nhanh chứng tỏ là một sai lầm nghiêm trọng.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "On balance",
+            "pinyin": "/ɒn ˈbæləns/",
+            "meaning": "Cân nhắc tất cả, xét tổng thể",
+            "example": "On balance, the benefits of the scheme outweigh its drawbacks.",
+            "example_vi": "Cân nhắc tất cả, lợi ích của kế hoạch vượt hơn những hạn chế của nó.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "With this in mind",
+            "pinyin": "/wɪð ðɪs ɪn maɪnd/",
+            "meaning": "Ghi nhớ điều này / xét điều đó",
+            "example": "With this in mind, the committee recommends a phased implementation.",
+            "example_vi": "Ghi nhớ điều này, ủy ban khuyến nghị thực hiện theo từng giai đoạn.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "All things considered",
+            "pinyin": "/ɔːl θɪŋz kənˈsɪdərd/",
+            "meaning": "Xét tổng thể, tính đến tất cả mọi thứ",
+            "example": "All things considered, the project was a success despite the setbacks.",
+            "example_vi": "Xét tổng thể, dự án đã thành công mặc dù có những trở ngại.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "To put it another way",
+            "pinyin": "/tə pʊt ɪt əˈnʌðər weɪ/",
+            "meaning": "Nói cách khác, diễn đạt theo cách khác",
+            "example": "The experiment failed to reproduce the original results; to put it another way, the initial findings may not be replicable.",
+            "example_vi": "Thí nghiệm không thể tái tạo kết quả ban đầu; nói cách khác, các phát hiện ban đầu có thể không thể tái lập.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "Suffice it to say",
+            "pinyin": "/səˈfaɪs ɪt tə seɪ/",
+            "meaning": "Chỉ cần nói rằng (tóm gọn mà không đi vào chi tiết)",
+            "example": "Suffice it to say, the negotiations were far more complex than anyone anticipated.",
+            "example_vi": "Chỉ cần nói rằng, các cuộc đàm phán phức tạp hơn bất kỳ ai dự đoán.",
+            "tags": [
+              "discourse"
+            ]
+          },
+          {
+            "word": "It bears mentioning that",
+            "pinyin": "/ɪt beərz ˈmenʃənɪŋ ðæt/",
+            "meaning": "Đáng đề cập rằng, cần lưu ý rằng",
+            "example": "It bears mentioning that the original study used a very limited sample size.",
+            "example_vi": "Đáng đề cập rằng nghiên cứu ban đầu sử dụng cỡ mẫu rất hạn chế.",
+            "tags": [
+              "discourse"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Nevertheless vs. Nonetheless vs. Notwithstanding — subtle differences",
+            "explanation": "'Nevertheless' and 'nonetheless' are nearly synonymous — both mean 'despite what was said'. 'Nevertheless' is slightly more emphatic (often starts a new sentence). 'Nonetheless' often follows a subordinate clause or works mid-sentence. 'Notwithstanding' is more formal and often precedes the contrasted element (notwithstanding + noun phrase). In legal and academic writing, 'notwithstanding' signals a formal exception.",
+            "examples": [
+              "'The model has significant limitations. Nevertheless, it remains the most widely used.' (= still emphatic)",
+              "'The model has significant limitations; nonetheless, it provides a useful framework.' (= smoother concession)",
+              "'Notwithstanding these limitations, the model is widely adopted.' (formal — 'notwithstanding + noun phrase')"
+            ]
+          },
+          {
+            "title": "'On balance' vs. 'All things considered' — summing up",
+            "explanation": "Both signal a concluding judgement after weighing evidence. 'On balance' is more precise: it implies the scales have been carefully weighed and a measured verdict reached. 'All things considered' is slightly more comprehensive — it includes all factors, even peripheral ones. In academic and professional writing, 'on balance' is preferred for analytical conclusions; 'all things considered' suits a broader, more conversational summary.",
+            "examples": [
+              "'On balance, the data supports the hypothesis.' (precise, analytical)",
+              "'All things considered, the project was a worthwhile endeavour.' (broader, more personal assessment)"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "Choose the most formal alternative to 'despite': '__ the challenges, the mission succeeded.'",
+            "options": [
+              "Although",
+              "Even though",
+              "Notwithstanding",
+              "However"
+            ],
+            "ans": 2
+          },
+          {
+            "q": "What does 'insofar as' express?",
+            "options": [
+              "A contradiction",
+              "A degree or extent to which something is true",
+              "A consequence",
+              "A time reference"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "On balance",
+            "q": "What does the phrase just heard signal in a text?",
+            "options": [
+              "A new topic being introduced",
+              "An exception to the rule",
+              "A weighing of evidence towards a verdict",
+              "An anecdotal observation"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "By the same token",
+            "q": "Choose the correct meaning:",
+            "options": [
+              "As a result",
+              "In contrast",
+              "Using the same reasoning / similarly",
+              "To summarise"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: '___ it to say, the situation was far more complex than expected.' (chỉ cần nói rằng)",
+            "options": [
+              "Suffice",
+              "Allow",
+              "Needless",
+              "It bears"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Complete: '___ retrospect, the decision was a mistake.' (nhìn lại — 2 letters):",
+            "options": [
+              "In"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Lesson 10: Literary Language & Creative Writing (C2)",
+      "type": "vocabulary",
+      "xp": 50,
+      "min": 22,
+      "order": 10,
+      "content": {
+        "image": "/images/lessons/school.svg",
+        "intro": "The pinnacle of C2 English is the ability to appreciate and produce literary language. This lesson covers the vocabulary of literary analysis, the key rhetorical devices used by master writers, and the metalanguage needed to discuss creative texts with sophistication — essential for Cambridge CPE Paper 2 and academic literary studies.",
+        "vocabulary": [
+          {
+            "word": "Juxtaposition",
+            "pinyin": "/ˌdʒʌkstəpəˈzɪʃn/",
+            "meaning": "Tương phản đặt cạnh nhau (đặt hai thứ đối lập gần nhau để nổi bật)",
+            "example": "The juxtaposition of wealth and poverty in the opening chapter immediately establishes the novel's central tension.",
+            "example_vi": "Sự tương phản giữa giàu và nghèo trong chương mở đầu ngay lập tức thiết lập căng thẳng trung tâm của cuốn tiểu thuyết.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Foreshadowing",
+            "pinyin": "/ˈfɔːrʃædəʊɪŋ/",
+            "meaning": "Điềm báo trước trong văn học (gợi ý sự kiện sắp xảy ra)",
+            "example": "The dark clouds gathering in the first scene serve as foreshadowing for the tragedy to come.",
+            "example_vi": "Những đám mây đen tụ lại trong cảnh đầu tiên đóng vai trò là điềm báo cho thảm kịch sắp đến.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Motif",
+            "pinyin": "/məʊˈtiːf/",
+            "meaning": "Mô-típ (chủ đề/hình ảnh lặp đi lặp lại trong tác phẩm)",
+            "example": "The recurring motif of mirrors throughout the novel symbolises the protagonist's search for identity.",
+            "example_vi": "Mô-típ lặp đi lặp lại của gương xuyên suốt cuốn tiểu thuyết biểu tượng cho cuộc tìm kiếm bản sắc của nhân vật chính.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Unreliable narrator",
+            "pinyin": "/ʌnrɪˈlaɪəbl nəˈreɪtər/",
+            "meaning": "Người kể chuyện không đáng tin cậy",
+            "example": "The use of an unreliable narrator forces readers to question every event and interpretation in the story.",
+            "example_vi": "Việc sử dụng người kể chuyện không đáng tin cậy buộc độc giả phải đặt câu hỏi về mọi sự kiện và diễn giải trong câu chuyện.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Pathos",
+            "pinyin": "/ˈpeɪθɒs/",
+            "meaning": "Cảm xúc bi thương, tính gây xúc động (một trong 3 công cụ hùng biện Aristotle)",
+            "example": "The author evokes considerable pathos through the child's innocent perspective on the war.",
+            "example_vi": "Tác giả gợi lên cảm xúc bi thương đáng kể qua góc nhìn ngây thơ của đứa trẻ về chiến tranh.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Hubris",
+            "pinyin": "/ˈhjuːbrɪs/",
+            "meaning": "Kiêu ngạo quá mức dẫn đến diệt vong (đặc trưng nhân vật bi kịch)",
+            "example": "Macbeth's hubris — his belief that he is beyond the reach of fate — ultimately leads to his downfall.",
+            "example_vi": "Sự kiêu ngạo của Macbeth — niềm tin rằng anh ta vượt ngoài tầm với của số phận — cuối cùng dẫn đến sụp đổ của anh.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Stream of consciousness",
+            "pinyin": "/striːm əv ˈkɒnʃəsnəs/",
+            "meaning": "Dòng ý thức (kỹ thuật văn học phản ánh suy nghĩ nội tâm liên tục)",
+            "example": "Virginia Woolf pioneered the stream of consciousness technique to explore the inner lives of her characters.",
+            "example_vi": "Virginia Woolf đã tiên phong trong kỹ thuật dòng ý thức để khám phá đời sống nội tâm của các nhân vật.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Catharsis",
+            "pinyin": "/kəˈθɑːrsɪs/",
+            "meaning": "Thanh lọc cảm xúc (trải qua cảm xúc mạnh mẽ mang lại sự nhẹ nhõm)",
+            "example": "Tragedy achieves catharsis by guiding the audience through pity and fear to emotional release.",
+            "example_vi": "Bi kịch đạt được thanh lọc cảm xúc bằng cách dẫn dắt khán giả qua lòng thương xót và nỗi sợ hãi đến sự giải phóng cảm xúc.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Euphemism",
+            "pinyin": "/ˈjuːfəmɪzəm/",
+            "meaning": "Nói giảm nói tránh (dùng từ nhẹ hơn thay cho từ thô/đau buồn)",
+            "example": "The politician used the euphemism 'collateral damage' to describe civilian casualties.",
+            "example_vi": "Chính khách đã dùng lối nói giảm 'thiệt hại ngoài ý muốn' để mô tả thương vong dân thường.",
+            "tags": [
+              "literary"
+            ]
+          },
+          {
+            "word": "Dramatic irony",
+            "pinyin": "/drəˈmætɪk ˈaɪrəni/",
+            "meaning": "Trớ trêu kịch tính (khán giả biết điều nhân vật không biết)",
+            "example": "In Romeo and Juliet, dramatic irony intensifies the tragedy as the audience watches Romeo drink the poison unaware that Juliet still lives.",
+            "example_vi": "Trong Romeo và Juliet, trớ trêu kịch tính làm tăng bi kịch khi khán giả chứng kiến Romeo uống thuốc độc trong khi không biết Juliet vẫn còn sống.",
+            "tags": [
+              "literary"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Metalanguage of literary analysis — writing about texts",
+            "explanation": "When writing literary analysis at C2, use precise metalanguage rather than vague descriptions. Instead of 'the writer uses a sad image', write 'the author employs pathos through the juxtaposition of...'. Key verb patterns: 'X serves to + infinitive' (suggests purpose), 'X is suggestive of' (implies without stating directly), 'X underscores/reinforces' (strengthens a point), 'X is emblematic of' (symbolises a larger theme). Avoid 'the author is trying to say...' — instead, state what the text achieves.",
+            "examples": [
+              "Weak: 'Shakespeare makes Macbeth seem arrogant and this leads to his death.'",
+              "Strong: 'Macbeth's hubris — dramatised through his contemptuous dismissal of the witches' final prophecy — serves as the central tragic flaw that precipitates his downfall.'"
+            ]
+          },
+          {
+            "title": "Hedging in literary interpretation",
+            "explanation": "Literary analysis involves interpretation, not fact. Signal this with appropriate hedging while still arguing confidently: 'arguably', 'it could be suggested that', 'one might interpret this as', 'this reading suggests', 'the text implies'. Avoid absolute claims ('the author definitely means...') AND over-hedging ('it seems the author might possibly mean...'). The goal is a confident but academically responsible voice.",
+            "examples": [
+              "Over-confident: 'This symbolises death.' → Hedged: 'This imagery is arguably suggestive of mortality.'",
+              "Over-hedged: 'It seems like it might possibly be that the author could be suggesting...' → Confident: 'The recurring motif arguably emblematises the protagonist's psychological fragmentation.'"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "What is 'foreshadowing' in literary analysis?",
+            "options": [
+              "A metaphor comparing two unlike things",
+              "Hints at future events earlier in the narrative",
+              "The narrator's personal opinion",
+              "Repetition of a theme throughout a text"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "In which context is 'hubris' most typically used?",
+            "options": [
+              "In scientific research contexts",
+              "To describe a tragic character flaw of excessive pride",
+              "In legal analysis",
+              "To describe effective leadership"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Catharsis",
+            "q": "What does the literary term just heard describe?",
+            "options": [
+              "A plot twist",
+              "Emotional purification/release experienced through art",
+              "A narrative technique for tension",
+              "A type of metaphor"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "Dramatic irony",
+            "q": "Choose the correct definition:",
+            "options": [
+              "When a character behaves unexpectedly",
+              "When the audience knows something the character does not",
+              "When two characters have opposite beliefs",
+              "When a story ends tragically"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "Fill in: 'The ___ of luxury and suffering in the opening scene establishes the novel's core conflict.' (tương phản đặt cạnh nhau)",
+            "options": [
+              "juxtaposition",
+              "motif",
+              "foreshadowing",
+              "euphemism"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Complete: 'Virginia Woolf's technique of ___ of consciousness reveals characters' inner thoughts.' (1 word):",
+            "options": [
+              "stream"
+            ],
+            "ans": 0
+          }
+        ]
+      }
     }
   ]
 }

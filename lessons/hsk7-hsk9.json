@@ -3531,6 +3531,832 @@
           }
         ]
       }
+    },
+    {
+      "title": "Bài 7: Thành ngữ bốn chữ (成语)",
+      "type": "vocabulary",
+      "xp": 55,
+      "min": 22,
+      "order": 7,
+      "content": {
+        "image": "/images/lessons/past.svg",
+        "intro": "成语 (chéngyǔ) là thành ngữ bốn chữ cô đọng trí tuệ ngàn năm của người Trung Hoa. Mỗi thành ngữ đều có điển tích lịch sử hoặc ngụ ngôn đằng sau. Nắm vững 成语 là dấu hiệu phân biệt trình độ HSK9 với những người học tiếng Trung thông thường.",
+        "vocabulary": [
+          {
+            "word": "一石二鸟",
+            "pinyin": "yī shí èr niǎo",
+            "meaning": "Một mũi tên trúng hai đích",
+            "example": "这个计划一石二鸟，既解决了问题，又节省了资金。",
+            "example_vi": "Kế hoạch này một mũi tên trúng hai đích, vừa giải quyết được vấn đề, vừa tiết kiệm được kinh phí.",
+            "tags": [
+              "成语"
+            ]
+          },
+          {
+            "word": "半途而废",
+            "pinyin": "bàn tú ér fèi",
+            "meaning": "Bỏ dở giữa chừng",
+            "example": "做任何事都不能半途而废，要坚持到底。",
+            "example_vi": "Làm bất cứ việc gì cũng không được bỏ dở giữa chừng, phải kiên trì đến cùng.",
+            "tags": [
+              "成语"
+            ]
+          },
+          {
+            "word": "画龙点睛",
+            "pinyin": "huà lóng diǎn jīng",
+            "meaning": "Điểm nhãn (thêm chi tiết sống động quyết định)",
+            "example": "他最后那句话真是画龙点睛，整篇文章顿时生动起来。",
+            "example_vi": "Câu nói cuối cùng của anh ấy thực sự là điểm nhãn, cả bài văn lập tức trở nên sinh động.",
+            "tags": [
+              "成语"
+            ]
+          },
+          {
+            "word": "亡羊补牢",
+            "pinyin": "wáng yáng bǔ láo",
+            "meaning": "Mất bò mới lo làm chuồng (còn hơn không)",
+            "example": "虽然损失已经发生，但亡羊补牢，尽快改进还为时未晚。",
+            "example_vi": "Dù thiệt hại đã xảy ra, nhưng mất bò mới lo làm chuồng, cải thiện sớm vẫn chưa muộn.",
+            "tags": [
+              "成语"
+            ]
+          },
+          {
+            "word": "守株待兔",
+            "pinyin": "shǒu zhū dài tù",
+            "meaning": "Thủ thủ đãi thỏ (chờ may mắn mà không chịu làm)",
+            "example": "在竞争激烈的市场上，守株待兔的企业必将被淘汰。",
+            "example_vi": "Trong thị trường cạnh tranh gay gắt, doanh nghiệp nào thủ thủ đãi thỏ tất sẽ bị đào thải.",
+            "tags": [
+              "成语"
+            ]
+          },
+          {
+            "word": "马到成功",
+            "pinyin": "mǎ dào chéng gōng",
+            "meaning": "Ngựa đến là thành công (chúc thành công ngay)",
+            "example": "祝你明天考试马到成功！",
+            "example_vi": "Chúc bạn thi ngày mai thành công ngay lần đầu!",
+            "tags": [
+              "成语"
+            ]
+          },
+          {
+            "word": "狐假虎威",
+            "pinyin": "hú jiǎ hǔ wēi",
+            "meaning": "Hồ giả hổ oai (ỷ thế người mạnh để hù dọa)",
+            "example": "他不过是狐假虎威，借助领导的名字来压制下属。",
+            "example_vi": "Anh ta chẳng qua là ỷ thế hù người, mượn danh lãnh đạo để áp chế cấp dưới.",
+            "tags": [
+              "成语"
+            ]
+          },
+          {
+            "word": "叶公好龙",
+            "pinyin": "yè gōng hào lóng",
+            "meaning": "Diệp Công thích rồng (thích trên lý thuyết, sợ thực tế)",
+            "example": "他说喜欢挑战，其实是叶公好龙，一遇到真正的困难就退缩了。",
+            "example_vi": "Anh ta nói thích thử thách, thực ra là thích rồng kiểu Diệp Công, gặp khó khăn thật là rút lui ngay.",
+            "tags": [
+              "成语"
+            ]
+          },
+          {
+            "word": "刻舟求剑",
+            "pinyin": "kè zhōu qiú jiàn",
+            "meaning": "Khắc thuyền tìm kiếm (làm theo cách cũ trong tình huống đã thay đổi)",
+            "example": "时代在变，用刻舟求剑的思维处理新问题必然失败。",
+            "example_vi": "Thời đại đang thay đổi, dùng tư duy khắc thuyền tìm kiếm để xử lý vấn đề mới tất sẽ thất bại.",
+            "tags": [
+              "成语"
+            ]
+          },
+          {
+            "word": "一鸣惊人",
+            "pinyin": "yī míng jīng rén",
+            "meaning": "Một tiếng vang kinh động thiên hạ (thành công bất ngờ)",
+            "example": "他蛰伏多年，这次的作品终于让他一鸣惊人。",
+            "example_vi": "Anh ấy âm thầm tích lũy nhiều năm, lần này tác phẩm của anh cuối cùng đã làm anh nổi danh kinh thiên hạ.",
+            "tags": [
+              "成语"
+            ]
+          },
+          {
+            "word": "滴水穿石",
+            "pinyin": "dī shuǐ chuān shí",
+            "meaning": "Nước nhỏ giọt xuyên đá (kiên trì ắt thành công)",
+            "example": "学习语言需要滴水穿石的精神，日积月累才能真正掌握。",
+            "example_vi": "Học ngôn ngữ cần tinh thần nước nhỏ giọt xuyên đá, tích lũy từng ngày mới có thể thực sự nắm vững.",
+            "tags": [
+              "成语"
+            ]
+          },
+          {
+            "word": "塞翁失马",
+            "pinyin": "sài wēng shī mǎ",
+            "meaning": "Tái Ông mất ngựa (họa phúc khó lường)",
+            "example": "失去这份工作也许是塞翁失马，说不定有更好的机会在等着你。",
+            "example_vi": "Mất công việc này có lẽ là tái ông mất ngựa, biết đâu có cơ hội tốt hơn đang đợi bạn.",
+            "tags": [
+              "成语"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cách dùng 成语 trong văn nói và văn viết",
+            "explanation": "成语 thường gồm 4 chữ Hán, xuất phát từ điển tích lịch sử. Trong văn viết trang trọng và văn học, 成语 được dùng trực tiếp như tính từ, trạng từ hoặc vị ngữ: [主语 + 成语]. Trong văn nói, chúng thường đứng sau 真是 / 简直是 để nhấn mạnh. Mỗi 成语 có một điển tích cụ thể — hiểu điển tích giúp dùng đúng ngữ cảnh và không lẫn lộn.",
+            "examples": [
+              "他做事真是半途而废。= Anh ta làm việc thực sự là bỏ dở giữa chừng.",
+              "这句话画龙点睛，让整篇文章生动了。= Câu này điểm nhãn, làm cho cả bài văn trở nên sinh động."
+            ]
+          },
+          {
+            "title": "Điển tích của 守株待兔 và 叶公好龙",
+            "explanation": "守株待兔 (Hàn Phi Tử): Một nông dân thấy thỏ chạy vào cây mà chết, sau đó bỏ làm ruộng ngồi chờ thỏ tiếp theo — ẩn dụ tư duy thụ động, ỷ lại vận may. 叶公好龙 (Lưu Hướng, Thuyết Uyển): Diệp Công vẽ rồng khắp nhà, nhưng khi rồng thật bay đến thì khiếp sợ bỏ chạy — ẩn dụ sự giả tạo, thích lý thuyết nhưng sợ thực tế. Hiểu điển tích giúp dùng đúng: 守株待兔 = bị động lười biếng; 叶公好龙 = giả vờ yêu thích.",
+            "examples": [
+              "別再守株待兔了，主动出击才是正确的策略。= Đừng thủ thủ đãi thỏ nữa, chủ động ra tay mới là chiến lược đúng đắn.",
+              "他只是叶公好龙，并非真正热爱学习。= Anh ta chỉ là thích rồng kiểu Diệp Công, chứ không thực sự yêu thích học tập."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "成语 \"一石二鸟\" có nghĩa là gì?",
+            "options": [
+              "Một mũi tên trúng hai đích",
+              "Mất bò mới lo làm chuồng",
+              "Nước nhỏ giọt xuyên đá",
+              "Tái ông mất ngựa"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "成语 nào phù hợp nhất để nói về người bỏ dở việc học giữa chừng?",
+            "options": [
+              "一鸣惊人",
+              "半途而废",
+              "马到成功",
+              "画龙点睛"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "滴水穿石",
+            "q": "Thành ngữ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Một tiếng vang kinh thiên hạ",
+              "Nước nhỏ giọt xuyên đá — kiên trì ắt thành",
+              "Họa phúc khó lường",
+              "Ỷ thế hù người"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "塞翁失马",
+            "q": "Chọn nghĩa đúng của thành ngữ vừa nghe:",
+            "options": [
+              "Thủ thủ đãi thỏ",
+              "Điểm nhãn",
+              "Tái ông mất ngựa — họa phúc khó lường",
+              "Khắc thuyền tìm kiếm"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "____，让整篇文章顿时生动起来。 (Điền thành ngữ về \"điểm nhãn\")",
+            "options": [
+              "画龙点睛",
+              "守株待兔",
+              "一石二鸟",
+              "叶公好龙"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch thành ngữ: \"Nước nhỏ giọt xuyên đá\" (3 từ)",
+            "options": [
+              "滴水穿石"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 8: Tiếng Trung thương mại & công nghệ",
+      "type": "vocabulary",
+      "xp": 55,
+      "min": 22,
+      "order": 8,
+      "content": {
+        "image": "/images/lessons/past.svg",
+        "intro": "Trong kỷ nguyên số và toàn cầu hóa, tiếng Trung thương mại và công nghệ là chìa khóa mở ra cơ hội nghề nghiệp đỉnh cao. Những từ vựng này xuất hiện dày đặc trong môi trường doanh nghiệp, hội nghị quốc tế và văn bản pháp lý kinh doanh.",
+        "vocabulary": [
+          {
+            "word": "供应链",
+            "pinyin": "gōngyìng liàn",
+            "meaning": "Chuỗi cung ứng",
+            "example": "疫情严重冲击了全球供应链的稳定性。",
+            "example_vi": "Đại dịch đã tác động nghiêm trọng đến tính ổn định của chuỗi cung ứng toàn cầu.",
+            "tags": [
+              "商务"
+            ]
+          },
+          {
+            "word": "人工智能",
+            "pinyin": "réngōng zhìnéng",
+            "meaning": "Trí tuệ nhân tạo (AI)",
+            "example": "人工智能正在深刻改变制造业和服务业的格局。",
+            "example_vi": "Trí tuệ nhân tạo đang thay đổi sâu sắc cục diện ngành chế tạo và dịch vụ.",
+            "tags": [
+              "科技"
+            ]
+          },
+          {
+            "word": "数字化转型",
+            "pinyin": "shùzì huà zhuǎnxíng",
+            "meaning": "Chuyển đổi số",
+            "example": "传统企业必须加速数字化转型才能保持竞争力。",
+            "example_vi": "Doanh nghiệp truyền thống phải đẩy nhanh chuyển đổi số mới có thể duy trì sức cạnh tranh.",
+            "tags": [
+              "科技"
+            ]
+          },
+          {
+            "word": "可持续发展",
+            "pinyin": "kě chísù fāzhǎn",
+            "meaning": "Phát triển bền vững",
+            "example": "越来越多的企业将可持续发展纳入核心战略。",
+            "example_vi": "Ngày càng nhiều doanh nghiệp đưa phát triển bền vững vào chiến lược cốt lõi.",
+            "tags": [
+              "商务"
+            ]
+          },
+          {
+            "word": "商业模式",
+            "pinyin": "shāngyè móshì",
+            "meaning": "Mô hình kinh doanh",
+            "example": "这家初创公司凭借创新的商业模式迅速占领市场。",
+            "example_vi": "Công ty khởi nghiệp này nhờ mô hình kinh doanh sáng tạo mà nhanh chóng chiếm lĩnh thị trường.",
+            "tags": [
+              "商务"
+            ]
+          },
+          {
+            "word": "知识产权",
+            "pinyin": "zhīshi chǎnquán",
+            "meaning": "Sở hữu trí tuệ",
+            "example": "保护知识产权是促进科技创新的重要保障。",
+            "example_vi": "Bảo vệ sở hữu trí tuệ là bảo đảm quan trọng để thúc đẩy đổi mới khoa học công nghệ.",
+            "tags": [
+              "法律"
+            ]
+          },
+          {
+            "word": "风险投资",
+            "pinyin": "fēngxiǎn tóuzī",
+            "meaning": "Đầu tư mạo hiểm (VC)",
+            "example": "硅谷的风险投资文化孕育了大量独角兽企业。",
+            "example_vi": "Văn hóa đầu tư mạo hiểm ở Silicon Valley đã nuôi dưỡng rất nhiều công ty kỳ lân.",
+            "tags": [
+              "商务"
+            ]
+          },
+          {
+            "word": "大数据",
+            "pinyin": "dà shùjù",
+            "meaning": "Dữ liệu lớn (Big Data)",
+            "example": "大数据分析帮助企业精准把握消费者行为。",
+            "example_vi": "Phân tích dữ liệu lớn giúp doanh nghiệp nắm bắt chính xác hành vi người tiêu dùng.",
+            "tags": [
+              "科技"
+            ]
+          },
+          {
+            "word": "市场占有率",
+            "pinyin": "shìchǎng zhànyǒu lǜ",
+            "meaning": "Thị phần",
+            "example": "该品牌的市场占有率已超过40%。",
+            "example_vi": "Thị phần của thương hiệu này đã vượt 40%.",
+            "tags": [
+              "商务"
+            ]
+          },
+          {
+            "word": "并购",
+            "pinyin": "bìng gòu",
+            "meaning": "Mua bán và sáp nhập (M&A)",
+            "example": "这次并购使两家公司的资源得到了充分整合。",
+            "example_vi": "Vụ mua bán sáp nhập này đã giúp nguồn lực của hai công ty được tích hợp đầy đủ.",
+            "tags": [
+              "商务"
+            ]
+          },
+          {
+            "word": "区块链",
+            "pinyin": "qūkuài liàn",
+            "meaning": "Chuỗi khối (Blockchain)",
+            "example": "区块链技术为金融交易提供了更高的透明度和安全性。",
+            "example_vi": "Công nghệ blockchain cung cấp độ minh bạch và bảo mật cao hơn cho các giao dịch tài chính.",
+            "tags": [
+              "科技"
+            ]
+          },
+          {
+            "word": "碳中和",
+            "pinyin": "tàn zhōnghé",
+            "meaning": "Trung hòa carbon (carbon neutral)",
+            "example": "中国承诺在2060年前实现碳中和目标。",
+            "example_vi": "Trung Quốc cam kết đạt mục tiêu trung hòa carbon trước năm 2060.",
+            "tags": [
+              "环保"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Cấu trúc 将……纳入…… — tích hợp vào",
+            "explanation": "将 + đối tượng + 纳入 + phạm vi/hệ thống. Đây là cấu trúc văn bản chính thức phổ biến trong báo cáo thương mại và văn kiện chính sách. Tương đương tiếng Anh \"to incorporate … into …\".",
+            "examples": [
+              "将可持续发展纳入核心战略 = đưa phát triển bền vững vào chiến lược cốt lõi",
+              "将新技术纳入生产流程 = tích hợp công nghệ mới vào quy trình sản xuất"
+            ]
+          },
+          {
+            "title": "Mẫu câu thương mại: 凭借……迅速占领市场",
+            "explanation": "凭借 + ưu thế/công cụ + 迅速/成功 + kết quả. Cấu trúc thường gặp trong các bản pitch, báo cáo phân tích, bài viết case study kinh doanh. Có thể thay 迅速 bằng 成功 / 逐步 tuỳ sắc thái.",
+            "examples": [
+              "凭借创新的商业模式迅速占领市场 = nhờ mô hình kinh doanh sáng tạo nhanh chóng chiếm lĩnh thị trường",
+              "凭借技术优势成功打入高端市场 = nhờ lợi thế công nghệ thành công thâm nhập thị trường cao cấp"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "数字化转型 có nghĩa là gì?",
+            "options": [
+              "Mô hình kinh doanh",
+              "Chuyển đổi số",
+              "Sở hữu trí tuệ",
+              "Thị phần"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "可持续发展 trong tiếng Anh là gì?",
+            "options": [
+              "Supply chain",
+              "Digital transformation",
+              "Sustainable development",
+              "Blockchain"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "供应链",
+            "q": "Từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Trí tuệ nhân tạo",
+              "Chuỗi cung ứng",
+              "Đầu tư mạo hiểm",
+              "Trung hòa carbon"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "知识产权",
+            "q": "Chọn nghĩa đúng:",
+            "options": [
+              "Thị phần",
+              "Sáp nhập",
+              "Sở hữu trí tuệ",
+              "Dữ liệu lớn"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "fill",
+            "q": "____分析帮助企业精准把握消费者行为。 (Phân tích ___ giúp doanh nghiệp nắm bắt hành vi NTD)",
+            "options": [
+              "大数据",
+              "区块链",
+              "人工智能",
+              "供应链"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Trí tuệ nhân tạo\"",
+            "options": [
+              "人工智能"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 9: Văn ngôn nhập môn (文言文)",
+      "type": "vocabulary",
+      "xp": 60,
+      "min": 25,
+      "order": 9,
+      "content": {
+        "image": "/images/lessons/past.svg",
+        "intro": "文言文 (wényánwén) là tiếng Trung cổ điển, ngôn ngữ của văn học và triết học Trung Hoa từ thế kỷ 5 TCN đến đầu thế kỷ 20. Hiểu cơ bản văn ngôn giúp bạn đọc các trích dẫn kinh điển, tục ngữ và văn bản lịch sử xuất hiện dày đặc trong HSK9.",
+        "vocabulary": [
+          {
+            "word": "之乎者也",
+            "pinyin": "zhī hū zhě yě",
+            "meaning": "Bốn hư từ văn ngôn cơ bản",
+            "example": "之乎者也是文言文中最常见的虚词，需要逐一掌握其用法。",
+            "example_vi": "之乎者也là bốn hư từ phổ biến nhất trong văn ngôn, cần lần lượt nắm vững cách dùng.",
+            "tags": [
+              "文言文"
+            ]
+          },
+          {
+            "word": "吾",
+            "pinyin": "wú",
+            "meaning": "Ta, tôi (đại từ nhân xưng ngôi 1 văn ngôn)",
+            "example": "吾日三省吾身。— 曾子",
+            "example_vi": "Mỗi ngày ta tự xét bản thân ba lần. — Tăng Tử (Luận Ngữ)",
+            "tags": [
+              "文言文"
+            ]
+          },
+          {
+            "word": "汝",
+            "pinyin": "rǔ",
+            "meaning": "Ngươi, anh/chị (đại từ ngôi 2 văn ngôn)",
+            "example": "知之为知之，不知为不知，是知也。— 汝学习亦当如此。",
+            "example_vi": "Biết thì nói biết, không biết thì nói không biết, đó mới là biết. — Người học cũng nên như vậy.",
+            "tags": [
+              "文言文"
+            ]
+          },
+          {
+            "word": "者",
+            "pinyin": "zhě",
+            "meaning": "Người … / kẻ … (danh hóa)",
+            "example": "学而时习之，不亦说乎？— 论语",
+            "example_vi": "Học rồi thường ôn tập lại, há chẳng vui sao? — Luận Ngữ",
+            "tags": [
+              "文言文"
+            ]
+          },
+          {
+            "word": "焉",
+            "pinyin": "yān",
+            "meaning": "Ở đó, tại đó / hư từ cuối câu",
+            "example": "仁者安仁，知者利仁。— 论语",
+            "example_vi": "Người nhân thì an trú trong nhân, người trí thì lợi dụng nhân.",
+            "tags": [
+              "文言文"
+            ]
+          },
+          {
+            "word": "固",
+            "pinyin": "gù",
+            "meaning": "Vốn dĩ, tất nhiên, cứ (phó từ văn ngôn)",
+            "example": "人固有一死，或重于泰山，或轻于鸿毛。— 司马迁",
+            "example_vi": "Con người vốn ai cũng phải chết, có cái chết nặng hơn Thái Sơn, có cái chết nhẹ hơn lông hồng. — Tư Mã Thiên",
+            "tags": [
+              "文言文"
+            ]
+          },
+          {
+            "word": "乃",
+            "pinyin": "nǎi",
+            "meaning": "Mới là, chính là / bèn (phó từ nối tiếp)",
+            "example": "此乃天下之大事也。",
+            "example_vi": "Đây mới là đại sự thiên hạ.",
+            "tags": [
+              "文言文"
+            ]
+          },
+          {
+            "word": "盖",
+            "pinyin": "gài",
+            "meaning": "Vì rằng, bởi / (tiếng đệm đầu câu)",
+            "example": "盖闻古之圣王，皆以民为本。",
+            "example_vi": "Nghe nói thánh vương đời xưa, ai cũng lấy dân làm gốc.",
+            "tags": [
+              "文言文"
+            ]
+          },
+          {
+            "word": "然则",
+            "pinyin": "rán zé",
+            "meaning": "Vậy thì, như vậy thì (tiếp nối lập luận)",
+            "example": "既然如此，然则应当如何处置？",
+            "example_vi": "Đã như vậy, vậy thì nên xử trí ra sao?",
+            "tags": [
+              "文言文"
+            ]
+          },
+          {
+            "word": "况且",
+            "pinyin": "kuàngqiě",
+            "meaning": "Huống chi, vả lại (tăng thêm lý lẽ)",
+            "example": "时间有限，况且资源不足，此事难以为继。",
+            "example_vi": "Thời gian hữu hạn, huống chi nguồn lực không đủ, việc này khó lòng tiếp tục.",
+            "tags": [
+              "文言文"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "之 — Hư từ văn ngôn đa dụng nhất",
+            "explanation": "之 trong văn ngôn có 4 chức năng chính: ① Đại từ: thay cho danh từ đã đề cập (= 它/他/她); ② Trợ từ sở hữu: [A之B] = B của A (giống 的 trong tiếng Trung hiện đại); ③ Trợ từ âm tiết: giữa chủ-vị để bỏ tính độc lập (= \"sự mà...\"); ④ Trợ từ tân ngữ đảo: [VN → N之V] trong câu đặc biệt.",
+            "examples": [
+              "学而时习之 = Học rồi thường xuyên ôn luyện nó (之 = đại từ thay cho 知识/điều đã học)",
+              "古之圣王 = Thánh vương đời xưa (之 = hư từ sở hữu, như 的)",
+              "吾日三省吾身 → 吾之身 = Thân ta (dạng danh hóa với 之)"
+            ]
+          },
+          {
+            "title": "Cấu trúc phán đoán văn ngôn: ……者，……也",
+            "explanation": "Không dùng 是 (shì) như tiếng Trung hiện đại. Văn ngôn dùng khuôn [Chủ ngữ + 者，+ Vị ngữ + 也] để phán đoán: \"X là Y\". Cuối câu khẳng định thường có 也 hoặc 矣. Câu phủ định dùng 非 thay 不是.",
+            "examples": [
+              "仁者，爱人也。= Người nhân, là người yêu thương người khác. (Luận Ngữ)",
+              "此非战之罪也，地形险也。= Đây chẳng phải lỗi của chiến trận, mà là địa hình hiểm trở."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "之 trong câu \"学而时习之\" đóng vai trò gì?",
+            "options": [
+              "Trợ từ sở hữu (như 的)",
+              "Đại từ thay cho điều đã học",
+              "Trợ từ âm tiết",
+              "Trợ từ tân ngữ đảo"
+            ],
+            "ans": 1
+          },
+          {
+            "q": "乃 trong câu \"此乃天下之大事也\" có nghĩa là?",
+            "options": [
+              "Bèn, liền",
+              "Chính là, mới là",
+              "Vốn dĩ",
+              "Vậy thì"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "listen",
+            "word": "固",
+            "q": "Từ văn ngôn vừa nghe có nghĩa là?",
+            "options": [
+              "Vốn dĩ, tất nhiên",
+              "Ta, tôi",
+              "Ngươi",
+              "Ở đó"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "乃",
+            "q": "Chọn nghĩa đúng của từ văn ngôn vừa nghe:",
+            "options": [
+              "Vì rằng",
+              "Chính là / Bèn",
+              "Vậy thì",
+              "Ngươi"
+            ],
+            "ans": 1
+          },
+          {
+            "type": "fill",
+            "q": "此___天下之大事也。 (Đây ___ đại sự thiên hạ)",
+            "options": [
+              "乃",
+              "固",
+              "盖",
+              "焉"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Đại từ ngôi 1 trong văn ngôn (1 chữ, \"ta/tôi\"):",
+            "options": [
+              "吾"
+            ],
+            "ans": 0
+          }
+        ]
+      }
+    },
+    {
+      "title": "Bài 10: Chính trị & Xã hội đương đại",
+      "type": "vocabulary",
+      "xp": 55,
+      "min": 22,
+      "order": 10,
+      "content": {
+        "image": "/images/lessons/past.svg",
+        "intro": "Để đọc báo chí, theo dõi thời sự và tham gia vào các cuộc thảo luận chính sách bằng tiếng Trung ở trình độ bản ngữ, bạn cần nắm vững từ vựng chính trị và xã hội đương đại. Đây là lớp từ vựng không có trong các giáo trình cơ bản.",
+        "vocabulary": [
+          {
+            "word": "全球化",
+            "pinyin": "quánqiú huà",
+            "meaning": "Toàn cầu hóa",
+            "example": "全球化带来了机遇，同时也加剧了贫富分化。",
+            "example_vi": "Toàn cầu hóa mang lại cơ hội, đồng thời cũng làm trầm trọng thêm sự phân hóa giàu nghèo.",
+            "tags": [
+              "社会"
+            ]
+          },
+          {
+            "word": "民主",
+            "pinyin": "mínzhǔ",
+            "meaning": "Dân chủ",
+            "example": "民主是一种需要不断维护和完善的政治制度。",
+            "example_vi": "Dân chủ là một chế độ chính trị cần được không ngừng duy trì và hoàn thiện.",
+            "tags": [
+              "政治"
+            ]
+          },
+          {
+            "word": "经济体制",
+            "pinyin": "jīngjì tǐzhì",
+            "meaning": "Thể chế kinh tế",
+            "example": "不同国家的经济体制对其经济表现有深远影响。",
+            "example_vi": "Thể chế kinh tế của các quốc gia khác nhau có ảnh hưởng sâu rộng đến hiệu suất kinh tế của họ.",
+            "tags": [
+              "经济"
+            ]
+          },
+          {
+            "word": "社会保障",
+            "pinyin": "shèhuì bǎozhàng",
+            "meaning": "An sinh xã hội",
+            "example": "完善的社会保障体系是减少贫困、维护社会稳定的基石。",
+            "example_vi": "Hệ thống an sinh xã hội hoàn thiện là nền tảng để giảm nghèo và duy trì ổn định xã hội.",
+            "tags": [
+              "社会"
+            ]
+          },
+          {
+            "word": "外交政策",
+            "pinyin": "wàijiāo zhèngcè",
+            "meaning": "Chính sách đối ngoại",
+            "example": "一个国家的外交政策反映了其国家利益和价值观。",
+            "example_vi": "Chính sách đối ngoại của một quốc gia phản ánh lợi ích quốc gia và giá trị quan của họ.",
+            "tags": [
+              "政治"
+            ]
+          },
+          {
+            "word": "贫富差距",
+            "pinyin": "pín fù chājù",
+            "meaning": "Khoảng cách giàu nghèo",
+            "example": "缩小贫富差距是实现共同富裕的关键步骤。",
+            "example_vi": "Thu hẹp khoảng cách giàu nghèo là bước then chốt để thực hiện thịnh vượng chung.",
+            "tags": [
+              "社会"
+            ]
+          },
+          {
+            "word": "舆论",
+            "pinyin": "yúlùn",
+            "meaning": "Dư luận xã hội",
+            "example": "社交媒体的兴起使舆论的形成和传播速度大大加快。",
+            "example_vi": "Sự trỗi dậy của mạng xã hội đã làm cho tốc độ hình thành và lan truyền dư luận tăng tốc rất nhiều.",
+            "tags": [
+              "社会"
+            ]
+          },
+          {
+            "word": "改革开放",
+            "pinyin": "gǎigé kāifàng",
+            "meaning": "Cải cách mở cửa (chính sách của Trung Quốc từ 1978)",
+            "example": "改革开放以来，中国经济实现了举世瞩目的腾飞。",
+            "example_vi": "Từ khi cải cách mở cửa, kinh tế Trung Quốc đã thực hiện bước nhảy vọt thu hút sự chú ý của thế giới.",
+            "tags": [
+              "政治"
+            ]
+          },
+          {
+            "word": "法治",
+            "pinyin": "fǎzhì",
+            "meaning": "Pháp trị (nhà nước pháp quyền)",
+            "example": "依法治国是维护社会公平正义的根本保障。",
+            "example_vi": "Trị quốc bằng pháp luật là bảo đảm căn bản để duy trì công bằng, chính nghĩa xã hội.",
+            "tags": [
+              "政治"
+            ]
+          },
+          {
+            "word": "生态文明",
+            "pinyin": "shēngtài wénmíng",
+            "meaning": "Văn minh sinh thái (phát triển hài hòa với thiên nhiên)",
+            "example": "建设生态文明是实现人与自然和谐共生的必由之路。",
+            "example_vi": "Xây dựng văn minh sinh thái là con đường tất yếu để thực hiện sự chung sống hài hòa giữa con người và thiên nhiên.",
+            "tags": [
+              "环保"
+            ]
+          }
+        ],
+        "grammar": [
+          {
+            "title": "Mẫu câu chính luận: ……是……的基石/根本",
+            "explanation": "……是……的基石 (là nền tảng của) / ……是……的根本保障 (là bảo đảm căn bản của) / ……是……的必由之路 (là con đường tất yếu của). Ba khuôn câu này xuất hiện dày đặc trong văn bản chính trị, xã luận báo chí Trung Quốc. Dùng để khẳng định mối quan hệ nhân quả hoặc điều kiện cần thiết.",
+            "examples": [
+              "完善的社会保障体系是减少贫困的基石。= Hệ thống ASXH hoàn thiện là nền tảng để giảm nghèo.",
+              "法治是维护公平正义的根本保障。= Pháp trị là bảo đảm căn bản để duy trì công bằng chính nghĩa.",
+              "建设生态文明是实现绿色发展的必由之路。= Xây dựng văn minh sinh thái là con đường tất yếu để thực hiện phát triển xanh."
+            ]
+          },
+          {
+            "title": "Cấu trúc nhượng bộ: ……带来了……，同时也……",
+            "explanation": "Cấu trúc nhượng bộ nâng cao: [X + 带来了 + lợi ích/tích cực + ，同时也 + 加剧了/带来了 + hạn chế/tiêu cực]. Tiếng Anh: \"X has brought… while also…\". Xuất hiện nhiều trong bình luận phân tích chính sách, kinh tế, xã hội.",
+            "examples": [
+              "全球化带来了机遇，同时也加剧了贫富分化。= Toàn cầu hóa mang lại cơ hội, đồng thời cũng làm trầm trọng sự phân hóa giàu nghèo.",
+              "技术进步带来了便利，同时也带来了隐私泄露的风险。= Tiến bộ công nghệ mang lại sự tiện lợi, nhưng đồng thời cũng mang đến rủi ro rò rỉ quyền riêng tư."
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "q": "改革开放 đề cập đến điều gì?",
+            "options": [
+              "Chính sách cải cách kinh tế Trung Quốc từ 1978",
+              "Một hiệp ước ngoại giao",
+              "Hệ thống giáo dục Trung Quốc",
+              "Chính sách một con"
+            ],
+            "ans": 0
+          },
+          {
+            "q": "舆论 có nghĩa là gì?",
+            "options": [
+              "Dư luận xã hội",
+              "Pháp trị",
+              "Ngoại giao",
+              "An sinh xã hội"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "listen",
+            "word": "贫富差距",
+            "q": "Cụm từ vừa nghe có nghĩa là gì?",
+            "options": [
+              "Toàn cầu hóa",
+              "Thể chế kinh tế",
+              "Khoảng cách giàu nghèo",
+              "Văn minh sinh thái"
+            ],
+            "ans": 2
+          },
+          {
+            "type": "listen",
+            "word": "生态文明",
+            "q": "Chọn nghĩa đúng:",
+            "options": [
+              "Cải cách mở cửa",
+              "Dư luận xã hội",
+              "Chính sách đối ngoại",
+              "Văn minh sinh thái"
+            ],
+            "ans": 3
+          },
+          {
+            "type": "fill",
+            "q": "___是维护社会公平正义的根本保障。 (___là bảo đảm căn bản duy trì CBCN xã hội)",
+            "options": [
+              "法治",
+              "民主",
+              "外交政策",
+              "全球化"
+            ],
+            "ans": 0
+          },
+          {
+            "type": "type",
+            "q": "Dịch sang tiếng Trung: \"Toàn cầu hóa\"",
+            "options": [
+              "全球化"
+            ],
+            "ans": 0
+          }
+        ]
+      }
     }
   ]
 }
