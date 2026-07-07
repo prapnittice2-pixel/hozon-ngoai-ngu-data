@@ -1,0 +1,50 @@
+[
+  {
+    "w": "两个",
+    "p": "liǎng gè",
+    "m": "hai cái, hai (+ danh từ đếm được)",
+    "cat": "number"
+  },
+  {
+    "w": "几个",
+    "p": "jǐ gè",
+    "m": "mấy cái, vài cái, bao nhiêu",
+    "cat": "number"
+  },
+  {
+    "w": "想要",
+    "p": "xiǎng yào",
+    "m": "muốn (có/làm gì đó)",
+    "cat": "verb"
+  },
+  {
+    "w": "站起来",
+    "p": "zhàn qǐlái",
+    "m": "đứng lên",
+    "cat": "verb"
+  },
+  {
+    "w": "坐下",
+    "p": "zuò xia",
+    "m": "ngồi xuống",
+    "cat": "verb"
+  },
+  {
+    "w": "好看",
+    "p": "hǎo kàn",
+    "m": "đẹp, trông hay, hấp dẫn",
+    "cat": "adjective"
+  },
+  {
+    "w": "什么时候",
+    "p": "shénme shíhou",
+    "m": "khi nào, bao giờ",
+    "cat": "time"
+  },
+  {
+    "w": "请问",
+    "p": "qǐngwèn",
+    "m": "xin hỏi, cho tôi hỏi",
+    "cat": "greeting"
+  }
+]

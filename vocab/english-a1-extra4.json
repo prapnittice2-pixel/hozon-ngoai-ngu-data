@@ -1,0 +1,50 @@
+[
+  {
+    "w": "can",
+    "p": "kæn",
+    "m": "có thể, biết (làm gì đó)",
+    "cat": "verb"
+  },
+  {
+    "w": "sound",
+    "p": "saʊnd",
+    "m": "nghe có vẻ...; âm thanh",
+    "cat": "verb"
+  },
+  {
+    "w": "have lunch",
+    "p": "hæv lʌntʃ",
+    "m": "ăn trưa",
+    "cat": "daily"
+  },
+  {
+    "w": "have dinner",
+    "p": "hæv ˈdɪnər",
+    "m": "ăn tối, ăn bữa chiều",
+    "cat": "daily"
+  },
+  {
+    "w": "what time",
+    "p": "wʌt taɪm",
+    "m": "mấy giờ, lúc mấy giờ",
+    "cat": "time"
+  },
+  {
+    "w": "how often",
+    "p": "haʊ ˈɒfən",
+    "m": "bao lâu một lần, tần suất như thế nào",
+    "cat": "time"
+  },
+  {
+    "w": "upstairs",
+    "p": "ˌʌpˈstɛərz",
+    "m": "ở tầng trên, lên cầu thang",
+    "cat": "place"
+  },
+  {
+    "w": "downstairs",
+    "p": "ˌdaʊnˈstɛərz",
+    "m": "ở tầng dưới, xuống cầu thang",
+    "cat": "place"
+  }
+]
