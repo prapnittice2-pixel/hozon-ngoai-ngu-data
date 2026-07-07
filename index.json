@@ -1,6 +1,6 @@
 {
   "version": "2026-07-07-v1",
-  "generated": "2026-07-07T03:48:06.535Z",
+  "generated": "2026-07-07T03:52:36.039Z",
   "files": {
     "vocab/chinese-hsk1-extra.json": "vocab/chinese-hsk1-extra.json",
     "vocab/chinese-hsk1-extra2.json": "vocab/chinese-hsk1-extra2.json",
@@ -25,9 +25,11 @@
     "vocab/chinese-hsk5-extra4.json": "vocab/chinese-hsk5-extra4.json",
     "vocab/chinese-hsk5-extra5.json": "vocab/chinese-hsk5-extra5.json",
     "vocab/chinese-hsk5-extra6.json": "vocab/chinese-hsk5-extra6.json",
+    "vocab/chinese-hsk5-extra7.json": "vocab/chinese-hsk5-extra7.json",
     "vocab/chinese-hsk5.json": "vocab/chinese-hsk5.json",
     "vocab/chinese-hsk6-extra.json": "vocab/chinese-hsk6-extra.json",
     "vocab/chinese-hsk6-extra2.json": "vocab/chinese-hsk6-extra2.json",
+    "vocab/chinese-hsk6-extra3.json": "vocab/chinese-hsk6-extra3.json",
     "vocab/chinese-hsk6.json": "vocab/chinese-hsk6.json",
     "vocab/chinese-hsk7-extra.json": "vocab/chinese-hsk7-extra.json",
     "vocab/chinese-hsk7-extra2.json": "vocab/chinese-hsk7-extra2.json",
@@ -66,6 +68,7 @@
     "vocab/english-b1.json": "vocab/english-b1.json",
     "vocab/english-b2-extra.json": "vocab/english-b2-extra.json",
     "vocab/english-b2-extra10.json": "vocab/english-b2-extra10.json",
+    "vocab/english-b2-extra11.json": "vocab/english-b2-extra11.json",
     "vocab/english-b2-extra2.json": "vocab/english-b2-extra2.json",
     "vocab/english-b2-extra3.json": "vocab/english-b2-extra3.json",
     "vocab/english-b2-extra4.json": "vocab/english-b2-extra4.json",
