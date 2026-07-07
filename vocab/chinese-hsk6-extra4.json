@@ -1,0 +1,314 @@
+[
+  {
+    "w": "精准",
+    "p": "jīngzhǔn",
+    "m": "chính xác, chuẩn xác, sát thực tế",
+    "cat": "adjective"
+  },
+  {
+    "w": "政策法规",
+    "p": "zhèngcè fǎguī",
+    "m": "chính sách và quy định pháp luật",
+    "cat": "society"
+  },
+  {
+    "w": "固体废物",
+    "p": "gùtǐ fèiwù",
+    "m": "chất thải rắn, rác thải rắn",
+    "cat": "environment"
+  },
+  {
+    "w": "价值取向",
+    "p": "jiàzhí qǔxiàng",
+    "m": "định hướng giá trị, quan điểm giá trị của con người",
+    "cat": "society"
+  },
+  {
+    "w": "资源循环",
+    "p": "zīyuán xúnhuán",
+    "m": "tái chế và tuần hoàn tài nguyên",
+    "cat": "environment"
+  },
+  {
+    "w": "专利申请",
+    "p": "zhuānlì shēnqǐng",
+    "m": "nộp đơn xin cấp bằng sáng chế",
+    "cat": "work"
+  },
+  {
+    "w": "情感支持",
+    "p": "qínggǎn zhīchí",
+    "m": "hỗ trợ về mặt cảm xúc, động viên tinh thần",
+    "cat": "psychology"
+  },
+  {
+    "w": "网络伦理",
+    "p": "wǎngluò lúnlǐ",
+    "m": "đạo đức mạng, quy tắc ứng xử trên internet",
+    "cat": "tech"
+  },
+  {
+    "w": "创业创新",
+    "p": "chuàngyè chuàngxīn",
+    "m": "khởi nghiệp và đổi mới sáng tạo",
+    "cat": "work"
+  },
+  {
+    "w": "技术壁垒",
+    "p": "jìshù bìlěi",
+    "m": "rào cản kỹ thuật, hàng rào kỹ thuật thương mại",
+    "cat": "economy"
+  },
+  {
+    "w": "立法程序",
+    "p": "lìfǎ chéngxù",
+    "m": "quy trình lập pháp, thủ tục làm luật",
+    "cat": "society"
+  },
+  {
+    "w": "行政监督",
+    "p": "xíngzhèng jiāndū",
+    "m": "giám sát hành chính, kiểm tra hoạt động chính quyền",
+    "cat": "society"
+  },
+  {
+    "w": "国际交流",
+    "p": "guójì jiāoliú",
+    "m": "giao lưu quốc tế, trao đổi giữa các quốc gia",
+    "cat": "society"
+  },
+  {
+    "w": "爱国主义",
+    "p": "àiguó zhǔyì",
+    "m": "chủ nghĩa yêu nước",
+    "cat": "society"
+  },
+  {
+    "w": "职业规划",
+    "p": "zhíyè guīhuà",
+    "m": "kế hoạch nghề nghiệp, định hướng sự nghiệp",
+    "cat": "work"
+  },
+  {
+    "w": "个人成长",
+    "p": "gèrén chéngzhǎng",
+    "m": "sự phát triển cá nhân, trưởng thành về nhân cách",
+    "cat": "psychology"
+  },
+  {
+    "w": "自我管理",
+    "p": "zìwǒ guǎnlǐ",
+    "m": "tự quản lý bản thân, tự điều tiết",
+    "cat": "psychology"
+  },
+  {
+    "w": "地震预警",
+    "p": "dìzhèn yùjǐng",
+    "m": "cảnh báo động đất sớm",
+    "cat": "environment"
+  },
+  {
+    "w": "历史传承",
+    "p": "lìshǐ chuánchéng",
+    "m": "kế thừa lịch sử, truyền lại di sản văn hóa lịch sử",
+    "cat": "culture"
+  },
+  {
+    "w": "文明发展",
+    "p": "wénmíng fāzhǎn",
+    "m": "sự phát triển văn minh, tiến bộ của nền văn minh",
+    "cat": "culture"
+  },
+  {
+    "w": "媒体监督",
+    "p": "méitǐ jiāndū",
+    "m": "giám sát của truyền thông, báo chí giám sát xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "教育改革",
+    "p": "jiàoyù gǎigé",
+    "m": "cải cách giáo dục",
+    "cat": "education"
+  },
+  {
+    "w": "公民素养",
+    "p": "gōngmín sùyǎng",
+    "m": "phẩm chất công dân, văn hóa và ý thức của người dân",
+    "cat": "society"
+  },
+  {
+    "w": "公益慈善",
+    "p": "gōngyì císhàn",
+    "m": "hoạt động từ thiện và phúc lợi công cộng",
+    "cat": "society"
+  },
+  {
+    "w": "体育强国",
+    "p": "tǐyù qiángguó",
+    "m": "cường quốc thể thao, quốc gia mạnh về thể thao",
+    "cat": "sports"
+  },
+  {
+    "w": "全民健身",
+    "p": "quánmín jiànshēn",
+    "m": "toàn dân tập thể dục, phong trào rèn luyện sức khỏe",
+    "cat": "sports"
+  },
+  {
+    "w": "运动精神",
+    "p": "yùndòng jīngshén",
+    "m": "tinh thần thể thao, đạo đức thể thao",
+    "cat": "sports"
+  },
+  {
+    "w": "养老保险",
+    "p": "yǎnglǎo bǎoxiǎn",
+    "m": "bảo hiểm hưu trí, bảo hiểm dưỡng lão",
+    "cat": "society"
+  },
+  {
+    "w": "失业保险",
+    "p": "shīyè bǎoxiǎn",
+    "m": "bảo hiểm thất nghiệp",
+    "cat": "society"
+  },
+  {
+    "w": "生育保险",
+    "p": "shēngyù bǎoxiǎn",
+    "m": "bảo hiểm thai sản, bảo hiểm sinh đẻ",
+    "cat": "society"
+  },
+  {
+    "w": "食品溯源",
+    "p": "shípǐn sùyuán",
+    "m": "truy xuất nguồn gốc thực phẩm",
+    "cat": "food"
+  },
+  {
+    "w": "农业现代化",
+    "p": "nóngyè xiàndàihuà",
+    "m": "hiện đại hóa nông nghiệp",
+    "cat": "economy"
+  },
+  {
+    "w": "品牌建设",
+    "p": "pǐnpái jiànshè",
+    "m": "xây dựng thương hiệu",
+    "cat": "economy"
+  },
+  {
+    "w": "能源结构",
+    "p": "néngyuán jiégòu",
+    "m": "cơ cấu năng lượng, tỷ trọng các nguồn năng lượng",
+    "cat": "environment"
+  },
+  {
+    "w": "风能利用",
+    "p": "fēngnéng lìyòng",
+    "m": "khai thác năng lượng gió, sử dụng sức gió",
+    "cat": "environment"
+  },
+  {
+    "w": "认知能力",
+    "p": "rèn zhī nénglì",
+    "m": "năng lực nhận thức, khả năng tư duy và hiểu biết",
+    "cat": "psychology"
+  },
+  {
+    "w": "批判思维",
+    "p": "pīpàn sīwéi",
+    "m": "tư duy phản biện, tư duy phê phán",
+    "cat": "education"
+  },
+  {
+    "w": "大局观",
+    "p": "dàjú guān",
+    "m": "tầm nhìn tổng thể, nhìn nhận từ góc độ toàn cục",
+    "cat": "society"
+  },
+  {
+    "w": "改革开放",
+    "p": "gǎigé kāifàng",
+    "m": "cải cách và mở cửa (chính sách Trung Quốc từ 1978)",
+    "cat": "society"
+  },
+  {
+    "w": "对外开放",
+    "p": "duìwài kāifàng",
+    "m": "mở cửa với bên ngoài, hội nhập quốc tế",
+    "cat": "economy"
+  },
+  {
+    "w": "互联互通",
+    "p": "hùlián hùtōng",
+    "m": "kết nối và liên thông, hạ tầng liên kết các quốc gia",
+    "cat": "economy"
+  },
+  {
+    "w": "生命周期",
+    "p": "shēngmìng zhōuqī",
+    "m": "vòng đời, chu kỳ sống",
+    "cat": "tech"
+  },
+  {
+    "w": "成果转化",
+    "p": "chéngguǒ zhuǎnhuà",
+    "m": "chuyển hóa thành quả nghiên cứu thành sản phẩm",
+    "cat": "tech"
+  },
+  {
+    "w": "协同创新",
+    "p": "xiétóng chuàngxīn",
+    "m": "đổi mới sáng tạo cộng tác, cùng nhau sáng tạo",
+    "cat": "work"
+  },
+  {
+    "w": "数字包容",
+    "p": "shùzì bāoróng",
+    "m": "hòa nhập kỹ thuật số, không để ai bị bỏ lại phía sau",
+    "cat": "tech"
+  },
+  {
+    "w": "社会稳定",
+    "p": "shèhuì wěndìng",
+    "m": "ổn định xã hội",
+    "cat": "society"
+  },
+  {
+    "w": "经济转型",
+    "p": "jīngjì zhuǎnxíng",
+    "m": "chuyển đổi kinh tế, thay đổi mô hình tăng trưởng",
+    "cat": "economy"
+  },
+  {
+    "w": "结构调整",
+    "p": "jiégòu tiáozhěng",
+    "m": "điều chỉnh cơ cấu kinh tế",
+    "cat": "economy"
+  },
+  {
+    "w": "法治政府",
+    "p": "fǎzhì zhèngfǔ",
+    "m": "chính phủ pháp quyền, chính phủ quản trị theo luật",
+    "cat": "society"
+  },
+  {
+    "w": "权力监督",
+    "p": "quánlì jiāndū",
+    "m": "giám sát quyền lực, kiểm soát và cân bằng quyền lực",
+    "cat": "society"
+  },
+  {
+    "w": "扶贫攻坚",
+    "p": "fúpín gōngjiān",
+    "m": "xóa đói giảm nghèo chính xác, tấn công đói nghèo",
+    "cat": "society"
+  },
+  {
+    "w": "抗灾救灾",
+    "p": "kàng zāi jiù zāi",
+    "m": "phòng chống và cứu trợ thiên tai",
+    "cat": "environment"
+  }
+]
