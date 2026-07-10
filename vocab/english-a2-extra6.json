@@ -1,0 +1,2179 @@
+[
+  {
+    "w": "travel agent",
+    "p": "ˈtrævl ˈeɪdʒənt",
+    "m": "nhân viên đại lý du lịch",
+    "example": "The travel agent helped us plan our vacation.",
+    "example_vi": "Nhân viên đại lý du lịch đã giúp chúng tôi lên kế hoạch cho kỳ nghỉ."
+  },
+  {
+    "w": "tour operator",
+    "p": "tʊr ˈɒpəreɪtər",
+    "m": "đơn vị điều hành tour du lịch",
+    "example": "We booked our trip through a tour operator.",
+    "example_vi": "Chúng tôi đã đặt chuyến đi thông qua một đơn vị điều hành tour."
+  },
+  {
+    "w": "cruise ship",
+    "p": "kruːz ʃɪp",
+    "m": "tàu du lịch biển",
+    "example": "They took a cruise ship to Europe.",
+    "example_vi": "Họ đã đi tàu du lịch biển đến châu Âu."
+  },
+  {
+    "w": "customs officer",
+    "p": "ˈkʌstəmz ˈɒfɪsər",
+    "m": "nhân viên hải quan",
+    "example": "The customs officer checked our passports.",
+    "example_vi": "Nhân viên hải quan đã kiểm tra hộ chiếu của chúng tôi."
+  },
+  {
+    "w": "waiting list",
+    "p": "ˈweɪtɪŋ lɪst",
+    "m": "danh sách chờ",
+    "example": "My name is on the waiting list.",
+    "example_vi": "Tên tôi có trong danh sách chờ."
+  },
+  {
+    "w": "report card",
+    "p": "rɪˈpɔːt kɑːrd",
+    "m": "phiếu báo điểm",
+    "example": "My son got a good report card this term.",
+    "example_vi": "Con trai tôi có phiếu báo điểm tốt trong học kỳ này."
+  },
+  {
+    "w": "talent show",
+    "p": "ˈtælənt ʃoʊ",
+    "m": "chương trình tìm kiếm tài năng",
+    "example": "She sang a song at the school talent show.",
+    "example_vi": "Cô ấy đã hát một bài trong chương trình tìm kiếm tài năng của trường."
+  },
+  {
+    "w": "carpool",
+    "p": "ˈkɑːrpuːl",
+    "m": "đi chung xe",
+    "example": "We carpool to work every day.",
+    "example_vi": "Chúng tôi đi chung xe đi làm mỗi ngày."
+  },
+  {
+    "w": "souvenir shop",
+    "p": "ˌsuːvəˈnɪr ʃɒp",
+    "m": "cửa hàng lưu niệm",
+    "example": "I bought a small gift at the souvenir shop.",
+    "example_vi": "Tôi đã mua một món quà nhỏ ở cửa hàng lưu niệm."
+  },
+  {
+    "w": "tour guide",
+    "p": "tʊr ɡaɪd",
+    "m": "hướng dẫn viên du lịch",
+    "example": "The tour guide showed us the old city.",
+    "example_vi": "Hướng dẫn viên du lịch đã đưa chúng tôi tham quan thành phố cổ."
+  },
+  {
+    "w": "home delivery",
+    "p": "hoʊm dɪˈlɪvəri",
+    "m": "giao hàng tận nhà",
+    "example": "We chose home delivery for the groceries.",
+    "example_vi": "Chúng tôi đã chọn giao hàng tận nhà cho đồ tạp hóa."
+  },
+  {
+    "w": "grocery store",
+    "p": "ˈɡrəʊsəri stɔːr",
+    "m": "cửa hàng tạp hóa",
+    "example": "My mother goes to the grocery store every Friday.",
+    "example_vi": "Mẹ tôi đi cửa hàng tạp hóa vào mỗi thứ Sáu."
+  },
+  {
+    "w": "online shopping",
+    "p": "ˈɒnlaɪn ˈʃɒpɪŋ",
+    "m": "mua sắm trực tuyến",
+    "example": "Online shopping is very convenient.",
+    "example_vi": "Mua sắm trực tuyến rất tiện lợi."
+  },
+  {
+    "w": "sore throat",
+    "p": "sɔːr θroʊt",
+    "m": "đau họng",
+    "example": "I have a sore throat today.",
+    "example_vi": "Hôm nay tôi bị đau họng."
+  },
+  {
+    "w": "organic food",
+    "p": "ɔːrˈɡænɪk fuːd",
+    "m": "thực phẩm hữu cơ",
+    "example": "She only buys organic food.",
+    "example_vi": "Cô ấy chỉ mua thực phẩm hữu cơ."
+  },
+  {
+    "w": "traffic jam",
+    "p": "ˈtræfɪk dʒæm",
+    "m": "kẹt xe",
+    "example": "We were stuck in a traffic jam for an hour.",
+    "example_vi": "Chúng tôi bị kẹt xe suốt một giờ đồng hồ."
+  },
+  {
+    "w": "pedestrian crossing",
+    "p": "pəˈdestriən ˈkrɒsɪŋ",
+    "m": "vạch qua đường cho người đi bộ",
+    "example": "Always use the pedestrian crossing to cross the street.",
+    "example_vi": "Hãy luôn dùng vạch qua đường để băng qua phố."
+  },
+  {
+    "w": "fuel",
+    "p": "ˈfjuːəl",
+    "m": "nhiên liệu",
+    "example": "The car needs more fuel.",
+    "example_vi": "Chiếc xe cần thêm nhiên liệu."
+  },
+  {
+    "w": "greeting card",
+    "p": "ˈɡriːtɪŋ kɑːrd",
+    "m": "thiệp chúc mừng",
+    "example": "She sent me a greeting card for my birthday.",
+    "example_vi": "Cô ấy đã gửi cho tôi một tấm thiệp chúc mừng sinh nhật."
+  },
+  {
+    "w": "sleeping bag",
+    "p": "ˈsliːpɪŋ bæɡ",
+    "m": "túi ngủ",
+    "example": "I brought my sleeping bag for the camping trip.",
+    "example_vi": "Tôi đã mang theo túi ngủ cho chuyến cắm trại."
+  },
+  {
+    "w": "department store",
+    "p": "dɪˈpɑːtmənt stɔːr",
+    "m": "cửa hàng bách hóa",
+    "example": "We bought new shoes at the department store.",
+    "example_vi": "Chúng tôi đã mua giày mới ở cửa hàng bách hóa."
+  },
+  {
+    "w": "shopping mall",
+    "p": "ˈʃɒpɪŋ mɔːl",
+    "m": "trung tâm mua sắm",
+    "example": "We spent the afternoon at the shopping mall.",
+    "example_vi": "Chúng tôi đã dành cả buổi chiều ở trung tâm mua sắm."
+  },
+  {
+    "w": "loyalty card",
+    "p": "ˈlɔɪəlti kɑːrd",
+    "m": "thẻ khách hàng thân thiết",
+    "example": "Do you have a loyalty card for this store?",
+    "example_vi": "Bạn có thẻ khách hàng thân thiết của cửa hàng này không?"
+  },
+  {
+    "w": "membership card",
+    "p": "ˈmembərʃɪp kɑːrd",
+    "m": "thẻ hội viên",
+    "example": "Show your membership card at the entrance.",
+    "example_vi": "Hãy xuất trình thẻ hội viên tại lối vào."
+  },
+  {
+    "w": "price tag",
+    "p": "praɪs tæɡ",
+    "m": "thẻ giá",
+    "example": "The price tag says ten dollars.",
+    "example_vi": "Thẻ giá ghi mười đô la."
+  },
+  {
+    "w": "window shopping",
+    "p": "ˈwɪndoʊ ˈʃɒpɪŋ",
+    "m": "đi ngắm cửa hàng mà không mua",
+    "example": "We went window shopping on Saturday afternoon.",
+    "example_vi": "Chúng tôi đi ngắm cửa hàng vào chiều thứ Bảy."
+  },
+  {
+    "w": "card game",
+    "p": "kɑːrd ɡeɪm",
+    "m": "trò chơi bài",
+    "example": "We played a card game after dinner.",
+    "example_vi": "Chúng tôi chơi trò chơi bài sau bữa tối."
+  },
+  {
+    "w": "garden hose",
+    "p": "ˈɡɑːrdn hoʊz",
+    "m": "vòi tưới cây trong vườn",
+    "example": "He used a garden hose to water the plants.",
+    "example_vi": "Anh ấy dùng vòi tưới cây để tưới hoa."
+  },
+  {
+    "w": "dental checkup",
+    "p": "ˈdentl ˈtʃekʌp",
+    "m": "khám răng định kỳ",
+    "example": "I have a dental checkup this afternoon.",
+    "example_vi": "Chiều nay tôi có lịch khám răng định kỳ."
+  },
+  {
+    "w": "fire alarm",
+    "p": "ˈfaɪər əˈlɑːrm",
+    "m": "chuông báo cháy",
+    "example": "The fire alarm went off during the class.",
+    "example_vi": "Chuông báo cháy vang lên trong giờ học."
+  },
+  {
+    "w": "smoke detector",
+    "p": "smoʊk dɪˈtektər",
+    "m": "máy báo khói",
+    "example": "Every room needs a smoke detector.",
+    "example_vi": "Mỗi phòng đều cần có một máy báo khói."
+  },
+  {
+    "w": "coffee table",
+    "p": "ˈkɒfi ˈteɪbl",
+    "m": "bàn nước (bàn trà)",
+    "example": "The magazines are on the coffee table.",
+    "example_vi": "Những cuốn tạp chí đang ở trên bàn nước."
+  },
+  {
+    "w": "ceiling fan",
+    "p": "ˈsiːlɪŋ fæn",
+    "m": "quạt trần",
+    "example": "Turn on the ceiling fan, it's hot.",
+    "example_vi": "Hãy bật quạt trần lên, trời nóng quá."
+  },
+  {
+    "w": "light switch",
+    "p": "laɪt swɪtʃ",
+    "m": "công tắc đèn",
+    "example": "The light switch is next to the door.",
+    "example_vi": "Công tắc đèn ở bên cạnh cửa ra vào."
+  },
+  {
+    "w": "power outlet",
+    "p": "ˈpaʊər ˈaʊtlet",
+    "m": "ổ cắm điện",
+    "example": "Plug the charger into the power outlet.",
+    "example_vi": "Hãy cắm bộ sạc vào ổ cắm điện."
+  },
+  {
+    "w": "cold snap",
+    "p": "koʊld snæp",
+    "m": "đợt lạnh đột ngột",
+    "example": "A sudden cold snap hit the city last night.",
+    "example_vi": "Một đợt lạnh đột ngột đã ập đến thành phố tối qua."
+  },
+  {
+    "w": "sleet",
+    "p": "sliːt",
+    "m": "mưa tuyết",
+    "example": "It's raining sleet outside today.",
+    "example_vi": "Hôm nay ngoài trời đang có mưa tuyết."
+  },
+  {
+    "w": "one-way street",
+    "p": "wʌn weɪ striːt",
+    "m": "đường một chiều",
+    "example": "You can't turn here, it's a one-way street.",
+    "example_vi": "Bạn không thể rẽ ở đây, đây là đường một chiều."
+  },
+  {
+    "w": "dead end",
+    "p": "ded end",
+    "m": "ngõ cụt",
+    "example": "This street is a dead end.",
+    "example_vi": "Con phố này là một ngõ cụt."
+  },
+  {
+    "w": "speed bump",
+    "p": "spiːd bʌmp",
+    "m": "gờ giảm tốc",
+    "example": "Slow down, there is a speed bump ahead.",
+    "example_vi": "Hãy giảm tốc độ, phía trước có gờ giảm tốc."
+  },
+  {
+    "w": "road sign",
+    "p": "roʊd saɪn",
+    "m": "biển báo đường",
+    "example": "The road sign shows the speed limit.",
+    "example_vi": "Biển báo đường cho biết giới hạn tốc độ."
+  },
+  {
+    "w": "adopted child",
+    "p": "əˈdɒptɪd tʃaɪld",
+    "m": "con nuôi",
+    "example": "They raised an adopted child with love.",
+    "example_vi": "Họ nuôi dạy đứa con nuôi bằng tình yêu thương."
+  },
+  {
+    "w": "only child",
+    "p": "ˈoʊnli tʃaɪld",
+    "m": "con một",
+    "example": "He is an only child in his family.",
+    "example_vi": "Anh ấy là con một trong gia đình."
+  },
+  {
+    "w": "grandparent",
+    "p": "ˈɡrænpeərənt",
+    "m": "ông hoặc bà",
+    "example": "My grandparent lives with us.",
+    "example_vi": "Ông (bà) tôi sống cùng chúng tôi."
+  },
+  {
+    "w": "grandson",
+    "p": "ˈɡrænsʌn",
+    "m": "cháu trai",
+    "example": "He plays with his grandson every weekend.",
+    "example_vi": "Ông ấy chơi với cháu trai vào mỗi cuối tuần."
+  },
+  {
+    "w": "granddaughter",
+    "p": "ˈɡrændɔːtər",
+    "m": "cháu gái",
+    "example": "Her granddaughter is five years old.",
+    "example_vi": "Cháu gái của bà ấy năm tuổi."
+  },
+  {
+    "w": "stepbrother",
+    "p": "ˈstepbrʌðər",
+    "m": "anh/em trai kế",
+    "example": "My stepbrother is very kind to me.",
+    "example_vi": "Anh trai kế của tôi rất tốt với tôi."
+  },
+  {
+    "w": "stepsister",
+    "p": "ˈstepsɪstər",
+    "m": "chị/em gái kế",
+    "example": "I share a room with my stepsister.",
+    "example_vi": "Tôi ở chung phòng với chị gái kế của tôi."
+  },
+  {
+    "w": "in-law",
+    "p": "ˈɪn lɔː",
+    "m": "người thân bên vợ hoặc chồng",
+    "example": "My in-laws are coming for dinner.",
+    "example_vi": "Gia đình bên vợ/chồng tôi sẽ đến ăn tối."
+  },
+  {
+    "w": "classmate",
+    "p": "ˈklɑːsmeɪt",
+    "m": "bạn cùng lớp",
+    "example": "She is my classmate at school.",
+    "example_vi": "Cô ấy là bạn cùng lớp với tôi ở trường."
+  },
+  {
+    "w": "noodles",
+    "p": "ˈnuːdəlz",
+    "m": "mì sợi",
+    "example": "I like eating noodles for lunch.",
+    "example_vi": "Tôi thích ăn mì vào bữa trưa."
+  },
+  {
+    "w": "ham",
+    "p": "hæm",
+    "m": "thịt giăm bông",
+    "example": "She made a sandwich with ham and cheese.",
+    "example_vi": "Cô ấy làm bánh sandwich với giăm bông và phô mai."
+  },
+  {
+    "w": "sales assistant",
+    "p": "seɪlz əˈsɪstənt",
+    "m": "nhân viên bán hàng",
+    "example": "The sales assistant helped me find a jacket.",
+    "example_vi": "Nhân viên bán hàng đã giúp tôi tìm một chiếc áo khoác."
+  },
+  {
+    "w": "jeweler",
+    "p": "ˈdʒuːələr",
+    "m": "thợ kim hoàn",
+    "example": "The jeweler fixed my watch.",
+    "example_vi": "Thợ kim hoàn đã sửa đồng hồ của tôi."
+  },
+  {
+    "w": "hardware store",
+    "p": "ˈhɑːdweər stɔːr",
+    "m": "cửa hàng dụng cụ",
+    "example": "My father bought a hammer at the hardware store.",
+    "example_vi": "Bố tôi đã mua một cái búa ở cửa hàng dụng cụ."
+  },
+  {
+    "w": "gift shop",
+    "p": "ɡɪft ʃɒp",
+    "m": "cửa hàng quà tặng",
+    "example": "We found a nice gift shop near the museum.",
+    "example_vi": "Chúng tôi tìm thấy một cửa hàng quà tặng đẹp gần bảo tàng."
+  },
+  {
+    "w": "half past",
+    "p": "hɑːf pɑːst",
+    "m": "rưỡi (dùng để chỉ giờ, ví dụ nửa tiếng sau giờ tròn)",
+    "example": "It's half past six now.",
+    "example_vi": "Bây giờ là sáu giờ rưỡi."
+  },
+  {
+    "w": "collection",
+    "p": "kəˈlekʃən",
+    "m": "bộ sưu tập",
+    "example": "He has a big stamp collection.",
+    "example_vi": "Anh ấy có một bộ sưu tập tem lớn."
+  },
+  {
+    "w": "stormy",
+    "p": "ˈstɔːmi",
+    "m": "có bão",
+    "example": "It was too stormy to go outside.",
+    "example_vi": "Trời có bão nên không thể ra ngoài."
+  },
+  {
+    "w": "boiling",
+    "p": "ˈbɔɪlɪŋ",
+    "m": "rất nóng, nóng như sôi",
+    "example": "It's boiling hot today.",
+    "example_vi": "Hôm nay trời nóng như thiêu đốt."
+  },
+  {
+    "w": "highway",
+    "p": "ˈhaɪweɪ",
+    "m": "đường cao tốc",
+    "example": "We drove on the highway to the city.",
+    "example_vi": "Chúng tôi lái xe trên đường cao tốc để vào thành phố."
+  },
+  {
+    "w": "driver's license",
+    "p": "ˈdraɪvərz ˈlaɪsəns",
+    "m": "bằng lái xe",
+    "example": "He got his driver's license last month.",
+    "example_vi": "Anh ấy đã có bằng lái xe vào tháng trước."
+  },
+  {
+    "w": "armchair",
+    "p": "ˈɑːmtʃeər",
+    "m": "ghế bành",
+    "example": "Grandpa likes to sit in his armchair.",
+    "example_vi": "Ông thích ngồi trên ghế bành của mình."
+  },
+  {
+    "w": "bathtub",
+    "p": "ˈbɑːθtʌb",
+    "m": "bồn tắm",
+    "example": "The children are playing in the bathtub.",
+    "example_vi": "Bọn trẻ đang chơi đùa trong bồn tắm."
+  },
+  {
+    "w": "sandals",
+    "p": "ˈsændəlz",
+    "m": "dép xăng đan",
+    "example": "She wore sandals to the beach.",
+    "example_vi": "Cô ấy mang dép xăng đan ra biển."
+  },
+  {
+    "w": "chalkboard",
+    "p": "ˈtʃɔːkbɔːrd",
+    "m": "bảng phấn",
+    "example": "The teacher wrote the words on the chalkboard.",
+    "example_vi": "Cô giáo viết các từ lên bảng phấn."
+  },
+  {
+    "w": "waitress",
+    "p": "ˈweɪtrəs",
+    "m": "nữ nhân viên phục vụ",
+    "example": "The waitress brought us the menu.",
+    "example_vi": "Nữ phục vụ mang thực đơn đến cho chúng tôi."
+  },
+  {
+    "w": "fisherman",
+    "p": "ˈfɪʃərmən",
+    "m": "ngư dân",
+    "example": "The fisherman caught many fish today.",
+    "example_vi": "Người ngư dân hôm nay bắt được rất nhiều cá."
+  },
+  {
+    "w": "firefighter",
+    "p": "ˈfaɪərfaɪtər",
+    "m": "lính cứu hỏa",
+    "example": "The firefighter saved a family from the fire.",
+    "example_vi": "Lính cứu hỏa đã cứu một gia đình khỏi đám cháy."
+  },
+  {
+    "w": "postman",
+    "p": "ˈpoʊstmən",
+    "m": "người đưa thư",
+    "example": "The postman delivers letters every morning.",
+    "example_vi": "Người đưa thư giao thư mỗi sáng."
+  },
+  {
+    "w": "puppy",
+    "p": "ˈpʌpi",
+    "m": "chó con",
+    "example": "We got a cute puppy last week.",
+    "example_vi": "Chúng tôi có một chú chó con dễ thương vào tuần trước."
+  },
+  {
+    "w": "kitten",
+    "p": "ˈkɪtn",
+    "m": "mèo con",
+    "example": "The kitten is sleeping on the sofa.",
+    "example_vi": "Chú mèo con đang ngủ trên ghế sofa."
+  },
+  {
+    "w": "goose",
+    "p": "ɡuːs",
+    "m": "con ngỗng",
+    "example": "There is a goose swimming in the pond.",
+    "example_vi": "Có một con ngỗng đang bơi trong ao."
+  },
+  {
+    "w": "goat",
+    "p": "ɡoʊt",
+    "m": "con dê",
+    "example": "The goat is eating grass in the field.",
+    "example_vi": "Con dê đang ăn cỏ trên cánh đồng."
+  },
+  {
+    "w": "mosquito",
+    "p": "məˈskiːtoʊ",
+    "m": "con muỗi",
+    "example": "A mosquito bit me last night.",
+    "example_vi": "Một con muỗi đã đốt tôi tối qua."
+  },
+  {
+    "w": "weather report",
+    "p": "ˈweðər rɪˈpɔːrt",
+    "m": "bản tin thời tiết",
+    "example": "I watched the weather report this morning.",
+    "example_vi": "Sáng nay tôi đã xem bản tin thời tiết."
+  },
+  {
+    "w": "temperature scale",
+    "p": "ˈtemprətʃər skeɪl",
+    "m": "thang đo nhiệt độ",
+    "example": "Celsius is a common temperature scale.",
+    "example_vi": "Độ C là một thang đo nhiệt độ phổ biến."
+  },
+  {
+    "w": "north",
+    "p": "nɔːrθ",
+    "m": "hướng bắc",
+    "example": "The wind is blowing from the north.",
+    "example_vi": "Gió đang thổi từ hướng bắc."
+  },
+  {
+    "w": "south",
+    "p": "saʊθ",
+    "m": "hướng nam",
+    "example": "Birds fly south in winter.",
+    "example_vi": "Chim bay về hướng nam vào mùa đông."
+  },
+  {
+    "w": "east",
+    "p": "iːst",
+    "m": "hướng đông",
+    "example": "The sun rises in the east.",
+    "example_vi": "Mặt trời mọc ở hướng đông."
+  },
+  {
+    "w": "west",
+    "p": "west",
+    "m": "hướng tây",
+    "example": "The sun sets in the west.",
+    "example_vi": "Mặt trời lặn ở hướng tây."
+  },
+  {
+    "w": "postcode",
+    "p": "ˈpoʊstkoʊd",
+    "m": "mã bưu điện",
+    "example": "Please write your postcode on the form.",
+    "example_vi": "Vui lòng viết mã bưu điện của bạn vào biểu mẫu."
+  },
+  {
+    "w": "nearby",
+    "p": "ˌnɪrˈbaɪ",
+    "m": "ở gần đây",
+    "example": "There is a park nearby our house.",
+    "example_vi": "Có một công viên ở gần nhà chúng tôi."
+  },
+  {
+    "w": "thank",
+    "p": "θæŋk",
+    "m": "cảm ơn",
+    "example": "I want to thank you for your help.",
+    "example_vi": "Tôi muốn cảm ơn bạn vì sự giúp đỡ."
+  },
+  {
+    "w": "hardworking",
+    "p": "ˌhɑːrdˈwɜːrkɪŋ",
+    "m": "chăm chỉ",
+    "example": "She is a hardworking student.",
+    "example_vi": "Cô ấy là một học sinh chăm chỉ."
+  },
+  {
+    "w": "uncomfortable",
+    "p": "ʌnˈkʌmftəbl",
+    "m": "không thoải mái",
+    "example": "This chair is very uncomfortable.",
+    "example_vi": "Chiếc ghế này rất không thoải mái."
+  },
+  {
+    "w": "crowded",
+    "p": "ˈkraʊdɪd",
+    "m": "đông đúc",
+    "example": "The bus was very crowded this morning.",
+    "example_vi": "Xe buýt sáng nay rất đông đúc."
+  },
+  {
+    "w": "raw",
+    "p": "rɔː",
+    "m": "sống, chưa nấu chín",
+    "example": "Please don't eat raw meat.",
+    "example_vi": "Xin đừng ăn thịt sống."
+  },
+  {
+    "w": "cooked",
+    "p": "kʊkt",
+    "m": "đã nấu chín",
+    "example": "The chicken is fully cooked.",
+    "example_vi": "Con gà đã được nấu chín kỹ."
+  },
+  {
+    "w": "zoo",
+    "p": "zuː",
+    "m": "sở thú",
+    "example": "We took the kids to the zoo.",
+    "example_vi": "Chúng tôi đã đưa bọn trẻ đến sở thú."
+  },
+  {
+    "w": "amusement park",
+    "p": "əˈmjuːzmənt pɑːrk",
+    "m": "công viên giải trí",
+    "example": "We had fun at the amusement park.",
+    "example_vi": "Chúng tôi đã có một khoảng thời gian vui vẻ ở công viên giải trí."
+  },
+  {
+    "w": "hotel room",
+    "p": "hoʊˈtel ruːm",
+    "m": "phòng khách sạn",
+    "example": "Our hotel room has a nice view.",
+    "example_vi": "Phòng khách sạn của chúng tôi có tầm nhìn đẹp."
+  },
+  {
+    "w": "check-in",
+    "p": "ˈtʃek ɪn",
+    "m": "làm thủ tục nhận phòng hoặc lên máy bay",
+    "example": "Check-in starts at two o'clock.",
+    "example_vi": "Thủ tục nhận phòng bắt đầu lúc hai giờ."
+  },
+  {
+    "w": "check-out",
+    "p": "ˈtʃek aʊt",
+    "m": "làm thủ tục trả phòng",
+    "example": "We need to check-out before noon.",
+    "example_vi": "Chúng tôi cần làm thủ tục trả phòng trước buổi trưa."
+  },
+  {
+    "w": "eggplant",
+    "p": "ˈeɡplænt",
+    "m": "cà tím",
+    "example": "My mother cooked eggplant for dinner.",
+    "example_vi": "Mẹ tôi đã nấu cà tím cho bữa tối."
+  },
+  {
+    "w": "zucchini",
+    "p": "zuˈkiːni",
+    "m": "bí ngòi",
+    "example": "We grow zucchini in our garden.",
+    "example_vi": "Chúng tôi trồng bí ngòi trong vườn nhà."
+  },
+  {
+    "w": "leek",
+    "p": "liːk",
+    "m": "tỏi tây",
+    "example": "She added leek to the soup.",
+    "example_vi": "Cô ấy đã cho tỏi tây vào món súp."
+  },
+  {
+    "w": "pineapple",
+    "p": "ˈpaɪnæpl",
+    "m": "quả dứa",
+    "example": "This pineapple is very sweet.",
+    "example_vi": "Quả dứa này rất ngọt."
+  },
+  {
+    "w": "papaya",
+    "p": "pəˈpaɪə",
+    "m": "quả đu đủ",
+    "example": "I had papaya for breakfast.",
+    "example_vi": "Tôi đã ăn đu đủ vào bữa sáng."
+  },
+  {
+    "w": "mango",
+    "p": "ˈmæŋɡoʊ",
+    "m": "quả xoài",
+    "example": "Mango is my favorite fruit.",
+    "example_vi": "Xoài là trái cây yêu thích của tôi."
+  },
+  {
+    "w": "kiwi",
+    "p": "ˈkiːwiː",
+    "m": "quả kiwi",
+    "example": "She cut the kiwi into small pieces.",
+    "example_vi": "Cô ấy cắt quả kiwi thành từng miếng nhỏ."
+  },
+  {
+    "w": "peach",
+    "p": "piːtʃ",
+    "m": "quả đào",
+    "example": "He bought some fresh peaches.",
+    "example_vi": "Anh ấy đã mua vài quả đào tươi."
+  },
+  {
+    "w": "cherry",
+    "p": "ˈtʃeri",
+    "m": "quả anh đào",
+    "example": "The cherry tree is full of fruit.",
+    "example_vi": "Cây anh đào sai trĩu quả."
+  },
+  {
+    "w": "guava",
+    "p": "ˈɡwɑːvə",
+    "m": "quả ổi",
+    "example": "We picked guava from the tree.",
+    "example_vi": "Chúng tôi đã hái ổi trên cây."
+  },
+  {
+    "w": "shrimp",
+    "p": "ʃrɪmp",
+    "m": "tôm nhỏ",
+    "example": "The soup has shrimp in it.",
+    "example_vi": "Món súp này có tôm."
+  },
+  {
+    "w": "prawn",
+    "p": "prɔːn",
+    "m": "tôm",
+    "example": "We ordered grilled prawns.",
+    "example_vi": "Chúng tôi đã gọi món tôm nướng."
+  },
+  {
+    "w": "crab",
+    "p": "kræb",
+    "m": "con cua",
+    "example": "They caught a big crab on the beach.",
+    "example_vi": "Họ đã bắt được một con cua to trên bãi biển."
+  },
+  {
+    "w": "veal",
+    "p": "viːl",
+    "m": "thịt bê",
+    "example": "The restaurant serves veal with vegetables.",
+    "example_vi": "Nhà hàng phục vụ thịt bê với rau củ."
+  },
+  {
+    "w": "cocoa",
+    "p": "ˈkoʊkoʊ",
+    "m": "ca cao",
+    "example": "I drink hot cocoa in winter.",
+    "example_vi": "Tôi uống ca cao nóng vào mùa đông."
+  },
+  {
+    "w": "herbal tea",
+    "p": "ˈhɜːrbəl tiː",
+    "m": "trà thảo mộc",
+    "example": "She likes to drink herbal tea before bed.",
+    "example_vi": "Cô ấy thích uống trà thảo mộc trước khi đi ngủ."
+  },
+  {
+    "w": "sparkling water",
+    "p": "ˈspɑːrklɪŋ ˈwɔːtər",
+    "m": "nước có ga",
+    "example": "Can I have a glass of sparkling water?",
+    "example_vi": "Tôi có thể xin một ly nước có ga được không?"
+  },
+  {
+    "w": "mineral water",
+    "p": "ˈmɪnərəl ˈwɔːtər",
+    "m": "nước khoáng",
+    "example": "He always drinks mineral water.",
+    "example_vi": "Anh ấy luôn uống nước khoáng."
+  },
+  {
+    "w": "tongs",
+    "p": "tɒŋz",
+    "m": "cái kẹp gắp",
+    "example": "Use the tongs to pick up the meat.",
+    "example_vi": "Hãy dùng kẹp gắp để lấy miếng thịt."
+  },
+  {
+    "w": "nightstand",
+    "p": "ˈnaɪtstænd",
+    "m": "tủ đầu giường",
+    "example": "There is a lamp on the nightstand.",
+    "example_vi": "Có một chiếc đèn trên tủ đầu giường."
+  },
+  {
+    "w": "rocking chair",
+    "p": "ˈrɒkɪŋ tʃeər",
+    "m": "ghế bập bênh",
+    "example": "Grandma sat in her rocking chair.",
+    "example_vi": "Bà ngồi trên chiếc ghế bập bênh của mình."
+  },
+  {
+    "w": "footstool",
+    "p": "ˈfʊtstuːl",
+    "m": "ghế nhỏ để gác chân",
+    "example": "He put his feet on the footstool.",
+    "example_vi": "Anh ấy gác chân lên ghế gác chân."
+  },
+  {
+    "w": "nail",
+    "p": "neɪl",
+    "m": "cái đinh",
+    "example": "He hit the nail with a hammer.",
+    "example_vi": "Anh ấy đóng đinh bằng một cái búa."
+  },
+  {
+    "w": "glue stick",
+    "p": "ɡluː stɪk",
+    "m": "keo dán dạng thỏi",
+    "example": "The children used a glue stick for their project.",
+    "example_vi": "Bọn trẻ đã dùng keo dán để làm bài tập."
+  },
+  {
+    "w": "marker pen",
+    "p": "ˈmɑːrkər pen",
+    "m": "bút dạ",
+    "example": "She wrote her name with a marker pen.",
+    "example_vi": "Cô ấy viết tên mình bằng bút dạ."
+  },
+  {
+    "w": "postage stamp",
+    "p": "ˈpoʊstɪdʒ stæmp",
+    "m": "tem thư",
+    "example": "I need a postage stamp for this letter.",
+    "example_vi": "Tôi cần một con tem cho bức thư này."
+  },
+  {
+    "w": "mittens",
+    "p": "ˈmɪtnz",
+    "m": "bao tay liền ngón giữ ấm",
+    "example": "She wore mittens in the cold weather.",
+    "example_vi": "Cô ấy đeo bao tay liền ngón khi trời lạnh."
+  },
+  {
+    "w": "earmuffs",
+    "p": "ˈɪərmʌfs",
+    "m": "bịt tai giữ ấm",
+    "example": "He put on earmuffs before going outside.",
+    "example_vi": "Anh ấy đeo bịt tai trước khi ra ngoài."
+  },
+  {
+    "w": "slippers",
+    "p": "ˈslɪpərz",
+    "m": "dép đi trong nhà",
+    "example": "I always wear slippers at home.",
+    "example_vi": "Tôi luôn mang dép đi trong nhà."
+  },
+  {
+    "w": "table tennis",
+    "p": "ˈteɪbl ˈtenɪs",
+    "m": "bóng bàn",
+    "example": "We play table tennis after school.",
+    "example_vi": "Chúng tôi chơi bóng bàn sau giờ học."
+  },
+  {
+    "w": "baseball",
+    "p": "ˈbeɪsbɔːl",
+    "m": "bóng chày",
+    "example": "My brother plays baseball on Saturdays.",
+    "example_vi": "Anh trai tôi chơi bóng chày vào thứ Bảy."
+  },
+  {
+    "w": "bowling",
+    "p": "ˈboʊlɪŋ",
+    "m": "môn bowling",
+    "example": "We went bowling with our friends.",
+    "example_vi": "Chúng tôi đã đi chơi bowling cùng bạn bè."
+  },
+  {
+    "w": "ice skating",
+    "p": "aɪs ˈskeɪtɪŋ",
+    "m": "trượt băng",
+    "example": "She learned ice skating last winter.",
+    "example_vi": "Cô ấy đã học trượt băng vào mùa đông năm ngoái."
+  },
+  {
+    "w": "babysitter",
+    "p": "ˈbeɪbisɪtər",
+    "m": "người trông trẻ",
+    "example": "We hired a babysitter for the evening.",
+    "example_vi": "Chúng tôi đã thuê một người trông trẻ cho buổi tối."
+  },
+  {
+    "w": "security guard",
+    "p": "sɪˈkjʊrəti ɡɑːrd",
+    "m": "bảo vệ",
+    "example": "The security guard checks every bag.",
+    "example_vi": "Người bảo vệ kiểm tra từng chiếc túi."
+  },
+  {
+    "w": "janitor",
+    "p": "ˈdʒænɪtər",
+    "m": "người lao công, gác cổng",
+    "example": "The janitor cleans the school every day.",
+    "example_vi": "Người lao công dọn dẹp trường học mỗi ngày."
+  },
+  {
+    "w": "optician",
+    "p": "ɑːpˈtɪʃən",
+    "m": "người bán và đo kính mắt",
+    "example": "I need to visit the optician for new glasses.",
+    "example_vi": "Tôi cần đến gặp người bán kính mắt để làm kính mới."
+  },
+  {
+    "w": "bus station",
+    "p": "bʌs ˈsteɪʃən",
+    "m": "bến xe buýt",
+    "example": "The bus station is near my house.",
+    "example_vi": "Bến xe buýt ở gần nhà tôi."
+  },
+  {
+    "w": "car park",
+    "p": "kɑːr pɑːrk",
+    "m": "bãi đỗ xe",
+    "example": "We left our car in the car park.",
+    "example_vi": "Chúng tôi đã để xe ở bãi đỗ xe."
+  },
+  {
+    "w": "runny nose",
+    "p": "ˈrʌni noʊz",
+    "m": "sổ mũi",
+    "example": "I have a runny nose because of my cold.",
+    "example_vi": "Tôi bị sổ mũi vì cảm lạnh."
+  },
+  {
+    "w": "sneezing",
+    "p": "ˈsniːzɪŋ",
+    "m": "hắt hơi",
+    "example": "She keeps sneezing this morning.",
+    "example_vi": "Sáng nay cô ấy cứ hắt hơi liên tục."
+  },
+  {
+    "w": "sit down",
+    "p": "sɪt daʊn",
+    "m": "ngồi xuống",
+    "example": "Please sit down and relax.",
+    "example_vi": "Xin mời ngồi xuống và thư giãn."
+  },
+  {
+    "w": "stand up",
+    "p": "stænd ʌp",
+    "m": "đứng lên",
+    "example": "The students stand up when the teacher enters.",
+    "example_vi": "Học sinh đứng lên khi giáo viên bước vào."
+  },
+  {
+    "w": "wait for",
+    "p": "weɪt fɔːr",
+    "m": "chờ đợi",
+    "example": "I am waiting for the bus.",
+    "example_vi": "Tôi đang chờ xe buýt."
+  },
+  {
+    "w": "listen to",
+    "p": "ˈlɪsən tuː",
+    "m": "lắng nghe",
+    "example": "I like to listen to music at night.",
+    "example_vi": "Tôi thích nghe nhạc vào buổi tối."
+  },
+  {
+    "w": "beforehand",
+    "p": "bɪˈfɔːrhænd",
+    "m": "trước đó, trước khi",
+    "example": "Please call me beforehand.",
+    "example_vi": "Vui lòng gọi cho tôi trước."
+  },
+  {
+    "w": "afterward",
+    "p": "ˈæftərwərd",
+    "m": "sau đó",
+    "example": "We had dinner and went for a walk afterward.",
+    "example_vi": "Chúng tôi ăn tối và sau đó đi dạo."
+  },
+  {
+    "w": "indoors",
+    "p": "ɪnˈdɔːrz",
+    "m": "trong nhà",
+    "example": "We stayed indoors because of the rain.",
+    "example_vi": "Chúng tôi ở trong nhà vì trời mưa."
+  },
+  {
+    "w": "outdoors",
+    "p": "aʊtˈdɔːrz",
+    "m": "ngoài trời",
+    "example": "The children love playing outdoors.",
+    "example_vi": "Bọn trẻ rất thích chơi ngoài trời."
+  },
+  {
+    "w": "garlic",
+    "p": "ˈɡɑːrlɪk",
+    "m": "tỏi",
+    "example": "Add some garlic to the sauce.",
+    "example_vi": "Hãy cho một ít tỏi vào nước sốt."
+  },
+  {
+    "w": "peas",
+    "p": "piːz",
+    "m": "đậu Hà Lan",
+    "example": "I don't like peas very much.",
+    "example_vi": "Tôi không thích đậu Hà Lan lắm."
+  },
+  {
+    "w": "beans",
+    "p": "biːnz",
+    "m": "đậu",
+    "example": "We had rice and beans for dinner.",
+    "example_vi": "Chúng tôi ăn cơm với đậu vào bữa tối."
+  },
+  {
+    "w": "peanut",
+    "p": "ˈpiːnʌt",
+    "m": "đậu phộng",
+    "example": "He is allergic to peanut.",
+    "example_vi": "Anh ấy bị dị ứng với đậu phộng."
+  },
+  {
+    "w": "raisin",
+    "p": "ˈreɪzn",
+    "m": "nho khô",
+    "example": "She put raisins in the cake.",
+    "example_vi": "Cô ấy cho nho khô vào chiếc bánh."
+  },
+  {
+    "w": "melon",
+    "p": "ˈmelən",
+    "m": "dưa",
+    "example": "The melon is sweet and juicy.",
+    "example_vi": "Quả dưa này ngọt và mọng nước."
+  },
+  {
+    "w": "grapefruit",
+    "p": "ˈɡreɪpfruːt",
+    "m": "bưởi",
+    "example": "I eat grapefruit for breakfast.",
+    "example_vi": "Tôi ăn bưởi vào bữa sáng."
+  },
+  {
+    "w": "cabinet",
+    "p": "ˈkæbɪnət",
+    "m": "tủ ngăn kéo",
+    "example": "The plates are in the kitchen cabinet.",
+    "example_vi": "Những chiếc đĩa nằm trong tủ bếp."
+  },
+  {
+    "w": "storage box",
+    "p": "ˈstɔːrɪdʒ bɒks",
+    "m": "hộp đựng đồ",
+    "example": "We keep old toys in a storage box.",
+    "example_vi": "Chúng tôi để đồ chơi cũ trong hộp đựng đồ."
+  },
+  {
+    "w": "key ring",
+    "p": "kiː rɪŋ",
+    "m": "vòng đeo chìa khóa",
+    "example": "He lost his key ring yesterday.",
+    "example_vi": "Hôm qua anh ấy đã làm mất chùm chìa khóa."
+  },
+  {
+    "w": "padlock",
+    "p": "ˈpædlɒk",
+    "m": "ổ khóa treo",
+    "example": "She locked the gate with a padlock.",
+    "example_vi": "Cô ấy khóa cổng bằng một cái ổ khóa treo."
+  },
+  {
+    "w": "matchbox",
+    "p": "ˈmætʃbɒks",
+    "m": "hộp diêm",
+    "example": "There is a matchbox on the shelf.",
+    "example_vi": "Có một hộp diêm trên kệ."
+  },
+  {
+    "w": "clothesline",
+    "p": "ˈkloʊzlaɪn",
+    "m": "dây phơi đồ",
+    "example": "She hung the towels on the clothesline.",
+    "example_vi": "Cô ấy phơi khăn tắm trên dây phơi đồ."
+  },
+  {
+    "w": "clothespin",
+    "p": "ˈkloʊzpɪn",
+    "m": "kẹp phơi đồ",
+    "example": "He used a clothespin to hang the shirt.",
+    "example_vi": "Anh ấy dùng kẹp phơi đồ để treo chiếc áo."
+  },
+  {
+    "w": "lunchbox",
+    "p": "ˈlʌntʃbɒks",
+    "m": "hộp cơm trưa",
+    "example": "I pack my lunchbox every morning.",
+    "example_vi": "Mỗi sáng tôi chuẩn bị hộp cơm trưa của mình."
+  },
+  {
+    "w": "water bottle",
+    "p": "ˈwɔːtər bɒtl",
+    "m": "chai nước",
+    "example": "Don't forget your water bottle.",
+    "example_vi": "Đừng quên mang theo chai nước của bạn."
+  },
+  {
+    "w": "gym bag",
+    "p": "dʒɪm bæɡ",
+    "m": "túi đựng đồ tập thể dục",
+    "example": "He packed his shoes in the gym bag.",
+    "example_vi": "Anh ấy để giày vào túi tập gym."
+  },
+  {
+    "w": "handbag",
+    "p": "ˈhændbæɡ",
+    "m": "túi xách tay",
+    "example": "She always carries a small handbag.",
+    "example_vi": "Cô ấy luôn mang theo một chiếc túi xách nhỏ."
+  },
+  {
+    "w": "luggage tag",
+    "p": "ˈlʌɡɪdʒ tæɡ",
+    "m": "thẻ hành lý",
+    "example": "Put a luggage tag on your suitcase.",
+    "example_vi": "Hãy gắn thẻ hành lý vào vali của bạn."
+  },
+  {
+    "w": "seat number",
+    "p": "siːt ˈnʌmbər",
+    "m": "số ghế",
+    "example": "Check your seat number on the ticket.",
+    "example_vi": "Hãy kiểm tra số ghế của bạn trên vé."
+  },
+  {
+    "w": "departure gate",
+    "p": "dɪˈpɑːrtʃər ɡeɪt",
+    "m": "cổng khởi hành",
+    "example": "Our departure gate is number twelve.",
+    "example_vi": "Cổng khởi hành của chúng tôi là số mười hai."
+  },
+  {
+    "w": "bank account",
+    "p": "bæŋk əˈkaʊnt",
+    "m": "tài khoản ngân hàng",
+    "example": "I opened a new bank account.",
+    "example_vi": "Tôi đã mở một tài khoản ngân hàng mới."
+  },
+  {
+    "w": "ATM machine",
+    "p": "ˌeɪ tiː ˈem məˈʃiːn",
+    "m": "máy rút tiền tự động",
+    "example": "There is an ATM machine near the shop.",
+    "example_vi": "Có một máy ATM gần cửa hàng."
+  },
+  {
+    "w": "first aid kit",
+    "p": "fɜːrst eɪd kɪt",
+    "m": "hộp sơ cứu",
+    "example": "Every car should have a first aid kit.",
+    "example_vi": "Mỗi chiếc xe hơi đều nên có một hộp sơ cứu."
+  },
+  {
+    "w": "traffic sign",
+    "p": "ˈtræfɪk saɪn",
+    "m": "biển báo giao thông",
+    "example": "Follow the traffic sign to turn left.",
+    "example_vi": "Hãy làm theo biển báo giao thông để rẽ trái."
+  },
+  {
+    "w": "bicycle lane",
+    "p": "ˈbaɪsɪkl leɪn",
+    "m": "làn đường dành cho xe đạp",
+    "example": "She rides her bike in the bicycle lane.",
+    "example_vi": "Cô ấy đạp xe trên làn đường dành cho xe đạp."
+  },
+  {
+    "w": "delivery van",
+    "p": "dɪˈlɪvəri væn",
+    "m": "xe tải giao hàng",
+    "example": "A delivery van stopped in front of our house.",
+    "example_vi": "Một chiếc xe tải giao hàng đã dừng trước nhà chúng tôi."
+  },
+  {
+    "w": "helicopter",
+    "p": "ˈhelɪkɒptər",
+    "m": "máy bay trực thăng",
+    "example": "We saw a helicopter flying over the city.",
+    "example_vi": "Chúng tôi thấy một chiếc trực thăng bay qua thành phố."
+  },
+  {
+    "w": "sailboat",
+    "p": "ˈseɪlboʊt",
+    "m": "thuyền buồm",
+    "example": "We saw a sailboat on the lake.",
+    "example_vi": "Chúng tôi thấy một chiếc thuyền buồm trên hồ."
+  },
+  {
+    "w": "rowboat",
+    "p": "ˈroʊboʊt",
+    "m": "thuyền chèo tay",
+    "example": "He rowed the rowboat across the river.",
+    "example_vi": "Anh ấy chèo thuyền qua sông."
+  },
+  {
+    "w": "magnetic compass",
+    "p": "mæɡˈnetɪk ˈkʌmpəs",
+    "m": "la bàn từ tính",
+    "example": "We used a magnetic compass to find our way.",
+    "example_vi": "Chúng tôi đã dùng la bàn để tìm đường."
+  },
+  {
+    "w": "pocket flashlight",
+    "p": "ˈpɒkɪt ˈflæʃlaɪt",
+    "m": "đèn pin bỏ túi",
+    "example": "He carries a pocket flashlight at night.",
+    "example_vi": "Anh ấy mang theo đèn pin bỏ túi vào ban đêm."
+  },
+  {
+    "w": "insect repellent",
+    "p": "ˈɪnsekt rɪˈpelənt",
+    "m": "thuốc chống côn trùng",
+    "example": "Don't forget to bring insect repellent.",
+    "example_vi": "Đừng quên mang theo thuốc chống côn trùng."
+  },
+  {
+    "w": "orchard",
+    "p": "ˈɔːrtʃərd",
+    "m": "vườn cây ăn trái",
+    "example": "We picked apples in the orchard.",
+    "example_vi": "Chúng tôi đã hái táo trong vườn cây ăn trái."
+  },
+  {
+    "w": "vineyard",
+    "p": "ˈvɪnjərd",
+    "m": "vườn nho",
+    "example": "They own a small vineyard in the countryside.",
+    "example_vi": "Họ sở hữu một vườn nho nhỏ ở vùng quê."
+  },
+  {
+    "w": "kiss",
+    "p": "kɪs",
+    "m": "hôn",
+    "example": "She gave her son a kiss goodnight.",
+    "example_vi": "Cô ấy hôn con trai mình chúc ngủ ngon."
+  },
+  {
+    "w": "kneel",
+    "p": "niːl",
+    "m": "quỳ xuống",
+    "example": "He knelt down to tie his shoes.",
+    "example_vi": "Anh ấy quỳ xuống để buộc dây giày."
+  },
+  {
+    "w": "climb",
+    "p": "klaɪm",
+    "m": "leo, trèo",
+    "example": "The children love to climb trees.",
+    "example_vi": "Bọn trẻ rất thích leo cây."
+  },
+  {
+    "w": "skip",
+    "p": "skɪp",
+    "m": "nhảy dây, bỏ qua",
+    "example": "The girls skip rope in the playground.",
+    "example_vi": "Các bé gái nhảy dây ở sân chơi."
+  },
+  {
+    "w": "slide",
+    "p": "slaɪd",
+    "m": "trượt",
+    "example": "The kids slide down the hill on their sleds.",
+    "example_vi": "Bọn trẻ trượt xuống đồi bằng xe trượt tuyết."
+  },
+  {
+    "w": "roll",
+    "p": "roʊl",
+    "m": "lăn",
+    "example": "The ball rolled under the table.",
+    "example_vi": "Quả bóng lăn xuống dưới bàn."
+  },
+  {
+    "w": "lift",
+    "p": "lɪft",
+    "m": "nhấc lên",
+    "example": "Can you help me lift this box?",
+    "example_vi": "Bạn có thể giúp tôi nhấc chiếc hộp này lên không?"
+  },
+  {
+    "w": "drop",
+    "p": "drɒp",
+    "m": "làm rơi",
+    "example": "Be careful not to drop the glass.",
+    "example_vi": "Hãy cẩn thận đừng làm rơi cái ly."
+  },
+  {
+    "w": "touch",
+    "p": "tʌtʃ",
+    "m": "chạm vào",
+    "example": "Please don't touch the paintings.",
+    "example_vi": "Xin đừng chạm vào các bức tranh."
+  },
+  {
+    "w": "grab",
+    "p": "ɡræb",
+    "m": "nắm lấy, chộp lấy",
+    "example": "He grabbed his bag and left quickly.",
+    "example_vi": "Anh ấy nắm lấy chiếc túi và rời đi nhanh chóng."
+  },
+  {
+    "w": "peel",
+    "p": "piːl",
+    "m": "gọt vỏ",
+    "example": "She peeled an orange for her daughter.",
+    "example_vi": "Cô ấy gọt vỏ một quả cam cho con gái mình."
+  },
+  {
+    "w": "steam",
+    "p": "stiːm",
+    "m": "hấp",
+    "example": "We steam the vegetables for dinner.",
+    "example_vi": "Chúng tôi hấp rau cho bữa tối."
+  },
+  {
+    "w": "melt",
+    "p": "melt",
+    "m": "tan chảy",
+    "example": "The ice cream melted in the sun.",
+    "example_vi": "Kem đã tan chảy dưới ánh nắng."
+  },
+  {
+    "w": "slim",
+    "p": "slɪm",
+    "m": "mảnh mai, thon gọn",
+    "example": "She has a slim figure.",
+    "example_vi": "Cô ấy có vóc dáng mảnh mai."
+  },
+  {
+    "w": "chubby",
+    "p": "ˈtʃʌbi",
+    "m": "mũm mĩm",
+    "example": "The baby has chubby cheeks.",
+    "example_vi": "Em bé có đôi má mũm mĩm."
+  },
+  {
+    "w": "plump",
+    "p": "plʌmp",
+    "m": "đầy đặn, mập mạp",
+    "example": "The plump cat sleeps all day.",
+    "example_vi": "Con mèo mập mạp ngủ cả ngày."
+  },
+  {
+    "w": "skinny",
+    "p": "ˈskɪni",
+    "m": "gầy gò",
+    "example": "He was very skinny as a child.",
+    "example_vi": "Hồi nhỏ anh ấy rất gầy gò."
+  },
+  {
+    "w": "muscular",
+    "p": "ˈmʌskjələr",
+    "m": "cơ bắp, khỏe mạnh",
+    "example": "The trainer has a muscular body.",
+    "example_vi": "Huấn luyện viên có thân hình cơ bắp."
+  },
+  {
+    "w": "bald",
+    "p": "bɔːld",
+    "m": "hói đầu",
+    "example": "My grandfather is completely bald.",
+    "example_vi": "Ông tôi bị hói đầu hoàn toàn."
+  },
+  {
+    "w": "wavy hair",
+    "p": "ˈweɪvi heər",
+    "m": "tóc xoăn gợn sóng",
+    "example": "She has long wavy hair.",
+    "example_vi": "Cô ấy có mái tóc dài gợn sóng."
+  },
+  {
+    "w": "freckles",
+    "p": "ˈfreklz",
+    "m": "tàn nhang",
+    "example": "The little girl has freckles on her nose.",
+    "example_vi": "Cô bé có tàn nhang trên mũi."
+  },
+  {
+    "w": "wrinkles",
+    "p": "ˈrɪŋklz",
+    "m": "nếp nhăn",
+    "example": "My grandmother has kind wrinkles around her eyes.",
+    "example_vi": "Bà tôi có những nếp nhăn hiền hậu quanh mắt."
+  },
+  {
+    "w": "dimples",
+    "p": "ˈdɪmplz",
+    "m": "lúm đồng tiền",
+    "example": "He has dimples when he smiles.",
+    "example_vi": "Anh ấy có lúm đồng tiền khi cười."
+  },
+  {
+    "w": "conditioner",
+    "p": "kənˈdɪʃənər",
+    "m": "dầu xả tóc",
+    "example": "I use conditioner after shampoo.",
+    "example_vi": "Tôi dùng dầu xả sau khi gội đầu."
+  },
+  {
+    "w": "perfume",
+    "p": "ˈpɜːrfjuːm",
+    "m": "nước hoa",
+    "example": "She wears perfume every day.",
+    "example_vi": "Cô ấy dùng nước hoa mỗi ngày."
+  },
+  {
+    "w": "deodorant",
+    "p": "diˈoʊdərənt",
+    "m": "lăn khử mùi",
+    "example": "He always uses deodorant after a shower.",
+    "example_vi": "Anh ấy luôn dùng lăn khử mùi sau khi tắm."
+  },
+  {
+    "w": "comb",
+    "p": "koʊm",
+    "m": "cái lược",
+    "example": "She combs her hair every morning.",
+    "example_vi": "Cô ấy chải tóc bằng lược mỗi sáng."
+  },
+  {
+    "w": "hairbrush",
+    "p": "ˈheərbrʌʃ",
+    "m": "bàn chải tóc",
+    "example": "I need a new hairbrush.",
+    "example_vi": "Tôi cần một chiếc bàn chải tóc mới."
+  },
+  {
+    "w": "nail clipper",
+    "p": "neɪl ˈklɪpər",
+    "m": "kìm cắt móng tay",
+    "example": "Use the nail clipper to trim your nails.",
+    "example_vi": "Hãy dùng kìm cắt móng tay để cắt tỉa móng của bạn."
+  },
+  {
+    "w": "cotton swab",
+    "p": "ˈkɒtn swɒb",
+    "m": "tăm bông",
+    "example": "She cleaned her ears with a cotton swab.",
+    "example_vi": "Cô ấy vệ sinh tai bằng tăm bông."
+  },
+  {
+    "w": "toilet paper",
+    "p": "ˈtɔɪlɪt ˈpeɪpər",
+    "m": "giấy vệ sinh",
+    "example": "We need to buy more toilet paper.",
+    "example_vi": "Chúng ta cần mua thêm giấy vệ sinh."
+  },
+  {
+    "w": "hand sanitizer",
+    "p": "hænd ˈsænɪtaɪzər",
+    "m": "nước rửa tay khô",
+    "example": "Please use hand sanitizer before eating.",
+    "example_vi": "Vui lòng dùng nước rửa tay khô trước khi ăn."
+  },
+  {
+    "w": "mouthwash",
+    "p": "ˈmaʊθwɒʃ",
+    "m": "nước súc miệng",
+    "example": "He uses mouthwash after brushing his teeth.",
+    "example_vi": "Anh ấy dùng nước súc miệng sau khi đánh răng."
+  },
+  {
+    "w": "pencil sharpener",
+    "p": "ˈpensl ˈʃɑːrpənər",
+    "m": "cái gọt bút chì",
+    "example": "Can I borrow your pencil sharpener?",
+    "example_vi": "Tôi có thể mượn cái gọt bút chì của bạn không?"
+  },
+  {
+    "w": "math compass",
+    "p": "mæθ ˈkʌmpəs",
+    "m": "compa toán học",
+    "example": "We use a math compass to draw circles.",
+    "example_vi": "Chúng tôi dùng compa toán học để vẽ hình tròn."
+  },
+  {
+    "w": "textbook",
+    "p": "ˈtekstbʊk",
+    "m": "sách giáo khoa",
+    "example": "Please open your textbook to page ten.",
+    "example_vi": "Xin hãy mở sách giáo khoa đến trang mười."
+  },
+  {
+    "w": "workbook",
+    "p": "ˈwɜːrkbʊk",
+    "m": "sách bài tập",
+    "example": "Finish the exercises in your workbook.",
+    "example_vi": "Hãy hoàn thành các bài tập trong sách bài tập."
+  },
+  {
+    "w": "exercise book",
+    "p": "ˈeksərsaɪz bʊk",
+    "m": "vở bài tập",
+    "example": "Write the answers in your exercise book.",
+    "example_vi": "Hãy viết câu trả lời vào vở bài tập của bạn."
+  },
+  {
+    "w": "whiteboard marker",
+    "p": "ˈwaɪtbɔːrd ˈmɑːrkər",
+    "m": "bút viết bảng trắng",
+    "example": "The teacher wrote the date with a whiteboard marker.",
+    "example_vi": "Giáo viên đã viết ngày tháng bằng bút viết bảng trắng."
+  },
+  {
+    "w": "index card",
+    "p": "ˈɪndeks kɑːrd",
+    "m": "thẻ ghi chú nhỏ",
+    "example": "She wrote each word on an index card.",
+    "example_vi": "Cô ấy viết mỗi từ lên một thẻ ghi chú."
+  },
+  {
+    "w": "laundromat",
+    "p": "ˈlɔːndrəmæt",
+    "m": "tiệm giặt ủi tự động",
+    "example": "I wash my clothes at the laundromat.",
+    "example_vi": "Tôi giặt quần áo ở tiệm giặt ủi tự động."
+  },
+  {
+    "w": "dry cleaner",
+    "p": "draɪ ˈkliːnər",
+    "m": "tiệm giặt khô",
+    "example": "He took his suit to the dry cleaner.",
+    "example_vi": "Anh ấy mang bộ vest đến tiệm giặt khô."
+  },
+  {
+    "w": "car wash",
+    "p": "kɑːr wɒʃ",
+    "m": "dịch vụ rửa xe",
+    "example": "We took the car to the car wash.",
+    "example_vi": "Chúng tôi đã đưa xe đến chỗ rửa xe."
+  },
+  {
+    "w": "repair shop",
+    "p": "rɪˈper ʃɒp",
+    "m": "tiệm sửa chữa",
+    "example": "My bike is at the repair shop.",
+    "example_vi": "Xe đạp của tôi đang ở tiệm sửa chữa."
+  },
+  {
+    "w": "print shop",
+    "p": "prɪnt ʃɒp",
+    "m": "tiệm in ấn",
+    "example": "I printed my photos at the print shop.",
+    "example_vi": "Tôi đã in ảnh của mình ở tiệm in ấn."
+  },
+  {
+    "w": "internet cafe",
+    "p": "ˈɪntərnet kæˈfeɪ",
+    "m": "quán net",
+    "example": "He played games at the internet cafe.",
+    "example_vi": "Anh ấy đã chơi game ở quán net."
+  },
+  {
+    "w": "arcade",
+    "p": "ɑːrˈkeɪd",
+    "m": "khu trò chơi điện tử",
+    "example": "The kids spent their money at the arcade.",
+    "example_vi": "Bọn trẻ đã tiêu tiền của mình ở khu trò chơi điện tử."
+  },
+  {
+    "w": "skate park",
+    "p": "skeɪt pɑːrk",
+    "m": "công viên trượt ván",
+    "example": "He practices skateboarding at the skate park.",
+    "example_vi": "Anh ấy tập trượt ván ở công viên trượt ván."
+  },
+  {
+    "w": "botanical garden",
+    "p": "bəˈtænɪkl ˈɡɑːrdn",
+    "m": "vườn bách thảo",
+    "example": "We visited the botanical garden last weekend.",
+    "example_vi": "Chúng tôi đã đến thăm vườn bách thảo vào cuối tuần trước."
+  },
+  {
+    "w": "aquarium",
+    "p": "əˈkweəriəm",
+    "m": "thủy cung",
+    "example": "We saw many fish at the aquarium.",
+    "example_vi": "Chúng tôi đã thấy nhiều loài cá ở thủy cung."
+  },
+  {
+    "w": "planetarium",
+    "p": "ˌplænɪˈteəriəm",
+    "m": "nhà chiếu hình vũ trụ",
+    "example": "The school trip included a visit to the planetarium.",
+    "example_vi": "Chuyến đi của trường có ghé thăm nhà chiếu hình vũ trụ."
+  },
+  {
+    "w": "racetrack",
+    "p": "ˈreɪstræk",
+    "m": "đường đua",
+    "example": "The cars raced around the racetrack.",
+    "example_vi": "Những chiếc xe đua vòng quanh đường đua."
+  },
+  {
+    "w": "city hall",
+    "p": "ˈsɪti hɔːl",
+    "m": "tòa thị chính",
+    "example": "The meeting will be held at city hall.",
+    "example_vi": "Cuộc họp sẽ được tổ chức tại tòa thị chính."
+  },
+  {
+    "w": "tornado",
+    "p": "tɔːrˈneɪdoʊ",
+    "m": "lốc xoáy",
+    "example": "A tornado destroyed several houses.",
+    "example_vi": "Một cơn lốc xoáy đã phá hủy vài ngôi nhà."
+  },
+  {
+    "w": "twin brother",
+    "p": "twɪn ˈbrʌðər",
+    "m": "anh hoặc em trai sinh đôi",
+    "example": "My twin brother looks just like me.",
+    "example_vi": "Anh em sinh đôi của tôi trông giống hệt tôi."
+  },
+  {
+    "w": "twin sister",
+    "p": "twɪn ˈsɪstər",
+    "m": "chị hoặc em gái sinh đôi",
+    "example": "She has a twin sister named Anna.",
+    "example_vi": "Cô ấy có một người chị em sinh đôi tên Anna."
+  },
+  {
+    "w": "pen pal",
+    "p": "pen pæl",
+    "m": "bạn qua thư",
+    "example": "I write letters to my pen pal in Japan.",
+    "example_vi": "Tôi viết thư cho bạn qua thư của tôi ở Nhật Bản."
+  },
+  {
+    "w": "traffic warden",
+    "p": "ˈtræfɪk ˈwɔːrdn",
+    "m": "nhân viên kiểm soát giao thông",
+    "example": "The traffic warden gave the car a ticket.",
+    "example_vi": "Nhân viên kiểm soát giao thông đã ghi vé phạt chiếc xe."
+  },
+  {
+    "w": "parking meter",
+    "p": "ˈpɑːrkɪŋ ˈmiːtər",
+    "m": "đồng hồ tính giờ đỗ xe",
+    "example": "Put some coins in the parking meter.",
+    "example_vi": "Hãy bỏ vài đồng xu vào đồng hồ tính giờ đỗ xe."
+  },
+  {
+    "w": "rest area",
+    "p": "rest ˈeəriə",
+    "m": "khu vực nghỉ chân bên đường",
+    "example": "We stopped at a rest area for lunch.",
+    "example_vi": "Chúng tôi đã dừng ở khu vực nghỉ chân để ăn trưa."
+  },
+  {
+    "w": "service station",
+    "p": "ˈsɜːrvɪs ˈsteɪʃən",
+    "m": "trạm xăng dầu, trạm dịch vụ",
+    "example": "We filled the tank at the service station.",
+    "example_vi": "Chúng tôi đã đổ đầy bình xăng tại trạm dịch vụ."
+  },
+  {
+    "w": "takeaway food",
+    "p": "ˈteɪkəweɪ fuːd",
+    "m": "đồ ăn mang đi",
+    "example": "We ordered takeaway food for dinner.",
+    "example_vi": "Chúng tôi đã đặt đồ ăn mang đi cho bữa tối."
+  },
+  {
+    "w": "fast food",
+    "p": "fæst fuːd",
+    "m": "thức ăn nhanh",
+    "example": "He eats fast food too often.",
+    "example_vi": "Anh ấy ăn thức ăn nhanh quá thường xuyên."
+  },
+  {
+    "w": "homemade food",
+    "p": "ˌhoʊmˈmeɪd fuːd",
+    "m": "đồ ăn tự nấu tại nhà",
+    "example": "I prefer homemade food to restaurant food.",
+    "example_vi": "Tôi thích đồ ăn tự nấu hơn là đồ ăn nhà hàng."
+  },
+  {
+    "w": "frozen food",
+    "p": "ˈfroʊzn fuːd",
+    "m": "đồ ăn đông lạnh",
+    "example": "We keep frozen food in the freezer.",
+    "example_vi": "Chúng tôi để đồ ăn đông lạnh trong tủ đông."
+  },
+  {
+    "w": "canned food",
+    "p": "kænd fuːd",
+    "m": "đồ hộp",
+    "example": "Canned food can be stored for a long time.",
+    "example_vi": "Đồ hộp có thể bảo quản được lâu."
+  },
+  {
+    "w": "packed lunch",
+    "p": "pækt lʌntʃ",
+    "m": "bữa trưa mang theo",
+    "example": "My mother makes me a packed lunch every day.",
+    "example_vi": "Mẹ tôi làm cho tôi bữa trưa mang theo mỗi ngày."
+  },
+  {
+    "w": "set meal",
+    "p": "set miːl",
+    "m": "suất ăn theo set",
+    "example": "We ordered the set meal at the restaurant.",
+    "example_vi": "Chúng tôi đã gọi suất ăn theo set ở nhà hàng."
+  },
+  {
+    "w": "clearance sale",
+    "p": "ˈklɪrəns seɪl",
+    "m": "bán thanh lý",
+    "example": "The shop is having a clearance sale this week.",
+    "example_vi": "Cửa hàng đang có đợt bán thanh lý trong tuần này."
+  },
+  {
+    "w": "price reduction",
+    "p": "praɪs rɪˈdʌkʃən",
+    "m": "giảm giá",
+    "example": "There is a big price reduction on shoes.",
+    "example_vi": "Có một đợt giảm giá lớn cho giày dép."
+  },
+  {
+    "w": "cash register",
+    "p": "kæʃ ˈredʒɪstər",
+    "m": "máy tính tiền",
+    "example": "The cashier stood behind the cash register.",
+    "example_vi": "Người thu ngân đứng sau máy tính tiền."
+  },
+  {
+    "w": "shopping list",
+    "p": "ˈʃɒpɪŋ lɪst",
+    "m": "danh sách mua sắm",
+    "example": "I always write a shopping list before going out.",
+    "example_vi": "Tôi luôn viết danh sách mua sắm trước khi ra ngoài."
+  },
+  {
+    "w": "delivery service",
+    "p": "dɪˈlɪvəri ˈsɜːrvɪs",
+    "m": "dịch vụ giao hàng",
+    "example": "This restaurant offers a delivery service.",
+    "example_vi": "Nhà hàng này cung cấp dịch vụ giao hàng."
+  },
+  {
+    "w": "free shipping",
+    "p": "friː ˈʃɪpɪŋ",
+    "m": "miễn phí vận chuyển",
+    "example": "This website offers free shipping over fifty dollars.",
+    "example_vi": "Trang web này miễn phí vận chuyển cho đơn hàng trên năm mươi đô la."
+  },
+  {
+    "w": "sprained ankle",
+    "p": "spreɪnd ˈæŋkl",
+    "m": "bong gân mắt cá chân",
+    "example": "He has a sprained ankle from playing football.",
+    "example_vi": "Anh ấy bị bong gân mắt cá chân do chơi bóng đá."
+  },
+  {
+    "w": "broken arm",
+    "p": "ˈbroʊkən ɑːrm",
+    "m": "gãy tay",
+    "example": "She has a broken arm after the fall.",
+    "example_vi": "Cô ấy bị gãy tay sau cú ngã."
+  },
+  {
+    "w": "eye test",
+    "p": "aɪ test",
+    "m": "kiểm tra mắt",
+    "example": "I need to have an eye test next week.",
+    "example_vi": "Tuần tới tôi cần đi kiểm tra mắt."
+  },
+  {
+    "w": "hearing test",
+    "p": "ˈhɪrɪŋ test",
+    "m": "kiểm tra thính lực",
+    "example": "The doctor gave him a hearing test.",
+    "example_vi": "Bác sĩ đã cho anh ấy kiểm tra thính lực."
+  },
+  {
+    "w": "flu shot",
+    "p": "fluː ʃɒt",
+    "m": "tiêm phòng cúm",
+    "example": "My father gets a flu shot every year.",
+    "example_vi": "Bố tôi tiêm phòng cúm mỗi năm."
+  },
+  {
+    "w": "jigsaw puzzle",
+    "p": "ˈdʒɪɡsɔː ˈpʌzl",
+    "m": "trò chơi ghép hình",
+    "example": "We spent the evening doing a jigsaw puzzle.",
+    "example_vi": "Chúng tôi đã dành cả buổi tối để chơi ghép hình."
+  },
+  {
+    "w": "crossword puzzle",
+    "p": "ˈkrɒswɜːrd ˈpʌzl",
+    "m": "trò chơi ô chữ",
+    "example": "My grandfather does a crossword puzzle every morning.",
+    "example_vi": "Ông tôi chơi ô chữ mỗi sáng."
+  },
+  {
+    "w": "video game",
+    "p": "ˈvɪdioʊ ɡeɪm",
+    "m": "trò chơi điện tử",
+    "example": "My brother plays video games after school.",
+    "example_vi": "Anh trai tôi chơi trò chơi điện tử sau giờ học."
+  },
+  {
+    "w": "magic trick",
+    "p": "ˈmædʒɪk trɪk",
+    "m": "trò ảo thuật",
+    "example": "He showed us a magic trick at the party.",
+    "example_vi": "Anh ấy đã biểu diễn một trò ảo thuật tại bữa tiệc."
+  },
+  {
+    "w": "fridge magnet",
+    "p": "frɪdʒ ˈmæɡnət",
+    "m": "nam châm tủ lạnh",
+    "example": "She collects fridge magnets from every country.",
+    "example_vi": "Cô ấy sưu tầm nam châm tủ lạnh từ mọi quốc gia."
+  },
+  {
+    "w": "doorknob",
+    "p": "ˈdɔːrnɒb",
+    "m": "tay nắm cửa",
+    "example": "The doorknob is broken.",
+    "example_vi": "Tay nắm cửa bị hỏng rồi."
+  },
+  {
+    "w": "windowsill",
+    "p": "ˈwɪndoʊsɪl",
+    "m": "bậu cửa sổ",
+    "example": "She put the flowers on the windowsill.",
+    "example_vi": "Cô ấy đặt bình hoa trên bậu cửa sổ."
+  },
+  {
+    "w": "door lock",
+    "p": "dɔːr lɒk",
+    "m": "khóa cửa",
+    "example": "Please check the door lock before you leave.",
+    "example_vi": "Vui lòng kiểm tra khóa cửa trước khi bạn rời đi."
+  },
+  {
+    "w": "welcome mat",
+    "p": "ˈwelkəm mæt",
+    "m": "thảm chùi chân trước cửa",
+    "example": "There is a welcome mat in front of the house.",
+    "example_vi": "Có một tấm thảm chùi chân trước cửa nhà."
+  },
+  {
+    "w": "flowerpot",
+    "p": "ˈflaʊərpɒt",
+    "m": "chậu hoa",
+    "example": "She planted the seeds in a flowerpot.",
+    "example_vi": "Cô ấy trồng hạt giống trong một chậu hoa."
+  },
+  {
+    "w": "rake tool",
+    "p": "reɪk tuːl",
+    "m": "cái cào, dụng cụ làm vườn",
+    "example": "He used a rake tool to clean the leaves.",
+    "example_vi": "Anh ấy dùng cái cào để dọn lá cây."
+  },
+  {
+    "w": "garden gate",
+    "p": "ˈɡɑːrdn ɡeɪt",
+    "m": "cổng vườn",
+    "example": "Please close the garden gate behind you.",
+    "example_vi": "Vui lòng đóng cổng vườn lại sau khi bạn vào."
+  },
+  {
+    "w": "balcony rail",
+    "p": "ˈbælkəni reɪl",
+    "m": "lan can ban công",
+    "example": "Don't lean on the balcony rail.",
+    "example_vi": "Đừng tựa vào lan can ban công."
+  },
+  {
+    "w": "apartment building",
+    "p": "əˈpɑːrtmənt ˈbɪldɪŋ",
+    "m": "tòa nhà chung cư",
+    "example": "We live in a tall apartment building.",
+    "example_vi": "Chúng tôi sống trong một tòa nhà chung cư cao tầng."
+  },
+  {
+    "w": "farmhouse",
+    "p": "ˈfɑːrmhaʊs",
+    "m": "nhà nông trại",
+    "example": "They spent the summer at a farmhouse.",
+    "example_vi": "Họ đã dành mùa hè tại một ngôi nhà nông trại."
+  },
+  {
+    "w": "skyscraper",
+    "p": "ˈskaɪskreɪpər",
+    "m": "tòa nhà chọc trời",
+    "example": "That skyscraper is the tallest building in the city.",
+    "example_vi": "Tòa nhà chọc trời đó là tòa nhà cao nhất thành phố."
+  },
+  {
+    "w": "hotel receptionist",
+    "p": "hoʊˈtel rɪˈsepʃənɪst",
+    "m": "lễ tân khách sạn",
+    "example": "The hotel receptionist gave us our room key.",
+    "example_vi": "Lễ tân khách sạn đã đưa chìa khóa phòng cho chúng tôi."
+  },
+  {
+    "w": "sign language interpreter",
+    "p": "saɪn ˈlæŋɡwɪdʒ ɪnˈtɜːrprɪtər",
+    "m": "phiên dịch viên ngôn ngữ ký hiệu",
+    "example": "A sign language interpreter stood next to the speaker.",
+    "example_vi": "Một phiên dịch viên ngôn ngữ ký hiệu đứng cạnh người diễn thuyết."
+  },
+  {
+    "w": "translator",
+    "p": "trænsˈleɪtər",
+    "m": "người dịch văn bản",
+    "example": "She works as a translator for a publishing company.",
+    "example_vi": "Cô ấy làm phiên dịch viên cho một công ty xuất bản."
+  },
+  {
+    "w": "engineer",
+    "p": "ˌendʒɪˈnɪr",
+    "m": "kỹ sư",
+    "example": "My father is an engineer at a car company.",
+    "example_vi": "Bố tôi là kỹ sư tại một công ty xe hơi."
+  },
+  {
+    "w": "airline pilot",
+    "p": "ˈeərlaɪn ˈpaɪlət",
+    "m": "phi công hãng hàng không",
+    "example": "He wants to become an airline pilot.",
+    "example_vi": "Anh ấy muốn trở thành phi công hãng hàng không."
+  },
+  {
+    "w": "astronaut",
+    "p": "ˈæstrənɔːt",
+    "m": "phi hành gia",
+    "example": "The astronaut traveled to space last year.",
+    "example_vi": "Phi hành gia đó đã bay vào vũ trụ năm ngoái."
+  },
+  {
+    "w": "wedding photographer",
+    "p": "ˈwedɪŋ fəˈtɒɡrəfər",
+    "m": "nhiếp ảnh gia đám cưới",
+    "example": "We hired a wedding photographer for the day.",
+    "example_vi": "Chúng tôi đã thuê một nhiếp ảnh gia đám cưới cho ngày hôm đó."
+  },
+  {
+    "w": "street artist",
+    "p": "striːt ˈɑːrtɪst",
+    "m": "nghệ sĩ đường phố",
+    "example": "A street artist painted a picture of me.",
+    "example_vi": "Một nghệ sĩ đường phố đã vẽ chân dung tôi."
+  },
+  {
+    "w": "street musician",
+    "p": "striːt mjuˈzɪʃən",
+    "m": "nhạc công đường phố",
+    "example": "The street musician played guitar near the station.",
+    "example_vi": "Người nhạc công đường phố chơi đàn guitar gần nhà ga."
+  },
+  {
+    "w": "film actor",
+    "p": "fɪlm ˈæktər",
+    "m": "diễn viên điện ảnh",
+    "example": "He became a famous film actor.",
+    "example_vi": "Anh ấy đã trở thành một diễn viên điện ảnh nổi tiếng."
+  },
+  {
+    "w": "actress",
+    "p": "ˈæktrəs",
+    "m": "nữ diễn viên",
+    "example": "The actress won an award for her role.",
+    "example_vi": "Nữ diễn viên đó đã giành giải thưởng cho vai diễn của mình."
+  },
+  {
+    "w": "ballet dancer",
+    "p": "ˈbæleɪ ˈdænsər",
+    "m": "vũ công ba lê",
+    "example": "She trained to be a ballet dancer.",
+    "example_vi": "Cô ấy đã luyện tập để trở thành một vũ công ba lê."
+  },
+  {
+    "w": "pop singer",
+    "p": "pɒp ˈsɪŋər",
+    "m": "ca sĩ nhạc pop",
+    "example": "My sister loves this pop singer.",
+    "example_vi": "Chị gái tôi rất yêu thích ca sĩ nhạc pop này."
+  },
+  {
+    "w": "comedian",
+    "p": "kəˈmiːdiən",
+    "m": "diễn viên hài",
+    "example": "The comedian made everyone laugh.",
+    "example_vi": "Diễn viên hài đó đã khiến mọi người cười."
+  },
+  {
+    "w": "grandfather clock",
+    "p": "ˈɡrænfɑːðər klɒk",
+    "m": "đồng hồ quả lắc đứng",
+    "example": "The grandfather clock stands in the hallway.",
+    "example_vi": "Chiếc đồng hồ quả lắc đứng ở hành lang."
+  },
+  {
+    "w": "wristwatch",
+    "p": "ˈrɪstwɒtʃ",
+    "m": "đồng hồ đeo tay",
+    "example": "He got a new wristwatch for his birthday.",
+    "example_vi": "Anh ấy được tặng một chiếc đồng hồ đeo tay mới nhân sinh nhật."
+  },
+  {
+    "w": "stopwatch",
+    "p": "ˈstɒpwɒtʃ",
+    "m": "đồng hồ bấm giờ",
+    "example": "The coach used a stopwatch to time the race.",
+    "example_vi": "Huấn luyện viên đã dùng đồng hồ bấm giờ để tính giờ cuộc đua."
+  },
+  {
+    "w": "timer",
+    "p": "ˈtaɪmər",
+    "m": "đồng hồ hẹn giờ",
+    "example": "Set the timer for ten minutes.",
+    "example_vi": "Hãy đặt đồng hồ hẹn giờ trong mười phút."
+  },
+  {
+    "w": "doorbell button",
+    "p": "ˈdɔːrbel ˈbʌtn",
+    "m": "nút chuông cửa",
+    "example": "Press the doorbell button twice.",
+    "example_vi": "Hãy nhấn nút chuông cửa hai lần."
+  },
+  {
+    "w": "letterbox",
+    "p": "ˈletərbɒks",
+    "m": "hộp thư",
+    "example": "There is a letter in the letterbox.",
+    "example_vi": "Có một lá thư trong hộp thư."
+  },
+  {
+    "w": "street lamp",
+    "p": "striːt læmp",
+    "m": "đèn đường",
+    "example": "The street lamp turns on at night.",
+    "example_vi": "Đèn đường bật sáng vào ban đêm."
+  },
+  {
+    "w": "traffic camera",
+    "p": "ˈtræfɪk ˈkæmərə",
+    "m": "camera giao thông",
+    "example": "A traffic camera recorded the accident.",
+    "example_vi": "Một camera giao thông đã ghi lại vụ tai nạn."
+  },
+  {
+    "w": "billboard",
+    "p": "ˈbɪlbɔːrd",
+    "m": "biển quảng cáo lớn",
+    "example": "There is a big billboard near the highway.",
+    "example_vi": "Có một biển quảng cáo lớn gần đường cao tốc."
+  },
+  {
+    "w": "signpost",
+    "p": "ˈsaɪnpoʊst",
+    "m": "biển chỉ đường",
+    "example": "Follow the signpost to the village.",
+    "example_vi": "Hãy đi theo biển chỉ đường để đến ngôi làng."
+  },
+  {
+    "w": "birthday cake",
+    "p": "ˈbɜːrθdeɪ keɪk",
+    "m": "bánh sinh nhật",
+    "example": "We bought a chocolate birthday cake.",
+    "example_vi": "Chúng tôi đã mua một chiếc bánh sinh nhật vị sô-cô-la."
+  },
+  {
+    "w": "birthday candle",
+    "p": "ˈbɜːrθdeɪ ˈkændl",
+    "m": "nến sinh nhật",
+    "example": "She blew out the birthday candle and made a wish.",
+    "example_vi": "Cô ấy thổi tắt nến sinh nhật và ước một điều ước."
+  },
+  {
+    "w": "balloon",
+    "p": "bəˈluːn",
+    "m": "bóng bay",
+    "example": "The children played with colorful balloons.",
+    "example_vi": "Bọn trẻ chơi với những quả bóng bay đầy màu sắc."
+  },
+  {
+    "w": "gift wrap",
+    "p": "ɡɪft ræp",
+    "m": "giấy gói quà",
+    "example": "I need some gift wrap for this present.",
+    "example_vi": "Tôi cần một ít giấy gói quà cho món quà này."
+  },
+  {
+    "w": "party hat",
+    "p": "ˈpɑːrti hæt",
+    "m": "mũ tiệc",
+    "example": "All the kids wore party hats.",
+    "example_vi": "Tất cả bọn trẻ đều đội mũ tiệc."
+  },
+  {
+    "w": "confetti",
+    "p": "kənˈfeti",
+    "m": "giấy vụn tung mừng",
+    "example": "They threw confetti at the wedding.",
+    "example_vi": "Họ đã tung giấy vụn mừng trong đám cưới."
+  },
+  {
+    "w": "circus",
+    "p": "ˈsɜːrkəs",
+    "m": "rạp xiếc",
+    "example": "We took the kids to the circus last night.",
+    "example_vi": "Tối qua chúng tôi đã đưa bọn trẻ đi xem xiếc."
+  },
+  {
+    "w": "magician",
+    "p": "məˈdʒɪʃən",
+    "m": "nhà ảo thuật",
+    "example": "The magician made the coin disappear.",
+    "example_vi": "Nhà ảo thuật đã làm cho đồng xu biến mất."
+  },
+  {
+    "w": "clown",
+    "p": "klaʊn",
+    "m": "chú hề",
+    "example": "A clown entertained the children at the party.",
+    "example_vi": "Một chú hề đã làm vui cho bọn trẻ tại bữa tiệc."
+  },
+  {
+    "w": "puppet show",
+    "p": "ˈpʌpɪt ʃoʊ",
+    "m": "buổi biểu diễn múa rối",
+    "example": "The children enjoyed the puppet show.",
+    "example_vi": "Bọn trẻ rất thích buổi biểu diễn múa rối."
+  },
+  {
+    "w": "fashion show",
+    "p": "ˈfæʃn ʃoʊ",
+    "m": "trình diễn thời trang",
+    "example": "We watched a fashion show downtown.",
+    "example_vi": "Chúng tôi đã xem một buổi trình diễn thời trang ở trung tâm thành phố."
+  },
+  {
+    "w": "art exhibition",
+    "p": "ɑːrt ˌeksɪˈbɪʃən",
+    "m": "triển lãm nghệ thuật",
+    "example": "The art exhibition opens next Monday.",
+    "example_vi": "Triển lãm nghệ thuật sẽ khai mạc vào thứ Hai tới."
+  },
+  {
+    "w": "book fair",
+    "p": "bʊk feər",
+    "m": "hội chợ sách",
+    "example": "I bought many books at the book fair.",
+    "example_vi": "Tôi đã mua rất nhiều sách tại hội chợ sách."
+  },
+  {
+    "w": "trade fair",
+    "p": "treɪd feər",
+    "m": "hội chợ thương mại",
+    "example": "The company showed its products at the trade fair.",
+    "example_vi": "Công ty đã trưng bày sản phẩm của mình tại hội chợ thương mại."
+  }
+]

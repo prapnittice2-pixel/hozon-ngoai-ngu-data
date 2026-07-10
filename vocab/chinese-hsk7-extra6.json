@@ -1,0 +1,5308 @@
+[
+  {
+    "w": "学养",
+    "p": "xuéyǎng",
+    "m": "học vấn và tu dưỡng",
+    "example": "这位教授学养深厚，深受学生敬重。",
+    "example_vi": "Vị giáo sư này có học vấn và tu dưỡng sâu sắc, được sinh viên rất kính trọng."
+  },
+  {
+    "w": "钻研",
+    "p": "zuānyán",
+    "m": "nghiên cứu sâu, đào sâu tìm hiểu",
+    "example": "她常年钻研古代文献。",
+    "example_vi": "Bà ấy nhiều năm nghiên cứu sâu về văn hiến cổ đại."
+  },
+  {
+    "w": "求知欲",
+    "p": "qiúzhīyù",
+    "m": "lòng ham học hỏi",
+    "example": "孩子的求知欲需要老师不断引导。",
+    "example_vi": "Lòng ham học hỏi của trẻ cần giáo viên không ngừng dẫn dắt."
+  },
+  {
+    "w": "求学",
+    "p": "qiúxué",
+    "m": "đi học, theo đuổi việc học",
+    "example": "他年轻时曾远赴海外求学。",
+    "example_vi": "Thời trẻ anh ấy từng đi xa ra nước ngoài để học tập."
+  },
+  {
+    "w": "执教",
+    "p": "zhíjiào",
+    "m": "làm giáo viên, giảng dạy",
+    "example": "她在这所大学执教已有二十年。",
+    "example_vi": "Bà đã giảng dạy tại trường đại học này được hai mươi năm."
+  },
+  {
+    "w": "授课",
+    "p": "shòukè",
+    "m": "giảng bài, dạy học",
+    "example": "这位教授擅长用生动的例子授课。",
+    "example_vi": "Vị giáo sư này giỏi dùng ví dụ sinh động để giảng bài."
+  },
+  {
+    "w": "课业",
+    "p": "kèyè",
+    "m": "bài vở, việc học ở trường",
+    "example": "孩子的课业负担越来越重。",
+    "example_vi": "Gánh nặng bài vở của trẻ em ngày càng nặng."
+  },
+  {
+    "w": "莘莘学子",
+    "p": "shēnshēn xuézǐ",
+    "m": "đông đảo học sinh sinh viên",
+    "example": "莘莘学子怀揣梦想走进考场。",
+    "example_vi": "Đông đảo sinh viên mang theo ước mơ bước vào phòng thi."
+  },
+  {
+    "w": "才疏学浅",
+    "p": "cáishūxuéqiǎn",
+    "m": "tài hèn học ít (khiêm tốn)",
+    "example": "我才疏学浅，还请各位多多指教。",
+    "example_vi": "Tôi tài hèn học ít, mong các vị chỉ giáo thêm."
+  },
+  {
+    "w": "教学相长",
+    "p": "jiàoxué xiāngzhǎng",
+    "m": "dạy và học cùng tiến bộ",
+    "example": "这门课体现了教学相长的精神。",
+    "example_vi": "Môn học này thể hiện tinh thần dạy và học cùng tiến bộ."
+  },
+  {
+    "w": "授人以渔",
+    "p": "shòurényǐyú",
+    "m": "dạy phương pháp hơn là kết quả (dạy câu cá thay vì cho cá)",
+    "example": "好老师懂得授人以渔的道理。",
+    "example_vi": "Người thầy giỏi hiểu đạo lý dạy phương pháp thay vì chỉ cho kết quả."
+  },
+  {
+    "w": "教书育人",
+    "p": "jiāoshū yùrén",
+    "m": "dạy chữ dạy người",
+    "example": "教书育人是教师的天职。",
+    "example_vi": "Dạy chữ dạy người là thiên chức của người giáo viên."
+  },
+  {
+    "w": "师德",
+    "p": "shīdé",
+    "m": "đạo đức nhà giáo",
+    "example": "学校非常重视教师的师德建设。",
+    "example_vi": "Nhà trường rất coi trọng việc xây dựng đạo đức nhà giáo."
+  },
+  {
+    "w": "论文答辩",
+    "p": "lùnwén dábiàn",
+    "m": "bảo vệ luận văn",
+    "example": "他下周要参加硕士论文答辩。",
+    "example_vi": "Tuần sau anh ấy phải tham gia bảo vệ luận văn thạc sĩ."
+  },
+  {
+    "w": "海归",
+    "p": "hǎiguī",
+    "m": "du học sinh trở về nước",
+    "example": "越来越多的海归选择回国创业。",
+    "example_vi": "Ngày càng nhiều du học sinh về nước chọn khởi nghiệp tại quê hương."
+  },
+  {
+    "w": "知识分子",
+    "p": "zhīshi fènzǐ",
+    "m": "trí thức",
+    "example": "知识分子应当承担一定的社会责任。",
+    "example_vi": "Trí thức nên gánh vác một phần trách nhiệm xã hội."
+  },
+  {
+    "w": "象牙塔",
+    "p": "xiàngyátǎ",
+    "m": "tháp ngà (ẩn dụ giới học viện xa rời thực tế)",
+    "example": "有人说大学是远离社会的象牙塔。",
+    "example_vi": "Có người nói đại học là tháp ngà xa rời xã hội."
+  },
+  {
+    "w": "学术权威",
+    "p": "xuéshù quánwēi",
+    "m": "quyền uy học thuật, chuyên gia đầu ngành",
+    "example": "他被公认为该领域的学术权威。",
+    "example_vi": "Ông được công nhận là chuyên gia đầu ngành trong lĩnh vực này."
+  },
+  {
+    "w": "后生可畏",
+    "p": "hòushēngkěwèi",
+    "m": "lớp trẻ đáng nể phục",
+    "example": "看到这些年轻人的成就，真是后生可畏。",
+    "example_vi": "Nhìn thành tựu của những người trẻ này, quả thật lớp trẻ đáng nể phục."
+  },
+  {
+    "w": "填鸭式",
+    "p": "tiányāshì",
+    "m": "kiểu nhồi nhét (giáo dục)",
+    "example": "填鸭式教学方式已经受到不少质疑。",
+    "example_vi": "Phương thức dạy nhồi nhét đã bị không ít người hoài nghi."
+  },
+  {
+    "w": "启蒙教育",
+    "p": "qǐméng jiàoyù",
+    "m": "giáo dục khai tâm",
+    "example": "家庭是孩子启蒙教育的第一课堂。",
+    "example_vi": "Gia đình là lớp học khai tâm đầu tiên của trẻ."
+  },
+  {
+    "w": "教材编写",
+    "p": "jiàocái biānxiě",
+    "m": "biên soạn giáo trình",
+    "example": "她负责这套教材编写工作。",
+    "example_vi": "Bà phụ trách công việc biên soạn bộ giáo trình này."
+  },
+  {
+    "w": "教育督导",
+    "p": "jiàoyù dūdǎo",
+    "m": "giám sát giáo dục, thanh tra giáo dục",
+    "example": "教育督导小组本周来校检查。",
+    "example_vi": "Đoàn giám sát giáo dục đến trường kiểm tra tuần này."
+  },
+  {
+    "w": "办学理念",
+    "p": "bànxué lǐniàn",
+    "m": "lý niệm điều hành trường học",
+    "example": "这所学校的办学理念强调自主学习。",
+    "example_vi": "Lý niệm điều hành của trường này nhấn mạnh việc tự học."
+  },
+  {
+    "w": "师资力量",
+    "p": "shīzī lìliàng",
+    "m": "lực lượng giáo viên",
+    "example": "这所大学的师资力量十分雄厚。",
+    "example_vi": "Lực lượng giáo viên của trường đại học này rất hùng hậu."
+  },
+  {
+    "w": "因人施教",
+    "p": "yīnrén shījiào",
+    "m": "dạy học tuỳ theo từng người",
+    "example": "辅导班提倡因人施教的方法。",
+    "example_vi": "Lớp phụ đạo đề xướng phương pháp dạy tuỳ theo từng người."
+  },
+  {
+    "w": "学识渊博",
+    "p": "xuéshí yuānbó",
+    "m": "kiến thức uyên thâm rộng lớn",
+    "example": "老教授学识渊博，令人钦佩。",
+    "example_vi": "Vị giáo sư già kiến thức uyên thâm rộng lớn, khiến người khác kính phục."
+  },
+  {
+    "w": "治学之道",
+    "p": "zhìxué zhī dào",
+    "m": "đạo lý làm học vấn",
+    "example": "他总结出一套自己的治学之道。",
+    "example_vi": "Ông tổng kết ra một bộ đạo lý làm học vấn của riêng mình."
+  },
+  {
+    "w": "学术氛围",
+    "p": "xuéshù fēnwéi",
+    "m": "bầu không khí học thuật",
+    "example": "这所大学的学术氛围十分浓厚。",
+    "example_vi": "Bầu không khí học thuật của trường đại học này rất đậm đà."
+  },
+  {
+    "w": "学术论坛",
+    "p": "xuéshù lùntán",
+    "m": "diễn đàn học thuật",
+    "example": "下周将举办一场国际学术论坛。",
+    "example_vi": "Tuần tới sẽ tổ chức một diễn đàn học thuật quốc tế."
+  },
+  {
+    "w": "研修班",
+    "p": "yánxiūbān",
+    "m": "lớp bồi dưỡng nghiên cứu",
+    "example": "她报名参加了暑期研修班。",
+    "example_vi": "Cô ấy đăng ký tham gia lớp bồi dưỡng nghiên cứu mùa hè."
+  },
+  {
+    "w": "学术著作",
+    "p": "xuéshù zhùzuò",
+    "m": "tác phẩm học thuật",
+    "example": "他出版了多部学术著作。",
+    "example_vi": "Ông đã xuất bản nhiều tác phẩm học thuật."
+  },
+  {
+    "w": "学制",
+    "p": "xuézhì",
+    "m": "chế độ học chế (thời gian học)",
+    "example": "这所学校实行五年学制。",
+    "example_vi": "Trường này áp dụng chế độ học chế năm năm."
+  },
+  {
+    "w": "教育理论",
+    "p": "jiàoyù lǐlùn",
+    "m": "lý luận giáo dục",
+    "example": "他专注于教育理论的研究。",
+    "example_vi": "Ông chuyên tâm nghiên cứu lý luận giáo dục."
+  },
+  {
+    "w": "教研室",
+    "p": "jiàoyánshì",
+    "m": "tổ nghiên cứu giảng dạy",
+    "example": "教研室每周都会组织教学讨论。",
+    "example_vi": "Tổ nghiên cứu giảng dạy tổ chức thảo luận giảng dạy hằng tuần."
+  },
+  {
+    "w": "学术不端行为",
+    "p": "xuéshù bùduān xíngwéi",
+    "m": "hành vi sai trái học thuật",
+    "example": "学校严厉打击学术不端行为。",
+    "example_vi": "Nhà trường xử lý nghiêm khắc hành vi sai trái học thuật."
+  },
+  {
+    "w": "学历教育",
+    "p": "xuélì jiàoyù",
+    "m": "giáo dục lấy bằng cấp",
+    "example": "成人可以通过夜校接受学历教育。",
+    "example_vi": "Người trưởng thành có thể học lấy bằng qua trường ban đêm."
+  },
+  {
+    "w": "教育普及",
+    "p": "jiàoyù pǔjí",
+    "m": "phổ cập giáo dục",
+    "example": "义务教育普及率逐年提高。",
+    "example_vi": "Tỷ lệ phổ cập giáo dục bắt buộc tăng dần qua các năm."
+  },
+  {
+    "w": "学术交流",
+    "p": "xuéshù jiāoliú",
+    "m": "trao đổi học thuật",
+    "example": "两校每年举办一次学术交流活动。",
+    "example_vi": "Hai trường tổ chức hoạt động trao đổi học thuật mỗi năm một lần."
+  },
+  {
+    "w": "学术论文",
+    "p": "xuéshù lùnwén",
+    "m": "luận văn học thuật",
+    "example": "她已发表十余篇学术论文。",
+    "example_vi": "Cô ấy đã công bố hơn mười bài luận văn học thuật."
+  },
+  {
+    "w": "课程设置",
+    "p": "kèchéng shèzhì",
+    "m": "thiết lập chương trình học",
+    "example": "新的课程设置更注重实践能力。",
+    "example_vi": "Việc thiết lập chương trình học mới chú trọng hơn đến năng lực thực hành."
+  },
+  {
+    "w": "学术水平",
+    "p": "xuéshù shuǐpíng",
+    "m": "trình độ học thuật",
+    "example": "这篇论文体现出较高的学术水平。",
+    "example_vi": "Bài luận văn này thể hiện trình độ học thuật khá cao."
+  },
+  {
+    "w": "教育经费",
+    "p": "jiàoyù jīngfèi",
+    "m": "kinh phí giáo dục",
+    "example": "地方财政加大了教育经费的投入。",
+    "example_vi": "Ngân sách địa phương tăng cường đầu tư kinh phí giáo dục."
+  },
+  {
+    "w": "学分互认",
+    "p": "xuéfēn hùrèn",
+    "m": "công nhận tín chỉ lẫn nhau",
+    "example": "两所大学签署了学分互认协议。",
+    "example_vi": "Hai trường đại học đã ký thỏa thuận công nhận tín chỉ lẫn nhau."
+  },
+  {
+    "w": "教育均衡",
+    "p": "jiàoyù jūnhéng",
+    "m": "cân bằng giáo dục",
+    "example": "政府致力于推动区域教育均衡发展。",
+    "example_vi": "Chính phủ nỗ lực thúc đẩy phát triển giáo dục cân bằng giữa các vùng."
+  },
+  {
+    "w": "学术会议",
+    "p": "xuéshù huìyì",
+    "m": "hội nghị học thuật",
+    "example": "他受邀在国际学术会议上发言。",
+    "example_vi": "Ông được mời phát biểu tại hội nghị học thuật quốc tế."
+  },
+  {
+    "w": "教育信息化",
+    "p": "jiàoyù xìnxīhuà",
+    "m": "tin học hóa giáo dục",
+    "example": "疫情加速了教育信息化的进程。",
+    "example_vi": "Dịch bệnh đã đẩy nhanh tiến trình tin học hóa giáo dục."
+  },
+  {
+    "w": "教育质量",
+    "p": "jiàoyù zhìliàng",
+    "m": "chất lượng giáo dục",
+    "example": "提升教育质量是学校的首要目标。",
+    "example_vi": "Nâng cao chất lượng giáo dục là mục tiêu hàng đầu của nhà trường."
+  },
+  {
+    "w": "课业辅导",
+    "p": "kèyè fǔdǎo",
+    "m": "phụ đạo bài vở",
+    "example": "许多家长为孩子请了课业辅导老师。",
+    "example_vi": "Nhiều phụ huynh thuê giáo viên phụ đạo bài vở cho con."
+  },
+  {
+    "w": "教育心理学",
+    "p": "jiàoyù xīnlǐxué",
+    "m": "tâm lý học giáo dục",
+    "example": "她正在攻读教育心理学硕士学位。",
+    "example_vi": "Cô ấy đang theo học thạc sĩ tâm lý học giáo dục."
+  },
+  {
+    "w": "办学规模",
+    "p": "bànxué guīmó",
+    "m": "quy mô điều hành trường học",
+    "example": "这所大学的办学规模逐年扩大。",
+    "example_vi": "Quy mô điều hành của trường đại học này mở rộng qua từng năm."
+  },
+  {
+    "w": "入学门槛",
+    "p": "rùxué ménkǎn",
+    "m": "ngưỡng tuyển sinh, điều kiện đầu vào",
+    "example": "名校的入学门槛越来越高。",
+    "example_vi": "Ngưỡng tuyển sinh của các trường danh tiếng ngày càng cao."
+  },
+  {
+    "w": "求学之路",
+    "p": "qiúxué zhī lù",
+    "m": "con đường học vấn",
+    "example": "他的求学之路充满艰辛。",
+    "example_vi": "Con đường học vấn của anh ấy đầy gian nan."
+  },
+  {
+    "w": "授业",
+    "p": "shòuyè",
+    "m": "truyền dạy nghề nghiệp, kiến thức",
+    "example": "老师传道授业，育人无数。",
+    "example_vi": "Người thầy truyền đạo dạy nghề, đào tạo vô số học trò."
+  },
+  {
+    "w": "薄弱环节",
+    "p": "báoruò huánjié",
+    "m": "khâu yếu, mắt xích yếu",
+    "example": "这门课的薄弱环节在于实践训练不足。",
+    "example_vi": "Khâu yếu của môn học này là thiếu huấn luyện thực hành."
+  },
+  {
+    "w": "学业成就",
+    "p": "xuéyè chéngjiù",
+    "m": "thành tựu học tập",
+    "example": "家庭环境会影响孩子的学业成就。",
+    "example_vi": "Môi trường gia đình sẽ ảnh hưởng đến thành tựu học tập của trẻ."
+  },
+  {
+    "w": "课堂互动",
+    "p": "kètáng hùdòng",
+    "m": "tương tác trong lớp học",
+    "example": "老师鼓励学生积极参与课堂互动。",
+    "example_vi": "Giáo viên khuyến khích học sinh tích cực tham gia tương tác trong lớp."
+  },
+  {
+    "w": "学习动机",
+    "p": "xuéxí dòngjī",
+    "m": "động cơ học tập",
+    "example": "良好的学习动机有助于提高效率。",
+    "example_vi": "Động cơ học tập tốt giúp nâng cao hiệu quả."
+  },
+  {
+    "w": "教育功能",
+    "p": "jiàoyù gōngnéng",
+    "m": "chức năng giáo dục",
+    "example": "博物馆也承担着一定的教育功能。",
+    "example_vi": "Bảo tàng cũng đảm nhận một phần chức năng giáo dục."
+  },
+  {
+    "w": "求学生涯",
+    "p": "qiúxué shēngyá",
+    "m": "sự nghiệp học hành",
+    "example": "他的求学生涯充满波折。",
+    "example_vi": "Sự nghiệp học hành của anh ấy đầy trắc trở."
+  },
+  {
+    "w": "教育扶贫",
+    "p": "jiàoyù fúpín",
+    "m": "xóa đói giảm nghèo bằng giáo dục",
+    "example": "教育扶贫是阻断贫困代际传递的关键。",
+    "example_vi": "Xóa đói giảm nghèo bằng giáo dục là chìa khóa ngăn nghèo đói truyền qua các thế hệ."
+  },
+  {
+    "w": "教育需求",
+    "p": "jiàoyù xūqiú",
+    "m": "nhu cầu giáo dục",
+    "example": "农村地区的教育需求仍未被充分满足。",
+    "example_vi": "Nhu cầu giáo dục ở vùng nông thôn vẫn chưa được đáp ứng đầy đủ."
+  },
+  {
+    "w": "学习共同体",
+    "p": "xuéxí gòngtóngtǐ",
+    "m": "cộng đồng học tập",
+    "example": "班级正在打造一个学习共同体。",
+    "example_vi": "Lớp học đang xây dựng một cộng đồng học tập."
+  },
+  {
+    "w": "学习成效",
+    "p": "xuéxí chéngxiào",
+    "m": "hiệu quả học tập",
+    "example": "这种教学方法明显提高了学习成效。",
+    "example_vi": "Phương pháp dạy học này rõ ràng nâng cao hiệu quả học tập."
+  },
+  {
+    "w": "教育实践",
+    "p": "jiàoyù shíjiàn",
+    "m": "thực tiễn giáo dục",
+    "example": "她将理论运用到教育实践中。",
+    "example_vi": "Cô ấy áp dụng lý thuyết vào thực tiễn giáo dục."
+  },
+  {
+    "w": "学术生涯",
+    "p": "xuéshù shēngyá",
+    "m": "sự nghiệp học thuật",
+    "example": "他把整个学术生涯都献给了考古学。",
+    "example_vi": "Ông đã cống hiến cả sự nghiệp học thuật cho khảo cổ học."
+  },
+  {
+    "w": "教学法",
+    "p": "jiàoxuéfǎ",
+    "m": "phương pháp giảng dạy",
+    "example": "这种教学法在国外已经很成熟。",
+    "example_vi": "Phương pháp giảng dạy này đã rất phát triển ở nước ngoài."
+  },
+  {
+    "w": "教育供给",
+    "p": "jiàoyù gōngjǐ",
+    "m": "cung cấp giáo dục",
+    "example": "优质教育供给依然不足。",
+    "example_vi": "Cung cấp giáo dục chất lượng cao vẫn còn thiếu."
+  },
+  {
+    "w": "学术梯队",
+    "p": "xuéshù tīduì",
+    "m": "đội ngũ học thuật kế thừa",
+    "example": "学院正在培养年轻的学术梯队。",
+    "example_vi": "Khoa đang bồi dưỡng đội ngũ học thuật kế thừa trẻ tuổi."
+  },
+  {
+    "w": "教书匠",
+    "p": "jiāoshūjiàng",
+    "m": "thợ dạy học (mang tính khiêm/mỉa)",
+    "example": "他谦虚地称自己只是个教书匠。",
+    "example_vi": "Ông khiêm tốn tự gọi mình chỉ là một thợ dạy học."
+  },
+  {
+    "w": "学以致知",
+    "p": "xuéyǐzhìzhī",
+    "m": "học để hiểu biết",
+    "example": "他认为学以致知比死记硬背更重要。",
+    "example_vi": "Ông cho rằng học để hiểu biết quan trọng hơn học vẹt."
+  },
+  {
+    "w": "授课方式",
+    "p": "shòukè fāngshì",
+    "m": "phương thức giảng dạy",
+    "example": "线上授课方式给师生带来了新挑战。",
+    "example_vi": "Phương thức giảng dạy trực tuyến mang lại thách thức mới cho thầy và trò."
+  },
+  {
+    "w": "启智",
+    "p": "qǐzhì",
+    "m": "khai mở trí tuệ",
+    "example": "这本书旨在启智育人。",
+    "example_vi": "Cuốn sách này nhằm mục đích khai mở trí tuệ và giáo dục con người."
+  },
+  {
+    "w": "学理",
+    "p": "xuélǐ",
+    "m": "lý luận học thuật, nguyên lý học vấn",
+    "example": "这个说法缺乏学理依据。",
+    "example_vi": "Cách nói này thiếu căn cứ lý luận học thuật."
+  },
+  {
+    "w": "教育者",
+    "p": "jiàoyùzhě",
+    "m": "nhà giáo dục",
+    "example": "作为教育者，他始终保持耐心。",
+    "example_vi": "Là một nhà giáo dục, ông luôn giữ sự kiên nhẫn."
+  },
+  {
+    "w": "学子",
+    "p": "xuézǐ",
+    "m": "học trò, sinh viên",
+    "example": "这所大学培养出无数优秀学子。",
+    "example_vi": "Trường đại học này đã đào tạo ra vô số học trò xuất sắc."
+  },
+  {
+    "w": "教诲",
+    "p": "jiàohuì",
+    "m": "lời răn dạy, giáo huấn",
+    "example": "他始终铭记恩师的教诲。",
+    "example_vi": "Anh luôn ghi nhớ lời răn dạy của người thầy ân sư."
+  },
+  {
+    "w": "研习",
+    "p": "yánxí",
+    "m": "nghiên cứu học tập",
+    "example": "她专门赴日本研习传统工艺。",
+    "example_vi": "Cô đặc biệt sang Nhật Bản nghiên cứu học tập nghề thủ công truyền thống."
+  },
+  {
+    "w": "治学严谨",
+    "p": "zhìxué yánjǐn",
+    "m": "làm học vấn nghiêm túc",
+    "example": "导师以治学严谨著称。",
+    "example_vi": "Người hướng dẫn nổi tiếng với việc làm học vấn nghiêm túc."
+  },
+  {
+    "w": "学问",
+    "p": "xuéwen",
+    "m": "học vấn, tri thức",
+    "example": "他是一位学问渊博的老先生。",
+    "example_vi": "Ông là một cụ già có học vấn uyên bác."
+  },
+  {
+    "w": "求教",
+    "p": "qiújiào",
+    "m": "cầu xin chỉ giáo, hỏi ý kiến",
+    "example": "遇到难题时他常向前辈求教。",
+    "example_vi": "Khi gặp vấn đề khó, anh ấy thường xin chỉ giáo từ bậc tiền bối."
+  },
+  {
+    "w": "研读",
+    "p": "yándú",
+    "m": "đọc và nghiên cứu kỹ lưỡng",
+    "example": "她花了三个月研读这部经典。",
+    "example_vi": "Cô ấy dành ba tháng nghiên cứu kỹ lưỡng tác phẩm kinh điển này."
+  },
+  {
+    "w": "苦读",
+    "p": "kǔdú",
+    "m": "khổ luyện học tập",
+    "example": "他寒窗苦读十年才考上理想的大学。",
+    "example_vi": "Anh khổ luyện học tập suốt mười năm mới thi đỗ vào trường đại học mơ ước."
+  },
+  {
+    "w": "熟能生巧",
+    "p": "shúnéngshēngqiǎo",
+    "m": "quen tay hay việc, luyện nhiều thành thạo",
+    "example": "编程和其他技能一样，熟能生巧。",
+    "example_vi": "Lập trình cũng như các kỹ năng khác, luyện nhiều sẽ thành thạo."
+  },
+  {
+    "w": "读书破万卷",
+    "p": "dúshū pò wànjuàn",
+    "m": "đọc vạn cuốn sách (học rộng)",
+    "example": "读书破万卷，下笔如有神。",
+    "example_vi": "Đọc vạn cuốn sách thì viết văn như có thần trợ giúp."
+  },
+  {
+    "w": "耕读",
+    "p": "gēngdú",
+    "m": "vừa cày ruộng vừa đọc sách (truyền thống nho học)",
+    "example": "这户人家世代耕读传家。",
+    "example_vi": "Gia đình này đời đời truyền lại truyền thống vừa cày vừa học."
+  },
+  {
+    "w": "资质",
+    "p": "zīzhì",
+    "m": "tư chất, năng khiếu bẩm sinh",
+    "example": "她天生资质聪颖，学什么都快。",
+    "example_vi": "Cô ấy bẩm sinh tư chất thông minh, học gì cũng nhanh."
+  },
+  {
+    "w": "寒窗",
+    "p": "hánchuāng",
+    "m": "cửa sổ lạnh (ẩn dụ cảnh khổ học)",
+    "example": "十年寒窗终于换来今天的成就。",
+    "example_vi": "Mười năm khổ học cuối cùng đổi lấy thành tựu hôm nay."
+  },
+  {
+    "w": "心得体会",
+    "p": "xīndé tǐhuì",
+    "m": "tâm đắc, kinh nghiệm rút ra",
+    "example": "她写了一篇学习心得体会。",
+    "example_vi": "Cô ấy viết một bài về tâm đắc học tập."
+  },
+  {
+    "w": "举荐",
+    "p": "jǔjiàn",
+    "m": "tiến cử, đề cử",
+    "example": "导师亲自举荐他去国外深造。",
+    "example_vi": "Người hướng dẫn đích thân tiến cử anh ấy đi du học nước ngoài."
+  },
+  {
+    "w": "荐才",
+    "p": "jiàncái",
+    "m": "tiến cử nhân tài",
+    "example": "学校设立了荐才机制发掘优秀学生。",
+    "example_vi": "Nhà trường thiết lập cơ chế tiến cử nhân tài để phát hiện học sinh xuất sắc."
+  },
+  {
+    "w": "科班出身",
+    "p": "kēbān chūshēn",
+    "m": "xuất thân chính quy (được đào tạo bài bản)",
+    "example": "她是科班出身的舞蹈演员。",
+    "example_vi": "Cô ấy là diễn viên múa được đào tạo bài bản chính quy."
+  },
+  {
+    "w": "半路出家",
+    "p": "bànlù chūjiā",
+    "m": "nửa đường chuyển nghề, không xuất thân chính quy",
+    "example": "这位画家是半路出家，全靠自学成才。",
+    "example_vi": "Vị họa sĩ này chuyển nghề giữa chừng, hoàn toàn nhờ tự học mà thành tài."
+  },
+  {
+    "w": "识时务者为俊杰",
+    "p": "shí shíwù zhě wéi jùnjié",
+    "m": "người thức thời mới là kẻ tài giỏi",
+    "example": "他常引用识时务者为俊杰来劝人变通。",
+    "example_vi": "Ông thường trích dẫn câu người thức thời mới là kẻ tài giỏi để khuyên người khác linh hoạt."
+  },
+  {
+    "w": "读万卷书行万里路",
+    "p": "dú wàn juàn shū xíng wàn lǐ lù",
+    "m": "đọc vạn cuốn sách đi vạn dặm đường",
+    "example": "他信奉读万卷书行万里路的理念。",
+    "example_vi": "Ông tin theo lý niệm đọc vạn cuốn sách đi vạn dặm đường."
+  },
+  {
+    "w": "耳提面命",
+    "p": "ěrtímiànmìng",
+    "m": "dạy bảo tận tình, nhắc nhở trực tiếp",
+    "example": "父亲对他的学业耳提面命。",
+    "example_vi": "Người cha dạy bảo tận tình về việc học của con."
+  },
+  {
+    "w": "谆谆教导",
+    "p": "zhūnzhūn jiàodǎo",
+    "m": "ân cần dạy bảo",
+    "example": "老师谆谆教导，学生铭记于心。",
+    "example_vi": "Thầy giáo ân cần dạy bảo, học sinh ghi khắc trong lòng."
+  },
+  {
+    "w": "授业解惑",
+    "p": "shòuyè jiěhuò",
+    "m": "truyền dạy kiến thức giải đáp thắc mắc",
+    "example": "老师的职责就是传道授业解惑。",
+    "example_vi": "Trách nhiệm của thầy cô là truyền đạo, dạy nghề, giải đáp thắc mắc."
+  },
+  {
+    "w": "学贯古今",
+    "p": "xuéguàngǔjīn",
+    "m": "học thông kim cổ",
+    "example": "这位学者学贯古今，令人叹服。",
+    "example_vi": "Vị học giả này học thông kim cổ, khiến người ta khâm phục."
+  },
+  {
+    "w": "薪传",
+    "p": "xīnchuán",
+    "m": "truyền thừa (tri thức, nghề nghiệp)",
+    "example": "这项传统技艺依靠师徒薪传延续至今。",
+    "example_vi": "Nghề thủ công truyền thống này nhờ thầy trò truyền thừa mà tồn tại đến nay."
+  },
+  {
+    "w": "学有专攻",
+    "p": "xuéyǒuzhuāngōng",
+    "m": "học có chuyên môn riêng",
+    "example": "术业有专攻，学有专攻方能成才。",
+    "example_vi": "Nghề nghiệp có chuyên môn riêng, học có sở trường mới thành tài."
+  },
+  {
+    "w": "学富才高",
+    "p": "xuéfù cáigāo",
+    "m": "học rộng tài cao",
+    "example": "他学富才高，却始终保持谦逊。",
+    "example_vi": "Ông học rộng tài cao nhưng luôn giữ sự khiêm tốn."
+  },
+  {
+    "w": "啃老族",
+    "p": "kěnlǎozú",
+    "m": "người ăn bám bố mẹ khi trưởng thành",
+    "example": "部分年轻人成了啃老族，引发争议。",
+    "example_vi": "Một bộ phận người trẻ trở thành người ăn bám bố mẹ, gây tranh cãi."
+  },
+  {
+    "w": "月光族",
+    "p": "yuèguāngzú",
+    "m": "người tiêu hết lương trong tháng",
+    "example": "很多年轻白领是典型的月光族。",
+    "example_vi": "Nhiều nhân viên văn phòng trẻ là những người tiêu hết lương điển hình."
+  },
+  {
+    "w": "社会保障体系",
+    "p": "shèhuì bǎozhàng tǐxì",
+    "m": "hệ thống an sinh xã hội",
+    "example": "完善社会保障体系是民生工程的重点。",
+    "example_vi": "Hoàn thiện hệ thống an sinh xã hội là trọng điểm của công trình dân sinh."
+  },
+  {
+    "w": "扶老携幼",
+    "p": "fúlǎoxiéyòu",
+    "m": "đỡ già dắt trẻ (giúp đỡ người già trẻ nhỏ)",
+    "example": "节日期间，人们扶老携幼出门游玩。",
+    "example_vi": "Trong dịp lễ, mọi người dắt già đỡ trẻ ra ngoài du chơi."
+  },
+  {
+    "w": "贫富悬殊",
+    "p": "pínfù xuánshū",
+    "m": "chênh lệch giàu nghèo lớn",
+    "example": "这个地区贫富悬殊十分明显。",
+    "example_vi": "Khu vực này có sự chênh lệch giàu nghèo rất rõ rệt."
+  },
+  {
+    "w": "人情冷暖",
+    "p": "rénqíng lěngnuǎn",
+    "m": "tình người ấm lạnh (nhân tình thế thái)",
+    "example": "经历过挫折才懂得人情冷暖。",
+    "example_vi": "Trải qua thất bại mới hiểu được tình người ấm lạnh."
+  },
+  {
+    "w": "世态炎凉",
+    "p": "shìtài yánliáng",
+    "m": "thói đời nóng lạnh (nhân tình thế thái đổi thay)",
+    "example": "这部小说深刻描写了世态炎凉。",
+    "example_vi": "Cuốn tiểu thuyết miêu tả sâu sắc thói đời nóng lạnh."
+  },
+  {
+    "w": "人际交往",
+    "p": "rénjì jiāowǎng",
+    "m": "giao tiếp giữa các cá nhân",
+    "example": "良好的人际交往能力有助于职业发展。",
+    "example_vi": "Khả năng giao tiếp tốt giữa các cá nhân giúp ích cho sự nghiệp."
+  },
+  {
+    "w": "民风淳朴",
+    "p": "mínfēng chúnpǔ",
+    "m": "phong tục dân gian chất phác",
+    "example": "这个山村至今保留着民风淳朴的传统。",
+    "example_vi": "Ngôi làng miền núi này đến nay vẫn giữ truyền thống phong tục chất phác."
+  },
+  {
+    "w": "社区营造",
+    "p": "shèqū yíngzào",
+    "m": "kiến tạo cộng đồng",
+    "example": "居民共同参与社区营造项目。",
+    "example_vi": "Cư dân cùng tham gia dự án kiến tạo cộng đồng."
+  },
+  {
+    "w": "人口迁移",
+    "p": "rénkǒu qiānyí",
+    "m": "di dân, di cư dân số",
+    "example": "经济发展导致大量人口迁移。",
+    "example_vi": "Sự phát triển kinh tế dẫn đến lượng lớn dân số di cư."
+  },
+  {
+    "w": "社会阶梯",
+    "p": "shèhuì jiētī",
+    "m": "nấc thang xã hội",
+    "example": "教育被视为攀登社会阶梯的重要手段。",
+    "example_vi": "Giáo dục được xem là phương tiện quan trọng để leo lên nấc thang xã hội."
+  },
+  {
+    "w": "隔代抚养",
+    "p": "gédài fǔyǎng",
+    "m": "nuôi dưỡng cách thế hệ (ông bà nuôi cháu)",
+    "example": "隔代抚养容易导致教育观念不一致。",
+    "example_vi": "Nuôi dưỡng cách thế hệ dễ dẫn đến quan niệm giáo dục không nhất quán."
+  },
+  {
+    "w": "性别刻板印象",
+    "p": "xìngbié kèbǎn yìnxiàng",
+    "m": "định kiến giới tính",
+    "example": "我们应打破传统的性别刻板印象。",
+    "example_vi": "Chúng ta nên phá bỏ định kiến giới tính truyền thống."
+  },
+  {
+    "w": "公序良俗",
+    "p": "gōngxù liángsú",
+    "m": "trật tự công cộng và phong tục tốt đẹp",
+    "example": "这项行为违背了公序良俗。",
+    "example_vi": "Hành vi này đã vi phạm trật tự công cộng và phong tục tốt đẹp."
+  },
+  {
+    "w": "世俗观念",
+    "p": "shìsú guānniàn",
+    "m": "quan niệm thế tục",
+    "example": "她努力摆脱世俗观念的束缚。",
+    "example_vi": "Cô ấy nỗ lực thoát khỏi sự ràng buộc của quan niệm thế tục."
+  },
+  {
+    "w": "人情世故",
+    "p": "rénqíng shìgù",
+    "m": "lẽ đời tình người, cách ứng xử xã hội",
+    "example": "他年纪虽轻，却很懂人情世故。",
+    "example_vi": "Tuy tuổi còn trẻ nhưng anh ấy rất hiểu lẽ đời tình người."
+  },
+  {
+    "w": "熟人社会",
+    "p": "shúrén shèhuì",
+    "m": "xã hội quen biết (dựa vào quan hệ quen biết)",
+    "example": "传统中国乡村是典型的熟人社会。",
+    "example_vi": "Làng quê Trung Quốc truyền thống là xã hội quen biết điển hình."
+  },
+  {
+    "w": "陌生人社会",
+    "p": "mòshēngrén shèhuì",
+    "m": "xã hội người lạ (đô thị hiện đại)",
+    "example": "城市化让人们逐渐进入陌生人社会。",
+    "example_vi": "Đô thị hóa khiến con người dần bước vào xã hội người lạ."
+  },
+  {
+    "w": "贫困代际传递",
+    "p": "pínkùn dàijì chuándì",
+    "m": "nghèo đói truyền qua các thế hệ",
+    "example": "教育是阻断贫困代际传递的有效手段。",
+    "example_vi": "Giáo dục là phương tiện hiệu quả để ngăn chặn nghèo đói truyền qua các thế hệ."
+  },
+  {
+    "w": "社会共识",
+    "p": "shèhuì gòngshí",
+    "m": "đồng thuận xã hội",
+    "example": "环保理念已成为社会共识。",
+    "example_vi": "Lý niệm bảo vệ môi trường đã trở thành đồng thuận xã hội."
+  },
+  {
+    "w": "底层民众",
+    "p": "dǐcéng mínzhòng",
+    "m": "quần chúng tầng lớp đáy xã hội",
+    "example": "这部电影关注底层民众的生活。",
+    "example_vi": "Bộ phim này quan tâm đến đời sống của quần chúng tầng lớp đáy xã hội."
+  },
+  {
+    "w": "社会实验",
+    "p": "shèhuì shíyàn",
+    "m": "thí nghiệm xã hội",
+    "example": "这项政策可视为一次社会实验。",
+    "example_vi": "Chính sách này có thể xem như một cuộc thí nghiệm xã hội."
+  },
+  {
+    "w": "社会病态",
+    "p": "shèhuì bìngtài",
+    "m": "hiện tượng bệnh hoạn của xã hội",
+    "example": "过度消费被认为是一种社会病态。",
+    "example_vi": "Tiêu dùng quá mức được cho là một hiện tượng bệnh hoạn của xã hội."
+  },
+  {
+    "w": "街坊邻居",
+    "p": "jiēfang línjū",
+    "m": "hàng xóm láng giềng",
+    "example": "她和街坊邻居关系一直很融洽。",
+    "example_vi": "Quan hệ giữa cô ấy và hàng xóm láng giềng luôn hòa thuận."
+  },
+  {
+    "w": "社会阶级",
+    "p": "shèhuì jiējí",
+    "m": "giai cấp xã hội",
+    "example": "社会阶级的划分在不同社会有不同标准。",
+    "example_vi": "Sự phân chia giai cấp xã hội có tiêu chuẩn khác nhau ở mỗi xã hội."
+  },
+  {
+    "w": "移风易俗",
+    "p": "yífēngyìsú",
+    "m": "đổi mới phong tục tập quán",
+    "example": "政府倡导移风易俗，反对铺张浪费。",
+    "example_vi": "Chính phủ đề xướng đổi mới phong tục, phản đối phô trương lãng phí."
+  },
+  {
+    "w": "约定俗成",
+    "p": "yuēdìngsúchéng",
+    "m": "quy ước theo tập quán chung",
+    "example": "这种称呼是约定俗成的。",
+    "example_vi": "Cách gọi này là do quy ước tập quán chung mà thành."
+  },
+  {
+    "w": "社会公信力",
+    "p": "shèhuì gōngxìnlì",
+    "m": "độ tin cậy công cộng của xã hội",
+    "example": "媒体的社会公信力至关重要。",
+    "example_vi": "Độ tin cậy công cộng của truyền thông vô cùng quan trọng."
+  },
+  {
+    "w": "世代更迭",
+    "p": "shìdài gēngdié",
+    "m": "sự thay đổi qua các thế hệ",
+    "example": "随着世代更迭，人们的价值观也在改变。",
+    "example_vi": "Cùng với sự thay đổi qua các thế hệ, quan niệm giá trị của con người cũng thay đổi."
+  },
+  {
+    "w": "社会包容性",
+    "p": "shèhuì bāoróngxìng",
+    "m": "tính bao dung của xã hội",
+    "example": "提升社会包容性有助于减少矛盾。",
+    "example_vi": "Nâng cao tính bao dung của xã hội giúp giảm bớt mâu thuẫn."
+  },
+  {
+    "w": "社群意识",
+    "p": "shèqún yìshí",
+    "m": "ý thức cộng đồng",
+    "example": "社区活动增强了居民的社群意识。",
+    "example_vi": "Hoạt động cộng đồng đã tăng cường ý thức cộng đồng của cư dân."
+  },
+  {
+    "w": "人情味",
+    "p": "rénqíngwèi",
+    "m": "tình người, hơi ấm nhân tình",
+    "example": "这家小店充满了人情味。",
+    "example_vi": "Cửa hàng nhỏ này tràn ngập tình người."
+  },
+  {
+    "w": "体面生活",
+    "p": "tǐmiàn shēnghuó",
+    "m": "cuộc sống đàng hoàng, có thể diện",
+    "example": "每个人都渴望过上体面生活。",
+    "example_vi": "Ai cũng khao khát có được cuộc sống đàng hoàng."
+  },
+  {
+    "w": "民众心态",
+    "p": "mínzhòng xīntài",
+    "m": "tâm thái quần chúng",
+    "example": "这项调查反映了当下的民众心态。",
+    "example_vi": "Cuộc điều tra này phản ánh tâm thái của quần chúng hiện nay."
+  },
+  {
+    "w": "社会问题丛生",
+    "p": "shèhuì wèntí cóngshēng",
+    "m": "vấn đề xã hội nảy sinh chồng chất",
+    "example": "城市化过快导致社会问题丛生。",
+    "example_vi": "Đô thị hóa quá nhanh khiến các vấn đề xã hội nảy sinh chồng chất."
+  },
+  {
+    "w": "世风日下",
+    "p": "shìfēngrìxià",
+    "m": "đạo đức xã hội ngày càng suy đồi",
+    "example": "有人感慨如今世风日下。",
+    "example_vi": "Có người than thở rằng đạo đức xã hội hiện nay ngày càng suy đồi."
+  },
+  {
+    "w": "淳厚",
+    "p": "chúnhòu",
+    "m": "chất phác đôn hậu",
+    "example": "这里的村民淳厚老实。",
+    "example_vi": "Dân làng ở đây chất phác đôn hậu, thật thà."
+  },
+  {
+    "w": "人心不古",
+    "p": "rénxīnbùgǔ",
+    "m": "lòng người không còn chất phác như xưa",
+    "example": "老人常感叹如今人心不古。",
+    "example_vi": "Người già thường than thở rằng lòng người bây giờ không còn chất phác như xưa."
+  },
+  {
+    "w": "社会病",
+    "p": "shèhuìbìng",
+    "m": "căn bệnh xã hội",
+    "example": "网络成瘾被视为一种社会病。",
+    "example_vi": "Nghiện mạng được xem là một căn bệnh xã hội."
+  },
+  {
+    "w": "民风",
+    "p": "mínfēng",
+    "m": "phong tục dân gian",
+    "example": "这个地区民风彪悍。",
+    "example_vi": "Phong tục dân gian ở vùng này mạnh mẽ, cứng cỏi."
+  },
+  {
+    "w": "社会文明程度",
+    "p": "shèhuì wénmíng chéngdù",
+    "m": "mức độ văn minh xã hội",
+    "example": "排队礼让体现了社会文明程度。",
+    "example_vi": "Việc xếp hàng nhường nhịn thể hiện mức độ văn minh xã hội."
+  },
+  {
+    "w": "人口结构",
+    "p": "rénkǒu jiégòu",
+    "m": "cơ cấu dân số",
+    "example": "人口结构的变化影响劳动力市场。",
+    "example_vi": "Sự thay đổi cơ cấu dân số ảnh hưởng đến thị trường lao động."
+  },
+  {
+    "w": "世袭",
+    "p": "shìxí",
+    "m": "cha truyền con nối, thế tập",
+    "example": "这门手艺在家族中世袭相传。",
+    "example_vi": "Nghề thủ công này được cha truyền con nối trong gia tộc."
+  },
+  {
+    "w": "社会秩序",
+    "p": "shèhuì zhìxù",
+    "m": "trật tự xã hội",
+    "example": "维护社会秩序需要全民共同努力。",
+    "example_vi": "Duy trì trật tự xã hội cần sự nỗ lực chung của toàn dân."
+  },
+  {
+    "w": "移民潮",
+    "p": "yímíncháo",
+    "m": "làn sóng di dân",
+    "example": "经济危机引发了一波移民潮。",
+    "example_vi": "Khủng hoảng kinh tế đã gây ra một làn sóng di dân."
+  },
+  {
+    "w": "社会救济",
+    "p": "shèhuì jiùjì",
+    "m": "cứu tế xã hội",
+    "example": "社会救济制度帮助许多贫困家庭渡过难关。",
+    "example_vi": "Chế độ cứu tế xã hội giúp nhiều gia đình nghèo vượt qua khó khăn."
+  },
+  {
+    "w": "人格养成",
+    "p": "réngé yǎngchéng",
+    "m": "hình thành nhân cách",
+    "example": "家庭教育对人格养成至关重要。",
+    "example_vi": "Giáo dục gia đình vô cùng quan trọng đối với việc hình thành nhân cách."
+  },
+  {
+    "w": "社会疏离感",
+    "p": "shèhuì shūlígǎn",
+    "m": "cảm giác xa lạ với xã hội",
+    "example": "独居老人常有社会疏离感。",
+    "example_vi": "Người già sống một mình thường có cảm giác xa lạ với xã hội."
+  },
+  {
+    "w": "人本主义",
+    "p": "rénběnzhǔyì",
+    "m": "chủ nghĩa nhân bản",
+    "example": "这项政策体现了人本主义精神。",
+    "example_vi": "Chính sách này thể hiện tinh thần chủ nghĩa nhân bản."
+  },
+  {
+    "w": "社会性别",
+    "p": "shèhuì xìngbié",
+    "m": "giới tính xã hội (gender)",
+    "example": "社会性别观念随时代不断演变。",
+    "example_vi": "Quan niệm về giới tính xã hội không ngừng thay đổi theo thời đại."
+  },
+  {
+    "w": "婚育观念",
+    "p": "hūnyù guānniàn",
+    "m": "quan niệm hôn nhân sinh đẻ",
+    "example": "年轻人的婚育观念日益多元。",
+    "example_vi": "Quan niệm hôn nhân sinh đẻ của người trẻ ngày càng đa dạng."
+  },
+  {
+    "w": "人际疏离",
+    "p": "rénjì shūlí",
+    "m": "sự xa cách trong quan hệ giữa người với người",
+    "example": "社交媒体反而加剧了人际疏离。",
+    "example_vi": "Mạng xã hội trái lại làm gia tăng sự xa cách trong quan hệ giữa người với người."
+  },
+  {
+    "w": "社会关怀",
+    "p": "shèhuì guānhuái",
+    "m": "sự quan tâm chăm sóc của xã hội",
+    "example": "这项公益项目体现了浓厚的社会关怀。",
+    "example_vi": "Dự án công ích này thể hiện sự quan tâm chăm sóc sâu sắc của xã hội."
+  },
+  {
+    "w": "下岗职工",
+    "p": "xiàgǎng zhígōng",
+    "m": "công nhân viên bị mất việc",
+    "example": "政府为下岗职工提供再就业培训。",
+    "example_vi": "Chính phủ cung cấp đào tạo tái tuyển dụng cho công nhân viên bị mất việc."
+  },
+  {
+    "w": "民意基础",
+    "p": "mínyì jīchǔ",
+    "m": "nền tảng ý dân",
+    "example": "这项改革缺乏坚实的民意基础。",
+    "example_vi": "Cuộc cải cách này thiếu nền tảng ý dân vững chắc."
+  },
+  {
+    "w": "底线思维",
+    "p": "dǐxiàn sīwéi",
+    "m": "tư duy giữ giới hạn cuối cùng",
+    "example": "做人要有底线思维，不能突破原则。",
+    "example_vi": "Làm người cần có tư duy giữ giới hạn cuối cùng, không thể phá vỡ nguyên tắc."
+  },
+  {
+    "w": "社会公义",
+    "p": "shèhuì gōngyì",
+    "m": "công lý xã hội",
+    "example": "追求社会公义是许多人的信念。",
+    "example_vi": "Theo đuổi công lý xã hội là niềm tin của nhiều người."
+  },
+  {
+    "w": "人心所向",
+    "p": "rénxīnsuǒxiàng",
+    "m": "lòng người hướng về (điều mọi người mong muốn)",
+    "example": "改革顺应人心所向，得到广泛支持。",
+    "example_vi": "Cải cách thuận theo lòng người hướng về, được ủng hộ rộng rãi."
+  },
+  {
+    "w": "和谐共处",
+    "p": "héxié gòngchǔ",
+    "m": "chung sống hòa hợp",
+    "example": "不同民族在这片土地上和谐共处。",
+    "example_vi": "Các dân tộc khác nhau chung sống hòa hợp trên mảnh đất này."
+  },
+  {
+    "w": "社会病理",
+    "p": "shèhuì bìnglǐ",
+    "m": "bệnh lý xã hội",
+    "example": "贫富差距扩大是一种社会病理现象。",
+    "example_vi": "Khoảng cách giàu nghèo mở rộng là một hiện tượng bệnh lý xã hội."
+  },
+  {
+    "w": "薄利多销",
+    "p": "bóluōduōxiāo",
+    "m": "lãi ít bán nhiều",
+    "example": "这家超市采取薄利多销的经营策略。",
+    "example_vi": "Siêu thị này áp dụng chiến lược kinh doanh lãi ít bán nhiều."
+  },
+  {
+    "w": "物美价廉",
+    "p": "wùměijiàlián",
+    "m": "hàng tốt giá rẻ",
+    "example": "这款产品物美价廉，很受欢迎。",
+    "example_vi": "Sản phẩm này hàng tốt giá rẻ, rất được ưa chuộng."
+  },
+  {
+    "w": "入不敷出",
+    "p": "rùbùfūchū",
+    "m": "thu không đủ chi",
+    "example": "公司连年入不敷出，濒临破产。",
+    "example_vi": "Công ty liên tục thu không đủ chi, đứng bên bờ phá sản."
+  },
+  {
+    "w": "分期付款",
+    "p": "fēnqī fùkuǎn",
+    "m": "trả góp",
+    "example": "很多人选择分期付款购买汽车。",
+    "example_vi": "Nhiều người chọn trả góp để mua xe hơi."
+  },
+  {
+    "w": "经营不善",
+    "p": "jīngyíng bùshàn",
+    "m": "kinh doanh yếu kém",
+    "example": "这家企业因经营不善而倒闭。",
+    "example_vi": "Doanh nghiệp này phá sản do kinh doanh yếu kém."
+  },
+  {
+    "w": "薄弱产业",
+    "p": "báoruò chǎnyè",
+    "m": "ngành công nghiệp yếu kém",
+    "example": "政府正在扶持这些薄弱产业。",
+    "example_vi": "Chính phủ đang hỗ trợ những ngành công nghiệp yếu kém này."
+  },
+  {
+    "w": "经济增长点",
+    "p": "jīngjì zēngzhǎngdiǎn",
+    "m": "điểm tăng trưởng kinh tế",
+    "example": "新能源被视为新的经济增长点。",
+    "example_vi": "Năng lượng mới được xem là điểm tăng trưởng kinh tế mới."
+  },
+  {
+    "w": "产业升级",
+    "p": "chǎnyè shēngjí",
+    "m": "nâng cấp ngành công nghiệp",
+    "example": "这座城市正在推动传统产业升级。",
+    "example_vi": "Thành phố này đang thúc đẩy nâng cấp các ngành công nghiệp truyền thống."
+  },
+  {
+    "w": "经济命脉",
+    "p": "jīngjì mìngmài",
+    "m": "mạch máu kinh tế, huyết mạch kinh tế",
+    "example": "能源产业被称为国家的经济命脉。",
+    "example_vi": "Ngành năng lượng được gọi là huyết mạch kinh tế của quốc gia."
+  },
+  {
+    "w": "薄利经营",
+    "p": "bólì jīngyíng",
+    "m": "kinh doanh lợi nhuận thấp",
+    "example": "该公司靠薄利经营占领市场。",
+    "example_vi": "Công ty này chiếm lĩnh thị trường nhờ kinh doanh lợi nhuận thấp."
+  },
+  {
+    "w": "市场饱和",
+    "p": "shìchǎng bǎohé",
+    "m": "thị trường bão hòa",
+    "example": "该行业已出现市场饱和的迹象。",
+    "example_vi": "Ngành này đã xuất hiện dấu hiệu thị trường bão hòa."
+  },
+  {
+    "w": "薄利",
+    "p": "bólì",
+    "m": "lợi nhuận thấp, lãi ít",
+    "example": "这个行业普遍薄利，竞争激烈。",
+    "example_vi": "Ngành này nhìn chung lợi nhuận thấp, cạnh tranh gay gắt."
+  },
+  {
+    "w": "经营模式",
+    "p": "jīngyíng móshì",
+    "m": "mô hình kinh doanh",
+    "example": "这家公司的经营模式正在转型。",
+    "example_vi": "Mô hình kinh doanh của công ty này đang trong quá trình chuyển đổi."
+  },
+  {
+    "w": "经济附加值",
+    "p": "jīngjì fùjiāzhí",
+    "m": "giá trị gia tăng kinh tế",
+    "example": "品牌能够提升产品的经济附加值。",
+    "example_vi": "Thương hiệu có thể nâng cao giá trị gia tăng kinh tế của sản phẩm."
+  },
+  {
+    "w": "消费降级",
+    "p": "xiāofèi jiàngjí",
+    "m": "tiêu dùng hạ cấp (chuyển sang chi tiêu tiết kiệm)",
+    "example": "经济下行时期，消费降级现象普遍。",
+    "example_vi": "Trong thời kỳ kinh tế đi xuống, hiện tượng tiêu dùng hạ cấp khá phổ biến."
+  },
+  {
+    "w": "降价促销",
+    "p": "jiàngjià cùxiāo",
+    "m": "giảm giá khuyến mãi",
+    "example": "商场年底降价促销，吸引大批顾客。",
+    "example_vi": "Trung tâm thương mại giảm giá khuyến mãi cuối năm, thu hút đông đảo khách hàng."
+  },
+  {
+    "w": "虚拟经济",
+    "p": "xūnǐ jīngjì",
+    "m": "kinh tế ảo",
+    "example": "虚拟经济的过度膨胀可能带来风险。",
+    "example_vi": "Sự phình to quá mức của kinh tế ảo có thể mang lại rủi ro."
+  },
+  {
+    "w": "经济体量",
+    "p": "jīngjì tǐliàng",
+    "m": "quy mô kinh tế",
+    "example": "这座城市的经济体量位居全国前列。",
+    "example_vi": "Quy mô kinh tế của thành phố này đứng hàng đầu cả nước."
+  },
+  {
+    "w": "薄弱产业链",
+    "p": "báoruò chǎnyèliàn",
+    "m": "chuỗi công nghiệp yếu kém",
+    "example": "当地正在补齐薄弱产业链。",
+    "example_vi": "Địa phương đang bổ sung hoàn thiện chuỗi công nghiệp yếu kém."
+  },
+  {
+    "w": "经济风向标",
+    "p": "jīngjì fēngxiàngbiāo",
+    "m": "phong vũ biểu kinh tế, chỉ báo xu hướng kinh tế",
+    "example": "股市常被视为经济风向标。",
+    "example_vi": "Thị trường chứng khoán thường được xem là phong vũ biểu kinh tế."
+  },
+  {
+    "w": "产能过剩",
+    "p": "chǎnnéng guòshèng",
+    "m": "dư thừa công suất sản xuất",
+    "example": "部分传统行业面临产能过剩问题。",
+    "example_vi": "Một số ngành truyền thống đang đối mặt với vấn đề dư thừa công suất."
+  },
+  {
+    "w": "去库存",
+    "p": "qùkùcún",
+    "m": "giảm hàng tồn kho",
+    "example": "房地产企业正在加快去库存步伐。",
+    "example_vi": "Doanh nghiệp bất động sản đang đẩy nhanh tốc độ giảm hàng tồn kho."
+  },
+  {
+    "w": "跑马圈地",
+    "p": "pǎomǎquāndì",
+    "m": "chạy đua mở rộng thị phần",
+    "example": "新兴平台在市场上跑马圈地。",
+    "example_vi": "Các nền tảng mới nổi đang chạy đua mở rộng thị phần trên thị trường."
+  },
+  {
+    "w": "经济波动",
+    "p": "jīngjì bōdòng",
+    "m": "biến động kinh tế",
+    "example": "国际油价波动引发全球经济波动。",
+    "example_vi": "Biến động giá dầu quốc tế gây ra biến động kinh tế toàn cầu."
+  },
+  {
+    "w": "市场调节",
+    "p": "shìchǎng tiáojié",
+    "m": "điều tiết thị trường",
+    "example": "价格由市场调节机制决定。",
+    "example_vi": "Giá cả được quyết định bởi cơ chế điều tiết thị trường."
+  },
+  {
+    "w": "经济结构调整",
+    "p": "jīngjì jiégòu tiáozhěng",
+    "m": "điều chỉnh cơ cấu kinh tế",
+    "example": "这次经济结构调整涉及多个行业。",
+    "example_vi": "Lần điều chỉnh cơ cấu kinh tế này liên quan đến nhiều ngành."
+  },
+  {
+    "w": "薄利行业",
+    "p": "bólì hángyè",
+    "m": "ngành nghề lợi nhuận thấp",
+    "example": "传统零售是典型的薄利行业。",
+    "example_vi": "Bán lẻ truyền thống là ngành nghề lợi nhuận thấp điển hình."
+  },
+  {
+    "w": "经济联动",
+    "p": "jīngjì liándòng",
+    "m": "liên động kinh tế (tác động qua lại)",
+    "example": "区域间经济联动效应日益明显。",
+    "example_vi": "Hiệu ứng liên động kinh tế giữa các khu vực ngày càng rõ rệt."
+  },
+  {
+    "w": "经济纽带",
+    "p": "jīngjì niǔdài",
+    "m": "mối dây liên kết kinh tế",
+    "example": "贸易是两国之间重要的经济纽带。",
+    "example_vi": "Thương mại là mối dây liên kết kinh tế quan trọng giữa hai nước."
+  },
+  {
+    "w": "产销对接",
+    "p": "chǎnxiāo duìjiē",
+    "m": "kết nối sản xuất và tiêu thụ",
+    "example": "平台帮助农户实现产销对接。",
+    "example_vi": "Nền tảng giúp nông dân thực hiện kết nối sản xuất và tiêu thụ."
+  },
+  {
+    "w": "财源广进",
+    "p": "cáiyuánguǎngjìn",
+    "m": "nguồn tài lộc dồi dào (lời chúc)",
+    "example": "新年伊始，人们互祝财源广进。",
+    "example_vi": "Đầu năm mới, mọi người chúc nhau tài lộc dồi dào."
+  },
+  {
+    "w": "经济风险",
+    "p": "jīngjì fēngxiǎn",
+    "m": "rủi ro kinh tế",
+    "example": "投资者需谨慎评估经济风险。",
+    "example_vi": "Nhà đầu tư cần đánh giá thận trọng rủi ro kinh tế."
+  },
+  {
+    "w": "劳动密集型",
+    "p": "láodòng mìjíxíng",
+    "m": "loại hình thâm dụng lao động",
+    "example": "纺织业属于劳动密集型产业。",
+    "example_vi": "Ngành dệt may thuộc loại hình thâm dụng lao động."
+  },
+  {
+    "w": "技术密集型",
+    "p": "jìshù mìjíxíng",
+    "m": "loại hình thâm dụng công nghệ",
+    "example": "半导体是典型的技术密集型行业。",
+    "example_vi": "Bán dẫn là ngành thâm dụng công nghệ điển hình."
+  },
+  {
+    "w": "资本密集型",
+    "p": "zīběn mìjíxíng",
+    "m": "loại hình thâm dụng vốn",
+    "example": "石油化工属于资本密集型产业。",
+    "example_vi": "Hóa dầu thuộc loại hình thâm dụng vốn."
+  },
+  {
+    "w": "营运资金",
+    "p": "yíngyùn zījīn",
+    "m": "vốn lưu động vận hành",
+    "example": "公司需要充足的营运资金维持运转。",
+    "example_vi": "Công ty cần vốn lưu động đầy đủ để duy trì vận hành."
+  },
+  {
+    "w": "周转不灵",
+    "p": "zhōuzhuǎn bùlíng",
+    "m": "không luân chuyển được vốn, mất khả năng thanh toán",
+    "example": "资金周转不灵导致公司陷入困境。",
+    "example_vi": "Việc mất khả năng luân chuyển vốn khiến công ty rơi vào khó khăn."
+  },
+  {
+    "w": "经济下行压力",
+    "p": "jīngjì xiàxíng yālì",
+    "m": "áp lực suy giảm kinh tế",
+    "example": "多个行业感受到经济下行压力。",
+    "example_vi": "Nhiều ngành cảm nhận được áp lực suy giảm kinh tế."
+  },
+  {
+    "w": "拉动内需",
+    "p": "lādòng nèixū",
+    "m": "kích thích nhu cầu nội địa",
+    "example": "政府希望通过拉动内需促进经济复苏。",
+    "example_vi": "Chính phủ hy vọng thúc đẩy phục hồi kinh tế thông qua kích thích nhu cầu nội địa."
+  },
+  {
+    "w": "外贸依赖度",
+    "p": "wàimào yīlàidù",
+    "m": "mức độ phụ thuộc ngoại thương",
+    "example": "该国经济的外贸依赖度较高。",
+    "example_vi": "Mức độ phụ thuộc ngoại thương của nền kinh tế nước này khá cao."
+  },
+  {
+    "w": "产业空心化",
+    "p": "chǎnyè kōngxīnhuà",
+    "m": "rỗng hóa ngành công nghiệp",
+    "example": "制造业外迁导致产业空心化。",
+    "example_vi": "Việc chuyển dịch ngành sản xuất ra nước ngoài dẫn đến rỗng hóa ngành công nghiệp."
+  },
+  {
+    "w": "经济活力",
+    "p": "jīngjì huólì",
+    "m": "sức sống kinh tế",
+    "example": "自贸区极大地激发了当地经济活力。",
+    "example_vi": "Khu thương mại tự do đã kích thích mạnh mẽ sức sống kinh tế địa phương."
+  },
+  {
+    "w": "生产要素",
+    "p": "shēngchǎn yàosù",
+    "m": "yếu tố sản xuất",
+    "example": "土地、资本、劳动力是主要的生产要素。",
+    "example_vi": "Đất đai, vốn, lao động là những yếu tố sản xuất chủ yếu."
+  },
+  {
+    "w": "扭亏为盈",
+    "p": "niǔkuīwéiyíng",
+    "m": "chuyển lỗ thành lãi",
+    "example": "经过整顿，公司终于扭亏为盈。",
+    "example_vi": "Sau khi chấn chỉnh, công ty cuối cùng đã chuyển lỗ thành lãi."
+  },
+  {
+    "w": "经济红利",
+    "p": "jīngjì hónglì",
+    "m": "lợi tức kinh tế, cổ tức kinh tế",
+    "example": "改革开放释放了巨大的经济红利。",
+    "example_vi": "Cải cách mở cửa đã giải phóng lợi tức kinh tế to lớn."
+  },
+  {
+    "w": "星辰大海",
+    "p": "xīngchén dàhǎi",
+    "m": "biển sao (ẩn dụ chỉ hoài bão thám hiểm vũ trụ)",
+    "example": "人类对星辰大海的探索从未停止。",
+    "example_vi": "Con người chưa bao giờ ngừng khám phá vũ trụ bao la."
+  },
+  {
+    "w": "星际探测",
+    "p": "xīngjì tàncè",
+    "m": "thám hiểm liên hành tinh",
+    "example": "这枚探测器执行星际探测任务。",
+    "example_vi": "Thiết bị thăm dò này thực hiện nhiệm vụ thám hiểm liên hành tinh."
+  },
+  {
+    "w": "陨石",
+    "p": "yǔnshí",
+    "m": "thiên thạch",
+    "example": "科学家在南极发现了一块罕见的陨石。",
+    "example_vi": "Các nhà khoa học phát hiện một khối thiên thạch hiếm ở Nam Cực."
+  },
+  {
+    "w": "日食",
+    "p": "rìshí",
+    "m": "nhật thực",
+    "example": "今天将出现一次罕见的日食。",
+    "example_vi": "Hôm nay sẽ xuất hiện một hiện tượng nhật thực hiếm gặp."
+  },
+  {
+    "w": "月食",
+    "p": "yuèshí",
+    "m": "nguyệt thực",
+    "example": "很多人熬夜观看月食现象。",
+    "example_vi": "Nhiều người thức khuya để xem hiện tượng nguyệt thực."
+  },
+  {
+    "w": "星系",
+    "p": "xīngxì",
+    "m": "thiên hà",
+    "example": "银河系只是宇宙中众多星系之一。",
+    "example_vi": "Dải Ngân Hà chỉ là một trong vô số thiên hà của vũ trụ."
+  },
+  {
+    "w": "光年",
+    "p": "guāngnián",
+    "m": "năm ánh sáng",
+    "example": "这颗恒星距离地球有数百光年。",
+    "example_vi": "Ngôi sao này cách Trái Đất hàng trăm năm ánh sáng."
+  },
+  {
+    "w": "星球轨道",
+    "p": "xīngqiú guǐdào",
+    "m": "quỹ đạo hành tinh",
+    "example": "卫星沿着预定的星球轨道运行。",
+    "example_vi": "Vệ tinh vận hành theo quỹ đạo hành tinh đã định trước."
+  },
+  {
+    "w": "地壳运动",
+    "p": "dìqiào yùndòng",
+    "m": "vận động vỏ trái đất",
+    "example": "地壳运动是引发地震的主要原因之一。",
+    "example_vi": "Vận động vỏ Trái Đất là một trong những nguyên nhân chính gây ra động đất."
+  },
+  {
+    "w": "板块构造",
+    "p": "bǎnkuài gòuzào",
+    "m": "kiến tạo mảng",
+    "example": "板块构造理论解释了大陆漂移现象。",
+    "example_vi": "Lý thuyết kiến tạo mảng giải thích hiện tượng trôi dạt lục địa."
+  },
+  {
+    "w": "岩浆",
+    "p": "yánjiāng",
+    "m": "dung nham",
+    "example": "火山喷发时岩浆从地下涌出。",
+    "example_vi": "Khi núi lửa phun trào, dung nham trào lên từ lòng đất."
+  },
+  {
+    "w": "地质年代",
+    "p": "dìzhì niándài",
+    "m": "niên đại địa chất",
+    "example": "这块化石属于遥远的地质年代。",
+    "example_vi": "Hòn hóa thạch này thuộc niên đại địa chất xa xưa."
+  },
+  {
+    "w": "矿藏",
+    "p": "kuàngcáng",
+    "m": "khoáng sản",
+    "example": "这片山区蕴藏着丰富的矿藏。",
+    "example_vi": "Vùng núi này chứa đựng nguồn khoáng sản phong phú."
+  },
+  {
+    "w": "生物钟",
+    "p": "shēngwùzhōng",
+    "m": "đồng hồ sinh học",
+    "example": "熬夜会打乱人体的生物钟。",
+    "example_vi": "Thức khuya sẽ làm rối loạn đồng hồ sinh học của cơ thể."
+  },
+  {
+    "w": "神经元",
+    "p": "shénjīngyuán",
+    "m": "tế bào thần kinh, nơron",
+    "example": "大脑中数十亿个神经元相互连接。",
+    "example_vi": "Hàng tỷ tế bào thần kinh trong não bộ kết nối với nhau."
+  },
+  {
+    "w": "共生关系",
+    "p": "gòngshēng guānxi",
+    "m": "quan hệ cộng sinh",
+    "example": "蜜蜂与花朵之间存在共生关系。",
+    "example_vi": "Giữa ong và hoa tồn tại mối quan hệ cộng sinh."
+  },
+  {
+    "w": "变异",
+    "p": "biànyì",
+    "m": "đột biến",
+    "example": "基因变异可能导致遗传疾病。",
+    "example_vi": "Đột biến gen có thể dẫn đến bệnh di truyền."
+  },
+  {
+    "w": "退化",
+    "p": "tuìhuà",
+    "m": "thoái hóa",
+    "example": "缺乏锻炼会导致肌肉退化。",
+    "example_vi": "Thiếu vận động sẽ dẫn đến thoái hóa cơ bắp."
+  },
+  {
+    "w": "食物网",
+    "p": "shíwùwǎng",
+    "m": "lưới thức ăn",
+    "example": "每种生物都是复杂食物网中的一环。",
+    "example_vi": "Mỗi loài sinh vật đều là một mắt xích trong lưới thức ăn phức tạp."
+  },
+  {
+    "w": "生物入侵",
+    "p": "shēngwù rùqīn",
+    "m": "xâm lấn sinh học",
+    "example": "生物入侵严重威胁本地生态系统。",
+    "example_vi": "Xâm lấn sinh học đe dọa nghiêm trọng hệ sinh thái bản địa."
+  },
+  {
+    "w": "元素周期律",
+    "p": "yuánsù zhōuqīlǜ",
+    "m": "định luật tuần hoàn các nguyên tố",
+    "example": "元素周期律揭示了元素性质的规律。",
+    "example_vi": "Định luật tuần hoàn các nguyên tố hé lộ quy luật tính chất của các nguyên tố."
+  },
+  {
+    "w": "化学键",
+    "p": "huàxuéjiàn",
+    "m": "liên kết hóa học",
+    "example": "化学键的断裂和形成伴随能量变化。",
+    "example_vi": "Sự phá vỡ và hình thành liên kết hóa học đi kèm với sự thay đổi năng lượng."
+  },
+  {
+    "w": "氧化反应",
+    "p": "yǎnghuà fǎnyìng",
+    "m": "phản ứng oxy hóa",
+    "example": "铁生锈是一种缓慢的氧化反应。",
+    "example_vi": "Sắt bị gỉ là một dạng phản ứng oxy hóa chậm."
+  },
+  {
+    "w": "催化作用",
+    "p": "cuīhuà zuòyòng",
+    "m": "tác dụng xúc tác",
+    "example": "酶在生物体内起催化作用。",
+    "example_vi": "Enzyme có tác dụng xúc tác trong cơ thể sinh vật."
+  },
+  {
+    "w": "电磁波",
+    "p": "diàncíbō",
+    "m": "sóng điện từ",
+    "example": "手机信号靠电磁波传输。",
+    "example_vi": "Tín hiệu điện thoại di động truyền qua sóng điện từ."
+  },
+  {
+    "w": "离心力",
+    "p": "líxīnlì",
+    "m": "lực ly tâm",
+    "example": "转弯时乘客会感受到离心力。",
+    "example_vi": "Khi vào cua, hành khách sẽ cảm nhận được lực ly tâm."
+  },
+  {
+    "w": "共振",
+    "p": "gòngzhèn",
+    "m": "cộng hưởng",
+    "example": "大桥若发生共振可能造成结构损坏。",
+    "example_vi": "Nếu cầu lớn xảy ra hiện tượng cộng hưởng có thể gây hư hại kết cấu."
+  },
+  {
+    "w": "传感器",
+    "p": "chuángǎnqì",
+    "m": "cảm biến",
+    "example": "智能手表内置多种传感器。",
+    "example_vi": "Đồng hồ thông minh tích hợp nhiều loại cảm biến."
+  },
+  {
+    "w": "精密仪器",
+    "p": "jīngmì yíqì",
+    "m": "thiết bị chính xác cao",
+    "example": "实验室配备了各种精密仪器。",
+    "example_vi": "Phòng thí nghiệm được trang bị nhiều loại thiết bị chính xác cao."
+  },
+  {
+    "w": "数据加密",
+    "p": "shùjù jiāmì",
+    "m": "mã hóa dữ liệu",
+    "example": "银行系统采用严格的数据加密技术。",
+    "example_vi": "Hệ thống ngân hàng áp dụng công nghệ mã hóa dữ liệu nghiêm ngặt."
+  },
+  {
+    "w": "云端存储",
+    "p": "yúnduān cúnchǔ",
+    "m": "lưu trữ đám mây",
+    "example": "她把所有照片都备份到云端存储。",
+    "example_vi": "Cô ấy sao lưu tất cả ảnh vào lưu trữ đám mây."
+  },
+  {
+    "w": "虚拟仿真",
+    "p": "xūnǐ fǎngzhēn",
+    "m": "mô phỏng ảo",
+    "example": "工程师利用虚拟仿真测试新设计。",
+    "example_vi": "Kỹ sư sử dụng mô phỏng ảo để thử nghiệm thiết kế mới."
+  },
+  {
+    "w": "迭代更新",
+    "p": "diédài gēngxīn",
+    "m": "cập nhật lặp lại theo chu kỳ",
+    "example": "这款软件每月都会进行迭代更新。",
+    "example_vi": "Phần mềm này được cập nhật lặp lại theo chu kỳ mỗi tháng."
+  },
+  {
+    "w": "底层逻辑",
+    "p": "dǐcéng luójí",
+    "m": "logic nền tảng, nguyên lý cốt lõi",
+    "example": "理解产品的底层逻辑才能做出好设计。",
+    "example_vi": "Hiểu được logic nền tảng của sản phẩm mới có thể thiết kế tốt."
+  },
+  {
+    "w": "数据孤岛",
+    "p": "shùjù gūdǎo",
+    "m": "đảo dữ liệu cô lập (dữ liệu không kết nối)",
+    "example": "部门之间存在严重的数据孤岛问题。",
+    "example_vi": "Giữa các bộ phận tồn tại vấn đề nghiêm trọng về đảo dữ liệu cô lập."
+  },
+  {
+    "w": "技术瓶颈",
+    "p": "jìshù píngjǐng",
+    "m": "nút thắt kỹ thuật",
+    "example": "公司在电池续航上遇到技术瓶颈。",
+    "example_vi": "Công ty gặp phải nút thắt kỹ thuật trong vấn đề thời lượng pin."
+  },
+  {
+    "w": "人机协作",
+    "p": "rénjī xiézuò",
+    "m": "hợp tác giữa người và máy",
+    "example": "未来工厂将更多依赖人机协作。",
+    "example_vi": "Nhà máy tương lai sẽ phụ thuộc nhiều hơn vào hợp tác giữa người và máy."
+  },
+  {
+    "w": "自愈能力",
+    "p": "zìyù nénglì",
+    "m": "khả năng tự phục hồi",
+    "example": "新材料具有一定的自愈能力。",
+    "example_vi": "Vật liệu mới có khả năng tự phục hồi nhất định."
+  },
+  {
+    "w": "仿生学",
+    "p": "fǎngshēngxué",
+    "m": "phỏng sinh học (bionics)",
+    "example": "仿生学从自然界获取设计灵感。",
+    "example_vi": "Phỏng sinh học lấy cảm hứng thiết kế từ tự nhiên."
+  },
+  {
+    "w": "数据可信度",
+    "p": "shùjù kěxìndù",
+    "m": "độ tin cậy của dữ liệu",
+    "example": "评估数据可信度是分析的第一步。",
+    "example_vi": "Đánh giá độ tin cậy của dữ liệu là bước đầu tiên trong phân tích."
+  },
+  {
+    "w": "信息孤立",
+    "p": "xìnxī gūlì",
+    "m": "cô lập thông tin",
+    "example": "跨部门协作能减少信息孤立现象。",
+    "example_vi": "Hợp tác giữa các phòng ban có thể giảm hiện tượng cô lập thông tin."
+  },
+  {
+    "w": "科研经费",
+    "p": "kēyán jīngfèi",
+    "m": "kinh phí nghiên cứu khoa học",
+    "example": "这项研究获得了充足的科研经费。",
+    "example_vi": "Nghiên cứu này nhận được kinh phí nghiên cứu khoa học đầy đủ."
+  },
+  {
+    "w": "科技创新",
+    "p": "kējì chuàngxīn",
+    "m": "đổi mới khoa học công nghệ",
+    "example": "科技创新是国家发展的核心动力。",
+    "example_vi": "Đổi mới khoa học công nghệ là động lực cốt lõi cho sự phát triển của quốc gia."
+  },
+  {
+    "w": "技术转化",
+    "p": "jìshù zhuǎnhuà",
+    "m": "chuyển giao công nghệ (thành sản phẩm)",
+    "example": "高校科研成果的技术转化率有待提高。",
+    "example_vi": "Tỷ lệ chuyển giao công nghệ từ thành quả nghiên cứu của các trường đại học cần được nâng cao."
+  },
+  {
+    "w": "科学素养",
+    "p": "kēxué sùyǎng",
+    "m": "tố chất khoa học",
+    "example": "提高公众的科学素养十分重要。",
+    "example_vi": "Nâng cao tố chất khoa học của công chúng vô cùng quan trọng."
+  },
+  {
+    "w": "实证依据",
+    "p": "shízhèng yījù",
+    "m": "căn cứ thực chứng",
+    "example": "这项结论需要更多实证依据支持。",
+    "example_vi": "Kết luận này cần thêm căn cứ thực chứng để hỗ trợ."
+  },
+  {
+    "w": "科技赋能",
+    "p": "kējì fùnéng",
+    "m": "trao quyền bởi công nghệ, nâng cao năng lực nhờ công nghệ",
+    "example": "科技赋能让传统农业焕发新活力。",
+    "example_vi": "Việc nâng cao năng lực nhờ công nghệ đã làm nông nghiệp truyền thống bừng sức sống mới."
+  },
+  {
+    "w": "技术鸿沟",
+    "p": "jìshù hónggōu",
+    "m": "khoảng cách công nghệ",
+    "example": "发达地区与偏远地区存在技术鸿沟。",
+    "example_vi": "Giữa khu vực phát triển và vùng sâu vùng xa tồn tại khoảng cách công nghệ."
+  },
+  {
+    "w": "科技惠民",
+    "p": "kējì huìmín",
+    "m": "công nghệ mang lại lợi ích cho dân",
+    "example": "这项政策旨在推动科技惠民。",
+    "example_vi": "Chính sách này nhằm mục đích thúc đẩy công nghệ mang lại lợi ích cho dân."
+  },
+  {
+    "w": "望远镜阵列",
+    "p": "wàngyuǎnjìng zhènliè",
+    "m": "dàn kính thiên văn",
+    "example": "科学家用望远镜阵列观测遥远星系。",
+    "example_vi": "Các nhà khoa học dùng dàn kính thiên văn để quan sát các thiên hà xa xôi."
+  },
+  {
+    "w": "实验误差",
+    "p": "shíyàn wùchā",
+    "m": "sai số thí nghiệm",
+    "example": "研究人员反复检查以减少实验误差。",
+    "example_vi": "Nhà nghiên cứu kiểm tra nhiều lần để giảm sai số thí nghiệm."
+  },
+  {
+    "w": "科技孵化",
+    "p": "kējì fūhuà",
+    "m": "ươm tạo công nghệ",
+    "example": "这里是当地的科技孵化基地。",
+    "example_vi": "Đây là căn cứ ươm tạo công nghệ của địa phương."
+  },
+  {
+    "w": "清洁生产",
+    "p": "qīngjié shēngchǎn",
+    "m": "sản xuất sạch",
+    "example": "工厂引入清洁生产工艺以减少污染。",
+    "example_vi": "Nhà máy đưa vào quy trình sản xuất sạch để giảm ô nhiễm."
+  },
+  {
+    "w": "能耗",
+    "p": "nénghào",
+    "m": "tiêu hao năng lượng",
+    "example": "新设备大幅降低了生产能耗。",
+    "example_vi": "Thiết bị mới đã giảm đáng kể mức tiêu hao năng lượng sản xuất."
+  },
+  {
+    "w": "科技强国",
+    "p": "kējì qiángguó",
+    "m": "cường quốc khoa học công nghệ",
+    "example": "建设科技强国是长期战略目标。",
+    "example_vi": "Xây dựng cường quốc khoa học công nghệ là mục tiêu chiến lược lâu dài."
+  },
+  {
+    "w": "数字鸿沟弥合",
+    "p": "shùzì hónggōu míhé",
+    "m": "thu hẹp khoảng cách số",
+    "example": "政府投入资金以促进数字鸿沟弥合。",
+    "example_vi": "Chính phủ đầu tư kinh phí để thúc đẩy thu hẹp khoảng cách số."
+  },
+  {
+    "w": "工笔画",
+    "p": "gōngbǐhuà",
+    "m": "tranh công bút (vẽ tỉ mỉ)",
+    "example": "工笔画讲究线条的细腻与精准。",
+    "example_vi": "Tranh công bút coi trọng đường nét tinh tế và chính xác."
+  },
+  {
+    "w": "拓片",
+    "p": "tàpiàn",
+    "m": "bản dập (rập từ bia đá, khắc)",
+    "example": "博物馆收藏了大量碑文拓片。",
+    "example_vi": "Bảo tàng lưu giữ số lượng lớn bản dập từ văn bia."
+  },
+  {
+    "w": "戏曲脸谱",
+    "p": "xìqǔ liǎnpǔ",
+    "m": "mặt nạ hí kịch (hóa trang tuồng)",
+    "example": "京剧戏曲脸谱色彩鲜明，寓意丰富。",
+    "example_vi": "Mặt nạ hí kịch trong Kinh kịch có màu sắc rực rỡ, hàm ý phong phú."
+  },
+  {
+    "w": "交响乐团",
+    "p": "jiāoxiǎng yuètuán",
+    "m": "dàn nhạc giao hưởng",
+    "example": "交响乐团在音乐厅演奏贝多芬的作品。",
+    "example_vi": "Dàn nhạc giao hưởng biểu diễn tác phẩm của Beethoven tại nhà hát âm nhạc."
+  },
+  {
+    "w": "和声",
+    "p": "héshēng",
+    "m": "hòa âm",
+    "example": "这首曲子的和声处理得十分巧妙。",
+    "example_vi": "Phần hòa âm của bản nhạc này được xử lý rất khéo léo."
+  },
+  {
+    "w": "配器",
+    "p": "pèiqì",
+    "m": "phối khí (nhạc cụ)",
+    "example": "这位作曲家的配器手法独具一格。",
+    "example_vi": "Kỹ thuật phối khí của nhà soạn nhạc này rất độc đáo."
+  },
+  {
+    "w": "曲调",
+    "p": "qǔdiào",
+    "m": "giai điệu bài hát",
+    "example": "这首民歌的曲调优美动听。",
+    "example_vi": "Giai điệu của bài dân ca này rất du dương êm tai."
+  },
+  {
+    "w": "变奏",
+    "p": "biànzòu",
+    "m": "biến tấu",
+    "example": "钢琴家演奏了这首曲子的多种变奏。",
+    "example_vi": "Nghệ sĩ dương cầm đã biểu diễn nhiều biến tấu của bản nhạc này."
+  },
+  {
+    "w": "即兴演奏",
+    "p": "jíxìng yǎnzòu",
+    "m": "biểu diễn ngẫu hứng",
+    "example": "爵士乐最大的魅力在于即兴演奏。",
+    "example_vi": "Sức hấp dẫn lớn nhất của nhạc jazz nằm ở biểu diễn ngẫu hứng."
+  },
+  {
+    "w": "编舞",
+    "p": "biānwǔ",
+    "m": "biên đạo múa",
+    "example": "这支舞蹈的编舞十分独特。",
+    "example_vi": "Phần biên đạo của điệu múa này rất độc đáo."
+  },
+  {
+    "w": "肢体语言",
+    "p": "zhītǐ yǔyán",
+    "m": "ngôn ngữ cơ thể",
+    "example": "演员通过肢体语言传达情感。",
+    "example_vi": "Diễn viên truyền tải cảm xúc thông qua ngôn ngữ cơ thể."
+  },
+  {
+    "w": "舞台调度",
+    "p": "wǔtái diàodù",
+    "m": "bố cục sân khấu (dàn dựng vị trí diễn viên)",
+    "example": "导演对舞台调度的把控十分精准。",
+    "example_vi": "Đạo diễn kiểm soát bố cục sân khấu rất chính xác."
+  },
+  {
+    "w": "剧目",
+    "p": "jùmù",
+    "m": "tiết mục kịch, vở diễn",
+    "example": "剧院今晚上演的剧目是经典话剧。",
+    "example_vi": "Vở diễn được trình diễn tại nhà hát tối nay là kịch nói kinh điển."
+  },
+  {
+    "w": "票友",
+    "p": "piàoyǒu",
+    "m": "người mê hát tuồng nghiệp dư",
+    "example": "这位老人是京剧界有名的票友。",
+    "example_vi": "Cụ già này là người mê hát Kinh kịch nghiệp dư nổi tiếng."
+  },
+  {
+    "w": "戏班",
+    "p": "xìbān",
+    "m": "gánh hát",
+    "example": "这个戏班已经传承了三代人。",
+    "example_vi": "Gánh hát này đã truyền qua ba thế hệ."
+  },
+  {
+    "w": "唱腔",
+    "p": "chàngqiāng",
+    "m": "lối hát (trong hí kịch)",
+    "example": "她的唱腔婉转动人。",
+    "example_vi": "Lối hát của cô ấy uyển chuyển, cảm động."
+  },
+  {
+    "w": "文物修复",
+    "p": "wénwù xiūfù",
+    "m": "phục chế văn vật",
+    "example": "文物修复需要极高的耐心与技巧。",
+    "example_vi": "Việc phục chế văn vật đòi hỏi sự kiên nhẫn và kỹ thuật rất cao."
+  },
+  {
+    "w": "考古发掘",
+    "p": "kǎogǔ fājué",
+    "m": "khai quật khảo cổ",
+    "example": "这次考古发掘出土了大量青铜器。",
+    "example_vi": "Lần khai quật khảo cổ này đã phát hiện được số lượng lớn đồ đồng."
+  },
+  {
+    "w": "非遗传承人",
+    "p": "fēiyí chuánchéngrén",
+    "m": "người kế thừa di sản văn hóa phi vật thể",
+    "example": "这位老匠人是省级非遗传承人。",
+    "example_vi": "Vị nghệ nhân già này là người kế thừa di sản văn hóa phi vật thể cấp tỉnh."
+  },
+  {
+    "w": "手工技艺",
+    "p": "shǒugōng jìyì",
+    "m": "kỹ nghệ thủ công",
+    "example": "这项手工技艺已有上百年历史。",
+    "example_vi": "Kỹ nghệ thủ công này đã có lịch sử hàng trăm năm."
+  },
+  {
+    "w": "匠心独运",
+    "p": "jiàngxīn dúyùn",
+    "m": "tài nghệ khéo léo độc đáo",
+    "example": "这件作品体现了匠人匠心独运的巧思。",
+    "example_vi": "Tác phẩm này thể hiện sự khéo léo độc đáo của người thợ."
+  },
+  {
+    "w": "艺术流派",
+    "p": "yìshù liúpài",
+    "m": "trường phái nghệ thuật",
+    "example": "印象派是西方重要的艺术流派之一。",
+    "example_vi": "Trường phái Ấn tượng là một trong những trường phái nghệ thuật phương Tây quan trọng."
+  },
+  {
+    "w": "美学观念",
+    "p": "měixué guānniàn",
+    "m": "quan niệm thẩm mỹ",
+    "example": "东西方的美学观念存在明显差异。",
+    "example_vi": "Quan niệm thẩm mỹ giữa phương Đông và phương Tây có sự khác biệt rõ rệt."
+  },
+  {
+    "w": "意境深远",
+    "p": "yìjìng shēnyuǎn",
+    "m": "ý cảnh sâu xa",
+    "example": "这首诗意境深远，耐人寻味。",
+    "example_vi": "Bài thơ này có ý cảnh sâu xa, đáng để suy ngẫm."
+  },
+  {
+    "w": "文人墨客",
+    "p": "wénrén mòkè",
+    "m": "văn nhân mặc khách (giới học giả văn nhân xưa)",
+    "example": "这座亭子曾是文人墨客聚会赋诗之地。",
+    "example_vi": "Ngôi đình này từng là nơi các văn nhân mặc khách tụ họp làm thơ."
+  },
+  {
+    "w": "书画同源",
+    "p": "shūhuà tóngyuán",
+    "m": "thư pháp và hội họa cùng nguồn gốc",
+    "example": "中国古人讲究书画同源的美学理念。",
+    "example_vi": "Người xưa Trung Quốc coi trọng lý niệm thẩm mỹ thư họa đồng nguyên."
+  },
+  {
+    "w": "笔法",
+    "p": "bǐfǎ",
+    "m": "bút pháp",
+    "example": "这位书法家的笔法遒劲有力。",
+    "example_vi": "Bút pháp của vị thư pháp gia này mạnh mẽ, có lực."
+  },
+  {
+    "w": "墨韵",
+    "p": "mòyùn",
+    "m": "phong vị của mực (trong thư pháp/hội họa)",
+    "example": "这幅画的墨韵浓淡相宜。",
+    "example_vi": "Phong vị mực trong bức tranh này có độ đậm nhạt hài hòa."
+  },
+  {
+    "w": "古籍善本",
+    "p": "gǔjí shànběn",
+    "m": "sách cổ bản quý",
+    "example": "图书馆珍藏着一批古籍善本。",
+    "example_vi": "Thư viện lưu giữ cẩn thận một loạt sách cổ bản quý."
+  },
+  {
+    "w": "文化底色",
+    "p": "wénhuà dǐsè",
+    "m": "nền tảng văn hóa cơ bản",
+    "example": "这座城市有着深厚的文化底色。",
+    "example_vi": "Thành phố này có nền tảng văn hóa sâu sắc."
+  },
+  {
+    "w": "影视改编",
+    "p": "yǐngshì gǎibiān",
+    "m": "chuyển thể phim ảnh",
+    "example": "这部小说即将进行影视改编。",
+    "example_vi": "Cuốn tiểu thuyết này sắp được chuyển thể thành phim ảnh."
+  },
+  {
+    "w": "蒙太奇",
+    "p": "méngtàiqí",
+    "m": "kỹ thuật dựng phim montage",
+    "example": "导演运用蒙太奇手法展现时间的流逝。",
+    "example_vi": "Đạo diễn dùng kỹ thuật montage để thể hiện sự trôi qua của thời gian."
+  },
+  {
+    "w": "分镜头",
+    "p": "fēnjìngtóu",
+    "m": "phân cảnh quay (storyboard)",
+    "example": "摄影师根据分镜头脚本进行拍摄。",
+    "example_vi": "Nhiếp ảnh gia quay phim theo kịch bản phân cảnh."
+  },
+  {
+    "w": "配乐",
+    "p": "pèiyuè",
+    "m": "nhạc nền phim",
+    "example": "这部电影的配乐极大增强了氛围感。",
+    "example_vi": "Nhạc nền của bộ phim này đã tăng cường mạnh mẽ cảm giác không khí."
+  },
+  {
+    "w": "票房口碑",
+    "p": "piàofáng kǒubēi",
+    "m": "doanh thu phòng vé và tiếng tăm đánh giá",
+    "example": "这部电影票房口碑双丰收。",
+    "example_vi": "Bộ phim này thu về cả doanh thu phòng vé lẫn tiếng tăm tốt."
+  },
+  {
+    "w": "叙事节奏",
+    "p": "xùshì jiézòu",
+    "m": "nhịp điệu tự sự",
+    "example": "这部剧的叙事节奏把握得恰到好处。",
+    "example_vi": "Nhịp điệu tự sự của bộ phim này được nắm bắt rất vừa vặn."
+  },
+  {
+    "w": "戏剧张力",
+    "p": "xìjù zhānglì",
+    "m": "kịch tính (sức căng kịch tính)",
+    "example": "这场对手戏充满了戏剧张力。",
+    "example_vi": "Cảnh đối đầu này tràn đầy kịch tính."
+  },
+  {
+    "w": "人物弧光",
+    "p": "rénwù húguāng",
+    "m": "cung bậc chuyển biến tâm lý nhân vật",
+    "example": "主角的人物弧光贯穿了整部作品。",
+    "example_vi": "Sự chuyển biến tâm lý của nhân vật chính xuyên suốt cả tác phẩm."
+  },
+  {
+    "w": "艺术造诣",
+    "p": "yìshù zàoyì",
+    "m": "trình độ tinh thông nghệ thuật",
+    "example": "他在雕塑方面有很高的艺术造诣。",
+    "example_vi": "Ông có trình độ nghệ thuật rất cao trong lĩnh vực điêu khắc."
+  },
+  {
+    "w": "审美情趣",
+    "p": "shěnměi qíngqù",
+    "m": "thị hiếu thẩm mỹ",
+    "example": "每个人的审美情趣都不尽相同。",
+    "example_vi": "Thị hiếu thẩm mỹ của mỗi người đều không hoàn toàn giống nhau."
+  },
+  {
+    "w": "民族瑰宝",
+    "p": "mínzú guībǎo",
+    "m": "báu vật của dân tộc",
+    "example": "京剧被誉为中华民族瑰宝。",
+    "example_vi": "Kinh kịch được tôn vinh là báu vật của dân tộc Trung Hoa."
+  },
+  {
+    "w": "文化底蕴深厚",
+    "p": "wénhuà dǐyùn shēnhòu",
+    "m": "nền tảng văn hóa sâu sắc dày dặn",
+    "example": "这座古城文化底蕴深厚。",
+    "example_vi": "Cổ thành này có nền tảng văn hóa sâu sắc dày dặn."
+  },
+  {
+    "w": "典藏",
+    "p": "diǎncáng",
+    "m": "bộ sưu tập quý (điển tàng)",
+    "example": "博物馆的典藏涵盖多个朝代。",
+    "example_vi": "Bộ sưu tập của bảo tàng bao gồm nhiều triều đại."
+  },
+  {
+    "w": "大俗大雅",
+    "p": "dàsúdàyǎ",
+    "m": "vừa dân dã vừa tao nhã",
+    "example": "这幅漫画大俗大雅，雅俗共赏。",
+    "example_vi": "Bức tranh biếm họa này vừa dân dã vừa tao nhã, được nhiều tầng lớp yêu thích."
+  },
+  {
+    "w": "艺术感染力",
+    "p": "yìshù gǎnrǎnlì",
+    "m": "sức lan tỏa cảm xúc nghệ thuật",
+    "example": "这幅画的艺术感染力极强。",
+    "example_vi": "Sức lan tỏa cảm xúc nghệ thuật của bức tranh này rất mạnh."
+  },
+  {
+    "w": "文化认同感",
+    "p": "wénhuà rèntónggǎn",
+    "m": "cảm giác đồng nhất về văn hóa",
+    "example": "共同的语言增强了文化认同感。",
+    "example_vi": "Ngôn ngữ chung làm tăng cảm giác đồng nhất về văn hóa."
+  },
+  {
+    "w": "飞檐翘角",
+    "p": "fēiyánqiàojiǎo",
+    "m": "mái hiên cong vút (kiến trúc cổ điển Trung Hoa)",
+    "example": "寺庙的飞檐翘角在阳光下格外醒目。",
+    "example_vi": "Mái hiên cong vút của ngôi chùa nổi bật rõ rệt dưới ánh nắng."
+  },
+  {
+    "w": "庭院深深",
+    "p": "tíngyuàn shēnshēn",
+    "m": "sân vườn thâm sâu (kiểu kiến trúc truyền thống nhiều lớp)",
+    "example": "这座四合院庭院深深，别有情致。",
+    "example_vi": "Ngôi tứ hợp viện này có sân vườn thâm sâu, mang phong vị riêng."
+  },
+  {
+    "w": "古色古香",
+    "p": "gǔsègǔxiāng",
+    "m": "cổ kính, phảng phất hương xưa",
+    "example": "这条老街古色古香，游人如织。",
+    "example_vi": "Con phố cổ này cổ kính, du khách đông như mắc cửi."
+  },
+  {
+    "w": "末位淘汰",
+    "p": "mòwèi táotài",
+    "m": "loại bỏ người xếp cuối (chế độ sa thải)",
+    "example": "这家公司实行末位淘汰制度。",
+    "example_vi": "Công ty này áp dụng chế độ loại bỏ người xếp cuối."
+  },
+  {
+    "w": "职场倦怠",
+    "p": "zhíchǎng juàndài",
+    "m": "kiệt sức trong công việc",
+    "example": "长期高压工作容易导致职场倦怠。",
+    "example_vi": "Làm việc áp lực cao lâu dài dễ dẫn đến kiệt sức trong công việc."
+  },
+  {
+    "w": "摸鱼",
+    "p": "mōyú",
+    "m": "lười biếng trong giờ làm (tiếng lóng)",
+    "example": "他上班时经常摸鱼玩手机。",
+    "example_vi": "Anh ấy thường lười biếng chơi điện thoại trong giờ làm."
+  },
+  {
+    "w": "996工作制",
+    "p": "jiǔjiǔliù gōngzuòzhì",
+    "m": "chế độ làm việc 9-9-6 (9h sáng đến 9h tối, 6 ngày/tuần)",
+    "example": "一些互联网公司曾推行996工作制。",
+    "example_vi": "Một số công ty internet từng áp dụng chế độ làm việc 9-9-6."
+  },
+  {
+    "w": "职业倦怠感",
+    "p": "zhíyè juàndàigǎn",
+    "m": "cảm giác kiệt sức nghề nghiệp",
+    "example": "她开始出现明显的职业倦怠感。",
+    "example_vi": "Cô ấy bắt đầu có cảm giác kiệt sức nghề nghiệp rõ rệt."
+  },
+  {
+    "w": "团队凝聚力",
+    "p": "tuánduì níngjùlì",
+    "m": "sức đoàn kết của đội nhóm",
+    "example": "户外拓展活动增强了团队凝聚力。",
+    "example_vi": "Hoạt động dã ngoại đã tăng cường sức đoàn kết của đội nhóm."
+  },
+  {
+    "w": "跨部门协调",
+    "p": "kuàbùmén xiétiáo",
+    "m": "phối hợp liên phòng ban",
+    "example": "这个项目需要大量的跨部门协调。",
+    "example_vi": "Dự án này cần nhiều sự phối hợp liên phòng ban."
+  },
+  {
+    "w": "职务晋升",
+    "p": "zhíwù jìnshēng",
+    "m": "thăng chức",
+    "example": "他凭借出色表现获得职务晋升。",
+    "example_vi": "Anh ấy được thăng chức nhờ thành tích xuất sắc."
+  },
+  {
+    "w": "用人机制",
+    "p": "yòngrén jīzhì",
+    "m": "cơ chế dùng người",
+    "example": "公司正在改革用人机制。",
+    "example_vi": "Công ty đang cải cách cơ chế dùng người."
+  },
+  {
+    "w": "人才流失",
+    "p": "réncái liúshī",
+    "m": "chảy máu chất xám, mất nhân tài",
+    "example": "薪资过低导致公司人才流失严重。",
+    "example_vi": "Lương quá thấp khiến công ty bị chảy máu chất xám nghiêm trọng."
+  },
+  {
+    "w": "绩效奖金",
+    "p": "jìxiào jiǎngjīn",
+    "m": "tiền thưởng theo hiệu suất",
+    "example": "这个月的绩效奖金比平时高。",
+    "example_vi": "Tiền thưởng theo hiệu suất tháng này cao hơn thường lệ."
+  },
+  {
+    "w": "职场晋升通道",
+    "p": "zhíchǎng jìnshēng tōngdào",
+    "m": "con đường thăng tiến trong công sở",
+    "example": "公司为员工提供清晰的职场晋升通道。",
+    "example_vi": "Công ty cung cấp con đường thăng tiến rõ ràng cho nhân viên."
+  },
+  {
+    "w": "劳务派遣",
+    "p": "láowù pàiqiǎn",
+    "m": "phái cử lao động, nhân sự thuê ngoài",
+    "example": "这家工厂大量使用劳务派遣工人。",
+    "example_vi": "Nhà máy này sử dụng nhiều công nhân theo hình thức phái cử lao động."
+  },
+  {
+    "w": "用工荒",
+    "p": "yònggōnghuāng",
+    "m": "thiếu hụt lao động",
+    "example": "沿海工厂普遍面临用工荒问题。",
+    "example_vi": "Các nhà máy ven biển phổ biến đối mặt với vấn đề thiếu hụt lao động."
+  },
+  {
+    "w": "职业倦怠期",
+    "p": "zhíyè juàndàiqī",
+    "m": "giai đoạn kiệt sức nghề nghiệp",
+    "example": "很多人工作五年后会进入职业倦怠期。",
+    "example_vi": "Nhiều người sau năm năm làm việc sẽ bước vào giai đoạn kiệt sức nghề nghiệp."
+  },
+  {
+    "w": "劳动仲裁",
+    "p": "láodòng zhòngcái",
+    "m": "trọng tài lao động",
+    "example": "他向劳动仲裁委员会提起申诉。",
+    "example_vi": "Anh ấy đã khiếu nại lên ủy ban trọng tài lao động."
+  },
+  {
+    "w": "薪酬体系",
+    "p": "xīnchóu tǐxì",
+    "m": "hệ thống lương thưởng",
+    "example": "公司正在重新设计薪酬体系。",
+    "example_vi": "Công ty đang thiết kế lại hệ thống lương thưởng."
+  },
+  {
+    "w": "招聘门槛",
+    "p": "zhāopìn ménkǎn",
+    "m": "ngưỡng tuyển dụng",
+    "example": "这家公司的招聘门槛相当高。",
+    "example_vi": "Ngưỡng tuyển dụng của công ty này khá cao."
+  },
+  {
+    "w": "竞业协议",
+    "p": "jìngyè xiéyì",
+    "m": "thỏa thuận cạnh tranh (không làm việc cho đối thủ)",
+    "example": "他离职时签署了竞业协议。",
+    "example_vi": "Khi nghỉ việc anh ấy đã ký thỏa thuận không cạnh tranh."
+  },
+  {
+    "w": "劳动合同法",
+    "p": "láodòng hétongfǎ",
+    "m": "luật hợp đồng lao động",
+    "example": "公司必须依照劳动合同法与员工签约。",
+    "example_vi": "Công ty phải ký hợp đồng với nhân viên theo quy định của luật hợp đồng lao động."
+  },
+  {
+    "w": "办公室政治",
+    "p": "bàngōngshì zhèngzhì",
+    "m": "chính trị công sở (đấu đá nội bộ)",
+    "example": "她厌倦了复杂的办公室政治。",
+    "example_vi": "Cô ấy đã chán ngán với chính trị công sở phức tạp."
+  },
+  {
+    "w": "团队协作能力",
+    "p": "tuánduì xiézuò nénglì",
+    "m": "khả năng hợp tác nhóm",
+    "example": "面试官很看重应聘者的团队协作能力。",
+    "example_vi": "Nhà tuyển dụng rất coi trọng khả năng hợp tác nhóm của ứng viên."
+  },
+  {
+    "w": "立法机关",
+    "p": "lìfǎ jīguān",
+    "m": "cơ quan lập pháp",
+    "example": "这项法案已提交立法机关审议。",
+    "example_vi": "Dự luật này đã được trình lên cơ quan lập pháp xem xét."
+  },
+  {
+    "w": "司法机关",
+    "p": "sīfǎ jīguān",
+    "m": "cơ quan tư pháp",
+    "example": "司法机关依法独立行使审判权。",
+    "example_vi": "Cơ quan tư pháp thực thi quyền xét xử độc lập theo pháp luật."
+  },
+  {
+    "w": "行政部门",
+    "p": "xíngzhèng bùmén",
+    "m": "cơ quan hành chính",
+    "example": "这项政策由行政部门负责执行。",
+    "example_vi": "Chính sách này do cơ quan hành chính chịu trách nhiệm thực thi."
+  },
+  {
+    "w": "违规操作",
+    "p": "wéiguī cāozuò",
+    "m": "thao tác vi phạm quy định",
+    "example": "该员工因违规操作被公司开除。",
+    "example_vi": "Nhân viên này bị công ty sa thải vì thao tác vi phạm quy định."
+  },
+  {
+    "w": "知情权",
+    "p": "zhīqíngquán",
+    "m": "quyền được biết",
+    "example": "消费者享有对产品成分的知情权。",
+    "example_vi": "Người tiêu dùng có quyền được biết về thành phần sản phẩm."
+  },
+  {
+    "w": "举报制度",
+    "p": "jǔbào zhìdù",
+    "m": "chế độ tố cáo",
+    "example": "企业建立了内部举报制度。",
+    "example_vi": "Doanh nghiệp đã thiết lập chế độ tố cáo nội bộ."
+  },
+  {
+    "w": "公开听证",
+    "p": "gōngkāi tīngzhèng",
+    "m": "phiên điều trần công khai",
+    "example": "该项目将举行公开听证会。",
+    "example_vi": "Dự án này sẽ tổ chức phiên điều trần công khai."
+  },
+  {
+    "w": "公权力",
+    "p": "gōngquánlì",
+    "m": "quyền lực công",
+    "example": "公权力必须受到有效监督。",
+    "example_vi": "Quyền lực công phải chịu sự giám sát hiệu quả."
+  },
+  {
+    "w": "政策落地",
+    "p": "zhèngcè luòdì",
+    "m": "chính sách được triển khai thực tế",
+    "example": "这项优惠措施距离政策落地还需时间。",
+    "example_vi": "Biện pháp ưu đãi này còn cần thời gian mới có thể triển khai thực tế."
+  },
+  {
+    "w": "审议表决",
+    "p": "shěnyì biǎojué",
+    "m": "xem xét biểu quyết",
+    "example": "该法案将提交人大审议表决。",
+    "example_vi": "Dự luật này sẽ được trình lên Đại hội đại biểu để xem xét biểu quyết."
+  },
+  {
+    "w": "庭外和解",
+    "p": "tíngwài héjiě",
+    "m": "hòa giải ngoài tòa",
+    "example": "双方最终达成庭外和解。",
+    "example_vi": "Hai bên cuối cùng đã đạt được hòa giải ngoài tòa."
+  },
+  {
+    "w": "公职人员",
+    "p": "gōngzhí rényuán",
+    "m": "nhân viên công quyền",
+    "example": "公职人员必须遵守廉洁自律的规定。",
+    "example_vi": "Nhân viên công quyền phải tuân thủ quy định liêm khiết tự luật."
+  },
+  {
+    "w": "合法权益",
+    "p": "héfǎ quányì",
+    "m": "quyền và lợi ích hợp pháp",
+    "example": "消费者的合法权益受法律保护。",
+    "example_vi": "Quyền và lợi ích hợp pháp của người tiêu dùng được pháp luật bảo vệ."
+  },
+  {
+    "w": "民事纠纷",
+    "p": "mínshì jiūfēn",
+    "m": "tranh chấp dân sự",
+    "example": "这是一起邻里之间的民事纠纷。",
+    "example_vi": "Đây là một vụ tranh chấp dân sự giữa hàng xóm."
+  },
+  {
+    "w": "依法办事",
+    "p": "yīfǎ bànshì",
+    "m": "làm việc theo pháp luật",
+    "example": "公务员应当依法办事，秉公无私。",
+    "example_vi": "Công chức nên làm việc theo pháp luật, công bằng vô tư."
+  },
+  {
+    "w": "越权行为",
+    "p": "yuèquán xíngwéi",
+    "m": "hành vi vượt quyền",
+    "example": "上级部门查处了这起越权行为。",
+    "example_vi": "Cơ quan cấp trên đã xử lý vụ hành vi vượt quyền này."
+  },
+  {
+    "w": "政务公开",
+    "p": "zhèngwù gōngkāi",
+    "m": "công khai công vụ",
+    "example": "该市推行政务公开，接受群众监督。",
+    "example_vi": "Thành phố này thực hiện công khai công vụ, tiếp nhận sự giám sát của người dân."
+  },
+  {
+    "w": "权责一致",
+    "p": "quánzé yīzhì",
+    "m": "quyền và trách nhiệm thống nhất",
+    "example": "改革强调权责一致的原则。",
+    "example_vi": "Cải cách nhấn mạnh nguyên tắc quyền và trách nhiệm thống nhất."
+  },
+  {
+    "w": "制度漏洞",
+    "p": "zhìdù lòudòng",
+    "m": "lỗ hổng thể chế",
+    "example": "审计发现了财务管理的制度漏洞。",
+    "example_vi": "Kiểm toán đã phát hiện lỗ hổng thể chế trong quản lý tài chính."
+  },
+  {
+    "w": "公民监督",
+    "p": "gōngmín jiāndū",
+    "m": "giám sát của công dân",
+    "example": "公民监督有助于遏制权力滥用。",
+    "example_vi": "Sự giám sát của công dân giúp ngăn chặn lạm dụng quyền lực."
+  },
+  {
+    "w": "依规行事",
+    "p": "yīguī xíngshì",
+    "m": "hành xử theo quy định",
+    "example": "每位员工都应依规行事。",
+    "example_vi": "Mỗi nhân viên đều nên hành xử theo quy định."
+  },
+  {
+    "w": "心理防线",
+    "p": "xīnlǐ fángxiàn",
+    "m": "phòng tuyến tâm lý",
+    "example": "这次打击几乎击溃了他的心理防线。",
+    "example_vi": "Đòn giáng lần này gần như đánh sập phòng tuyến tâm lý của anh ấy."
+  },
+  {
+    "w": "自我认同",
+    "p": "zìwǒ rèntóng",
+    "m": "nhận diện bản thân",
+    "example": "青春期是自我认同形成的重要阶段。",
+    "example_vi": "Tuổi dậy thì là giai đoạn quan trọng hình thành nhận diện bản thân."
+  },
+  {
+    "w": "焦虑症状",
+    "p": "jiāolǜ zhèngzhuàng",
+    "m": "triệu chứng lo âu",
+    "example": "她最近出现了明显的焦虑症状。",
+    "example_vi": "Gần đây cô ấy có triệu chứng lo âu rõ rệt."
+  },
+  {
+    "w": "心理疏导",
+    "p": "xīnlǐ shūdǎo",
+    "m": "giải tỏa tâm lý",
+    "example": "学校为学生提供心理疏导服务。",
+    "example_vi": "Nhà trường cung cấp dịch vụ giải tỏa tâm lý cho học sinh."
+  },
+  {
+    "w": "倾诉对象",
+    "p": "qīngsù duìxiàng",
+    "m": "đối tượng để tâm sự",
+    "example": "她把闺蜜当作最信任的倾诉对象。",
+    "example_vi": "Cô ấy coi bạn thân là đối tượng tâm sự đáng tin cậy nhất."
+  },
+  {
+    "w": "自我价值感",
+    "p": "zìwǒ jiàzhígǎn",
+    "m": "cảm giác giá trị bản thân",
+    "example": "工作成就能增强人的自我价值感。",
+    "example_vi": "Thành tựu công việc có thể tăng cường cảm giác giá trị bản thân."
+  },
+  {
+    "w": "心理负担",
+    "p": "xīnlǐ fùdān",
+    "m": "gánh nặng tâm lý",
+    "example": "过高的期望给孩子带来心理负担。",
+    "example_vi": "Kỳ vọng quá cao mang đến gánh nặng tâm lý cho trẻ."
+  },
+  {
+    "w": "情绪宣泄",
+    "p": "qíngxù xuānxiè",
+    "m": "giải tỏa cảm xúc",
+    "example": "运动是一种有效的情绪宣泄方式。",
+    "example_vi": "Vận động là một cách giải tỏa cảm xúc hiệu quả."
+  },
+  {
+    "w": "共情能力",
+    "p": "gòngqíng nénglì",
+    "m": "khả năng đồng cảm",
+    "example": "心理咨询师需要很强的共情能力。",
+    "example_vi": "Chuyên viên tư vấn tâm lý cần có khả năng đồng cảm rất mạnh."
+  },
+  {
+    "w": "倦怠感",
+    "p": "juàndàigǎn",
+    "m": "cảm giác kiệt sức, chán nản",
+    "example": "连续加班让他产生了强烈的倦怠感。",
+    "example_vi": "Việc tăng ca liên tục khiến anh ấy có cảm giác kiệt sức mạnh mẽ."
+  },
+  {
+    "w": "心理落差",
+    "p": "xīnlǐ luòchā",
+    "m": "khoảng cách tâm lý (kỳ vọng và thực tế)",
+    "example": "理想与现实的心理落差让他倍感失落。",
+    "example_vi": "Khoảng cách tâm lý giữa lý tưởng và thực tế khiến anh cảm thấy hụt hẫng."
+  },
+  {
+    "w": "情感依赖",
+    "p": "qínggǎn yīlài",
+    "m": "lệ thuộc cảm xúc",
+    "example": "过度的情感依赖不利于个人成长。",
+    "example_vi": "Sự lệ thuộc cảm xúc quá mức không có lợi cho sự trưởng thành của cá nhân."
+  },
+  {
+    "w": "自我调适",
+    "p": "zìwǒ tiáoshì",
+    "m": "tự điều chỉnh bản thân",
+    "example": "学会自我调适有助于应对压力。",
+    "example_vi": "Học cách tự điều chỉnh bản thân giúp ứng phó với áp lực."
+  },
+  {
+    "w": "心理边界",
+    "p": "xīnlǐ biānjiè",
+    "m": "ranh giới tâm lý",
+    "example": "健康的关系需要清晰的心理边界。",
+    "example_vi": "Mối quan hệ lành mạnh cần có ranh giới tâm lý rõ ràng."
+  },
+  {
+    "w": "人格分裂",
+    "p": "réngé fēnliè",
+    "m": "phân liệt nhân cách",
+    "example": "这部电影讲述了一个人格分裂患者的故事。",
+    "example_vi": "Bộ phim này kể về câu chuyện của một bệnh nhân phân liệt nhân cách."
+  },
+  {
+    "w": "慢性疲劳",
+    "p": "mànxìng píláo",
+    "m": "mệt mỏi mãn tính",
+    "example": "长期熬夜容易引发慢性疲劳。",
+    "example_vi": "Thức khuya lâu dài dễ gây ra mệt mỏi mãn tính."
+  },
+  {
+    "w": "免疫力下降",
+    "p": "miǎnyìlì xiàjiàng",
+    "m": "suy giảm miễn dịch",
+    "example": "睡眠不足会导致免疫力下降。",
+    "example_vi": "Thiếu ngủ sẽ dẫn đến suy giảm miễn dịch."
+  },
+  {
+    "w": "慢性病管理",
+    "p": "mànxìngbìng guǎnlǐ",
+    "m": "quản lý bệnh mãn tính",
+    "example": "社区医院提供慢性病管理服务。",
+    "example_vi": "Bệnh viện cộng đồng cung cấp dịch vụ quản lý bệnh mãn tính."
+  },
+  {
+    "w": "作息紊乱",
+    "p": "zuòxī wěnluàn",
+    "m": "rối loạn sinh hoạt (giờ giấc)",
+    "example": "熬夜刷手机导致他作息紊乱。",
+    "example_vi": "Việc thức khuya lướt điện thoại khiến giờ giấc sinh hoạt của anh ấy bị rối loạn."
+  },
+  {
+    "w": "病理诊断",
+    "p": "bìnglǐ zhěnduàn",
+    "m": "chẩn đoán bệnh lý",
+    "example": "病理诊断结果需要等待几天。",
+    "example_vi": "Kết quả chẩn đoán bệnh lý cần chờ vài ngày."
+  },
+  {
+    "w": "心理治疗师",
+    "p": "xīnlǐ zhìliáoshī",
+    "m": "nhà trị liệu tâm lý",
+    "example": "她定期找心理治疗师进行咨询。",
+    "example_vi": "Cô ấy thường xuyên tìm nhà trị liệu tâm lý để tư vấn."
+  },
+  {
+    "w": "污水处理",
+    "p": "wūshuǐ chǔlǐ",
+    "m": "xử lý nước thải",
+    "example": "这座工厂新建了污水处理设施。",
+    "example_vi": "Nhà máy này mới xây dựng cơ sở xử lý nước thải."
+  },
+  {
+    "w": "垃圾焚烧",
+    "p": "lājī fénshāo",
+    "m": "đốt rác thải",
+    "example": "垃圾焚烧发电是一种资源利用方式。",
+    "example_vi": "Đốt rác thải để phát điện là một hình thức tận dụng tài nguyên."
+  },
+  {
+    "w": "空气净化",
+    "p": "kōngqì jìnghuà",
+    "m": "lọc sạch không khí",
+    "example": "这台设备可以有效进行空气净化。",
+    "example_vi": "Thiết bị này có thể lọc sạch không khí hiệu quả."
+  },
+  {
+    "w": "生态屏障",
+    "p": "shēngtài píngzhàng",
+    "m": "hàng rào sinh thái",
+    "example": "森林是重要的生态屏障。",
+    "example_vi": "Rừng là hàng rào sinh thái quan trọng."
+  },
+  {
+    "w": "水土保持",
+    "p": "shuǐtǔ bǎochí",
+    "m": "bảo vệ đất và nước",
+    "example": "植树造林有助于水土保持。",
+    "example_vi": "Trồng cây gây rừng giúp bảo vệ đất và nước."
+  },
+  {
+    "w": "环境承载力",
+    "p": "huánjìng chéngzàilì",
+    "m": "sức chịu tải của môi trường",
+    "example": "过度开发超出了当地环境承载力。",
+    "example_vi": "Việc khai thác quá mức đã vượt quá sức chịu tải môi trường của địa phương."
+  },
+  {
+    "w": "环境监测",
+    "p": "huánjìng jiāncè",
+    "m": "quan trắc môi trường",
+    "example": "该城市加强了空气质量的环境监测。",
+    "example_vi": "Thành phố này tăng cường quan trắc môi trường về chất lượng không khí."
+  },
+  {
+    "w": "绿化覆盖率",
+    "p": "lǜhuà fùgàilǜ",
+    "m": "tỷ lệ phủ xanh",
+    "example": "这座城市的绿化覆盖率逐年提高。",
+    "example_vi": "Tỷ lệ phủ xanh của thành phố này tăng dần qua từng năm."
+  },
+  {
+    "w": "生物降解",
+    "p": "shēngwù jiàngjiě",
+    "m": "phân hủy sinh học",
+    "example": "这种包装材料可以生物降解。",
+    "example_vi": "Loại vật liệu bao bì này có thể phân hủy sinh học."
+  },
+  {
+    "w": "水资源短缺",
+    "p": "shuǐzīyuán duǎnquē",
+    "m": "thiếu hụt tài nguyên nước",
+    "example": "北方部分地区存在水资源短缺问题。",
+    "example_vi": "Một số vùng phía Bắc tồn tại vấn đề thiếu hụt tài nguyên nước."
+  },
+  {
+    "w": "资源枯竭",
+    "p": "zīyuán kūjié",
+    "m": "cạn kiệt tài nguyên",
+    "example": "过度开采导致该矿区资源枯竭。",
+    "example_vi": "Khai thác quá mức khiến khu mỏ này cạn kiệt tài nguyên."
+  },
+  {
+    "w": "心浮气躁",
+    "p": "xīnfúqìzào",
+    "m": "nôn nóng bất an",
+    "example": "考试临近，他变得心浮气躁。",
+    "example_vi": "Kỳ thi gần kề, anh ấy trở nên nôn nóng bất an."
+  },
+  {
+    "w": "心灰意冷",
+    "p": "xīnhuīyìlěng",
+    "m": "chán nản thất vọng",
+    "example": "接连失败让他一度心灰意冷。",
+    "example_vi": "Thất bại liên tiếp từng khiến anh ấy chán nản thất vọng."
+  },
+  {
+    "w": "如释重负",
+    "p": "rúshìzhòngfù",
+    "m": "như trút được gánh nặng",
+    "example": "考试结束后她如释重负。",
+    "example_vi": "Sau khi thi xong cô ấy cảm thấy như trút được gánh nặng."
+  },
+  {
+    "w": "忐忑不安",
+    "p": "tǎntèbù'ān",
+    "m": "thấp thỏm bất an",
+    "example": "等待结果的过程让人忐忑不安。",
+    "example_vi": "Quá trình chờ đợi kết quả khiến người ta thấp thỏm bất an."
+  },
+  {
+    "w": "心力交瘁",
+    "p": "xīnlìjiāocuì",
+    "m": "kiệt quệ cả thể xác lẫn tinh thần",
+    "example": "照顾病人多日让她心力交瘁。",
+    "example_vi": "Chăm sóc người bệnh nhiều ngày khiến cô ấy kiệt quệ cả thể xác lẫn tinh thần."
+  },
+  {
+    "w": "喜怒无常",
+    "p": "xǐnùwúcháng",
+    "m": "vui buồn thất thường",
+    "example": "他最近情绪喜怒无常，令人担心。",
+    "example_vi": "Gần đây cảm xúc của anh ấy vui buồn thất thường, khiến người khác lo lắng."
+  },
+  {
+    "w": "郁郁寡欢",
+    "p": "yùyùguǎhuān",
+    "m": "buồn bã u sầu",
+    "example": "失业后他一直郁郁寡欢。",
+    "example_vi": "Sau khi mất việc anh ấy luôn buồn bã u sầu."
+  },
+  {
+    "w": "锦囊妙计",
+    "p": "jǐnnángmiàojì",
+    "m": "kế sách hay trong túi gấm (giải pháp bí mật hữu hiệu)",
+    "example": "军师献上锦囊妙计，助其脱险。",
+    "example_vi": "Quân sư dâng lên kế sách hay trong túi gấm, giúp thoát hiểm."
+  },
+  {
+    "w": "胸有丘壑",
+    "p": "xiōngyǒuqiūhè",
+    "m": "trong lòng có sẵn núi khe (có kế hoạch sâu sắc)",
+    "example": "他做事从容，显然胸有丘壑。",
+    "example_vi": "Anh ấy làm việc điềm tĩnh, rõ ràng đã có kế hoạch sâu sắc trong lòng."
+  },
+  {
+    "w": "运筹决胜",
+    "p": "yùnchóujuéshèng",
+    "m": "trù tính để giành thắng lợi",
+    "example": "将军运筹决胜，最终赢得战役。",
+    "example_vi": "Vị tướng trù tính để giành thắng lợi, cuối cùng thắng trận."
+  },
+  {
+    "w": "洞察秋毫",
+    "p": "dòngcháqiūháo",
+    "m": "nhìn thấu mọi chi tiết nhỏ nhặt",
+    "example": "这位侦探洞察秋毫，很快找到线索。",
+    "example_vi": "Vị thám tử này nhìn thấu mọi chi tiết nhỏ nhặt, nhanh chóng tìm ra manh mối."
+  },
+  {
+    "w": "深藏不露",
+    "p": "shēncángbùlù",
+    "m": "giấu kín tài năng không bộc lộ",
+    "example": "他深藏不露，直到比赛才展现实力。",
+    "example_vi": "Anh ấy giấu kín tài năng, đến khi thi đấu mới thể hiện thực lực."
+  },
+  {
+    "w": "大智若愚",
+    "p": "dàzhìruòyú",
+    "m": "người thông minh lớn thường tỏ ra ngờ nghệch",
+    "example": "老者大智若愚，从不与人争辩。",
+    "example_vi": "Cụ già thông minh mà tỏ ra ngờ nghệch, chưa bao giờ tranh cãi với ai."
+  },
+  {
+    "w": "大巧若拙",
+    "p": "dàqiǎoruòzhuō",
+    "m": "khéo léo tột bậc trông như vụng về",
+    "example": "这件工艺品大巧若拙，别具韵味。",
+    "example_vi": "Sản phẩm thủ công này khéo léo tột bậc trông như vụng về, mang phong vị riêng."
+  },
+  {
+    "w": "匠心巧运",
+    "p": "jiàngxīnqiǎoyùn",
+    "m": "tài nghệ khéo léo tinh xảo",
+    "example": "这座园林设计匠心巧运，令人叹赏。",
+    "example_vi": "Thiết kế khu vườn này tài nghệ khéo léo tinh xảo, khiến người ta trầm trồ."
+  },
+  {
+    "w": "力挽狂澜",
+    "p": "lìwǎnkuánglán",
+    "m": "ra sức cứu vãn tình thế nguy cấp",
+    "example": "新任经理力挽狂澜，扭转了颓势。",
+    "example_vi": "Vị giám đốc mới ra sức cứu vãn tình thế nguy cấp, đảo ngược đà suy thoái."
+  },
+  {
+    "w": "背城借一",
+    "p": "bèichéngjièyī",
+    "m": "quyết chiến một trận cuối cùng",
+    "example": "面对绝境，他决定背城借一。",
+    "example_vi": "Đối mặt với tình thế tuyệt vọng, anh ấy quyết định dốc sức đánh trận cuối cùng."
+  },
+  {
+    "w": "孤注一掷",
+    "p": "gūzhùyīzhì",
+    "m": "đánh cược tất cả vào một lần",
+    "example": "公司为求生存，孤注一掷投入研发。",
+    "example_vi": "Để tồn tại, công ty đã đánh cược tất cả vào nghiên cứu phát triển."
+  },
+  {
+    "w": "壮士断腕",
+    "p": "zhuàngshìduànwàn",
+    "m": "tráng sĩ chặt cổ tay (hy sinh một phần để cứu toàn cục)",
+    "example": "公司壮士断腕，砍掉了亏损业务。",
+    "example_vi": "Công ty quyết liệt cắt bỏ mảng kinh doanh thua lỗ để cứu toàn cục."
+  },
+  {
+    "w": "另起炉灶",
+    "p": "lìngqǐlúzào",
+    "m": "làm lại từ đầu, khởi sự mới",
+    "example": "合作失败后，他决定另起炉灶。",
+    "example_vi": "Sau khi hợp tác thất bại, anh ấy quyết định làm lại từ đầu."
+  },
+  {
+    "w": "改弦更张",
+    "p": "gǎixiángēngzhāng",
+    "m": "thay đổi phương pháp, cải cách",
+    "example": "面对困局，公司决定改弦更张。",
+    "example_vi": "Đối mặt với thế bế tắc, công ty quyết định thay đổi phương pháp."
+  },
+  {
+    "w": "陈规陋习",
+    "p": "chénguīlòuxí",
+    "m": "quy tắc cũ hủ tục lạc hậu",
+    "example": "这项改革意在打破陈规陋习。",
+    "example_vi": "Cuộc cải cách này nhằm phá bỏ những quy tắc cũ hủ tục lạc hậu."
+  },
+  {
+    "w": "因陋就简",
+    "p": "yīnlòujiùjiǎn",
+    "m": "tận dụng điều kiện đơn sơ có sẵn",
+    "example": "创业初期他们因陋就简，节省开支。",
+    "example_vi": "Giai đoạn đầu khởi nghiệp họ tận dụng điều kiện đơn sơ có sẵn để tiết kiệm chi phí."
+  },
+  {
+    "w": "斤斤计较",
+    "p": "jīnjīnjìjiào",
+    "m": "so đo tính toán từng chút",
+    "example": "他为人斤斤计较，朋友不多。",
+    "example_vi": "Anh ấy đối nhân xử thế so đo tính toán từng chút, bạn bè không nhiều."
+  },
+  {
+    "w": "锱铢必较",
+    "p": "zīzhūbìjiào",
+    "m": "tính toán từng đồng xu nhỏ",
+    "example": "生意场上他向来锱铢必较。",
+    "example_vi": "Trên thương trường anh ấy luôn tính toán từng đồng xu nhỏ."
+  },
+  {
+    "w": "挥金如土",
+    "p": "huījīnrútǔ",
+    "m": "tiêu tiền như bùn đất (hoang phí)",
+    "example": "他中奖后挥金如土，很快花光积蓄。",
+    "example_vi": "Sau khi trúng thưởng anh ấy tiêu tiền như bùn đất, chẳng mấy chốc hết sạch tiền tiết kiệm."
+  },
+  {
+    "w": "文思泉涌",
+    "p": "wénsīquányǒng",
+    "m": "ý văn tuôn trào như suối",
+    "example": "灵感来临时她文思泉涌。",
+    "example_vi": "Khi cảm hứng đến cô ấy viết văn tuôn trào như suối."
+  },
+  {
+    "w": "下笔千言",
+    "p": "xiàbǐqiānyán",
+    "m": "đặt bút viết ngàn lời (viết rất nhanh)",
+    "example": "他文采出众，常常下笔千言。",
+    "example_vi": "Anh ấy tài văn xuất chúng, thường đặt bút là viết ngàn lời."
+  },
+  {
+    "w": "一挥而就",
+    "p": "yīhuīérjiù",
+    "m": "viết hoặc vẽ xong ngay lập tức",
+    "example": "这幅字他一挥而就，毫不迟疑。",
+    "example_vi": "Bức thư pháp này anh ấy viết xong ngay lập tức, không chút do dự."
+  },
+  {
+    "w": "信手拈来",
+    "p": "xìnshǒuniānlái",
+    "m": "lấy ra dễ dàng, ứng dụng thành thạo",
+    "example": "经典诗句他信手拈来，运用自如。",
+    "example_vi": "Những câu thơ kinh điển anh ấy lấy ra dễ dàng, vận dụng thành thạo."
+  },
+  {
+    "w": "游刃有余",
+    "p": "yóurènyǒuyú",
+    "m": "làm việc dễ dàng nhờ thành thạo",
+    "example": "处理这类问题他游刃有余。",
+    "example_vi": "Xử lý loại vấn đề này anh ấy làm rất dễ dàng nhờ thành thạo."
+  },
+  {
+    "w": "驾轻就熟",
+    "p": "jiàqīngjiùshú",
+    "m": "quen tay hay việc, làm việc thành thục",
+    "example": "这项工作对她来说驾轻就熟。",
+    "example_vi": "Công việc này đối với cô ấy đã trở nên rất thành thục."
+  },
+  {
+    "w": "轻车熟路",
+    "p": "qīngchēshúlù",
+    "m": "đường quen xe nhẹ (việc đã quen thuộc)",
+    "example": "这类项目对团队来说轻车熟路。",
+    "example_vi": "Loại dự án này đối với nhóm đã trở nên quen thuộc, dễ dàng."
+  },
+  {
+    "w": "稳操胜券",
+    "p": "wěncāoshèngquàn",
+    "m": "nắm chắc phần thắng",
+    "example": "凭借充分准备，他们稳操胜券。",
+    "example_vi": "Nhờ chuẩn bị đầy đủ, họ nắm chắc phần thắng."
+  },
+  {
+    "w": "望风披靡",
+    "p": "wàngfēngpīmǐ",
+    "m": "chưa đánh đã tan (thấy khí thế đối phương mà khiếp sợ)",
+    "example": "敌军望风披靡，纷纷溃逃。",
+    "example_vi": "Quân địch chưa đánh đã khiếp sợ, lũ lượt bỏ chạy."
+  },
+  {
+    "w": "节节败退",
+    "p": "jiéjiébàituì",
+    "m": "thất bại liên tiếp, lùi bước từng bước",
+    "example": "竞争对手节节败退，市场份额骤减。",
+    "example_vi": "Đối thủ cạnh tranh thất bại liên tiếp, thị phần giảm mạnh."
+  },
+  {
+    "w": "一败涂地",
+    "p": "yībàitúdì",
+    "m": "thất bại thảm hại hoàn toàn",
+    "example": "这场投资让他一败涂地。",
+    "example_vi": "Vụ đầu tư này khiến anh ta thất bại thảm hại hoàn toàn."
+  },
+  {
+    "w": "溃不成军",
+    "p": "kuìbùchéngjūn",
+    "m": "tan rã hoàn toàn không còn đội hình",
+    "example": "对方防线溃不成军。",
+    "example_vi": "Hàng phòng ngự đối phương tan rã hoàn toàn."
+  },
+  {
+    "w": "兵败如山倒",
+    "p": "bīngbàirúshāndǎo",
+    "m": "quân thua như núi lở (thua tan tác)",
+    "example": "公司业绩兵败如山倒，令人措手不及。",
+    "example_vi": "Doanh thu công ty sụp đổ như núi lở, khiến người ta trở tay không kịp."
+  },
+  {
+    "w": "逆境求生",
+    "p": "nìjìngqiúshēng",
+    "m": "tìm cách sống sót trong nghịch cảnh",
+    "example": "这家企业在逆境求生中不断创新。",
+    "example_vi": "Doanh nghiệp này không ngừng đổi mới để tìm cách sống sót trong nghịch cảnh."
+  },
+  {
+    "w": "绝地反击",
+    "p": "juédìfǎnjī",
+    "m": "phản công trong tình thế tuyệt vọng",
+    "example": "团队在最后关头绝地反击，赢得比赛。",
+    "example_vi": "Đội đã phản công trong tình thế tuyệt vọng vào phút chót, giành chiến thắng."
+  },
+  {
+    "w": "处心积虑",
+    "p": "chǔxīnjīlǜ",
+    "m": "cố ý mưu tính từ lâu (thường hàm ý xấu)",
+    "example": "他处心积虑地策划了这场骗局。",
+    "example_vi": "Hắn đã cố ý mưu tính từ lâu để dàn dựng vụ lừa đảo này."
+  },
+  {
+    "w": "临机应变",
+    "p": "línjīyìngbiàn",
+    "m": "ứng biến tùy tình huống",
+    "example": "谈判需要临机应变的能力。",
+    "example_vi": "Đàm phán cần khả năng ứng biến tùy tình huống."
+  },
+  {
+    "w": "临阵磨枪",
+    "p": "línzhènmóqiāng",
+    "m": "nước đến chân mới nhảy",
+    "example": "考前临阵磨枪，效果有限。",
+    "example_vi": "Nước đến chân mới nhảy trước kỳ thi thì hiệu quả có hạn."
+  },
+  {
+    "w": "未成曲调先有情",
+    "p": "wèichéng qǔdiào xiān yǒu qíng",
+    "m": "chưa thành khúc điệu đã có tình ý (bộc lộ cảm xúc từ sớm)",
+    "example": "这段旋律未成曲调先有情，令人期待后续。",
+    "example_vi": "Đoạn giai điệu này chưa thành khúc điệu đã có tình ý, khiến người ta mong chờ phần tiếp theo."
+  },
+  {
+    "w": "言犹在耳",
+    "p": "yányóuzàiěr",
+    "m": "lời nói như vẫn còn văng vẳng bên tai",
+    "example": "父亲的教诲言犹在耳。",
+    "example_vi": "Lời răn dạy của cha vẫn như còn văng vẳng bên tai."
+  },
+  {
+    "w": "记忆犹新",
+    "p": "jìyìyóuxīn",
+    "m": "ký ức vẫn còn mới mẻ",
+    "example": "那次经历至今记忆犹新。",
+    "example_vi": "Trải nghiệm đó đến nay vẫn còn mới mẻ trong ký ức."
+  },
+  {
+    "w": "历历在目",
+    "p": "lìlìzàimù",
+    "m": "hiện rõ trước mắt như vừa xảy ra",
+    "example": "童年的场景历历在目。",
+    "example_vi": "Những cảnh tượng thời thơ ấu hiện rõ trước mắt."
+  },
+  {
+    "w": "念念不忘",
+    "p": "niànniànbùwàng",
+    "m": "nhớ mãi không quên",
+    "example": "她对家乡的味道念念不忘。",
+    "example_vi": "Cô ấy nhớ mãi không quên hương vị quê nhà."
+  },
+  {
+    "w": "魂牵梦绕",
+    "p": "húnqiānmèngrào",
+    "m": "khắc khoải trong tâm trí ngay cả trong mơ",
+    "example": "故乡的山水令他魂牵梦绕。",
+    "example_vi": "Núi sông quê nhà khiến anh khắc khoải cả trong giấc mơ."
+  },
+  {
+    "w": "没齿难忘",
+    "p": "méichǐnánwàng",
+    "m": "suốt đời không quên",
+    "example": "这份恩情她没齿难忘。",
+    "example_vi": "Ơn nghĩa này cô ấy suốt đời không quên."
+  },
+  {
+    "w": "耿耿于怀",
+    "p": "gěnggěngyúhuái",
+    "m": "canh cánh trong lòng, không nguôi ngoai",
+    "example": "那次失误他至今耿耿于怀。",
+    "example_vi": "Sai lầm lần đó đến nay anh vẫn canh cánh trong lòng."
+  },
+  {
+    "w": "如鲠在喉",
+    "p": "rúgěngzàihóu",
+    "m": "như hóc xương ở cổ (khó chịu không nói ra được)",
+    "example": "这件事让他如鲠在喉，不吐不快。",
+    "example_vi": "Việc này khiến anh khó chịu như hóc xương ở cổ, phải nói ra mới thoải mái."
+  },
+  {
+    "w": "如芒在背",
+    "p": "rúmángzàibèi",
+    "m": "như gai đâm sau lưng (bất an, khó chịu)",
+    "example": "被上司盯着，他如芒在背。",
+    "example_vi": "Bị cấp trên theo dõi, anh cảm thấy như gai đâm sau lưng."
+  },
+  {
+    "w": "忧心忡忡",
+    "p": "yōuxīnchōngchōng",
+    "m": "lo lắng bồn chồn",
+    "example": "面对考试成绩，她忧心忡忡。",
+    "example_vi": "Đối diện với kết quả thi, cô ấy lo lắng bồn chồn."
+  },
+  {
+    "w": "寝食难安",
+    "p": "qǐnshínán'ān",
+    "m": "ăn ngủ không yên",
+    "example": "孩子生病让她寝食难安。",
+    "example_vi": "Con ốm khiến cô ấy ăn ngủ không yên."
+  },
+  {
+    "w": "惶恐不安",
+    "p": "huángkǒngbù'ān",
+    "m": "sợ hãi bất an",
+    "example": "面对突发状况，他惶恐不安。",
+    "example_vi": "Đối mặt với tình huống bất ngờ, anh sợ hãi bất an."
+  },
+  {
+    "w": "心急如焚",
+    "p": "xīnjírúfén",
+    "m": "lòng nóng như lửa đốt",
+    "example": "儿子迟迟未归，母亲心急如焚。",
+    "example_vi": "Con trai mãi chưa về, người mẹ lòng nóng như lửa đốt."
+  },
+  {
+    "w": "如坐针毡",
+    "p": "rúzuòzhēnzhān",
+    "m": "ngồi như trên đệm kim (bồn chồn không yên)",
+    "example": "等待结果时他如坐针毡。",
+    "example_vi": "Khi chờ đợi kết quả anh ngồi không yên như trên đệm kim."
+  },
+  {
+    "w": "提心吊胆",
+    "p": "tíxīndiàodǎn",
+    "m": "nơm nớp lo sợ",
+    "example": "走夜路时她提心吊胆。",
+    "example_vi": "Khi đi đường vào ban đêm cô ấy nơm nớp lo sợ."
+  },
+  {
+    "w": "六神无主",
+    "p": "liùshénwúzhǔ",
+    "m": "mất hết bình tĩnh, hoảng loạn không biết làm gì",
+    "example": "突如其来的变故让他六神无主。",
+    "example_vi": "Biến cố ập đến bất ngờ khiến anh hoảng loạn không biết làm gì."
+  },
+  {
+    "w": "惊魂未定",
+    "p": "jīnghúnwèidìng",
+    "m": "kinh hoàng chưa hết",
+    "example": "车祸后她惊魂未定。",
+    "example_vi": "Sau tai nạn xe cô ấy vẫn còn kinh hoàng chưa hết."
+  },
+  {
+    "w": "心有余悸",
+    "p": "xīnyǒuyújì",
+    "m": "vẫn còn dư âm sợ hãi",
+    "example": "回忆起那场地震，他心有余悸。",
+    "example_vi": "Nhớ lại trận động đất đó, anh vẫn còn dư âm sợ hãi."
+  },
+  {
+    "w": "喜出望外",
+    "p": "xǐchūwàngwài",
+    "m": "vui mừng ngoài mong đợi",
+    "example": "收到录取通知，她喜出望外。",
+    "example_vi": "Nhận được giấy báo trúng tuyển, cô ấy vui mừng ngoài mong đợi."
+  },
+  {
+    "w": "欣喜若狂",
+    "p": "xīnxǐruòkuáng",
+    "m": "vui sướng như phát điên",
+    "example": "球队夺冠让球迷欣喜若狂。",
+    "example_vi": "Đội bóng vô địch khiến người hâm mộ vui sướng như phát điên."
+  },
+  {
+    "w": "得意忘形",
+    "p": "déyìwàngxíng",
+    "m": "đắc chí quên cả bản thân",
+    "example": "取得一点成绩不要得意忘形。",
+    "example_vi": "Đạt được chút thành tích thì đừng đắc chí quên cả bản thân."
+  },
+  {
+    "w": "心花怒放",
+    "p": "xīnhuānùfàng",
+    "m": "lòng vui như hoa nở",
+    "example": "听到好消息，她心花怒放。",
+    "example_vi": "Nghe tin vui, lòng cô ấy vui như hoa nở."
+  },
+  {
+    "w": "眉飞色舞",
+    "p": "méifēisèwǔ",
+    "m": "mặt mày hớn hở",
+    "example": "谈起旅行经历，他眉飞色舞。",
+    "example_vi": "Nói về chuyến du lịch, anh mặt mày hớn hở."
+  },
+  {
+    "w": "食材新鲜度",
+    "p": "shícái xīnxiāndù",
+    "m": "độ tươi của nguyên liệu thực phẩm",
+    "example": "这家餐厅非常注重食材新鲜度。",
+    "example_vi": "Nhà hàng này rất chú trọng độ tươi của nguyên liệu thực phẩm."
+  },
+  {
+    "w": "火候",
+    "p": "huǒhòu",
+    "m": "độ lửa (mức độ nấu chín vừa tới)",
+    "example": "炒菜要掌握好火候。",
+    "example_vi": "Xào món ăn cần nắm vững độ lửa."
+  },
+  {
+    "w": "刀工",
+    "p": "dāogōng",
+    "m": "kỹ thuật thái dao",
+    "example": "这位大厨的刀工令人叹为观止。",
+    "example_vi": "Kỹ thuật thái dao của vị đầu bếp này khiến người ta trầm trồ thán phục."
+  },
+  {
+    "w": "食欲不振",
+    "p": "shíyù bùzhèn",
+    "m": "chán ăn, kém ăn",
+    "example": "天气炎热让他食欲不振。",
+    "example_vi": "Thời tiết nóng bức khiến anh chán ăn."
+  },
+  {
+    "w": "垂涎三尺",
+    "p": "chuíxiánsānchǐ",
+    "m": "thèm nhỏ dãi",
+    "example": "这道美食让人垂涎三尺。",
+    "example_vi": "Món ngon này khiến người ta thèm nhỏ dãi."
+  },
+  {
+    "w": "食不厌精",
+    "p": "shíbùyànjīng",
+    "m": "ăn không chán món tinh tế (chú trọng chất lượng ẩm thực)",
+    "example": "古人讲究食不厌精，脍不厌细。",
+    "example_vi": "Người xưa coi trọng việc ăn uống tinh tế, chế biến kỹ càng."
+  },
+  {
+    "w": "细嚼慢咽",
+    "p": "xìjiáomànyàn",
+    "m": "nhai kỹ nuốt chậm",
+    "example": "医生建议吃饭时细嚼慢咽。",
+    "example_vi": "Bác sĩ khuyên khi ăn nên nhai kỹ nuốt chậm."
+  },
+  {
+    "w": "暴饮暴食",
+    "p": "bàoyǐnbàoshí",
+    "m": "ăn uống thái quá",
+    "example": "暴饮暴食对肠胃十分不利。",
+    "example_vi": "Ăn uống thái quá rất bất lợi cho dạ dày ruột."
+  },
+  {
+    "w": "食材溯源",
+    "p": "shícái sùyuán",
+    "m": "truy xuất nguồn gốc thực phẩm",
+    "example": "超市开始推行食材溯源系统。",
+    "example_vi": "Siêu thị bắt đầu triển khai hệ thống truy xuất nguồn gốc thực phẩm."
+  },
+  {
+    "w": "地道风味",
+    "p": "dìdào fēngwèi",
+    "m": "hương vị đặc trưng bản địa",
+    "example": "这家小店保留着地道风味。",
+    "example_vi": "Quán nhỏ này vẫn giữ được hương vị đặc trưng bản địa."
+  },
+  {
+    "w": "竞技状态",
+    "p": "jìngjì zhuàngtài",
+    "m": "trạng thái thi đấu",
+    "example": "选手正处于最佳竞技状态。",
+    "example_vi": "Vận động viên đang ở trạng thái thi đấu tốt nhất."
+  },
+  {
+    "w": "体能储备",
+    "p": "tǐnéng chǔbèi",
+    "m": "dự trữ thể lực",
+    "example": "长跑运动员需要充足的体能储备。",
+    "example_vi": "Vận động viên chạy đường dài cần dự trữ thể lực đầy đủ."
+  },
+  {
+    "w": "临场发挥",
+    "p": "línchǎng fāhuī",
+    "m": "phát huy khả năng lúc thi đấu thực tế",
+    "example": "她的临场发挥超出预期。",
+    "example_vi": "Sự phát huy khả năng lúc thi đấu thực tế của cô vượt ngoài mong đợi."
+  },
+  {
+    "w": "逆风翻盘",
+    "p": "nìfēng fānpán",
+    "m": "lội ngược dòng giành chiến thắng",
+    "example": "球队在最后时刻逆风翻盘。",
+    "example_vi": "Đội bóng đã lội ngược dòng giành chiến thắng vào phút cuối."
+  },
+  {
+    "w": "势均力敌",
+    "p": "shìjūnlìdí",
+    "m": "thế cân sức cân tài",
+    "example": "这场比赛双方势均力敌。",
+    "example_vi": "Trận đấu này hai bên thế cân sức cân tài."
+  },
+  {
+    "w": "实力悬殊",
+    "p": "shílì xuánshū",
+    "m": "chênh lệch thực lực lớn",
+    "example": "这场对决双方实力悬殊。",
+    "example_vi": "Cuộc đối đầu này thực lực hai bên chênh lệch lớn."
+  },
+  {
+    "w": "体育精神",
+    "p": "tǐyù jīngshén",
+    "m": "tinh thần thể thao",
+    "example": "他展现出真正的体育精神。",
+    "example_vi": "Anh ấy đã thể hiện tinh thần thể thao chân chính."
+  },
+  {
+    "w": "运动损伤",
+    "p": "yùndòng sǔnshāng",
+    "m": "chấn thương thể thao",
+    "example": "运动损伤后要及时进行康复治疗。",
+    "example_vi": "Sau chấn thương thể thao cần kịp thời điều trị phục hồi."
+  },
+  {
+    "w": "赛前热身",
+    "p": "sàiqián rèshēn",
+    "m": "khởi động trước thi đấu",
+    "example": "选手在赛前热身以避免受伤。",
+    "example_vi": "Vận động viên khởi động trước thi đấu để tránh chấn thương."
+  },
+  {
+    "w": "战术部署",
+    "p": "zhànshù bùshǔ",
+    "m": "bố trí chiến thuật",
+    "example": "教练在中场调整了战术部署。",
+    "example_vi": "Huấn luyện viên điều chỉnh bố trí chiến thuật vào giờ nghỉ giữa hiệp."
+  },
+  {
+    "w": "临行前",
+    "p": "línxíngqián",
+    "m": "trước lúc lên đường",
+    "example": "临行前她再三叮嘱孩子。",
+    "example_vi": "Trước lúc lên đường cô ấy dặn dò con nhiều lần."
+  },
+  {
+    "w": "风尘仆仆",
+    "p": "fēngchénpúpú",
+    "m": "bơ phờ vì đường xa (đi đường vất vả)",
+    "example": "他风尘仆仆地赶到会场。",
+    "example_vi": "Anh ấy bơ phờ vì đường xa đến kịp hội trường."
+  },
+  {
+    "w": "跋山涉水",
+    "p": "báshānshèshuǐ",
+    "m": "vượt núi băng sông",
+    "example": "他们跋山涉水，终于抵达目的地。",
+    "example_vi": "Họ vượt núi băng sông, cuối cùng đến được đích."
+  },
+  {
+    "w": "车马劳顿",
+    "p": "chēmǎláodùn",
+    "m": "mệt mỏi vì đường sá xa xôi",
+    "example": "经过一天车马劳顿，他终于到家。",
+    "example_vi": "Sau một ngày mệt mỏi vì đường sá xa xôi, anh cuối cùng cũng về đến nhà."
+  },
+  {
+    "w": "沿途风光",
+    "p": "yántú fēngguāng",
+    "m": "phong cảnh dọc đường đi",
+    "example": "沿途风光令人流连忘返。",
+    "example_vi": "Phong cảnh dọc đường đi khiến người ta lưu luyến không muốn rời."
+  },
+  {
+    "w": "人生地不熟",
+    "p": "rénshēngdìbùshú",
+    "m": "lạ người lạ đất",
+    "example": "初到国外，他人生地不熟。",
+    "example_vi": "Mới đến nước ngoài, anh ấy lạ người lạ đất."
+  },
+  {
+    "w": "背包客",
+    "p": "bēibāokè",
+    "m": "khách du lịch bụi (backpacker)",
+    "example": "越来越多背包客选择自由行。",
+    "example_vi": "Ngày càng nhiều khách du lịch bụi chọn hình thức tự do du lịch."
+  },
+  {
+    "w": "深度游",
+    "p": "shēndùyóu",
+    "m": "du lịch chuyên sâu (khám phá kỹ)",
+    "example": "这次她选择了小众深度游路线。",
+    "example_vi": "Lần này cô ấy chọn tuyến du lịch chuyên sâu ít người biết."
+  },
+  {
+    "w": "打卡景点",
+    "p": "dǎkǎ jǐngdiǎn",
+    "m": "điểm check-in du lịch",
+    "example": "这座灯塔成了热门打卡景点。",
+    "example_vi": "Ngọn hải đăng này đã trở thành điểm check-in du lịch nổi tiếng."
+  },
+  {
+    "w": "旅居生活",
+    "p": "lǚjū shēnghuó",
+    "m": "cuộc sống lữ cư (sinh sống lâu ở nơi xa quê)",
+    "example": "她向往在异国旅居生活。",
+    "example_vi": "Cô ấy khao khát cuộc sống lữ cư ở xứ người."
+  },
+  {
+    "w": "人生阅历",
+    "p": "rénshēng yuèlì",
+    "m": "trải nghiệm cuộc sống",
+    "example": "旅行能够丰富人的人生阅历。",
+    "example_vi": "Du lịch có thể làm phong phú trải nghiệm cuộc sống của con người."
+  },
+  {
+    "w": "家风",
+    "p": "jiāfēng",
+    "m": "nếp nhà, gia phong",
+    "example": "良好的家风影响孩子的一生。",
+    "example_vi": "Nếp nhà tốt đẹp ảnh hưởng cả cuộc đời của con trẻ."
+  },
+  {
+    "w": "家训",
+    "p": "jiāxùn",
+    "m": "gia huấn (lời dạy trong gia đình)",
+    "example": "这个家族世代传承着自己的家训。",
+    "example_vi": "Gia tộc này đời đời truyền lại gia huấn của mình."
+  },
+  {
+    "w": "骨肉至亲",
+    "p": "gǔròuzhìqīn",
+    "m": "người thân ruột thịt",
+    "example": "面对困难，骨肉至亲不能袖手旁观。",
+    "example_vi": "Đối diện khó khăn, người thân ruột thịt không thể đứng nhìn."
+  },
+  {
+    "w": "含饴弄孙",
+    "p": "hányínòngsūn",
+    "m": "vui vầy bên cháu con lúc tuổi già",
+    "example": "退休后，他过着含饴弄孙的日子。",
+    "example_vi": "Sau khi nghỉ hưu, ông sống những ngày vui vầy bên cháu con."
+  },
+  {
+    "w": "养儿防老",
+    "p": "yǎngérfánglǎo",
+    "m": "nuôi con phòng lúc về già",
+    "example": "传统观念中养儿防老根深蒂固。",
+    "example_vi": "Trong quan niệm truyền thống, việc nuôi con phòng lúc về già đã ăn sâu bén rễ."
+  },
+  {
+    "w": "天伦之乐",
+    "p": "tiānlúnzhīlè",
+    "m": "niềm vui sum vầy gia đình",
+    "example": "周末一家人共享天伦之乐。",
+    "example_vi": "Cuối tuần cả nhà cùng nhau hưởng niềm vui sum vầy."
+  },
+  {
+    "w": "床头柜",
+    "p": "chuángtóuguì",
+    "m": "tủ đầu giường",
+    "example": "她在床头柜上放了一盏小灯。",
+    "example_vi": "Cô ấy đặt một chiếc đèn nhỏ trên tủ đầu giường."
+  },
+  {
+    "w": "过渡时期",
+    "p": "guòdù shíqī",
+    "m": "giai đoạn quá độ, chuyển tiếp",
+    "example": "这是改革的过渡时期。",
+    "example_vi": "Đây là giai đoạn quá độ của cuộc cải cách."
+  },
+  {
+    "w": "时过境迁",
+    "p": "shíguòjìngqiān",
+    "m": "vật đổi sao dời (thời gian trôi qua, hoàn cảnh thay đổi)",
+    "example": "多年后再回故乡，早已时过境迁。",
+    "example_vi": "Nhiều năm sau trở lại quê hương, mọi thứ đã vật đổi sao dời."
+  },
+  {
+    "w": "稍纵即逝",
+    "p": "shāozòngjíshì",
+    "m": "thoáng qua liền mất (cơ hội ngắn ngủi)",
+    "example": "机会稍纵即逝，要及时把握。",
+    "example_vi": "Cơ hội thoáng qua liền mất, cần nắm bắt kịp thời."
+  },
+  {
+    "w": "日积月累",
+    "p": "rìjīyuèlěi",
+    "m": "tích lũy dần qua ngày tháng",
+    "example": "知识需要日积月累才能扎实。",
+    "example_vi": "Kiến thức cần được tích lũy dần qua ngày tháng mới vững chắc."
+  },
+  {
+    "w": "经年累月",
+    "p": "jīngniánlěiyuè",
+    "m": "trải qua nhiều năm tháng",
+    "example": "经年累月的坚持终于有了回报。",
+    "example_vi": "Sự kiên trì trải qua nhiều năm tháng cuối cùng đã có được đền đáp."
+  },
+  {
+    "w": "举世瞩目",
+    "p": "jǔshìzhǔmù",
+    "m": "cả thế giới chú mục theo dõi",
+    "example": "这场峰会举世瞩目。",
+    "example_vi": "Hội nghị thượng đỉnh này được cả thế giới chú mục theo dõi."
+  },
+  {
+    "w": "举不胜举",
+    "p": "jǔbùshèngjǔ",
+    "m": "kể không xuể (quá nhiều ví dụ)",
+    "example": "类似的例子举不胜举。",
+    "example_vi": "Những ví dụ tương tự kể không xuể."
+  },
+  {
+    "w": "数不胜数",
+    "p": "shǔbùshèngshǔ",
+    "m": "đếm không xuể",
+    "example": "这样的案例数不胜数。",
+    "example_vi": "Những trường hợp như vậy đếm không xuể."
+  },
+  {
+    "w": "寥寥无几",
+    "p": "liáoliáowújǐ",
+    "m": "rất ít, thưa thớt",
+    "example": "能坚持到最后的人寥寥无几。",
+    "example_vi": "Số người có thể kiên trì đến cuối cùng rất ít."
+  },
+  {
+    "w": "凤毛麟角",
+    "p": "fèngmáolínjiǎo",
+    "m": "của hiếm (lông phượng sừng lân)",
+    "example": "这样的人才可谓凤毛麟角。",
+    "example_vi": "Nhân tài như vậy có thể nói là của hiếm."
+  },
+  {
+    "w": "屈指可数",
+    "p": "qūzhǐkěshǔ",
+    "m": "đếm trên đầu ngón tay",
+    "example": "能达到这个水平的选手屈指可数。",
+    "example_vi": "Số vận động viên đạt trình độ này đếm trên đầu ngón tay."
+  },
+  {
+    "w": "不胜枚举",
+    "p": "bùshèngméijǔ",
+    "m": "không thể kể hết từng cái một",
+    "example": "他的成就不胜枚举。",
+    "example_vi": "Thành tựu của ông không thể kể hết từng cái một."
+  },
+  {
+    "w": "不一而足",
+    "p": "bùyī'érzú",
+    "m": "không chỉ một loại, nhiều dạng khác nhau",
+    "example": "造成这种结果的原因不一而足。",
+    "example_vi": "Nguyên nhân dẫn đến kết quả này không chỉ một loại."
+  },
+  {
+    "w": "林林总总",
+    "p": "línlínzǒngzǒng",
+    "m": "đủ loại đủ kiểu, phong phú đa dạng",
+    "example": "市场上商品林林总总，令人眼花缭乱。",
+    "example_vi": "Hàng hóa trên thị trường đủ loại đủ kiểu, khiến người ta hoa mắt."
+  },
+  {
+    "w": "良莠不齐",
+    "p": "liángyǒubùqí",
+    "m": "tốt xấu lẫn lộn",
+    "example": "网络信息良莠不齐，需要甄别。",
+    "example_vi": "Thông tin trên mạng tốt xấu lẫn lộn, cần phải sàng lọc."
+  },
+  {
+    "w": "鱼龙混杂",
+    "p": "yúlónghùnzá",
+    "m": "vàng thau lẫn lộn",
+    "example": "这个行业鱼龙混杂，需谨慎选择。",
+    "example_vi": "Ngành này vàng thau lẫn lộn, cần lựa chọn thận trọng."
+  },
+  {
+    "w": "泾渭分明",
+    "p": "jīngwèifēnmíng",
+    "m": "phân biệt rõ ràng như sông Kinh sông Vị",
+    "example": "两种观点泾渭分明。",
+    "example_vi": "Hai quan điểm này phân biệt rõ ràng."
+  },
+  {
+    "w": "黑白分明",
+    "p": "hēibáifēnmíng",
+    "m": "trắng đen rõ ràng",
+    "example": "是非曲直应该黑白分明。",
+    "example_vi": "Đúng sai phải trắng đen rõ ràng."
+  },
+  {
+    "w": "是非曲直",
+    "p": "shìfēiqūzhí",
+    "m": "đúng sai phải trái",
+    "example": "法官会公正判断是非曲直。",
+    "example_vi": "Thẩm phán sẽ phán xét công bằng về đúng sai phải trái."
+  },
+  {
+    "w": "来龙去脉",
+    "p": "láilóngqùmài",
+    "m": "đầu đuôi ngọn ngành",
+    "example": "他详细说明了事情的来龙去脉。",
+    "example_vi": "Anh ấy giải thích chi tiết đầu đuôi ngọn ngành của sự việc."
+  },
+  {
+    "w": "前因后果",
+    "p": "qiányīnhòuguǒ",
+    "m": "nguyên nhân và kết quả",
+    "example": "记者调查了事件的前因后果。",
+    "example_vi": "Phóng viên đã điều tra nguyên nhân và kết quả của sự việc."
+  },
+  {
+    "w": "始末",
+    "p": "shǐmò",
+    "m": "đầu đuôi sự việc",
+    "example": "他向警方交代了事情的始末。",
+    "example_vi": "Anh ấy đã khai báo với cảnh sát đầu đuôi sự việc."
+  },
+  {
+    "w": "唇齿相依",
+    "p": "chúnchǐxiāngyī",
+    "m": "môi hở răng lạnh, gắn bó phụ thuộc lẫn nhau",
+    "example": "两国经济唇齿相依。",
+    "example_vi": "Kinh tế hai nước gắn bó phụ thuộc lẫn nhau."
+  },
+  {
+    "w": "休戚与共",
+    "p": "xiūqīyǔgòng",
+    "m": "cùng chung họa phúc",
+    "example": "团队成员休戚与共，共同进退。",
+    "example_vi": "Các thành viên trong đội cùng chung họa phúc, cùng tiến cùng lui."
+  },
+  {
+    "w": "荣辱与共",
+    "p": "róngrǔyǔgòng",
+    "m": "cùng chung vinh nhục",
+    "example": "多年的合作让他们荣辱与共。",
+    "example_vi": "Nhiều năm hợp tác đã khiến họ cùng chung vinh nhục."
+  },
+  {
+    "w": "息息相通",
+    "p": "xīxīxiāngtōng",
+    "m": "liên hệ mật thiết với nhau",
+    "example": "个人命运与国家发展息息相通。",
+    "example_vi": "Vận mệnh cá nhân liên hệ mật thiết với sự phát triển của đất nước."
+  },
+  {
+    "w": "如影随形",
+    "p": "rúyǐngsuíxíng",
+    "m": "như hình với bóng",
+    "example": "压力如影随形，挥之不去。",
+    "example_vi": "Áp lực như hình với bóng, không thể xua tan."
+  },
+  {
+    "w": "形影不离",
+    "p": "xíngyǐngbùlí",
+    "m": "không rời nhau như hình với bóng",
+    "example": "这对好友从小形影不离。",
+    "example_vi": "Đôi bạn thân này từ nhỏ đã không rời nhau như hình với bóng."
+  },
+  {
+    "w": "如出一辙",
+    "p": "rúchūyīzhé",
+    "m": "giống hệt nhau như đúc",
+    "example": "两起案件的手法如出一辙。",
+    "example_vi": "Thủ đoạn của hai vụ án này giống hệt nhau như đúc."
+  },
+  {
+    "w": "大相径庭",
+    "p": "dàxiāngjìngtíng",
+    "m": "khác biệt hoàn toàn",
+    "example": "两人的观点大相径庭。",
+    "example_vi": "Quan điểm của hai người khác biệt hoàn toàn."
+  },
+  {
+    "w": "天壤之别",
+    "p": "tiānrǎngzhībié",
+    "m": "khác biệt một trời một vực",
+    "example": "两地生活水平有天壤之别。",
+    "example_vi": "Mức sống hai nơi khác biệt một trời một vực."
+  },
+  {
+    "w": "不可同日而语",
+    "p": "bùkětóngrì'éryǔ",
+    "m": "không thể so sánh cùng ngày (khác biệt hoàn toàn)",
+    "example": "如今的生活条件与过去不可同日而语。",
+    "example_vi": "Điều kiện sống hiện nay so với trước kia không thể so sánh được."
+  },
+  {
+    "w": "力不从心",
+    "p": "lìbùcóngxīn",
+    "m": "lực bất tòng tâm",
+    "example": "年纪大了，做这些事有些力不从心。",
+    "example_vi": "Tuổi đã cao, làm những việc này có phần lực bất tòng tâm."
+  },
+  {
+    "w": "心有余而力不足",
+    "p": "xīnyǒuyú'érlìbùzú",
+    "m": "lòng có thừa nhưng sức không đủ",
+    "example": "他想帮忙，却心有余而力不足。",
+    "example_vi": "Anh muốn giúp đỡ nhưng lòng có thừa mà sức không đủ."
+  },
+  {
+    "w": "事与愿违",
+    "p": "shìyǔyuànwéi",
+    "m": "sự việc trái với mong muốn",
+    "example": "结果往往事与愿违。",
+    "example_vi": "Kết quả thường trái với mong muốn."
+  },
+  {
+    "w": "弄巧成拙",
+    "p": "nòngqiǎochéngzhuō",
+    "m": "khéo hóa vụng, lợi bất cập hại",
+    "example": "他的补救措施反而弄巧成拙。",
+    "example_vi": "Biện pháp khắc phục của anh ta trái lại khéo hóa vụng."
+  },
+  {
+    "w": "捉襟见肘",
+    "p": "zhuōjīnjiànzhǒu",
+    "m": "chật vật thiếu thốn",
+    "example": "公司资金捉襟见肘。",
+    "example_vi": "Nguồn vốn của công ty chật vật thiếu thốn."
+  },
+  {
+    "w": "寅吃卯粮",
+    "p": "yínchīmǎoliáng",
+    "m": "ăn trước trả sau (tiêu trước khoản chưa có)",
+    "example": "过度借贷等于寅吃卯粮。",
+    "example_vi": "Vay mượn quá mức chẳng khác gì ăn trước trả sau."
+  },
+  {
+    "w": "杯水车薪",
+    "p": "bēishuǐchēxīn",
+    "m": "muối bỏ biển (giúp đỡ quá ít so với nhu cầu)",
+    "example": "这笔捐款对灾区来说是杯水车薪。",
+    "example_vi": "Khoản quyên góp này đối với vùng thiên tai chẳng khác gì muối bỏ biển."
+  },
+  {
+    "w": "九牛一毛",
+    "p": "jiǔniúyīmáo",
+    "m": "chín trâu một sợi lông (quá nhỏ bé)",
+    "example": "这笔损失对大公司来说不过九牛一毛。",
+    "example_vi": "Khoản thua lỗ này đối với công ty lớn chỉ như chín trâu một sợi lông."
+  },
+  {
+    "w": "沧海一粟",
+    "p": "cānghǎiyīsù",
+    "m": "hạt cải giữa biển khơi (vô cùng nhỏ bé)",
+    "example": "个人的力量在历史长河中不过沧海一粟。",
+    "example_vi": "Sức lực cá nhân trong dòng chảy lịch sử chỉ như hạt cải giữa biển khơi."
+  },
+  {
+    "w": "处方药",
+    "p": "chǔfāngyào",
+    "m": "thuốc kê đơn",
+    "example": "这种药属于处方药，需医生开具。",
+    "example_vi": "Loại thuốc này thuộc thuốc kê đơn, cần bác sĩ chỉ định."
+  },
+  {
+    "w": "非处方药",
+    "p": "fēichǔfāngyào",
+    "m": "thuốc không kê đơn",
+    "example": "感冒药大多是非处方药。",
+    "example_vi": "Thuốc cảm phần lớn là thuốc không kê đơn."
+  },
+  {
+    "w": "药物依赖",
+    "p": "yàowù yīlài",
+    "m": "lệ thuộc thuốc",
+    "example": "长期服用镇静剂可能导致药物依赖。",
+    "example_vi": "Dùng thuốc an thần lâu dài có thể dẫn đến lệ thuộc thuốc."
+  },
+  {
+    "w": "病理切片",
+    "p": "bìnglǐ qiēpiàn",
+    "m": "tiêu bản bệnh lý",
+    "example": "医生通过病理切片确诊肿瘤性质。",
+    "example_vi": "Bác sĩ chẩn đoán tính chất khối u thông qua tiêu bản bệnh lý."
+  },
+  {
+    "w": "术后护理",
+    "p": "shùhòu hùlǐ",
+    "m": "chăm sóc sau phẫu thuật",
+    "example": "术后护理直接影响康复速度。",
+    "example_vi": "Chăm sóc sau phẫu thuật ảnh hưởng trực tiếp đến tốc độ hồi phục."
+  },
+  {
+    "w": "麻醉师",
+    "p": "mázuìshī",
+    "m": "bác sĩ gây mê",
+    "example": "手术前麻醉师会评估患者身体状况。",
+    "example_vi": "Trước phẫu thuật bác sĩ gây mê sẽ đánh giá tình trạng cơ thể bệnh nhân."
+  },
+  {
+    "w": "急诊室",
+    "p": "jízhěnshì",
+    "m": "phòng cấp cứu",
+    "example": "他被紧急送往急诊室救治。",
+    "example_vi": "Anh ấy được đưa gấp đến phòng cấp cứu để điều trị."
+  },
+  {
+    "w": "病历档案",
+    "p": "bìnglì dàng'àn",
+    "m": "hồ sơ bệnh án",
+    "example": "医院妥善保存患者的病历档案。",
+    "example_vi": "Bệnh viện lưu giữ cẩn thận hồ sơ bệnh án của bệnh nhân."
+  },
+  {
+    "w": "体质虚弱",
+    "p": "tǐzhì xūruò",
+    "m": "thể chất yếu ớt",
+    "example": "她自幼体质虚弱，容易生病。",
+    "example_vi": "Cô ấy từ nhỏ thể chất yếu ớt, dễ bị bệnh."
+  },
+  {
+    "w": "讳疾忌医",
+    "p": "huìjíjìyī",
+    "m": "giấu bệnh sợ chữa (né tránh giải quyết vấn đề)",
+    "example": "面对问题不能讳疾忌医。",
+    "example_vi": "Đối diện vấn đề không thể giấu bệnh sợ chữa."
+  },
+  {
+    "w": "耕地保护",
+    "p": "gēngdì bǎohù",
+    "m": "bảo vệ đất canh tác",
+    "example": "国家高度重视耕地保护政策。",
+    "example_vi": "Nhà nước rất coi trọng chính sách bảo vệ đất canh tác."
+  },
+  {
+    "w": "农产品加工",
+    "p": "nóngchǎnpǐn jiāgōng",
+    "m": "chế biến nông sản",
+    "example": "当地大力发展农产品加工产业。",
+    "example_vi": "Địa phương phát triển mạnh ngành chế biến nông sản."
+  },
+  {
+    "w": "灌溉系统",
+    "p": "guàngài xìtǒng",
+    "m": "hệ thống tưới tiêu",
+    "example": "这片农田配备了智能灌溉系统。",
+    "example_vi": "Cánh đồng này được trang bị hệ thống tưới tiêu thông minh."
+  },
+  {
+    "w": "轮作",
+    "p": "lúnzuò",
+    "m": "luân canh (canh tác luân phiên)",
+    "example": "农民采用轮作方式保持地力。",
+    "example_vi": "Nông dân áp dụng phương pháp luân canh để duy trì độ màu mỡ của đất."
+  },
+  {
+    "w": "施肥",
+    "p": "shīféi",
+    "m": "bón phân",
+    "example": "合理施肥能提高作物产量。",
+    "example_vi": "Bón phân hợp lý có thể nâng cao sản lượng cây trồng."
+  },
+  {
+    "w": "病虫害防治",
+    "p": "bìngchónghài fángzhì",
+    "m": "phòng trừ sâu bệnh",
+    "example": "农业部门指导农户开展病虫害防治。",
+    "example_vi": "Cơ quan nông nghiệp hướng dẫn nông dân triển khai phòng trừ sâu bệnh."
+  },
+  {
+    "w": "良种培育",
+    "p": "liángzhǒng péiyù",
+    "m": "lai tạo giống tốt",
+    "example": "科研人员致力于良种培育工作。",
+    "example_vi": "Nhà nghiên cứu chuyên tâm vào công tác lai tạo giống tốt."
+  },
+  {
+    "w": "生态农业",
+    "p": "shēngtài nóngyè",
+    "m": "nông nghiệp sinh thái",
+    "example": "这个村子发展生态农业带动了旅游业。",
+    "example_vi": "Ngôi làng này phát triển nông nghiệp sinh thái đã thúc đẩy ngành du lịch."
+  },
+  {
+    "w": "丰产丰收",
+    "p": "fēngchǎnfēngshōu",
+    "m": "được mùa bội thu",
+    "example": "今年风调雨顺，实现了丰产丰收。",
+    "example_vi": "Năm nay mưa thuận gió hòa, đạt được mùa bội thu."
+  },
+  {
+    "w": "颗粒无收",
+    "p": "kēlìwúshōu",
+    "m": "mất trắng, không thu hoạch được gì",
+    "example": "暴雨过后，这片庄稼颗粒无收。",
+    "example_vi": "Sau trận mưa lớn, cánh đồng này mất trắng không thu hoạch được gì."
+  },
+  {
+    "w": "房产中介",
+    "p": "fángchǎn zhōngjiè",
+    "m": "môi giới bất động sản",
+    "example": "她通过房产中介找到了合适的房子。",
+    "example_vi": "Cô ấy tìm được căn nhà phù hợp thông qua môi giới bất động sản."
+  },
+  {
+    "w": "房价波动",
+    "p": "fángjià bōdòng",
+    "m": "biến động giá nhà",
+    "example": "近年来房价波动较大。",
+    "example_vi": "Những năm gần đây giá nhà biến động khá lớn."
+  },
+  {
+    "w": "按揭贷款",
+    "p": "ànjiē dàikuǎn",
+    "m": "vay thế chấp mua nhà",
+    "example": "他申请了三十年期的按揭贷款。",
+    "example_vi": "Anh ấy đăng ký khoản vay thế chấp mua nhà kỳ hạn ba mươi năm."
+  },
+  {
+    "w": "公摊面积",
+    "p": "gōngtān miànjī",
+    "m": "diện tích sử dụng chung",
+    "example": "购房时要留意公摊面积的比例。",
+    "example_vi": "Khi mua nhà cần chú ý tỷ lệ diện tích sử dụng chung."
+  },
+  {
+    "w": "零售终端",
+    "p": "língshòu zhōngduān",
+    "m": "điểm bán lẻ cuối cùng",
+    "example": "品牌加强了对零售终端的管控。",
+    "example_vi": "Thương hiệu tăng cường kiểm soát các điểm bán lẻ cuối cùng."
+  },
+  {
+    "w": "库存周转率",
+    "p": "kùcún zhōuzhuǎnlǜ",
+    "m": "tỷ lệ luân chuyển hàng tồn kho",
+    "example": "提高库存周转率能减少资金占用。",
+    "example_vi": "Nâng cao tỷ lệ luân chuyển hàng tồn kho có thể giảm chiếm dụng vốn."
+  },
+  {
+    "w": "客单价",
+    "p": "kèdānjià",
+    "m": "giá trị đơn hàng trung bình mỗi khách",
+    "example": "商家通过促销提高客单价。",
+    "example_vi": "Người bán nâng cao giá trị đơn hàng trung bình mỗi khách thông qua khuyến mãi."
+  },
+  {
+    "w": "复购率",
+    "p": "fùgòulǜ",
+    "m": "tỷ lệ mua lại",
+    "example": "良好的售后服务能提升复购率。",
+    "example_vi": "Dịch vụ hậu mãi tốt có thể nâng cao tỷ lệ mua lại."
+  },
+  {
+    "w": "引流获客",
+    "p": "yǐnliú huòkè",
+    "m": "thu hút lưu lượng để có khách hàng",
+    "example": "商家利用短视频引流获客。",
+    "example_vi": "Người bán tận dụng video ngắn để thu hút khách hàng."
+  },
+  {
+    "w": "仓储管理",
+    "p": "cāngchǔ guǎnlǐ",
+    "m": "quản lý kho bãi",
+    "example": "公司引入自动化系统优化仓储管理。",
+    "example_vi": "Công ty đưa vào hệ thống tự động hóa để tối ưu hóa quản lý kho bãi."
+  },
+  {
+    "w": "末端配送",
+    "p": "mòduān pèisòng",
+    "m": "giao hàng chặng cuối",
+    "example": "末端配送是物流环节中成本最高的一环。",
+    "example_vi": "Giao hàng chặng cuối là khâu có chi phí cao nhất trong logistics."
+  },
+  {
+    "w": "品控",
+    "p": "pǐnkòng",
+    "m": "kiểm soát chất lượng sản phẩm",
+    "example": "工厂设有专门的品控部门。",
+    "example_vi": "Nhà máy có bộ phận chuyên trách kiểm soát chất lượng sản phẩm."
+  },
+  {
+    "w": "良品率",
+    "p": "liángpǐnlǜ",
+    "m": "tỷ lệ sản phẩm đạt chuẩn",
+    "example": "新生产线的良品率明显提升。",
+    "example_vi": "Tỷ lệ sản phẩm đạt chuẩn của dây chuyền sản xuất mới được nâng cao rõ rệt."
+  },
+  {
+    "w": "精益生产",
+    "p": "jīngyì shēngchǎn",
+    "m": "sản xuất tinh gọn (Lean)",
+    "example": "公司引进精益生产理念以降低浪费。",
+    "example_vi": "Công ty đưa vào lý niệm sản xuất tinh gọn để giảm lãng phí."
+  },
+  {
+    "w": "自动化产线",
+    "p": "zìdònghuà chǎnxiàn",
+    "m": "dây chuyền sản xuất tự động hóa",
+    "example": "这家工厂引入了全自动化产线。",
+    "example_vi": "Nhà máy này đã đưa vào dây chuyền sản xuất hoàn toàn tự động hóa."
+  },
+  {
+    "w": "生产周期",
+    "p": "shēngchǎn zhōuqī",
+    "m": "chu kỳ sản xuất",
+    "example": "新工艺缩短了产品的生产周期。",
+    "example_vi": "Quy trình mới đã rút ngắn chu kỳ sản xuất sản phẩm."
+  },
+  {
+    "w": "原材料采购",
+    "p": "yuáncáiliào cǎigòu",
+    "m": "thu mua nguyên vật liệu",
+    "example": "原材料采购成本上涨影响了利润。",
+    "example_vi": "Chi phí thu mua nguyên vật liệu tăng đã ảnh hưởng đến lợi nhuận."
+  },
+  {
+    "w": "能效标准",
+    "p": "néngxiào biāozhǔn",
+    "m": "tiêu chuẩn hiệu suất năng lượng",
+    "example": "新款空调符合最新的能效标准。",
+    "example_vi": "Máy điều hòa đời mới đáp ứng tiêu chuẩn hiệu suất năng lượng mới nhất."
+  },
+  {
+    "w": "呕心之作",
+    "p": "ǒuxīnzhīzuò",
+    "m": "tác phẩm dốc hết tâm huyết",
+    "example": "这部小说是作者的呕心之作。",
+    "example_vi": "Cuốn tiểu thuyết này là tác phẩm dốc hết tâm huyết của tác giả."
+  },
+  {
+    "w": "艰苦卓绝",
+    "p": "jiānkǔzhuójué",
+    "m": "gian khổ tột cùng",
+    "example": "经过艰苦卓绝的努力，任务终于完成。",
+    "example_vi": "Sau nỗ lực gian khổ tột cùng, nhiệm vụ cuối cùng đã hoàn thành."
+  },
+  {
+    "w": "含辛茹苦",
+    "p": "hánxīnrúkǔ",
+    "m": "nếm mật nằm gai, chịu đựng cay đắng vất vả",
+    "example": "母亲含辛茹苦把他拉扯大。",
+    "example_vi": "Người mẹ nếm mật nằm gai nuôi anh khôn lớn."
+  },
+  {
+    "w": "精雕细刻",
+    "p": "jīngdiāoxìkè",
+    "m": "chạm khắc tỉ mỉ tinh xảo",
+    "example": "这件木雕经过精雕细刻。",
+    "example_vi": "Tác phẩm điêu khắc gỗ này đã qua chạm khắc tỉ mỉ tinh xảo."
+  },
+  {
+    "w": "反复推敲",
+    "p": "fǎnfù tuīqiāo",
+    "m": "suy đi tính lại nhiều lần",
+    "example": "这个方案经过反复推敲。",
+    "example_vi": "Phương án này đã trải qua suy đi tính lại nhiều lần."
+  },
+  {
+    "w": "精雕细选",
+    "p": "jīngdiāoxìxuǎn",
+    "m": "lựa chọn kỹ càng tỉ mỉ",
+    "example": "评委精雕细选出十件优秀作品。",
+    "example_vi": "Ban giám khảo lựa chọn kỹ càng ra mười tác phẩm xuất sắc."
+  },
+  {
+    "w": "果敢决断",
+    "p": "guǒgǎnjuéduàn",
+    "m": "quả cảm quyết đoán",
+    "example": "面对危机，她果敢决断。",
+    "example_vi": "Đối mặt với khủng hoảng, cô ấy quả cảm quyết đoán."
+  },
+  {
+    "w": "当断不断",
+    "p": "dāngduànbùduàn",
+    "m": "nên quyết mà không quyết (do dự)",
+    "example": "当断不断，反受其乱。",
+    "example_vi": "Nên quyết mà không quyết, sẽ chuốc lấy rối loạn."
+  },
+  {
+    "w": "犹豫不决",
+    "p": "yóuyùbùjué",
+    "m": "do dự không quyết đoán được",
+    "example": "他在两个方案之间犹豫不决。",
+    "example_vi": "Anh ấy do dự không quyết đoán được giữa hai phương án."
+  },
+  {
+    "w": "矢志不移",
+    "p": "shǐzhìbùyí",
+    "m": "chí hướng kiên định không thay đổi",
+    "example": "科学家矢志不移地探索真理。",
+    "example_vi": "Nhà khoa học chí hướng kiên định khám phá chân lý."
+  },
+  {
+    "w": "百折不回",
+    "p": "bǎizhébùhuí",
+    "m": "trăm lần thất bại không nản, quyết không lùi bước",
+    "example": "面对挫折，她百折不回。",
+    "example_vi": "Đối diện thất bại, cô ấy quyết không lùi bước."
+  },
+  {
+    "w": "百炼成钢",
+    "p": "bǎiliànchénggāng",
+    "m": "trăm lần tôi luyện thành thép",
+    "example": "经历磨难才能百炼成钢。",
+    "example_vi": "Trải qua gian khổ mới có thể tôi luyện thành thép."
+  },
+  {
+    "w": "玉汝于成",
+    "p": "yùrǔyúchéng",
+    "m": "gian khó tôi luyện nên thành công",
+    "example": "艰难困苦，玉汝于成。",
+    "example_vi": "Khó khăn gian khổ chính là để tôi luyện nên thành công."
+  },
+  {
+    "w": "一望无际",
+    "p": "yīwàngwújì",
+    "m": "nhìn xa bát ngát không thấy bờ bến",
+    "example": "眼前是一望无际的草原。",
+    "example_vi": "Trước mắt là thảo nguyên bát ngát không thấy bờ bến."
+  },
+  {
+    "w": "惊涛骇浪",
+    "p": "jīngtāohàilàng",
+    "m": "sóng to gió lớn (tình thế nguy hiểm dữ dội)",
+    "example": "渔船在惊涛骇浪中艰难前行。",
+    "example_vi": "Thuyền cá tiến lên khó khăn giữa sóng to gió lớn."
+  },
+  {
+    "w": "风平浪静",
+    "p": "fēngpínglàngjìng",
+    "m": "gió lặng sóng yên",
+    "example": "暴风雨过后，海面风平浪静。",
+    "example_vi": "Sau cơn bão, mặt biển gió lặng sóng yên."
+  },
+  {
+    "w": "波涛汹涌",
+    "p": "bōtāoxiōngyǒng",
+    "m": "sóng cuộn cuồn cuộn dữ dội",
+    "example": "台风来临前，海面波涛汹涌。",
+    "example_vi": "Trước khi bão đến, mặt biển sóng cuộn cuồn cuộn dữ dội."
+  },
+  {
+    "w": "晨曦初露",
+    "p": "chénxīchūlù",
+    "m": "ánh bình minh vừa hé lộ",
+    "example": "晨曦初露，渔民已出海劳作。",
+    "example_vi": "Ánh bình minh vừa hé lộ, ngư dân đã ra khơi lao động."
+  },
+  {
+    "w": "夕阳西下",
+    "p": "xīyángxīxià",
+    "m": "mặt trời lặn về tây",
+    "example": "夕阳西下，天边一片橙红。",
+    "example_vi": "Mặt trời lặn về tây, chân trời một màu cam đỏ."
+  },
+  {
+    "w": "皓月当空",
+    "p": "hàoyuèdāngkōng",
+    "m": "trăng sáng vằng vặc giữa trời",
+    "example": "中秋之夜，皓月当空。",
+    "example_vi": "Đêm Trung thu, trăng sáng vằng vặc giữa trời."
+  },
+  {
+    "w": "繁星点点",
+    "p": "fánxīngdiǎndiǎn",
+    "m": "sao trời lấp lánh khắp nơi",
+    "example": "夜空繁星点点，格外迷人。",
+    "example_vi": "Bầu trời đêm sao lấp lánh khắp nơi, cực kỳ mê hoặc."
+  },
+  {
+    "w": "漫天飞雪",
+    "p": "màntiānfēixuě",
+    "m": "tuyết bay đầy trời",
+    "example": "窗外漫天飞雪，格外寂静。",
+    "example_vi": "Ngoài cửa sổ tuyết bay đầy trời, tĩnh lặng lạ thường."
+  },
+  {
+    "w": "骄阳似火",
+    "p": "jiāoyángsìhuǒ",
+    "m": "nắng gắt như lửa",
+    "example": "七月的骄阳似火。",
+    "example_vi": "Nắng tháng bảy gắt như lửa."
+  },
+  {
+    "w": "生机盎然",
+    "p": "shēngjī'àngrán",
+    "m": "sức sống tràn trề",
+    "example": "雨后的森林生机盎然。",
+    "example_vi": "Khu rừng sau mưa sức sống tràn trề."
+  },
+  {
+    "w": "绿树成荫",
+    "p": "lǜshùchéngyīn",
+    "m": "cây xanh rợp bóng mát",
+    "example": "这条街道绿树成荫。",
+    "example_vi": "Con phố này cây xanh rợp bóng mát."
+  },
+  {
+    "w": "稻浪滚滚",
+    "p": "dàolànggǔngǔn",
+    "m": "sóng lúa cuộn trào (đồng lúa bát ngát)",
+    "example": "田野里稻浪滚滚，一派丰收景象。",
+    "example_vi": "Trên cánh đồng sóng lúa cuộn trào, khắp nơi cảnh tượng bội thu."
+  },
+  {
+    "w": "炊烟袅袅",
+    "p": "chuīyānniǎoniǎo",
+    "m": "khói bếp bay lượn nhẹ nhàng",
+    "example": "傍晚村庄炊烟袅袅。",
+    "example_vi": "Chiều tối trong làng khói bếp bay lượn nhẹ nhàng."
+  },
+  {
+    "w": "鸡犬相闻",
+    "p": "jīquǎnxiāngwén",
+    "m": "nghe được tiếng gà chó (khu dân cư gần gũi)",
+    "example": "这个村庄鸡犬相闻，十分祥和。",
+    "example_vi": "Ngôi làng này nghe được tiếng gà chó của nhau, rất yên bình."
+  },
+  {
+    "w": "世外桃源",
+    "p": "shìwàitáoyuán",
+    "m": "chốn đào nguyên ngoài trần thế (nơi thanh bình lý tưởng)",
+    "example": "这个小村庄宛如世外桃源。",
+    "example_vi": "Ngôi làng nhỏ này tựa như chốn đào nguyên ngoài trần thế."
+  },
+  {
+    "w": "人间仙境",
+    "p": "rénjiānxiānjìng",
+    "m": "tiên cảnh chốn nhân gian",
+    "example": "这片山水被誉为人间仙境。",
+    "example_vi": "Cảnh sơn thủy này được ca ngợi là tiên cảnh chốn nhân gian."
+  },
+  {
+    "w": "风景如画",
+    "p": "fēngjǐngrúhuà",
+    "m": "phong cảnh đẹp như tranh vẽ",
+    "example": "这里风景如画，游人络绎不绝。",
+    "example_vi": "Nơi đây phong cảnh đẹp như tranh vẽ, du khách tấp nập không dứt."
+  },
+  {
+    "w": "美不胜收",
+    "p": "měibùshèngshōu",
+    "m": "đẹp không xuể (quá nhiều cảnh đẹp)",
+    "example": "沿途风光美不胜收。",
+    "example_vi": "Phong cảnh dọc đường đẹp không xuể."
+  },
+  {
+    "w": "心旷神怡",
+    "p": "xīnkuàngshényí",
+    "m": "lòng khoan khoái, tinh thần sảng khoái",
+    "example": "站在山顶，令人心旷神怡。",
+    "example_vi": "Đứng trên đỉnh núi khiến lòng khoan khoái tinh thần sảng khoái."
+  },
+  {
+    "w": "流连忘返",
+    "p": "liúliánwàngfǎn",
+    "m": "lưu luyến quên cả về",
+    "example": "这片美景让游客流连忘返。",
+    "example_vi": "Cảnh đẹp này khiến du khách lưu luyến quên cả về."
+  },
+  {
+    "w": "目不暇接",
+    "p": "mùbùxiájiē",
+    "m": "nhìn không xuể, mắt không kịp thu hết",
+    "example": "展馆内展品琳琅满目，令人目不暇接。",
+    "example_vi": "Hiện vật trưng bày trong nhà triển lãm phong phú, khiến người ta nhìn không xuể."
+  },
+  {
+    "w": "应接不暇",
+    "p": "yìngjiēbùxiá",
+    "m": "tiếp không kịp (quá nhiều việc cùng lúc)",
+    "example": "订单太多，工厂应接不暇。",
+    "example_vi": "Đơn hàng quá nhiều, nhà máy tiếp nhận không kịp."
+  },
+  {
+    "w": "眼花缭乱",
+    "p": "yǎnhuāliáoluàn",
+    "m": "hoa cả mắt (quá nhiều thứ khiến rối mắt)",
+    "example": "选择太多让她眼花缭乱。",
+    "example_vi": "Quá nhiều lựa chọn khiến cô ấy hoa cả mắt."
+  },
+  {
+    "w": "目不转睛",
+    "p": "mùbùzhuǎnjīng",
+    "m": "chăm chú không rời mắt",
+    "example": "孩子们目不转睛地看着表演。",
+    "example_vi": "Bọn trẻ chăm chú không rời mắt xem biểu diễn."
+  },
+  {
+    "w": "心无旁骛",
+    "p": "xīnwúpángwù",
+    "m": "chuyên tâm không xao nhãng",
+    "example": "科研人员心无旁骛地投入实验。",
+    "example_vi": "Nhà nghiên cứu chuyên tâm không xao nhãng lao vào thí nghiệm."
+  },
+  {
+    "w": "孜孜以求",
+    "p": "zīzīyǐqiú",
+    "m": "cần mẫn theo đuổi không ngừng",
+    "example": "科学家孜孜以求真理。",
+    "example_vi": "Nhà khoa học cần mẫn theo đuổi chân lý không ngừng."
+  },
+  {
+    "w": "矢志不改",
+    "p": "shǐzhìbùgǎi",
+    "m": "chí hướng không thay đổi",
+    "example": "她矢志不改，坚守岗位三十年。",
+    "example_vi": "Cô ấy chí hướng không thay đổi, gắn bó với vị trí công tác suốt ba mươi năm."
+  },
+  {
+    "w": "媒介批判",
+    "p": "méijiè pīpàn",
+    "m": "phê phán truyền thông",
+    "example": "这门课教授媒介批判的方法。",
+    "example_vi": "Môn học này dạy phương pháp phê phán truyền thông."
+  },
+  {
+    "w": "信息甄别",
+    "p": "xìnxī zhēnbié",
+    "m": "sàng lọc phân biệt thông tin",
+    "example": "网民需要具备信息甄别能力。",
+    "example_vi": "Cư dân mạng cần có khả năng sàng lọc phân biệt thông tin."
+  },
+  {
+    "w": "公共讨论",
+    "p": "gōnggòng tǎolùn",
+    "m": "thảo luận công khai",
+    "example": "这项议题引发了广泛的公共讨论。",
+    "example_vi": "Vấn đề này đã gây ra cuộc thảo luận công khai rộng rãi."
+  },
+  {
+    "w": "理性发声",
+    "p": "lǐxìng fāshēng",
+    "m": "lên tiếng một cách lý trí",
+    "example": "网民应学会理性发声。",
+    "example_vi": "Cư dân mạng nên học cách lên tiếng một cách lý trí."
+  },
+  {
+    "w": "公共空间",
+    "p": "gōnggòng kōngjiān",
+    "m": "không gian công cộng",
+    "example": "城市公共空间的规划十分重要。",
+    "example_vi": "Quy hoạch không gian công cộng của thành phố vô cùng quan trọng."
+  },
+  {
+    "w": "文明进程",
+    "p": "wénmíng jìnchéng",
+    "m": "tiến trình văn minh",
+    "example": "科技推动了人类文明进程。",
+    "example_vi": "Khoa học công nghệ đã thúc đẩy tiến trình văn minh nhân loại."
+  },
+  {
+    "w": "历史进程",
+    "p": "lìshǐ jìnchéng",
+    "m": "tiến trình lịch sử",
+    "example": "这一事件深刻影响了历史进程。",
+    "example_vi": "Sự kiện này đã ảnh hưởng sâu sắc đến tiến trình lịch sử."
+  },
+  {
+    "w": "时代印记",
+    "p": "shídài yìnjì",
+    "m": "dấu ấn thời đại",
+    "example": "这些老照片留下了时代印记。",
+    "example_vi": "Những tấm ảnh cũ này đã lưu lại dấu ấn thời đại."
+  },
+  {
+    "w": "历史沉淀",
+    "p": "lìshǐ chéndiàn",
+    "m": "trầm tích lịch sử",
+    "example": "这座古城有着深厚的历史沉淀。",
+    "example_vi": "Cổ thành này có trầm tích lịch sử sâu dày."
+  },
+  {
+    "w": "东西方文化交融",
+    "p": "dōngxīfāng wénhuà jiāoróng",
+    "m": "sự giao thoa văn hóa Đông Tây",
+    "example": "这座城市体现了东西方文化交融。",
+    "example_vi": "Thành phố này thể hiện sự giao thoa văn hóa Đông Tây."
+  },
+  {
+    "w": "文化误读",
+    "p": "wénhuà wùdú",
+    "m": "hiểu sai văn hóa",
+    "example": "缺乏了解容易导致文化误读。",
+    "example_vi": "Thiếu hiểu biết dễ dẫn đến hiểu sai văn hóa."
+  },
+  {
+    "w": "本土意识",
+    "p": "běntǔ yìshí",
+    "m": "ý thức bản địa",
+    "example": "品牌需要兼顾国际化与本土意识。",
+    "example_vi": "Thương hiệu cần cân bằng giữa quốc tế hóa và ý thức bản địa."
+  },
+  {
+    "w": "文化多样性保护",
+    "p": "wénhuà duōyàngxìng bǎohù",
+    "m": "bảo tồn đa dạng văn hóa",
+    "example": "联合国重视文化多样性保护。",
+    "example_vi": "Liên Hợp Quốc coi trọng việc bảo tồn đa dạng văn hóa."
+  },
+  {
+    "w": "语言消亡",
+    "p": "yǔyán xiāowáng",
+    "m": "sự mai một của ngôn ngữ",
+    "example": "全球化加速了小语种的语言消亡。",
+    "example_vi": "Toàn cầu hóa đã đẩy nhanh sự mai một của các ngôn ngữ thiểu số."
+  },
+  {
+    "w": "方言保护",
+    "p": "fāngyán bǎohù",
+    "m": "bảo tồn phương ngữ",
+    "example": "地方政府开始重视方言保护工作。",
+    "example_vi": "Chính quyền địa phương bắt đầu coi trọng công tác bảo tồn phương ngữ."
+  },
+  {
+    "w": "语言演变",
+    "p": "yǔyán yǎnbiàn",
+    "m": "sự biến đổi của ngôn ngữ",
+    "example": "网络用语反映了语言演变的趋势。",
+    "example_vi": "Từ ngữ mạng phản ánh xu hướng biến đổi của ngôn ngữ."
+  },
+  {
+    "w": "语用规则",
+    "p": "yǔyòng guīzé",
+    "m": "quy tắc ngữ dụng",
+    "example": "学习外语要掌握语用规则。",
+    "example_vi": "Học ngoại ngữ cần nắm vững quy tắc ngữ dụng."
+  },
+  {
+    "w": "语体色彩",
+    "p": "yǔtǐ sècǎi",
+    "m": "sắc thái phong cách ngôn ngữ (văn phong)",
+    "example": "正式场合要注意语体色彩。",
+    "example_vi": "Trong hoàn cảnh trang trọng cần chú ý sắc thái phong cách ngôn ngữ."
+  },
+  {
+    "w": "意在言外",
+    "p": "yìzàiyánwài",
+    "m": "ý nằm ngoài lời nói",
+    "example": "这首诗意在言外，含蓄深沉。",
+    "example_vi": "Bài thơ này ý nằm ngoài lời, hàm súc sâu sắc."
+  },
+  {
+    "w": "话中有话",
+    "p": "huàzhōngyǒuhuà",
+    "m": "lời trong lời (có ẩn ý)",
+    "example": "他说话总是话中有话。",
+    "example_vi": "Anh ấy nói chuyện luôn có lời trong lời."
+  },
+  {
+    "w": "旁敲侧击",
+    "p": "pángqiāocèjī",
+    "m": "vòng vo ám chỉ (nói bóng gió)",
+    "example": "她旁敲侧击地提醒了他。",
+    "example_vi": "Cô ấy nói bóng gió nhắc nhở anh ấy."
+  },
+  {
+    "w": "点到为止",
+    "p": "diǎndàowéizhǐ",
+    "m": "nói qua loa vừa đủ (không nói hết)",
+    "example": "这个话题她点到为止。",
+    "example_vi": "Về chủ đề này cô ấy chỉ nói qua loa vừa đủ."
+  },
+  {
+    "w": "畅所欲言",
+    "p": "chàngsuǒyùyán",
+    "m": "nói thoải mái không giữ ý",
+    "example": "会议鼓励大家畅所欲言。",
+    "example_vi": "Cuộc họp khuyến khích mọi người nói thoải mái không giữ ý."
+  },
+  {
+    "w": "各执一词",
+    "p": "gèzhíyīcí",
+    "m": "mỗi bên giữ một ý kiến riêng",
+    "example": "双方各执一词，难以达成一致。",
+    "example_vi": "Hai bên mỗi bên giữ một ý kiến riêng, khó đạt được thống nhất."
+  },
+  {
+    "w": "不置可否",
+    "p": "bùzhìkěfǒu",
+    "m": "không tỏ thái độ rõ ràng",
+    "example": "面对提议，他不置可否。",
+    "example_vi": "Đối diện với đề xuất, anh ấy không tỏ thái độ rõ ràng."
+  },
+  {
+    "w": "模棱两可",
+    "p": "mólèngliǎngkě",
+    "m": "nước đôi, không rõ ràng",
+    "example": "他的回答模棱两可。",
+    "example_vi": "Câu trả lời của anh ấy nước đôi, không rõ ràng."
+  },
+  {
+    "w": "含糊其辞",
+    "p": "hánhúqící",
+    "m": "nói mập mờ không rõ ràng",
+    "example": "被问及此事，她含糊其辞。",
+    "example_vi": "Khi được hỏi về việc này, cô ấy nói mập mờ không rõ ràng."
+  },
+  {
+    "w": "避重就轻",
+    "p": "bìzhòngjiùqīng",
+    "m": "tránh né vấn đề nặng chỉ nói phần nhẹ",
+    "example": "他在回答中避重就轻。",
+    "example_vi": "Trong câu trả lời anh ấy tránh né vấn đề nặng chỉ nói phần nhẹ."
+  },
+  {
+    "w": "顾左右而言他",
+    "p": "gùzuǒyòu'éryántā",
+    "m": "nói lảng sang chuyện khác",
+    "example": "记者追问时，他顾左右而言他。",
+    "example_vi": "Khi phóng viên truy hỏi, anh ấy nói lảng sang chuyện khác."
+  },
+  {
+    "w": "闪烁其词",
+    "p": "shǎnshuòqící",
+    "m": "ăn nói úp mở, mập mờ",
+    "example": "面对质疑，他闪烁其词。",
+    "example_vi": "Đối diện chất vấn, anh ấy ăn nói úp mở."
+  },
+  {
+    "w": "支支吾吾",
+    "p": "zhīzhīwúwú",
+    "m": "ấp úng không nói rõ",
+    "example": "被质问时他支支吾吾。",
+    "example_vi": "Khi bị chất vấn anh ấy ấp úng không nói rõ."
+  },
+  {
+    "w": "半导体制程",
+    "p": "bàndǎotǐ zhìchéng",
+    "m": "quy trình chế tạo bán dẫn",
+    "example": "这家公司掌握了先进的半导体制程技术。",
+    "example_vi": "Công ty này nắm giữ công nghệ quy trình chế tạo bán dẫn tiên tiến."
+  },
+  {
+    "w": "晶圆",
+    "p": "jīngyuán",
+    "m": "tấm wafer (bán dẫn)",
+    "example": "这条产线专门生产高精度晶圆。",
+    "example_vi": "Dây chuyền này chuyên sản xuất tấm wafer độ chính xác cao."
+  },
+  {
+    "w": "芯片封装",
+    "p": "xīnpiàn fēngzhuāng",
+    "m": "đóng gói chip",
+    "example": "芯片封装工艺直接影响散热效果。",
+    "example_vi": "Công nghệ đóng gói chip ảnh hưởng trực tiếp đến hiệu quả tản nhiệt."
+  },
+  {
+    "w": "神经网络模型",
+    "p": "shénjīng wǎngluò móxíng",
+    "m": "mô hình mạng nơ-ron",
+    "example": "研究团队优化了神经网络模型的结构。",
+    "example_vi": "Nhóm nghiên cứu đã tối ưu hóa cấu trúc mô hình mạng nơ-ron."
+  },
+  {
+    "w": "边缘设备",
+    "p": "biānyuán shèbèi",
+    "m": "thiết bị biên (edge device)",
+    "example": "这些传感器属于边缘设备。",
+    "example_vi": "Những cảm biến này thuộc thiết bị biên."
+  },
+  {
+    "w": "模型泛化能力",
+    "p": "móxíng fànhuà nénglì",
+    "m": "khả năng khái quát hóa của mô hình",
+    "example": "团队正在设法提升模型泛化能力。",
+    "example_vi": "Nhóm nghiên cứu đang tìm cách nâng cao khả năng khái quát hóa của mô hình."
+  },
+  {
+    "w": "计算资源",
+    "p": "jìsuàn zīyuán",
+    "m": "tài nguyên tính toán",
+    "example": "大模型训练需要庞大的计算资源。",
+    "example_vi": "Huấn luyện mô hình lớn cần tài nguyên tính toán khổng lồ."
+  },
+  {
+    "w": "物联网终端",
+    "p": "wùliánwǎng zhōngduān",
+    "m": "thiết bị đầu cuối IoT",
+    "example": "智能家居依赖各类物联网终端。",
+    "example_vi": "Nhà thông minh phụ thuộc vào nhiều loại thiết bị đầu cuối IoT."
+  },
+  {
+    "w": "航天器",
+    "p": "hángtiānqì",
+    "m": "tàu vũ trụ",
+    "example": "这艘航天器成功进入预定轨道。",
+    "example_vi": "Con tàu vũ trụ này đã thành công đi vào quỹ đạo dự định."
+  },
+  {
+    "w": "载人航天",
+    "p": "zàirén hángtiān",
+    "m": "du hành vũ trụ có người lái",
+    "example": "载人航天技术代表国家科技实力。",
+    "example_vi": "Công nghệ du hành vũ trụ có người lái đại diện cho thực lực khoa học công nghệ của quốc gia."
+  },
+  {
+    "w": "深空探测",
+    "p": "shēnkōng tàncè",
+    "m": "thăm dò không gian sâu",
+    "example": "这项任务专注于深空探测。",
+    "example_vi": "Nhiệm vụ này tập trung vào thăm dò không gian sâu."
+  },
+  {
+    "w": "发射窗口",
+    "p": "fāshè chuāngkǒu",
+    "m": "cửa sổ phóng (thời điểm phóng tối ưu)",
+    "example": "火箭错过发射窗口需重新计算。",
+    "example_vi": "Tên lửa bỏ lỡ cửa sổ phóng thì cần tính toán lại."
+  },
+  {
+    "w": "月球探测器",
+    "p": "yuèqiú tàncèqì",
+    "m": "thiết bị thăm dò Mặt Trăng",
+    "example": "这台月球探测器传回了珍贵数据。",
+    "example_vi": "Thiết bị thăm dò Mặt Trăng này đã truyền về dữ liệu quý giá."
+  },
+  {
+    "w": "综合交通枢纽",
+    "p": "zōnghé jiāotōng shūniǔ",
+    "m": "đầu mối giao thông tổng hợp",
+    "example": "这座车站是重要的综合交通枢纽。",
+    "example_vi": "Nhà ga này là đầu mối giao thông tổng hợp quan trọng."
+  },
+  {
+    "w": "城市轨道交通",
+    "p": "chéngshì guǐdào jiāotōng",
+    "m": "giao thông đường sắt đô thị",
+    "example": "城市轨道交通极大缓解了拥堵。",
+    "example_vi": "Giao thông đường sắt đô thị đã giảm bớt đáng kể tình trạng ùn tắc."
+  },
+  {
+    "w": "智慧交通",
+    "p": "zhìhuì jiāotōng",
+    "m": "giao thông thông minh",
+    "example": "智慧交通系统能实时调控信号灯。",
+    "example_vi": "Hệ thống giao thông thông minh có thể điều chỉnh đèn tín hiệu theo thời gian thực."
+  },
+  {
+    "w": "共享出行",
+    "p": "gòngxiǎng chūxíng",
+    "m": "di chuyển chia sẻ (xe đạp/ô tô chung)",
+    "example": "共享出行改变了人们的通勤方式。",
+    "example_vi": "Di chuyển chia sẻ đã thay đổi cách thức đi làm của mọi người."
+  },
+  {
+    "w": "续航里程",
+    "p": "xùháng lǐchéng",
+    "m": "quãng đường di chuyển (khi sạc/nhiên liệu đầy)",
+    "example": "这款电动车的续航里程超过五百公里。",
+    "example_vi": "Quãng đường di chuyển của mẫu xe điện này vượt quá năm trăm km."
+  },
+  {
+    "w": "公路网",
+    "p": "gōnglùwǎng",
+    "m": "mạng lưới đường bộ",
+    "example": "完善的公路网带动了区域经济发展。",
+    "example_vi": "Mạng lưới đường bộ hoàn thiện đã thúc đẩy phát triển kinh tế khu vực."
+  },
+  {
+    "w": "物流枢纽",
+    "p": "wùliú shūniǔ",
+    "m": "đầu mối logistics",
+    "example": "这座港口是亚太地区重要的物流枢纽。",
+    "example_vi": "Cảng này là đầu mối logistics quan trọng của khu vực châu Á Thái Bình Dương."
+  },
+  {
+    "w": "集装箱运输",
+    "p": "jízhuāngxiāng yùnshū",
+    "m": "vận chuyển container",
+    "example": "集装箱运输大幅降低了物流成本。",
+    "example_vi": "Vận chuyển container đã giảm đáng kể chi phí logistics."
+  },
+  {
+    "w": "冷链物流",
+    "p": "lěngliàn wùliú",
+    "m": "logistics chuỗi lạnh",
+    "example": "生鲜电商离不开冷链物流的支持。",
+    "example_vi": "Thương mại điện tử thực phẩm tươi sống không thể thiếu sự hỗ trợ của logistics chuỗi lạnh."
+  },
+  {
+    "w": "班次调度",
+    "p": "bāncì diàodù",
+    "m": "điều độ chuyến (lịch trình)",
+    "example": "公交公司优化了班次调度方案。",
+    "example_vi": "Công ty xe buýt đã tối ưu hóa phương án điều độ chuyến."
+  },
+  {
+    "w": "客流高峰",
+    "p": "kèliú gāofēng",
+    "m": "cao điểm lưu lượng khách",
+    "example": "节假日客流高峰给交通带来压力。",
+    "example_vi": "Cao điểm lưu lượng khách trong dịp lễ gây áp lực cho giao thông."
+  },
+  {
+    "w": "延误赔偿",
+    "p": "yánwù péicháng",
+    "m": "bồi thường do trễ chuyến",
+    "example": "航班延误后乘客可申请延误赔偿。",
+    "example_vi": "Sau khi chuyến bay trễ, hành khách có thể xin bồi thường do trễ chuyến."
+  },
+  {
+    "w": "教育督学",
+    "p": "jiàoyù dūxué",
+    "m": "thanh tra giáo dục",
+    "example": "教育督学定期到校检查教学质量。",
+    "example_vi": "Thanh tra giáo dục định kỳ đến trường kiểm tra chất lượng giảng dạy."
+  },
+  {
+    "w": "校本课程",
+    "p": "xiàoběn kèchéng",
+    "m": "chương trình học đặc thù riêng của trường",
+    "example": "这所学校开发了独具特色的校本课程。",
+    "example_vi": "Trường này đã xây dựng chương trình học đặc thù riêng độc đáo."
+  },
+  {
+    "w": "走班制",
+    "p": "zǒubānzhì",
+    "m": "chế độ học theo lớp di động (chọn môn)",
+    "example": "高中实行选课走班制。",
+    "example_vi": "Trường trung học phổ thông áp dụng chế độ học theo lớp di động theo môn tự chọn."
+  },
+  {
+    "w": "综合素质评价",
+    "p": "zōnghé sùzhì píngjià",
+    "m": "đánh giá tố chất tổng hợp",
+    "example": "高考改革增加了综合素质评价。",
+    "example_vi": "Cải cách thi đại học đã bổ sung đánh giá tố chất tổng hợp."
+  },
+  {
+    "w": "研学旅行",
+    "p": "yánxué lǚxíng",
+    "m": "du lịch học tập (trải nghiệm ngoại khóa)",
+    "example": "学校组织学生参加研学旅行。",
+    "example_vi": "Nhà trường tổ chức cho học sinh tham gia du lịch học tập."
+  },
+  {
+    "w": "劳动教育",
+    "p": "láodòng jiàoyù",
+    "m": "giáo dục lao động",
+    "example": "新课程标准强调劳动教育。",
+    "example_vi": "Chương trình chuẩn mới nhấn mạnh giáo dục lao động."
+  },
+  {
+    "w": "职业教育体系",
+    "p": "zhíyè jiàoyù tǐxì",
+    "m": "hệ thống giáo dục nghề nghiệp",
+    "example": "完善职业教育体系有助于培养技能人才。",
+    "example_vi": "Hoàn thiện hệ thống giáo dục nghề nghiệp giúp đào tạo nhân tài kỹ năng."
+  },
+  {
+    "w": "产教融合",
+    "p": "chǎnjiào rónghé",
+    "m": "hòa nhập sản xuất và giáo dục",
+    "example": "学校与企业开展产教融合合作。",
+    "example_vi": "Nhà trường hợp tác với doanh nghiệp triển khai hòa nhập sản xuất và giáo dục."
+  },
+  {
+    "w": "实训基地",
+    "p": "shíxùn jīdì",
+    "m": "cơ sở thực hành",
+    "example": "学院建立了多个校外实训基地。",
+    "example_vi": "Trường đã thiết lập nhiều cơ sở thực hành bên ngoài trường."
+  },
+  {
+    "w": "考评标准",
+    "p": "kǎopíng biāozhǔn",
+    "m": "tiêu chuẩn khảo hạch đánh giá",
+    "example": "新的考评标准更加注重实践能力。",
+    "example_vi": "Tiêu chuẩn khảo hạch đánh giá mới chú trọng hơn đến năng lực thực hành."
+  },
+  {
+    "w": "洪涝灾害",
+    "p": "hónglào zāihài",
+    "m": "thiên tai lũ lụt úng ngập",
+    "example": "暴雨引发了严重的洪涝灾害。",
+    "example_vi": "Mưa lớn đã gây ra thiên tai lũ lụt úng ngập nghiêm trọng."
+  },
+  {
+    "w": "干旱少雨",
+    "p": "gānhàn shǎoyǔ",
+    "m": "khô hạn ít mưa",
+    "example": "这个地区常年干旱少雨。",
+    "example_vi": "Khu vực này quanh năm khô hạn ít mưa."
+  },
+  {
+    "w": "救灾物资",
+    "p": "jiùzāi wùzī",
+    "m": "vật tư cứu trợ thiên tai",
+    "example": "救灾物资正陆续运往灾区。",
+    "example_vi": "Vật tư cứu trợ thiên tai đang được vận chuyển liên tục đến vùng thiên tai."
+  },
+  {
+    "w": "灾后重建",
+    "p": "zāihòu chóngjiàn",
+    "m": "tái thiết sau thiên tai",
+    "example": "当地政府正加紧灾后重建工作。",
+    "example_vi": "Chính quyền địa phương đang gấp rút thực hiện công tác tái thiết sau thiên tai."
+  },
+  {
+    "w": "防汛抗旱",
+    "p": "fángxùn kànghàn",
+    "m": "phòng lũ chống hạn",
+    "example": "各地积极开展防汛抗旱工作。",
+    "example_vi": "Các địa phương tích cực triển khai công tác phòng lũ chống hạn."
+  },
+  {
+    "w": "地质灾害",
+    "p": "dìzhì zāihài",
+    "m": "thiên tai địa chất (sạt lở, sụt lún)",
+    "example": "暴雨过后要警惕地质灾害。",
+    "example_vi": "Sau mưa lớn cần cảnh giác với thiên tai địa chất."
+  },
+  {
+    "w": "应急预案",
+    "p": "yìngjí yù'àn",
+    "m": "phương án ứng phó khẩn cấp",
+    "example": "学校制定了详细的应急预案。",
+    "example_vi": "Nhà trường đã lập phương án ứng phó khẩn cấp chi tiết."
+  },
+  {
+    "w": "投保理赔",
+    "p": "tóubǎo lǐpéi",
+    "m": "mua bảo hiểm và bồi thường",
+    "example": "发生事故后她及时办理了投保理赔手续。",
+    "example_vi": "Sau khi xảy ra sự cố cô ấy đã kịp thời làm thủ tục bồi thường bảo hiểm."
+  },
+  {
+    "w": "保费",
+    "p": "bǎofèi",
+    "m": "phí bảo hiểm",
+    "example": "这份保险的年保费并不高。",
+    "example_vi": "Phí bảo hiểm hàng năm của gói này không cao."
+  },
+  {
+    "w": "免赔额",
+    "p": "miǎnpéi'é",
+    "m": "mức miễn thường (bảo hiểm)",
+    "example": "这份保单设有一定的免赔额。",
+    "example_vi": "Hợp đồng bảo hiểm này có mức miễn thường nhất định."
+  },
+  {
+    "w": "承保范围",
+    "p": "chéngbǎo fànwéi",
+    "m": "phạm vi bảo hiểm",
+    "example": "购买前要了解清楚承保范围。",
+    "example_vi": "Trước khi mua cần hiểu rõ phạm vi bảo hiểm."
+  },
+  {
+    "w": "理财规划",
+    "p": "lǐcái guīhuà",
+    "m": "kế hoạch quản lý tài chính",
+    "example": "她请专业顾问做理财规划。",
+    "example_vi": "Cô ấy nhờ chuyên gia tư vấn lập kế hoạch quản lý tài chính."
+  },
+  {
+    "w": "退休金",
+    "p": "tuìxiūjīn",
+    "m": "lương hưu",
+    "example": "他每月领取固定退休金。",
+    "example_vi": "Mỗi tháng ông nhận lương hưu cố định."
+  },
+  {
+    "w": "养老账户",
+    "p": "yǎnglǎo zhànghù",
+    "m": "tài khoản hưu trí",
+    "example": "公司为员工开设了养老账户。",
+    "example_vi": "Công ty đã mở tài khoản hưu trí cho nhân viên."
+  },
+  {
+    "w": "信用记录",
+    "p": "xìnyòng jìlù",
+    "m": "lịch sử tín dụng",
+    "example": "良好的信用记录有助于贷款审批。",
+    "example_vi": "Lịch sử tín dụng tốt giúp ích cho việc xét duyệt vay vốn."
+  },
+  {
+    "w": "逾期未还",
+    "p": "yúqī wèihuán",
+    "m": "quá hạn chưa trả",
+    "example": "逾期未还会影响个人信用。",
+    "example_vi": "Quá hạn chưa trả sẽ ảnh hưởng đến tín dụng cá nhân."
+  },
+  {
+    "w": "分期偿还",
+    "p": "fēnqī chánghuán",
+    "m": "trả góp dần",
+    "example": "她选择分期偿还这笔贷款。",
+    "example_vi": "Cô ấy chọn trả góp dần khoản vay này."
+  },
+  {
+    "w": "货比三家",
+    "p": "huòbǐsānjiā",
+    "m": "so sánh giá cả nhiều nơi trước khi mua",
+    "example": "买大件商品要货比三家。",
+    "example_vi": "Mua đồ giá trị lớn nên so sánh giá cả nhiều nơi."
+  },
+  {
+    "w": "以次充好",
+    "p": "yǐcìchōnghǎo",
+    "m": "lấy hàng kém giả hàng tốt",
+    "example": "这家商户因以次充好被处罚。",
+    "example_vi": "Cửa hàng này bị xử phạt vì lấy hàng kém chất lượng giả làm hàng tốt."
+  },
+  {
+    "w": "以假乱真",
+    "p": "yǐjiǎluànzhēn",
+    "m": "lấy giả loạn thật",
+    "example": "这些仿制品几乎以假乱真。",
+    "example_vi": "Những sản phẩm nhái này gần như lấy giả loạn thật."
+  },
+  {
+    "w": "货真价实",
+    "p": "huòzhēnjiàshí",
+    "m": "hàng thật giá thật",
+    "example": "这家老店以货真价实著称。",
+    "example_vi": "Cửa hàng lâu đời này nổi tiếng với hàng thật giá thật."
+  },
+  {
+    "w": "童叟无欺",
+    "p": "tóngsǒuwúqī",
+    "m": "không lừa gạt bất kỳ ai (trẻ già đều công bằng)",
+    "example": "这家商铺秉持童叟无欺的经营原则。",
+    "example_vi": "Cửa hàng này giữ nguyên tắc kinh doanh không lừa gạt bất kỳ ai."
+  },
+  {
+    "w": "明码标价",
+    "p": "míngmǎbiāojià",
+    "m": "niêm yết giá rõ ràng công khai",
+    "example": "景区商店应明码标价。",
+    "example_vi": "Cửa hàng ở khu du lịch nên niêm yết giá rõ ràng công khai."
+  },
+  {
+    "w": "漫天要价",
+    "p": "màntiānyàojià",
+    "m": "hét giá trên trời",
+    "example": "游客反映有商贩漫天要价。",
+    "example_vi": "Du khách phản ánh có tiểu thương hét giá trên trời."
+  },
+  {
+    "w": "物超所值",
+    "p": "wùchāosuǒzhí",
+    "m": "đáng đồng tiền bát gạo (vượt giá trị)",
+    "example": "这套设备物超所值。",
+    "example_vi": "Bộ thiết bị này đáng đồng tiền bát gạo."
+  },
+  {
+    "w": "抢购一空",
+    "p": "qiǎnggòuyīkōng",
+    "m": "tranh nhau mua hết sạch",
+    "example": "限量版商品被抢购一空。",
+    "example_vi": "Hàng giới hạn số lượng đã bị tranh nhau mua hết sạch."
+  },
+  {
+    "w": "门可罗雀",
+    "p": "ménkěluóquè",
+    "m": "cửa vắng như chùa Bà Đanh",
+    "example": "疫情期间这家店门可罗雀。",
+    "example_vi": "Trong đại dịch cửa hàng này vắng khách như chùa Bà Đanh."
+  },
+  {
+    "w": "门庭若市",
+    "p": "méntíngruòshì",
+    "m": "đông khách như hội chợ",
+    "example": "新店开业当天门庭若市。",
+    "example_vi": "Ngày khai trương cửa hàng mới đông khách như hội chợ."
+  },
+  {
+    "w": "生意兴隆",
+    "p": "shēngyìxīnglóng",
+    "m": "buôn bán phát đạt",
+    "example": "祝您新店生意兴隆。",
+    "example_vi": "Chúc cửa hàng mới của bạn buôn bán phát đạt."
+  },
+  {
+    "w": "人声鼎沸",
+    "p": "rénshēngdǐngfèi",
+    "m": "tiếng người ồn ào náo nhiệt",
+    "example": "节日市场人声鼎沸。",
+    "example_vi": "Chợ ngày lễ tiếng người ồn ào náo nhiệt."
+  },
+  {
+    "w": "人满为患",
+    "p": "rénmǎnwéihuàn",
+    "m": "quá tải người, đông nghẹt",
+    "example": "节假日景区人满为患。",
+    "example_vi": "Khu du lịch những ngày lễ quá tải người."
+  },
+  {
+    "w": "座无虚席",
+    "p": "zuòwúxūxí",
+    "m": "không còn chỗ trống, đầy ắp",
+    "example": "这场演出座无虚席。",
+    "example_vi": "Buổi biểu diễn này không còn chỗ trống."
+  },
+  {
+    "w": "万人空巷",
+    "p": "wànrénkōngxiàng",
+    "m": "muôn người đổ ra đường (sự kiện thu hút đông người)",
+    "example": "庆典当天万人空巷。",
+    "example_vi": "Ngày lễ hội mọi người đổ ra đường đông nghịt."
+  },
+  {
+    "w": "高朋满座",
+    "p": "gāopéngmǎnzuò",
+    "m": "khách quý đầy nhà",
+    "example": "寿宴当天高朋满座。",
+    "example_vi": "Ngày tiệc mừng thọ khách quý đầy nhà."
+  },
+  {
+    "w": "宾至如归",
+    "p": "bīnzhìrúguī",
+    "m": "khách đến như về nhà (phục vụ chu đáo)",
+    "example": "这家酒店服务让人宾至如归。",
+    "example_vi": "Dịch vụ của khách sạn này khiến khách cảm thấy như về nhà."
+  },
+  {
+    "w": "接踵而至",
+    "p": "jiēzhǒng'érzhì",
+    "m": "nối tiếp nhau đến",
+    "example": "好消息接踵而至。",
+    "example_vi": "Tin vui nối tiếp nhau đến."
+  },
+  {
+    "w": "纷至沓来",
+    "p": "fēnzhìtàlái",
+    "m": "lũ lượt kéo đến",
+    "example": "游客纷至沓来，景区一片热闹。",
+    "example_vi": "Du khách lũ lượt kéo đến, khu du lịch náo nhiệt khắp nơi."
+  },
+  {
+    "w": "棋逢对手",
+    "p": "qíféngduìshǒu",
+    "m": "gặp đối thủ ngang tài (cờ gặp địch thủ)",
+    "example": "这场比赛棋逢对手，十分精彩。",
+    "example_vi": "Trận đấu này gặp đối thủ ngang tài, vô cùng tinh tế hấp dẫn."
+  },
+  {
+    "w": "棋高一着",
+    "p": "qígāoyīzhāo",
+    "m": "cao tay hơn một bậc",
+    "example": "最终他棋高一着，赢得比赛。",
+    "example_vi": "Cuối cùng anh ấy cao tay hơn một bậc, giành chiến thắng."
+  },
+  {
+    "w": "技高一筹",
+    "p": "jìgāoyīchóu",
+    "m": "kỹ thuật cao hơn một bậc",
+    "example": "论技术，她比对手技高一筹。",
+    "example_vi": "Về kỹ thuật, cô ấy cao hơn đối thủ một bậc."
+  },
+  {
+    "w": "技压群雄",
+    "p": "jìyāqúnxióng",
+    "m": "tài nghệ vượt trội hơn tất cả",
+    "example": "这位选手技压群雄，夺得冠军。",
+    "example_vi": "Vận động viên này tài nghệ vượt trội hơn tất cả, giành chức vô địch."
+  },
+  {
+    "w": "棋逢敌手",
+    "p": "qíféngdíshǒu",
+    "m": "cờ gặp địch thủ (đối thủ ngang tài)",
+    "example": "两队实力相当，棋逢敌手。",
+    "example_vi": "Thực lực hai đội tương đương, gặp đối thủ ngang tài."
+  },
+  {
+    "w": "以卵击石",
+    "p": "yǐluǎnjīshí",
+    "m": "lấy trứng chọi đá",
+    "example": "这样对抗无异于以卵击石。",
+    "example_vi": "Đối đầu như vậy chẳng khác nào lấy trứng chọi đá."
+  },
+  {
+    "w": "螳臂挡车",
+    "p": "tángbìdǎngchē",
+    "m": "bọ ngựa cản xe (tự lượng sức mình quá kém)",
+    "example": "个人力量对抗大势，犹如螳臂挡车。",
+    "example_vi": "Sức lực cá nhân chống lại xu thế lớn chẳng khác gì bọ ngựa cản xe."
+  },
+  {
+    "w": "班门弄斧",
+    "p": "bānménnòngfǔ",
+    "m": "múa rìu qua mắt thợ",
+    "example": "在专家面前发言，他自觉是班门弄斧。",
+    "example_vi": "Phát biểu trước chuyên gia, anh tự thấy mình như múa rìu qua mắt thợ."
+  },
+  {
+    "w": "东施效颦",
+    "p": "dōngshīxiàopín",
+    "m": "Đông Thi bắt chước Tây Thi (bắt chước vụng về)",
+    "example": "盲目模仿只会东施效颦。",
+    "example_vi": "Bắt chước một cách mù quáng chỉ khiến trở nên vụng về đáng cười."
+  },
+  {
+    "w": "邯郸学步",
+    "p": "hándānxuébù",
+    "m": "học đi kiểu Hàm Đan (bắt chước mất cả cái vốn có)",
+    "example": "一味模仿别人，最后邯郸学步。",
+    "example_vi": "Chỉ biết bắt chước người khác, cuối cùng đánh mất cả bản thân."
+  },
+  {
+    "w": "生搬硬套",
+    "p": "shēngbānyìngtào",
+    "m": "máy móc rập khuôn không linh hoạt",
+    "example": "不能生搬硬套别人的经验。",
+    "example_vi": "Không thể máy móc rập khuôn kinh nghiệm của người khác."
+  },
+  {
+    "w": "照猫画虎",
+    "p": "zhàomāohuàhǔ",
+    "m": "vẽ hổ theo mèo (bắt chước qua loa)",
+    "example": "这份方案只是照猫画虎，缺乏创意。",
+    "example_vi": "Phương án này chỉ là bắt chước qua loa, thiếu tính sáng tạo."
+  },
+  {
+    "w": "依葫芦画瓢",
+    "p": "yīhúluhuàpiáo",
+    "m": "vẽ theo hình mẫu có sẵn (bắt chước máy móc)",
+    "example": "他做事总喜欢依葫芦画瓢。",
+    "example_vi": "Anh ấy làm việc luôn thích bắt chước theo khuôn mẫu có sẵn."
+  },
+  {
+    "w": "熟视无睹",
+    "p": "shúshìwúdǔ",
+    "m": "nhìn quen mà như không thấy (thờ ơ với điều đã quen)",
+    "example": "对身边的问题不能熟视无睹。",
+    "example_vi": "Không thể thờ ơ trước những vấn đề xung quanh."
+  },
+  {
+    "w": "视而不见",
+    "p": "shì'érbùjiàn",
+    "m": "nhìn mà như không thấy",
+    "example": "他对不公现象视而不见。",
+    "example_vi": "Anh ta thờ ơ trước những hiện tượng bất công."
+  },
+  {
+    "w": "充耳不闻",
+    "p": "chōng'ěrbùwén",
+    "m": "bịt tai không nghe",
+    "example": "面对劝告他充耳不闻。",
+    "example_vi": "Đối diện với lời khuyên anh ta bịt tai không nghe."
+  },
+  {
+    "w": "漠不关心",
+    "p": "mòbùguānxīn",
+    "m": "thờ ơ không quan tâm",
+    "example": "他对周围的一切漠不关心。",
+    "example_vi": "Anh ấy thờ ơ không quan tâm đến mọi thứ xung quanh."
+  },
+  {
+    "w": "恩怨分明",
+    "p": "ēnyuànfēnmíng",
+    "m": "ân oán rạch ròi",
+    "example": "他为人恩怨分明。",
+    "example_vi": "Anh ấy đối nhân xử thế ân oán rạch ròi."
+  },
+  {
+    "w": "知遇之恩",
+    "p": "zhīyùzhī'ēn",
+    "m": "ơn tri ngộ (được người khác trọng dụng)",
+    "example": "他始终感激老板的知遇之恩。",
+    "example_vi": "Anh luôn biết ơn ơn tri ngộ của ông chủ."
+  },
+  {
+    "w": "提携后辈",
+    "p": "tíxié hòubèi",
+    "m": "dìu dắt thế hệ đàn em",
+    "example": "这位前辈乐于提携后辈。",
+    "example_vi": "Vị tiền bối này sẵn lòng dìu dắt thế hệ đàn em."
+  },
+  {
+    "w": "薪尽火传",
+    "p": "xīnjìnhuǒchuán",
+    "m": "củi hết nhưng lửa vẫn truyền (tinh thần được kế thừa mãi)",
+    "example": "师者精神薪尽火传，代代不息。",
+    "example_vi": "Tinh thần người thầy được truyền mãi qua các thế hệ, không dứt."
+  },
+  {
+    "w": "血脉相连",
+    "p": "xuèmàixiānglián",
+    "m": "huyết mạch liên kết (quan hệ máu mủ)",
+    "example": "两地人民血脉相连，情谊深厚。",
+    "example_vi": "Nhân dân hai vùng huyết mạch liên kết, tình nghĩa sâu đậm."
+  },
+  {
+    "w": "同宗同源",
+    "p": "tóngzōngtóngyuán",
+    "m": "cùng tổ tông cùng nguồn gốc",
+    "example": "两个村庄的居民同宗同源。",
+    "example_vi": "Cư dân hai ngôi làng cùng tổ tông cùng nguồn gốc."
+  },
+  {
+    "w": "根深叶茂",
+    "p": "gēnshēnyèmào",
+    "m": "rễ sâu lá tốt (nền tảng vững chắc phát triển tốt)",
+    "example": "这个企业根深叶茂，历久弥新。",
+    "example_vi": "Doanh nghiệp này nền tảng vững chắc, phát triển lâu bền càng thêm mới mẻ."
+  },
+  {
+    "w": "枝繁叶茂",
+    "p": "zhīfányèmào",
+    "m": "cành lá sum sê (phát triển thịnh vượng)",
+    "example": "这棵百年老树枝繁叶茂。",
+    "example_vi": "Cây cổ thụ trăm năm này cành lá sum sê."
+  },
+  {
+    "w": "落地生根",
+    "p": "luòdìshēnggēn",
+    "m": "rơi đất mọc rễ (bén rễ lâu dài ở nơi mới)",
+    "example": "这家企业已在当地落地生根。",
+    "example_vi": "Doanh nghiệp này đã bén rễ lâu dài tại địa phương."
+  },
+  {
+    "w": "开花结果",
+    "p": "kāihuājiéguǒ",
+    "m": "nở hoa kết trái (mang lại kết quả tốt)",
+    "example": "多年的努力终于开花结果。",
+    "example_vi": "Nỗ lực nhiều năm cuối cùng đã nở hoa kết trái."
+  },
+  {
+    "w": "不出所料",
+    "p": "bùchūsuǒliào",
+    "m": "không nằm ngoài dự đoán",
+    "example": "结果不出所料。",
+    "example_vi": "Kết quả không nằm ngoài dự đoán."
+  },
+  {
+    "w": "不出意外",
+    "p": "bùchūyìwài",
+    "m": "không có gì bất ngờ",
+    "example": "不出意外的话，项目下月完工。",
+    "example_vi": "Nếu không có gì bất ngờ, dự án sẽ hoàn thành vào tháng sau."
+  },
+  {
+    "w": "始料未及",
+    "p": "shǐliàowèijí",
+    "m": "không lường trước được",
+    "example": "事情的发展是他始料未及的。",
+    "example_vi": "Diễn biến sự việc là điều anh không lường trước được."
+  },
+  {
+    "w": "措手不及",
+    "p": "cuòshǒubùjí",
+    "m": "trở tay không kịp",
+    "example": "突发状况让团队措手不及。",
+    "example_vi": "Tình huống bất ngờ khiến nhóm trở tay không kịp."
+  },
+  {
+    "w": "猝不及防",
+    "p": "cùbùjífáng",
+    "m": "bất ngờ không kịp phòng bị",
+    "example": "这场变故让人猝不及防。",
+    "example_vi": "Biến cố này khiến người ta bất ngờ không kịp phòng bị."
+  },
+  {
+    "w": "防不胜防",
+    "p": "fángbùshèngfáng",
+    "m": "phòng không xuể",
+    "example": "网络诈骗手段层出不穷，让人防不胜防。",
+    "example_vi": "Thủ đoạn lừa đảo trên mạng liên tục xuất hiện, khiến người ta phòng không xuể."
+  },
+  {
+    "w": "打草惊蛇",
+    "p": "dǎcǎojīngshé",
+    "m": "đập cỏ động rắn (hành động vô ý làm lộ chuyện)",
+    "example": "调查时要小心，避免打草惊蛇。",
+    "example_vi": "Khi điều tra cần thận trọng, tránh đập cỏ động rắn."
+  },
+  {
+    "w": "欲盖弥彰",
+    "p": "yùgàimízhāng",
+    "m": "càng che giấu càng lộ rõ",
+    "example": "他的辩解反而欲盖弥彰。",
+    "example_vi": "Lời biện hộ của anh ta trái lại càng che giấu càng lộ rõ."
+  },
+  {
+    "w": "不打自招",
+    "p": "bùdǎzìzhāo",
+    "m": "chưa đánh đã tự khai (tự lộ tẩy)",
+    "example": "他一紧张就不打自招。",
+    "example_vi": "Anh ta hễ căng thẳng là tự lộ tẩy."
+  },
+  {
+    "w": "露出马脚",
+    "p": "lùchūmǎjiǎo",
+    "m": "lộ ra sơ hở, lộ chân tướng",
+    "example": "他很快就露出马脚。",
+    "example_vi": "Anh ta rất nhanh đã lộ ra sơ hở."
+  },
+  {
+    "w": "原形毕露",
+    "p": "yuánxíngbìlù",
+    "m": "lộ nguyên hình",
+    "example": "骗子最终原形毕露。",
+    "example_vi": "Kẻ lừa đảo cuối cùng đã lộ nguyên hình."
+  },
+  {
+    "w": "真相大白",
+    "p": "zhēnxiàngdàbái",
+    "m": "sự thật sáng tỏ",
+    "example": "经过调查，真相大白。",
+    "example_vi": "Sau khi điều tra, sự thật đã sáng tỏ."
+  },
+  {
+    "w": "水落石出",
+    "p": "shuǐluòshíchū",
+    "m": "nước rút đá lộ (sự thật sáng tỏ)",
+    "example": "案件终于水落石出。",
+    "example_vi": "Vụ án cuối cùng đã sáng tỏ."
+  },
+  {
+    "w": "真伪难辨",
+    "p": "zhēnwěinánbiàn",
+    "m": "khó phân biệt thật giả",
+    "example": "网络信息真伪难辨。",
+    "example_vi": "Thông tin trên mạng khó phân biệt thật giả."
+  }
+]
