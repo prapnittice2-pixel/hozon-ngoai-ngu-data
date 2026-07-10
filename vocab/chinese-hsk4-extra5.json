@@ -1,0 +1,506 @@
+[
+  {
+    "w": "空姐",
+    "p": "kōngjiě",
+    "m": "tiếp viên hàng không (nữ)",
+    "example": "那位空姐服务态度很好。",
+    "example_vi": "Cô tiếp viên hàng không đó phục vụ rất tốt."
+  },
+  {
+    "w": "出纳",
+    "p": "chūnà",
+    "m": "thủ quỹ, nhân viên xuất nạp tiền",
+    "example": "她在银行做出纳工作。",
+    "example_vi": "Cô ấy làm công việc thủ quỹ tại ngân hàng."
+  },
+  {
+    "w": "美容师",
+    "p": "měiróngshī",
+    "m": "chuyên viên làm đẹp",
+    "example": "美容师帮她做了皮肤护理。",
+    "example_vi": "Chuyên viên làm đẹp đã chăm sóc da cho cô ấy."
+  },
+  {
+    "w": "按摩师",
+    "p": "ànmóshī",
+    "m": "kỹ thuật viên mát-xa",
+    "example": "按摩师的手法很专业。",
+    "example_vi": "Tay nghề của kỹ thuật viên mát-xa rất chuyên nghiệp."
+  },
+  {
+    "w": "水管工",
+    "p": "shuǐguǎngōng",
+    "m": "thợ sửa ống nước",
+    "example": "家里水管坏了，我叫了水管工。",
+    "example_vi": "Ống nước trong nhà bị hỏng, tôi đã gọi thợ sửa ống nước."
+  },
+  {
+    "w": "乘务员",
+    "p": "chéngwùyuán",
+    "m": "nhân viên phục vụ (tàu, xe, máy bay)",
+    "example": "火车上的乘务员很热情。",
+    "example_vi": "Nhân viên phục vụ trên tàu hỏa rất nhiệt tình."
+  },
+  {
+    "w": "兽医",
+    "p": "shòuyī",
+    "m": "bác sĩ thú y",
+    "example": "小狗生病了，我们带它去看兽医。",
+    "example_vi": "Con chó bị ốm, chúng tôi đưa nó đi khám bác sĩ thú y."
+  },
+  {
+    "w": "面试官",
+    "p": "miànshìguān",
+    "m": "người phỏng vấn",
+    "example": "面试官问了我很多问题。",
+    "example_vi": "Người phỏng vấn đã hỏi tôi rất nhiều câu hỏi."
+  },
+  {
+    "w": "加薪",
+    "p": "jiāxīn",
+    "m": "tăng lương",
+    "example": "因为工作出色，老板给我加薪了。",
+    "example_vi": "Vì làm việc xuất sắc nên ông chủ đã tăng lương cho tôi."
+  },
+  {
+    "w": "进度",
+    "p": "jìndù",
+    "m": "tiến độ",
+    "example": "请你汇报一下项目的进度。",
+    "example_vi": "Hãy báo cáo tiến độ dự án cho tôi."
+  },
+  {
+    "w": "社保",
+    "p": "shèbǎo",
+    "m": "bảo hiểm xã hội",
+    "example": "公司每月都给员工交社保。",
+    "example_vi": "Công ty đóng bảo hiểm xã hội cho nhân viên hàng tháng."
+  },
+  {
+    "w": "公积金",
+    "p": "gōngjījīn",
+    "m": "quỹ tích lũy nhà ở",
+    "example": "他用公积金贷款买了房子。",
+    "example_vi": "Anh ấy dùng quỹ tích lũy nhà ở để vay mua nhà."
+  },
+  {
+    "w": "自我介绍",
+    "p": "zìwǒ jièshào",
+    "m": "tự giới thiệu bản thân",
+    "example": "面试的时候先做一个自我介绍。",
+    "example_vi": "Khi phỏng vấn hãy tự giới thiệu bản thân trước."
+  },
+  {
+    "w": "笔试",
+    "p": "bǐshì",
+    "m": "thi viết",
+    "example": "明天上午是笔试，下午是面试。",
+    "example_vi": "Sáng mai là thi viết, chiều là phỏng vấn."
+  },
+  {
+    "w": "转正",
+    "p": "zhuǎnzhèng",
+    "m": "chuyển thành nhân viên chính thức",
+    "example": "试用期结束后他顺利转正了。",
+    "example_vi": "Sau khi kết thúc thời gian thử việc, anh ấy đã trở thành nhân viên chính thức."
+  },
+  {
+    "w": "中介",
+    "p": "zhōngjiè",
+    "m": "môi giới, trung gian",
+    "example": "我们通过中介租到了这套房子。",
+    "example_vi": "Chúng tôi thuê được căn nhà này thông qua môi giới."
+  },
+  {
+    "w": "房产",
+    "p": "fángchǎn",
+    "m": "bất động sản, nhà đất",
+    "example": "他在这个城市买了一套房产。",
+    "example_vi": "Anh ấy đã mua một căn bất động sản ở thành phố này."
+  },
+  {
+    "w": "余额",
+    "p": "yúé",
+    "m": "số dư",
+    "example": "请查一下我的账户余额。",
+    "example_vi": "Hãy kiểm tra giúp tôi số dư tài khoản."
+  },
+  {
+    "w": "提现",
+    "p": "tíxiàn",
+    "m": "rút tiền mặt",
+    "example": "我在手机上申请提现。",
+    "example_vi": "Tôi đăng ký rút tiền mặt trên điện thoại."
+  },
+  {
+    "w": "充值",
+    "p": "chōngzhí",
+    "m": "nạp tiền",
+    "example": "我给手机号充值了一百块钱。",
+    "example_vi": "Tôi đã nạp một trăm tệ vào số điện thoại."
+  },
+  {
+    "w": "话费",
+    "p": "huàfèi",
+    "m": "cước điện thoại",
+    "example": "这个月的话费比上个月多。",
+    "example_vi": "Cước điện thoại tháng này nhiều hơn tháng trước."
+  },
+  {
+    "w": "取暖费",
+    "p": "qǔnuǎnfèi",
+    "m": "phí sưởi ấm",
+    "example": "冬天要交取暖费。",
+    "example_vi": "Mùa đông phải đóng phí sưởi ấm."
+  },
+  {
+    "w": "拔罐",
+    "p": "báguàn",
+    "m": "giác hơi",
+    "example": "他腰疼，去做了拔罐。",
+    "example_vi": "Anh ấy bị đau lưng nên đã đi giác hơi."
+  },
+  {
+    "w": "中药",
+    "p": "zhōngyào",
+    "m": "thuốc đông y",
+    "example": "奶奶每天都要喝中药。",
+    "example_vi": "Bà nội mỗi ngày đều phải uống thuốc đông y."
+  },
+  {
+    "w": "西药",
+    "p": "xīyào",
+    "m": "thuốc tây y",
+    "example": "医生给他开了一些西药。",
+    "example_vi": "Bác sĩ kê cho anh ấy một ít thuốc tây."
+  },
+  {
+    "w": "药片",
+    "p": "yàopiàn",
+    "m": "viên thuốc (dạng nén)",
+    "example": "这种药片要饭后吃。",
+    "example_vi": "Loại viên thuốc này phải uống sau bữa ăn."
+  },
+  {
+    "w": "胶囊",
+    "p": "jiāonáng",
+    "m": "viên nang thuốc",
+    "example": "这个胶囊很难吞下去。",
+    "example_vi": "Viên nang này rất khó nuốt."
+  },
+  {
+    "w": "感冒药",
+    "p": "gǎnmàoyào",
+    "m": "thuốc cảm",
+    "example": "我感冒了，需要吃感冒药。",
+    "example_vi": "Tôi bị cảm rồi, cần phải uống thuốc cảm."
+  },
+  {
+    "w": "止痛药",
+    "p": "zhǐtòngyào",
+    "m": "thuốc giảm đau",
+    "example": "头疼的时候可以吃止痛药。",
+    "example_vi": "Khi bị đau đầu có thể uống thuốc giảm đau."
+  },
+  {
+    "w": "退烧药",
+    "p": "tuìshāoyào",
+    "m": "thuốc hạ sốt",
+    "example": "孩子发烧了，先给他吃退烧药。",
+    "example_vi": "Đứa trẻ bị sốt rồi, trước tiên hãy cho nó uống thuốc hạ sốt."
+  },
+  {
+    "w": "消炎药",
+    "p": "xiāoyányào",
+    "m": "thuốc kháng viêm",
+    "example": "伤口感染了，医生开了消炎药。",
+    "example_vi": "Vết thương bị nhiễm trùng, bác sĩ đã kê thuốc kháng viêm."
+  },
+  {
+    "w": "救护车",
+    "p": "jiùhùchē",
+    "m": "xe cứu thương",
+    "example": "有人受伤了，快叫救护车！",
+    "example_vi": "Có người bị thương rồi, mau gọi xe cứu thương!"
+  },
+  {
+    "w": "中暑",
+    "p": "zhòngshǔ",
+    "m": "say nắng",
+    "example": "夏天在外面工作要小心中暑。",
+    "example_vi": "Mùa hè làm việc ngoài trời phải cẩn thận say nắng."
+  },
+  {
+    "w": "晕倒",
+    "p": "yūndǎo",
+    "m": "ngất xỉu",
+    "example": "她在路上突然晕倒了。",
+    "example_vi": "Cô ấy đột nhiên ngất xỉu trên đường."
+  },
+  {
+    "w": "乏力",
+    "p": "fálì",
+    "m": "mệt mỏi, uể oải",
+    "example": "生病以后他感到浑身乏力。",
+    "example_vi": "Sau khi ốm anh ấy cảm thấy toàn thân mệt mỏi."
+  },
+  {
+    "w": "打鼾",
+    "p": "dǎhān",
+    "m": "ngáy khi ngủ",
+    "example": "他睡觉的时候总是打鼾。",
+    "example_vi": "Anh ấy ngủ lúc nào cũng ngáy."
+  },
+  {
+    "w": "足球赛",
+    "p": "zúqiúsài",
+    "m": "trận đấu bóng đá",
+    "example": "昨晚的足球赛非常精彩。",
+    "example_vi": "Trận đấu bóng đá tối qua rất hấp dẫn."
+  },
+  {
+    "w": "篮球赛",
+    "p": "lánqiúsài",
+    "m": "trận đấu bóng rổ",
+    "example": "学校下周举行篮球赛。",
+    "example_vi": "Tuần sau trường tổ chức trận đấu bóng rổ."
+  },
+  {
+    "w": "排球赛",
+    "p": "páiqiúsài",
+    "m": "trận đấu bóng chuyền",
+    "example": "我们班赢了这场排球赛。",
+    "example_vi": "Lớp chúng tôi đã thắng trận đấu bóng chuyền này."
+  },
+  {
+    "w": "保龄球",
+    "p": "bǎolíngqiú",
+    "m": "bowling",
+    "example": "周末我们一起去打保龄球吧。",
+    "example_vi": "Cuối tuần chúng ta cùng đi chơi bowling nhé."
+  },
+  {
+    "w": "台球",
+    "p": "táiqiú",
+    "m": "bi-a",
+    "example": "他很擅长打台球。",
+    "example_vi": "Anh ấy chơi bi-a rất giỏi."
+  },
+  {
+    "w": "柔道",
+    "p": "róudào",
+    "m": "judo",
+    "example": "他从小学习柔道。",
+    "example_vi": "Anh ấy học judo từ nhỏ."
+  },
+  {
+    "w": "观众席",
+    "p": "guānzhòngxí",
+    "m": "khán đài",
+    "example": "观众席上坐满了人。",
+    "example_vi": "Khán đài đã ngồi kín người."
+  },
+  {
+    "w": "蓝牙",
+    "p": "lányá",
+    "m": "Bluetooth",
+    "example": "请打开手机的蓝牙功能。",
+    "example_vi": "Hãy bật chức năng Bluetooth trên điện thoại."
+  },
+  {
+    "w": "摄像头",
+    "p": "shèxiàngtóu",
+    "m": "camera, ống kính quay",
+    "example": "门口装了一个摄像头。",
+    "example_vi": "Trước cửa đã lắp một chiếc camera."
+  },
+  {
+    "w": "扫描仪",
+    "p": "sǎomiáoyí",
+    "m": "máy quét",
+    "example": "用扫描仪把文件扫描进电脑。",
+    "example_vi": "Dùng máy quét để quét tài liệu vào máy tính."
+  },
+  {
+    "w": "投影仪",
+    "p": "tóuyǐngyí",
+    "m": "máy chiếu",
+    "example": "教室里的投影仪坏了。",
+    "example_vi": "Máy chiếu trong lớp học bị hỏng rồi."
+  },
+  {
+    "w": "主机",
+    "p": "zhǔjī",
+    "m": "thân máy tính, máy chủ",
+    "example": "这台电脑的主机很大。",
+    "example_vi": "Thân máy của chiếc máy tính này rất to."
+  },
+  {
+    "w": "内存",
+    "p": "nèicún",
+    "m": "bộ nhớ RAM",
+    "example": "这台电脑的内存不够用。",
+    "example_vi": "Bộ nhớ RAM của chiếc máy tính này không đủ dùng."
+  },
+  {
+    "w": "硬盘",
+    "p": "yìngpán",
+    "m": "ổ cứng",
+    "example": "我的硬盘快满了。",
+    "example_vi": "Ổ cứng của tôi sắp đầy rồi."
+  },
+  {
+    "w": "宽带",
+    "p": "kuāndài",
+    "m": "mạng internet băng rộng",
+    "example": "家里的宽带网速很快。",
+    "example_vi": "Mạng internet ở nhà tốc độ rất nhanh."
+  },
+  {
+    "w": "注册",
+    "p": "zhùcè",
+    "m": "đăng ký",
+    "example": "请先注册一个账号。",
+    "example_vi": "Xin hãy đăng ký một tài khoản trước."
+  },
+  {
+    "w": "验证码",
+    "p": "yànzhèngmǎ",
+    "m": "mã xác nhận",
+    "example": "手机收到了一条验证码短信。",
+    "example_vi": "Điện thoại nhận được một tin nhắn mã xác nhận."
+  },
+  {
+    "w": "卸载",
+    "p": "xièzài",
+    "m": "gỡ cài đặt",
+    "example": "这个软件没用了，把它卸载吧。",
+    "example_vi": "Phần mềm này không dùng nữa, hãy gỡ cài đặt nó đi."
+  },
+  {
+    "w": "压缩",
+    "p": "yāsuō",
+    "m": "nén (tệp tin)",
+    "example": "文件太大了，需要压缩一下。",
+    "example_vi": "Tệp tin quá lớn, cần phải nén lại một chút."
+  },
+  {
+    "w": "解压",
+    "p": "jiěyā",
+    "m": "giải nén",
+    "example": "下载完以后要先解压文件。",
+    "example_vi": "Sau khi tải xong phải giải nén tệp tin trước."
+  },
+  {
+    "w": "截图",
+    "p": "jiétú",
+    "m": "chụp màn hình",
+    "example": "你可以截图给我看一下吗？",
+    "example_vi": "Bạn có thể chụp màn hình cho tôi xem một chút được không?"
+  },
+  {
+    "w": "录屏",
+    "p": "lùpíng",
+    "m": "quay màn hình",
+    "example": "上课的时候老师用录屏软件。",
+    "example_vi": "Khi lên lớp thầy giáo dùng phần mềm quay màn hình."
+  },
+  {
+    "w": "弹幕",
+    "p": "dànmù",
+    "m": "bình luận trôi trên video",
+    "example": "看视频的时候很多人喜欢发弹幕。",
+    "example_vi": "Khi xem video nhiều người thích gửi bình luận trôi."
+  },
+  {
+    "w": "网址",
+    "p": "wǎngzhǐ",
+    "m": "địa chỉ trang web",
+    "example": "请把网址发给我。",
+    "example_vi": "Xin hãy gửi địa chỉ trang web cho tôi."
+  },
+  {
+    "w": "链接",
+    "p": "liànjiē",
+    "m": "liên kết, đường link",
+    "example": "点击这个链接就可以打开网页。",
+    "example_vi": "Nhấp vào đường link này là có thể mở trang web."
+  },
+  {
+    "w": "套餐",
+    "p": "tàocān",
+    "m": "gói cước, combo",
+    "example": "我办了一个每月五十元的套餐。",
+    "example_vi": "Tôi đã đăng ký một gói cước năm mươi tệ mỗi tháng."
+  },
+  {
+    "w": "资费",
+    "p": "zīfèi",
+    "m": "cước phí sử dụng",
+    "example": "这家运营商的资费比较便宜。",
+    "example_vi": "Cước phí của nhà mạng này khá rẻ."
+  },
+  {
+    "w": "信号",
+    "p": "xìnhào",
+    "m": "tín hiệu",
+    "example": "这里的手机信号不太好。",
+    "example_vi": "Tín hiệu điện thoại ở đây không tốt lắm."
+  },
+  {
+    "w": "网速",
+    "p": "wǎngsù",
+    "m": "tốc độ mạng",
+    "example": "晚上网速比较慢。",
+    "example_vi": "Buổi tối tốc độ mạng khá chậm."
+  },
+  {
+    "w": "旗舰店",
+    "p": "qíjiàndiàn",
+    "m": "cửa hàng flagship, cửa hàng chủ lực",
+    "example": "这个品牌在市中心开了一家旗舰店。",
+    "example_vi": "Thương hiệu này đã mở một cửa hàng chủ lực ở trung tâm thành phố."
+  },
+  {
+    "w": "网店",
+    "p": "wǎngdiàn",
+    "m": "cửa hàng trực tuyến",
+    "example": "她开了一家网店卖衣服。",
+    "example_vi": "Cô ấy mở một cửa hàng trực tuyến bán quần áo."
+  },
+  {
+    "w": "包邮",
+    "p": "bāoyóu",
+    "m": "miễn phí vận chuyển",
+    "example": "这件商品满一百元包邮。",
+    "example_vi": "Sản phẩm này mua đủ một trăm tệ sẽ được miễn phí vận chuyển."
+  },
+  {
+    "w": "快餐",
+    "p": "kuàicān",
+    "m": "đồ ăn nhanh",
+    "example": "他中午经常吃快餐。",
+    "example_vi": "Buổi trưa anh ấy thường ăn đồ ăn nhanh."
+  },
+  {
+    "w": "甜点",
+    "p": "tiándiǎn",
+    "m": "món tráng miệng",
+    "example": "饭后她点了一份甜点。",
+    "example_vi": "Sau bữa ăn cô ấy gọi một phần tráng miệng."
+  },
+  {
+    "w": "平原",
+    "p": "píngyuán",
+    "m": "đồng bằng",
+    "example": "这片平原土地非常肥沃。",
+    "example_vi": "Vùng đồng bằng này đất đai rất màu mỡ."
+  },
+  {
+    "w": "拥挤",
+    "p": "yōngjǐ",
+    "m": "đông đúc, chật chội",
+    "example": "上下班时间地铁里很拥挤。",
+    "example_vi": "Vào giờ đi làm tan tầm tàu điện ngầm rất đông đúc."
+  }
+]

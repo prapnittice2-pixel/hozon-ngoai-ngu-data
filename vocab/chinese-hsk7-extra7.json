@@ -1,0 +1,478 @@
+[
+  {
+    "w": "精准医疗",
+    "p": "jīngzhǔn yīliáo",
+    "m": "y học chính xác",
+    "example": "精准医疗根据患者基因制定治疗方案。",
+    "example_vi": "Y học chính xác xây dựng phác đồ điều trị dựa trên gen của bệnh nhân."
+  },
+  {
+    "w": "法律法规",
+    "p": "fǎlǜ fǎguī",
+    "m": "pháp luật và quy định",
+    "example": "企业经营必须遵守国家的法律法规。",
+    "example_vi": "Doanh nghiệp kinh doanh phải tuân thủ pháp luật và quy định của nhà nước."
+  },
+  {
+    "w": "刑事案件",
+    "p": "xíngshì ànjiàn",
+    "m": "vụ án hình sự",
+    "example": "这起刑事案件已经移交检察院处理。",
+    "example_vi": "Vụ án hình sự này đã được chuyển giao cho viện kiểm sát xử lý."
+  },
+  {
+    "w": "合同纠纷",
+    "p": "hétong jiūfēn",
+    "m": "tranh chấp hợp đồng",
+    "example": "双方因合同纠纷诉诸法院。",
+    "example_vi": "Hai bên đã đưa tranh chấp hợp đồng ra tòa án giải quyết."
+  },
+  {
+    "w": "民主制度",
+    "p": "mínzhǔ zhìdù",
+    "m": "chế độ dân chủ",
+    "example": "这个国家实行的是民主制度。",
+    "example_vi": "Quốc gia này thực hiện chế độ dân chủ."
+  },
+  {
+    "w": "政党政治",
+    "p": "zhèngdǎng zhèngzhì",
+    "m": "chính trị đảng phái",
+    "example": "政党政治是现代国家治理的重要形式。",
+    "example_vi": "Chính trị đảng phái là hình thức quan trọng của việc quản lý nhà nước hiện đại."
+  },
+  {
+    "w": "太阳能发电",
+    "p": "tàiyángnéng fādiàn",
+    "m": "phát điện năng lượng mặt trời",
+    "example": "这座工厂全部采用太阳能发电。",
+    "example_vi": "Nhà máy này hoàn toàn sử dụng phát điện bằng năng lượng mặt trời."
+  },
+  {
+    "w": "核能发电",
+    "p": "hénéng fādiàn",
+    "m": "phát điện hạt nhân",
+    "example": "该国正在大力发展核能发电。",
+    "example_vi": "Quốc gia này đang nỗ lực phát triển phát điện hạt nhân."
+  },
+  {
+    "w": "住房保障",
+    "p": "zhùfáng bǎozhàng",
+    "m": "bảo đảm nhà ở",
+    "example": "政府加大了对低收入家庭的住房保障力度。",
+    "example_vi": "Chính phủ đã tăng cường mức độ bảo đảm nhà ở cho các gia đình thu nhập thấp."
+  },
+  {
+    "w": "现代艺术",
+    "p": "xiàndài yìshù",
+    "m": "nghệ thuật hiện đại",
+    "example": "这座博物馆专门展出现代艺术作品。",
+    "example_vi": "Bảo tàng này chuyên trưng bày các tác phẩm nghệ thuật hiện đại."
+  },
+  {
+    "w": "叙事手法",
+    "p": "xùshì shǒufǎ",
+    "m": "thủ pháp tự sự, kể chuyện",
+    "example": "这部小说采用了独特的叙事手法。",
+    "example_vi": "Cuốn tiểu thuyết này sử dụng thủ pháp tự sự độc đáo."
+  },
+  {
+    "w": "历史文献",
+    "p": "lìshǐ wénxiàn",
+    "m": "tài liệu lịch sử",
+    "example": "研究人员查阅了大量历史文献。",
+    "example_vi": "Các nhà nghiên cứu đã tra cứu một lượng lớn tài liệu lịch sử."
+  },
+  {
+    "w": "古代文明",
+    "p": "gǔdài wénmíng",
+    "m": "văn minh cổ đại",
+    "example": "埃及是世界古代文明的发源地之一。",
+    "example_vi": "Ai Cập là một trong những cái nôi của văn minh cổ đại thế giới."
+  },
+  {
+    "w": "哲学思想",
+    "p": "zhéxué sīxiǎng",
+    "m": "tư tưởng triết học",
+    "example": "他的哲学思想深受西方影响。",
+    "example_vi": "Tư tưởng triết học của ông chịu ảnh hưởng sâu sắc từ phương Tây."
+  },
+  {
+    "w": "伦理道德",
+    "p": "lúnlǐ dàodé",
+    "m": "luân lý đạo đức",
+    "example": "医学研究必须遵循伦理道德原则。",
+    "example_vi": "Nghiên cứu y học phải tuân theo nguyên tắc luân lý đạo đức."
+  },
+  {
+    "w": "社会心理学",
+    "p": "shèhuì xīnlǐxué",
+    "m": "tâm lý học xã hội",
+    "example": "他在大学里教授社会心理学。",
+    "example_vi": "Ông ấy giảng dạy tâm lý học xã hội tại trường đại học."
+  },
+  {
+    "w": "组织行为学",
+    "p": "zǔzhī xíngwéixué",
+    "m": "hành vi tổ chức học",
+    "example": "组织行为学研究员工在企业中的行为模式。",
+    "example_vi": "Hành vi tổ chức học nghiên cứu mô hình hành vi của nhân viên trong doanh nghiệp."
+  },
+  {
+    "w": "企业管理",
+    "p": "qǐyè guǎnlǐ",
+    "m": "quản trị doanh nghiệp",
+    "example": "他在大学主修企业管理专业。",
+    "example_vi": "Anh ấy học chuyên ngành quản trị doanh nghiệp tại đại học."
+  },
+  {
+    "w": "品牌战略",
+    "p": "pǐnpái zhànlüè",
+    "m": "chiến lược thương hiệu",
+    "example": "公司制定了新的品牌战略。",
+    "example_vi": "Công ty đã xây dựng chiến lược thương hiệu mới."
+  },
+  {
+    "w": "物流管理",
+    "p": "wùliú guǎnlǐ",
+    "m": "quản lý logistics",
+    "example": "他负责公司的物流管理工作。",
+    "example_vi": "Anh ấy phụ trách công tác quản lý logistics của công ty."
+  },
+  {
+    "w": "创业投资",
+    "p": "chuàngyè tóuzī",
+    "m": "đầu tư khởi nghiệp",
+    "example": "这家基金专注于创业投资领域。",
+    "example_vi": "Quỹ này tập trung vào lĩnh vực đầu tư khởi nghiệp."
+  },
+  {
+    "w": "金融市场",
+    "p": "jīnróng shìchǎng",
+    "m": "thị trường tài chính",
+    "example": "全球金融市场近期波动剧烈。",
+    "example_vi": "Thị trường tài chính toàn cầu gần đây biến động mạnh."
+  },
+  {
+    "w": "股票交易",
+    "p": "gǔpiào jiāoyì",
+    "m": "giao dịch cổ phiếu",
+    "example": "他每天都关注股票交易情况。",
+    "example_vi": "Anh ấy theo dõi tình hình giao dịch cổ phiếu mỗi ngày."
+  },
+  {
+    "w": "证券投资",
+    "p": "zhèngquàn tóuzī",
+    "m": "đầu tư chứng khoán",
+    "example": "她在证券投资方面很有经验。",
+    "example_vi": "Cô ấy rất có kinh nghiệm trong lĩnh vực đầu tư chứng khoán."
+  },
+  {
+    "w": "保险业务",
+    "p": "bǎoxiǎn yèwù",
+    "m": "nghiệp vụ bảo hiểm",
+    "example": "这家公司主要经营保险业务。",
+    "example_vi": "Công ty này chủ yếu kinh doanh nghiệp vụ bảo hiểm."
+  },
+  {
+    "w": "银行体系",
+    "p": "yínháng tǐxì",
+    "m": "hệ thống ngân hàng",
+    "example": "稳定的银行体系是经济发展的基础。",
+    "example_vi": "Hệ thống ngân hàng ổn định là nền tảng cho sự phát triển kinh tế."
+  },
+  {
+    "w": "工会组织",
+    "p": "gōnghuì zǔzhī",
+    "m": "tổ chức công đoàn",
+    "example": "工会组织为员工争取更好的待遇。",
+    "example_vi": "Tổ chức công đoàn tranh đấu cho nhân viên có đãi ngộ tốt hơn."
+  },
+  {
+    "w": "养老金制度",
+    "p": "yǎnglǎojīn zhìdù",
+    "m": "chế độ lương hưu",
+    "example": "政府正在改革养老金制度。",
+    "example_vi": "Chính phủ đang cải cách chế độ lương hưu."
+  },
+  {
+    "w": "城市治理",
+    "p": "chéngshì zhìlǐ",
+    "m": "quản trị đô thị",
+    "example": "智慧城市治理提高了公共服务效率。",
+    "example_vi": "Quản trị đô thị thông minh đã nâng cao hiệu quả dịch vụ công."
+  },
+  {
+    "w": "政府预算",
+    "p": "zhèngfǔ yùsuàn",
+    "m": "ngân sách chính phủ",
+    "example": "教育支出占政府预算的很大比例。",
+    "example_vi": "Chi tiêu cho giáo dục chiếm tỷ trọng lớn trong ngân sách chính phủ."
+  },
+  {
+    "w": "税收制度",
+    "p": "shuìshōu zhìdù",
+    "m": "chế độ thuế",
+    "example": "这项改革简化了税收制度。",
+    "example_vi": "Cuộc cải cách này đã đơn giản hóa chế độ thuế."
+  },
+  {
+    "w": "反腐败斗争",
+    "p": "fǎn fǔbài dòuzhēng",
+    "m": "cuộc đấu tranh chống tham nhũng",
+    "example": "政府近年来加大了反腐败斗争的力度。",
+    "example_vi": "Những năm gần đây chính phủ đã tăng cường cuộc đấu tranh chống tham nhũng."
+  },
+  {
+    "w": "司法改革",
+    "p": "sīfǎ gǎigé",
+    "m": "cải cách tư pháp",
+    "example": "司法改革旨在提高审判效率。",
+    "example_vi": "Cải cách tư pháp nhằm nâng cao hiệu quả xét xử."
+  },
+  {
+    "w": "媒体伦理",
+    "p": "méitǐ lúnlǐ",
+    "m": "đạo đức truyền thông",
+    "example": "记者应当遵守基本的媒体伦理。",
+    "example_vi": "Nhà báo cần tuân thủ đạo đức truyền thông cơ bản."
+  },
+  {
+    "w": "信息传播",
+    "p": "xìnxī chuánbō",
+    "m": "truyền bá thông tin",
+    "example": "互联网加快了信息传播的速度。",
+    "example_vi": "Internet đã đẩy nhanh tốc độ truyền bá thông tin."
+  },
+  {
+    "w": "医学伦理",
+    "p": "yīxué lúnlǐ",
+    "m": "đạo đức y học",
+    "example": "医学伦理委员会审查了这项临床试验。",
+    "example_vi": "Ủy ban đạo đức y học đã thẩm định thử nghiệm lâm sàng này."
+  },
+  {
+    "w": "基因检测",
+    "p": "jīyīn jiǎncè",
+    "m": "xét nghiệm gen",
+    "example": "医院提供基因检测服务。",
+    "example_vi": "Bệnh viện cung cấp dịch vụ xét nghiệm gen."
+  },
+  {
+    "w": "反洗钱",
+    "p": "fǎn xǐqián",
+    "m": "chống rửa tiền",
+    "example": "银行建立了严格的反洗钱机制。",
+    "example_vi": "Ngân hàng đã thiết lập cơ chế chống rửa tiền nghiêm ngặt."
+  },
+  {
+    "w": "难民问题",
+    "p": "nànmín wèntí",
+    "m": "vấn đề người tị nạn",
+    "example": "联合国正努力解决难民问题。",
+    "example_vi": "Liên Hợp Quốc đang nỗ lực giải quyết vấn đề người tị nạn."
+  },
+  {
+    "w": "儿童权益",
+    "p": "értóng quányì",
+    "m": "quyền lợi trẻ em",
+    "example": "这项法律旨在保护儿童权益。",
+    "example_vi": "Đạo luật này nhằm bảo vệ quyền lợi trẻ em."
+  },
+  {
+    "w": "残疾人保障",
+    "p": "cánjírén bǎozhàng",
+    "m": "bảo đảm quyền lợi người khuyết tật",
+    "example": "政府出台了残疾人保障相关政策。",
+    "example_vi": "Chính phủ đã ban hành các chính sách liên quan đến bảo đảm quyền lợi người khuyết tật."
+  },
+  {
+    "w": "养老服务",
+    "p": "yǎnglǎo fúwù",
+    "m": "dịch vụ dưỡng lão",
+    "example": "社区提供多样化的养老服务。",
+    "example_vi": "Cộng đồng cung cấp dịch vụ dưỡng lão đa dạng."
+  },
+  {
+    "w": "贫困救助",
+    "p": "pínkùn jiùzhù",
+    "m": "cứu trợ người nghèo",
+    "example": "政府加大了对贫困地区的贫困救助力度。",
+    "example_vi": "Chính phủ đã tăng cường mức độ cứu trợ người nghèo ở các vùng khó khăn."
+  },
+  {
+    "w": "灾害救援",
+    "p": "zāihài jiùyuán",
+    "m": "cứu trợ thiên tai",
+    "example": "救援队立即赶往灾区进行灾害救援。",
+    "example_vi": "Đội cứu hộ đã lập tức đến vùng thiên tai để tiến hành cứu trợ."
+  },
+  {
+    "w": "应急管理",
+    "p": "yìngjí guǎnlǐ",
+    "m": "quản lý khẩn cấp",
+    "example": "应急管理部门发布了台风预警。",
+    "example_vi": "Cơ quan quản lý khẩn cấp đã phát cảnh báo bão."
+  },
+  {
+    "w": "气象预报",
+    "p": "qìxiàng yùbào",
+    "m": "dự báo khí tượng",
+    "example": "根据气象预报，明天有大雨。",
+    "example_vi": "Theo dự báo khí tượng, ngày mai sẽ có mưa to."
+  },
+  {
+    "w": "海洋生态",
+    "p": "hǎiyáng shēngtài",
+    "m": "sinh thái biển",
+    "example": "过度捕捞破坏了海洋生态平衡。",
+    "example_vi": "Việc đánh bắt quá mức đã phá vỡ cân bằng sinh thái biển."
+  },
+  {
+    "w": "低碳生活",
+    "p": "dītàn shēnghuó",
+    "m": "lối sống ít carbon",
+    "example": "越来越多的人开始提倡低碳生活。",
+    "example_vi": "Ngày càng nhiều người bắt đầu đề xướng lối sống ít carbon."
+  },
+  {
+    "w": "气候谈判",
+    "p": "qìhòu tánpàn",
+    "m": "đàm phán khí hậu",
+    "example": "各国代表参加了这次气候谈判。",
+    "example_vi": "Đại diện các nước đã tham gia cuộc đàm phán khí hậu lần này."
+  },
+  {
+    "w": "军事战略",
+    "p": "jūnshì zhànlüè",
+    "m": "chiến lược quân sự",
+    "example": "该国调整了自己的军事战略。",
+    "example_vi": "Quốc gia đó đã điều chỉnh chiến lược quân sự của mình."
+  },
+  {
+    "w": "国防建设",
+    "p": "guófáng jiànshè",
+    "m": "xây dựng quốc phòng",
+    "example": "国家高度重视国防建设。",
+    "example_vi": "Nhà nước hết sức coi trọng công tác xây dựng quốc phòng."
+  },
+  {
+    "w": "边境安全",
+    "p": "biānjìng ānquán",
+    "m": "an ninh biên giới",
+    "example": "两国加强了边境安全合作。",
+    "example_vi": "Hai nước đã tăng cường hợp tác về an ninh biên giới."
+  },
+  {
+    "w": "领土争端",
+    "p": "lǐngtǔ zhēngduān",
+    "m": "tranh chấp lãnh thổ",
+    "example": "双方通过对话解决领土争端。",
+    "example_vi": "Hai bên đã giải quyết tranh chấp lãnh thổ thông qua đối thoại."
+  },
+  {
+    "w": "和平谈判",
+    "p": "hépíng tánpàn",
+    "m": "đàm phán hòa bình",
+    "example": "双方同意重启和平谈判。",
+    "example_vi": "Hai bên đồng ý nối lại đàm phán hòa bình."
+  },
+  {
+    "w": "科技革命",
+    "p": "kējì gémìng",
+    "m": "cuộc cách mạng khoa học công nghệ",
+    "example": "这场科技革命改变了人类的生活方式。",
+    "example_vi": "Cuộc cách mạng khoa học công nghệ này đã thay đổi phương thức sống của con người."
+  },
+  {
+    "w": "新兴产业",
+    "p": "xīnxīng chǎnyè",
+    "m": "ngành công nghiệp mới nổi",
+    "example": "政府大力扶持新兴产业发展。",
+    "example_vi": "Chính phủ ra sức hỗ trợ phát triển các ngành công nghiệp mới nổi."
+  },
+  {
+    "w": "并购重组",
+    "p": "bìnggòu chóngzǔ",
+    "m": "sáp nhập và tái cơ cấu",
+    "example": "这两家公司完成了并购重组。",
+    "example_vi": "Hai công ty này đã hoàn thành việc sáp nhập và tái cơ cấu."
+  },
+  {
+    "w": "股权结构",
+    "p": "gǔquán jiégòu",
+    "m": "cơ cấu cổ phần",
+    "example": "上市前公司调整了股权结构。",
+    "example_vi": "Trước khi niêm yết, công ty đã điều chỉnh cơ cấu cổ phần."
+  },
+  {
+    "w": "审计制度",
+    "p": "shěnjì zhìdù",
+    "m": "chế độ kiểm toán",
+    "example": "公司建立了严格的审计制度。",
+    "example_vi": "Công ty đã thiết lập chế độ kiểm toán nghiêm ngặt."
+  },
+  {
+    "w": "会计准则",
+    "p": "kuàijì zhǔnzé",
+    "m": "chuẩn mực kế toán",
+    "example": "财务报表必须符合会计准则。",
+    "example_vi": "Báo cáo tài chính phải phù hợp với chuẩn mực kế toán."
+  },
+  {
+    "w": "垄断行业",
+    "p": "lǒngduàn hángyè",
+    "m": "ngành độc quyền",
+    "example": "电力曾经是典型的垄断行业。",
+    "example_vi": "Ngành điện từng là ngành độc quyền điển hình."
+  },
+  {
+    "w": "行业标准",
+    "p": "hángyè biāozhǔn",
+    "m": "tiêu chuẩn ngành",
+    "example": "这家企业制定了新的行业标准。",
+    "example_vi": "Doanh nghiệp này đã xây dựng tiêu chuẩn ngành mới."
+  },
+  {
+    "w": "质量认证",
+    "p": "zhìliàng rènzhèng",
+    "m": "chứng nhận chất lượng",
+    "example": "产品通过了国际质量认证。",
+    "example_vi": "Sản phẩm đã được thông qua chứng nhận chất lượng quốc tế."
+  },
+  {
+    "w": "仲裁机构",
+    "p": "zhòngcái jīgòu",
+    "m": "tổ chức trọng tài",
+    "example": "双方将争议提交仲裁机构解决。",
+    "example_vi": "Hai bên đã đưa tranh chấp lên tổ chức trọng tài để giải quyết."
+  },
+  {
+    "w": "调解程序",
+    "p": "tiáojiě chéngxù",
+    "m": "trình tự hòa giải",
+    "example": "法院建议双方先进行调解程序。",
+    "example_vi": "Tòa án đề nghị hai bên tiến hành trình tự hòa giải trước."
+  },
+  {
+    "w": "假释制度",
+    "p": "jiǎshì zhìdù",
+    "m": "chế độ tha tù trước hạn",
+    "example": "该国的假释制度近年来有所调整。",
+    "example_vi": "Chế độ tha tù trước hạn của quốc gia này gần đây đã có sự điều chỉnh."
+  },
+  {
+    "w": "监护权",
+    "p": "jiānhùquán",
+    "m": "quyền giám hộ",
+    "example": "法院将孩子的监护权判给了母亲。",
+    "example_vi": "Tòa án đã phán quyết quyền giám hộ đứa trẻ cho người mẹ."
+  },
+  {
+    "w": "遗产继承",
+    "p": "yíchǎn jìchéng",
+    "m": "thừa kế di sản",
+    "example": "兄弟姐妹因遗产继承问题产生了矛盾。",
+    "example_vi": "Anh chị em đã nảy sinh mâu thuẫn vì vấn đề thừa kế di sản."
+  }
+]

@@ -1,0 +1,975 @@
+[
+  {
+    "w": "贬值",
+    "p": "biǎnzhí",
+    "m": "mất giá, phá giá (tiền tệ/tài sản)",
+    "example": "由于经济危机，该国货币大幅贬值。",
+    "example_vi": "Do khủng hoảng kinh tế, đồng tiền nước này mất giá mạnh."
+  },
+  {
+    "w": "增值",
+    "p": "zēngzhí",
+    "m": "tăng giá trị",
+    "example": "这套房子近几年持续增值。",
+    "example_vi": "Căn nhà này liên tục tăng giá trị trong mấy năm gần đây."
+  },
+  {
+    "w": "垫资",
+    "p": "diànzī",
+    "m": "ứng vốn trước, tạm ứng tiền",
+    "example": "承包商不得不为工程垫资。",
+    "example_vi": "Nhà thầu buộc phải ứng vốn trước cho công trình."
+  },
+  {
+    "w": "保值",
+    "p": "bǎozhí",
+    "m": "bảo toàn giá trị, giữ giá",
+    "example": "黄金常被视为保值的投资方式。",
+    "example_vi": "Vàng thường được xem là phương thức đầu tư giúp bảo toàn giá trị."
+  },
+  {
+    "w": "溢价",
+    "p": "yìjià",
+    "m": "phụ giá, chênh lệch giá (premium)",
+    "example": "这只股票目前存在明显的溢价。",
+    "example_vi": "Cổ phiếu này hiện đang có mức chênh lệch giá rõ rệt."
+  },
+  {
+    "w": "盈亏平衡",
+    "p": "yíngkuī pínghéng",
+    "m": "điểm hòa vốn, cân bằng lãi lỗ",
+    "example": "公司预计明年可以达到盈亏平衡。",
+    "example_vi": "Công ty dự kiến năm sau có thể đạt điểm hòa vốn."
+  },
+  {
+    "w": "结构性改革",
+    "p": "jiégòuxìng gǎigé",
+    "m": "cải cách mang tính cấu trúc",
+    "example": "政府正在推动经济领域的结构性改革。",
+    "example_vi": "Chính phủ đang thúc đẩy cải cách cấu trúc trong lĩnh vực kinh tế."
+  },
+  {
+    "w": "通胀预期",
+    "p": "tōngzhàng yùqī",
+    "m": "kỳ vọng lạm phát",
+    "example": "通胀预期上升会影响消费者的购买行为。",
+    "example_vi": "Kỳ vọng lạm phát tăng cao sẽ ảnh hưởng đến hành vi mua sắm của người tiêu dùng."
+  },
+  {
+    "w": "违约风险",
+    "p": "wéiyuē fēngxiǎn",
+    "m": "rủi ro vi phạm hợp đồng, rủi ro vỡ nợ",
+    "example": "投资者需要评估债券的违约风险。",
+    "example_vi": "Nhà đầu tư cần đánh giá rủi ro vỡ nợ của trái phiếu."
+  },
+  {
+    "w": "影子银行",
+    "p": "yǐngzi yínháng",
+    "m": "ngân hàng ngầm (shadow banking)",
+    "example": "影子银行的监管一直是金融领域的难题。",
+    "example_vi": "Việc giám sát ngân hàng ngầm luôn là bài toán khó trong lĩnh vực tài chính."
+  },
+  {
+    "w": "次贷危机",
+    "p": "cìdài wēijī",
+    "m": "khủng hoảng nợ dưới chuẩn (subprime crisis)",
+    "example": "二零零八年的次贷危机引发了全球金融动荡。",
+    "example_vi": "Cuộc khủng hoảng nợ dưới chuẩn năm 2008 đã gây ra biến động tài chính toàn cầu."
+  },
+  {
+    "w": "资本外流",
+    "p": "zīběn wàiliú",
+    "m": "dòng vốn chảy ra nước ngoài",
+    "example": "政策不稳定导致大量资本外流。",
+    "example_vi": "Chính sách bất ổn khiến một lượng lớn vốn chảy ra nước ngoài."
+  },
+  {
+    "w": "光谱",
+    "p": "guāngpǔ",
+    "m": "quang phổ",
+    "example": "科学家通过分析光谱来确定恒星的成分。",
+    "example_vi": "Các nhà khoa học phân tích quang phổ để xác định thành phần của ngôi sao."
+  },
+  {
+    "w": "粒子加速器",
+    "p": "lìzǐ jiāsùqì",
+    "m": "máy gia tốc hạt",
+    "example": "大型粒子加速器帮助科学家发现了新粒子。",
+    "example_vi": "Máy gia tốc hạt lớn giúp các nhà khoa học phát hiện ra hạt mới."
+  },
+  {
+    "w": "遗传密码",
+    "p": "yíchuán mìmǎ",
+    "m": "mã di truyền",
+    "example": "DNA携带着生物体的遗传密码。",
+    "example_vi": "DNA mang mã di truyền của sinh vật."
+  },
+  {
+    "w": "太空探测",
+    "p": "tàikōng tàncè",
+    "m": "thám hiểm, thăm dò vũ trụ",
+    "example": "这枚探测器专门用于太空探测任务。",
+    "example_vi": "Thiết bị thăm dò này chuyên dùng cho nhiệm vụ thám hiểm vũ trụ."
+  },
+  {
+    "w": "治外法权",
+    "p": "zhìwài fǎquán",
+    "m": "quyền trị ngoại pháp (extraterritoriality)",
+    "example": "近代中国曾被迫承认列强的治外法权。",
+    "example_vi": "Trung Quốc cận đại từng bị ép phải công nhận quyền trị ngoại pháp của các cường quốc."
+  },
+  {
+    "w": "国际公约",
+    "p": "guójì gōngyuē",
+    "m": "công ước quốc tế",
+    "example": "各国应共同遵守相关国际公约。",
+    "example_vi": "Các quốc gia nên cùng nhau tuân thủ các công ước quốc tế liên quan."
+  },
+  {
+    "w": "单边制裁",
+    "p": "dānbiān zhìcái",
+    "m": "trừng phạt đơn phương",
+    "example": "该国对邻国实施了单边制裁。",
+    "example_vi": "Nước này đã áp đặt trừng phạt đơn phương đối với nước láng giềng."
+  },
+  {
+    "w": "主权争端",
+    "p": "zhǔquán zhēngduān",
+    "m": "tranh chấp chủ quyền",
+    "example": "两国因岛屿问题发生了主权争端。",
+    "example_vi": "Hai nước xảy ra tranh chấp chủ quyền vì vấn đề đảo."
+  },
+  {
+    "w": "民族自决",
+    "p": "mínzú zìjué",
+    "m": "dân tộc tự quyết",
+    "example": "民族自决原则在国际关系中备受关注。",
+    "example_vi": "Nguyên tắc dân tộc tự quyết rất được quan tâm trong quan hệ quốc tế."
+  },
+  {
+    "w": "医疗改革",
+    "p": "yīliáo gǎigé",
+    "m": "cải cách y tế",
+    "example": "政府正在推进新一轮医疗改革。",
+    "example_vi": "Chính phủ đang thúc đẩy vòng cải cách y tế mới."
+  },
+  {
+    "w": "劳动力短缺",
+    "p": "láodònglì duǎnquē",
+    "m": "thiếu hụt lao động",
+    "example": "制造业正面临严重的劳动力短缺问题。",
+    "example_vi": "Ngành sản xuất đang đối mặt với vấn đề thiếu hụt lao động nghiêm trọng."
+  },
+  {
+    "w": "逆反心理",
+    "p": "nìfǎn xīnlǐ",
+    "m": "tâm lý phản kháng, nổi loạn",
+    "example": "过度管教容易引发孩子的逆反心理。",
+    "example_vi": "Việc quản giáo quá mức dễ khơi dậy tâm lý phản kháng ở trẻ."
+  },
+  {
+    "w": "抑郁倾向",
+    "p": "yìyù qīngxiàng",
+    "m": "xu hướng trầm cảm",
+    "example": "长期压力过大可能导致抑郁倾向。",
+    "example_vi": "Áp lực quá lớn trong thời gian dài có thể dẫn đến xu hướng trầm cảm."
+  },
+  {
+    "w": "述情障碍",
+    "p": "shùqíng zhàng'ài",
+    "m": "rối loạn diễn đạt cảm xúc (alexithymia)",
+    "example": "患有述情障碍的人很难用语言表达自己的情绪。",
+    "example_vi": "Người mắc chứng rối loạn diễn đạt cảm xúc rất khó dùng lời để bày tỏ cảm xúc của mình."
+  },
+  {
+    "w": "逻辑推理",
+    "p": "luójí tuīlǐ",
+    "m": "suy luận logic",
+    "example": "这道题需要严密的逻辑推理才能解开。",
+    "example_vi": "Bài toán này cần suy luận logic chặt chẽ mới giải được."
+  },
+  {
+    "w": "文学流派",
+    "p": "wénxué liúpài",
+    "m": "trường phái văn học",
+    "example": "现实主义是十九世纪重要的文学流派之一。",
+    "example_vi": "Chủ nghĩa hiện thực là một trong những trường phái văn học quan trọng của thế kỷ XIX."
+  },
+  {
+    "w": "悲剧色彩",
+    "p": "bēijù sècǎi",
+    "m": "sắc thái bi kịch",
+    "example": "这部小说的结局带有浓厚的悲剧色彩。",
+    "example_vi": "Kết thúc của cuốn tiểu thuyết này mang đậm sắc thái bi kịch."
+  },
+  {
+    "w": "修辞手法",
+    "p": "xiūcí shǒufǎ",
+    "m": "biện pháp tu từ",
+    "example": "作者运用了多种修辞手法来增强表达效果。",
+    "example_vi": "Tác giả đã vận dụng nhiều biện pháp tu từ để tăng hiệu quả biểu đạt."
+  },
+  {
+    "w": "文体风格",
+    "p": "wéntǐ fēnggé",
+    "m": "phong cách thể văn",
+    "example": "每位作家都有自己独特的文体风格。",
+    "example_vi": "Mỗi nhà văn đều có phong cách thể văn độc đáo riêng."
+  },
+  {
+    "w": "美学价值",
+    "p": "měixué jiàzhí",
+    "m": "giá trị thẩm mỹ",
+    "example": "这件艺术品具有极高的美学价值。",
+    "example_vi": "Tác phẩm nghệ thuật này có giá trị thẩm mỹ vô cùng cao."
+  },
+  {
+    "w": "抽象表现主义",
+    "p": "chōuxiàng biǎoxiàn zhǔyì",
+    "m": "chủ nghĩa biểu hiện trừu tượng",
+    "example": "波洛克是抽象表现主义的代表画家。",
+    "example_vi": "Pollock là họa sĩ tiêu biểu của chủ nghĩa biểu hiện trừu tượng."
+  },
+  {
+    "w": "抽丝剥茧",
+    "p": "chōusī bōjiǎn",
+    "m": "rút tơ lột kén, phân tích tỉ mỉ từng lớp",
+    "example": "侦探抽丝剥茧，最终找到了真正的凶手。",
+    "example_vi": "Thám tử phân tích tỉ mỉ từng lớp, cuối cùng tìm ra hung thủ thật sự."
+  },
+  {
+    "w": "权宜之计",
+    "p": "quányí zhī jì",
+    "m": "kế sách tạm thời, biện pháp tình thế",
+    "example": "这只是权宜之计，并非长远之策。",
+    "example_vi": "Đây chỉ là biện pháp tình thế, không phải sách lược lâu dài."
+  },
+  {
+    "w": "涸辙之鲋",
+    "p": "hézhé zhī fù",
+    "m": "cá trong vũng nước cạn, người đang gặp cảnh nguy khốn cần cứu giúp gấp",
+    "example": "灾民如涸辙之鲋，急需救援物资。",
+    "example_vi": "Người dân vùng thiên tai như cá trong vũng nước cạn, đang cần gấp vật tư cứu trợ."
+  },
+  {
+    "w": "未竟之业",
+    "p": "wèijìng zhī yè",
+    "m": "sự nghiệp dang dở, chưa hoàn thành",
+    "example": "他决心继续完成父亲未竟之业。",
+    "example_vi": "Anh quyết tâm tiếp tục hoàn thành sự nghiệp dang dở của cha mình."
+  },
+  {
+    "w": "因噎废食",
+    "p": "yīn yē fèi shí",
+    "m": "vì nghẹn mà bỏ ăn, vì trở ngại nhỏ mà từ bỏ hẳn việc lớn",
+    "example": "不能因为一次失败就因噎废食，放弃整个计划。",
+    "example_vi": "Không thể vì một lần thất bại mà bỏ cả kế hoạch, giống như vì nghẹn mà bỏ ăn."
+  },
+  {
+    "w": "明枪暗箭",
+    "p": "míngqiāng ànjiàn",
+    "m": "giáo lộ tên ngầm, công kích công khai lẫn ngấm ngầm",
+    "example": "职场上明枪暗箭防不胜防，他只能小心应对。",
+    "example_vi": "Nơi công sở, những công kích công khai lẫn ngấm ngầm phòng không xuể, anh ấy chỉ đành cẩn thận ứng phó."
+  },
+  {
+    "w": "唇枪舌剑",
+    "p": "chúnqiāng shéjiàn",
+    "m": "môi là giáo lưỡi là kiếm, tranh luận gay gắt quyết liệt",
+    "example": "辩论赛上双方唇枪舌剑，互不相让。",
+    "example_vi": "Trong trận tranh biện, hai bên đấu khẩu quyết liệt, không ai chịu nhường ai."
+  },
+  {
+    "w": "善意取得",
+    "p": "shànyì qǔdé",
+    "m": "thủ đắc ngay tình (bona fide acquisition)",
+    "example": "根据善意取得制度，买受人可以取得该财产的所有权。",
+    "example_vi": "Theo chế độ thủ đắc ngay tình, người mua có thể có được quyền sở hữu tài sản đó."
+  },
+  {
+    "w": "不当得利",
+    "p": "búdàng délì",
+    "m": "lợi ích thu được không có căn cứ pháp lý",
+    "example": "他因不当得利被要求返还相关款项。",
+    "example_vi": "Anh ta vì hưởng lợi không có căn cứ pháp lý nên bị yêu cầu hoàn trả khoản tiền liên quan."
+  },
+  {
+    "w": "表见代理",
+    "p": "biǎojiàn dàilǐ",
+    "m": "đại diện biểu kiến (apparent agency)",
+    "example": "法院认定该行为构成表见代理，公司须承担责任。",
+    "example_vi": "Tòa án xác định hành vi đó cấu thành đại diện biểu kiến, công ty phải chịu trách nhiệm."
+  },
+  {
+    "w": "缔约过失",
+    "p": "dìyuē guòshī",
+    "m": "lỗi trong giai đoạn giao kết hợp đồng",
+    "example": "因缔约过失给对方造成损失的，应当承担赔偿责任。",
+    "example_vi": "Nếu vì lỗi trong giai đoạn giao kết hợp đồng mà gây thiệt hại cho bên kia thì phải chịu trách nhiệm bồi thường."
+  },
+  {
+    "w": "显失公平",
+    "p": "xiǎnshī gōngpíng",
+    "m": "rõ ràng không công bằng (manifestly unfair)",
+    "example": "该条款因显失公平而被法院撤销。",
+    "example_vi": "Điều khoản đó bị tòa án hủy bỏ vì rõ ràng không công bằng."
+  },
+  {
+    "w": "无效合同",
+    "p": "wúxiào hétong",
+    "m": "hợp đồng vô hiệu",
+    "example": "违反法律强制性规定的合同属于无效合同。",
+    "example_vi": "Hợp đồng vi phạm quy định bắt buộc của pháp luật thuộc loại hợp đồng vô hiệu."
+  },
+  {
+    "w": "可撤销合同",
+    "p": "kě chèxiāo hétong",
+    "m": "hợp đồng có thể bị hủy bỏ",
+    "example": "受欺诈签订的合同属于可撤销合同。",
+    "example_vi": "Hợp đồng ký kết do bị lừa dối thuộc loại hợp đồng có thể bị hủy bỏ."
+  },
+  {
+    "w": "连带责任",
+    "p": "liándài zérèn",
+    "m": "trách nhiệm liên đới",
+    "example": "两名被告需就该债务承担连带责任。",
+    "example_vi": "Hai bị đơn phải chịu trách nhiệm liên đới đối với khoản nợ đó."
+  },
+  {
+    "w": "过错责任",
+    "p": "guòcuò zérèn",
+    "m": "trách nhiệm do lỗi",
+    "example": "侵权责任一般适用过错责任原则。",
+    "example_vi": "Trách nhiệm xâm phạm quyền lợi thường áp dụng nguyên tắc trách nhiệm do lỗi."
+  },
+  {
+    "w": "举证责任倒置",
+    "p": "jǔzhèng zérèn dàozhì",
+    "m": "đảo ngược nghĩa vụ chứng minh",
+    "example": "在某些侵权案件中适用举证责任倒置原则。",
+    "example_vi": "Trong một số vụ án xâm phạm quyền lợi có áp dụng nguyên tắc đảo ngược nghĩa vụ chứng minh."
+  },
+  {
+    "w": "诉讼保全",
+    "p": "sùsòng bǎoquán",
+    "m": "bảo toàn trong tố tụng",
+    "example": "原告向法院申请了诉讼保全。",
+    "example_vi": "Nguyên đơn đã nộp đơn xin bảo toàn trong tố tụng lên tòa án."
+  },
+  {
+    "w": "财产保全",
+    "p": "cáichǎn bǎoquán",
+    "m": "bảo toàn tài sản",
+    "example": "原告向法院申请了财产保全，以防止被告转移资产。",
+    "example_vi": "Nguyên đơn đã xin tòa án áp dụng biện pháp bảo toàn tài sản để ngăn bị đơn tẩu tán tài sản."
+  },
+  {
+    "w": "先予执行",
+    "p": "xiānyǔ zhíxíng",
+    "m": "thi hành trước phán quyết (advance execution)",
+    "example": "因情况紧急，法院裁定先予执行。",
+    "example_vi": "Do tình huống khẩn cấp, tòa án ra quyết định cho thi hành trước."
+  },
+  {
+    "w": "执行异议",
+    "p": "zhíxíng yìyì",
+    "m": "phản đối thi hành án",
+    "example": "被执行人对判决提出了执行异议。",
+    "example_vi": "Người bị thi hành án đã đưa ra phản đối đối với việc thi hành phán quyết."
+  },
+  {
+    "w": "管辖权异议",
+    "p": "guǎnxiáquán yìyì",
+    "m": "phản đối thẩm quyền xét xử",
+    "example": "被告向法院提出了管辖权异议。",
+    "example_vi": "Bị đơn đã đưa ra phản đối thẩm quyền xét xử trước tòa án."
+  },
+  {
+    "w": "回避制度",
+    "p": "huíbì zhìdù",
+    "m": "chế độ hồi tị (thu hồi tư cách xét xử khi có xung đột lợi ích)",
+    "example": "法官因与当事人存在利害关系而适用回避制度。",
+    "example_vi": "Thẩm phán vì có quan hệ lợi ích với đương sự nên phải áp dụng chế độ hồi tị."
+  },
+  {
+    "w": "简易程序",
+    "p": "jiǎnyì chéngxù",
+    "m": "thủ tục rút gọn",
+    "example": "案情简单的民事案件可以适用简易程序审理。",
+    "example_vi": "Vụ án dân sự có tình tiết đơn giản có thể áp dụng thủ tục rút gọn để xét xử."
+  },
+  {
+    "w": "顺周期",
+    "p": "shùnzhōuqī",
+    "m": "thuận chu kỳ (procyclical)",
+    "example": "该政策具有明显的顺周期特征，容易加剧经济波动。",
+    "example_vi": "Chính sách này có đặc điểm thuận chu kỳ rõ rệt, dễ làm trầm trọng thêm biến động kinh tế."
+  },
+  {
+    "w": "隐性失业",
+    "p": "yǐnxìng shīyè",
+    "m": "thất nghiệp ẩn",
+    "example": "一些企业为维持人员规模而存在隐性失业现象。",
+    "example_vi": "Một số doanh nghiệp vì duy trì quy mô nhân sự nên tồn tại hiện tượng thất nghiệp ẩn."
+  },
+  {
+    "w": "劳动生产率",
+    "p": "láodòng shēngchǎnlǜ",
+    "m": "năng suất lao động",
+    "example": "引入自动化设备大幅提高了劳动生产率。",
+    "example_vi": "Việc đưa vào thiết bị tự động hóa đã nâng cao đáng kể năng suất lao động."
+  },
+  {
+    "w": "边际消费倾向",
+    "p": "biānjì xiāofèi qīngxiàng",
+    "m": "khuynh hướng tiêu dùng biên",
+    "example": "低收入群体的边际消费倾向通常更高。",
+    "example_vi": "Khuynh hướng tiêu dùng biên của nhóm thu nhập thấp thường cao hơn."
+  },
+  {
+    "w": "边际储蓄倾向",
+    "p": "biānjì chǔxù qīngxiàng",
+    "m": "khuynh hướng tiết kiệm biên",
+    "example": "收入增加后，边际储蓄倾向也随之上升。",
+    "example_vi": "Sau khi thu nhập tăng, khuynh hướng tiết kiệm biên cũng tăng theo."
+  },
+  {
+    "w": "恩格尔系数",
+    "p": "Ēngé'ěr xìshù",
+    "m": "hệ số Engel",
+    "example": "恩格尔系数是衡量居民生活水平的重要指标。",
+    "example_vi": "Hệ số Engel là chỉ tiêu quan trọng để đo lường mức sống của người dân."
+  },
+  {
+    "w": "购买力平价",
+    "p": "gòumǎilì píngjià",
+    "m": "ngang giá sức mua (PPP)",
+    "example": "经济学家常用购买力平价来比较不同国家的实际收入水平。",
+    "example_vi": "Các nhà kinh tế học thường dùng ngang giá sức mua để so sánh mức thu nhập thực tế giữa các quốc gia."
+  },
+  {
+    "w": "绝对优势",
+    "p": "juéduì yōushì",
+    "m": "lợi thế tuyệt đối",
+    "example": "该国在农业生产方面具有绝对优势。",
+    "example_vi": "Nước này có lợi thế tuyệt đối trong sản xuất nông nghiệp."
+  },
+  {
+    "w": "忆阻器",
+    "p": "yìzǔqì",
+    "m": "memristor, linh kiện điện tử có bộ nhớ điện trở",
+    "example": "忆阻器被认为是未来存储技术的重要突破。",
+    "example_vi": "Memristor được xem là bước đột phá quan trọng của công nghệ lưu trữ tương lai."
+  },
+  {
+    "w": "量子霸权",
+    "p": "liàngzǐ bàquán",
+    "m": "ưu thế lượng tử (quantum supremacy)",
+    "example": "该团队宣称在特定任务上实现了量子霸权。",
+    "example_vi": "Nhóm nghiên cứu tuyên bố đã đạt được ưu thế lượng tử trong một nhiệm vụ cụ thể."
+  },
+  {
+    "w": "基因驱动",
+    "p": "jīyīn qūdòng",
+    "m": "gene drive, kỹ thuật thúc đẩy di truyền",
+    "example": "基因驱动技术可能用于控制携带疾病的蚊虫种群。",
+    "example_vi": "Công nghệ gene drive có thể dùng để kiểm soát quần thể muỗi mang mầm bệnh."
+  },
+  {
+    "w": "表观遗传",
+    "p": "biǎoguān yíchuán",
+    "m": "biểu sinh di truyền (epigenetics)",
+    "example": "表观遗传变化不改变DNA序列本身。",
+    "example_vi": "Sự thay đổi biểu sinh di truyền không làm thay đổi bản thân trình tự DNA."
+  },
+  {
+    "w": "端粒酶",
+    "p": "duānlí méi",
+    "m": "telomerase, men đầu mút nhiễm sắc thể",
+    "example": "端粒酶的活性与细胞衰老密切相关。",
+    "example_vi": "Hoạt tính của telomerase có liên quan mật thiết đến sự lão hóa tế bào."
+  },
+  {
+    "w": "线粒体",
+    "p": "xiànlìtǐ",
+    "m": "ty thể",
+    "example": "线粒体被称为细胞的能量工厂。",
+    "example_vi": "Ty thể được gọi là \"nhà máy năng lượng\" của tế bào."
+  },
+  {
+    "w": "核糖体",
+    "p": "hétángtǐ",
+    "m": "ribosome",
+    "example": "核糖体是合成蛋白质的场所。",
+    "example_vi": "Ribosome là nơi tổng hợp protein."
+  },
+  {
+    "w": "内质网",
+    "p": "nèizhìwǎng",
+    "m": "lưới nội chất (endoplasmic reticulum)",
+    "example": "内质网参与蛋白质和脂质的合成。",
+    "example_vi": "Lưới nội chất tham gia vào quá trình tổng hợp protein và lipid."
+  },
+  {
+    "w": "高尔基体",
+    "p": "Gāo'ěrjītǐ",
+    "m": "thể Golgi",
+    "example": "高尔基体负责加工和运输细胞内的蛋白质。",
+    "example_vi": "Thể Golgi phụ trách gia công và vận chuyển protein trong tế bào."
+  },
+  {
+    "w": "溶酶体",
+    "p": "róngméitǐ",
+    "m": "lysosome, thể tiêu hóa trong tế bào",
+    "example": "溶酶体内含有多种消化酶。",
+    "example_vi": "Bên trong lysosome chứa nhiều loại enzyme tiêu hóa."
+  },
+  {
+    "w": "免疫疗法",
+    "p": "miǎnyì liáofǎ",
+    "m": "liệu pháp miễn dịch",
+    "example": "免疫疗法为癌症治疗带来了新的希望。",
+    "example_vi": "Liệu pháp miễn dịch mang lại hy vọng mới cho việc điều trị ung thư."
+  },
+  {
+    "w": "分子诊断",
+    "p": "fēnzǐ zhěnduàn",
+    "m": "chẩn đoán phân tử",
+    "example": "分子诊断技术能够更早发现疾病。",
+    "example_vi": "Công nghệ chẩn đoán phân tử có thể phát hiện bệnh sớm hơn."
+  },
+  {
+    "w": "药物代谢",
+    "p": "yàowù dàixiè",
+    "m": "chuyển hóa thuốc",
+    "example": "肝脏是药物代谢的主要器官。",
+    "example_vi": "Gan là cơ quan chính thực hiện chuyển hóa thuốc."
+  },
+  {
+    "w": "血脑屏障",
+    "p": "xuènǎo píngzhàng",
+    "m": "hàng rào máu não",
+    "example": "血脑屏障能阻挡有害物质进入大脑。",
+    "example_vi": "Hàng rào máu não có thể ngăn chặn các chất có hại xâm nhập vào não."
+  },
+  {
+    "w": "神经递质",
+    "p": "shénjīng dìzhì",
+    "m": "chất dẫn truyền thần kinh",
+    "example": "多巴胺是一种重要的神经递质。",
+    "example_vi": "Dopamine là một chất dẫn truyền thần kinh quan trọng."
+  },
+  {
+    "w": "内分泌失调",
+    "p": "nèifēnmì shītiáo",
+    "m": "rối loạn nội tiết",
+    "example": "长期熬夜容易导致内分泌失调。",
+    "example_vi": "Thức khuya lâu ngày dễ dẫn đến rối loạn nội tiết."
+  },
+  {
+    "w": "自身免疫",
+    "p": "zìshēn miǎnyì",
+    "m": "tự miễn dịch",
+    "example": "类风湿性关节炎是一种自身免疫疾病。",
+    "example_vi": "Viêm khớp dạng thấp là một bệnh tự miễn dịch."
+  },
+  {
+    "w": "慢性炎症",
+    "p": "mànxìng yánzhèng",
+    "m": "viêm mạn tính",
+    "example": "慢性炎症与多种疾病的发生有关。",
+    "example_vi": "Viêm mạn tính có liên quan đến sự phát sinh của nhiều loại bệnh."
+  },
+  {
+    "w": "易感人群",
+    "p": "yìgǎn rénqún",
+    "m": "nhóm người dễ mắc bệnh (susceptible population)",
+    "example": "老年人和儿童是流感的易感人群。",
+    "example_vi": "Người cao tuổi và trẻ em là nhóm dễ mắc cúm."
+  },
+  {
+    "w": "符号暴力",
+    "p": "fúhào bàolì",
+    "m": "bạo lực biểu tượng (khái niệm xã hội học của Bourdieu)",
+    "example": "布迪厄提出了符号暴力这一概念来解释社会不平等的隐蔽性。",
+    "example_vi": "Bourdieu đã đề xuất khái niệm bạo lực biểu tượng để giải thích tính che giấu của bất bình đẳng xã hội."
+  },
+  {
+    "w": "沉默的螺旋",
+    "p": "chénmò de luóxuán",
+    "m": "vòng xoáy im lặng (lý thuyết truyền thông)",
+    "example": "沉默的螺旋理论解释了人们为何不愿表达少数意见。",
+    "example_vi": "Lý thuyết vòng xoáy im lặng giải thích vì sao mọi người không muốn bày tỏ ý kiến thiểu số."
+  },
+  {
+    "w": "代际差异",
+    "p": "dàijì chāyì",
+    "m": "khác biệt thế hệ",
+    "example": "家庭教育中常常存在明显的代际差异。",
+    "example_vi": "Trong giáo dục gia đình thường tồn tại sự khác biệt thế hệ rõ rệt."
+  },
+  {
+    "w": "空心化",
+    "p": "kōngxīnhuà",
+    "m": "hiện tượng rỗng hóa, mất dân/mất nguồn lực",
+    "example": "许多农村地区面临人口空心化的问题。",
+    "example_vi": "Nhiều vùng nông thôn đang đối mặt với vấn đề rỗng hóa dân số."
+  },
+  {
+    "w": "标签理论",
+    "p": "biāoqiān lǐlùn",
+    "m": "lý thuyết dán nhãn",
+    "example": "标签理论认为社会标签会影响个体的自我认同。",
+    "example_vi": "Lý thuyết dán nhãn cho rằng nhãn xã hội sẽ ảnh hưởng đến sự nhận diện bản thân của mỗi cá nhân."
+  },
+  {
+    "w": "冥思苦想",
+    "p": "míngsī kǔxiǎng",
+    "m": "trầm tư khổ nghĩ, nát óc suy nghĩ",
+    "example": "他冥思苦想了一整晚，也没找到解决办法。",
+    "example_vi": "Anh ấy nát óc suy nghĩ suốt cả đêm mà vẫn không tìm ra cách giải quyết."
+  },
+  {
+    "w": "时乖运蹇",
+    "p": "shíguāi yùnjiǎn",
+    "m": "thời vận không thuận, gặp lúc xui rủi",
+    "example": "他近来时乖运蹇，做什么事都不顺利。",
+    "example_vi": "Dạo này anh ấy gặp vận rủi, làm việc gì cũng không thuận lợi."
+  },
+  {
+    "w": "器宇轩昂",
+    "p": "qìyǔ xuān'áng",
+    "m": "phong thái đường hoàng, khí vũ hiên ngang",
+    "example": "他站在台上器宇轩昂，气度不凡。",
+    "example_vi": "Anh đứng trên sân khấu với phong thái đường hoàng, khí chất phi phàm."
+  },
+  {
+    "w": "玉树临风",
+    "p": "yùshù línfēng",
+    "m": "dáng vẻ tuấn tú thanh thoát như cây ngọc trước gió",
+    "example": "那位年轻演员玉树临风，气质出众。",
+    "example_vi": "Nam diễn viên trẻ đó dáng vẻ tuấn tú thanh thoát, khí chất nổi bật."
+  },
+  {
+    "w": "相形见绌",
+    "p": "xiāngxíng jiànchù",
+    "m": "so sánh mới thấy kém cỏi, lép vế khi đặt cạnh",
+    "example": "与专业选手相比，他的水平相形见绌。",
+    "example_vi": "So với các tuyển thủ chuyên nghiệp, trình độ của anh ấy trở nên kém cỏi hẳn."
+  },
+  {
+    "w": "不遑多让",
+    "p": "bùhuáng duōràng",
+    "m": "không kém cạnh, không thua kém bao nhiêu",
+    "example": "论实力，她与冠军选手相比也不遑多让。",
+    "example_vi": "Về thực lực, cô ấy so với tuyển thủ vô địch cũng không hề kém cạnh."
+  },
+  {
+    "w": "顺藤摸瓜",
+    "p": "shùnténg mōguā",
+    "m": "men theo dây tìm dưa, lần theo manh mối tìm ra sự thật",
+    "example": "警方顺藤摸瓜，最终查获了整个犯罪团伙。",
+    "example_vi": "Cảnh sát lần theo manh mối, cuối cùng đã triệt phá toàn bộ băng nhóm tội phạm."
+  },
+  {
+    "w": "按图索骥",
+    "p": "àntú suǒjì",
+    "m": "theo tranh tìm ngựa, áp dụng máy móc cứng nhắc theo khuôn mẫu",
+    "example": "学习不能只是按图索骥，还要灵活变通。",
+    "example_vi": "Học tập không thể chỉ máy móc rập khuôn, mà còn phải linh hoạt biến thông."
+  },
+  {
+    "w": "条分缕析",
+    "p": "tiáofēn lǚxī",
+    "m": "phân tích rành mạch từng điểm",
+    "example": "老师把这道难题条分缕析，讲解得非常清楚。",
+    "example_vi": "Thầy giáo phân tích bài toán khó này rành mạch từng điểm, giảng giải rất rõ ràng."
+  },
+  {
+    "w": "入情入理",
+    "p": "rùqíng rùlǐ",
+    "m": "hợp tình hợp lý",
+    "example": "他的分析入情入理，令人信服。",
+    "example_vi": "Phân tích của anh ấy hợp tình hợp lý, khiến người ta tin phục."
+  },
+  {
+    "w": "有理有据",
+    "p": "yǒulǐ yǒujù",
+    "m": "có lý có căn cứ",
+    "example": "她的论述有理有据，无可反驳。",
+    "example_vi": "Luận điểm của cô ấy có lý có căn cứ, không thể phản bác."
+  },
+  {
+    "w": "亡命之徒",
+    "p": "wángmìng zhītú",
+    "m": "kẻ liều mạng, tên vô lại bất chấp mạng sống",
+    "example": "这伙亡命之徒作案手段极其凶残。",
+    "example_vi": "Băng nhóm liều mạng này có thủ đoạn gây án vô cùng tàn bạo."
+  },
+  {
+    "w": "兵行险着",
+    "p": "bīngxíng xiǎnzhāo",
+    "m": "đi nước cờ mạo hiểm, hành động chiến lược liều lĩnh",
+    "example": "面对困境，教练决定兵行险着，换上年轻球员。",
+    "example_vi": "Trước tình thế khó khăn, huấn luyện viên quyết định đi nước cờ mạo hiểm, thay vào cầu thủ trẻ."
+  },
+  {
+    "w": "出其不意",
+    "p": "chūqí búyì",
+    "m": "xuất kỳ bất ý, bất ngờ",
+    "example": "他出其不意地提出了一个新方案。",
+    "example_vi": "Anh ấy bất ngờ đưa ra một phương án mới."
+  },
+  {
+    "w": "攻其不备",
+    "p": "gōngqí búbèi",
+    "m": "đánh vào lúc không phòng bị",
+    "example": "兵法讲究出其不意，攻其不备。",
+    "example_vi": "Binh pháp coi trọng việc đánh bất ngờ, tấn công lúc đối phương không phòng bị."
+  },
+  {
+    "w": "引蛇出洞",
+    "p": "yǐnshé chūdòng",
+    "m": "dụ rắn ra khỏi hang, dùng mưu kế để lộ kẻ ẩn giấu",
+    "example": "警方设下圈套，引蛇出洞，抓获了主犯。",
+    "example_vi": "Cảnh sát bày mưu dụ đối tượng lộ diện, bắt được kẻ chủ mưu."
+  },
+  {
+    "w": "瓮中捉鳖",
+    "p": "wèngzhōng zhuōbiē",
+    "m": "bắt ba ba trong vại, chắc chắn tóm được không thể thoát",
+    "example": "罪犯已被包围，如同瓮中捉鳖。",
+    "example_vi": "Tội phạm đã bị bao vây, chẳng khác nào bắt ba ba trong vại."
+  },
+  {
+    "w": "缘木求鱼",
+    "p": "yuánmù qiúyú",
+    "m": "leo cây tìm cá, làm việc sai phương pháp không thể đạt kết quả",
+    "example": "不学基础知识就想解决难题，无异于缘木求鱼。",
+    "example_vi": "Không học kiến thức nền tảng mà muốn giải bài khó, chẳng khác nào leo cây tìm cá."
+  },
+  {
+    "w": "本位主义",
+    "p": "běnwèi zhǔyì",
+    "m": "chủ nghĩa cục bộ, chỉ lo lợi ích riêng của đơn vị mình",
+    "example": "部门之间不能只讲本位主义，要顾全大局。",
+    "example_vi": "Các bộ phận không thể chỉ lo chủ nghĩa cục bộ, mà phải chú ý đến đại cục."
+  },
+  {
+    "w": "教条主义",
+    "p": "jiàotiáo zhǔyì",
+    "m": "chủ nghĩa giáo điều",
+    "example": "脱离实际的教条主义不利于工作开展。",
+    "example_vi": "Chủ nghĩa giáo điều xa rời thực tế không có lợi cho việc triển khai công việc."
+  },
+  {
+    "w": "拿来主义",
+    "p": "nálái zhǔyì",
+    "m": "chủ nghĩa \"mang về dùng\", tiếp thu có chọn lọc (khái niệm của Lỗ Tấn)",
+    "example": "鲁迅提倡拿来主义，主张批判地吸收外来文化。",
+    "example_vi": "Lỗ Tấn đề xướng \"chủ nghĩa mang về dùng\", chủ trương tiếp thu văn hóa ngoại lai một cách có phê phán."
+  },
+  {
+    "w": "折中主义",
+    "p": "zhézhōng zhǔyì",
+    "m": "chủ nghĩa chiết trung",
+    "example": "他在处理矛盾时常常采取折中主义的态度。",
+    "example_vi": "Khi xử lý mâu thuẫn, anh ấy thường có thái độ chiết trung."
+  },
+  {
+    "w": "极简主义",
+    "p": "jíjiǎn zhǔyì",
+    "m": "chủ nghĩa tối giản",
+    "example": "极简主义风格的设计强调简洁与实用。",
+    "example_vi": "Thiết kế theo phong cách tối giản nhấn mạnh sự đơn giản và thực dụng."
+  },
+  {
+    "w": "消费主义",
+    "p": "xiāofèi zhǔyì",
+    "m": "chủ nghĩa tiêu dùng",
+    "example": "消费主义盛行导致人们过度追求物质享受。",
+    "example_vi": "Chủ nghĩa tiêu dùng thịnh hành khiến người ta theo đuổi hưởng thụ vật chất quá mức."
+  },
+  {
+    "w": "拜金主义",
+    "p": "bàijīn zhǔyì",
+    "m": "chủ nghĩa sùng bái đồng tiền",
+    "example": "社会应警惕拜金主义带来的价值观扭曲。",
+    "example_vi": "Xã hội cần cảnh giác với sự lệch lạc giá trị quan do chủ nghĩa sùng bái đồng tiền gây ra."
+  },
+  {
+    "w": "享乐主义",
+    "p": "xiǎnglè zhǔyì",
+    "m": "chủ nghĩa hưởng lạc",
+    "example": "一味追求享乐主义会让人失去奋斗的动力。",
+    "example_vi": "Chỉ một mực theo đuổi chủ nghĩa hưởng lạc sẽ khiến người ta mất đi động lực phấn đấu."
+  },
+  {
+    "w": "利己主义",
+    "p": "lìjǐ zhǔyì",
+    "m": "chủ nghĩa vị kỷ",
+    "example": "极端利己主义者往往忽视他人的利益。",
+    "example_vi": "Người theo chủ nghĩa vị kỷ cực đoan thường bỏ qua lợi ích của người khác."
+  },
+  {
+    "w": "利他主义",
+    "p": "lìtā zhǔyì",
+    "m": "chủ nghĩa vị tha",
+    "example": "志愿者的行为体现了利他主义精神。",
+    "example_vi": "Hành động của tình nguyện viên thể hiện tinh thần chủ nghĩa vị tha."
+  },
+  {
+    "w": "古典主义",
+    "p": "gǔdiǎn zhǔyì",
+    "m": "chủ nghĩa cổ điển",
+    "example": "古典主义强调理性、秩序与形式的严谨。",
+    "example_vi": "Chủ nghĩa cổ điển nhấn mạnh lý tính, trật tự và sự chặt chẽ về hình thức."
+  },
+  {
+    "w": "悲观主义",
+    "p": "bēiguān zhǔyì",
+    "m": "chủ nghĩa bi quan",
+    "example": "过度的悲观主义不利于身心健康。",
+    "example_vi": "Chủ nghĩa bi quan quá mức không có lợi cho sức khỏe thể chất và tinh thần."
+  },
+  {
+    "w": "乐观主义",
+    "p": "lèguān zhǔyì",
+    "m": "chủ nghĩa lạc quan",
+    "example": "他始终以乐观主义的态度面对生活。",
+    "example_vi": "Anh ấy luôn đối mặt với cuộc sống bằng thái độ lạc quan."
+  },
+  {
+    "w": "绝对主义",
+    "p": "juéduì zhǔyì",
+    "m": "chủ nghĩa tuyệt đối",
+    "example": "在道德判断上，他反对绝对主义的立场。",
+    "example_vi": "Trong phán đoán đạo đức, anh ấy phản đối lập trường của chủ nghĩa tuyệt đối."
+  },
+  {
+    "w": "量刑情节",
+    "p": "liàngxíng qíngjié",
+    "m": "tình tiết lượng hình, các yếu tố ảnh hưởng đến mức án",
+    "example": "自首属于法定的从轻量刑情节。",
+    "example_vi": "Đầu thú thuộc tình tiết lượng hình giảm nhẹ theo quy định pháp luật."
+  },
+  {
+    "w": "从轻处罚",
+    "p": "cóngqīng chǔfá",
+    "m": "xử phạt nhẹ hơn",
+    "example": "由于认罪态度良好，法院对其从轻处罚。",
+    "example_vi": "Do thái độ nhận tội tốt, tòa án đã xử phạt nhẹ hơn đối với bị cáo."
+  },
+  {
+    "w": "减轻处罚",
+    "p": "jiǎnqīng chǔfá",
+    "m": "giảm nhẹ hình phạt",
+    "example": "未成年人犯罪依法可以减轻处罚。",
+    "example_vi": "Người chưa thành niên phạm tội theo luật có thể được giảm nhẹ hình phạt."
+  },
+  {
+    "w": "数罪并罚",
+    "p": "shùzuì bìngfá",
+    "m": "hợp phạt nhiều tội, tổng hợp hình phạt khi phạm nhiều tội",
+    "example": "被告人犯有多项罪名，法院依法数罪并罚。",
+    "example_vi": "Bị cáo phạm nhiều tội danh, tòa án đã tổng hợp hình phạt theo quy định pháp luật."
+  },
+  {
+    "w": "缓期执行",
+    "p": "huǎnqī zhíxíng",
+    "m": "hoãn thi hành (án treo có thời hạn)",
+    "example": "法官对被告人适用了缓期执行的量刑方式。",
+    "example_vi": "Thẩm phán đã áp dụng phương thức tuyên án hoãn thi hành đối với bị cáo."
+  },
+  {
+    "w": "假想防卫",
+    "p": "jiǎxiǎng fángwèi",
+    "m": "phòng vệ tưởng tượng (putative self-defense)",
+    "example": "假想防卫是指行为人误认为存在不法侵害而实施的防卫行为。",
+    "example_vi": "Phòng vệ tưởng tượng chỉ hành vi phòng vệ được thực hiện do người đó nhầm tưởng có sự xâm hại trái pháp luật."
+  },
+  {
+    "w": "紧急避险",
+    "p": "jǐnjí bìxiǎn",
+    "m": "tình thế cấp thiết (necessity)",
+    "example": "为了避免更大损失而采取紧急避险行为不负刑事责任。",
+    "example_vi": "Hành vi thực hiện trong tình thế cấp thiết nhằm tránh thiệt hại lớn hơn thì không phải chịu trách nhiệm hình sự."
+  },
+  {
+    "w": "犯罪未遂",
+    "p": "fànzuì wèisuì",
+    "m": "phạm tội chưa đạt",
+    "example": "由于警方及时介入，该案属于犯罪未遂。",
+    "example_vi": "Do cảnh sát can thiệp kịp thời, vụ án này thuộc trường hợp phạm tội chưa đạt."
+  },
+  {
+    "w": "犯罪中止",
+    "p": "fànzuì zhōngzhǐ",
+    "m": "tự ý nửa chừng chấm dứt việc phạm tội",
+    "example": "行为人主动放弃犯罪，属于犯罪中止。",
+    "example_vi": "Người thực hiện hành vi chủ động từ bỏ việc phạm tội thì thuộc trường hợp tự ý chấm dứt phạm tội."
+  },
+  {
+    "w": "共同犯罪",
+    "p": "gòngtóng fànzuì",
+    "m": "đồng phạm",
+    "example": "三人事先合谋作案，构成共同犯罪。",
+    "example_vi": "Ba người bàn bạc trước khi gây án, cấu thành tội đồng phạm."
+  },
+  {
+    "w": "剥夺政治权利",
+    "p": "bōduó zhèngzhì quánlì",
+    "m": "tước quyền chính trị",
+    "example": "法院判处其有期徒刑，并附加剥夺政治权利。",
+    "example_vi": "Tòa án tuyên phạt tù có thời hạn, kèm theo hình phạt bổ sung tước quyền chính trị."
+  },
+  {
+    "w": "营养级",
+    "p": "yíngyǎngjí",
+    "m": "bậc dinh dưỡng (trophic level)",
+    "example": "食物链中每个营养级的能量都会逐级递减。",
+    "example_vi": "Trong chuỗi thức ăn, năng lượng ở mỗi bậc dinh dưỡng sẽ giảm dần theo từng cấp."
+  },
+  {
+    "w": "群落演替",
+    "p": "qúnluò yǎntì",
+    "m": "diễn thế quần xã (ecological succession)",
+    "example": "森林火灾后会发生明显的群落演替过程。",
+    "example_vi": "Sau cháy rừng sẽ xảy ra quá trình diễn thế quần xã rõ rệt."
+  },
+  {
+    "w": "栖息地破碎化",
+    "p": "qīxīdì pòsuìhuà",
+    "m": "phân mảnh sinh cảnh (habitat fragmentation)",
+    "example": "城市扩张导致野生动物栖息地破碎化。",
+    "example_vi": "Sự mở rộng đô thị khiến sinh cảnh của động vật hoang dã bị phân mảnh."
+  },
+  {
+    "w": "岩浆活动",
+    "p": "yánjiāng huódòng",
+    "m": "hoạt động magma (mắc-ma)",
+    "example": "火山喷发是岩浆活动的直接结果。",
+    "example_vi": "Núi lửa phun trào là kết quả trực tiếp của hoạt động magma."
+  },
+  {
+    "w": "风化作用",
+    "p": "fēnghuà zuòyòng",
+    "m": "tác dụng phong hóa",
+    "example": "长期的风化作用使岩石表面逐渐剥落。",
+    "example_vi": "Tác dụng phong hóa lâu dài khiến bề mặt đá dần bong tróc."
+  },
+  {
+    "w": "沉积岩",
+    "p": "chénjīyán",
+    "m": "đá trầm tích",
+    "example": "沉积岩通常含有丰富的化石。",
+    "example_vi": "Đá trầm tích thường chứa nhiều hóa thạch."
+  },
+  {
+    "w": "侵蚀作用",
+    "p": "qīnshí zuòyòng",
+    "m": "tác dụng xâm thực (erosion)",
+    "example": "河流的侵蚀作用塑造了峡谷的地形。",
+    "example_vi": "Tác dụng xâm thực của dòng sông đã tạo nên địa hình hẻm núi."
+  }
+]

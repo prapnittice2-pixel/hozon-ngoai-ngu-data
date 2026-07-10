@@ -1,0 +1,422 @@
+[
+  {
+    "w": "阴阳五行",
+    "p": "yīnyáng wǔxíng",
+    "m": "âm dương ngũ hành",
+    "example": "中医理论深受阴阳五行学说的影响。",
+    "example_vi": "Lý luận Đông y chịu ảnh hưởng sâu sắc từ học thuyết âm dương ngũ hành."
+  },
+  {
+    "w": "因果报应",
+    "p": "yīnguǒ bàoyìng",
+    "m": "nhân quả báo ứng",
+    "example": "他始终相信因果报应，行善积德。",
+    "example_vi": "Anh ấy luôn tin vào nhân quả báo ứng nên làm việc thiện tích đức."
+  },
+  {
+    "w": "缘起性空",
+    "p": "yuánqǐ xìngkōng",
+    "m": "duyên khởi tính không (Phật giáo: vạn vật do duyên sinh nên vốn không có tự tính)",
+    "example": "佛教用缘起性空来解释世间万物的本质。",
+    "example_vi": "Phật giáo dùng thuyết duyên khởi tính không để giải thích bản chất của vạn vật trên đời."
+  },
+  {
+    "w": "楚辞",
+    "p": "Chǔcí",
+    "m": "Sở từ (thể thơ ca cổ nước Sở, tiêu biểu là Khuất Nguyên)",
+    "example": "《楚辞》是屈原等人创作的诗歌总集。",
+    "example_vi": "\"Sở từ\" là tuyển tập thơ ca do Khuất Nguyên và những người khác sáng tác."
+  },
+  {
+    "w": "乐府诗",
+    "p": "yuèfǔshī",
+    "m": "nhạc phủ thi (thơ ca dân gian được nhạc phủ triều Hán sưu tầm)",
+    "example": "《木兰诗》是一首著名的乐府诗。",
+    "example_vi": "\"Mộc Lan thi\" là một bài nhạc phủ nổi tiếng."
+  },
+  {
+    "w": "话本小说",
+    "p": "huàběn xiǎoshuō",
+    "m": "tiểu thuyết thoại bản (văn học kể chuyện dân gian thời Tống-Nguyên)",
+    "example": "话本小说为后来的白话小说奠定了基础。",
+    "example_vi": "Tiểu thuyết thoại bản đã đặt nền móng cho tiểu thuyết bạch thoại về sau."
+  },
+  {
+    "w": "章回小说",
+    "p": "zhānghuí xiǎoshuō",
+    "m": "tiểu thuyết chương hồi",
+    "example": "《西游记》是中国古典章回小说的代表作。",
+    "example_vi": "\"Tây Du Ký\" là tác phẩm tiêu biểu của tiểu thuyết chương hồi cổ điển Trung Quốc."
+  },
+  {
+    "w": "皮里阳秋",
+    "p": "pílǐ yángqiū",
+    "m": "phê bình ngầm không nói thẳng, ẩn ý khen chê trong lòng",
+    "example": "他说话皮里阳秋，让人难以捉摸真实想法。",
+    "example_vi": "Anh ta nói năng ẩn ý khen chê không rõ ràng, khiến người khác khó đoán được suy nghĩ thật."
+  },
+  {
+    "w": "言不尽意",
+    "p": "yán bù jìn yì",
+    "m": "lời không nói hết ý, ý ở ngoài lời",
+    "example": "这首诗言不尽意，留给读者无限遐想。",
+    "example_vi": "Bài thơ này lời không nói hết ý, để lại cho người đọc sự liên tưởng vô hạn."
+  },
+  {
+    "w": "得意忘言",
+    "p": "déyì wàngyán",
+    "m": "đắc ý quên lời, hiểu được ý thì quên mất lời nói (Trang Tử)",
+    "example": "庄子提出得意忘言，强调领悟真意重于言辞本身。",
+    "example_vi": "Trang Tử đề xuất thuyết \"đắc ý quên lời\", nhấn mạnh việc lĩnh hội ý nghĩa thật quan trọng hơn bản thân lời nói."
+  },
+  {
+    "w": "诗言志",
+    "p": "shī yán zhì",
+    "m": "thơ nói lên chí hướng (quan niệm cổ về chức năng của thơ ca)",
+    "example": "\"诗言志\"是中国古代诗论的重要观点。",
+    "example_vi": "\"Thơ nói lên chí hướng\" là quan điểm quan trọng trong lý luận thơ ca cổ đại Trung Quốc."
+  },
+  {
+    "w": "温柔敦厚",
+    "p": "wēnróu dūnhòu",
+    "m": "ôn nhu đôn hậu (phẩm cách thơ ca ôn hòa, hậu hĩ theo quan niệm Nho gia)",
+    "example": "传统诗教讲究温柔敦厚，含蓄而不激烈。",
+    "example_vi": "Giáo dục thơ ca truyền thống coi trọng sự ôn nhu đôn hậu, hàm súc mà không gay gắt."
+  },
+  {
+    "w": "揠苗助长",
+    "p": "yà miáo zhù zhǎng",
+    "m": "nhổ mạ giúp lớn, nóng vội làm hỏng việc",
+    "example": "教育孩子不能揠苗助长，要顺应其成长规律。",
+    "example_vi": "Giáo dục trẻ con không thể nóng vội đốt cháy giai đoạn, phải thuận theo quy luật trưởng thành của trẻ."
+  },
+  {
+    "w": "城门失火殃及池鱼",
+    "p": "chéngmén shīhuǒ yāng jí chíyú",
+    "m": "thành môn thất hỏa ương cập trì ngư, vạ lây người vô can",
+    "example": "这场纠纷本与他无关，没想到城门失火殃及池鱼。",
+    "example_vi": "Cuộc tranh chấp này vốn không liên quan đến anh ta, không ngờ lại bị vạ lây."
+  },
+  {
+    "w": "螳螂捕蝉黄雀在后",
+    "p": "tángláng bǔ chán huángquè zài hòu",
+    "m": "bọ ngựa bắt ve sầu, chim sẻ vàng rình sau lưng, chỉ mưu tính trước mắt mà quên hiểm họa phía sau",
+    "example": "他只顾眼前利益，没想到螳螂捕蝉黄雀在后。",
+    "example_vi": "Anh ta chỉ lo lợi ích trước mắt mà không ngờ mình lại là kẻ bị rình rập từ phía sau."
+  },
+  {
+    "w": "项庄舞剑意在沛公",
+    "p": "Xiàng Zhuāng wǔ jiàn yì zài Pèigōng",
+    "m": "Hạng Trang múa kiếm, ý ở Bái Công, bề ngoài làm việc này nhưng thực chất nhằm mục đích khác",
+    "example": "他表面上是来谈合作，实则项庄舞剑意在沛公。",
+    "example_vi": "Bề ngoài anh ta đến để bàn hợp tác, nhưng thực chất là có ý đồ khác."
+  },
+  {
+    "w": "完璧归赵",
+    "p": "wánbì guī Zhào",
+    "m": "hoàn bích quy Triệu, trả lại vật nguyên vẹn cho chủ",
+    "example": "借来的东西一定要完璧归赵。",
+    "example_vi": "Đồ vay mượn thì nhất định phải trả lại nguyên vẹn."
+  },
+  {
+    "w": "图穷匕见",
+    "p": "tú qióng bǐ xiàn",
+    "m": "bản đồ mở hết, dao găm lộ ra, âm mưu cuối cùng bị lộ tẩy",
+    "example": "谈判到最后，双方图穷匕见，矛盾彻底爆发。",
+    "example_vi": "Đàm phán đến cuối cùng, ý đồ thật của hai bên lộ ra, mâu thuẫn bùng nổ hoàn toàn."
+  },
+  {
+    "w": "秦晋之好",
+    "p": "Qín Jìn zhī hǎo",
+    "m": "tình Tần Tấn, chỉ quan hệ thông gia, hôn nhân giữa hai gia đình",
+    "example": "两家企业通过联姻结成秦晋之好。",
+    "example_vi": "Hai doanh nghiệp thông qua hôn nhân mà kết thành quan hệ thông gia thân thiết."
+  },
+  {
+    "w": "皮之不存毛将焉附",
+    "p": "pí zhī bù cún máo jiāng yān fù",
+    "m": "da không còn thì lông bám vào đâu, cái gốc mất thì cái ngọn không còn chỗ dựa",
+    "example": "皮之不存毛将焉附，没有国哪有家。",
+    "example_vi": "Da không còn thì lông biết bám vào đâu, không có nước thì làm gì có nhà."
+  },
+  {
+    "w": "忠孝节义",
+    "p": "zhōng xiào jié yì",
+    "m": "trung hiếu tiết nghĩa, bốn đức tính truyền thống Nho gia",
+    "example": "传统戏曲中常常宣扬忠孝节义的观念。",
+    "example_vi": "Trong hí kịch truyền thống thường tuyên truyền quan niệm trung hiếu tiết nghĩa."
+  },
+  {
+    "w": "兼爱非攻",
+    "p": "jiān ài fēi gōng",
+    "m": "kiêm ái phi công, tư tưởng cốt lõi của Mặc Tử: yêu thương bình đẳng, phản đối chiến tranh xâm lược",
+    "example": "墨子主张兼爱非攻，反对诸侯之间的战争。",
+    "example_vi": "Mặc Tử chủ trương kiêm ái phi công, phản đối chiến tranh giữa các chư hầu."
+  },
+  {
+    "w": "大同世界",
+    "p": "dàtóng shìjiè",
+    "m": "thế giới đại đồng, lý tưởng xã hội hòa bình bình đẳng trong Lễ Ký",
+    "example": "《礼记》中描绘了天下为公的大同世界。",
+    "example_vi": "Trong \"Lễ Ký\" miêu tả thế giới đại đồng \"thiên hạ vi công\"."
+  },
+  {
+    "w": "格物穷理",
+    "p": "géwù qiónglǐ",
+    "m": "cách vật cùng lý, khảo cứu sự vật để tìm tận cùng đạo lý (Lý học đời Tống)",
+    "example": "宋代理学家主张格物穷理以求真知。",
+    "example_vi": "Các nhà Lý học đời Tống chủ trương cách vật cùng lý để tìm chân tri."
+  },
+  {
+    "w": "知易行难",
+    "p": "zhī yì xíng nán",
+    "m": "biết thì dễ, làm thì khó",
+    "example": "道理谁都懂，但知易行难，坚持才是关键。",
+    "example_vi": "Đạo lý ai cũng hiểu, nhưng biết thì dễ làm thì khó, kiên trì mới là then chốt."
+  },
+  {
+    "w": "明心见性",
+    "p": "míngxīn jiànxìng",
+    "m": "minh tâm kiến tính, soi sáng tâm để thấy được bản tính (Thiền tông)",
+    "example": "禅宗追求明心见性，直悟本心。",
+    "example_vi": "Thiền tông theo đuổi việc minh tâm kiến tính, trực ngộ bản tâm."
+  },
+  {
+    "w": "顿悟渐修",
+    "p": "dùnwù jiànxiū",
+    "m": "đốn ngộ tiệm tu, giác ngộ tức thời nhưng tu tập dần dần (Thiền tông)",
+    "example": "佛家讲顿悟渐修，悟后仍需修行。",
+    "example_vi": "Nhà Phật nói về đốn ngộ tiệm tu, sau khi giác ngộ vẫn cần tu hành."
+  },
+  {
+    "w": "色即是空",
+    "p": "sè jí shì kōng",
+    "m": "sắc tức thị không (Bát Nhã Tâm Kinh)",
+    "example": "《心经》说色即是空，空即是色。",
+    "example_vi": "\"Tâm Kinh\" nói sắc tức là không, không tức là sắc."
+  },
+  {
+    "w": "空即是色",
+    "p": "kōng jí shì sè",
+    "m": "không tức thị sắc",
+    "example": "空即是色这句话揭示了现象与本质的关系。",
+    "example_vi": "Câu \"không tức là sắc\" này hé lộ mối quan hệ giữa hiện tượng và bản chất."
+  },
+  {
+    "w": "不立文字",
+    "p": "bù lì wénzì",
+    "m": "không dựng chữ nghĩa, chân lý vượt trên ngôn từ văn tự (Thiền tông)",
+    "example": "禅宗讲究不立文字，教外别传。",
+    "example_vi": "Thiền tông coi trọng việc không dựng chữ nghĩa, truyền thụ ngoài giáo lý văn bản."
+  },
+  {
+    "w": "直指人心",
+    "p": "zhízhǐ rénxīn",
+    "m": "chỉ thẳng vào lòng người (Thiền tông)",
+    "example": "禅法直指人心，见性成佛。",
+    "example_vi": "Thiền pháp chỉ thẳng vào lòng người, thấy tính thành Phật."
+  },
+  {
+    "w": "见性成佛",
+    "p": "jiànxìng chéngfó",
+    "m": "kiến tính thành Phật",
+    "example": "禅宗认为人人皆可见性成佛。",
+    "example_vi": "Thiền tông cho rằng ai cũng có thể kiến tính thành Phật."
+  },
+  {
+    "w": "六道轮回",
+    "p": "liùdào lúnhuí",
+    "m": "lục đạo luân hồi",
+    "example": "佛教认为众生在六道轮回中流转不息。",
+    "example_vi": "Phật giáo cho rằng chúng sinh luân chuyển không ngừng trong sáu cõi luân hồi."
+  },
+  {
+    "w": "皓首穷经",
+    "p": "hàoshǒu qióngjīng",
+    "m": "đầu bạc vẫn miệt mài nghiên cứu kinh sách",
+    "example": "老教授皓首穷经，一生致力于古籍研究。",
+    "example_vi": "Vị giáo sư già miệt mài nghiên cứu kinh sách đến bạc đầu, cả đời cống hiến cho việc nghiên cứu cổ tịch."
+  },
+  {
+    "w": "结党营私",
+    "p": "jiédǎng yíngsī",
+    "m": "kết bè kéo cánh mưu lợi riêng",
+    "example": "那些官员结党营私，损害了国家利益。",
+    "example_vi": "Những quan chức đó kết bè kéo cánh mưu lợi riêng, gây tổn hại đến lợi ích quốc gia."
+  },
+  {
+    "w": "党同伐异",
+    "p": "dǎngtóng fáyì",
+    "m": "bênh vực người cùng phe, đả kích người khác phe",
+    "example": "学术讨论应该实事求是，不能党同伐异。",
+    "example_vi": "Thảo luận học thuật cần thực sự cầu thị, không thể bênh phe mình đánh phe khác."
+  },
+  {
+    "w": "顺我者昌逆我者亡",
+    "p": "shùn wǒ zhě chāng nì wǒ zhě wáng",
+    "m": "thuận ta thì sống, nghịch ta thì chết, mô tả kẻ độc đoán chuyên quyền",
+    "example": "这个暴君奉行顺我者昌逆我者亡的统治方式。",
+    "example_vi": "Tên bạo chúa này theo đuổi cách cai trị thuận ta thì sống, nghịch ta thì chết."
+  },
+  {
+    "w": "成也萧何败也萧何",
+    "p": "chéng yě Xiāo Hé bài yě Xiāo Hé",
+    "m": "thành cũng do Tiêu Hà, bại cũng do Tiêu Hà, thành bại đều do cùng một nguyên nhân",
+    "example": "他的公司因为这项技术崛起，也因为它衰落，真是成也萧何败也萧何。",
+    "example_vi": "Công ty anh ấy nhờ công nghệ này mà trỗi dậy, cũng vì nó mà suy tàn, đúng là thành cũng do nó, bại cũng do nó."
+  },
+  {
+    "w": "醉翁之意不在酒",
+    "p": "zuìwēng zhī yì bú zài jiǔ",
+    "m": "ý của ông già say không phải ở rượu, ngụ ý khác không nói ra mục đích thật",
+    "example": "他嘴上说是来叙旧，其实醉翁之意不在酒。",
+    "example_vi": "Miệng thì nói là đến để hàn huyên, nhưng thực ra là có ý đồ khác."
+  },
+  {
+    "w": "假道伐虢",
+    "p": "jiǎ dào fá Guó",
+    "m": "mượn đường đánh nước Quắc, mượn cớ để thực hiện mục đích thật",
+    "example": "这是一招假道伐虢，表面借路，实则图谋对方领土。",
+    "example_vi": "Đây là chiêu mượn đường đánh nước khác, bề ngoài là mượn đường nhưng thực chất là mưu đồ lãnh thổ của đối phương."
+  },
+  {
+    "w": "反间计",
+    "p": "fǎnjiànjì",
+    "m": "kế phản gián",
+    "example": "将领巧用反间计，成功瓦解了敌军的联盟。",
+    "example_vi": "Vị tướng khéo léo dùng kế phản gián, thành công phá vỡ liên minh của quân địch."
+  },
+  {
+    "w": "郢书燕说",
+    "p": "Yǐng shū Yān shuō",
+    "m": "thư nước Sính, lời giải nước Yên, chỉ sự suy diễn gán ghép vô tình hợp lý",
+    "example": "这种解读纯属郢书燕说，并非作者本意。",
+    "example_vi": "Cách diễn giải này thuần túy là suy diễn gán ghép, không phải ý định ban đầu của tác giả."
+  },
+  {
+    "w": "测不准原理",
+    "p": "cè bù zhǔn yuánlǐ",
+    "m": "nguyên lý bất định (Heisenberg)",
+    "example": "测不准原理指出无法同时精确测量粒子的位置和动量。",
+    "example_vi": "Nguyên lý bất định chỉ ra rằng không thể đo chính xác đồng thời vị trí và động lượng của hạt."
+  },
+  {
+    "w": "波粒二象性",
+    "p": "bōlì èrxiàngxìng",
+    "m": "lưỡng tính sóng-hạt",
+    "example": "光同时具有波粒二象性。",
+    "example_vi": "Ánh sáng đồng thời có lưỡng tính sóng-hạt."
+  },
+  {
+    "w": "薛定谔的猫",
+    "p": "Xuēdìng'é de māo",
+    "m": "con mèo của Schrödinger",
+    "example": "薛定谔的猫是用来说明量子叠加态的著名思想实验。",
+    "example_vi": "Con mèo của Schrödinger là thí nghiệm tưởng tượng nổi tiếng dùng để minh họa trạng thái chồng chập lượng tử."
+  },
+  {
+    "w": "平行宇宙",
+    "p": "píngxíng yǔzhòu",
+    "m": "vũ trụ song song",
+    "example": "科幻电影经常探讨平行宇宙的概念。",
+    "example_vi": "Phim khoa học viễn tưởng thường khai thác khái niệm vũ trụ song song."
+  },
+  {
+    "w": "大统一理论",
+    "p": "dà tǒngyī lǐlùn",
+    "m": "lý thuyết đại thống nhất",
+    "example": "物理学家一直在寻找能解释四种基本力的大统一理论。",
+    "example_vi": "Các nhà vật lý luôn tìm kiếm lý thuyết đại thống nhất có thể giải thích bốn lực cơ bản."
+  },
+  {
+    "w": "格律诗",
+    "p": "gélǜshī",
+    "m": "thơ luật, thơ có niêm luật chặt chẽ",
+    "example": "格律诗对平仄和对仗有严格要求。",
+    "example_vi": "Thơ luật có yêu cầu nghiêm ngặt về bằng trắc và đối ngẫu."
+  },
+  {
+    "w": "近体诗",
+    "p": "jìntǐshī",
+    "m": "thơ cận thể, thơ luật đời Đường trở đi",
+    "example": "近体诗形成于唐代，讲究格律。",
+    "example_vi": "Thơ cận thể hình thành từ đời Đường, coi trọng niêm luật."
+  },
+  {
+    "w": "文人画",
+    "p": "wénrénhuà",
+    "m": "văn nhân họa, tranh của giới trí thức chú trọng ý cảnh hơn kỹ thuật",
+    "example": "文人画注重意境的表达，而非单纯的写实。",
+    "example_vi": "Văn nhân họa chú trọng diễn đạt ý cảnh, chứ không đơn thuần tả thực."
+  },
+  {
+    "w": "写意画",
+    "p": "xiěyìhuà",
+    "m": "tranh tả ý, bút pháp phóng khoáng chú trọng thần thái",
+    "example": "齐白石擅长写意画，寥寥数笔便传神。",
+    "example_vi": "Tề Bạch Thạch giỏi vẽ tranh tả ý, chỉ vài nét bút đã truyền được thần thái."
+  },
+  {
+    "w": "金石篆刻",
+    "p": "jīnshí zhuànkè",
+    "m": "kim thạch triện khắc, nghệ thuật khắc chữ triện trên đá và kim loại",
+    "example": "他自幼学习金石篆刻，技艺精湛。",
+    "example_vi": "Anh ấy học nghệ thuật kim thạch triện khắc từ nhỏ, tay nghề tinh xảo."
+  },
+  {
+    "w": "帖学",
+    "p": "tièxué",
+    "m": "thiếp học, môn nghiên cứu thư pháp theo các bản thiếp mẫu",
+    "example": "帖学以历代名家法帖为学习范本。",
+    "example_vi": "Thiếp học lấy các thiếp mẫu của danh gia các đời làm khuôn mẫu học tập."
+  },
+  {
+    "w": "碑学",
+    "p": "bēixué",
+    "m": "bi học, môn nghiên cứu thư pháp theo văn bia",
+    "example": "清代碑学兴起，推动了书法风格的革新。",
+    "example_vi": "Bi học hưng khởi vào đời Thanh, thúc đẩy sự cách tân phong cách thư pháp."
+  },
+  {
+    "w": "性善论",
+    "p": "xìngshànlùn",
+    "m": "thuyết tính thiện (Mạnh Tử)",
+    "example": "孟子提出性善论，认为人性本善。",
+    "example_vi": "Mạnh Tử đề xuất thuyết tính thiện, cho rằng bản tính con người vốn thiện."
+  },
+  {
+    "w": "性恶论",
+    "p": "xìng'èlùn",
+    "m": "thuyết tính ác (Tuân Tử)",
+    "example": "荀子的性恶论强调后天教化的重要性。",
+    "example_vi": "Thuyết tính ác của Tuân Tử nhấn mạnh tầm quan trọng của giáo hóa hậu thiên."
+  },
+  {
+    "w": "天命观",
+    "p": "tiānmìngguān",
+    "m": "thiên mệnh quan, quan niệm về mệnh trời",
+    "example": "古代帝王常用天命观来论证统治的合法性。",
+    "example_vi": "Các đế vương thời cổ thường dùng thiên mệnh quan để chứng minh tính hợp pháp của việc cai trị."
+  },
+  {
+    "w": "民本思想",
+    "p": "mínběn sīxiǎng",
+    "m": "tư tưởng dân bản, lấy dân làm gốc",
+    "example": "儒家的民本思想主张统治者应以民为本。",
+    "example_vi": "Tư tưởng dân bản của Nho gia chủ trương người cai trị nên lấy dân làm gốc."
+  },
+  {
+    "w": "大一统",
+    "p": "dàyītǒng",
+    "m": "đại nhất thống",
+    "example": "秦始皇建立了中国历史上第一个大一统王朝。",
+    "example_vi": "Tần Thủy Hoàng đã lập nên vương triều đại nhất thống đầu tiên trong lịch sử Trung Quốc."
+  },
+  {
+    "w": "华夷之辨",
+    "p": "huáyí zhī biàn",
+    "m": "Hoa Di chi biện, phân biệt Hoa Hạ và các dân tộc xung quanh trong tư tưởng cổ đại",
+    "example": "华夷之辨是中国古代重要的政治文化观念。",
+    "example_vi": "Hoa Di chi biện là quan niệm chính trị văn hóa quan trọng thời cổ đại Trung Quốc."
+  }
+]

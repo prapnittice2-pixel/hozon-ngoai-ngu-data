@@ -1,0 +1,352 @@
+[
+  {
+    "w": "乌云",
+    "p": "wūyún",
+    "m": "mây đen, mây u ám",
+    "example": "天上乌云密布，好像要下雨了。",
+    "example_vi": "Trên trời mây đen dày đặc, có vẻ như trời sắp mưa."
+  },
+  {
+    "w": "大雾",
+    "p": "dàwù",
+    "m": "sương mù dày đặc",
+    "example": "今天大雾，能见度很低。",
+    "example_vi": "Hôm nay sương mù dày đặc, tầm nhìn rất thấp."
+  },
+  {
+    "w": "朝霞",
+    "p": "zhāoxiá",
+    "m": "ráng mây buổi sáng",
+    "example": "清晨的朝霞非常美丽。",
+    "example_vi": "Ráng mây buổi sáng sớm rất đẹp."
+  },
+  {
+    "w": "晚霞",
+    "p": "wǎnxiá",
+    "m": "ráng chiều",
+    "example": "我们坐在海边看晚霞。",
+    "example_vi": "Chúng tôi ngồi bên bờ biển ngắm ráng chiều."
+  },
+  {
+    "w": "露水",
+    "p": "lùshuǐ",
+    "m": "sương, giọt sương",
+    "example": "早上草地上有很多露水。",
+    "example_vi": "Buổi sáng trên bãi cỏ có rất nhiều sương."
+  },
+  {
+    "w": "腰带",
+    "p": "yāodài",
+    "m": "thắt lưng, dây lưng",
+    "example": "他系了一条黑色腰带。",
+    "example_vi": "Anh ấy thắt một chiếc thắt lưng màu đen."
+  },
+  {
+    "w": "首饰",
+    "p": "shǒushi",
+    "m": "đồ trang sức",
+    "example": "她喜欢戴各种首饰。",
+    "example_vi": "Cô ấy thích đeo nhiều loại trang sức khác nhau."
+  },
+  {
+    "w": "手镯",
+    "p": "shǒuzhuó",
+    "m": "vòng tay",
+    "example": "妈妈送给我一个银手镯。",
+    "example_vi": "Mẹ tặng tôi một chiếc vòng tay bạc."
+  },
+  {
+    "w": "化妆品",
+    "p": "huàzhuāngpǐn",
+    "m": "mỹ phẩm",
+    "example": "这家商店卖很多化妆品。",
+    "example_vi": "Cửa hàng này bán rất nhiều mỹ phẩm."
+  },
+  {
+    "w": "口红",
+    "p": "kǒuhóng",
+    "m": "son môi",
+    "example": "她涂了一支红色口红。",
+    "example_vi": "Cô ấy thoa một thỏi son môi màu đỏ."
+  },
+  {
+    "w": "香水",
+    "p": "xiāngshuǐ",
+    "m": "nước hoa",
+    "example": "这瓶香水很好闻。",
+    "example_vi": "Lọ nước hoa này rất thơm."
+  },
+  {
+    "w": "发型",
+    "p": "fàxíng",
+    "m": "kiểu tóc",
+    "example": "我想换一个新发型。",
+    "example_vi": "Tôi muốn đổi một kiểu tóc mới."
+  },
+  {
+    "w": "胡子",
+    "p": "húzi",
+    "m": "râu",
+    "example": "爸爸每天早上刮胡子。",
+    "example_vi": "Bố cạo râu mỗi sáng."
+  },
+  {
+    "w": "洗发水",
+    "p": "xǐfàshuǐ",
+    "m": "dầu gội đầu",
+    "example": "这种洗发水的味道很香。",
+    "example_vi": "Loại dầu gội này có mùi rất thơm."
+  },
+  {
+    "w": "浴缸",
+    "p": "yùgāng",
+    "m": "bồn tắm",
+    "example": "家里的浴缸有点小。",
+    "example_vi": "Bồn tắm trong nhà hơi nhỏ."
+  },
+  {
+    "w": "淋浴",
+    "p": "línyù",
+    "m": "tắm vòi hoa sen",
+    "example": "我每天晚上都淋浴。",
+    "example_vi": "Mỗi tối tôi đều tắm bằng vòi hoa sen."
+  },
+  {
+    "w": "马桶",
+    "p": "mǎtǒng",
+    "m": "bồn cầu",
+    "example": "马桶坏了，需要修理。",
+    "example_vi": "Bồn cầu bị hỏng, cần phải sửa."
+  },
+  {
+    "w": "抹布",
+    "p": "mābù",
+    "m": "giẻ lau",
+    "example": "请用抹布把桌子擦干净。",
+    "example_vi": "Hãy dùng giẻ lau lau sạch cái bàn."
+  },
+  {
+    "w": "熨斗",
+    "p": "yùndǒu",
+    "m": "bàn ủi",
+    "example": "我用熨斗把衣服烫平。",
+    "example_vi": "Tôi dùng bàn ủi là phẳng quần áo."
+  },
+  {
+    "w": "微波炉",
+    "p": "wēibōlú",
+    "m": "lò vi sóng",
+    "example": "用微波炉热一下饭菜。",
+    "example_vi": "Dùng lò vi sóng hâm nóng thức ăn một chút."
+  },
+  {
+    "w": "烤箱",
+    "p": "kǎoxiāng",
+    "m": "lò nướng",
+    "example": "她用烤箱烤了一个蛋糕。",
+    "example_vi": "Cô ấy dùng lò nướng nướng một chiếc bánh."
+  },
+  {
+    "w": "电饭煲",
+    "p": "diànfànbāo",
+    "m": "nồi cơm điện",
+    "example": "电饭煲里的米饭熟了。",
+    "example_vi": "Cơm trong nồi cơm điện đã chín."
+  },
+  {
+    "w": "煎蛋",
+    "p": "jiāndàn",
+    "m": "trứng chiên",
+    "example": "早餐我喜欢吃煎蛋。",
+    "example_vi": "Bữa sáng tôi thích ăn trứng chiên."
+  },
+  {
+    "w": "油炸",
+    "p": "yóuzhá",
+    "m": "chiên ngập dầu",
+    "example": "油炸食品吃多了对身体不好。",
+    "example_vi": "Ăn nhiều đồ chiên rán không tốt cho sức khỏe."
+  },
+  {
+    "w": "菜刀",
+    "p": "càidāo",
+    "m": "dao thái, dao bếp",
+    "example": "这把菜刀很锋利。",
+    "example_vi": "Con dao bếp này rất sắc."
+  },
+  {
+    "w": "砧板",
+    "p": "zhēnbǎn",
+    "m": "thớt",
+    "example": "把肉放在砧板上切。",
+    "example_vi": "Đặt thịt lên thớt để thái."
+  },
+  {
+    "w": "炒锅",
+    "p": "chǎoguō",
+    "m": "chảo xào",
+    "example": "妈妈用炒锅炒青菜。",
+    "example_vi": "Mẹ dùng chảo xào rau xanh."
+  },
+  {
+    "w": "汤勺",
+    "p": "tāngsháo",
+    "m": "muôi múc canh",
+    "example": "请把汤勺递给我。",
+    "example_vi": "Xin đưa cho tôi cái muôi múc canh."
+  },
+  {
+    "w": "碗筷",
+    "p": "wǎnkuài",
+    "m": "bát đũa",
+    "example": "吃饭前先摆好碗筷。",
+    "example_vi": "Trước khi ăn cơm hãy bày bát đũa ra trước."
+  },
+  {
+    "w": "茶杯",
+    "p": "chábēi",
+    "m": "chén (tách) uống trà",
+    "example": "他打破了一个茶杯。",
+    "example_vi": "Anh ấy làm vỡ một chiếc chén uống trà."
+  },
+  {
+    "w": "水壶",
+    "p": "shuǐhú",
+    "m": "bình đựng nước",
+    "example": "我带了一个水壶去爬山。",
+    "example_vi": "Tôi mang theo một bình nước để đi leo núi."
+  },
+  {
+    "w": "暖水瓶",
+    "p": "nuǎnshuǐpíng",
+    "m": "phích nước nóng",
+    "example": "暖水瓶里还有热水。",
+    "example_vi": "Trong phích còn nước nóng."
+  },
+  {
+    "w": "水龙头",
+    "p": "shuǐlóngtóu",
+    "m": "vòi nước",
+    "example": "请把水龙头关紧。",
+    "example_vi": "Xin hãy vặn chặt vòi nước lại."
+  },
+  {
+    "w": "煤气",
+    "p": "méiqì",
+    "m": "khí gas",
+    "example": "出门前要检查煤气有没有关好。",
+    "example_vi": "Trước khi ra ngoài phải kiểm tra xem gas đã tắt kỹ chưa."
+  },
+  {
+    "w": "天然气",
+    "p": "tiānránqì",
+    "m": "khí thiên nhiên",
+    "example": "现在很多家庭都用天然气做饭。",
+    "example_vi": "Hiện nay nhiều gia đình dùng khí thiên nhiên để nấu ăn."
+  },
+  {
+    "w": "暖气",
+    "p": "nuǎnqì",
+    "m": "lò sưởi, hơi ấm sưởi",
+    "example": "北方冬天家家都有暖气。",
+    "example_vi": "Mùa đông ở miền Bắc nhà nào cũng có lò sưởi."
+  },
+  {
+    "w": "风扇",
+    "p": "fēngshàn",
+    "m": "quạt máy",
+    "example": "天气太热了，打开风扇吧。",
+    "example_vi": "Trời nóng quá, hãy bật quạt lên."
+  },
+  {
+    "w": "吹风机",
+    "p": "chuīfēngjī",
+    "m": "máy sấy tóc",
+    "example": "洗完头用吹风机吹干。",
+    "example_vi": "Gội đầu xong dùng máy sấy tóc sấy khô."
+  },
+  {
+    "w": "收藏",
+    "p": "shōucáng",
+    "m": "sưu tầm, cất giữ",
+    "example": "他喜欢收藏邮票。",
+    "example_vi": "Anh ấy thích sưu tầm tem thư."
+  },
+  {
+    "w": "邮票",
+    "p": "yóupiào",
+    "m": "tem thư",
+    "example": "这张邮票很珍贵。",
+    "example_vi": "Con tem này rất quý giá."
+  },
+  {
+    "w": "鹦鹉",
+    "p": "yīngwǔ",
+    "m": "con vẹt",
+    "example": "那只鹦鹉会说话。",
+    "example_vi": "Con vẹt đó biết nói."
+  },
+  {
+    "w": "谜语",
+    "p": "míyǔ",
+    "m": "câu đố",
+    "example": "老师给我们出了一个谜语。",
+    "example_vi": "Thầy giáo ra cho chúng tôi một câu đố."
+  },
+  {
+    "w": "钢琴",
+    "p": "gāngqín",
+    "m": "đàn piano",
+    "example": "她每天练习弹钢琴。",
+    "example_vi": "Mỗi ngày cô ấy đều luyện đàn piano."
+  },
+  {
+    "w": "小提琴",
+    "p": "xiǎotíqín",
+    "m": "đàn violin",
+    "example": "他从小学习拉小提琴。",
+    "example_vi": "Anh ấy học kéo đàn violin từ nhỏ."
+  },
+  {
+    "w": "笛子",
+    "p": "dízi",
+    "m": "sáo",
+    "example": "爷爷会吹笛子。",
+    "example_vi": "Ông nội biết thổi sáo."
+  },
+  {
+    "w": "签收",
+    "p": "qiānshōu",
+    "m": "ký nhận",
+    "example": "请在这里签收快递。",
+    "example_vi": "Xin ký nhận bưu kiện tại đây."
+  },
+  {
+    "w": "退款",
+    "p": "tuìkuǎn",
+    "m": "hoàn tiền",
+    "example": "商品有问题，商家同意退款。",
+    "example_vi": "Sản phẩm có vấn đề, người bán đồng ý hoàn tiền."
+  },
+  {
+    "w": "零件",
+    "p": "língjiàn",
+    "m": "linh kiện, phụ tùng",
+    "example": "这台机器缺一个零件。",
+    "example_vi": "Chiếc máy này thiếu một linh kiện."
+  },
+  {
+    "w": "拖布",
+    "p": "tuōbù",
+    "m": "cây lau nhà",
+    "example": "用拖布把地板拖干净。",
+    "example_vi": "Dùng cây lau nhà lau sạch sàn nhà."
+  },
+  {
+    "w": "蚊香",
+    "p": "wénxiāng",
+    "m": "nhang muỗi",
+    "example": "夏天晚上点一盘蚊香。",
+    "example_vi": "Mùa hè buổi tối đốt một khoanh nhang muỗi."
+  }
+]

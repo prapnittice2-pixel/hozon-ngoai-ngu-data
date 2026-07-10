@@ -1,0 +1,646 @@
+[
+  {
+    "w": "aberration",
+    "p": "ˌæbəˈreɪʃən",
+    "m": "sự lệch lạc, điều bất thường",
+    "example": "The sudden drop in sales was just a temporary aberration, not a trend.",
+    "example_vi": "Sự sụt giảm doanh số đột ngột chỉ là một hiện tượng bất thường tạm thời, không phải xu hướng."
+  },
+  {
+    "w": "accolade",
+    "p": "ˈækəleɪd",
+    "m": "lời khen ngợi, vinh dự, giải thưởng",
+    "example": "The young violinist received numerous accolades for her debut performance.",
+    "example_vi": "Nghệ sĩ vĩ cầm trẻ đã nhận được nhiều lời khen ngợi cho buổi biểu diễn ra mắt của mình."
+  },
+  {
+    "w": "bequest",
+    "p": "bɪˈkwɛst",
+    "m": "di sản để lại, tài sản thừa kế",
+    "example": "The library was built thanks to a generous bequest from a former student.",
+    "example_vi": "Thư viện được xây dựng nhờ một khoản di sản hào phóng từ một cựu sinh viên."
+  },
+  {
+    "w": "buoyant",
+    "p": "ˈbɔɪənt",
+    "m": "lạc quan, phấn chấn; nổi trên mặt nước",
+    "example": "Despite the setback, the team remained buoyant about their chances of winning.",
+    "example_vi": "Dù gặp trở ngại, đội vẫn giữ tinh thần lạc quan về cơ hội chiến thắng."
+  },
+  {
+    "w": "demise",
+    "p": "dɪˈmaɪz",
+    "m": "sự sụp đổ, sự chấm dứt",
+    "example": "Poor management led to the eventual demise of the once-famous company.",
+    "example_vi": "Quản lý yếu kém đã dẫn đến sự sụp đổ cuối cùng của công ty từng nổi tiếng đó."
+  },
+  {
+    "w": "divergent",
+    "p": "daɪˈvɜːrdʒənt",
+    "m": "khác biệt, phân kỳ",
+    "example": "The two scientists reached strikingly divergent conclusions from the same data.",
+    "example_vi": "Hai nhà khoa học đã đưa ra những kết luận khác biệt rõ rệt từ cùng một dữ liệu."
+  },
+  {
+    "w": "enigma",
+    "p": "ɪˈnɪɡmə",
+    "m": "điều bí ẩn, câu đố",
+    "example": "The disappearance of the ship remains an enigma to this day.",
+    "example_vi": "Sự mất tích của con tàu vẫn là một điều bí ẩn cho đến ngày nay."
+  },
+  {
+    "w": "exponential",
+    "p": "ˌɛkspoʊˈnɛnʃəl",
+    "m": "tăng theo cấp số nhân, mang tính bùng nổ",
+    "example": "The company saw exponential growth after launching its mobile app.",
+    "example_vi": "Công ty chứng kiến sự tăng trưởng theo cấp số nhân sau khi ra mắt ứng dụng di động."
+  },
+  {
+    "w": "genesis",
+    "p": "ˈdʒɛnəsɪs",
+    "m": "nguồn gốc, sự khởi đầu",
+    "example": "The idea for the charity had its genesis in a conversation between two old friends.",
+    "example_vi": "Ý tưởng về tổ chức từ thiện này bắt nguồn từ một cuộc trò chuyện giữa hai người bạn cũ."
+  },
+  {
+    "w": "impending",
+    "p": "ɪmˈpɛndɪŋ",
+    "m": "sắp xảy ra, cận kề",
+    "example": "Residents were warned of the impending storm and told to evacuate.",
+    "example_vi": "Cư dân được cảnh báo về cơn bão sắp xảy ra và được yêu cầu sơ tán."
+  },
+  {
+    "w": "inception",
+    "p": "ɪnˈsɛpʃən",
+    "m": "sự khởi đầu, lúc thành lập",
+    "example": "The company has grown steadily since its inception in 2005.",
+    "example_vi": "Công ty đã phát triển ổn định kể từ khi thành lập vào năm 2005."
+  },
+  {
+    "w": "reminiscent",
+    "p": "ˌrɛməˈnɪsənt",
+    "m": "gợi nhớ, gợi nhắc",
+    "example": "The old town's narrow streets are reminiscent of a bygone era.",
+    "example_vi": "Những con phố nhỏ hẹp của thị trấn cổ gợi nhớ đến một thời đã qua."
+  },
+  {
+    "w": "retrospect",
+    "p": "ˈrɛtrəspɛkt",
+    "m": "sự nhìn lại quá khứ",
+    "example": "In retrospect, quitting that job was the best decision I ever made.",
+    "example_vi": "Nhìn lại, việc bỏ công việc đó là quyết định đúng đắn nhất tôi từng đưa ra."
+  },
+  {
+    "w": "sparse",
+    "p": "spɑːrs",
+    "m": "thưa thớt, ít ỏi",
+    "example": "Vegetation is extremely sparse in this arid region.",
+    "example_vi": "Thảm thực vật cực kỳ thưa thớt ở vùng khô cằn này."
+  },
+  {
+    "w": "staple",
+    "p": "ˈsteɪpəl",
+    "m": "thứ chủ yếu, thiết yếu",
+    "example": "Rice has long been a dietary staple across much of Asia.",
+    "example_vi": "Gạo từ lâu đã là lương thực chủ yếu trên phần lớn châu Á."
+  },
+  {
+    "w": "abrasive",
+    "p": "əˈbreɪsɪv",
+    "m": "thô lỗ, gay gắt (tính cách)",
+    "example": "His abrasive manner in meetings often upset his colleagues.",
+    "example_vi": "Cách cư xử gay gắt của anh ta trong các cuộc họp thường khiến đồng nghiệp khó chịu."
+  },
+  {
+    "w": "cathartic",
+    "p": "kəˈθɑːrtɪk",
+    "m": "có tính giải tỏa, thanh lọc cảm xúc",
+    "example": "Writing about her grief in a journal proved cathartic.",
+    "example_vi": "Việc viết nhật ký về nỗi đau của mình hóa ra lại có tác dụng giải tỏa cảm xúc."
+  },
+  {
+    "w": "encroach",
+    "p": "ɪnˈkroʊtʃ",
+    "m": "xâm lấn, lấn chiếm",
+    "example": "New housing developments continue to encroach on the forest.",
+    "example_vi": "Các khu nhà ở mới tiếp tục lấn chiếm vào khu rừng."
+  },
+  {
+    "w": "remorseful",
+    "p": "rɪˈmɔːrsfəl",
+    "m": "hối hận, ăn năn",
+    "example": "He looked genuinely remorseful after realizing how much he had hurt her.",
+    "example_vi": "Anh ta trông thực sự hối hận sau khi nhận ra mình đã làm cô ấy tổn thương đến mức nào."
+  },
+  {
+    "w": "disconcerted",
+    "p": "ˌdɪskənˈsɜːrtɪd",
+    "m": "bối rối, mất bình tĩnh",
+    "example": "She felt disconcerted by the unexpected question during the interview.",
+    "example_vi": "Cô cảm thấy bối rối trước câu hỏi bất ngờ trong buổi phỏng vấn."
+  },
+  {
+    "w": "flustered",
+    "p": "ˈflʌstərd",
+    "m": "luống cuống, bối rối",
+    "example": "The waiter became flustered when three tables demanded service at once.",
+    "example_vi": "Người phục vụ trở nên luống cuống khi ba bàn cùng lúc yêu cầu phục vụ."
+  },
+  {
+    "w": "unnerved",
+    "p": "ʌnˈnɜːrvd",
+    "m": "mất tinh thần, hoảng sợ",
+    "example": "The strange noise from the attic left the whole family unnerved.",
+    "example_vi": "Tiếng động lạ từ gác mái khiến cả gia đình hoảng sợ."
+  },
+  {
+    "w": "unfazed",
+    "p": "ʌnˈfeɪzd",
+    "m": "không nao núng, bình thản",
+    "example": "Unfazed by the criticism, she continued to defend her research.",
+    "example_vi": "Không hề nao núng trước những lời chỉ trích, cô vẫn tiếp tục bảo vệ nghiên cứu của mình."
+  },
+  {
+    "w": "unperturbed",
+    "p": "ˌʌnpərˈtɜːrbd",
+    "m": "điềm tĩnh, không xáo động",
+    "example": "He remained unperturbed even as the deadline drew dangerously close.",
+    "example_vi": "Anh ấy vẫn điềm tĩnh dù thời hạn đang đến gần một cách nguy hiểm."
+  },
+  {
+    "w": "bemused",
+    "p": "bɪˈmjuːzd",
+    "m": "bối rối pha lẫn thích thú, ngơ ngác",
+    "example": "She gave a bemused smile when the puppy tried to chase its own tail.",
+    "example_vi": "Cô mỉm cười ngơ ngác khi chú chó con cố đuổi theo chính cái đuôi của mình."
+  },
+  {
+    "w": "perplexed",
+    "p": "pərˈplɛkst",
+    "m": "bối rối, khó hiểu",
+    "example": "The detective looked perplexed by the lack of any clear motive.",
+    "example_vi": "Viên thám tử trông bối rối vì không tìm ra động cơ rõ ràng nào."
+  },
+  {
+    "w": "world-weary",
+    "p": "ˈwɜːrldˌwɪri",
+    "m": "chán chường, mệt mỏi với cuộc đời",
+    "example": "The old sailor spoke with a world-weary sigh about the sea he once loved.",
+    "example_vi": "Người thủy thủ già thở dài chán chường khi nói về biển cả mà ông từng yêu."
+  },
+  {
+    "w": "monopolize",
+    "p": "məˈnɑːpəlaɪz",
+    "m": "độc chiếm, độc quyền",
+    "example": "One large corporation now monopolizes nearly the entire market.",
+    "example_vi": "Một tập đoàn lớn giờ đây gần như độc chiếm toàn bộ thị trường."
+  },
+  {
+    "w": "secede",
+    "p": "sɪˈsiːd",
+    "m": "ly khai, tách khỏi",
+    "example": "Several provinces threatened to secede from the union.",
+    "example_vi": "Một số tỉnh đe dọa ly khai khỏi liên bang."
+  },
+  {
+    "w": "treason",
+    "p": "ˈtriːzən",
+    "m": "tội phản quốc",
+    "example": "The general was accused of treason for leaking military secrets.",
+    "example_vi": "Vị tướng bị buộc tội phản quốc vì làm lộ bí mật quân sự."
+  },
+  {
+    "w": "hybridize",
+    "p": "ˈhaɪbrɪdaɪz",
+    "m": "lai tạo, lai ghép",
+    "example": "Scientists hybridized the two plant species to create a drought-resistant crop.",
+    "example_vi": "Các nhà khoa học đã lai tạo hai loài thực vật để tạo ra giống cây chịu hạn."
+  },
+  {
+    "w": "permeable",
+    "p": "ˈpɜːrmiəbəl",
+    "m": "có tính thấm, cho thấm qua",
+    "example": "The rock layer is permeable enough to let groundwater pass through slowly.",
+    "example_vi": "Lớp đá này có độ thấm đủ để nước ngầm chảy qua từ từ."
+  },
+  {
+    "w": "mimicry",
+    "p": "ˈmɪmɪkri",
+    "m": "sự bắt chước, giả trang (sinh học)",
+    "example": "Some harmless insects survive through mimicry of more dangerous species.",
+    "example_vi": "Một số côn trùng vô hại tồn tại nhờ bắt chước hình dạng của loài nguy hiểm hơn."
+  },
+  {
+    "w": "camouflage",
+    "p": "ˈkæməflɑːʒ",
+    "m": "ngụy trang",
+    "example": "The soldiers used branches and mud as camouflage in the dense jungle.",
+    "example_vi": "Những người lính dùng cành cây và bùn để ngụy trang trong khu rừng rậm."
+  },
+  {
+    "w": "hibernate",
+    "p": "ˈhaɪbərneɪt",
+    "m": "ngủ đông",
+    "example": "Bears typically hibernate through the coldest months of winter.",
+    "example_vi": "Gấu thường ngủ đông suốt những tháng lạnh nhất của mùa đông."
+  },
+  {
+    "w": "truncated",
+    "p": "ˈtrʌŋkeɪtɪd",
+    "m": "bị cắt ngắn, rút gọn",
+    "example": "Due to time constraints, the speaker gave a truncated version of his lecture.",
+    "example_vi": "Vì hạn chế thời gian, diễn giả đã trình bày một phiên bản rút gọn của bài giảng."
+  },
+  {
+    "w": "abridged",
+    "p": "əˈbrɪdʒd",
+    "m": "được rút gọn (sách, văn bản)",
+    "example": "The children read an abridged version of the classic novel.",
+    "example_vi": "Bọn trẻ đọc một phiên bản rút gọn của cuốn tiểu thuyết kinh điển."
+  },
+  {
+    "w": "relent",
+    "p": "rɪˈlɛnt",
+    "m": "nhượng bộ, mềm lòng",
+    "example": "After hours of pleading, their father finally relented and let them go.",
+    "example_vi": "Sau hàng giờ van xin, cha của họ cuối cùng cũng nhượng bộ và cho phép họ đi."
+  },
+  {
+    "w": "waver",
+    "p": "ˈweɪvər",
+    "m": "dao động, lung lay",
+    "example": "Her determination never wavered, even when everyone doubted her.",
+    "example_vi": "Quyết tâm của cô chưa bao giờ lung lay, ngay cả khi mọi người đều nghi ngờ cô."
+  },
+  {
+    "w": "contrive",
+    "p": "kənˈtraɪv",
+    "m": "bày mưu, tạo ra bằng thủ đoạn",
+    "example": "The prisoners contrived an elaborate plan to escape at night.",
+    "example_vi": "Các tù nhân đã bày ra một kế hoạch tinh vi để vượt ngục vào ban đêm."
+  },
+  {
+    "w": "scoff",
+    "p": "skɑːf",
+    "m": "chế giễu, cười nhạo",
+    "example": "Critics scoffed at the idea when it was first proposed.",
+    "example_vi": "Các nhà phê bình đã cười nhạo ý tưởng này khi nó mới được đề xuất."
+  },
+  {
+    "w": "malign",
+    "p": "məˈlaɪn",
+    "m": "nói xấu, bôi nhọ",
+    "example": "The former employee tried to malign the company on social media.",
+    "example_vi": "Nhân viên cũ đã cố gắng bôi nhọ công ty trên mạng xã hội."
+  },
+  {
+    "w": "defame",
+    "p": "dɪˈfeɪm",
+    "m": "phỉ báng, bôi nhọ danh dự",
+    "example": "The newspaper was sued for allegedly defaming a local politician.",
+    "example_vi": "Tờ báo bị kiện vì cáo buộc phỉ báng một chính trị gia địa phương."
+  },
+  {
+    "w": "remunerative",
+    "p": "rɪˈmjuːnərətɪv",
+    "m": "có lợi nhuận cao, hậu hĩnh",
+    "example": "She left teaching for a more remunerative career in finance.",
+    "example_vi": "Cô rời nghề dạy học để theo đuổi sự nghiệp tài chính có thu nhập cao hơn."
+  },
+  {
+    "w": "destitute",
+    "p": "ˈdɛstɪtuːt",
+    "m": "khốn cùng, không nơi nương tựa",
+    "example": "The flood left thousands of families destitute overnight.",
+    "example_vi": "Trận lũ khiến hàng nghìn gia đình lâm vào cảnh khốn cùng chỉ sau một đêm."
+  },
+  {
+    "w": "impoverished",
+    "p": "ɪmˈpɑːvərɪʃt",
+    "m": "nghèo túng, bần cùng hóa",
+    "example": "Years of war left the country severely impoverished.",
+    "example_vi": "Nhiều năm chiến tranh khiến đất nước rơi vào cảnh nghèo đói trầm trọng."
+  },
+  {
+    "w": "indigent",
+    "p": "ˈɪndɪdʒənt",
+    "m": "nghèo khổ, thiếu thốn",
+    "example": "The clinic offers free treatment to indigent patients.",
+    "example_vi": "Phòng khám cung cấp điều trị miễn phí cho các bệnh nhân nghèo khó."
+  },
+  {
+    "w": "spartan",
+    "p": "ˈspɑːrtən",
+    "m": "khắc khổ, giản dị đến mức khắt khe",
+    "example": "The monks lived a spartan life with almost no possessions.",
+    "example_vi": "Các nhà sư sống một cuộc đời khắc khổ với hầu như không có tài sản gì."
+  },
+  {
+    "w": "clement",
+    "p": "ˈklɛmənt",
+    "m": "khoan dung; ôn hòa (thời tiết)",
+    "example": "The judge was surprisingly clement, given the severity of the crime.",
+    "example_vi": "Vị thẩm phán tỏ ra khoan dung đến bất ngờ, xét đến mức độ nghiêm trọng của tội danh."
+  },
+  {
+    "w": "pliable",
+    "p": "ˈplaɪəbəl",
+    "m": "dễ uốn nắn, mềm dẻo",
+    "example": "Young minds tend to be more pliable and open to new ideas.",
+    "example_vi": "Tâm trí trẻ tuổi thường dễ uốn nắn và cởi mở hơn với những ý tưởng mới."
+  },
+  {
+    "w": "dictatorial",
+    "p": "ˌdɪktəˈtɔːriəl",
+    "m": "độc đoán, chuyên quyền",
+    "example": "Employees complained about their new manager's dictatorial style.",
+    "example_vi": "Nhân viên phàn nàn về phong cách độc đoán của người quản lý mới."
+  },
+  {
+    "w": "allow for",
+    "p": "əˈlaʊ fɔːr",
+    "m": "tính đến, dự trù cho",
+    "example": "The schedule should allow for possible delays at the airport.",
+    "example_vi": "Lịch trình nên dự trù cho khả năng bị trễ ở sân bay."
+  },
+  {
+    "w": "comply with",
+    "p": "kəmˈplaɪ wɪð",
+    "m": "tuân thủ",
+    "example": "All new buildings must comply with the updated fire safety codes.",
+    "example_vi": "Mọi công trình mới đều phải tuân thủ quy định an toàn phòng cháy đã được cập nhật."
+  },
+  {
+    "w": "revert to",
+    "p": "rɪˈvɜːrt tuː",
+    "m": "quay trở lại (trạng thái cũ)",
+    "example": "Whenever she gets stressed, she tends to revert to her old habits.",
+    "example_vi": "Mỗi khi căng thẳng, cô lại có xu hướng quay về những thói quen cũ."
+  },
+  {
+    "w": "wean off",
+    "p": "wiːn ɔːf",
+    "m": "cai, dần từ bỏ",
+    "example": "Doctors advised him to gradually wean off the painkillers.",
+    "example_vi": "Bác sĩ khuyên anh ấy nên dần cai thuốc giảm đau."
+  },
+  {
+    "w": "work around",
+    "p": "wɜːrk əˈraʊnd",
+    "m": "tìm cách khắc phục, lách qua khó khăn",
+    "example": "The engineers had to work around the software's outdated system.",
+    "example_vi": "Các kỹ sư phải tìm cách khắc phục hệ thống phần mềm đã lỗi thời."
+  },
+  {
+    "w": "gain ground",
+    "p": "ɡeɪn ɡraʊnd",
+    "m": "giành được lợi thế, tiến triển",
+    "example": "The opposition party has been gaining ground in recent polls.",
+    "example_vi": "Đảng đối lập đã giành được lợi thế trong các cuộc thăm dò gần đây."
+  },
+  {
+    "w": "keep abreast of",
+    "p": "kiːp əˈbrɛst ʌv",
+    "m": "cập nhật, theo kịp thông tin",
+    "example": "Journalists must keep abreast of breaking news around the clock.",
+    "example_vi": "Nhà báo phải cập nhật liên tục tin tức nóng suốt cả ngày."
+  },
+  {
+    "w": "lose sight of",
+    "p": "luːz saɪt ʌv",
+    "m": "quên mất, đánh mất mục tiêu",
+    "example": "In the rush to expand, the company lost sight of its original mission.",
+    "example_vi": "Trong lúc vội vàng mở rộng, công ty đã đánh mất sứ mệnh ban đầu của mình."
+  },
+  {
+    "w": "litmus test",
+    "p": "ˈlɪtməs tɛst",
+    "m": "phép thử quyết định, tiêu chí đánh giá",
+    "example": "Her reaction to criticism became a litmus test of her professionalism.",
+    "example_vi": "Phản ứng của cô trước những lời chỉ trích trở thành phép thử cho tính chuyên nghiệp của cô."
+  },
+  {
+    "w": "driving force",
+    "p": "ˈdraɪvɪŋ fɔːrs",
+    "m": "động lực chính",
+    "example": "Innovation has always been the driving force behind the company's success.",
+    "example_vi": "Sự đổi mới luôn là động lực chính đằng sau thành công của công ty."
+  },
+  {
+    "w": "stumbling block",
+    "p": "ˈstʌmblɪŋ blɑːk",
+    "m": "trở ngại, rào cản",
+    "example": "Lack of funding remains the biggest stumbling block to the project.",
+    "example_vi": "Thiếu kinh phí vẫn là trở ngại lớn nhất đối với dự án."
+  },
+  {
+    "w": "silver lining",
+    "p": "ˈsɪlvər ˈlaɪnɪŋ",
+    "m": "mặt tích cực trong tình huống xấu",
+    "example": "Losing his job had a silver lining: it pushed him to start his own business.",
+    "example_vi": "Mất việc lại có mặt tích cực: nó thúc đẩy anh khởi nghiệp kinh doanh riêng."
+  },
+  {
+    "w": "staunch",
+    "p": "stɔːntʃ",
+    "m": "kiên định, trung thành",
+    "example": "She has always been a staunch supporter of environmental causes.",
+    "example_vi": "Cô luôn là người ủng hộ kiên định cho các vấn đề môi trường."
+  },
+  {
+    "w": "venturesome",
+    "p": "ˈvɛntʃərsəm",
+    "m": "táo bạo, dám mạo hiểm",
+    "example": "Only the most venturesome climbers attempt this treacherous route.",
+    "example_vi": "Chỉ những nhà leo núi táo bạo nhất mới dám thử cung đường hiểm trở này."
+  },
+  {
+    "w": "willful",
+    "p": "ˈwɪlfəl",
+    "m": "cố chấp, bướng bỉnh; cố ý",
+    "example": "The court ruled that the damage was caused by willful negligence.",
+    "example_vi": "Tòa án phán quyết rằng thiệt hại là do sự cẩu thả cố ý gây ra."
+  },
+  {
+    "w": "unruly",
+    "p": "ʌnˈruːli",
+    "m": "khó bảo, ngỗ ngược",
+    "example": "The substitute teacher struggled to control the unruly classroom.",
+    "example_vi": "Giáo viên dạy thay chật vật để kiểm soát lớp học ngỗ ngược."
+  },
+  {
+    "w": "boisterous",
+    "p": "ˈbɔɪstərəs",
+    "m": "ồn ào, náo nhiệt",
+    "example": "The boisterous crowd cheered loudly as the band took the stage.",
+    "example_vi": "Đám đông náo nhiệt hò reo lớn khi ban nhạc bước lên sân khấu."
+  },
+  {
+    "w": "raucous",
+    "p": "ˈrɔːkəs",
+    "m": "ồn ào chói tai, huyên náo",
+    "example": "Raucous laughter echoed from the party next door all night.",
+    "example_vi": "Tiếng cười ồn ào chói tai vang lên từ bữa tiệc nhà bên suốt đêm."
+  },
+  {
+    "w": "riotous",
+    "p": "ˈraɪətəs",
+    "m": "hỗn loạn, náo động dữ dội",
+    "example": "The comedy show ended in riotous applause from the audience.",
+    "example_vi": "Buổi biểu diễn hài kết thúc trong tiếng vỗ tay náo động của khán giả."
+  },
+  {
+    "w": "gridlock",
+    "p": "ˈɡrɪdlɑːk",
+    "m": "tắc nghẽn hoàn toàn (giao thông, tiến trình)",
+    "example": "Political gridlock has delayed the passage of the new budget for months.",
+    "example_vi": "Sự bế tắc chính trị đã trì hoãn việc thông qua ngân sách mới trong nhiều tháng."
+  },
+  {
+    "w": "glut",
+    "p": "ɡlʌt",
+    "m": "sự dư thừa, tràn ngập",
+    "example": "A glut of cheap imports has driven local prices down sharply.",
+    "example_vi": "Sự dư thừa hàng nhập khẩu giá rẻ đã khiến giá nội địa giảm mạnh."
+  },
+  {
+    "w": "superabundance",
+    "p": "ˌsuːpərəˈbʌndəns",
+    "m": "sự dư thừa quá mức",
+    "example": "The region enjoys a superabundance of fresh water compared to its neighbors.",
+    "example_vi": "Khu vực này có nguồn nước ngọt dư thừa quá mức so với các vùng lân cận."
+  },
+  {
+    "w": "soothe",
+    "p": "suːð",
+    "m": "làm dịu, xoa dịu",
+    "example": "The mother sang softly to soothe her crying baby.",
+    "example_vi": "Người mẹ hát khe khẽ để dỗ dành đứa bé đang khóc."
+  },
+  {
+    "w": "muzzle",
+    "p": "ˈmʌzəl",
+    "m": "bịt miệng, ngăn cản phát ngôn",
+    "example": "Critics accused the government of trying to muzzle the press.",
+    "example_vi": "Các nhà phê bình cáo buộc chính phủ đang cố gắng bịt miệng báo chí."
+  },
+  {
+    "w": "redact",
+    "p": "rɪˈdækt",
+    "m": "biên tập, xóa bỏ thông tin (trong văn bản)",
+    "example": "Sensitive names were redacted before the report was made public.",
+    "example_vi": "Những cái tên nhạy cảm đã được xóa bỏ trước khi báo cáo được công bố."
+  },
+  {
+    "w": "circumspection",
+    "p": "ˌsɜːrkəmˈspɛkʃən",
+    "m": "sự thận trọng, dè dặt",
+    "example": "The diplomat handled the delicate negotiations with great circumspection.",
+    "example_vi": "Nhà ngoại giao xử lý cuộc đàm phán tế nhị với sự thận trọng cao độ."
+  },
+  {
+    "w": "shrewdness",
+    "p": "ˈʃruːdnəs",
+    "m": "sự khôn ngoan, sắc sảo",
+    "example": "Her business shrewdness helped the company survive the recession.",
+    "example_vi": "Sự khôn ngoan trong kinh doanh của bà đã giúp công ty vượt qua suy thoái."
+  },
+  {
+    "w": "deviousness",
+    "p": "ˈdiːviəsnəs",
+    "m": "sự xảo trá, quanh co",
+    "example": "His deviousness eventually cost him the trust of his closest friends.",
+    "example_vi": "Sự xảo trá của anh ta cuối cùng khiến anh mất đi lòng tin của những người bạn thân nhất."
+  },
+  {
+    "w": "collusion",
+    "p": "kəˈluːʒən",
+    "m": "sự thông đồng, câu kết",
+    "example": "The two companies were fined for collusion in fixing prices.",
+    "example_vi": "Hai công ty bị phạt vì thông đồng ấn định giá."
+  },
+  {
+    "w": "choreograph",
+    "p": "ˈkɔːriəɡræf",
+    "m": "dàn dựng, sắp đặt (điệu múa, sự kiện)",
+    "example": "Every move of the protest march had been carefully choreographed.",
+    "example_vi": "Mỗi bước đi trong cuộc tuần hành phản đối đều được sắp đặt cẩn thận."
+  },
+  {
+    "w": "vanishing point",
+    "p": "ˈvænɪʃɪŋ pɔɪnt",
+    "m": "điểm tụ (hội họa, phối cảnh)",
+    "example": "The artist used a single vanishing point to create a sense of depth.",
+    "example_vi": "Họa sĩ sử dụng một điểm tụ duy nhất để tạo cảm giác chiều sâu."
+  },
+  {
+    "w": "vengeful",
+    "p": "ˈvɛndʒfəl",
+    "m": "muốn trả thù, đầy hận thù",
+    "example": "The novel's vengeful antagonist plots revenge for years.",
+    "example_vi": "Nhân vật phản diện đầy hận thù trong tiểu thuyết âm mưu trả thù suốt nhiều năm."
+  },
+  {
+    "w": "begrudging",
+    "p": "bɪˈɡrʌdʒɪŋ",
+    "m": "miễn cưỡng, không sẵn lòng",
+    "example": "He gave a begrudging apology after being pressured by his manager.",
+    "example_vi": "Anh ta đưa ra lời xin lỗi miễn cưỡng sau khi bị quản lý gây áp lực."
+  },
+  {
+    "w": "resentful",
+    "p": "rɪˈzɛntfəl",
+    "m": "bất mãn, oán giận",
+    "example": "She became resentful after being passed over for the promotion twice.",
+    "example_vi": "Cô trở nên bất mãn sau khi bị bỏ qua cơ hội thăng chức hai lần."
+  },
+  {
+    "w": "embittered",
+    "p": "ɪmˈbɪtərd",
+    "m": "cay đắng, chua chát do trải nghiệm",
+    "example": "Years of betrayal left him embittered and distrustful of everyone.",
+    "example_vi": "Nhiều năm bị phản bội khiến anh trở nên cay đắng và ngờ vực mọi người."
+  },
+  {
+    "w": "disgruntled",
+    "p": "dɪsˈɡrʌntəld",
+    "m": "bất bình, khó chịu",
+    "example": "Disgruntled customers flooded the company with complaints.",
+    "example_vi": "Những khách hàng bất bình đã tràn vào công ty với hàng loạt lời phàn nàn."
+  },
+  {
+    "w": "discontented",
+    "p": "ˌdɪskənˈtɛntɪd",
+    "m": "không hài lòng, bất mãn",
+    "example": "Discontented workers organized a strike demanding better pay.",
+    "example_vi": "Những công nhân bất mãn đã tổ chức đình công đòi tăng lương."
+  },
+  {
+    "w": "malcontent",
+    "p": "ˈmælkəntɛnt",
+    "m": "kẻ bất mãn, người hay than phiền",
+    "example": "A few malcontents tried to stir up trouble at the meeting.",
+    "example_vi": "Một vài kẻ bất mãn đã cố gây rối tại cuộc họp."
+  },
+  {
+    "w": "crotchety",
+    "p": "ˈkrɑːtʃəti",
+    "m": "cáu kỉnh, khó tính (thường về người già)",
+    "example": "The crotchety old man yelled at anyone who stepped on his lawn.",
+    "example_vi": "Ông lão cáu kỉnh la mắng bất cứ ai giẫm lên bãi cỏ nhà mình."
+  },
+  {
+    "w": "testy",
+    "p": "ˈtɛsti",
+    "m": "dễ cáu, nóng nảy",
+    "example": "He grew testy after being kept waiting for over an hour.",
+    "example_vi": "Anh ta trở nên cáu kỉnh sau khi phải chờ đợi hơn một tiếng đồng hồ."
+  },
+  {
+    "w": "snappish",
+    "p": "ˈsnæpɪʃ",
+    "m": "hay gắt gỏng, cáu bẳn",
+    "example": "Lack of sleep made her snappish with everyone at work.",
+    "example_vi": "Thiếu ngủ khiến cô trở nên gắt gỏng với mọi người ở chỗ làm."
+  }
+]
