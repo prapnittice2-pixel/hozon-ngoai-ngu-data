@@ -38,7 +38,7 @@
   {
     "w": "diploma",
     "p": "dɪplˈoʊmə",
-    "m": "bằng cấp, chứng chỉ",
+    "m": "bằng cao đẳng, văn bằng, bằng chứng chỉ, bằng cấp, bằng tốt nghiệp",
     "cat": "học tập"
   },
   {
@@ -56,7 +56,7 @@
   {
     "w": "principal",
     "p": "pɹˈɪnsɪpəl",
-    "m": "hiệu trưởng",
+    "m": "hiệu trưởng, chính, chủ yếu, vốn gốc, người ủy quyền",
     "cat": "học tập"
   },
   {
@@ -80,7 +80,7 @@
   {
     "w": "degree",
     "p": "dᵻɡɹˈiː",
-    "m": "bằng đại học, mức độ",
+    "m": "độ (nhiệt độ), bằng đại học, học vị",
     "cat": "học tập"
   },
   {
@@ -134,7 +134,7 @@
   {
     "w": "kindergarten",
     "p": "kˈɪndɚɡˌɑːɹʔn̩",
-    "m": "trường mầm non",
+    "m": "trường mẫu giáo, trường mầm non",
     "cat": "học tập"
   },
   {
@@ -170,7 +170,7 @@
   {
     "w": "mentor",
     "p": "mˈɛntɔːɹ",
-    "m": "người hướng dẫn, thầy dạy",
+    "m": "người hướng dẫn, thầy dạy, người cố vấn dìu dắt",
     "cat": "người"
   },
   {
@@ -218,7 +218,7 @@
   {
     "w": "patient",
     "p": "pˈeɪʃənt",
-    "m": "bệnh nhân",
+    "m": "kiên nhẫn, bệnh nhân",
     "cat": "người"
   },
   {
@@ -236,7 +236,7 @@
   {
     "w": "vaccination",
     "p": "vˌæksᵻnˈeɪʃən",
-    "m": "tiêm chủng, vắc-xin",
+    "m": "tiêm phòng, tiêm chủng, vắc-xin",
     "cat": "sức khỏe"
   },
   {
@@ -332,7 +332,7 @@
   {
     "w": "fracture",
     "p": "fɹˈæktʃɚ",
-    "m": "gãy xương",
+    "m": "gãy xương, gãy vỡ, rạn nứt",
     "cat": "sức khỏe"
   },
   {
@@ -374,7 +374,7 @@
   {
     "w": "engagement",
     "p": "ɛŋɡˈeɪdʒmənt",
-    "m": "đám hỏi, sự đính hôn",
+    "m": "đám hỏi, sự đính hôn, mức độ tương tác",
     "cat": "gia đình"
   },
   {
@@ -392,7 +392,7 @@
   {
     "w": "adoption",
     "p": "ɐdˈɑːpʃən",
-    "m": "sự nhận con nuôi",
+    "m": "sự nhận con nuôi, áp dụng",
     "cat": "gia đình"
   },
   {
@@ -566,13 +566,13 @@
   {
     "w": "bias",
     "p": "bˈaɪəs",
-    "m": "thiên kiến, thiên vị",
+    "m": "thiên kiến, thiên vị, sai lệch, thành kiến, định kiến",
     "cat": "xã hội"
   },
   {
     "w": "source",
     "p": "sˈɔːɹs",
-    "m": "nguồn tin, nguồn gốc",
+    "m": "nguồn tài liệu, nguồn tin, nguồn gốc",
     "cat": "học thuật"
   },
   {
@@ -602,7 +602,7 @@
   {
     "w": "circulation",
     "p": "sˌɜːkjʊlˈeɪʃən",
-    "m": "số lượng phát hành",
+    "m": "số lượng phát hành, tuần hoàn máu",
     "cat": "tiền bạc"
   },
   {
@@ -626,7 +626,7 @@
   {
     "w": "clickbait",
     "p": "klˈɪkbeɪt",
-    "m": "tiêu đề câu view",
+    "m": "tiêu đề câu view, mồi nhử nhấp chuột",
     "cat": "công nghệ"
   },
   {
@@ -818,7 +818,7 @@
   {
     "w": "celebrate",
     "p": "sˈɛləbɹˌeɪt",
-    "m": "kỷ niệm, tổ chức lễ",
+    "m": "kỷ niệm, ăn mừng, tổ chức lễ",
     "cat": "hành động"
   },
   {
@@ -830,7 +830,7 @@
   {
     "w": "principal",
     "p": "pɹˈɪnsɪpəl",
-    "m": "chính, chủ yếu",
+    "m": "hiệu trưởng, chính, chủ yếu, vốn gốc, người ủy quyền",
     "cat": "tính từ"
   },
   {
@@ -842,7 +842,7 @@
   {
     "w": "sufficient",
     "p": "səfˈɪʃənt",
-    "m": "đủ, đầy đủ",
+    "m": "đủ, thỏa đáng",
     "cat": "tính từ"
   },
   {
@@ -1256,7 +1256,7 @@
   {
     "w": "rash",
     "p": "ɹˈæʃ",
-    "m": "phát ban",
+    "m": "phát ban, hấp tấp",
     "cat": "sức khỏe"
   },
   {
@@ -1406,7 +1406,7 @@
   {
     "w": "depression",
     "p": "dᵻpɹˈɛʃən",
-    "m": "trầm cảm",
+    "m": "trầm cảm, đại suy thoái",
     "cat": "sức khỏe"
   },
   {
@@ -1448,7 +1448,7 @@
   {
     "w": "vitamin",
     "p": "vˈaɪɾəmɪn",
-    "m": "vi-ta-min",
+    "m": "vitamin, vi-ta-min",
     "cat": "sức khỏe"
   },
   {
@@ -1502,7 +1502,7 @@
   {
     "w": "toast",
     "p": "tˈoʊst",
-    "m": "nâng ly chúc mừng",
+    "m": "nâng ly chúc mừng, bánh mì nướng",
     "cat": "gia đình"
   },
   {
@@ -1634,7 +1634,7 @@
   {
     "w": "bond",
     "p": "bˈɑːnd",
-    "m": "mối liên kết, tình thân",
+    "m": "mối liên kết, tình thân, trái phiếu",
     "cat": "gia đình"
   },
   {
@@ -1712,7 +1712,7 @@
   {
     "w": "statement",
     "p": "stˈeɪtmənt",
-    "m": "tuyên bố, phát biểu",
+    "m": "tuyên bố, phát biểu, sao kê",
     "cat": "chính trị"
   },
   {
@@ -1796,7 +1796,7 @@
   {
     "w": "platform",
     "p": "plˈætfɔːɹm",
-    "m": "nền tảng (mạng xã hội)",
+    "m": "sân ga, bến, ke ga, nền tảng, thềm ga",
     "cat": "công nghệ"
   },
   {
@@ -1862,7 +1862,7 @@
   {
     "w": "objective",
     "p": "ɑːbdʒˈɛktɪv",
-    "m": "khách quan",
+    "m": "khách quan, mục tiêu",
     "cat": "tính từ"
   },
   {
@@ -1940,7 +1940,7 @@
   {
     "w": "exclusive",
     "p": "ɛksklˈuːsɪv",
-    "m": "độc quyền, loại trừ",
+    "m": "độc quyền, loại trừ, riêng biệt, không bao gồm",
     "cat": "tính từ"
   },
   {
@@ -2090,7 +2090,7 @@
   {
     "w": "regularly",
     "p": "ɹˈɛɡjʊlɚli",
-    "m": "thường xuyên",
+    "m": "đều đặn, thường xuyên",
     "cat": "trạng từ"
   },
   {
@@ -2204,7 +2204,7 @@
   {
     "w": "right",
     "p": "ɹˈaɪt",
-    "m": "quyền lợi",
+    "m": "đúng, phải, quyền lợi",
     "cat": "xã hội"
   },
   {
@@ -2288,7 +2288,7 @@
   {
     "w": "cope",
     "p": "kˈoʊp",
-    "m": "đương đầu, ứng phó",
+    "m": "đương đầu, ứng phó, đối phó, xoay xở",
     "cat": "hành động"
   },
   {
@@ -2570,7 +2570,7 @@
   {
     "w": "loss",
     "p": "lˈɔs",
-    "m": "thua lỗ, mất mát",
+    "m": "thua lỗ, tổn thất, mất mát",
     "cat": "kinh doanh"
   },
   {
@@ -2588,7 +2588,7 @@
   {
     "w": "market",
     "p": "mˈɑːɹkɪt",
-    "m": "thị trường",
+    "m": "chợ, thị trường",
     "cat": "kinh doanh"
   },
   {
@@ -2606,7 +2606,7 @@
   {
     "w": "competition",
     "p": "kˌɑːmpətˈɪʃən",
-    "m": "cạnh tranh",
+    "m": "cuộc thi, cạnh tranh, cuộc đua",
     "cat": "kinh doanh"
   },
   {
@@ -2642,7 +2642,7 @@
   {
     "w": "promotion",
     "p": "pɹəmˈoʊʃən",
-    "m": "khuyến mãi, thăng chức",
+    "m": "thăng chức, khuyến mãi",
     "cat": "kinh doanh"
   },
   {
@@ -2666,7 +2666,7 @@
   {
     "w": "performance",
     "p": "pɚfˈɔːɹməns",
-    "m": "buổi biểu diễn",
+    "m": "buổi biểu diễn, hiệu suất",
     "cat": "nghệ thuật"
   },
   {
@@ -2684,7 +2684,7 @@
   {
     "w": "composer",
     "p": "kəmpˈoʊzɚ",
-    "m": "nhạc sĩ sáng tác",
+    "m": "nhạc sĩ sáng tác, nhà soạn nhạc",
     "cat": "người"
   },
   {
@@ -2726,7 +2726,7 @@
   {
     "w": "abstract",
     "p": "ˈæbstɹækt",
-    "m": "trừu tượng",
+    "m": "trừu tượng, tóm tắt (bài báo khoa học)",
     "cat": "nghệ thuật"
   },
   {
@@ -2750,7 +2750,7 @@
   {
     "w": "review",
     "p": "ɹᵻvjˈuː",
-    "m": "đánh giá, điểm phim/sách",
+    "m": "xem lại, đánh giá, ôn tập, xem xét, điểm phim/sách",
     "cat": "học thuật"
   },
   {
@@ -2804,7 +2804,7 @@
   {
     "w": "character",
     "p": "kˈæɹɪktɚ",
-    "m": "nhân vật",
+    "m": "nhân vật (trong truyện/phim), tính cách",
     "cat": "nghệ thuật"
   },
   {
@@ -2870,7 +2870,7 @@
   {
     "w": "score",
     "p": "skˈɔːɹ",
-    "m": "tỷ số, ghi điểm",
+    "m": "ghi điểm, tỉ số, điểm số, tỷ số, nhạc phim",
     "cat": "thể thao"
   },
   {
@@ -2882,7 +2882,7 @@
   {
     "w": "tie",
     "p": "tˈaɪ",
-    "m": "hòa",
+    "m": "hòa (tỷ số), cà vạt",
     "cat": "thể thao"
   },
   {
@@ -2894,7 +2894,7 @@
   {
     "w": "substitute",
     "p": "sˈʌbstɪtˌuːt",
-    "m": "cầu thủ dự bị",
+    "m": "cầu thủ dự bị, thay thế",
     "cat": "thể thao"
   },
   {
@@ -2912,7 +2912,7 @@
   {
     "w": "qualify",
     "p": "kwˈɔlᵻfˌaɪ",
-    "m": "vượt vòng loại",
+    "m": "vượt vòng loại, đủ điều kiện, hạn chế",
     "cat": "thể thao"
   },
   {
@@ -2936,7 +2936,7 @@
   {
     "w": "trophy",
     "p": "tɹˈoʊfi",
-    "m": "cúp, chiến lợi phẩm",
+    "m": "cúp (thể thao), chiến lợi phẩm",
     "cat": "thể thao"
   },
   {
@@ -2960,7 +2960,7 @@
   {
     "w": "dedicated",
     "p": "dˈɛdᵻkˌeɪɾᵻd",
-    "m": "tận tụy, cống hiến",
+    "m": "tận tụy, cống hiến, hết lòng",
     "cat": "tínhođư"
   },
   {
@@ -3050,13 +3050,13 @@
   {
     "w": "adaptable",
     "p": "ɐdˈæptəbəl",
-    "m": "có khả năng thích nghi",
+    "m": "có khả năng thích nghi, linh hoạt",
     "cat": "tính từ"
   },
   {
     "w": "patient",
     "p": "pˈeɪʃənt",
-    "m": "kiên nhẫn",
+    "m": "kiên nhẫn, bệnh nhân",
     "cat": "tính từ"
   },
   {
@@ -3182,7 +3182,7 @@
   {
     "w": "efficient",
     "p": "ɪfˈɪʃənt",
-    "m": "hiệu quả, tiết kiệm",
+    "m": "hiệu quả, năng suất cao, tiết kiệm",
     "cat": "tính từ"
   },
   {
@@ -3224,7 +3224,7 @@
   {
     "w": "survey",
     "p": "sˈɜːveɪ",
-    "m": "điều tra dư luận",
+    "m": "khảo sát, điều tra",
     "cat": "xã hội"
   },
   {
@@ -3302,13 +3302,13 @@
   {
     "w": "satisfaction",
     "p": "sˌæɾɪsfˈækʃən",
-    "m": "sự thỏa mãn",
+    "m": "sự thỏa mãn, sự hài lòng",
     "cat": "cảm xúc"
   },
   {
     "w": "frustration",
     "p": "fɹʌstɹˈeɪʃən",
-    "m": "sự thất vọng",
+    "m": "sự thất vọng, sự bực bội, ức chế",
     "cat": "cảm xúc"
   },
   {
@@ -3338,7 +3338,7 @@
   {
     "w": "relief",
     "p": "ɹᵻlˈiːf",
-    "m": "sự nhẹ nhõm",
+    "m": "sự nhẹ nhõm, sự thuyên giảm",
     "cat": "cảm xúc"
   },
   {
@@ -3410,7 +3410,7 @@
   {
     "w": "break the ice",
     "p": "bɹˈeɪk ðɪ ˈaɪs",
-    "m": "phá vỡ sự im lặng ban đầu",
+    "m": "phá vỡ bầu không khí ngại ngùng, phá vỡ sự im lặng ban đầu, phá vỡ sự ngại ngùng; khởi đầu cuộc trò chuyện",
     "cat": "thành ngữ"
   },
   {
@@ -3446,7 +3446,7 @@
   {
     "w": "on the same page",
     "p": "ɔnðə sˈeɪm pˈeɪdʒ",
-    "m": "đồng thuận, hiểu nhau",
+    "m": "đồng thuận, hiểu nhau, thống nhất quan điểm",
     "cat": "thành ngữ"
   },
   {
@@ -3482,7 +3482,7 @@
   {
     "w": "once in a blue moon",
     "p": "wˈʌns ɪn ɐ blˈuː mˈuːn",
-    "m": "thỉnh thoảng hiếm khi",
+    "m": "thỉnh thoảng hiếm khi, rất hiếm khi; họa hoằn, hiếm hoi lắm mới xảy ra",
     "cat": "thành ngữ"
   },
   {
@@ -3494,7 +3494,7 @@
   {
     "w": "cost an arm and a leg",
     "p": "kˈɔst ɐn ˈɑːɹm ænd ɐ lˈɛɡ",
-    "m": "đắt như vàng, rất đắt tiền",
+    "m": "đắt như vàng, rất đắt tiền, đắt cắt cổ",
     "cat": "thành ngữ"
   },
   {
@@ -3536,7 +3536,7 @@
   {
     "w": "bring up",
     "p": "bɹˈɪŋ ˈʌp",
-    "m": "nuôi dưỡng, nhắc đến",
+    "m": "nuôi dạy, đề cập, nuôi dưỡng, nhắc đến, nuôi nấng; nêu ra",
     "cat": "thành ngữ"
   },
   {

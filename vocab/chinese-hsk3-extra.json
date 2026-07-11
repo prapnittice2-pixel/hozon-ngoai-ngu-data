@@ -116,7 +116,7 @@
   {
     "w": "会议",
     "p": "huì yì",
-    "m": "cuộc họp",
+    "m": "cuộc họp, hội nghị",
     "cat": "work"
   },
   {
@@ -254,7 +254,7 @@
   {
     "w": "难过",
     "p": "nán guò",
-    "m": "buồn bã, khó chịu",
+    "m": "buồn bã, khổ tâm, đau lòng, đau khổ, khó chịu",
     "cat": "emotion"
   },
   {
@@ -884,7 +884,7 @@
   {
     "w": "餐厅",
     "p": "cān tīng",
-    "m": "nhà hàng",
+    "m": "nhà hàng, phòng ăn",
     "cat": "place"
   },
   {
@@ -1022,7 +1022,7 @@
   {
     "w": "程序",
     "p": "chéng xù",
-    "m": "chương trình",
+    "m": "chương trình, quy trình, thủ tục",
     "cat": "tech"
   },
   {
@@ -1226,13 +1226,13 @@
   {
     "w": "礼貌",
     "p": "lǐ mào",
-    "m": "lịch sự",
+    "m": "lịch sự, lễ phép",
     "cat": "adjective"
   },
   {
     "w": "诚实",
     "p": "chéng shí",
-    "m": "trung thực",
+    "m": "trung thực, thành thật",
     "cat": "adjective"
   },
   {
@@ -1910,7 +1910,7 @@
   {
     "w": "米",
     "p": "mǐ",
-    "m": "gạo",
+    "m": "mét (đơn vị đo), gạo",
     "cat": "food"
   },
   {
@@ -2156,7 +2156,7 @@
   {
     "w": "餐厅",
     "p": "cān tīng",
-    "m": "phòng ăn",
+    "m": "nhà hàng, phòng ăn",
     "cat": "home"
   },
   {
@@ -2270,7 +2270,7 @@
   {
     "w": "电视",
     "p": "diàn shì",
-    "m": "ti vi",
+    "m": "ti vi, truyền hình, tivi",
     "cat": "home"
   },
   {
@@ -2486,7 +2486,7 @@
   {
     "w": "舞蹈",
     "p": "wǔ dǎo",
-    "m": "khiêu vũ, múa",
+    "m": "vũ điệu, múa, khiêu vũ, vũ đạo",
     "cat": "art"
   },
   {
@@ -3056,7 +3056,7 @@
   {
     "w": "功夫",
     "p": "gōng fu",
-    "m": "võ thuật Trung Hoa, kung fu",
+    "m": "võ thuật, kung fu, công sức, thời gian bỏ ra",
     "cat": "culture"
   },
   {
@@ -3164,7 +3164,7 @@
   {
     "w": "虽然",
     "p": "suī rán",
-    "m": "mặc dù, dù rằng",
+    "m": "mặc dù, tuy nhiên, dù rằng, tuy rằng",
     "cat": "particle"
   },
   {
@@ -3182,7 +3182,7 @@
   {
     "w": "所以",
     "p": "suǒ yǐ",
-    "m": "cho nên, vì vậy",
+    "m": "vì vậy, cho nên, do đó, vì thế",
     "cat": "particle"
   },
   {
@@ -3332,7 +3332,7 @@
   {
     "w": "一直",
     "p": "yī zhí",
-    "m": "mãi mãi, liên tục",
+    "m": "liên tục, mãi mãi, thẳng, suốt, cứ, luôn luôn",
     "cat": "particle"
   },
   {
@@ -3374,7 +3374,7 @@
   {
     "w": "表示",
     "p": "biǎo shì",
-    "m": "biểu thị, bày tỏ",
+    "m": "biểu thị, thể hiện, bày tỏ, cho thấy",
     "cat": "verb"
   },
   {

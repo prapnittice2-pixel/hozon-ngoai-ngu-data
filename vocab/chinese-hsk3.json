@@ -620,7 +620,7 @@
   {
     "w": "加班",
     "p": "jiā bān",
-    "m": "làm thêm giờ",
+    "m": "làm thêm giờ, tăng ca",
     "cat": "work"
   },
   {
@@ -734,7 +734,7 @@
   {
     "w": "理解",
     "p": "lǐ jiě",
-    "m": "hiểu, thấu hiểu",
+    "m": "hiểu, thông cảm, lý giải",
     "cat": "education"
   },
   {
@@ -866,7 +866,7 @@
   {
     "w": "社区",
     "p": "shè qū",
-    "m": "cộng đồng",
+    "m": "cộng đồng, khu dân cư, khu phố",
     "cat": "culture"
   },
   {
@@ -932,7 +932,7 @@
   {
     "w": "舞蹈",
     "p": "wǔ dǎo",
-    "m": "vũ điệu, múa",
+    "m": "vũ điệu, múa, khiêu vũ, vũ đạo",
     "cat": "culture"
   },
   {
@@ -956,7 +956,7 @@
   {
     "w": "开心",
     "p": "kāi xīn",
-    "m": "vui lòng, sung sướng",
+    "m": "vui lòng, phấn khởi, vui vẻ, vui mừng, sung sướng",
     "cat": "emotions"
   },
   {
@@ -968,7 +968,7 @@
   {
     "w": "难过",
     "p": "nán guò",
-    "m": "buồn, đau khổ",
+    "m": "buồn bã, khổ tâm, đau lòng, đau khổ, khó chịu",
     "cat": "emotions"
   },
   {
@@ -1196,13 +1196,13 @@
   {
     "w": "所以",
     "p": "suǒ yǐ",
-    "m": "cho nên, vì thế",
+    "m": "vì vậy, cho nên, do đó, vì thế",
     "cat": "grammar"
   },
   {
     "w": "虽然",
     "p": "suī rán",
-    "m": "mặc dù",
+    "m": "mặc dù, tuy nhiên, dù rằng, tuy rằng",
     "cat": "grammar"
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "w": "好像",
     "p": "hǎo xiàng",
-    "m": "có vẻ như",
+    "m": "hình như, giống như, có vẻ như",
     "cat": "grammar"
   },
   {
@@ -1310,7 +1310,7 @@
   {
     "w": "必须",
     "p": "bì xū",
-    "m": "phải, cần phải",
+    "m": "phải, bắt buộc",
     "cat": "grammar"
   },
   {
@@ -1394,7 +1394,7 @@
   {
     "w": "不过",
     "p": "bù guò",
-    "m": "nhưng, tuy nhiên",
+    "m": "nhưng, tuy nhiên, có điều",
     "cat": "grammar"
   },
   {
@@ -1430,7 +1430,7 @@
   {
     "w": "一直",
     "p": "yī zhí",
-    "m": "suốt, cứ, mãi",
+    "m": "liên tục, mãi mãi, thẳng, suốt, cứ, luôn luôn",
     "cat": "grammar"
   },
   {

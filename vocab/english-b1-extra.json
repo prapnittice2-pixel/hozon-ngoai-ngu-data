@@ -44,7 +44,7 @@
   {
     "w": "promotion",
     "p": "pɹəmˈoʊʃən",
-    "m": "thăng chức",
+    "m": "thăng chức, khuyến mãi",
     "cat": "công việc"
   },
   {
@@ -80,13 +80,13 @@
   {
     "w": "reference",
     "p": "ɹˈɛfɹəns",
-    "m": "người giới thiệu, thư giới thiệu",
+    "m": "người giới thiệu, tài liệu tham khảo, tham chiếu",
     "cat": "công việc"
   },
   {
     "w": "shift",
     "p": "ʃˈɪft",
-    "m": "ca làm việc",
+    "m": "ca làm việc, thay đổi, chuyển dịch",
     "cat": "công việc"
   },
   {
@@ -146,7 +146,7 @@
   {
     "w": "headquarters",
     "p": "hɛdkwˈɔːɹɾɚz",
-    "m": "trụ sở chính",
+    "m": "trụ sở chính, tổng hành dinh",
     "cat": "công việc"
   },
   {
@@ -212,7 +212,7 @@
   {
     "w": "briefcase",
     "p": "bɹˈiːfkeɪs",
-    "m": "cặp tài liệu",
+    "m": "cặp công sở, cặp tài liệu",
     "cat": "đồ vật"
   },
   {
@@ -272,13 +272,13 @@
   {
     "w": "present",
     "p": "pɹˈɛzənt",
-    "m": "trình bày",
+    "m": "giới thiệu, hiện tại, trình bày",
     "cat": "hành động"
   },
   {
     "w": "submit",
     "p": "səbmˈɪt",
-    "m": "nộp (bài/hồ sơ)",
+    "m": "nộp (bài/hồ sơ), nộp/gửi",
     "cat": "hành động"
   },
   {
@@ -290,7 +290,7 @@
   {
     "w": "review",
     "p": "ɹᵻvjˈuː",
-    "m": "xem xét lại, đánh giá",
+    "m": "xem lại, đánh giá, ôn tập, xem xét, điểm phim/sách",
     "cat": "hành động"
   },
   {
@@ -302,13 +302,13 @@
   {
     "w": "hire",
     "p": "hˈaɪɚ",
-    "m": "tuyển dụng",
+    "m": "thuê người; thuê đồ, tuyển dụng",
     "cat": "hành động"
   },
   {
     "w": "fire",
     "p": "fˈaɪɚ",
-    "m": "sa thải",
+    "m": "lửa, sa thải",
     "cat": "hành động"
   },
   {
@@ -452,7 +452,7 @@
   {
     "w": "book",
     "p": "bˈʊk",
-    "m": "đặt trước (phòng/vé)",
+    "m": "cuốn sách, đặt trước (phòng/vé)",
     "cat": "hành động"
   },
   {
@@ -488,7 +488,7 @@
   {
     "w": "monument",
     "p": "mˈɑːnjuːmənt",
-    "m": "tượng đài, di tích",
+    "m": "tượng đài, di tích, đài tưởng niệm",
     "cat": "địa điểm"
   },
   {
@@ -548,7 +548,7 @@
   {
     "w": "platform",
     "p": "plˈætfɔːɹm",
-    "m": "sân ga, ke ga",
+    "m": "sân ga, bến, ke ga, nền tảng, thềm ga",
     "cat": "giao thông"
   },
   {
@@ -566,7 +566,7 @@
   {
     "w": "transfer",
     "p": "tɹˈænsfɜː",
-    "m": "chuyển tuyến, đổi xe/tàu",
+    "m": "chuyển giao, chuyển khoản, chuyển tuyến, đổi xe/tàu",
     "cat": "giao thông"
   },
   {
@@ -638,7 +638,7 @@
   {
     "w": "endangered species",
     "p": "ɛndˈeɪndʒɚd spˈiːsiːz",
-    "m": "loài động vật nguy cấp",
+    "m": "loài động vật nguy cấp, loài có nguy cơ tuyệt chủng",
     "cat": "động vật"
   },
   {
@@ -830,7 +830,7 @@
   {
     "w": "integration",
     "p": "ˌɪntᵻɡɹˈeɪʃən",
-    "m": "sự hòa nhập (xã hội)",
+    "m": "sự hòa nhập (xã hội), tích hợp, kết hợp, hội nhập",
     "cat": "xã hội"
   },
   {
@@ -968,13 +968,13 @@
   {
     "w": "set up",
     "p": "sˈɛt ˈʌp",
-    "m": "thiết lập, thành lập",
+    "m": "thiết lập, thành lập, dựng nên, dựng lên",
     "cat": "thành ngữ"
   },
   {
     "w": "pick up",
     "p": "pˈɪk ˈʌp",
-    "m": "nhặt lên; đón (ai đó)",
+    "m": "đón, nhặt lên, học nhanh",
     "cat": "thành ngữ"
   },
   {
@@ -1004,7 +1004,7 @@
   {
     "w": "come across",
     "p": "kˈʌm əkɹˈɑːs",
-    "m": "tình cờ gặp, tìm thấy",
+    "m": "tình cờ gặp, bắt gặp, gây ấn tượng",
     "cat": "thành ngữ"
   },
   {
@@ -1016,7 +1016,7 @@
   {
     "w": "run out of",
     "p": "ɹˈʌn ˌaʊɾəv",
-    "m": "hết (thứ gì đó)",
+    "m": "hết, cạn",
     "cat": "thành ngữ"
   },
   {
@@ -1028,7 +1028,7 @@
   {
     "w": "bring up",
     "p": "bɹˈɪŋ ˈʌp",
-    "m": "nuôi dưỡng; đề cập đến",
+    "m": "nuôi dạy, đề cập, nuôi dưỡng, nhắc đến, nuôi nấng; nêu ra",
     "cat": "thành ngữ"
   },
   {
@@ -1064,7 +1064,7 @@
   {
     "w": "break down",
     "p": "bɹˈeɪk dˈaʊn",
-    "m": "hỏng hóc; phân tích chi tiết",
+    "m": "hỏng, đổ vỡ, phân tích chi tiết, chia nhỏ",
     "cat": "thành ngữ"
   },
   {
@@ -1118,7 +1118,7 @@
   {
     "w": "work out",
     "p": "wˈɜːk ˈaʊt",
-    "m": "tập thể dục; giải quyết được",
+    "m": "tìm ra, tập thể dục, giải quyết, tính toán ra",
     "cat": "thành ngữ"
   },
   {
@@ -1136,7 +1136,7 @@
   {
     "w": "loss",
     "p": "lˈɔs",
-    "m": "thua lỗ, tổn thất",
+    "m": "thua lỗ, tổn thất, mất mát",
     "cat": "kinh doanh"
   },
   {
@@ -1160,7 +1160,7 @@
   {
     "w": "market",
     "p": "mˈɑːɹkɪt",
-    "m": "thị trường",
+    "m": "chợ, thị trường",
     "cat": "kinh doanh"
   },
   {
@@ -1196,7 +1196,7 @@
   {
     "w": "headquarters",
     "p": "hɛdkwˈɔːɹɾɚz",
-    "m": "trụ sở chính công ty",
+    "m": "trụ sở chính, tổng hành dinh",
     "cat": "kinh doanh"
   },
   {
@@ -1220,7 +1220,7 @@
   {
     "w": "launch",
     "p": "lˈɑːntʃ",
-    "m": "ra mắt (sản phẩm)",
+    "m": "ra mắt, phóng, khởi động",
     "cat": "kinh doanh"
   },
   {
@@ -1250,7 +1250,7 @@
   {
     "w": "receipt",
     "p": "ɹᵻsˈiːt",
-    "m": "biên lai, hóa đơn mua hàng",
+    "m": "biên lai, hóa đơn",
     "cat": "tiền bạc"
   },
   {
@@ -1334,7 +1334,7 @@
   {
     "w": "efficient",
     "p": "ɪfˈɪʃənt",
-    "m": "hiệu quả, năng suất cao",
+    "m": "hiệu quả, năng suất cao, tiết kiệm",
     "cat": "tính từ"
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "w": "innovative",
     "p": "ˈɪnəvˌeɪɾɪv",
-    "m": "sáng tạo, đổi mới",
+    "m": "sáng tạo, đổi mới, cải tiến",
     "cat": "tính từ"
   },
   {
@@ -1370,7 +1370,7 @@
   {
     "w": "dedicated",
     "p": "dˈɛdᵻkˌeɪɾᵻd",
-    "m": "tận tụy, cống hiến",
+    "m": "tận tụy, cống hiến, hết lòng",
     "cat": "tính từ"
   },
   {
@@ -1406,7 +1406,7 @@
   {
     "w": "patient",
     "p": "pˈeɪʃənt",
-    "m": "kiên nhẫn",
+    "m": "kiên nhẫn, bệnh nhân",
     "cat": "tính từ"
   },
   {
@@ -1484,7 +1484,7 @@
   {
     "w": "frequently",
     "p": "fɹˈiːkwəntli",
-    "m": "thường xuyên",
+    "m": "thường xuyên, hay xảy ra",
     "cat": "trạng từ"
   },
   {
@@ -1520,7 +1520,7 @@
   {
     "w": "typically",
     "p": "tˈɪpɪkli",
-    "m": "thông thường, một cách điển hình",
+    "m": "thường thường, điển hình",
     "cat": "trạng từ"
   },
   {
@@ -1580,7 +1580,7 @@
   {
     "w": "embarrassed",
     "p": "ɛmbˈæɹəst",
-    "m": "xấu hổ, ngượng ngùng",
+    "m": "xấu hổ, ngại ngùng, ngượng ngùng",
     "cat": "cảm xúc"
   },
   {
@@ -1598,7 +1598,7 @@
   {
     "w": "satisfied",
     "p": "sˈæɾɪsfˌaɪd",
-    "m": "hài lòng, thỏa mãn",
+    "m": "thỏa mãn, hài lòng",
     "cat": "cảm xúc"
   },
   {
@@ -1712,7 +1712,7 @@
   {
     "w": "stereotype",
     "p": "stˈɛɹɪˌoʊtaɪp",
-    "m": "định kiến",
+    "m": "định kiến, khuôn mẫu rập khuôn",
     "cat": "văn hóa"
   },
   {
@@ -1838,7 +1838,7 @@
   {
     "w": "tip",
     "p": "tˈɪp",
-    "m": "tiền típ, tiền bo",
+    "m": "tiền boa; mẹo nhỏ, tiền típ, tiền bo",
     "cat": "tiền bạc"
   },
   {
@@ -1856,7 +1856,7 @@
   {
     "w": "fitness",
     "p": "fˈɪtnəs",
-    "m": "thể lực, sức khỏe thể chất",
+    "m": "thể lực, sức khỏe thể chất, sự cân đối, sự khỏe khoắn",
     "cat": "thể thao"
   },
   {
@@ -1898,7 +1898,7 @@
   {
     "w": "competition",
     "p": "kˌɑːmpətˈɪʃən",
-    "m": "cuộc thi đấu",
+    "m": "cuộc thi, cạnh tranh, cuộc đua",
     "cat": "thể thao"
   },
   {
@@ -1916,7 +1916,7 @@
   {
     "w": "trophy",
     "p": "tɹˈoʊfi",
-    "m": "cúp (thể thao)",
+    "m": "cúp (thể thao), chiến lợi phẩm",
     "cat": "thể thao"
   },
   {
@@ -1952,7 +1952,7 @@
   {
     "w": "score",
     "p": "skˈɔːɹ",
-    "m": "tỉ số, điểm số",
+    "m": "ghi điểm, tỉ số, điểm số, tỷ số, nhạc phim",
     "cat": "thể thao"
   },
   {
@@ -1970,7 +1970,7 @@
   {
     "w": "tie",
     "p": "tˈaɪ",
-    "m": "hòa (tỷ số)",
+    "m": "hòa (tỷ số), cà vạt",
     "cat": "thể thao"
   },
   {
@@ -1994,7 +1994,7 @@
   {
     "w": "character",
     "p": "kˈæɹɪktɚ",
-    "m": "nhân vật (trong truyện/phim)",
+    "m": "nhân vật (trong truyện/phim), tính cách",
     "cat": "nghệ thuật"
   },
   {
@@ -2036,7 +2036,7 @@
   {
     "w": "composer",
     "p": "kəmpˈoʊzɚ",
-    "m": "nhạc sĩ sáng tác",
+    "m": "nhạc sĩ sáng tác, nhà soạn nhạc",
     "cat": "nghệ thuật"
   },
   {
@@ -2048,7 +2048,7 @@
   {
     "w": "performance",
     "p": "pɚfˈɔːɹməns",
-    "m": "buổi biểu diễn",
+    "m": "buổi biểu diễn, hiệu suất",
     "cat": "nghệ thuật"
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "w": "survey",
     "p": "sˈɜːveɪ",
-    "m": "cuộc khảo sát",
+    "m": "khảo sát, điều tra",
     "cat": "học thuật"
   },
   {
@@ -2270,7 +2270,7 @@
   {
     "w": "contrast",
     "p": "kˈɑːntɹæst",
-    "m": "đối chiếu, chỉ ra sự khác biệt",
+    "m": "đối chiếu, chỉ ra sự khác biệt, đối lập, tương phản",
     "cat": "hành động"
   },
   {
@@ -2324,7 +2324,7 @@
   {
     "w": "recommend",
     "p": "ɹˌɛkəmˈɛnd",
-    "m": "đề xuất, giới thiệu",
+    "m": "giới thiệu, gợi ý, đề xuất, khuyến nghị, giới thiệu/khuyến nghị",
     "cat": "hành động"
   },
   {
@@ -2336,7 +2336,7 @@
   {
     "w": "consider",
     "p": "kənsˈɪdɚ",
-    "m": "cân nhắc, xem xét",
+    "m": "xem xét, cân nhắc",
     "cat": "hành động"
   },
   {
@@ -2366,7 +2366,7 @@
   {
     "w": "require",
     "p": "ɹᵻkwˈaɪɚ",
-    "m": "yêu cầu, đòi hỏi",
+    "m": "yêu cầu, đòi hỏi, cần",
     "cat": "hành động"
   },
   {
@@ -2474,7 +2474,7 @@
   {
     "w": "take a risk",
     "p": "tˈeɪk ɐ ɹˈɪsk",
-    "m": "mạo hiểm",
+    "m": "mạo hiểm, chấp nhận rủi ro; dám liều",
     "cat": "thành ngữ"
   },
   {
@@ -2540,13 +2540,13 @@
   {
     "w": "break the ice",
     "p": "bɹˈeɪk ðɪ ˈaɪs",
-    "m": "phá vỡ bầu không khí ngại ngùng",
+    "m": "phá vỡ bầu không khí ngại ngùng, phá vỡ sự im lặng ban đầu, phá vỡ sự ngại ngùng; khởi đầu cuộc trò chuyện",
     "cat": "thành ngữ"
   },
   {
     "w": "hit the nail on the head",
     "p": "hˈɪt ðə nˈeɪl ɔnðə hˈɛd",
-    "m": "nói đúng vào vấn đề",
+    "m": "nói đúng vào vấn đề, nói trúng tim đen, chính xác",
     "cat": "thành ngữ"
   },
   {
@@ -2822,7 +2822,7 @@
   {
     "w": "headquarters",
     "p": "hɛdkwˈɔːɹɾɚz",
-    "m": "tổng hành dinh, trụ sở",
+    "m": "trụ sở chính, tổng hành dinh",
     "cat": "địa điểm"
   },
   {
@@ -2870,19 +2870,19 @@
   {
     "w": "wave",
     "p": "wˈeɪv",
-    "m": "sóng biển",
+    "m": "sóng biển, vẫy tay",
     "cat": "thiên nhiên"
   },
   {
     "w": "pebble",
     "p": "pˈɛbəl",
-    "m": "viên cuội, hòn đá nhỏ",
+    "m": "viên cuội, hòn đá nhỏ, viên sỏi",
     "cat": "thiên nhiên"
   },
   {
     "w": "soil",
     "p": "sˈɔɪl",
-    "m": "đất, thổ nhưỡng",
+    "m": "đất trồng trọt, thổ nhưỡng",
     "cat": "thiên nhiên"
   },
   {
@@ -2900,7 +2900,7 @@
   {
     "w": "pasture",
     "p": "pˈæstʃɚ",
-    "m": "đồng cỏ",
+    "m": "đồng cỏ, bãi chăn thả",
     "cat": "thiên nhiên"
   },
   {
@@ -2924,7 +2924,7 @@
   {
     "w": "branch",
     "p": "bɹˈæntʃ",
-    "m": "cành cây",
+    "m": "cành cây, chi nhánh",
     "cat": "thiên nhiên"
   },
   {
@@ -3008,7 +3008,7 @@
   {
     "w": "pack",
     "p": "pˈæk",
-    "m": "bầy (chó sói)",
+    "m": "đóng gói hành lý, bầy (chó sói)",
     "cat": "động vật"
   },
   {
@@ -3080,7 +3080,7 @@
   {
     "w": "spouse",
     "p": "spˈaʊs",
-    "m": "vợ hoặc chồng",
+    "m": "vợ hoặc chồng, vợ/chồng",
     "cat": "gia đình"
   },
   {
@@ -3290,7 +3290,7 @@
   {
     "w": "vivid",
     "p": "vˈɪvɪd",
-    "m": "sắc nét, rực rỡ",
+    "m": "sắc nét, rực rỡ, sinh động",
     "cat": "tính từ"
   },
   {
@@ -3338,7 +3338,7 @@
   {
     "w": "tie",
     "p": "tˈaɪ",
-    "m": "cà vạt",
+    "m": "hòa (tỷ số), cà vạt",
     "cat": "quần áo"
   },
   {
@@ -3584,13 +3584,13 @@
   {
     "w": "degree",
     "p": "dᵻɡɹˈiː",
-    "m": "bằng đại học",
+    "m": "độ (nhiệt độ), bằng đại học, học vị",
     "cat": "học tập"
   },
   {
     "w": "diploma",
     "p": "dɪplˈoʊmə",
-    "m": "bằng chứng chỉ",
+    "m": "bằng cao đẳng, văn bằng, bằng chứng chỉ, bằng cấp, bằng tốt nghiệp",
     "cat": "học tập"
   },
   {
@@ -3626,7 +3626,7 @@
   {
     "w": "tutorial",
     "p": "tuːtˈɔːɹɪəl",
-    "m": "buổi học nhóm nhỏ, hướng dẫn",
+    "m": "buổi học kèm cặp, buổi học nhóm nhỏ, hướng dẫn",
     "cat": "học tập"
   },
   {
@@ -3638,7 +3638,7 @@
   {
     "w": "syllabus",
     "p": "sˈɪlæbəs",
-    "m": "chương trình học",
+    "m": "chương trình học, đề cương môn học",
     "cat": "học tập"
   },
   {
@@ -3650,7 +3650,7 @@
   {
     "w": "pass",
     "p": "pˈæs",
-    "m": "đỗ (kỳ thi)",
+    "m": "đậu, qua, đỗ (kỳ thi)",
     "cat": "học tập"
   },
   {
@@ -3662,13 +3662,13 @@
   {
     "w": "revise",
     "p": "ɹᵻvˈaɪz",
-    "m": "ôn tập, xem lại",
+    "m": "ôn tập, xem lại, sửa đổi",
     "cat": "học tập"
   },
   {
     "w": "motivate",
     "p": "mˈoʊɾᵻvˌeɪt",
-    "m": "tạo động lực",
+    "m": "động viên, thúc đẩy",
     "cat": "hành động"
   },
   {

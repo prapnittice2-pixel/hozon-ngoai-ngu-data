@@ -2,7 +2,7 @@
   {
     "w": "acquit",
     "p": "ɐkwˈɪt",
-    "m": "tha bổng, tuyên bố vô tội",
+    "m": "tha bổng, tuyên bố vô tội, tuyên trắng án",
     "cat": "chính trị"
   },
   {
@@ -20,7 +20,7 @@
   {
     "w": "appeal",
     "p": "ɐpˈiːl",
-    "m": "kháng cáo, khiếu nại",
+    "m": "kháng cáo, kêu gọi, khiếu nại",
     "cat": "chính trị"
   },
   {
@@ -98,7 +98,7 @@
   {
     "w": "conviction",
     "p": "kənvˈɪkʃən",
-    "m": "bản án kết tội, sự tin chắc",
+    "m": "niềm tin vững chắc, bản án, niềm tin mạnh mẽ; kết tội",
     "cat": "chính trị"
   },
   {
@@ -122,7 +122,7 @@
   {
     "w": "defamation",
     "p": "dᵻfɐmˈeɪʃən",
-    "m": "sự phỉ báng, vu khống",
+    "m": "sự phỉ báng, vu khống, bôi nhọ",
     "cat": "xã hội"
   },
   {
@@ -266,7 +266,7 @@
   {
     "w": "negligence",
     "p": "nˈɛɡlɪdʒəns",
-    "m": "sự sơ suất, thiếu trách nhiệm",
+    "m": "sự sơ suất, thiếu trách nhiệm, sự tắc trách, bất cẩn",
     "cat": "học thuật"
   },
   {
@@ -302,7 +302,7 @@
   {
     "w": "probation",
     "p": "pɹoʊbˈeɪʃən",
-    "m": "quản chế, thử thách",
+    "m": "thời gian thử việc, quản chế, thử thách, án treo",
     "cat": "chính trị"
   },
   {
@@ -524,7 +524,7 @@
   {
     "w": "immunization",
     "p": "ˌɪmjuːnᵻzˈeɪʃən",
-    "m": "tiêm phòng, miễn dịch hóa",
+    "m": "tiêm phòng, miễn dịch hóa, việc tiêm chủng",
     "cat": "sức khỏe"
   },
   {
@@ -536,7 +536,7 @@
   {
     "w": "inflammation",
     "p": "ɪnflæmˈeɪʃən",
-    "m": "viêm, sự viêm nhiễm",
+    "m": "viêm",
     "cat": "sức khỏe"
   },
   {
@@ -680,13 +680,13 @@
   {
     "w": "vaccination",
     "p": "vˌæksᵻnˈeɪʃən",
-    "m": "tiêm vắc-xin phòng bệnh",
+    "m": "tiêm phòng, tiêm chủng, vắc-xin",
     "cat": "sức khỏe"
   },
   {
     "w": "viable",
     "p": "vˈaɪəbəl",
-    "m": "có thể sống được, khả thi",
+    "m": "khả thi, có thể thực hiện, có thể sống được",
     "cat": "tính từ"
   },
   {
@@ -782,7 +782,7 @@
   {
     "w": "endangered species",
     "p": "ɛndˈeɪndʒɚd spˈiːsiːz",
-    "m": "loài có nguy cơ tuyệt chủng",
+    "m": "loài động vật nguy cấp, loài có nguy cơ tuyệt chủng",
     "cat": "động vật"
   },
   {
@@ -938,7 +938,7 @@
   {
     "w": "urban sprawl",
     "p": "ˈɜːbən spɹˈɔːl",
-    "m": "sự bành trướng đô thị",
+    "m": "đô thị hóa lan tràn, sự bành trướng đô thị",
     "cat": "xã hội"
   },
   {
@@ -1118,7 +1118,7 @@
   {
     "w": "irony",
     "p": "ˈaɪɹəni",
-    "m": "sự mỉa mai, trớ trêu",
+    "m": "nghịch lý, trào phúng, sự mỉa mai, trớ trêu",
     "cat": "học thuật"
   },
   {
@@ -1322,7 +1322,7 @@
   {
     "w": "composition",
     "p": "kˌɑːmpəzˈɪʃən",
-    "m": "bố cục hình ảnh",
+    "m": "cách bố cục, sắp xếp nghệ thuật, bố cục hình ảnh",
     "cat": "nghệ thuật"
   },
   {
@@ -1358,7 +1358,7 @@
   {
     "w": "curator",
     "p": "kjʊɹɹˈeɪɾɚ",
-    "m": "người quản lý, giám tuyển nghệ thuật",
+    "m": "người quản lý, giám tuyển nghệ thuật, người phụ trách bảo tàng",
     "cat": "công việc"
   },
   {
@@ -1532,7 +1532,7 @@
   {
     "w": "score",
     "p": "skˈɔːɹ",
-    "m": "nhạc phim",
+    "m": "ghi điểm, tỉ số, điểm số, tỷ số, nhạc phim",
     "cat": "nghệ thuật"
   },
   {
@@ -1580,7 +1580,7 @@
   {
     "w": "abstract",
     "p": "ˈæbstɹækt",
-    "m": "trừu tượng",
+    "m": "trừu tượng, tóm tắt (bài báo khoa học)",
     "cat": "tính từ"
   },
   {
@@ -1718,7 +1718,7 @@
   {
     "w": "austerity",
     "p": "ɔːstˈɛɹᵻɾi",
-    "m": "khắc khổ, thắt chặt chi tiêu",
+    "m": "thắt lưng buộc bụng, khắc khổ, thắt chặt chi tiêu",
     "cat": "kinh doanh"
   },
   {
@@ -1742,7 +1742,7 @@
   {
     "w": "axiomatic",
     "p": "ˌæksɪəmˈæɾɪk",
-    "m": "hiển nhiên, không cần chứng minh",
+    "m": "hiển nhiên, không cần chứng minh, có tính tiên đề",
     "cat": "tính từ"
   },
   {
@@ -1760,7 +1760,7 @@
   {
     "w": "bias",
     "p": "bˈaɪəs",
-    "m": "định kiến, sự thiên vị",
+    "m": "thiên kiến, thiên vị, sai lệch, thành kiến, định kiến",
     "cat": "xã hội"
   },
   {
@@ -1856,13 +1856,13 @@
   {
     "w": "compel",
     "p": "kəmpˈɛl",
-    "m": "bắt buộc, thúc đẩy",
+    "m": "bắt buộc, cưỡng bức, thúc đẩy, buộc phải, thúc ép",
     "cat": "hành động"
   },
   {
     "w": "comply",
     "p": "kəmplˈaɪ",
-    "m": "tuân thủ, chấp hành",
+    "m": "tuân thủ, chấp hành, tuân theo quy định",
     "cat": "hành động"
   },
   {
@@ -1892,7 +1892,7 @@
   {
     "w": "confront",
     "p": "kənfɹˈʌnt",
-    "m": "đối đầu, đương đầu",
+    "m": "đối mặt, đối diện, đối đầu, đương đầu, chất vấn",
     "cat": "hành động"
   },
   {
@@ -1934,7 +1934,7 @@
   {
     "w": "conviction",
     "p": "kənvˈɪkʃən",
-    "m": "niềm tin vững chắc",
+    "m": "niềm tin vững chắc, bản án, niềm tin mạnh mẽ; kết tội",
     "cat": "cảm xúc"
   },
   {
@@ -1982,7 +1982,7 @@
   {
     "w": "deliberate",
     "p": "dᵻlˈɪbɚɹət",
-    "m": "có chủ tâm, cố ý",
+    "m": "cố ý, thảo luận kỹ, có chủ ý, thận trọng; cân nhắc",
     "cat": "tính từ"
   },
   {
@@ -2000,7 +2000,7 @@
   {
     "w": "derive",
     "p": "dᵻɹˈaɪv",
-    "m": "xuất phát từ, lấy từ",
+    "m": "bắt nguồn từ, rút ra, xuất phát từ, lấy từ",
     "cat": "hành động"
   },
   {
@@ -2072,13 +2072,13 @@
   {
     "w": "eloquent",
     "p": "ˈɛləkwənt",
-    "m": "hùng hồn, hùng biện",
+    "m": "hùng hồn, lưu loát, diễn đạt trôi chảy, hùng biện, có tài ăn nói",
     "cat": "tính từ"
   },
   {
     "w": "empower",
     "p": "ɛmpˈaʊɚ",
-    "m": "trao quyền, cho phép",
+    "m": "trao quyền, tăng thêm sức mạnh, tăng năng lực, cho phép",
     "cat": "hành động"
   },
   {
@@ -2150,7 +2150,7 @@
   {
     "w": "exert",
     "p": "ɛɡzˈɜːt",
-    "m": "sử dụng, phát huy (ảnh hưởng)",
+    "m": "áp dụng, gây tác động, sử dụng, phát huy (ảnh hưởng)",
     "cat": "hành động"
   },
   {
@@ -2258,7 +2258,7 @@
   {
     "w": "grassroots",
     "p": "ɡɹˈæsɹuːts",
-    "m": "cơ sở, tầng lớp dân thường",
+    "m": "từ cơ sở, phong trào bình dân, tầng lớp dân thường",
     "cat": "xã hội"
   },
   {
@@ -2306,7 +2306,7 @@
   {
     "w": "implicit",
     "p": "ɪmplˈɪsɪt",
-    "m": "ẩn ý, không nói thẳng",
+    "m": "ngầm hiểu, ẩn ý, không nói thẳng, ngầm định, ẩn chứa",
     "cat": "tính từ"
   },
   {
@@ -2354,13 +2354,13 @@
   {
     "w": "inherently",
     "p": "ɪnhˈiəɹəntli",
-    "m": "vốn dĩ, về bản chất",
+    "m": "vốn có, một cách bẩm sinh, vốn dĩ, về bản chất",
     "cat": "trạng từ"
   },
   {
     "w": "initiative",
     "p": "ɪnˈɪʃiətˌɪv",
-    "m": "sáng kiến, bước đầu tiên",
+    "m": "sáng kiến, chủ động, bước đầu tiên",
     "cat": "học thuật"
   },
   {
@@ -2378,7 +2378,7 @@
   {
     "w": "integrity",
     "p": "ɪntˈɛɡɹᵻɾi",
-    "m": "tính liêm chính, toàn vẹn",
+    "m": "tính liêm chính, toàn vẹn, sự chính trực",
     "cat": "học thuật"
   },
   {
@@ -2390,7 +2390,7 @@
   {
     "w": "invoke",
     "p": "ɪnvˈoʊk",
-    "m": "viện dẫn, cầu khẩn",
+    "m": "viện dẫn, cầu khẩn, kêu gọi, trích dẫn (luật, quyền)",
     "cat": "hành động"
   },
   {

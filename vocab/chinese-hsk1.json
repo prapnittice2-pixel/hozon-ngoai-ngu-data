@@ -566,7 +566,7 @@
   {
     "w": "叫",
     "p": "jiào",
-    "m": "tên là, gọi",
+    "m": "tên là, gọi, bảo, khiến, kêu",
     "cat": "verb"
   },
   {
@@ -710,7 +710,7 @@
   {
     "w": "对",
     "p": "duì",
-    "m": "đúng",
+    "m": "đúng, phải, đối với, cặp (lượng từ)",
     "cat": "adjective"
   },
   {
@@ -890,13 +890,13 @@
   {
     "w": "还",
     "p": "hái",
-    "m": "vẫn còn, nữa",
+    "m": "vẫn còn, nữa, ngoài ra, trả lại, hoàn lại",
     "cat": "particle"
   },
   {
     "w": "只",
     "p": "zhǐ",
-    "m": "chỉ",
+    "m": "chỉ, chỉ có, con (lượng từ cho động vật, tay, chân)",
     "cat": "particle"
   },
   {
@@ -938,7 +938,7 @@
   {
     "w": "块",
     "p": "kuài",
-    "m": "đồng (tiền tệ)",
+    "m": "đồng (tiền tệ), cục, miếng",
     "cat": "money"
   },
   {

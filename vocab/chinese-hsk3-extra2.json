@@ -8,7 +8,7 @@
   {
     "w": "啊",
     "p": "a",
-    "m": "a (thán từ)",
+    "m": "à, ừ (thán từ), ơi (trợ từ cảm thán), a (thán từ)",
     "cat": "language"
   },
   {
@@ -122,7 +122,7 @@
   {
     "w": "必须",
     "p": "bì xū",
-    "m": "bắt buộc phải",
+    "m": "phải, bắt buộc",
     "cat": "language"
   },
   {
@@ -134,7 +134,7 @@
   {
     "w": "表示",
     "p": "biǎo shì",
-    "m": "bày tỏ",
+    "m": "biểu thị, thể hiện, bày tỏ, cho thấy",
     "cat": "hành động"
   },
   {
@@ -410,7 +410,7 @@
   {
     "w": "放",
     "p": "fàng",
-    "m": "đặt, để",
+    "m": "đặt, thả, cho, để, bỏ",
     "cat": "hành động"
   },
   {
@@ -542,7 +542,7 @@
   {
     "w": "过去",
     "p": "guò qù",
-    "m": "quá khứ",
+    "m": "sang đó, đi qua, quá khứ",
     "cat": "time"
   },
   {
@@ -626,7 +626,7 @@
   {
     "w": "会议",
     "p": "huì yì",
-    "m": "hội nghị",
+    "m": "cuộc họp, hội nghị",
     "cat": "work"
   },
   {
@@ -698,7 +698,7 @@
   {
     "w": "角",
     "p": "jiǎo",
-    "m": "góc; hào (tiền)",
+    "m": "hào (1/10 đồng), góc",
     "cat": "language"
   },
   {
@@ -998,7 +998,7 @@
   {
     "w": "米",
     "p": "mǐ",
-    "m": "mét; gạo",
+    "m": "mét (đơn vị đo), gạo",
     "cat": "language"
   },
   {
@@ -1046,7 +1046,7 @@
   {
     "w": "难过",
     "p": "nán guò",
-    "m": "buồn bã",
+    "m": "buồn bã, khổ tâm, đau lòng, đau khổ, khó chịu",
     "cat": "cảm xúc"
   },
   {
@@ -1334,7 +1334,7 @@
   {
     "w": "虽然",
     "p": "suī rán",
-    "m": "tuy rằng",
+    "m": "mặc dù, tuy nhiên, dù rằng, tuy rằng",
     "cat": "language"
   },
   {
@@ -1616,7 +1616,7 @@
   {
     "w": "一边",
     "p": "yì biān",
-    "m": "vừa... vừa",
+    "m": "vừa...vừa, một phía, vừa... vừa",
     "cat": "language"
   },
   {
@@ -1646,7 +1646,7 @@
   {
     "w": "一直",
     "p": "yì zhí",
-    "m": "luôn luôn, thẳng",
+    "m": "liên tục, mãi mãi, thẳng, suốt, cứ, luôn luôn",
     "cat": "trạng từ"
   },
   {
@@ -1718,7 +1718,7 @@
   {
     "w": "元",
     "p": "yuán",
-    "m": "đồng (tiền)",
+    "m": "nhân dân tệ (đơn vị tiền), đồng (đơn vị tiền tệ TQ)",
     "cat": "money"
   },
   {
@@ -1742,7 +1742,7 @@
   {
     "w": "站",
     "p": "zhàn",
-    "m": "đứng; bến",
+    "m": "trạm, bến, ga, đứng",
     "cat": "hành động"
   },
   {
@@ -1754,7 +1754,7 @@
   {
     "w": "着急",
     "p": "zháo jí",
-    "m": "sốt ruột",
+    "m": "lo lắng, nóng lòng, sốt ruột",
     "cat": "cảm xúc"
   },
   {

@@ -68,7 +68,7 @@
   {
     "w": "benchmark",
     "p": "bˈɛntʃmɑːɹk",
-    "m": "tiêu chuẩn so sánh, điểm chuẩn",
+    "m": "chuẩn so sánh, điểm tham chiếu, chuẩn đo lường hiệu suất, chuẩn mực, điểm chuẩn, tiêu chuẩn đối chiếu, mốc chuẩn",
     "cat": "kinh doanh"
   },
   {
@@ -122,19 +122,19 @@
   {
     "w": "abstract",
     "p": "ˈæbstɹækt",
-    "m": "tóm tắt (bài báo khoa học)",
+    "m": "trừu tượng, tóm tắt (bài báo khoa học)",
     "cat": "học thuật"
   },
   {
     "w": "findings",
     "p": "fˈaɪndɪŋz",
-    "m": "kết quả nghiên cứu",
+    "m": "kết quả, phát hiện",
     "cat": "học thuật"
   },
   {
     "w": "framework",
     "p": "fɹˈeɪmwɜːk",
-    "m": "khung lý thuyết, cấu trúc",
+    "m": "khung lý thuyết, cấu trúc, hệ thống tư duy, khung cơ cấu, hệ thống nền tảng, khuôn khổ",
     "cat": "học thuật"
   },
   {
@@ -152,7 +152,7 @@
   {
     "w": "implication",
     "p": "ˌɪmplɪkˈeɪʃən",
-    "m": "hàm ý, ý nghĩa sâu xa",
+    "m": "hàm ý, tác động, ý nghĩa sâu xa, hệ quả, ảnh hưởng",
     "cat": "học thuật"
   },
   {
@@ -170,7 +170,7 @@
   {
     "w": "survey",
     "p": "sˈɜːveɪ",
-    "m": "khảo sát",
+    "m": "khảo sát, điều tra",
     "cat": "học thuật"
   },
   {
@@ -332,7 +332,7 @@
   {
     "w": "rate",
     "p": "ɹˈeɪt",
-    "m": "tỷ lệ, mức độ",
+    "m": "tỉ lệ, đánh giá, tỷ lệ, mức độ",
     "cat": "kinh doanh"
   },
   {
@@ -362,7 +362,7 @@
   {
     "w": "significant",
     "p": "sɪɡnˈɪfɪkənt",
-    "m": "có ý nghĩa thống kê, đáng kể",
+    "m": "đáng kể, có ý nghĩa, quan trọng, đáng chú ý",
     "cat": "tính từ"
   },
   {
@@ -374,7 +374,7 @@
   {
     "w": "robust",
     "p": "ɹoʊbˈʌst",
-    "m": "mạnh mẽ, vững chắc",
+    "m": "mạnh mẽ, vững chắc, bền vững",
     "cat": "tính từ"
   },
   {
@@ -446,13 +446,13 @@
   {
     "w": "broadly",
     "p": "bɹˈɔːdli",
-    "m": "nhìn chung, rộng rãi",
+    "m": "một cách tổng quát, nhìn chung, rộng rãi",
     "cat": "trạng từ"
   },
   {
     "w": "accordingly",
     "p": "ɐkˈɔːɹdɪŋli",
-    "m": "theo đó, tương ứng",
+    "m": "tương ứng, do vậy, do đó, theo đó",
     "cat": "trạng từ"
   },
   {
@@ -482,13 +482,13 @@
   {
     "w": "outline",
     "p": "ˈaʊtlaɪn",
-    "m": "trình bày khái quát, đề cương",
+    "m": "phác thảo, tóm tắt đề cương, trình bày khái quát",
     "cat": "hành động"
   },
   {
     "w": "elaborate",
     "p": "ᵻlˈæbɚɹˌeɪt",
-    "m": "mở rộng, trình bày chi tiết",
+    "m": "chi tiết, phức tạp, giải thích chi tiết",
     "cat": "hành động"
   },
   {
@@ -500,7 +500,7 @@
   {
     "w": "highlight",
     "p": "hˈaɪlaɪt",
-    "m": "nhấn mạnh, làm nổi bật",
+    "m": "nhấn mạnh, điểm nổi bật, nêu bật",
     "cat": "hành động"
   },
   {
@@ -512,7 +512,7 @@
   {
     "w": "present",
     "p": "pɹˈɛzənt",
-    "m": "trình bày",
+    "m": "giới thiệu, hiện tại, trình bày",
     "cat": "hành động"
   },
   {
@@ -644,7 +644,7 @@
   {
     "w": "objective",
     "p": "ɑːbdʒˈɛktɪv",
-    "m": "mục tiêu",
+    "m": "khách quan, mục tiêu",
     "cat": "kinh doanh"
   },
   {
@@ -686,7 +686,7 @@
   {
     "w": "initiative",
     "p": "ɪnˈɪʃiətˌɪv",
-    "m": "sáng kiến, chủ động",
+    "m": "sáng kiến, chủ động, bước đầu tiên",
     "cat": "kinh doanh"
   },
   {
@@ -740,13 +740,13 @@
   {
     "w": "delegate",
     "p": "dˈɛlɪɡˌeɪt",
-    "m": "ủy quyền, giao việc",
+    "m": "ủy quyền, giao nhiệm vụ, phân công, giao việc, ủy thác",
     "cat": "hành động"
   },
   {
     "w": "facilitate",
     "p": "fəsˈɪlᵻtˌeɪt",
-    "m": "hỗ trợ, tạo điều kiện",
+    "m": "tạo thuận lợi, hỗ trợ, tạo điều kiện, giúp dễ dàng hơn, thúc đẩy",
     "cat": "hành động"
   },
   {
@@ -770,19 +770,19 @@
   {
     "w": "mentorship",
     "p": "mˈɛntɔːɹʃˌɪp",
-    "m": "sự hướng dẫn, kèm cặp",
+    "m": "sự dìu dắt, sự hướng dẫn, kèm cặp, cố vấn",
     "cat": "công việc"
   },
   {
     "w": "networking",
     "p": "nˈɛtwɜːkɪŋ",
-    "m": "xây dựng mạng lưới quan hệ",
+    "m": "việc kết nối quan hệ, xây dựng mạng lưới quan hệ",
     "cat": "công việc"
   },
   {
     "w": "resume",
     "p": "ɹᵻzˈuːm",
-    "m": "hồ sơ xin việc",
+    "m": "CV, sơ yếu lý lịch, hồ sơ xin việc",
     "cat": "công việc"
   },
   {
@@ -806,7 +806,7 @@
   {
     "w": "promotion",
     "p": "pɹəmˈoʊʃən",
-    "m": "thăng chức",
+    "m": "thăng chức, khuyến mãi",
     "cat": "công việc"
   },
   {
@@ -818,7 +818,7 @@
   {
     "w": "qualification",
     "p": "kwˌɔlɪfɪkˈeɪʃən",
-    "m": "bằng cấp, chứng chỉ",
+    "m": "bằng cấp, năng lực, trình độ, điều kiện, chứng chỉ",
     "cat": "công việc"
   },
   {
@@ -896,7 +896,7 @@
   {
     "w": "redundancy",
     "p": "ɹᵻdˈʌndənsi",
-    "m": "dư thừa lao động, cắt giảm nhân sự",
+    "m": "dự phòng, dư thừa, thừa nhân viên, cắt giảm nhân sự, bị cho thôi việc",
     "cat": "công việc"
   },
   {
@@ -926,7 +926,7 @@
   {
     "w": "incentive",
     "p": "ɪnsˈɛntɪv",
-    "m": "khuyến khích, phần thưởng",
+    "m": "động lực khuyến khích, ưu đãi, phần thưởng, sự khích lệ",
     "cat": "tiền bạc"
   },
   {
@@ -992,13 +992,13 @@
   {
     "w": "viable",
     "p": "vˈaɪəbəl",
-    "m": "khả thi, có thể thực hiện",
+    "m": "khả thi, có thể thực hiện, có thể sống được",
     "cat": "tính từ"
   },
   {
     "w": "innovative",
     "p": "ˈɪnəvˌeɪɾɪv",
-    "m": "sáng tạo, đổi mới",
+    "m": "sáng tạo, đổi mới, cải tiến",
     "cat": "tính từ"
   },
   {
@@ -1034,13 +1034,13 @@
   {
     "w": "transparent",
     "p": "tɹænspˈæɹənt",
-    "m": "minh bạch",
+    "m": "minh bạch, trong suốt, rõ ràng",
     "cat": "tính từ"
   },
   {
     "w": "adaptable",
     "p": "ɐdˈæptəbəl",
-    "m": "linh hoạt, thích nghi được",
+    "m": "có khả năng thích nghi, linh hoạt",
     "cat": "tính từ"
   },
   {
@@ -1124,7 +1124,7 @@
   {
     "w": "mediate",
     "p": "mˈiːdɪˌeɪt",
-    "m": "hòa giải, làm trung gian",
+    "m": "làm trung gian, hòa giải",
     "cat": "hành động"
   },
   {
@@ -1142,7 +1142,7 @@
   {
     "w": "correspond",
     "p": "kˌɔːɹɪspˈɑːnd",
-    "m": "liên lạc, trao đổi",
+    "m": "liên lạc, trao đổi, tương ứng; thư từ",
     "cat": "hành động"
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "w": "briefing",
     "p": "bɹˈiːfɪŋ",
-    "m": "buổi thông tin ngắn gọn",
+    "m": "buổi phổ biến thông tin, buổi báo cáo tóm tắt",
     "cat": "công việc"
   },
   {
@@ -1226,7 +1226,7 @@
   {
     "w": "reference",
     "p": "ɹˈɛfɹəns",
-    "m": "tham chiếu, tài liệu tham khảo",
+    "m": "người giới thiệu, tài liệu tham khảo, tham chiếu",
     "cat": "học thuật"
   },
   {
@@ -1316,7 +1316,7 @@
   {
     "w": "tutorial",
     "p": "tuːtˈɔːɹɪəl",
-    "m": "bài hướng dẫn, buổi học nhóm nhỏ",
+    "m": "buổi học kèm cặp, buổi học nhóm nhỏ, hướng dẫn",
     "cat": "học tập"
   },
   {
@@ -1334,7 +1334,7 @@
   {
     "w": "syllabus",
     "p": "sˈɪlæbəs",
-    "m": "đề cương môn học",
+    "m": "chương trình học, đề cương môn học",
     "cat": "học tập"
   },
   {
@@ -1358,7 +1358,7 @@
   {
     "w": "enrollment",
     "p": "ɛnɹˈoʊlmənt",
-    "m": "đăng ký học",
+    "m": "đăng ký học, sự ghi danh nhập học",
     "cat": "học tập"
   },
   {
@@ -1370,7 +1370,7 @@
   {
     "w": "transcript",
     "p": "tɹˈænskɹɪpt",
-    "m": "bảng điểm",
+    "m": "bảng điểm, bản chép lại lời nói",
     "cat": "học tập"
   },
   {
@@ -1394,7 +1394,7 @@
   {
     "w": "academic integrity",
     "p": "ˌækədˈɛmɪk ɪntˈɛɡɹᵻɾi",
-    "m": "sự liêm chính học thuật",
+    "m": "tính liêm chính học thuật",
     "cat": "học tập"
   },
   {
@@ -1502,7 +1502,7 @@
   {
     "w": "bias",
     "p": "bˈaɪəs",
-    "m": "sự thiên vị, sai lệch",
+    "m": "thiên kiến, thiên vị, sai lệch, thành kiến, định kiến",
     "cat": "học thuật"
   },
   {
@@ -1514,7 +1514,7 @@
   {
     "w": "control group",
     "p": "kəntɹˈoʊl ɡɹˈuːp",
-    "m": "nhóm đối chứng",
+    "m": "nhóm kiểm soát, nhóm đối chứng",
     "cat": "học thuật"
   },
   {
@@ -1550,7 +1550,7 @@
   {
     "w": "regression",
     "p": "ɹᵻɡɹˈɛʃən",
-    "m": "hồi quy",
+    "m": "hồi quy, sự thụt lùi",
     "cat": "học thuật"
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "w": "projection",
     "p": "pɹədʒˈɛkʃən",
-    "m": "dự báo, chiếu",
+    "m": "dự báo, chiếu, số liệu dự phóng, ước tính",
     "cat": "kinh doanh"
   },
   {
@@ -1760,7 +1760,7 @@
   {
     "w": "outsource",
     "p": "aʊtsˈɔːɹs",
-    "m": "thuê ngoài",
+    "m": "thuê ngoài, chuyển việc ra ngoài, gia công bên ngoài",
     "cat": "hành động"
   },
   {
@@ -1946,7 +1946,7 @@
   {
     "w": "leverage",
     "p": "lˈɛvɚɹɪdʒ",
-    "m": "tận dụng, đòn bẩy",
+    "m": "đòn bẩy, tận dụng lợi thế, khai thác lợi thế",
     "cat": "hành động"
   },
   {
@@ -1970,7 +1970,7 @@
   {
     "w": "on the same page",
     "p": "ɔnðə sˈeɪm pˈeɪdʒ",
-    "m": "cùng hiểu như nhau",
+    "m": "đồng thuận, hiểu nhau, thống nhất quan điểm",
     "cat": "thành ngữ"
   },
   {
@@ -1988,7 +1988,7 @@
   {
     "w": "go the extra mile",
     "p": "ɡˌoʊ ðɪ ˈɛkstɹə mˈaɪl",
-    "m": "cố gắng hơn mức bình thường",
+    "m": "cố gắng hơn mức bình thường, nỗ lực hơn mức yêu cầu",
     "cat": "thành ngữ"
   },
   {
@@ -2072,7 +2072,7 @@
   {
     "w": "break down",
     "p": "bɹˈeɪk dˈaʊn",
-    "m": "phân tích, phân loại chi tiết",
+    "m": "hỏng, đổ vỡ, phân tích chi tiết, chia nhỏ",
     "cat": "thành ngữ"
   },
   {
@@ -2204,7 +2204,7 @@
   {
     "w": "implication",
     "p": "ˌɪmplɪkˈeɪʃən",
-    "m": "hệ quả, ảnh hưởng",
+    "m": "hàm ý, tác động, ý nghĩa sâu xa, hệ quả, ảnh hưởng",
     "cat": "học thuật"
   },
   {
@@ -2240,13 +2240,13 @@
   {
     "w": "adoption",
     "p": "ɐdˈɑːpʃən",
-    "m": "sự chấp nhận, áp dụng",
+    "m": "sự nhận con nuôi, áp dụng",
     "cat": "kinh doanh"
   },
   {
     "w": "integration",
     "p": "ˌɪntᵻɡɹˈeɪʃən",
-    "m": "tích hợp",
+    "m": "sự hòa nhập (xã hội), tích hợp, kết hợp, hội nhập",
     "cat": "kinh doanh"
   },
   {
@@ -2264,7 +2264,7 @@
   {
     "w": "platform",
     "p": "plˈætfɔːɹm",
-    "m": "nền tảng",
+    "m": "sân ga, bến, ke ga, nền tảng, thềm ga",
     "cat": "công nghệ"
   },
   {
@@ -2348,7 +2348,7 @@
   {
     "w": "legislation",
     "p": "lˌɛdʒɪslˈeɪʃən",
-    "m": "luật pháp, lập pháp",
+    "m": "luật pháp, lập pháp, pháp chế",
     "cat": "chính trị"
   },
   {
@@ -2372,13 +2372,13 @@
   {
     "w": "initiative",
     "p": "ɪnˈɪʃiətˌɪv",
-    "m": "sáng kiến chính sách",
+    "m": "sáng kiến, chủ động, bước đầu tiên",
     "cat": "chính trị"
   },
   {
     "w": "framework",
     "p": "fɹˈeɪmwɜːk",
-    "m": "khung pháp lý",
+    "m": "khung lý thuyết, cấu trúc, hệ thống tư duy, khung cơ cấu, hệ thống nền tảng, khuôn khổ",
     "cat": "chính trị"
   },
   {

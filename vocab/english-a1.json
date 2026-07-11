@@ -373,13 +373,13 @@
   },
   {
     "w": "first",
-    "m": "thứ nhất",
+    "m": "thứ nhất, đầu tiên",
     "cat": "number",
     "p": "fˈɜːst"
   },
   {
     "w": "second",
-    "m": "thứ hai",
+    "m": "thứ hai, giây",
     "cat": "number",
     "p": "sˈɛkənd"
   },
@@ -823,7 +823,7 @@
   },
   {
     "w": "back",
-    "m": "lưng",
+    "m": "lưng, phía sau",
     "cat": "body",
     "p": "bˈæk"
   },
@@ -907,7 +907,7 @@
   },
   {
     "w": "station",
-    "m": "nhà ga, trạm",
+    "m": "nhà ga, trạm, bến xe",
     "cat": "place",
     "p": "stˈeɪʃən"
   },
@@ -1099,7 +1099,7 @@
   },
   {
     "w": "like",
-    "m": "thích",
+    "m": "thích, như, nhấn like",
     "cat": "verb",
     "p": "lˈaɪk"
   },
@@ -1351,7 +1351,7 @@
   },
   {
     "w": "cold",
-    "m": "lạnh",
+    "m": "lạnh, cảm lạnh",
     "cat": "adjective",
     "p": "kˈoʊld"
   },
@@ -1393,7 +1393,7 @@
   },
   {
     "w": "clean",
-    "m": "sạch",
+    "m": "sạch, dọn dẹp",
     "cat": "adjective",
     "p": "klˈiːn"
   },
@@ -1405,7 +1405,7 @@
   },
   {
     "w": "right",
-    "m": "đúng, phải",
+    "m": "đúng, phải, quyền lợi",
     "cat": "adjective",
     "p": "ɹˈaɪt"
   },
@@ -1609,7 +1609,7 @@
   },
   {
     "w": "book",
-    "m": "cuốn sách",
+    "m": "cuốn sách, đặt trước (phòng/vé)",
     "cat": "object",
     "p": "bˈʊk"
   },
@@ -1969,7 +1969,7 @@
   },
   {
     "w": "fire",
-    "m": "lửa",
+    "m": "lửa, sa thải",
     "cat": "nature",
     "p": "fˈaɪɚ"
   },
@@ -1981,13 +1981,13 @@
   },
   {
     "w": "ground",
-    "m": "mặt đất",
+    "m": "mặt đất, cơ sở, căn cứ",
     "cat": "nature",
     "p": "ɡɹˈaʊnd"
   },
   {
     "w": "light",
-    "m": "ánh sáng",
+    "m": "ánh sáng, nhẹ",
     "cat": "nature",
     "p": "lˈaɪt"
   },
@@ -2005,7 +2005,7 @@
   },
   {
     "w": "cold",
-    "m": "lạnh",
+    "m": "lạnh, cảm lạnh",
     "cat": "nature",
     "p": "kˈoʊld"
   },
@@ -2131,7 +2131,7 @@
   },
   {
     "w": "watch",
-    "m": "đồng hồ đeo tay",
+    "m": "đồng hồ đeo tay, xem, theo dõi",
     "cat": "clothing",
     "p": "wˈɑːtʃ"
   },
@@ -2197,7 +2197,7 @@
   },
   {
     "w": "bridge",
-    "m": "cái cầu",
+    "m": "cái cầu, kết nối, thu hẹp khoảng cách",
     "cat": "place",
     "p": "bɹˈɪdʒ"
   },
@@ -2239,7 +2239,7 @@
   },
   {
     "w": "clean",
-    "m": "dọn dẹp",
+    "m": "sạch, dọn dẹp",
     "cat": "verb",
     "p": "klˈiːn"
   },
@@ -2251,7 +2251,7 @@
   },
   {
     "w": "cook",
-    "m": "nấu ăn",
+    "m": "nấu ăn, đầu bếp",
     "cat": "verb",
     "p": "kˈʊk"
   },
@@ -2299,7 +2299,7 @@
   },
   {
     "w": "show",
-    "m": "chỉ cho xem",
+    "m": "chỉ cho xem, chứng tỏ, buổi biểu diễn",
     "cat": "verb",
     "p": "ʃˈoʊ"
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "w": "stop",
-    "m": "dừng lại",
+    "m": "dừng lại, trạm dừng",
     "cat": "verb",
     "p": "stˈɑːp"
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "w": "finish",
-    "m": "kết thúc",
+    "m": "kết thúc, hoàn thành",
     "cat": "verb",
     "p": "fˈɪnɪʃ"
   },
@@ -2401,7 +2401,7 @@
   },
   {
     "w": "drive",
-    "m": "lái xe",
+    "m": "lái xe, thôi thúc, động lực, thúc đẩy",
     "cat": "verb",
     "p": "dɹˈaɪv"
   },
@@ -2431,7 +2431,7 @@
   },
   {
     "w": "break",
-    "m": "vỡ, bẻ gãy",
+    "m": "vỡ, bẻ gãy, nghỉ giải lao",
     "cat": "verb",
     "p": "bɹˈeɪk"
   },
@@ -2473,7 +2473,7 @@
   },
   {
     "w": "light",
-    "m": "nhẹ",
+    "m": "ánh sáng, nhẹ",
     "cat": "adjective",
     "p": "lˈaɪt"
   },
@@ -2497,7 +2497,7 @@
   },
   {
     "w": "square",
-    "m": "vuông",
+    "m": "vuông, quảng trường",
     "cat": "adjective",
     "p": "skwˈɛɹ"
   },
@@ -2521,7 +2521,7 @@
   },
   {
     "w": "loud",
-    "m": "to (âm thanh)",
+    "m": "to (âm thanh), ồn ào",
     "cat": "adjective",
     "p": "lˈaʊd"
   },
@@ -2575,7 +2575,7 @@
   },
   {
     "w": "address",
-    "m": "địa chỉ",
+    "m": "địa chỉ, giải quyết, bài phát biểu, xử lý",
     "cat": "basic",
     "p": "ɐdɹˈɛs"
   },
@@ -2917,7 +2917,7 @@
   },
   {
     "w": "like",
-    "m": "như, giống như",
+    "m": "thích, như, nhấn like",
     "cat": "function",
     "p": "lˈaɪk"
   },
@@ -2941,7 +2941,7 @@
   },
   {
     "w": "right",
-    "m": "bên phải",
+    "m": "đúng, phải, quyền lợi",
     "cat": "adjective",
     "p": "ɹˈaɪt"
   },
@@ -2959,7 +2959,7 @@
   },
   {
     "w": "back",
-    "m": "phía sau",
+    "m": "lưng, phía sau",
     "cat": "adjective",
     "p": "bˈæk"
   },
@@ -2989,7 +2989,7 @@
   },
   {
     "w": "first",
-    "m": "đầu tiên",
+    "m": "thứ nhất, đầu tiên",
     "cat": "number",
     "p": "fˈɜːst"
   },

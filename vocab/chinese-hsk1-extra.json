@@ -176,7 +176,7 @@
   {
     "w": "分",
     "p": "fēn",
-    "m": "phút, phần",
+    "m": "phút, phần, xu (1/100 đồng)",
     "cat": "time"
   },
   {
@@ -554,7 +554,7 @@
   {
     "w": "所以",
     "p": "suǒ yǐ",
-    "m": "vì vậy, cho nên",
+    "m": "vì vậy, cho nên, do đó, vì thế",
     "cat": "particle"
   },
   {
@@ -566,7 +566,7 @@
   {
     "w": "虽然",
     "p": "suī rán",
-    "m": "mặc dù, tuy nhiên",
+    "m": "mặc dù, tuy nhiên, dù rằng, tuy rằng",
     "cat": "particle"
   },
   {
@@ -686,7 +686,7 @@
   {
     "w": "电视",
     "p": "diàn shì",
-    "m": "ti vi, truyền hình",
+    "m": "ti vi, truyền hình, tivi",
     "cat": "home"
   },
   {
@@ -764,7 +764,7 @@
   {
     "w": "站",
     "p": "zhàn",
-    "m": "trạm, bến, ga",
+    "m": "trạm, bến, ga, đứng",
     "cat": "place"
   },
   {
@@ -800,13 +800,13 @@
   {
     "w": "块",
     "p": "kuài",
-    "m": "đồng (đơn vị tiền), mảnh",
+    "m": "đồng (tiền tệ), cục, miếng",
     "cat": "money"
   },
   {
     "w": "元",
     "p": "yuán",
-    "m": "nhân dân tệ (đơn vị tiền)",
+    "m": "nhân dân tệ (đơn vị tiền), đồng (đơn vị tiền tệ TQ)",
     "cat": "money"
   },
   {
@@ -938,7 +938,7 @@
   {
     "w": "叫",
     "p": "jiào",
-    "m": "gọi, tên là",
+    "m": "tên là, gọi, bảo, khiến, kêu",
     "cat": "verb"
   },
   {
@@ -956,7 +956,7 @@
   {
     "w": "站",
     "p": "zhàn",
-    "m": "đứng",
+    "m": "trạm, bến, ga, đứng",
     "cat": "verb"
   },
   {
@@ -1448,7 +1448,7 @@
   {
     "w": "对",
     "p": "duì",
-    "m": "đúng, phải",
+    "m": "đúng, phải, đối với, cặp (lượng từ)",
     "cat": "adjective"
   },
   {
@@ -2048,7 +2048,7 @@
   {
     "w": "放",
     "p": "fàng",
-    "m": "đặt, thả, cho",
+    "m": "đặt, thả, cho, để, bỏ",
     "cat": "verb"
   },
   {
@@ -2180,7 +2180,7 @@
   {
     "w": "一直",
     "p": "yī zhí",
-    "m": "liên tục, mãi mãi, thẳng",
+    "m": "liên tục, mãi mãi, thẳng, suốt, cứ, luôn luôn",
     "cat": "particle"
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "w": "还",
     "p": "hái",
-    "m": "vẫn còn, ngoài ra",
+    "m": "vẫn còn, nữa, ngoài ra, trả lại, hoàn lại",
     "cat": "particle"
   },
   {
@@ -2216,7 +2216,7 @@
   {
     "w": "只",
     "p": "zhǐ",
-    "m": "chỉ, chỉ có",
+    "m": "chỉ, chỉ có, con (lượng từ cho động vật, tay, chân)",
     "cat": "particle"
   },
   {
@@ -2270,7 +2270,7 @@
   {
     "w": "早",
     "p": "zǎo",
-    "m": "sáng (chào buổi sáng)",
+    "m": "sáng (chào buổi sáng), sớm",
     "cat": "greeting"
   },
   {
@@ -2372,7 +2372,7 @@
   {
     "w": "必须",
     "p": "bì xū",
-    "m": "phải, nhất định phải",
+    "m": "phải, bắt buộc",
     "cat": "verb"
   },
   {
@@ -2384,7 +2384,7 @@
   {
     "w": "叫",
     "p": "jiào",
-    "m": "bảo, khiến, gọi",
+    "m": "tên là, gọi, bảo, khiến, kêu",
     "cat": "verb"
   },
   {
@@ -2408,7 +2408,7 @@
   {
     "w": "对",
     "p": "duì",
-    "m": "đối với, với",
+    "m": "đúng, phải, đối với, cặp (lượng từ)",
     "cat": "particle"
   },
   {
@@ -2492,7 +2492,7 @@
   {
     "w": "好像",
     "p": "hǎo xiàng",
-    "m": "hình như, giống như",
+    "m": "hình như, giống như, có vẻ như",
     "cat": "particle"
   },
   {
@@ -2570,7 +2570,7 @@
   {
     "w": "一边",
     "p": "yī biān",
-    "m": "vừa...vừa, một phía",
+    "m": "vừa...vừa, một phía, vừa... vừa",
     "cat": "particle"
   },
   {
@@ -2582,7 +2582,7 @@
   {
     "w": "米",
     "p": "mǐ",
-    "m": "mét (đơn vị đo)",
+    "m": "mét (đơn vị đo), gạo",
     "cat": "default"
   },
   {
@@ -2690,7 +2690,7 @@
   {
     "w": "难过",
     "p": "nán guò",
-    "m": "buồn bã, khổ tâm",
+    "m": "buồn bã, khổ tâm, đau lòng, đau khổ, khó chịu",
     "cat": "emotion"
   },
   {
@@ -2702,7 +2702,7 @@
   {
     "w": "开心",
     "p": "kāi xīn",
-    "m": "vui lòng, phấn khởi",
+    "m": "vui lòng, phấn khởi, vui vẻ, vui mừng, sung sướng",
     "cat": "emotion"
   },
   {
@@ -2864,7 +2864,7 @@
   {
     "w": "对",
     "p": "duì",
-    "m": "đôi, cặp (lượng từ)",
+    "m": "đúng, phải, đối với, cặp (lượng từ)",
     "cat": "particle"
   },
   {
@@ -2876,7 +2876,7 @@
   {
     "w": "只",
     "p": "zhī",
-    "m": "(lượng từ cho động vật nhỏ)",
+    "m": "chỉ, chỉ có, con (lượng từ cho động vật, tay, chân)",
     "cat": "particle"
   },
   {
@@ -2930,7 +2930,7 @@
   {
     "w": "表示",
     "p": "biǎo shì",
-    "m": "biểu thị, thể hiện",
+    "m": "biểu thị, thể hiện, bày tỏ, cho thấy",
     "cat": "verb"
   },
   {
@@ -2960,7 +2960,7 @@
   {
     "w": "啊",
     "p": "a",
-    "m": "à, ừ (thán từ)",
+    "m": "à, ừ (thán từ), ơi (trợ từ cảm thán), a (thán từ)",
     "cat": "particle"
   },
   {

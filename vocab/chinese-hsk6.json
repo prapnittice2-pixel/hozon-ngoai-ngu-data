@@ -842,7 +842,7 @@
   {
     "w": "包罗万象",
     "p": "bāo luó wàn xiàng",
-    "m": "bao gồm tất cả mọi mặt",
+    "m": "bao gồm tất cả mọi mặt, bao quát muôn vẻ",
     "cat": "idiom"
   },
   {
@@ -1670,13 +1670,13 @@
   {
     "w": "触类旁通",
     "p": "chù lèi páng tōng",
-    "m": "biết loại này thông loại khác",
+    "m": "suy ra từ tương tự, biết loại này thông loại khác",
     "cat": "idiom"
   },
   {
     "w": "融会贯通",
     "p": "róng huì guàn tōng",
-    "m": "thấu hiểu hòa nhập toàn diện",
+    "m": "thấu hiểu và thông suốt, thấu hiểu hòa nhập toàn diện",
     "cat": "idiom"
   },
   {
@@ -1706,7 +1706,7 @@
   {
     "w": "相辅相成",
     "p": "xiāng fǔ xiāng chéng",
-    "m": "bổ trợ lẫn nhau cùng hoàn thành",
+    "m": "tương hỗ bổ sung, bổ trợ lẫn nhau cùng hoàn thành",
     "cat": "idiom"
   },
   {
@@ -3416,13 +3416,13 @@
   {
     "w": "诚然",
     "p": "chéng rán",
-    "m": "đúng vậy, thực ra",
+    "m": "đúng vậy, thật sự, đúng là, thực ra",
     "cat": "academic"
   },
   {
     "w": "固然",
     "p": "gù rán",
-    "m": "tuy nhiên, dĩ nhiên là",
+    "m": "cố nhiên, dĩ nhiên là, tuy nhiên, dù cho, đành rằng, tuy là",
     "cat": "academic"
   },
   {
@@ -3956,7 +3956,7 @@
   {
     "w": "同行评审",
     "p": "tóng háng píng shěn",
-    "m": "đánh giá ngang hàng",
+    "m": "đánh giá đồng nghiệp, phản biện, đánh giá ngang hàng",
     "cat": "academic"
   },
   {
@@ -5720,7 +5720,7 @@
   {
     "w": "价格弹性",
     "p": "jià gé tán xìng",
-    "m": "đàn hồi giá",
+    "m": "độ co giãn giá cả, đàn hồi giá",
     "cat": "business"
   },
   {
@@ -6266,7 +6266,7 @@
   {
     "w": "投资回报率",
     "p": "tóu zī huí bào lǜ",
-    "m": "ROI - lợi tức đầu tư",
+    "m": "tỷ suất hoàn vốn đầu tư (ROI), ROI - lợi tức đầu tư",
     "cat": "business"
   },
   {
@@ -11654,7 +11654,7 @@
   {
     "w": "辩护权",
     "p": "biàn hù quán",
-    "m": "quyền biện hộ",
+    "m": "quyền bào chữa, quyền biện hộ",
     "cat": "law"
   },
   {
@@ -11756,7 +11756,7 @@
   {
     "w": "正当程序",
     "p": "zhèng dāng chéng xù",
-    "m": "thủ tục hợp lệ",
+    "m": "trình tự tố tụng đúng đắn, thủ tục hợp lệ",
     "cat": "law"
   },
   {
@@ -12440,19 +12440,19 @@
   {
     "w": "软实力",
     "p": "ruǎn shí lì",
-    "m": "sức mạnh mềm",
+    "m": "quyền lực mềm, sức mạnh mềm",
     "cat": "politics"
   },
   {
     "w": "硬实力",
     "p": "yìng shí lì",
-    "m": "sức mạnh cứng",
+    "m": "quyền lực cứng, sức mạnh cứng",
     "cat": "politics"
   },
   {
     "w": "巧实力",
     "p": "qiǎo shí lì",
-    "m": "sức mạnh khéo",
+    "m": "quyền lực khéo léo (smart power), sức mạnh khéo",
     "cat": "politics"
   },
   {
@@ -13268,7 +13268,7 @@
   {
     "w": "其次",
     "p": "qí cì",
-    "m": "tiếp theo",
+    "m": "thứ hai, tiếp theo, thứ đến",
     "cat": "particle"
   },
   {
@@ -13346,7 +13346,7 @@
   {
     "w": "即便如此",
     "p": "jí biàn rú cǐ",
-    "m": "dù vậy, dù sao đi nữa",
+    "m": "dù vậy, ngay cả như vậy, dù sao đi nữa",
     "cat": "particle"
   },
   {
@@ -13514,7 +13514,7 @@
   {
     "w": "与此同时",
     "p": "yǔ cǐ tóng shí",
-    "m": "đồng thời với điều này",
+    "m": "đồng thời với đó, cùng lúc đó",
     "cat": "particle"
   },
   {
@@ -13832,7 +13832,7 @@
   {
     "w": "触类旁通",
     "p": "chù lèi páng tōng",
-    "m": "biết loại này thông loại khác",
+    "m": "suy ra từ tương tự, biết loại này thông loại khác",
     "cat": "particle"
   },
   {
@@ -13880,13 +13880,13 @@
   {
     "w": "进而",
     "p": "jìn ér",
-    "m": "từ đó tiến tới",
+    "m": "tiếp đó, hơn nữa, tiếp theo, từ đó tiến lên, tiến thêm, rồi",
     "cat": "particle"
   },
   {
     "w": "从而",
     "p": "cóng ér",
-    "m": "do đó, bởi vậy",
+    "m": "từ đó, do đó, nhờ đó, bởi vậy",
     "cat": "particle"
   },
   {
@@ -14012,7 +14012,7 @@
   {
     "w": "举足轻重",
     "p": "jǔ zú qīng zhòng",
-    "m": "quan trọng, có ảnh hưởng lớn",
+    "m": "quan trọng, có ảnh hưởng lớn, có vai trò then chốt",
     "cat": "particle"
   },
   {
@@ -14276,7 +14276,7 @@
   {
     "w": "自媒体",
     "p": "zì méi tǐ",
-    "m": "truyền thông cá nhân",
+    "m": "tự truyền thông, media cá nhân, mạng xã hội tự xuất bản",
     "cat": "media"
   },
   {
@@ -14348,7 +14348,7 @@
   {
     "w": "数字素养",
     "p": "shù zì sù yǎng",
-    "m": "năng lực số",
+    "m": "hiểu biết số, năng lực số",
     "cat": "media"
   },
   {

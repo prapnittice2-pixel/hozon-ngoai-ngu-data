@@ -104,7 +104,7 @@
   {
     "w": "exam",
     "p": "ɛɡzˈæm",
-    "m": "bài kiểm tra",
+    "m": "bài kiểm tra, kỳ thi, bài thi",
     "cat": "học tập"
   },
   {
@@ -590,13 +590,13 @@
   {
     "w": "first",
     "p": "fˈɜːst",
-    "m": "thứ nhất",
+    "m": "thứ nhất, đầu tiên",
     "cat": "số đếm"
   },
   {
     "w": "second",
     "p": "sˈɛkənd",
-    "m": "thứ hai",
+    "m": "thứ hai, giây",
     "cat": "số đếm"
   },
   {
@@ -632,7 +632,7 @@
   {
     "w": "back",
     "p": "bˈæk",
-    "m": "lưng",
+    "m": "lưng, phía sau",
     "cat": "cơ thể"
   },
   {
@@ -890,7 +890,7 @@
   {
     "w": "cold",
     "p": "kˈoʊld",
-    "m": "lạnh",
+    "m": "lạnh, cảm lạnh",
     "cat": "tính từ"
   },
   {
@@ -914,7 +914,7 @@
   {
     "w": "clean",
     "p": "klˈiːn",
-    "m": "sạch",
+    "m": "sạch, dọn dẹp",
     "cat": "tính từ"
   },
   {
@@ -1196,7 +1196,7 @@
   {
     "w": "fork",
     "p": "fˈɔːɹk",
-    "m": "cái nĩa",
+    "m": "cái nĩa, cái dĩa",
     "cat": "đồ vật"
   },
   {
@@ -1304,7 +1304,7 @@
   {
     "w": "boots",
     "p": "bˈuːts",
-    "m": "đôi ủng",
+    "m": "đôi ủng, giày ống, bốt",
     "cat": "quần áo"
   },
   {
@@ -1754,7 +1754,7 @@
   {
     "w": "cook",
     "p": "kˈʊk",
-    "m": "đầu bếp",
+    "m": "nấu ăn, đầu bếp",
     "cat": "công việc"
   },
   {
@@ -1862,7 +1862,7 @@
   {
     "w": "second",
     "p": "sˈɛkənd",
-    "m": "giây",
+    "m": "thứ hai, giây",
     "cat": "thời gian"
   },
   {

@@ -218,7 +218,7 @@
   {
     "w": "社区",
     "p": "shè qū",
-    "m": "cộng đồng, khu phố",
+    "m": "cộng đồng, khu dân cư, khu phố",
     "cat": "xã hội"
   },
   {
@@ -296,7 +296,7 @@
   {
     "w": "融合",
     "p": "róng hé",
-    "m": "hòa nhập, hợp nhất",
+    "m": "hòa nhập, hợp nhất, kết hợp, dung hợp, hội nhập",
     "cat": "hành động"
   },
   {
@@ -452,7 +452,7 @@
   {
     "w": "会议",
     "p": "huì yì",
-    "m": "cuộc họp",
+    "m": "cuộc họp, hội nghị",
     "cat": "công việc"
   },
   {
@@ -512,7 +512,7 @@
   {
     "w": "愤怒",
     "p": "fèn nù",
-    "m": "tức giận",
+    "m": "tức giận, phẫn nộ",
     "cat": "cảm xúc"
   },
   {
@@ -542,7 +542,7 @@
   {
     "w": "感激",
     "p": "gǎn jī",
-    "m": "biết ơn",
+    "m": "biết ơn, cảm kích",
     "cat": "cảm xúc"
   },
   {
@@ -686,7 +686,7 @@
   {
     "w": "理解",
     "p": "lǐ jiě",
-    "m": "hiểu, thông cảm",
+    "m": "hiểu, thông cảm, lý giải",
     "cat": "hành động"
   },
   {
@@ -752,7 +752,7 @@
   {
     "w": "舞蹈",
     "p": "wǔ dǎo",
-    "m": "nhảy múa, vũ đạo",
+    "m": "vũ điệu, múa, khiêu vũ, vũ đạo",
     "cat": "nghệ thuật"
   },
   {
@@ -1388,7 +1388,7 @@
   {
     "w": "出口",
     "p": "chū kǒu",
-    "m": "xuất khẩu",
+    "m": "xuất khẩu, lối ra",
     "cat": "kinh doanh"
   },
   {
@@ -1742,7 +1742,7 @@
   {
     "w": "诚实",
     "p": "chéng shí",
-    "m": "thành thật",
+    "m": "trung thực, thành thật",
     "cat": "tính từ"
   },
   {
@@ -1850,7 +1850,7 @@
   {
     "w": "烦恼",
     "p": "fán nǎo",
-    "m": "phiền não, bực bội",
+    "m": "phiền muộn, lo lắng, phiền não, bực bội",
     "cat": "cảm xúc"
   },
   {
@@ -2018,7 +2018,7 @@
   {
     "w": "冠军",
     "p": "guàn jūn",
-    "m": "vô địch, nhà vô địch",
+    "m": "vô địch, quán quân",
     "cat": "thể thao"
   },
   {
@@ -2162,13 +2162,13 @@
   {
     "w": "启发",
     "p": "qǐ fā",
-    "m": "gợi ý, khai sáng",
+    "m": "gợi mở, truyền cảm hứng, gợi ý, khai sáng",
     "cat": "hành động"
   },
   {
     "w": "激励",
     "p": "jī lì",
-    "m": "khích lệ, khen thưởng",
+    "m": "kích thích, thúc đẩy, khích lệ, khen thưởng, động viên",
     "cat": "hành động"
   },
   {
@@ -2540,7 +2540,7 @@
   {
     "w": "协调",
     "p": "xié tiáo",
-    "m": "phối hợp, điều phối",
+    "m": "phối hợp, điều hòa, điều phối, hài hòa",
     "cat": "hành động"
   },
   {
@@ -2654,7 +2654,7 @@
   {
     "w": "实施",
     "p": "shí shī",
-    "m": "thực hiện, tiến hành",
+    "m": "thực thi, triển khai, thực hiện, tiến hành",
     "cat": "hành động"
   },
   {
@@ -2714,7 +2714,7 @@
   {
     "w": "显著",
     "p": "xiǎn zhù",
-    "m": "đáng chú ý, rõ ràng",
+    "m": "rõ rệt, đáng kể, đáng chú ý, rõ ràng, nổi bật",
     "cat": "tính từ"
   },
   {
@@ -2978,13 +2978,13 @@
   {
     "w": "各自",
     "p": "gè zì",
-    "m": "mỗi người, riêng từng người",
+    "m": "mỗi người, riêng mình, riêng từng người, mỗi bên, tự mình",
     "cat": "trạng từ"
   },
   {
     "w": "分别",
     "p": "fēn bié",
-    "m": "riêng biệt, lần lượt",
+    "m": "lần lượt, riêng biệt, chia tay",
     "cat": "trạng từ"
   },
   {
@@ -3080,7 +3080,7 @@
   {
     "w": "配套",
     "p": "pèi tào",
-    "m": "đi kèm, phối bộ",
+    "m": "đi kèm, phối bộ, đồng bộ, ăn khớp",
     "cat": "tính từ"
   },
   {
@@ -3104,7 +3104,7 @@
   {
     "w": "框架",
     "p": "kuàng jià",
-    "m": "khung, khuôn khổ",
+    "m": "khung, cấu trúc, khuôn khổ, sườn",
     "cat": "học thuật"
   },
   {
@@ -3128,7 +3128,7 @@
   {
     "w": "格局",
     "p": "gé jú",
-    "m": "cục diện, khuôn khổ",
+    "m": "cục diện, bố cục, khuôn khổ, quy mô",
     "cat": "học thuật"
   },
   {
@@ -3308,7 +3308,7 @@
   {
     "w": "贷款",
     "p": "dài kuǎn",
-    "m": "vay vốn, cho vay",
+    "m": "cho vay, khoản vay, vay vốn, vay tiền",
     "cat": "tiền bạc"
   },
   {

@@ -1,7 +1,7 @@
 [
   {
     "w": "come across",
-    "m": "tình cờ gặp, bắt gặp",
+    "m": "tình cờ gặp, bắt gặp, gây ấn tượng",
     "cat": "phrasal",
     "p": "kˈʌm əkɹˈɑːs"
   },
@@ -349,7 +349,7 @@
   },
   {
     "w": "break down",
-    "m": "hỏng hóc; suy sụp",
+    "m": "hỏng, đổ vỡ, phân tích chi tiết, chia nhỏ",
     "cat": "phrasal",
     "p": "bɹˈeɪk dˈaʊn"
   },
@@ -373,7 +373,7 @@
   },
   {
     "w": "bring up",
-    "m": "nuôi dưỡng; đề cập",
+    "m": "nuôi dạy, đề cập, nuôi dưỡng, nhắc đến, nuôi nấng; nêu ra",
     "cat": "phrasal",
     "p": "bɹˈɪŋ ˈʌp"
   },
@@ -427,7 +427,7 @@
   },
   {
     "w": "catch up",
-    "m": "bắt kịp, đuổi kịp",
+    "m": "theo kịp, cập nhật, bắt kịp, đuổi kịp",
     "cat": "phrasal",
     "p": "kˈætʃ ˈʌp"
   },
@@ -451,7 +451,7 @@
   },
   {
     "w": "cheer up",
-    "m": "làm vui lên, phấn chấn",
+    "m": "vui lên; khích lệ ai đó, phấn chấn",
     "cat": "phrasal",
     "p": "tʃˈɪɹ ˈʌp"
   },
@@ -463,7 +463,7 @@
   },
   {
     "w": "come down with",
-    "m": "bị mắc (bệnh)",
+    "m": "bị ốm với, bị mắc (bệnh), đổ bệnh",
     "cat": "phrasal",
     "p": "kˈʌm dˈaʊn wɪð"
   },
@@ -505,7 +505,7 @@
   },
   {
     "w": "afford",
-    "m": "đủ khả năng chi trả",
+    "m": "đủ tiền để mua, có đủ khả năng",
     "cat": "hành động",
     "p": "ɐfˈɔːɹd"
   },
@@ -607,7 +607,7 @@
   },
   {
     "w": "celebrate",
-    "m": "ăn mừng, kỷ niệm",
+    "m": "kỷ niệm, ăn mừng, tổ chức lễ",
     "cat": "hành động",
     "p": "sˈɛləbɹˌeɪt"
   },
@@ -643,7 +643,7 @@
   },
   {
     "w": "consider",
-    "m": "cân nhắc, xem xét",
+    "m": "xem xét, cân nhắc",
     "cat": "hành động",
     "p": "kənsˈɪdɚ"
   },
@@ -775,7 +775,7 @@
   },
   {
     "w": "identify",
-    "m": "nhận dạng, xác định",
+    "m": "nhận dạng, xác định, nhận diện, nhận ra",
     "cat": "hành động",
     "p": "aɪdˈɛntᵻfˌaɪ"
   },
@@ -907,7 +907,7 @@
   },
   {
     "w": "efficient",
-    "m": "hiệu quả, năng suất",
+    "m": "hiệu quả, năng suất cao, tiết kiệm",
     "cat": "tính từ",
     "p": "ɪfˈɪʃənt"
   },
@@ -967,7 +967,7 @@
   },
   {
     "w": "genuine",
-    "m": "chân thật, chính hãng",
+    "m": "chân thật, thật sự, thực sự, chân thực, chính hãng, thành thật",
     "cat": "tính từ",
     "p": "dʒˈɛnjuːɪn"
   },
@@ -1039,7 +1039,7 @@
   },
   {
     "w": "keen",
-    "m": "ham thích, hăng hái",
+    "m": "ham thích, hăng hái, say mê, nhạy bén",
     "cat": "tính từ",
     "p": "kˈiːn"
   },
@@ -1171,7 +1171,7 @@
   },
   {
     "w": "embarrassed",
-    "m": "ngượng ngùng, xấu hổ",
+    "m": "xấu hổ, ngại ngùng, ngượng ngùng",
     "cat": "cảm xúc",
     "p": "ɛmbˈæɹəst"
   },
@@ -1219,7 +1219,7 @@
   },
   {
     "w": "gloomy",
-    "m": "u ám, buồn rầu",
+    "m": "u ám, buồn rầu, ảm đạm, bi quan",
     "cat": "cảm xúc",
     "p": "ɡlˈuːmi"
   },
@@ -1297,7 +1297,7 @@
   },
   {
     "w": "satisfied",
-    "m": "hài lòng, thỏa mãn",
+    "m": "thỏa mãn, hài lòng",
     "cat": "cảm xúc",
     "p": "sˈæɾɪsfˌaɪd"
   },
@@ -1345,7 +1345,7 @@
   },
   {
     "w": "do without",
-    "m": "sống thiếu, nhịn",
+    "m": "sống thiếu, nhịn, xoay xở không cần",
     "cat": "phrasal",
     "p": "dˈuː wɪðˈaʊt"
   },
@@ -1357,7 +1357,7 @@
   },
   {
     "w": "drop off",
-    "m": "thả xuống (xe); ngủ gật",
+    "m": "chở (ai đó) đến nơi; ngủ thiếp đi, thả xuống (xe); ngủ gật",
     "cat": "phrasal",
     "p": "dɹˈɑːp ˈɔf"
   },
@@ -1369,7 +1369,7 @@
   },
   {
     "w": "end up",
-    "m": "cuối cùng rơi vào, kết cục",
+    "m": "cuối cùng trở thành, cuối cùng rơi vào, kết cục, rốt cuộc lại",
     "cat": "phrasal",
     "p": "ˈɛnd ˈʌp"
   },
@@ -1381,7 +1381,7 @@
   },
   {
     "w": "fall behind",
-    "m": "tụt lại phía sau",
+    "m": "bị tụt hậu, tụt lại phía sau",
     "cat": "phrasal",
     "p": "fˈɔːl bᵻhˈaɪnd"
   },
@@ -1507,13 +1507,13 @@
   },
   {
     "w": "hold on",
-    "m": "giữ máy, chờ; bám chắc",
+    "m": "chờ một chút, giữ máy, chờ; bám chắc",
     "cat": "phrasal",
     "p": "hˈoʊld ˈɔn"
   },
   {
     "w": "hold up",
-    "m": "trì hoãn; cướp",
+    "m": "trì hoãn; cướp, làm chậm trễ; cướp",
     "cat": "phrasal",
     "p": "hˈoʊld ˈʌp"
   },
@@ -1627,7 +1627,7 @@
   },
   {
     "w": "move on",
-    "m": "tiếp tục, bước tiếp",
+    "m": "tiếp tục tiến về phía trước; bỏ qua quá khứ, bước tiếp, quên đi, chuyển sang",
     "cat": "phrasal",
     "p": "mˈuːv ˈɔn"
   },
@@ -1651,13 +1651,13 @@
   },
   {
     "w": "pay back",
-    "m": "trả nợ; trả đũa",
+    "m": "trả lại, đền đáp, trả nợ; trả đũa, trả thù",
     "cat": "phrasal",
     "p": "pˈeɪ bˈæk"
   },
   {
     "w": "pay off",
-    "m": "trả hết nợ; đem lại kết quả",
+    "m": "trả hết nợ; đem lại kết quả, đền đáp",
     "cat": "phrasal",
     "p": "pˈeɪ ˈɔf"
   },
@@ -1669,7 +1669,7 @@
   },
   {
     "w": "pick up",
-    "m": "đón (ai); nhặt lên; học lỏm",
+    "m": "đón, nhặt lên, học nhanh",
     "cat": "phrasal",
     "p": "pˈɪk ˈʌp"
   },
@@ -1723,7 +1723,7 @@
   },
   {
     "w": "run out of",
-    "m": "hết, cạn kiệt",
+    "m": "hết, cạn",
     "cat": "phrasal",
     "p": "ɹˈʌn ˌaʊɾəv"
   },
@@ -1867,19 +1867,19 @@
   },
   {
     "w": "promotion",
-    "m": "sự thăng chức; khuyến mãi",
+    "m": "thăng chức, khuyến mãi",
     "cat": "công việc",
     "p": "pɹəmˈoʊʃən"
   },
   {
     "w": "qualification",
-    "m": "bằng cấp, trình độ chuyên môn",
+    "m": "bằng cấp, năng lực, trình độ, điều kiện, chứng chỉ",
     "cat": "công việc",
     "p": "kwˌɔlɪfɪkˈeɪʃən"
   },
   {
     "w": "recruit",
-    "m": "tuyển dụng, chiêu mộ",
+    "m": "tuyển dụng, chiêu mộ, tân binh",
     "cat": "công việc",
     "p": "ɹᵻkɹˈuːt"
   },
@@ -1915,7 +1915,7 @@
   },
   {
     "w": "shift",
-    "m": "ca làm việc",
+    "m": "ca làm việc, thay đổi, chuyển dịch",
     "cat": "công việc",
     "p": "ʃˈɪft"
   },
@@ -2011,13 +2011,13 @@
   },
   {
     "w": "degree",
-    "m": "bằng đại học, học vị",
+    "m": "độ (nhiệt độ), bằng đại học, học vị",
     "cat": "học tập",
     "p": "dᵻɡɹˈiː"
   },
   {
     "w": "diploma",
-    "m": "bằng tốt nghiệp, văn bằng",
+    "m": "bằng cao đẳng, văn bằng, bằng chứng chỉ, bằng cấp, bằng tốt nghiệp",
     "cat": "học tập",
     "p": "dɪplˈoʊmə"
   },
@@ -2041,7 +2041,7 @@
   },
   {
     "w": "exam",
-    "m": "kỳ thi, bài thi",
+    "m": "bài kiểm tra, kỳ thi, bài thi",
     "cat": "học tập",
     "p": "ɛɡzˈæm"
   },
@@ -2125,7 +2125,7 @@
   },
   {
     "w": "revise",
-    "m": "ôn tập; sửa lại",
+    "m": "ôn tập, xem lại, sửa đổi",
     "cat": "học tập",
     "p": "ɹᵻvˈaɪz"
   },
@@ -2233,7 +2233,7 @@
   },
   {
     "w": "fitness",
-    "m": "thể lực, sự cân đối",
+    "m": "thể lực, sức khỏe thể chất, sự cân đối, sự khỏe khoắn",
     "cat": "sức khỏe",
     "p": "fˈɪtnəs"
   },
@@ -2293,7 +2293,7 @@
   },
   {
     "w": "patient",
-    "m": "bệnh nhân; kiên nhẫn",
+    "m": "kiên nhẫn, bệnh nhân",
     "cat": "sức khỏe",
     "p": "pˈeɪʃənt"
   },
@@ -2329,7 +2329,7 @@
   },
   {
     "w": "remedy",
-    "m": "phương thuốc, cách chữa",
+    "m": "phương thuốc, cách chữa, biện pháp khắc phục",
     "cat": "sức khỏe",
     "p": "ɹˈɛmədi"
   },
@@ -2377,7 +2377,7 @@
   },
   {
     "w": "bargain",
-    "m": "món hời; mặc cả",
+    "m": "món hời; mặc cả, thương lượng",
     "cat": "tiền bạc",
     "p": "bˈɑːɹɡɪn"
   },
@@ -2401,7 +2401,7 @@
   },
   {
     "w": "charge",
-    "m": "tính phí; phí",
+    "m": "sạc (điện thoại), tính phí; phí",
     "cat": "tiền bạc",
     "p": "tʃˈɑːɹdʒ"
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "w": "deposit",
-    "m": "tiền đặt cọc; gửi tiền",
+    "m": "tiền đặt cọc, gửi tiền",
     "cat": "tiền bạc",
     "p": "dᵻpˈɑːzɪt"
   },
@@ -2551,7 +2551,7 @@
   },
   {
     "w": "receipt",
-    "m": "biên lai, hóa đơn nhận tiền",
+    "m": "biên lai, hóa đơn",
     "cat": "tiền bạc",
     "p": "ɹᵻsˈiːt"
   },
@@ -2593,7 +2593,7 @@
   },
   {
     "w": "set up",
-    "m": "thành lập, dựng nên",
+    "m": "thiết lập, thành lập, dựng nên, dựng lên",
     "cat": "phrasal",
     "p": "sˈɛt ˈʌp"
   },
@@ -2653,7 +2653,7 @@
   },
   {
     "w": "stand for",
-    "m": "viết tắt của; đại diện cho",
+    "m": "đại diện cho, tượng trưng; viết tắt của, ủng hộ",
     "cat": "phrasal",
     "p": "stˈænd fɔːɹ"
   },
@@ -2665,7 +2665,7 @@
   },
   {
     "w": "stand up for",
-    "m": "bênh vực, bảo vệ",
+    "m": "đứng lên bảo vệ; ủng hộ, bênh vực",
     "cat": "phrasal",
     "p": "stˈænd ˈʌp fɔːɹ"
   },
@@ -2677,7 +2677,7 @@
   },
   {
     "w": "stick to",
-    "m": "kiên trì với, bám sát",
+    "m": "kiên trì, bám vào, bám sát, giữ vững",
     "cat": "phrasal",
     "p": "stˈɪk tuː"
   },
@@ -2797,7 +2797,7 @@
   },
   {
     "w": "work out",
-    "m": "tập thể dục; tìm ra giải pháp",
+    "m": "tìm ra, tập thể dục, giải quyết, tính toán ra",
     "cat": "phrasal",
     "p": "wˈɜːk ˈaʊt"
   },
@@ -3079,7 +3079,7 @@
   },
   {
     "w": "journey",
-    "m": "hành trình, chuyến đi xa",
+    "m": "chuyến đi, hành trình",
     "cat": "du lịch",
     "p": "dʒˈɜːni"
   },
@@ -3103,7 +3103,7 @@
   },
   {
     "w": "platform",
-    "m": "sân ga, thềm ga",
+    "m": "sân ga, bến, ke ga, nền tảng, thềm ga",
     "cat": "du lịch",
     "p": "plˈætfɔːɹm"
   },
@@ -3637,7 +3637,7 @@
   },
   {
     "w": "branch",
-    "m": "cành cây; chi nhánh",
+    "m": "cành cây, chi nhánh",
     "cat": "thiên nhiên",
     "p": "bɹˈæntʃ"
   },
@@ -3715,13 +3715,13 @@
   },
   {
     "w": "soil",
-    "m": "đất, thổ nhưỡng",
+    "m": "đất trồng trọt, thổ nhưỡng",
     "cat": "thiên nhiên",
     "p": "sˈɔɪl"
   },
   {
     "w": "stream",
-    "m": "dòng suối",
+    "m": "con suối nhỏ, phát trực tiếp, dòng suối",
     "cat": "thiên nhiên",
     "p": "stɹˈiːm"
   },
@@ -3799,7 +3799,7 @@
   },
   {
     "w": "frequently",
-    "m": "thường xuyên",
+    "m": "thường xuyên, hay xảy ra",
     "cat": "trạng từ",
     "p": "fɹˈiːkwəntli"
   },
@@ -4075,7 +4075,7 @@
   },
   {
     "w": "character",
-    "m": "nhân vật; tính cách",
+    "m": "nhân vật (trong truyện/phim), tính cách",
     "cat": "người",
     "p": "kˈæɹɪktɚ"
   },
@@ -4279,7 +4279,7 @@
   },
   {
     "w": "spouse",
-    "m": "vợ hoặc chồng",
+    "m": "vợ hoặc chồng, vợ/chồng",
     "cat": "gia đình",
     "p": "spˈaʊs"
   },
@@ -4543,7 +4543,7 @@
   },
   {
     "w": "monument",
-    "m": "đài tưởng niệm, tượng đài",
+    "m": "tượng đài, di tích, đài tưởng niệm",
     "cat": "văn hóa",
     "p": "mˈɑːnjuːmənt"
   },
@@ -4609,7 +4609,7 @@
   },
   {
     "w": "competition",
-    "m": "cuộc thi, cuộc đua",
+    "m": "cuộc thi, cạnh tranh, cuộc đua",
     "cat": "thể thao",
     "p": "kˌɑːmpətˈɪʃən"
   },
@@ -4639,7 +4639,7 @@
   },
   {
     "w": "league",
-    "m": "giải đấu, liên đoàn",
+    "m": "giải thể thao, giải đấu, liên đoàn",
     "cat": "thể thao",
     "p": "lˈiːɡ"
   },
@@ -4669,7 +4669,7 @@
   },
   {
     "w": "score",
-    "m": "tỷ số; ghi điểm",
+    "m": "ghi điểm, tỉ số, điểm số, tỷ số, nhạc phim",
     "cat": "thể thao",
     "p": "skˈɔːɹ"
   },
@@ -4693,7 +4693,7 @@
   },
   {
     "w": "trophy",
-    "m": "cúp, chiếc cúp",
+    "m": "cúp (thể thao), chiến lợi phẩm",
     "cat": "thể thao",
     "p": "tɹˈoʊfi"
   },
@@ -4789,7 +4789,7 @@
   },
   {
     "w": "headquarters",
-    "m": "trụ sở chính",
+    "m": "trụ sở chính, tổng hành dinh",
     "cat": "địa điểm",
     "p": "hɛdkwˈɔːɹɾɚz"
   },
@@ -4831,7 +4831,7 @@
   },
   {
     "w": "square",
-    "m": "quảng trường; hình vuông",
+    "m": "vuông, quảng trường",
     "cat": "địa điểm",
     "p": "skwˈɛɹ"
   },
@@ -5029,7 +5029,7 @@
   },
   {
     "w": "dawn",
-    "m": "bình minh, rạng đông",
+    "m": "lúc tảng sáng, bình minh, rạng đông",
     "cat": "thời gian",
     "p": "dˈɔːn"
   },

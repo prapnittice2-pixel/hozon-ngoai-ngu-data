@@ -73,7 +73,7 @@
   },
   {
     "w": "executive",
-    "m": "giám đốc điều hành",
+    "m": "cơ quan hành pháp, quản lý cấp cao, giám đốc điều hành",
     "cat": "người",
     "p": "ɛɡzˈɛkjuːtˌɪv"
   },
@@ -205,7 +205,7 @@
   },
   {
     "w": "curator",
-    "m": "người phụ trách bảo tàng",
+    "m": "người quản lý, giám tuyển nghệ thuật, người phụ trách bảo tàng",
     "cat": "người",
     "p": "kjʊɹɹˈeɪɾɚ"
   },
@@ -361,13 +361,13 @@
   },
   {
     "w": "general",
-    "m": "tướng quân",
+    "m": "chung, tổng quát, tướng quân",
     "cat": "người",
     "p": "dʒˈɛnɚɹəl"
   },
   {
     "w": "recruit",
-    "m": "tân binh",
+    "m": "tuyển dụng, chiêu mộ, tân binh",
     "cat": "người",
     "p": "ɹᵻkɹˈuːt"
   },
@@ -727,7 +727,7 @@
   },
   {
     "w": "telescope",
-    "m": "kính viễn vọng",
+    "m": "kính thiên văn, kính viễn vọng",
     "cat": "đồ vật",
     "p": "tˈɛlᵻskˌoʊp"
   },
@@ -823,7 +823,7 @@
   },
   {
     "w": "microphone",
-    "m": "micro",
+    "m": "micrô, micro",
     "cat": "đồ vật",
     "p": "mˈaɪkɹəfˌoʊn"
   },
@@ -871,7 +871,7 @@
   },
   {
     "w": "gauge",
-    "m": "đồng hồ đo",
+    "m": "đo lường, đánh giá, đồng hồ đo",
     "cat": "đồ vật",
     "p": "ɡˈeɪdʒ"
   },
@@ -1033,7 +1033,7 @@
   },
   {
     "w": "harmony",
-    "m": "hòa âm",
+    "m": "hòa âm, sự hòa hợp",
     "cat": "nghệ thuật",
     "p": "hˈɑːɹməni"
   },
@@ -1183,7 +1183,7 @@
   },
   {
     "w": "cricket",
-    "m": "môn cricket",
+    "m": "con dế, môn cricket",
     "cat": "thể thao",
     "p": "kɹˈɪkɪt"
   },
@@ -1237,7 +1237,7 @@
   },
   {
     "w": "trophy",
-    "m": "cúp vô địch",
+    "m": "cúp (thể thao), chiến lợi phẩm",
     "cat": "thể thao",
     "p": "tɹˈoʊfi"
   },
@@ -1753,7 +1753,7 @@
   },
   {
     "w": "monument",
-    "m": "đài tưởng niệm",
+    "m": "tượng đài, di tích, đài tưởng niệm",
     "cat": "địa điểm",
     "p": "mˈɑːnjuːmənt"
   },
@@ -1879,7 +1879,7 @@
   },
   {
     "w": "receipt",
-    "m": "biên lai",
+    "m": "biên lai, hóa đơn",
     "cat": "tiền bạc",
     "p": "ɹᵻsˈiːt"
   },
@@ -1891,25 +1891,25 @@
   },
   {
     "w": "withdrawal",
-    "m": "sự rút tiền",
+    "m": "hội chứng cai, sự rút tiền",
     "cat": "tiền bạc",
     "p": "wɪθdɹˈɔːl"
   },
   {
     "w": "deposit",
-    "m": "khoản tiền gửi",
+    "m": "tiền đặt cọc, gửi tiền",
     "cat": "tiền bạc",
     "p": "dᵻpˈɑːzɪt"
   },
   {
     "w": "balance",
-    "m": "số dư",
+    "m": "số dư tài khoản, sự cân bằng",
     "cat": "tiền bạc",
     "p": "bˈæləns"
   },
   {
     "w": "statement",
-    "m": "sao kê",
+    "m": "tuyên bố, phát biểu, sao kê",
     "cat": "tiền bạc",
     "p": "stˈeɪtmənt"
   },
@@ -2119,7 +2119,7 @@
   },
   {
     "w": "wave",
-    "m": "sóng",
+    "m": "sóng biển, vẫy tay",
     "cat": "thiên nhiên",
     "p": "wˈeɪv"
   },
@@ -2131,7 +2131,7 @@
   },
   {
     "w": "current",
-    "m": "dòng chảy",
+    "m": "hiện tại, dòng chảy",
     "cat": "thiên nhiên",
     "p": "kˈɜːɹənt"
   },
@@ -2149,7 +2149,7 @@
   },
   {
     "w": "pasture",
-    "m": "bãi chăn thả",
+    "m": "đồng cỏ, bãi chăn thả",
     "cat": "thiên nhiên",
     "p": "pˈæstʃɚ"
   },
@@ -2191,7 +2191,7 @@
   },
   {
     "w": "summit",
-    "m": "đỉnh núi",
+    "m": "hội nghị thượng đỉnh, đỉnh núi",
     "cat": "thiên nhiên",
     "p": "sˈʌmɪt"
   },
@@ -2215,7 +2215,7 @@
   },
   {
     "w": "pebble",
-    "m": "viên sỏi",
+    "m": "viên cuội, hòn đá nhỏ, viên sỏi",
     "cat": "thiên nhiên",
     "p": "pˈɛbəl"
   },

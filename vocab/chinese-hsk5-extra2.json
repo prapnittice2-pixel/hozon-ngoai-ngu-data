@@ -32,7 +32,7 @@
   {
     "w": "程序",
     "p": "chéng xù",
-    "m": "chương trình, quy trình",
+    "m": "chương trình, quy trình, thủ tục",
     "cat": "công nghệ"
   },
   {
@@ -392,7 +392,7 @@
   {
     "w": "贷款",
     "p": "dài kuǎn",
-    "m": "vay tiền, khoản vay",
+    "m": "cho vay, khoản vay, vay vốn, vay tiền",
     "cat": "tiền bạc"
   },
   {
@@ -482,7 +482,7 @@
   {
     "w": "病毒",
     "p": "bìng dú",
-    "m": "virus",
+    "m": "virus, vi-rút",
     "cat": "sức khỏe"
   },
   {
@@ -500,7 +500,7 @@
   {
     "w": "疫苗",
     "p": "yì miáo",
-    "m": "vắc-xin",
+    "m": "vắc-xin, vaccine",
     "cat": "sức khỏe"
   },
   {
@@ -650,7 +650,7 @@
   {
     "w": "冠军",
     "p": "guàn jūn",
-    "m": "nhà vô địch",
+    "m": "vô địch, quán quân",
     "cat": "thể thao"
   },
   {
@@ -680,7 +680,7 @@
   {
     "w": "记录",
     "p": "jì lù",
-    "m": "kỷ lục",
+    "m": "ghi chép, ghi lại, kỷ lục",
     "cat": "thể thao"
   },
   {
@@ -758,7 +758,7 @@
   {
     "w": "网球",
     "p": "wǎng qiú",
-    "m": "tennis",
+    "m": "quần vợt, tennis",
     "cat": "thể thao"
   },
   {
@@ -824,7 +824,7 @@
   {
     "w": "教材",
     "p": "jiào cái",
-    "m": "tài liệu giảng dạy",
+    "m": "tài liệu giảng dạy, giáo trình",
     "cat": "học tập"
   },
   {
@@ -956,7 +956,7 @@
   {
     "w": "推断",
     "p": "tuī duàn",
-    "m": "suy luận, kết luận",
+    "m": "suy luận, kết luận, suy đoán, phán đoán",
     "cat": "học thuật"
   },
   {
@@ -1040,7 +1040,7 @@
   {
     "w": "同行评审",
     "p": "tóng háng píng shěn",
-    "m": "phản biện đồng nghiệp",
+    "m": "đánh giá đồng nghiệp, phản biện, đánh giá ngang hàng",
     "cat": "học thuật"
   },
   {
@@ -1112,7 +1112,7 @@
   {
     "w": "实施",
     "p": "shí shī",
-    "m": "thực thi, triển khai",
+    "m": "thực thi, triển khai, thực hiện, tiến hành",
     "cat": "hành động"
   },
   {
@@ -1124,7 +1124,7 @@
   {
     "w": "协调",
     "p": "xié tiáo",
-    "m": "phối hợp, điều phối",
+    "m": "phối hợp, điều hòa, điều phối, hài hòa",
     "cat": "hành động"
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "w": "阐述",
     "p": "chǎn shù",
-    "m": "trình bày, giải thích rõ ràng",
+    "m": "giải thích chi tiết, trình bày, giải thích rõ ràng, diễn giải",
     "cat": "hành động"
   },
   {
@@ -1322,7 +1322,7 @@
   {
     "w": "动态",
     "p": "dòng tài",
-    "m": "năng động, biến động",
+    "m": "động thái, tình hình, năng động, biến động",
     "cat": "tính từ"
   },
   {
@@ -1394,7 +1394,7 @@
   {
     "w": "显著",
     "p": "xiǎn zhù",
-    "m": "rõ ràng, nổi bật",
+    "m": "rõ rệt, đáng kể, đáng chú ý, rõ ràng, nổi bật",
     "cat": "tính từ"
   },
   {
@@ -1598,13 +1598,13 @@
   {
     "w": "从而",
     "p": "cóng ér",
-    "m": "từ đó, nhờ đó",
+    "m": "từ đó, do đó, nhờ đó, bởi vậy",
     "cat": "trạng từ"
   },
   {
     "w": "进而",
     "p": "jìn ér",
-    "m": "tiếp đó, hơn nữa",
+    "m": "tiếp đó, hơn nữa, tiếp theo, từ đó tiến lên, tiến thêm, rồi",
     "cat": "trạng từ"
   },
   {
@@ -1616,7 +1616,7 @@
   {
     "w": "分别",
     "p": "fēn bié",
-    "m": "riêng biệt, lần lượt",
+    "m": "lần lượt, riêng biệt, chia tay",
     "cat": "trạng từ"
   },
   {
@@ -1988,7 +1988,7 @@
   {
     "w": "物流",
     "p": "wù liú",
-    "m": "logistics, vận chuyển",
+    "m": "hậu cần, logistics, vận chuyển",
     "cat": "kinh doanh"
   },
   {
@@ -2108,7 +2108,7 @@
   {
     "w": "出口",
     "p": "chū kǒu",
-    "m": "xuất khẩu",
+    "m": "xuất khẩu, lối ra",
     "cat": "kinh doanh"
   },
   {
@@ -2204,7 +2204,7 @@
   {
     "w": "博弈",
     "p": "bó yì",
-    "m": "đấu tranh, trò chơi chiến lược",
+    "m": "đấu tranh, trò chơi chiến lược, đấu trí, cuộc chơi",
     "cat": "hành động"
   },
   {
@@ -2732,7 +2732,7 @@
   {
     "w": "拒绝",
     "p": "jù jué",
-    "m": "từ chối",
+    "m": "từ chối, cự tuyệt",
     "cat": "hành động"
   },
   {
@@ -2762,7 +2762,7 @@
   {
     "w": "激励",
     "p": "jī lì",
-    "m": "khích lệ, động viên",
+    "m": "kích thích, thúc đẩy, khích lệ, khen thưởng, động viên",
     "cat": "hành động"
   },
   {
@@ -2828,7 +2828,7 @@
   {
     "w": "深化",
     "p": "shēn huà",
-    "m": "đào sâu, nâng cao",
+    "m": "đào sâu, làm sâu sắc thêm, nâng cao, đi sâu",
     "cat": "hành động"
   },
   {
@@ -2888,7 +2888,7 @@
   {
     "w": "把握",
     "p": "bǎ wò",
-    "m": "nắm bắt, nắm chắc",
+    "m": "nắm bắt, nắm chắc, sự chắc chắn",
     "cat": "hành động"
   },
   {
@@ -3092,7 +3092,7 @@
   {
     "w": "框架",
     "p": "kuàng jià",
-    "m": "khung, cấu trúc",
+    "m": "khung, cấu trúc, khuôn khổ, sườn",
     "cat": "học thuật"
   },
   {
@@ -3158,7 +3158,7 @@
   {
     "w": "有效性",
     "p": "yǒu xiào xìng",
-    "m": "tính hiệu lực",
+    "m": "hiệu quả, tính hợp lệ",
     "cat": "học thuật"
   },
   {
@@ -3332,7 +3332,7 @@
   {
     "w": "维度",
     "p": "wéi dù",
-    "m": "chiều, góc độ",
+    "m": "chiều, góc độ, khía cạnh",
     "cat": "học thuật"
   },
   {
@@ -3458,7 +3458,7 @@
   {
     "w": "样本",
     "p": "yàng běn",
-    "m": "mẫu, mẫu thí nghiệm",
+    "m": "mẫu nghiên cứu, mẫu thí nghiệm",
     "cat": "học thuật"
   },
   {
@@ -3680,7 +3680,7 @@
   {
     "w": "融合",
     "p": "róng hé",
-    "m": "hội nhập, dung hợp",
+    "m": "hòa nhập, hợp nhất, kết hợp, dung hợp, hội nhập",
     "cat": "hành动"
   },
   {
@@ -3920,7 +3920,7 @@
   {
     "w": "自媒体",
     "p": "zì méi tǐ",
-    "m": "mạng xã hội tự xuất bản",
+    "m": "tự truyền thông, media cá nhân, mạng xã hội tự xuất bản",
     "cat": "công nghệ"
   },
   {

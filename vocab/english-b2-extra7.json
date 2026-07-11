@@ -7,7 +7,7 @@
   },
   {
     "w": "outsource",
-    "m": "thuê ngoài, gia công bên ngoài",
+    "m": "thuê ngoài, chuyển việc ra ngoài, gia công bên ngoài",
     "cat": "kinh doanh",
     "p": "aʊtsˈɔːɹs"
   },
@@ -121,7 +121,7 @@
   },
   {
     "w": "incentive",
-    "m": "sự khích lệ, phần thưởng khuyến khích",
+    "m": "động lực khuyến khích, ưu đãi, phần thưởng, sự khích lệ",
     "cat": "kinh doanh",
     "p": "ɪnsˈɛntɪv"
   },
@@ -175,7 +175,7 @@
   },
   {
     "w": "bargain",
-    "m": "mặc cả; món hời",
+    "m": "món hời; mặc cả, thương lượng",
     "cat": "kinh doanh",
     "p": "bˈɑːɹɡɪn"
   },
@@ -205,7 +205,7 @@
   },
   {
     "w": "procurement",
-    "m": "hoạt động thu mua",
+    "m": "mua sắm, cung ứng, thu mua",
     "cat": "kinh doanh",
     "p": "pɹəkjˈʊɹmənt"
   },
@@ -241,7 +241,7 @@
   },
   {
     "w": "redundancy",
-    "m": "sự dư thừa nhân sự, bị cho thôi việc",
+    "m": "dự phòng, dư thừa, thừa nhân viên, cắt giảm nhân sự, bị cho thôi việc",
     "cat": "kinh doanh",
     "p": "ɹᵻdˈʌndənsi"
   },
@@ -283,7 +283,7 @@
   },
   {
     "w": "takeover",
-    "m": "sự thâu tóm công ty",
+    "m": "sự tiếp quản, thâu tóm",
     "cat": "kinh doanh",
     "p": "tˈeɪkoʊvɚ"
   },
@@ -295,7 +295,7 @@
   },
   {
     "w": "tender",
-    "m": "đấu thầu",
+    "m": "mềm (thịt), hồ sơ đấu thầu; đấu thầu",
     "cat": "kinh doanh",
     "p": "tˈɛndɚ"
   },
@@ -343,7 +343,7 @@
   },
   {
     "w": "benchmark",
-    "m": "chuẩn so sánh, mốc đối chiếu",
+    "m": "chuẩn so sánh, điểm tham chiếu, chuẩn đo lường hiệu suất, chuẩn mực, điểm chuẩn, tiêu chuẩn đối chiếu, mốc chuẩn",
     "cat": "business",
     "p": "bˈɛntʃmɑːɹk"
   },
@@ -379,7 +379,7 @@
   },
   {
     "w": "equity",
-    "m": "vốn chủ sở hữu",
+    "m": "vốn chủ sở hữu, cổ phần, sự công bằng",
     "cat": "business",
     "p": "ˈɛkwᵻɾi"
   },
@@ -397,7 +397,7 @@
   },
   {
     "w": "headquarters",
-    "m": "trụ sở chính",
+    "m": "trụ sở chính, tổng hành dinh",
     "cat": "business",
     "p": "hɛdkwˈɔːɹɾɚz"
   },
@@ -571,19 +571,19 @@
   },
   {
     "w": "bias",
-    "m": "sự thiên vị, thiên kiến",
+    "m": "thiên kiến, thiên vị, sai lệch, thành kiến, định kiến",
     "cat": "media",
     "p": "bˈaɪəs"
   },
   {
     "w": "circulation",
-    "m": "số lượng phát hành",
+    "m": "số lượng phát hành, tuần hoàn máu",
     "cat": "media",
     "p": "sˌɜːkjʊlˈeɪʃən"
   },
   {
     "w": "clickbait",
-    "m": "tiêu đề câu khách",
+    "m": "tiêu đề câu view, mồi nhử nhấp chuột",
     "cat": "media",
     "p": "klˈɪkbeɪt"
   },
@@ -631,7 +631,7 @@
   },
   {
     "w": "mainstream",
-    "m": "dòng chính thống",
+    "m": "dòng chính thống, phổ biến, chủ đạo, đại chúng",
     "cat": "media",
     "p": "mˈeɪnstɹiːm"
   },
@@ -643,7 +643,7 @@
   },
   {
     "w": "outlet",
-    "m": "cơ quan truyền thông",
+    "m": "cửa hàng bán lẻ, cơ quan truyền thông",
     "cat": "media",
     "p": "ˈaʊtlɛt"
   },
@@ -781,7 +781,7 @@
   },
   {
     "w": "legislation",
-    "m": "pháp luật được ban hành, pháp chế",
+    "m": "luật pháp, lập pháp, pháp chế",
     "cat": "chính trị",
     "p": "lˌɛdʒɪslˈeɪʃən"
   },
@@ -871,7 +871,7 @@
   },
   {
     "w": "immigration",
-    "m": "sự nhập cư",
+    "m": "xuất nhập cảnh, nhập cư",
     "cat": "chính trị",
     "p": "ˌɪmɪɡɹˈeɪʃən"
   },
@@ -883,7 +883,7 @@
   },
   {
     "w": "mandate",
-    "m": "sự ủy nhiệm, nhiệm vụ được trao",
+    "m": "lệnh, ủy thác, nhiệm vụ được ủy quyền, quyền hành",
     "cat": "chính trị",
     "p": "mˈændeɪt"
   },
@@ -943,7 +943,7 @@
   },
   {
     "w": "summit",
-    "m": "hội nghị thượng đỉnh",
+    "m": "hội nghị thượng đỉnh, đỉnh núi",
     "cat": "chính trị",
     "p": "sˈʌmɪt"
   },
@@ -1057,19 +1057,19 @@
   },
   {
     "w": "gentrification",
-    "m": "quá trình trung lưu hóa khu dân cư",
+    "m": "quý tộc hóa đô thị, quá trình trung lưu hóa khu dân cư",
     "cat": "xã hội",
     "p": "dʒˌɛntɹɪfɪkˈeɪʃən"
   },
   {
     "w": "grassroots",
-    "m": "tầng lớp dân thường, cấp cơ sở",
+    "m": "từ cơ sở, phong trào bình dân, tầng lớp dân thường",
     "cat": "xã hội",
     "p": "ɡɹˈæsɹuːts"
   },
   {
     "w": "integration",
-    "m": "sự hòa nhập",
+    "m": "sự hòa nhập (xã hội), tích hợp, kết hợp, hội nhập",
     "cat": "xã hội",
     "p": "ˌɪntᵻɡɹˈeɪʃən"
   },
@@ -1171,7 +1171,7 @@
   },
   {
     "w": "stereotype",
-    "m": "định kiến rập khuôn",
+    "m": "định kiến, khuôn mẫu rập khuôn",
     "cat": "xã hội",
     "p": "stˈɛɹɪˌoʊtaɪp"
   },
@@ -1213,7 +1213,7 @@
   },
   {
     "w": "acquit",
-    "m": "tuyên trắng án",
+    "m": "tha bổng, tuyên bố vô tội, tuyên trắng án",
     "cat": "law",
     "p": "ɐkwˈɪt"
   },
@@ -1357,7 +1357,7 @@
   },
   {
     "w": "negligence",
-    "m": "sự tắc trách, bất cẩn",
+    "m": "sự sơ suất, thiếu trách nhiệm, sự tắc trách, bất cẩn",
     "cat": "law",
     "p": "nˈɛɡlɪdʒəns"
   },
@@ -1393,7 +1393,7 @@
   },
   {
     "w": "probation",
-    "m": "án treo, thời gian thử thách",
+    "m": "thời gian thử việc, quản chế, thử thách, án treo",
     "cat": "law",
     "p": "pɹoʊbˈeɪʃən"
   },
@@ -1429,7 +1429,7 @@
   },
   {
     "w": "tribunal",
-    "m": "tòa án đặc biệt",
+    "m": "tòa án, hội đồng xét xử",
     "cat": "law",
     "p": "tɹaɪbjˈuːnəl"
   },
@@ -1447,7 +1447,7 @@
   },
   {
     "w": "warrant",
-    "m": "lệnh bắt giữ, lệnh khám xét",
+    "m": "bảo đảm, lệnh",
     "cat": "law",
     "p": "wˈɔːɹənt"
   },
@@ -1465,7 +1465,7 @@
   },
   {
     "w": "defamation",
-    "m": "tội phỉ báng danh dự",
+    "m": "sự phỉ báng, vu khống, bôi nhọ",
     "cat": "law",
     "p": "dᵻfɐmˈeɪʃən"
   },
@@ -1543,7 +1543,7 @@
   },
   {
     "w": "enzyme",
-    "m": "enzim, chất xúc tác sinh học",
+    "m": "enzyme, men, enzym, chất xúc tác sinh học, enzim",
     "cat": "science",
     "p": "ˈɛnzaɪm"
   },
@@ -1693,7 +1693,7 @@
   },
   {
     "w": "dimension",
-    "m": "chiều, kích thước",
+    "m": "chiều, khía cạnh, kích thước",
     "cat": "science",
     "p": "dᵻmˈɛnʃən"
   },
@@ -2269,7 +2269,7 @@
   },
   {
     "w": "obsolete",
-    "m": "lỗi thời, không còn dùng nữa",
+    "m": "lỗi thời, đã lạc hậu, không còn dùng nữa",
     "cat": "công nghệ",
     "p": "ˈɑːbsəlˌiːt"
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "w": "virtual",
-    "m": "ảo, mô phỏng",
+    "m": "ảo, ảo/trực tuyến, mô phỏng",
     "cat": "công nghệ",
     "p": "vˈɜːtʃuːəl"
   },
@@ -2515,7 +2515,7 @@
   },
   {
     "w": "immunity",
-    "m": "khả năng miễn dịch",
+    "m": "miễn truy tố, khả năng miễn dịch",
     "cat": "sức khỏe",
     "p": "ɪmjˈuːnᵻɾi"
   },
@@ -2527,7 +2527,7 @@
   },
   {
     "w": "inflammation",
-    "m": "tình trạng viêm",
+    "m": "viêm",
     "cat": "sức khỏe",
     "p": "ɪnflæmˈeɪʃən"
   },
@@ -2587,7 +2587,7 @@
   },
   {
     "w": "remedy",
-    "m": "phương thuốc, biện pháp khắc phục",
+    "m": "phương thuốc, cách chữa, biện pháp khắc phục",
     "cat": "sức khỏe",
     "p": "ɹˈɛmədi"
   },
@@ -2647,7 +2647,7 @@
   },
   {
     "w": "wellbeing",
-    "m": "trạng thái khỏe mạnh hạnh phúc",
+    "m": "sức khỏe tổng thể, sự khỏe mạnh hạnh phúc",
     "cat": "sức khỏe",
     "p": "wˈɛlbiːɪŋ"
   },
@@ -2671,7 +2671,7 @@
   },
   {
     "w": "fracture",
-    "m": "vết gãy xương",
+    "m": "gãy xương, gãy vỡ, rạn nứt",
     "cat": "sức khỏe",
     "p": "fɹˈæktʃɚ"
   },
@@ -2725,7 +2725,7 @@
   },
   {
     "w": "withdrawal",
-    "m": "hội chứng cai nghiện; sự rút lui",
+    "m": "hội chứng cai, sự rút tiền",
     "cat": "sức khỏe",
     "p": "wɪθdɹˈɔːl"
   },
@@ -2845,7 +2845,7 @@
   },
   {
     "w": "frustration",
-    "m": "sự bực bội, ức chế",
+    "m": "sự thất vọng, sự bực bội, ức chế",
     "cat": "psychology",
     "p": "fɹʌstɹˈeɪʃən"
   },
@@ -3001,7 +3001,7 @@
   },
   {
     "w": "implication",
-    "m": "hàm ý, hệ quả ngầm",
+    "m": "hàm ý, tác động, ý nghĩa sâu xa, hệ quả, ảnh hưởng",
     "cat": "học thuật",
     "p": "ˌɪmplɪkˈeɪʃən"
   },
@@ -3025,7 +3025,7 @@
   },
   {
     "w": "abstract",
-    "m": "trừu tượng; bản tóm tắt",
+    "m": "trừu tượng, tóm tắt (bài báo khoa học)",
     "cat": "học thuật",
     "p": "ˈæbstɹækt"
   },
@@ -3097,7 +3097,7 @@
   },
   {
     "w": "framework",
-    "m": "khung lý thuyết, khuôn khổ",
+    "m": "khung lý thuyết, cấu trúc, hệ thống tư duy, khung cơ cấu, hệ thống nền tảng, khuôn khổ",
     "cat": "học thuật",
     "p": "fɹˈeɪmwɜːk"
   },
@@ -3139,7 +3139,7 @@
   },
   {
     "w": "paradigm",
-    "m": "hệ hình, khuôn mẫu tư duy",
+    "m": "mô hình tư duy, hệ thống quan điểm, khuôn mẫu nhận thức, hệ hình, khuôn mẫu tư duy",
     "cat": "học thuật",
     "p": "pˈæɹədˌaɪm"
   },
@@ -3157,7 +3157,7 @@
   },
   {
     "w": "rationale",
-    "m": "cơ sở lập luận",
+    "m": "lý do, căn cứ, lý luận căn bản, cơ sở lý luận",
     "cat": "học thuật",
     "p": "ɹˌæʃənˈæl"
   },
@@ -3253,7 +3253,7 @@
   },
   {
     "w": "enrollment",
-    "m": "sự ghi danh nhập học",
+    "m": "đăng ký học, sự ghi danh nhập học",
     "cat": "academic",
     "p": "ɛnɹˈoʊlmənt"
   },
@@ -3277,13 +3277,13 @@
   },
   {
     "w": "syllabus",
-    "m": "đề cương môn học",
+    "m": "chương trình học, đề cương môn học",
     "cat": "academic",
     "p": "sˈɪlæbəs"
   },
   {
     "w": "transcript",
-    "m": "bảng điểm",
+    "m": "bảng điểm, bản chép lại lời nói",
     "cat": "academic",
     "p": "tɹˈænskɹɪpt"
   },
@@ -3373,7 +3373,7 @@
   },
   {
     "w": "mentor",
-    "m": "người cố vấn dìu dắt",
+    "m": "người hướng dẫn, thầy dạy, người cố vấn dìu dắt",
     "cat": "academic",
     "p": "mˈɛntɔːɹ"
   },
@@ -3427,13 +3427,13 @@
   },
   {
     "w": "tutorial",
-    "m": "buổi học kèm, bài hướng dẫn",
+    "m": "buổi học kèm cặp, buổi học nhóm nhỏ, hướng dẫn",
     "cat": "academic",
     "p": "tuːtˈɔːɹɪəl"
   },
   {
     "w": "diploma",
-    "m": "bằng cấp, văn bằng",
+    "m": "bằng cao đẳng, văn bằng, bằng chứng chỉ, bằng cấp, bằng tốt nghiệp",
     "cat": "academic",
     "p": "dɪplˈoʊmə"
   },
@@ -3451,7 +3451,7 @@
   },
   {
     "w": "ambiguous",
-    "m": "mơ hồ, có thể hiểu nhiều cách",
+    "m": "mơ hồ, không rõ ràng, lưỡng nghĩa, có thể hiểu nhiều cách",
     "cat": "tính từ",
     "p": "æmbˈɪɡjuːəs"
   },
@@ -3463,7 +3463,7 @@
   },
   {
     "w": "authentic",
-    "m": "chính gốc, xác thực",
+    "m": "chân thực, xác thực, đích thực, chính gốc, chính hãng",
     "cat": "tính từ",
     "p": "ɔːθˈɛntɪk"
   },
@@ -3499,7 +3499,7 @@
   },
   {
     "w": "crucial",
-    "m": "then chốt, cốt yếu",
+    "m": "thiết yếu, cực kỳ quan trọng, then chốt, cốt yếu",
     "cat": "tính từ",
     "p": "kɹˈuːʃəl"
   },
@@ -3511,7 +3511,7 @@
   },
   {
     "w": "deliberate",
-    "m": "cố ý; thận trọng",
+    "m": "cố ý, thảo luận kỹ, có chủ ý, thận trọng; cân nhắc",
     "cat": "tính từ",
     "p": "dᵻlˈɪbɚɹət"
   },
@@ -3553,7 +3553,7 @@
   },
   {
     "w": "genuine",
-    "m": "chân thật, thành thật",
+    "m": "chân thật, thật sự, thực sự, chân thực, chính hãng, thành thật",
     "cat": "tính từ",
     "p": "dʒˈɛnjuːɪn"
   },
@@ -3625,7 +3625,7 @@
   },
   {
     "w": "mundane",
-    "m": "tẻ nhạt, thường ngày",
+    "m": "tầm thường, đơn điệu, tẻ nhạt, thường ngày",
     "cat": "tính từ",
     "p": "mʌndˈeɪn"
   },
@@ -3655,7 +3655,7 @@
   },
   {
     "w": "predominant",
-    "m": "chiếm ưu thế",
+    "m": "chiếm ưu thế, nổi bật nhất, chủ yếu",
     "cat": "tính từ",
     "p": "pɹɪdˈɑːmɪnənt"
   },
@@ -3697,7 +3697,7 @@
   },
   {
     "w": "resilient",
-    "m": "kiên cường, mau phục hồi",
+    "m": "phục hồi, kiên cường, linh hoạt",
     "cat": "tính từ",
     "p": "ɹᵻsˈɪliənt"
   },
@@ -3709,7 +3709,7 @@
   },
   {
     "w": "robust",
-    "m": "vững chắc, mạnh mẽ",
+    "m": "mạnh mẽ, vững chắc, bền vững",
     "cat": "tính từ",
     "p": "ɹoʊbˈʌst"
   },
@@ -3751,7 +3751,7 @@
   },
   {
     "w": "tangible",
-    "m": "hữu hình, sờ thấy được",
+    "m": "hữu hình, cụ thể, có thể nhận ra, rõ ràng, sờ thấy được",
     "cat": "tính từ",
     "p": "tˈændʒɪbəl"
   },
@@ -3763,7 +3763,7 @@
   },
   {
     "w": "transparent",
-    "m": "minh bạch; trong suốt",
+    "m": "minh bạch, trong suốt, rõ ràng",
     "cat": "tính từ",
     "p": "tɹænspˈæɹənt"
   },
@@ -3793,7 +3793,7 @@
   },
   {
     "w": "viable",
-    "m": "có thể thực hiện được, sống được",
+    "m": "khả thi, có thể thực hiện, có thể sống được",
     "cat": "tính từ",
     "p": "vˈaɪəbəl"
   },
@@ -3889,7 +3889,7 @@
   },
   {
     "w": "eloquent",
-    "m": "hùng biện, lưu loát",
+    "m": "hùng hồn, lưu loát, diễn đạt trôi chảy, hùng biện, có tài ăn nói",
     "cat": "tính từ",
     "p": "ˈɛləkwənt"
   },
@@ -3919,7 +3919,7 @@
   },
   {
     "w": "immense",
-    "m": "to lớn, mênh mông",
+    "m": "khổng lồ, vô cùng lớn, to lớn, mênh mông",
     "cat": "tính từ",
     "p": "ɪmˈɛns"
   },
@@ -3931,7 +3931,7 @@
   },
   {
     "w": "keen",
-    "m": "say mê, nhạy bén",
+    "m": "ham thích, hăng hái, say mê, nhạy bén",
     "cat": "tính từ",
     "p": "kˈiːn"
   },
@@ -3997,7 +3997,7 @@
   },
   {
     "w": "deliberately",
-    "m": "một cách cố ý",
+    "m": "có chủ ý, cố tình, một cách cố ý",
     "cat": "trạng từ",
     "p": "dᵻlˈɪbɚɹətli"
   },
@@ -4171,7 +4171,7 @@
   },
   {
     "w": "roughly",
-    "m": "đại khái, khoảng",
+    "m": "khoảng, tương đối, đại khái",
     "cat": "trạng từ",
     "p": "ɹˈʌfli"
   },
@@ -4291,7 +4291,7 @@
   },
   {
     "w": "monument",
-    "m": "đài tưởng niệm, di tích",
+    "m": "tượng đài, di tích, đài tưởng niệm",
     "cat": "văn hóa",
     "p": "mˈɑːnjuːmənt"
   },
@@ -4423,7 +4423,7 @@
   },
   {
     "w": "composer",
-    "m": "nhà soạn nhạc",
+    "m": "nhạc sĩ sáng tác, nhà soạn nhạc",
     "cat": "nghệ thuật",
     "p": "kəmpˈoʊzɚ"
   },
@@ -4459,7 +4459,7 @@
   },
   {
     "w": "narrative",
-    "m": "lối kể chuyện, mạch tự sự",
+    "m": "câu chuyện kể, cách trần thuật, tường thuật, mạch tự sự",
     "cat": "nghệ thuật",
     "p": "nˈæɹətˌɪv"
   },
@@ -4525,7 +4525,7 @@
   },
   {
     "w": "anticipate",
-    "m": "dự đoán trước, lường trước",
+    "m": "dự đoán, mong chờ, mong đợi, dự kiến, tiên liệu, lường trước",
     "cat": "hành động",
     "p": "æntˈɪsᵻpˌeɪt"
   },
@@ -4579,13 +4579,13 @@
   },
   {
     "w": "comply",
-    "m": "tuân theo quy định",
+    "m": "tuân thủ, chấp hành, tuân theo quy định",
     "cat": "hành động",
     "p": "kəmplˈaɪ"
   },
   {
     "w": "conceive",
-    "m": "hình dung ra; thụ thai",
+    "m": "hình dung ra; thụ thai, hình thành ý tưởng",
     "cat": "hành động",
     "p": "kənsˈiːv"
   },
@@ -4597,7 +4597,7 @@
   },
   {
     "w": "confront",
-    "m": "đối mặt, chất vấn",
+    "m": "đối mặt, đối diện, đối đầu, đương đầu, chất vấn",
     "cat": "hành động",
     "p": "kənfɹˈʌnt"
   },
@@ -4609,19 +4609,19 @@
   },
   {
     "w": "convey",
-    "m": "truyền đạt",
+    "m": "truyền tải, vận chuyển, truyền đạt, chuyển tải, diễn đạt",
     "cat": "hành động",
     "p": "kənvˈeɪ"
   },
   {
     "w": "cope",
-    "m": "đương đầu, xoay xở",
+    "m": "đương đầu, ứng phó, đối phó, xoay xở",
     "cat": "hành động",
     "p": "kˈoʊp"
   },
   {
     "w": "cultivate",
-    "m": "trồng trọt; nuôi dưỡng kỹ năng",
+    "m": "trồng trọt, nuôi dưỡng, vun đắp, bồi dưỡng, vun trồng",
     "cat": "hành động",
     "p": "kˈʌltᵻvˌeɪt"
   },
@@ -4651,7 +4651,7 @@
   },
   {
     "w": "derive",
-    "m": "bắt nguồn từ; rút ra được",
+    "m": "bắt nguồn từ, rút ra, xuất phát từ, lấy từ",
     "cat": "hành động",
     "p": "dᵻɹˈaɪv"
   },
@@ -4675,7 +4675,7 @@
   },
   {
     "w": "diminish",
-    "m": "giảm bớt, suy giảm",
+    "m": "giảm bớt, thu nhỏ, giảm sút, làm nhỏ lại, suy giảm",
     "cat": "hành động",
     "p": "dᵻmˈɪnɪʃ"
   },
@@ -4705,7 +4705,7 @@
   },
   {
     "w": "elaborate",
-    "m": "trình bày chi tiết hơn; công phu",
+    "m": "chi tiết, phức tạp, giải thích chi tiết",
     "cat": "hành động",
     "p": "ᵻlˈæbɚɹˌeɪt"
   },
@@ -4771,7 +4771,7 @@
   },
   {
     "w": "facilitate",
-    "m": "tạo điều kiện thuận lợi",
+    "m": "tạo thuận lợi, hỗ trợ, tạo điều kiện, giúp dễ dàng hơn, thúc đẩy",
     "cat": "hành động",
     "p": "fəsˈɪlᵻtˌeɪt"
   },
@@ -4885,13 +4885,13 @@
   },
   {
     "w": "mediate",
-    "m": "hòa giải, làm trung gian",
+    "m": "làm trung gian, hòa giải",
     "cat": "hành động",
     "p": "mˈiːdɪˌeɪt"
   },
   {
     "w": "minimize",
-    "m": "giảm thiểu",
+    "m": "tối thiểu hóa, giảm thiểu, hạ thấp tầm quan trọng",
     "cat": "hành động",
     "p": "mˈɪnɪmˌaɪz"
   },
@@ -4915,7 +4915,7 @@
   },
   {
     "w": "navigate",
-    "m": "định hướng, tìm đường",
+    "m": "điều hướng, dẫn đường, xử lý, định hướng, tìm đường",
     "cat": "hành động",
     "p": "nˈævɪɡˌeɪt"
   },
@@ -4933,7 +4933,7 @@
   },
   {
     "w": "obtain",
-    "m": "thu được, giành được",
+    "m": "đạt được, có được, thu được, giành được",
     "cat": "hành động",
     "p": "əbtˈeɪn"
   },
@@ -4999,7 +4999,7 @@
   },
   {
     "w": "presume",
-    "m": "cho rằng, mặc định",
+    "m": "cho là, suy đoán, cho rằng, mặc định",
     "cat": "hành động",
     "p": "pɹɪzˈuːm"
   },
@@ -5059,7 +5059,7 @@
   },
   {
     "w": "render",
-    "m": "khiến cho trở nên; thể hiện",
+    "m": "làm cho, cung cấp, tạo ra, trình bày, khiến cho trở nên; thể hiện",
     "cat": "hành động",
     "p": "ɹˈɛndɚ"
   },
@@ -5107,7 +5107,7 @@
   },
   {
     "w": "revise",
-    "m": "chỉnh sửa; ôn tập",
+    "m": "ôn tập, xem lại, sửa đổi",
     "cat": "hành động",
     "p": "ɹᵻvˈaɪz"
   },
@@ -5143,13 +5143,13 @@
   },
   {
     "w": "submit",
-    "m": "nộp; khuất phục",
+    "m": "nộp (bài/hồ sơ), nộp/gửi",
     "cat": "hành động",
     "p": "səbmˈɪt"
   },
   {
     "w": "suppress",
-    "m": "đàn áp, kìm nén",
+    "m": "dập tắt, trấn áp, đàn áp, kìm nén",
     "cat": "hành động",
     "p": "səpɹˈɛs"
   },
@@ -5257,7 +5257,7 @@
   },
   {
     "w": "yield",
-    "m": "mang lại; nhường; sản lượng",
+    "m": "sản lượng, nhượng bộ, mang lại, sản xuất",
     "cat": "hành động",
     "p": "jˈiːld"
   },
@@ -5299,7 +5299,7 @@
   },
   {
     "w": "on the same page",
-    "m": "hiểu ý nhau, thống nhất quan điểm",
+    "m": "đồng thuận, hiểu nhau, thống nhất quan điểm",
     "cat": "business",
     "p": "ɔnðə sˈeɪm pˈeɪdʒ"
   },
@@ -5377,7 +5377,7 @@
   },
   {
     "w": "once in a blue moon",
-    "m": "hiếm hoi lắm mới xảy ra",
+    "m": "thỉnh thoảng hiếm khi, rất hiếm khi; họa hoằn, hiếm hoi lắm mới xảy ra",
     "cat": "xã hội",
     "p": "wˈʌns ɪn ɐ blˈuː mˈuːn"
   },
@@ -5395,7 +5395,7 @@
   },
   {
     "w": "break the ice",
-    "m": "phá vỡ sự ngại ngùng ban đầu",
+    "m": "phá vỡ bầu không khí ngại ngùng, phá vỡ sự im lặng ban đầu, phá vỡ sự ngại ngùng; khởi đầu cuộc trò chuyện",
     "cat": "xã hội",
     "p": "bɹˈeɪk ðɪ ˈaɪs"
   },
@@ -5407,7 +5407,7 @@
   },
   {
     "w": "cost an arm and a leg",
-    "m": "đắt cắt cổ",
+    "m": "đắt như vàng, rất đắt tiền, đắt cắt cổ",
     "cat": "business",
     "p": "kˈɔst ɐn ˈɑːɹm ænd ɐ lˈɛɡ"
   },
@@ -5437,13 +5437,13 @@
   },
   {
     "w": "go the extra mile",
-    "m": "nỗ lực hơn mức yêu cầu",
+    "m": "cố gắng hơn mức bình thường, nỗ lực hơn mức yêu cầu",
     "cat": "business",
     "p": "ɡˌoʊ ðɪ ˈɛkstɹə mˈaɪl"
   },
   {
     "w": "hit the nail on the head",
-    "m": "nói trúng tim đen, chính xác",
+    "m": "nói đúng vào vấn đề, nói trúng tim đen, chính xác",
     "cat": "xã hội",
     "p": "hˈɪt ðə nˈeɪl ɔnðə hˈɛd"
   },
@@ -5467,7 +5467,7 @@
   },
   {
     "w": "kill two birds with one stone",
-    "m": "một công đôi việc",
+    "m": "nhất cử lưỡng tiện; một mũi tên trúng hai đích, một công đôi việc",
     "cat": "xã hội",
     "p": "kˈɪl tˈuː bˈɜːdz wɪð wˈʌn stˈoʊn"
   },
@@ -5569,7 +5569,7 @@
   },
   {
     "w": "under the weather",
-    "m": "cảm thấy không khỏe trong người",
+    "m": "không khỏe, ốm nhẹ",
     "cat": "sức khỏe",
     "p": "ˌʌndɚ ðə wˈɛðɚ"
   },
@@ -5695,7 +5695,7 @@
   },
   {
     "w": "spouse",
-    "m": "vợ hoặc chồng",
+    "m": "vợ hoặc chồng, vợ/chồng",
     "cat": "society",
     "p": "spˈaʊs"
   },
@@ -5707,7 +5707,7 @@
   },
   {
     "w": "adoption",
-    "m": "việc nhận con nuôi",
+    "m": "sự nhận con nuôi, áp dụng",
     "cat": "society",
     "p": "ɐdˈɑːpʃən"
   },
@@ -5887,7 +5887,7 @@
   },
   {
     "w": "austerity",
-    "m": "chính sách thắt lưng buộc bụng",
+    "m": "thắt lưng buộc bụng, khắc khổ, thắt chặt chi tiêu",
     "cat": "chính trị",
     "p": "ɔːstˈɛɹᵻɾi"
   },
@@ -5941,7 +5941,7 @@
   },
   {
     "w": "immunization",
-    "m": "việc tiêm chủng",
+    "m": "tiêm phòng, miễn dịch hóa, việc tiêm chủng",
     "cat": "sức khỏe",
     "p": "ˌɪmjuːnᵻzˈeɪʃən"
   },

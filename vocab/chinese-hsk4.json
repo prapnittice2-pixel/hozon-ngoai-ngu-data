@@ -20,7 +20,7 @@
   {
     "w": "研究生",
     "p": "yánjiūshēng",
-    "m": "nghiên cứu sinh",
+    "m": "nghiên cứu sinh, học viên cao học",
     "cat": "academic"
   },
   {
@@ -158,7 +158,7 @@
   {
     "w": "贡献",
     "p": "gòngxiàn",
-    "m": "đóng góp",
+    "m": "đóng góp, cống hiến",
     "cat": "academic"
   },
   {
@@ -344,7 +344,7 @@
   {
     "w": "框架",
     "p": "kuàngjià",
-    "m": "khung, cấu trúc",
+    "m": "khung, cấu trúc, khuôn khổ, sườn",
     "cat": "academic"
   },
   {
@@ -428,7 +428,7 @@
   {
     "w": "理解",
     "p": "lǐjiě",
-    "m": "hiểu, thông cảm",
+    "m": "hiểu, thông cảm, lý giải",
     "cat": "society"
   },
   {
@@ -650,7 +650,7 @@
   {
     "w": "社区",
     "p": "shèqū",
-    "m": "cộng đồng, khu dân cư",
+    "m": "cộng đồng, khu dân cư, khu phố",
     "cat": "society"
   },
   {
@@ -662,7 +662,7 @@
   {
     "w": "融合",
     "p": "rónghé",
-    "m": "hòa nhập, hợp nhất",
+    "m": "hòa nhập, hợp nhất, kết hợp, dung hợp, hội nhập",
     "cat": "society"
   },
   {
@@ -890,7 +890,7 @@
   {
     "w": "诚实",
     "p": "chéngshí",
-    "m": "trung thực",
+    "m": "trung thực, thành thật",
     "cat": "psychology"
   },
   {
@@ -980,7 +980,7 @@
   {
     "w": "礼貌",
     "p": "lǐmào",
-    "m": "lịch sự",
+    "m": "lịch sự, lễ phép",
     "cat": "psychology"
   },
   {
@@ -1058,7 +1058,7 @@
   {
     "w": "出口",
     "p": "chūkǒu",
-    "m": "xuất khẩu",
+    "m": "xuất khẩu, lối ra",
     "cat": "economics"
   },
   {
@@ -1112,7 +1112,7 @@
   {
     "w": "贷款",
     "p": "dàikuǎn",
-    "m": "cho vay, khoản vay",
+    "m": "cho vay, khoản vay, vay vốn, vay tiền",
     "cat": "economics"
   },
   {
@@ -1436,7 +1436,7 @@
   {
     "w": "程序",
     "p": "chéngxù",
-    "m": "chương trình, quy trình",
+    "m": "chương trình, quy trình, thủ tục",
     "cat": "science"
   },
   {
@@ -1592,7 +1592,7 @@
   {
     "w": "疫苗",
     "p": "yìmiáo",
-    "m": "vắc-xin",
+    "m": "vắc-xin, vaccine",
     "cat": "science"
   },
   {
@@ -1754,7 +1754,7 @@
   {
     "w": "哪怕",
     "p": "nǎpà",
-    "m": "dù có, dù sao",
+    "m": "dù, ngay cả khi",
     "cat": "language"
   },
   {
@@ -1844,7 +1844,7 @@
   {
     "w": "从而",
     "p": "cóng'ér",
-    "m": "từ đó, do đó",
+    "m": "từ đó, do đó, nhờ đó, bởi vậy",
     "cat": "language"
   },
   {
@@ -1910,7 +1910,7 @@
   {
     "w": "借助",
     "p": "jièzhù",
-    "m": "nhờ vào, dựa vào",
+    "m": "nhờ vào, dựa vào, nhờ sự trợ giúp",
     "cat": "language"
   },
   {
@@ -1958,13 +1958,13 @@
   {
     "w": "分别",
     "p": "fēnbié",
-    "m": "lần lượt, riêng lẻ",
+    "m": "lần lượt, riêng biệt, chia tay",
     "cat": "language"
   },
   {
     "w": "各自",
     "p": "gèzì",
-    "m": "mỗi người, riêng mình",
+    "m": "mỗi người, riêng mình, riêng từng người, mỗi bên, tự mình",
     "cat": "language"
   },
   {
@@ -2006,7 +2006,7 @@
   {
     "w": "其次",
     "p": "qícì",
-    "m": "thứ hai, tiếp theo",
+    "m": "thứ hai, tiếp theo, thứ đến",
     "cat": "language"
   },
   {
@@ -2174,7 +2174,7 @@
   {
     "w": "表示",
     "p": "biǎoshì",
-    "m": "biểu thị, thể hiện",
+    "m": "biểu thị, thể hiện, bày tỏ, cho thấy",
     "cat": "language"
   },
   {
@@ -2348,7 +2348,7 @@
   {
     "w": "产生",
     "p": "chǎnshēng",
-    "m": "tạo ra, phát sinh",
+    "m": "tạo ra, phát sinh, nảy sinh, sản sinh",
     "cat": "language"
   },
   {
@@ -2414,7 +2414,7 @@
   {
     "w": "讲座",
     "p": "jiǎngzuò",
-    "m": "bài giảng, hội thảo",
+    "m": "bài giảng, hội thảo, buổi diễn thuyết",
     "cat": "academic"
   },
   {
@@ -2618,7 +2618,7 @@
   {
     "w": "烦恼",
     "p": "fánnǎo",
-    "m": "phiền muộn, lo lắng",
+    "m": "phiền muộn, lo lắng, phiền não, bực bội",
     "cat": "psychology"
   },
   {
@@ -2834,7 +2834,7 @@
   {
     "w": "物流",
     "p": "wùliú",
-    "m": "hậu cần, logistics",
+    "m": "hậu cần, logistics, vận chuyển",
     "cat": "economics"
   },
   {
@@ -2990,7 +2990,7 @@
   {
     "w": "与此同时",
     "p": "yǔ cǐ tóngshí",
-    "m": "đồng thời với đó",
+    "m": "đồng thời với đó, cùng lúc đó",
     "cat": "language"
   },
   {
@@ -3062,13 +3062,13 @@
   {
     "w": "不过",
     "p": "búguò",
-    "m": "tuy nhiên, nhưng",
+    "m": "nhưng, tuy nhiên, có điều",
     "cat": "language"
   },
   {
     "w": "固然",
     "p": "gùrán",
-    "m": "cố nhiên, dĩ nhiên là",
+    "m": "cố nhiên, dĩ nhiên là, tuy nhiên, dù cho, đành rằng, tuy là",
     "cat": "language"
   },
   {
@@ -3086,7 +3086,7 @@
   {
     "w": "何况",
     "p": "hékuàng",
-    "m": "huống chi, huống hồ",
+    "m": "huống chi, huống hồ, hơn nữa, huống gì",
     "cat": "language"
   },
   {
@@ -3140,7 +3140,7 @@
   {
     "w": "一直",
     "p": "yīzhí",
-    "m": "luôn luôn, mãi mãi",
+    "m": "liên tục, mãi mãi, thẳng, suốt, cứ, luôn luôn",
     "cat": "language"
   },
   {
@@ -3218,7 +3218,7 @@
   {
     "w": "舞蹈",
     "p": "wǔdǎo",
-    "m": "vũ đạo, khiêu vũ",
+    "m": "vũ điệu, múa, khiêu vũ, vũ đạo",
     "cat": "society"
   },
   {
@@ -3254,7 +3254,7 @@
   {
     "w": "固执",
     "p": "gùzhí",
-    "m": "cứng đầu, bướng bỉnh",
+    "m": "cứng đầu, bướng bỉnh, cố chấp",
     "cat": "psychology"
   },
   {
@@ -3284,7 +3284,7 @@
   {
     "w": "执着",
     "p": "zhízhuó",
-    "m": "kiên định, khắng khít",
+    "m": "kiên định, khắng khít, kiên trì bám đuổi",
     "cat": "psychology"
   },
   {
@@ -3368,7 +3368,7 @@
   {
     "w": "推断",
     "p": "tuīduàn",
-    "m": "suy luận, kết luận",
+    "m": "suy luận, kết luận, suy đoán, phán đoán",
     "cat": "academic"
   },
   {
@@ -3506,7 +3506,7 @@
   {
     "w": "进而",
     "p": "jìn'ér",
-    "m": "tiếp đó, hơn nữa",
+    "m": "tiếp đó, hơn nữa, tiếp theo, từ đó tiến lên, tiến thêm, rồi",
     "cat": "language"
   },
   {
@@ -3584,7 +3584,7 @@
   {
     "w": "显著",
     "p": "xiǎnzhù",
-    "m": "rõ rệt, đáng kể",
+    "m": "rõ rệt, đáng kể, đáng chú ý, rõ ràng, nổi bật",
     "cat": "language"
   },
   {

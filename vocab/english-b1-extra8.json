@@ -31,7 +31,7 @@
   },
   {
     "w": "painting",
-    "m": "vẽ tranh",
+    "m": "bức tranh, hội họa",
     "cat": "giải trí",
     "p": "pˈeɪntɪŋ"
   },
@@ -229,7 +229,7 @@
   },
   {
     "w": "engagement",
-    "m": "lễ đính hôn",
+    "m": "đám hỏi, sự đính hôn, mức độ tương tác",
     "cat": "văn hóa",
     "p": "ɛŋɡˈeɪdʒmənt"
   },
@@ -331,7 +331,7 @@
   },
   {
     "w": "toast",
-    "m": "bánh mì nướng",
+    "m": "nâng ly chúc mừng, bánh mì nướng",
     "cat": "ẩm thực",
     "p": "tˈoʊst"
   },
@@ -589,7 +589,7 @@
   },
   {
     "w": "shower",
-    "m": "cơn mưa rào",
+    "m": "vòi sen, cơn mưa rào",
     "cat": "thiên nhiên",
     "p": "ʃˈaʊɚ"
   },
@@ -661,7 +661,7 @@
   },
   {
     "w": "stream",
-    "m": "dòng suối",
+    "m": "con suối nhỏ, phát trực tiếp, dòng suối",
     "cat": "thiên nhiên",
     "p": "stɹˈiːm"
   },
@@ -829,7 +829,7 @@
   },
   {
     "w": "briefing",
-    "m": "buổi phổ biến thông tin",
+    "m": "buổi phổ biến thông tin, buổi báo cáo tóm tắt",
     "cat": "công việc",
     "p": "bɹˈiːfɪŋ"
   },
@@ -847,7 +847,7 @@
   },
   {
     "w": "promotion",
-    "m": "sự thăng chức",
+    "m": "thăng chức, khuyến mãi",
     "cat": "công việc",
     "p": "pɹəmˈoʊʃən"
   },
@@ -889,19 +889,19 @@
   },
   {
     "w": "reference",
-    "m": "thư giới thiệu",
+    "m": "người giới thiệu, tài liệu tham khảo, tham chiếu",
     "cat": "công việc",
     "p": "ɹˈɛfɹəns"
   },
   {
     "w": "probation",
-    "m": "thời gian thử việc",
+    "m": "thời gian thử việc, quản chế, thử thách, án treo",
     "cat": "công việc",
     "p": "pɹoʊbˈeɪʃən"
   },
   {
     "w": "shift",
-    "m": "ca làm việc",
+    "m": "ca làm việc, thay đổi, chuyển dịch",
     "cat": "công việc",
     "p": "ʃˈɪft"
   },
@@ -985,7 +985,7 @@
   },
   {
     "w": "qualification",
-    "m": "bằng cấp",
+    "m": "bằng cấp, năng lực, trình độ, điều kiện, chứng chỉ",
     "cat": "công việc",
     "p": "kwˌɔlɪfɪkˈeɪʃən"
   },
@@ -1015,13 +1015,13 @@
   },
   {
     "w": "initiative",
-    "m": "tính chủ động",
+    "m": "sáng kiến, chủ động, bước đầu tiên",
     "cat": "công việc",
     "p": "ɪnˈɪʃiətˌɪv"
   },
   {
     "w": "flexibility",
-    "m": "sự linh hoạt",
+    "m": "sự linh hoạt, sự dẻo dai",
     "cat": "công việc",
     "p": "flˌɛksəbˈɪlᵻɾi"
   },
@@ -1039,7 +1039,7 @@
   },
   {
     "w": "delegation",
-    "m": "sự ủy thác",
+    "m": "sự ủy thác, ủy quyền, phái đoàn",
     "cat": "công việc",
     "p": "dˌɛlɪɡˈeɪʃən"
   },
@@ -1063,13 +1063,13 @@
   },
   {
     "w": "mentorship",
-    "m": "sự dìu dắt",
+    "m": "sự dìu dắt, sự hướng dẫn, kèm cặp, cố vấn",
     "cat": "công việc",
     "p": "mˈɛntɔːɹʃˌɪp"
   },
   {
     "w": "networking",
-    "m": "việc kết nối quan hệ",
+    "m": "việc kết nối quan hệ, xây dựng mạng lưới quan hệ",
     "cat": "công việc",
     "p": "nˈɛtwɜːkɪŋ"
   },
@@ -1165,7 +1165,7 @@
   },
   {
     "w": "vaccination",
-    "m": "sự tiêm chủng",
+    "m": "tiêm phòng, tiêm chủng, vắc-xin",
     "cat": "sức khỏe",
     "p": "vˌæksᵻnˈeɪʃən"
   },
@@ -1201,13 +1201,13 @@
   },
   {
     "w": "fitness",
-    "m": "sự khỏe khoắn",
+    "m": "thể lực, sức khỏe thể chất, sự cân đối, sự khỏe khoắn",
     "cat": "sức khỏe",
     "p": "fˈɪtnəs"
   },
   {
     "w": "wellbeing",
-    "m": "sự khỏe mạnh hạnh phúc",
+    "m": "sức khỏe tổng thể, sự khỏe mạnh hạnh phúc",
     "cat": "sức khỏe",
     "p": "wˈɛlbiːɪŋ"
   },
@@ -1225,7 +1225,7 @@
   },
   {
     "w": "flexibility",
-    "m": "sự dẻo dai",
+    "m": "sự linh hoạt, sự dẻo dai",
     "cat": "sức khỏe",
     "p": "flˌɛksəbˈɪlᵻɾi"
   },
@@ -1237,7 +1237,7 @@
   },
   {
     "w": "circulation",
-    "m": "tuần hoàn máu",
+    "m": "số lượng phát hành, tuần hoàn máu",
     "cat": "sức khỏe",
     "p": "sˌɜːkjʊlˈeɪʃən"
   },
@@ -1267,7 +1267,7 @@
   },
   {
     "w": "withdrawal",
-    "m": "hội chứng cai",
+    "m": "hội chứng cai, sự rút tiền",
     "cat": "sức khỏe",
     "p": "wɪθdɹˈɔːl"
   },
@@ -1279,7 +1279,7 @@
   },
   {
     "w": "remedy",
-    "m": "phương thuốc",
+    "m": "phương thuốc, cách chữa, biện pháp khắc phục",
     "cat": "sức khỏe",
     "p": "ɹˈɛmədi"
   },
@@ -1291,7 +1291,7 @@
   },
   {
     "w": "relief",
-    "m": "sự thuyên giảm",
+    "m": "sự nhẹ nhõm, sự thuyên giảm",
     "cat": "sức khỏe",
     "p": "ɹᵻlˈiːf"
   },
@@ -1387,7 +1387,7 @@
   },
   {
     "w": "spouse",
-    "m": "vợ/chồng",
+    "m": "vợ hoặc chồng, vợ/chồng",
     "cat": "người",
     "p": "spˈaʊs"
   },

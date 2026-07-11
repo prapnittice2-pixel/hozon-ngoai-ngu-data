@@ -134,13 +134,13 @@
   {
     "w": "格局",
     "p": "gé jú",
-    "m": "cục diện, bố cục lớn",
+    "m": "cục diện, bố cục, khuôn khổ, quy mô",
     "cat": "academic"
   },
   {
     "w": "框架",
     "p": "kuàng jià",
-    "m": "khung, sườn",
+    "m": "khung, cấu trúc, khuôn khổ, sườn",
     "cat": "academic"
   },
   {
@@ -164,7 +164,7 @@
   {
     "w": "维度",
     "p": "wéi dù",
-    "m": "chiều, khía cạnh",
+    "m": "chiều, góc độ, khía cạnh",
     "cat": "academic"
   },
   {
@@ -218,7 +218,7 @@
   {
     "w": "渗透",
     "p": "shèn tòu",
-    "m": "thẩm thấu, thâm nhập",
+    "m": "thấm vào, xâm nhập, thẩm thấu, thâm nhập",
     "cat": "academic"
   },
   {
@@ -296,7 +296,7 @@
   {
     "w": "深化",
     "p": "shēn huà",
-    "m": "đi sâu, sâu sắc hóa",
+    "m": "đào sâu, làm sâu sắc thêm, nâng cao, đi sâu",
     "cat": "society"
   },
   {
@@ -350,7 +350,7 @@
   {
     "w": "配套",
     "p": "pèi tào",
-    "m": "đồng bộ, ăn khớp",
+    "m": "đi kèm, phối bộ, đồng bộ, ăn khớp",
     "cat": "work"
   },
   {
@@ -422,7 +422,7 @@
   {
     "w": "显著",
     "p": "xiǎn zhù",
-    "m": "rõ rệt, nổi bật",
+    "m": "rõ rệt, đáng kể, đáng chú ý, rõ ràng, nổi bật",
     "cat": "academic"
   },
   {
@@ -482,7 +482,7 @@
   {
     "w": "协调",
     "p": "xié tiáo",
-    "m": "hài hòa, điều hòa",
+    "m": "phối hợp, điều hòa, điều phối, hài hòa",
     "cat": "society"
   },
   {
@@ -524,7 +524,7 @@
   {
     "w": "博弈",
     "p": "bó yì",
-    "m": "sự đấu trí, cuộc chơi",
+    "m": "đấu tranh, trò chơi chiến lược, đấu trí, cuộc chơi",
     "cat": "society"
   },
   {
@@ -638,7 +638,7 @@
   {
     "w": "侧重",
     "p": "cè zhòng",
-    "m": "thiên về, chú trọng",
+    "m": "tập trung vào một phía, thiên về, chú trọng",
     "cat": "academic"
   },
   {
@@ -650,7 +650,7 @@
   {
     "w": "动态",
     "p": "dòng tài",
-    "m": "động thái",
+    "m": "động thái, tình hình, năng động, biến động",
     "cat": "society"
   },
   {
@@ -1058,7 +1058,7 @@
   {
     "w": "融合",
     "p": "róng hé",
-    "m": "hòa nhập, dung hợp",
+    "m": "hòa nhập, hợp nhất, kết hợp, dung hợp, hội nhập",
     "cat": "society"
   },
   {
@@ -1124,7 +1124,7 @@
   {
     "w": "凝聚",
     "p": "níng jù",
-    "m": "cố kết, gắn kết",
+    "m": "tụ lại, đoàn kết, cố kết, gắn kết",
     "cat": "society"
   },
   {
@@ -1250,7 +1250,7 @@
   {
     "w": "执着",
     "p": "zhí zhuó",
-    "m": "kiên trì bám đuổi",
+    "m": "kiên định, khắng khít, kiên trì bám đuổi",
     "cat": "emotion"
   },
   {
@@ -1442,7 +1442,7 @@
   {
     "w": "举足轻重",
     "p": "jǔ zú qīng zhòng",
-    "m": "có vai trò then chốt",
+    "m": "quan trọng, có ảnh hưởng lớn, có vai trò then chốt",
     "cat": "idiom"
   },
   {
@@ -1478,7 +1478,7 @@
   {
     "w": "相辅相成",
     "p": "xiāng fǔ xiāng chéng",
-    "m": "bổ trợ lẫn nhau",
+    "m": "tương hỗ bổ sung, bổ trợ lẫn nhau cùng hoàn thành",
     "cat": "idiom"
   },
   {
@@ -1526,7 +1526,7 @@
   {
     "w": "包罗万象",
     "p": "bāo luó wàn xiàng",
-    "m": "bao quát muôn vẻ",
+    "m": "bao gồm tất cả mọi mặt, bao quát muôn vẻ",
     "cat": "idiom"
   },
   {
@@ -1628,13 +1628,13 @@
   {
     "w": "诚然",
     "p": "chéng rán",
-    "m": "quả thật, đúng là",
+    "m": "đúng vậy, thật sự, đúng là, thực ra",
     "cat": "language"
   },
   {
     "w": "固然",
     "p": "gù rán",
-    "m": "đành rằng, tuy là",
+    "m": "cố nhiên, dĩ nhiên là, tuy nhiên, dù cho, đành rằng, tuy là",
     "cat": "language"
   },
   {
@@ -1670,7 +1670,7 @@
   {
     "w": "借助",
     "p": "jiè zhù",
-    "m": "nhờ sự trợ giúp",
+    "m": "nhờ vào, dựa vào, nhờ sự trợ giúp",
     "cat": "language"
   },
   {
@@ -1682,13 +1682,13 @@
   {
     "w": "从而",
     "p": "cóng ér",
-    "m": "từ đó mà",
+    "m": "từ đó, do đó, nhờ đó, bởi vậy",
     "cat": "language"
   },
   {
     "w": "进而",
     "p": "jìn ér",
-    "m": "tiến thêm, rồi",
+    "m": "tiếp đó, hơn nữa, tiếp theo, từ đó tiến lên, tiến thêm, rồi",
     "cat": "language"
   },
   {

@@ -49,7 +49,7 @@
   },
   {
     "w": "immigration",
-    "m": "xuất nhập cảnh",
+    "m": "xuất nhập cảnh, nhập cư",
     "cat": "travel",
     "p": "ˌɪmɪɡɹˈeɪʃən"
   },
@@ -115,7 +115,7 @@
   },
   {
     "w": "recommend",
-    "m": "giới thiệu, đề xuất",
+    "m": "giới thiệu, gợi ý, đề xuất, khuyến nghị, giới thiệu/khuyến nghị",
     "cat": "travel",
     "p": "ɹˌɛkəmˈɛnd"
   },
@@ -127,7 +127,7 @@
   },
   {
     "w": "navigate",
-    "m": "điều hướng, dẫn đường",
+    "m": "điều hướng, dẫn đường, xử lý, định hướng, tìm đường",
     "cat": "travel",
     "p": "nˈævɪɡˌeɪt"
   },
@@ -307,7 +307,7 @@
   },
   {
     "w": "resume",
-    "m": "CV, sơ yếu lý lịch",
+    "m": "CV, sơ yếu lý lịch, hồ sơ xin việc",
     "cat": "work",
     "p": "ɹᵻzˈuːm"
   },
@@ -331,19 +331,19 @@
   },
   {
     "w": "promotion",
-    "m": "thăng chức",
+    "m": "thăng chức, khuyến mãi",
     "cat": "work",
     "p": "pɹəmˈoʊʃən"
   },
   {
     "w": "qualification",
-    "m": "bằng cấp, năng lực",
+    "m": "bằng cấp, năng lực, trình độ, điều kiện, chứng chỉ",
     "cat": "work",
     "p": "kwˌɔlɪfɪkˈeɪʃən"
   },
   {
     "w": "reference",
-    "m": "người giới thiệu, tài liệu tham khảo",
+    "m": "người giới thiệu, tài liệu tham khảo, tham chiếu",
     "cat": "work",
     "p": "ɹˈɛfɹəns"
   },
@@ -415,7 +415,7 @@
   },
   {
     "w": "performance",
-    "m": "hiệu suất",
+    "m": "buổi biểu diễn, hiệu suất",
     "cat": "work",
     "p": "pɚfˈɔːɹməns"
   },
@@ -445,7 +445,7 @@
   },
   {
     "w": "hire",
-    "m": "tuyển dụng",
+    "m": "thuê người; thuê đồ, tuyển dụng",
     "cat": "work",
     "p": "hˈaɪɚ"
   },
@@ -481,7 +481,7 @@
   },
   {
     "w": "training",
-    "m": "đào tạo",
+    "m": "đào tạo, huấn luyện",
     "cat": "work",
     "p": "tɹˈeɪnɪŋ"
   },
@@ -559,7 +559,7 @@
   },
   {
     "w": "competition",
-    "m": "cạnh tranh",
+    "m": "cuộc thi, cạnh tranh, cuộc đua",
     "cat": "work",
     "p": "kˌɑːmpətˈɪʃən"
   },
@@ -577,7 +577,7 @@
   },
   {
     "w": "fitness",
-    "m": "thể lực, sức khỏe thể chất",
+    "m": "thể lực, sức khỏe thể chất, sự cân đối, sự khỏe khoắn",
     "cat": "health",
     "p": "fˈɪtnəs"
   },
@@ -631,7 +631,7 @@
   },
   {
     "w": "depression",
-    "m": "trầm cảm",
+    "m": "trầm cảm, đại suy thoái",
     "cat": "health",
     "p": "dᵻpɹˈɛʃən"
   },
@@ -643,7 +643,7 @@
   },
   {
     "w": "wellbeing",
-    "m": "sức khỏe tổng thể",
+    "m": "sức khỏe tổng thể, sự khỏe mạnh hạnh phúc",
     "cat": "health",
     "p": "wˈɛlbiːɪŋ"
   },
@@ -721,13 +721,13 @@
   },
   {
     "w": "vaccination",
-    "m": "tiêm phòng",
+    "m": "tiêm phòng, tiêm chủng, vắc-xin",
     "cat": "health",
     "p": "vˌæksᵻnˈeɪʃən"
   },
   {
     "w": "vitamin",
-    "m": "vitamin",
+    "m": "vitamin, vi-ta-min",
     "cat": "health",
     "p": "vˈaɪɾəmɪn"
   },
@@ -787,7 +787,7 @@
   },
   {
     "w": "stretch",
-    "m": "giãn cơ",
+    "m": "khởi động, duỗi người, giãn cơ, vươn vai, kéo giãn",
     "cat": "health",
     "p": "stɹˈɛtʃ"
   },
@@ -1033,7 +1033,7 @@
   },
   {
     "w": "tutorial",
-    "m": "buổi học kèm cặp",
+    "m": "buổi học kèm cặp, buổi học nhóm nhỏ, hướng dẫn",
     "cat": "education",
     "p": "tuːtˈɔːɹɪəl"
   },
@@ -1135,7 +1135,7 @@
   },
   {
     "w": "source",
-    "m": "nguồn tài liệu",
+    "m": "nguồn tài liệu, nguồn tin, nguồn gốc",
     "cat": "education",
     "p": "sˈɔːɹs"
   },
@@ -1177,7 +1177,7 @@
   },
   {
     "w": "degree",
-    "m": "bằng đại học",
+    "m": "độ (nhiệt độ), bằng đại học, học vị",
     "cat": "education",
     "p": "dᵻɡɹˈiː"
   },
@@ -1189,7 +1189,7 @@
   },
   {
     "w": "diploma",
-    "m": "bằng cao đẳng, văn bằng",
+    "m": "bằng cao đẳng, văn bằng, bằng chứng chỉ, bằng cấp, bằng tốt nghiệp",
     "cat": "education",
     "p": "dɪplˈoʊmə"
   },
@@ -1261,7 +1261,7 @@
   },
   {
     "w": "platform",
-    "m": "nền tảng",
+    "m": "sân ga, bến, ke ga, nền tảng, thềm ga",
     "cat": "technology",
     "p": "plˈætfɔːɹm"
   },
@@ -1303,7 +1303,7 @@
   },
   {
     "w": "stream",
-    "m": "phát trực tiếp",
+    "m": "con suối nhỏ, phát trực tiếp, dòng suối",
     "cat": "technology",
     "p": "stɹˈiːm"
   },
@@ -1819,7 +1819,7 @@
   },
   {
     "w": "set up",
-    "m": "thiết lập, thành lập",
+    "m": "thiết lập, thành lập, dựng nên, dựng lên",
     "cat": "phrasal",
     "p": "sˈɛt ˈʌp"
   },
@@ -1831,7 +1831,7 @@
   },
   {
     "w": "work out",
-    "m": "tìm ra, tập thể dục",
+    "m": "tìm ra, tập thể dục, giải quyết, tính toán ra",
     "cat": "phrasal",
     "p": "wˈɜːk ˈaʊt"
   },
@@ -1903,7 +1903,7 @@
   },
   {
     "w": "hold on",
-    "m": "chờ một chút",
+    "m": "chờ một chút, giữ máy, chờ; bám chắc",
     "cat": "phrasal",
     "p": "hˈoʊld ˈɔn"
   },
@@ -1927,13 +1927,13 @@
   },
   {
     "w": "stand for",
-    "m": "đại diện cho",
+    "m": "đại diện cho, tượng trưng; viết tắt của, ủng hộ",
     "cat": "phrasal",
     "p": "stˈænd fɔːɹ"
   },
   {
     "w": "stick to",
-    "m": "kiên trì, bám vào",
+    "m": "kiên trì, bám vào, bám sát, giữ vững",
     "cat": "phrasal",
     "p": "stˈɪk tuː"
   },
@@ -1951,7 +1951,7 @@
   },
   {
     "w": "break down",
-    "m": "hỏng, đổ vỡ",
+    "m": "hỏng, đổ vỡ, phân tích chi tiết, chia nhỏ",
     "cat": "phrasal",
     "p": "bɹˈeɪk dˈaʊn"
   },
@@ -1963,7 +1963,7 @@
   },
   {
     "w": "bring up",
-    "m": "nuôi dạy, đề cập",
+    "m": "nuôi dạy, đề cập, nuôi dưỡng, nhắc đến, nuôi nấng; nêu ra",
     "cat": "phrasal",
     "p": "bɹˈɪŋ ˈʌp"
   },
@@ -1975,7 +1975,7 @@
   },
   {
     "w": "catch up",
-    "m": "theo kịp, cập nhật",
+    "m": "theo kịp, cập nhật, bắt kịp, đuổi kịp",
     "cat": "phrasal",
     "p": "kˈætʃ ˈʌp"
   },
@@ -1987,7 +1987,7 @@
   },
   {
     "w": "come across",
-    "m": "tình cờ gặp",
+    "m": "tình cờ gặp, bắt gặp, gây ấn tượng",
     "cat": "phrasal",
     "p": "kˈʌm əkɹˈɑːs"
   },
@@ -2005,7 +2005,7 @@
   },
   {
     "w": "end up",
-    "m": "cuối cùng trở thành",
+    "m": "cuối cùng trở thành, cuối cùng rơi vào, kết cục, rốt cuộc lại",
     "cat": "phrasal",
     "p": "ˈɛnd ˈʌp"
   },
@@ -2071,7 +2071,7 @@
   },
   {
     "w": "pay back",
-    "m": "trả lại, đền đáp",
+    "m": "trả lại, đền đáp, trả nợ; trả đũa, trả thù",
     "cat": "phrasal",
     "p": "pˈeɪ bˈæk"
   },
@@ -2185,7 +2185,7 @@
   },
   {
     "w": "consider",
-    "m": "xem xét",
+    "m": "xem xét, cân nhắc",
     "cat": "advanced",
     "p": "kənsˈɪdɚ"
   },
@@ -2209,7 +2209,7 @@
   },
   {
     "w": "current",
-    "m": "hiện tại, hiện tại",
+    "m": "hiện tại, dòng chảy",
     "cat": "advanced",
     "p": "kˈɜːɹənt"
   },
@@ -2389,7 +2389,7 @@
   },
   {
     "w": "identify",
-    "m": "nhận dạng",
+    "m": "nhận dạng, xác định, nhận diện, nhận ra",
     "cat": "advanced",
     "p": "aɪdˈɛntᵻfˌaɪ"
   },
@@ -2503,7 +2503,7 @@
   },
   {
     "w": "obtain",
-    "m": "đạt được, có được",
+    "m": "đạt được, có được, thu được, giành được",
     "cat": "advanced",
     "p": "əbtˈeɪn"
   },
@@ -2557,7 +2557,7 @@
   },
   {
     "w": "present",
-    "m": "giới thiệu, hiện tại",
+    "m": "giới thiệu, hiện tại, trình bày",
     "cat": "advanced",
     "p": "pɹˈɛzənt"
   },
@@ -2647,7 +2647,7 @@
   },
   {
     "w": "require",
-    "m": "yêu cầu",
+    "m": "yêu cầu, đòi hỏi, cần",
     "cat": "advanced",
     "p": "ɹᵻkwˈaɪɚ"
   },
@@ -2665,7 +2665,7 @@
   },
   {
     "w": "significant",
-    "m": "đáng kể, có ý nghĩa",
+    "m": "đáng kể, có ý nghĩa, quan trọng, đáng chú ý",
     "cat": "advanced",
     "p": "sɪɡnˈɪfɪkənt"
   },
@@ -2749,7 +2749,7 @@
   },
   {
     "w": "view",
-    "m": "quan điểm, nhìn",
+    "m": "tầm nhìn, cảnh, quan điểm",
     "cat": "advanced",
     "p": "vjˈuː"
   },
@@ -2791,7 +2791,7 @@
   },
   {
     "w": "adequate",
-    "m": "đầy đủ",
+    "m": "đầy đủ, thích hợp, thỏa đáng",
     "cat": "advanced",
     "p": "ˈædɪkwət"
   },
@@ -2803,13 +2803,13 @@
   },
   {
     "w": "afford",
-    "m": "có đủ khả năng",
+    "m": "đủ tiền để mua, có đủ khả năng",
     "cat": "advanced",
     "p": "ɐfˈɔːɹd"
   },
   {
     "w": "agency",
-    "m": "cơ quan, đại lý",
+    "m": "cơ quan, đại lý, hãng",
     "cat": "advanced",
     "p": "ˈeɪdʒənsi"
   },
@@ -2851,7 +2851,7 @@
   },
   {
     "w": "apply",
-    "m": "áp dụng, xin việc",
+    "m": "áp dụng, xin việc, ứng dụng/xin, ứng dụng",
     "cat": "advanced",
     "p": "ɐplˈaɪ"
   },
@@ -3073,19 +3073,19 @@
   },
   {
     "w": "efficient",
-    "m": "hiệu quả",
+    "m": "hiệu quả, năng suất cao, tiết kiệm",
     "cat": "advanced",
     "p": "ɪfˈɪʃənt"
   },
   {
     "w": "either",
-    "m": "một trong hai",
+    "m": "hoặc là... hoặc là, một trong hai",
     "cat": "advanced",
     "p": "ˈiːðɚ"
   },
   {
     "w": "enable",
-    "m": "cho phép, giúp có thể",
+    "m": "cho phép, giúp có thể, tạo điều kiện",
     "cat": "advanced",
     "p": "ɛnˈeɪbəl"
   },
@@ -3217,7 +3217,7 @@
   },
   {
     "w": "highlight",
-    "m": "nhấn mạnh, điểm nổi bật",
+    "m": "nhấn mạnh, điểm nổi bật, nêu bật",
     "cat": "advanced",
     "p": "hˈaɪlaɪt"
   },
@@ -3289,7 +3289,7 @@
   },
   {
     "w": "intense",
-    "m": "mạnh mẽ, căng thẳng",
+    "m": "mạnh mẽ, căng thẳng, mãnh liệt, dữ dội",
     "cat": "advanced",
     "p": "ɪntˈɛns"
   },
@@ -3367,7 +3367,7 @@
   },
   {
     "w": "motivate",
-    "m": "động viên",
+    "m": "động viên, thúc đẩy",
     "cat": "advanced",
     "p": "mˈoʊɾᵻvˌeɪt"
   },
@@ -3499,7 +3499,7 @@
   },
   {
     "w": "rate",
-    "m": "tỉ lệ, đánh giá",
+    "m": "tỉ lệ, đánh giá, tỷ lệ, mức độ",
     "cat": "advanced",
     "p": "ɹˈeɪt"
   },
@@ -3559,7 +3559,7 @@
   },
   {
     "w": "review",
-    "m": "xem xét, đánh giá lại",
+    "m": "xem lại, đánh giá, ôn tập, xem xét, điểm phim/sách",
     "cat": "advanced",
     "p": "ɹᵻvjˈuː"
   },
@@ -3619,13 +3619,13 @@
   },
   {
     "w": "show",
-    "m": "chứng tỏ, buổi biểu diễn",
+    "m": "chỉ cho xem, chứng tỏ, buổi biểu diễn",
     "cat": "advanced",
     "p": "ʃˈoʊ"
   },
   {
     "w": "signal",
-    "m": "tín hiệu",
+    "m": "tín hiệu, báo hiệu, dấu hiệu",
     "cat": "advanced",
     "p": "sˈɪɡnəl"
   },
@@ -3715,7 +3715,7 @@
   },
   {
     "w": "transfer",
-    "m": "chuyển giao, chuyển khoản",
+    "m": "chuyển giao, chuyển khoản, chuyển tuyến, đổi xe/tàu",
     "cat": "advanced",
     "p": "tɹˈænsfɜː"
   },
@@ -3811,7 +3811,7 @@
   },
   {
     "w": "accordingly",
-    "m": "tương ứng, do vậy",
+    "m": "tương ứng, do vậy, do đó, theo đó",
     "cat": "advanced",
     "p": "ɐkˈɔːɹdɪŋli"
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "w": "broadly",
-    "m": "một cách tổng quát",
+    "m": "một cách tổng quát, nhìn chung, rộng rãi",
     "cat": "advanced",
     "p": "bɹˈɔːdli"
   },
@@ -3847,7 +3847,7 @@
   },
   {
     "w": "comparatively",
-    "m": "so sánh mà nói",
+    "m": "so sánh mà nói, một cách tương đối",
     "cat": "advanced",
     "p": "kəmpˈæɹətˌɪvli"
   },
@@ -3871,7 +3871,7 @@
   },
   {
     "w": "deliberately",
-    "m": "có chủ ý",
+    "m": "có chủ ý, cố tình, một cách cố ý",
     "cat": "advanced",
     "p": "dᵻlˈɪbɚɹətli"
   },
@@ -3907,7 +3907,7 @@
   },
   {
     "w": "frequently",
-    "m": "thường xuyên",
+    "m": "thường xuyên, hay xảy ra",
     "cat": "advanced",
     "p": "fɹˈiːkwəntli"
   },
@@ -4027,7 +4027,7 @@
   },
   {
     "w": "roughly",
-    "m": "khoảng, tương đối",
+    "m": "khoảng, tương đối, đại khái",
     "cat": "advanced",
     "p": "ɹˈʌfli"
   },
@@ -4105,7 +4105,7 @@
   },
   {
     "w": "abstract",
-    "m": "trừu tượng",
+    "m": "trừu tượng, tóm tắt (bài báo khoa học)",
     "cat": "advanced",
     "p": "ˈæbstɹækt"
   },
@@ -4135,7 +4135,7 @@
   },
   {
     "w": "address",
-    "m": "giải quyết, bài phát biểu",
+    "m": "địa chỉ, giải quyết, bài phát biểu, xử lý",
     "cat": "advanced",
     "p": "ɐdɹˈɛs"
   },
@@ -4177,7 +4177,7 @@
   },
   {
     "w": "aftermath",
-    "m": "hậu quả, kết quả sau",
+    "m": "hậu quả, kết quả sau, dư chấn",
     "cat": "advanced",
     "p": "ˈæftɚmˌæθ"
   },
@@ -4231,13 +4231,13 @@
   },
   {
     "w": "anticipate",
-    "m": "dự đoán, mong chờ",
+    "m": "dự đoán, mong chờ, mong đợi, dự kiến, tiên liệu, lường trước",
     "cat": "advanced",
     "p": "æntˈɪsᵻpˌeɪt"
   },
   {
     "w": "appeal",
-    "m": "kháng cáo, kêu gọi",
+    "m": "kháng cáo, kêu gọi, khiếu nại",
     "cat": "advanced",
     "p": "ɐpˈiːl"
   },
@@ -4315,7 +4315,7 @@
   },
   {
     "w": "bias",
-    "m": "thiên kiến",
+    "m": "thiên kiến, thiên vị, sai lệch, thành kiến, định kiến",
     "cat": "advanced",
     "p": "bˈaɪəs"
   },
@@ -4363,7 +4363,7 @@
   },
   {
     "w": "collect",
-    "m": "thu thập",
+    "m": "sưu tầm, thu thập, sưu tập, thu gom",
     "cat": "advanced",
     "p": "kəlˈɛkt"
   },
@@ -4435,7 +4435,7 @@
   },
   {
     "w": "crucial",
-    "m": "thiết yếu, cực kỳ quan trọng",
+    "m": "thiết yếu, cực kỳ quan trọng, then chốt, cốt yếu",
     "cat": "advanced",
     "p": "kɹˈuːʃəl"
   },
@@ -4465,7 +4465,7 @@
   },
   {
     "w": "derive",
-    "m": "bắt nguồn từ",
+    "m": "bắt nguồn từ, rút ra, xuất phát từ, lấy từ",
     "cat": "advanced",
     "p": "dᵻɹˈaɪv"
   },
@@ -4579,7 +4579,7 @@
   },
   {
     "w": "frustration",
-    "m": "sự thất vọng",
+    "m": "sự thất vọng, sự bực bội, ức chế",
     "cat": "advanced",
     "p": "fɹʌstɹˈeɪʃən"
   },
@@ -4591,7 +4591,7 @@
   },
   {
     "w": "genuine",
-    "m": "chân thật, thật sự",
+    "m": "chân thật, thật sự, thực sự, chân thực, chính hãng, thành thật",
     "cat": "advanced",
     "p": "dʒˈɛnjuːɪn"
   },
@@ -4657,7 +4657,7 @@
   },
   {
     "w": "initiative",
-    "m": "sáng kiến, chủ động",
+    "m": "sáng kiến, chủ động, bước đầu tiên",
     "cat": "advanced",
     "p": "ɪnˈɪʃiətˌɪv"
   },
@@ -4675,7 +4675,7 @@
   },
   {
     "w": "intense",
-    "m": "mãnh liệt",
+    "m": "mạnh mẽ, căng thẳng, mãnh liệt, dữ dội",
     "cat": "advanced",
     "p": "ɪntˈɛns"
   },
@@ -4705,7 +4705,7 @@
   },
   {
     "w": "launch",
-    "m": "ra mắt, phóng",
+    "m": "ra mắt, phóng, khởi động",
     "cat": "advanced",
     "p": "lˈɑːntʃ"
   },
@@ -4915,7 +4915,7 @@
   },
   {
     "w": "qualification",
-    "m": "trình độ, điều kiện",
+    "m": "bằng cấp, năng lực, trình độ, điều kiện, chứng chỉ",
     "cat": "advanced",
     "p": "kwˌɔlɪfɪkˈeɪʃən"
   },
@@ -4945,7 +4945,7 @@
   },
   {
     "w": "recommend",
-    "m": "giới thiệu, khuyến nghị",
+    "m": "giới thiệu, gợi ý, đề xuất, khuyến nghị, giới thiệu/khuyến nghị",
     "cat": "advanced",
     "p": "ɹˌɛkəmˈɛnd"
   },
@@ -4993,7 +4993,7 @@
   },
   {
     "w": "require",
-    "m": "yêu cầu",
+    "m": "yêu cầu, đòi hỏi, cần",
     "cat": "advanced",
     "p": "ɹᵻkwˈaɪɚ"
   },
@@ -5083,13 +5083,13 @@
   },
   {
     "w": "sufficient",
-    "m": "đủ",
+    "m": "đủ, thỏa đáng",
     "cat": "advanced",
     "p": "səfˈɪʃənt"
   },
   {
     "w": "survey",
-    "m": "khảo sát",
+    "m": "khảo sát, điều tra",
     "cat": "advanced",
     "p": "sˈɜːveɪ"
   },
@@ -5155,7 +5155,7 @@
   },
   {
     "w": "uniform",
-    "m": "đồng phục, đồng đều",
+    "m": "đồng phục, đồng đều, đồng nhất, thống nhất, nhất quán",
     "cat": "advanced",
     "p": "jˈuːnɪfˌɔːɹm"
   },
@@ -5215,13 +5215,13 @@
   },
   {
     "w": "yield",
-    "m": "sản lượng, nhượng bộ",
+    "m": "sản lượng, nhượng bộ, mang lại, sản xuất",
     "cat": "advanced",
     "p": "jˈiːld"
   },
   {
     "w": "cope with",
-    "m": "đương đầu với",
+    "m": "đương đầu với, đối phó với, xử lý, vượt qua",
     "cat": "phrasal",
     "p": "kˈoʊp wɪð"
   },
@@ -5251,7 +5251,7 @@
   },
   {
     "w": "come down with",
-    "m": "bị ốm với",
+    "m": "bị ốm với, bị mắc (bệnh), đổ bệnh",
     "cat": "phrasal",
     "p": "kˈʌm dˈaʊn wɪð"
   },
@@ -5281,7 +5281,7 @@
   },
   {
     "w": "fall behind",
-    "m": "bị tụt hậu",
+    "m": "bị tụt hậu, tụt lại phía sau",
     "cat": "phrasal",
     "p": "fˈɔːl bᵻhˈaɪnd"
   },
@@ -5335,7 +5335,7 @@
   },
   {
     "w": "live up to",
-    "m": "xứng đáng với kỳ vọng",
+    "m": "xứng đáng với kỳ vọng, sống đúng với; đáp ứng (kỳ vọng)",
     "cat": "phrasal",
     "p": "lˈaɪv ˈʌp tuː"
   },
@@ -5359,7 +5359,7 @@
   },
   {
     "w": "pass on",
-    "m": "truyền lại, từ chối",
+    "m": "truyền lại, từ chối, chuyển tiếp, truyền đạt",
     "cat": "phrasal",
     "p": "pˈæs ˈɔn"
   },
@@ -5509,13 +5509,13 @@
   },
   {
     "w": "adequate",
-    "m": "đầy đủ, thích hợp",
+    "m": "đầy đủ, thích hợp, thỏa đáng",
     "cat": "advanced",
     "p": "ˈædɪkwət"
   },
   {
     "w": "ambiguous",
-    "m": "mơ hồ",
+    "m": "mơ hồ, không rõ ràng, lưỡng nghĩa, có thể hiểu nhiều cách",
     "cat": "advanced",
     "p": "æmbˈɪɡjuːəs"
   },
@@ -5539,7 +5539,7 @@
   },
   {
     "w": "authentic",
-    "m": "chân thực, xác thực",
+    "m": "chân thực, xác thực, đích thực, chính gốc, chính hãng",
     "cat": "advanced",
     "p": "ɔːθˈɛntɪk"
   },
@@ -5581,7 +5581,7 @@
   },
   {
     "w": "deliberate",
-    "m": "cố ý",
+    "m": "cố ý, thảo luận kỹ, có chủ ý, thận trọng; cân nhắc",
     "cat": "advanced",
     "p": "dᵻlˈɪbɚɹət"
   },
@@ -5605,7 +5605,7 @@
   },
   {
     "w": "evident",
-    "m": "rõ ràng",
+    "m": "rõ ràng, hiển nhiên",
     "cat": "advanced",
     "p": "ˈɛvɪdənt"
   },
@@ -5623,19 +5623,19 @@
   },
   {
     "w": "genuine",
-    "m": "thực sự, chân thực",
+    "m": "chân thật, thật sự, thực sự, chân thực, chính hãng, thành thật",
     "cat": "advanced",
     "p": "dʒˈɛnjuːɪn"
   },
   {
     "w": "gradual",
-    "m": "dần dần",
+    "m": "dần dần, từ từ",
     "cat": "advanced",
     "p": "ɡɹˈædʒuːəl"
   },
   {
     "w": "implicit",
-    "m": "ngầm hiểu",
+    "m": "ngầm hiểu, ẩn ý, không nói thẳng, ngầm định, ẩn chứa",
     "cat": "advanced",
     "p": "ɪmplˈɪsɪt"
   },
@@ -5647,7 +5647,7 @@
   },
   {
     "w": "innovative",
-    "m": "sáng tạo, đổi mới",
+    "m": "sáng tạo, đổi mới, cải tiến",
     "cat": "advanced",
     "p": "ˈɪnəvˌeɪɾɪv"
   },
@@ -5683,7 +5683,7 @@
   },
   {
     "w": "partial",
-    "m": "một phần",
+    "m": "một phần, bộ phận, thiên vị",
     "cat": "advanced",
     "p": "pˈɑːɹʃəl"
   },
@@ -5755,7 +5755,7 @@
   },
   {
     "w": "rigorous",
-    "m": "nghiêm ngặt",
+    "m": "nghiêm ngặt, chặt chẽ",
     "cat": "advanced",
     "p": "ɹˈɪɡɚɹəs"
   },
@@ -5773,7 +5773,7 @@
   },
   {
     "w": "significant",
-    "m": "quan trọng, đáng kể",
+    "m": "đáng kể, có ý nghĩa, quan trọng, đáng chú ý",
     "cat": "advanced",
     "p": "sɪɡnˈɪfɪkənt"
   },
@@ -5809,7 +5809,7 @@
   },
   {
     "w": "transparent",
-    "m": "minh bạch, trong suốt",
+    "m": "minh bạch, trong suốt, rõ ràng",
     "cat": "advanced",
     "p": "tɹænspˈæɹənt"
   },
@@ -5845,7 +5845,7 @@
   },
   {
     "w": "adequate",
-    "m": "đủ",
+    "m": "đầy đủ, thích hợp, thỏa đáng",
     "cat": "advanced",
     "p": "ˈædɪkwət"
   },
@@ -5869,7 +5869,7 @@
   },
   {
     "w": "abstract",
-    "m": "trừu tượng",
+    "m": "trừu tượng, tóm tắt (bài báo khoa học)",
     "cat": "advanced",
     "p": "ˈæbstɹækt"
   },
@@ -5893,7 +5893,7 @@
   },
   {
     "w": "mutual",
-    "m": "lẫn nhau",
+    "m": "lẫn nhau, tương hỗ, chung",
     "cat": "advanced",
     "p": "mjˈuːtʃuːəl"
   },
@@ -5905,13 +5905,13 @@
   },
   {
     "w": "innovative",
-    "m": "cải tiến",
+    "m": "sáng tạo, đổi mới, cải tiến",
     "cat": "advanced",
     "p": "ˈɪnəvˌeɪɾɪv"
   },
   {
     "w": "efficient",
-    "m": "hiệu suất cao",
+    "m": "hiệu quả, năng suất cao, tiết kiệm",
     "cat": "advanced",
     "p": "ɪfˈɪʃənt"
   },
@@ -5965,7 +5965,7 @@
   },
   {
     "w": "virtual",
-    "m": "ảo",
+    "m": "ảo, ảo/trực tuyến, mô phỏng",
     "cat": "advanced",
     "p": "vˈɜːtʃuːəl"
   },

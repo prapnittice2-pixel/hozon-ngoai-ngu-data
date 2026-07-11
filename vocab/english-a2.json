@@ -97,7 +97,7 @@
   },
   {
     "w": "degree",
-    "m": "độ (nhiệt độ)",
+    "m": "độ (nhiệt độ), bằng đại học, học vị",
     "cat": "weather",
     "p": "dᵻɡɹˈiː"
   },
@@ -139,7 +139,7 @@
   },
   {
     "w": "train",
-    "m": "tàu hỏa",
+    "m": "tàu hỏa, luyện tập, huấn luyện",
     "cat": "transport",
     "p": "tɹˈeɪn"
   },
@@ -187,7 +187,7 @@
   },
   {
     "w": "drive",
-    "m": "lái xe",
+    "m": "lái xe, thôi thúc, động lực, thúc đẩy",
     "cat": "transport",
     "p": "dɹˈaɪv"
   },
@@ -205,7 +205,7 @@
   },
   {
     "w": "journey",
-    "m": "chuyến đi",
+    "m": "chuyến đi, hành trình",
     "cat": "transport",
     "p": "dʒˈɜːni"
   },
@@ -217,7 +217,7 @@
   },
   {
     "w": "platform",
-    "m": "sân ga, bến",
+    "m": "sân ga, bến, ke ga, nền tảng, thềm ga",
     "cat": "transport",
     "p": "plˈætfɔːɹm"
   },
@@ -301,13 +301,13 @@
   },
   {
     "w": "afford",
-    "m": "đủ tiền để mua",
+    "m": "đủ tiền để mua, có đủ khả năng",
     "cat": "shopping",
     "p": "ɐfˈɔːɹd"
   },
   {
     "w": "market",
-    "m": "chợ",
+    "m": "chợ, thị trường",
     "cat": "shopping",
     "p": "mˈɑːɹkɪt"
   },
@@ -349,7 +349,7 @@
   },
   {
     "w": "change",
-    "m": "tiền thối lại",
+    "m": "tiền thối lại, thay đổi",
     "cat": "shopping",
     "p": "tʃˈeɪndʒ"
   },
@@ -493,7 +493,7 @@
   },
   {
     "w": "cold",
-    "m": "cảm lạnh",
+    "m": "lạnh, cảm lạnh",
     "cat": "health",
     "p": "kˈoʊld"
   },
@@ -553,7 +553,7 @@
   },
   {
     "w": "embarrassed",
-    "m": "xấu hổ",
+    "m": "xấu hổ, ngại ngùng, ngượng ngùng",
     "cat": "emotion",
     "p": "ɛmbˈæɹəst"
   },
@@ -607,7 +607,7 @@
   },
   {
     "w": "shy",
-    "m": "nhút nhát",
+    "m": "nhút nhát, e thẹn",
     "cat": "emotion",
     "p": "ʃˈaɪ"
   },
@@ -637,7 +637,7 @@
   },
   {
     "w": "cook",
-    "m": "nấu ăn",
+    "m": "nấu ăn, đầu bếp",
     "cat": "hobby",
     "p": "kˈʊk"
   },
@@ -667,7 +667,7 @@
   },
   {
     "w": "collect",
-    "m": "sưu tầm",
+    "m": "sưu tầm, thu thập, sưu tập, thu gom",
     "cat": "hobby",
     "p": "kəlˈɛkt"
   },
@@ -691,7 +691,7 @@
   },
   {
     "w": "hike",
-    "m": "leo núi, đi bộ dã ngoại",
+    "m": "leo núi, đi bộ dã ngoại, đi bộ đường dài",
     "cat": "hobby",
     "p": "hˈaɪk"
   },
@@ -709,7 +709,7 @@
   },
   {
     "w": "watch",
-    "m": "xem",
+    "m": "đồng hồ đeo tay, xem, theo dõi",
     "cat": "hobby",
     "p": "wˈɑːtʃ"
   },
@@ -883,7 +883,7 @@
   },
   {
     "w": "fork",
-    "m": "cái dĩa",
+    "m": "cái nĩa, cái dĩa",
     "cat": "food",
     "p": "fˈɔːɹk"
   },
@@ -967,7 +967,7 @@
   },
   {
     "w": "exam",
-    "m": "kỳ thi",
+    "m": "bài kiểm tra, kỳ thi, bài thi",
     "cat": "work",
     "p": "ɛɡzˈæm"
   },
@@ -979,7 +979,7 @@
   },
   {
     "w": "pass",
-    "m": "đậu, qua",
+    "m": "đậu, qua, đỗ (kỳ thi)",
     "cat": "work",
     "p": "pˈæs"
   },
@@ -1135,13 +1135,13 @@
   },
   {
     "w": "sink",
-    "m": "bồn rửa",
+    "m": "bồn rửa, chìm",
     "cat": "house",
     "p": "sˈɪŋk"
   },
   {
     "w": "shower",
-    "m": "vòi sen",
+    "m": "vòi sen, cơn mưa rào",
     "cat": "house",
     "p": "ʃˈaʊɚ"
   },
@@ -1495,7 +1495,7 @@
   },
   {
     "w": "either",
-    "m": "hoặc là... hoặc là",
+    "m": "hoặc là... hoặc là, một trong hai",
     "cat": "connector",
     "p": "ˈiːðɚ"
   },
@@ -1615,7 +1615,7 @@
   },
   {
     "w": "loud",
-    "m": "ồn ào",
+    "m": "to (âm thanh), ồn ào",
     "cat": "adjective",
     "p": "lˈaʊd"
   },
@@ -1723,13 +1723,13 @@
   },
   {
     "w": "finish",
-    "m": "hoàn thành",
+    "m": "kết thúc, hoàn thành",
     "cat": "verb",
     "p": "fˈɪnɪʃ"
   },
   {
     "w": "stop",
-    "m": "dừng lại",
+    "m": "dừng lại, trạm dừng",
     "cat": "verb",
     "p": "stˈɑːp"
   },
@@ -1741,7 +1741,7 @@
   },
   {
     "w": "change",
-    "m": "thay đổi",
+    "m": "tiền thối lại, thay đổi",
     "cat": "verb",
     "p": "tʃˈeɪndʒ"
   },
@@ -1783,7 +1783,7 @@
   },
   {
     "w": "show",
-    "m": "chỉ, cho xem",
+    "m": "chỉ cho xem, chứng tỏ, buổi biểu diễn",
     "cat": "verb",
     "p": "ʃˈoʊ"
   },
@@ -1861,7 +1861,7 @@
   },
   {
     "w": "collect",
-    "m": "thu thập, sưu tầm",
+    "m": "sưu tầm, thu thập, sưu tập, thu gom",
     "cat": "verb",
     "p": "kəlˈɛkt"
   },
@@ -1897,7 +1897,7 @@
   },
   {
     "w": "save",
-    "m": "tiết kiệm, cứu",
+    "m": "tiết kiệm, cứu, lưu lại",
     "cat": "verb",
     "p": "sˈeɪv"
   },
@@ -2047,7 +2047,7 @@
   },
   {
     "w": "break",
-    "m": "vỡ, nghỉ giải lao",
+    "m": "vỡ, bẻ gãy, nghỉ giải lao",
     "cat": "verb",
     "p": "bɹˈeɪk"
   },
@@ -2083,7 +2083,7 @@
   },
   {
     "w": "review",
-    "m": "xem lại, đánh giá",
+    "m": "xem lại, đánh giá, ôn tập, xem xét, điểm phim/sách",
     "cat": "verb",
     "p": "ɹᵻvjˈuː"
   },
@@ -2095,7 +2095,7 @@
   },
   {
     "w": "celebrate",
-    "m": "kỷ niệm, ăn mừng",
+    "m": "kỷ niệm, ăn mừng, tổ chức lễ",
     "cat": "verb",
     "p": "sˈɛləbɹˌeɪt"
   },
@@ -2161,7 +2161,7 @@
   },
   {
     "w": "patient",
-    "m": "kiên nhẫn",
+    "m": "kiên nhẫn, bệnh nhân",
     "cat": "adjective",
     "p": "pˈeɪʃənt"
   },
@@ -2209,7 +2209,7 @@
   },
   {
     "w": "messy",
-    "m": "lộn xộn",
+    "m": "lộn xộn, bừa bộn",
     "cat": "adjective",
     "p": "mˈɛsi"
   },
@@ -2269,13 +2269,13 @@
   },
   {
     "w": "general",
-    "m": "chung, tổng quát",
+    "m": "chung, tổng quát, tướng quân",
     "cat": "adjective",
     "p": "dʒˈɛnɚɹəl"
   },
   {
     "w": "similar",
-    "m": "giống nhau",
+    "m": "giống nhau, tương tự",
     "cat": "adjective",
     "p": "sˈɪmɪlɚ"
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "w": "satisfied",
-    "m": "thỏa mãn",
+    "m": "thỏa mãn, hài lòng",
     "cat": "adjective",
     "p": "sˈæɾɪsfˌaɪd"
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "w": "second",
-    "m": "giây",
+    "m": "thứ hai, giây",
     "cat": "time",
     "p": "sˈɛkənd"
   },
@@ -2551,7 +2551,7 @@
   },
   {
     "w": "regularly",
-    "m": "đều đặn",
+    "m": "đều đặn, thường xuyên",
     "cat": "adverb",
     "p": "ɹˈɛɡjʊlɚli"
   },
@@ -2629,7 +2629,7 @@
   },
   {
     "w": "competition",
-    "m": "cuộc thi",
+    "m": "cuộc thi, cạnh tranh, cuộc đua",
     "cat": "event",
     "p": "kˌɑːmpətˈɪʃən"
   },
@@ -2647,7 +2647,7 @@
   },
   {
     "w": "performance",
-    "m": "buổi biểu diễn",
+    "m": "buổi biểu diễn, hiệu suất",
     "cat": "event",
     "p": "pɚfˈɔːɹməns"
   },

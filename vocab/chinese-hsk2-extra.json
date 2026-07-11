@@ -8,7 +8,7 @@
   {
     "w": "难过",
     "p": "nán guò",
-    "m": "buồn bã, đau lòng",
+    "m": "buồn bã, khổ tâm, đau lòng, đau khổ, khó chịu",
     "cat": "emotion"
   },
   {
@@ -194,7 +194,7 @@
   {
     "w": "虽然",
     "p": "suī rán",
-    "m": "mặc dù, dù rằng",
+    "m": "mặc dù, tuy nhiên, dù rằng, tuy rằng",
     "cat": "particle"
   },
   {
@@ -212,7 +212,7 @@
   {
     "w": "所以",
     "p": "suǒ yǐ",
-    "m": "nên, vì vậy",
+    "m": "vì vậy, cho nên, do đó, vì thế",
     "cat": "particle"
   },
   {
@@ -248,7 +248,7 @@
   {
     "w": "还",
     "p": "huán",
-    "m": "trả lại, hoàn lại",
+    "m": "vẫn còn, nữa, ngoài ra, trả lại, hoàn lại",
     "cat": "verb"
   },
   {
@@ -362,7 +362,7 @@
   {
     "w": "放",
     "p": "fàng",
-    "m": "đặt, để, bỏ",
+    "m": "đặt, thả, cho, để, bỏ",
     "cat": "verb"
   },
   {
@@ -674,7 +674,7 @@
   {
     "w": "只",
     "p": "zhī",
-    "m": "con (lượng từ cho động vật, tay, chân)",
+    "m": "chỉ, chỉ có, con (lượng từ cho động vật, tay, chân)",
     "cat": "number"
   },
   {
@@ -692,7 +692,7 @@
   {
     "w": "块",
     "p": "kuài",
-    "m": "đồng (tiền); cục, miếng",
+    "m": "đồng (tiền tệ), cục, miếng",
     "cat": "number"
   },
   {
@@ -1424,7 +1424,7 @@
   {
     "w": "电视",
     "p": "diàn shì",
-    "m": "tivi, truyền hình",
+    "m": "ti vi, truyền hình, tivi",
     "cat": "home"
   },
   {
@@ -2090,19 +2090,19 @@
   {
     "w": "元",
     "p": "yuán",
-    "m": "đồng (đơn vị tiền tệ TQ)",
+    "m": "nhân dân tệ (đơn vị tiền), đồng (đơn vị tiền tệ TQ)",
     "cat": "money"
   },
   {
     "w": "角",
     "p": "jiǎo",
-    "m": "hào (1/10 đồng)",
+    "m": "hào (1/10 đồng), góc",
     "cat": "money"
   },
   {
     "w": "分",
     "p": "fēn",
-    "m": "xu (1/100 đồng)",
+    "m": "phút, phần, xu (1/100 đồng)",
     "cat": "money"
   },
   {
@@ -2366,7 +2366,7 @@
   {
     "w": "过去",
     "p": "guò qù",
-    "m": "sang đó, đi qua",
+    "m": "sang đó, đi qua, quá khứ",
     "cat": "verb"
   },
   {
@@ -2672,7 +2672,7 @@
   {
     "w": "一直",
     "p": "yī zhí",
-    "m": "liên tục, mãi",
+    "m": "liên tục, mãi mãi, thẳng, suốt, cứ, luôn luôn",
     "cat": "default"
   },
   {
@@ -2684,7 +2684,7 @@
   {
     "w": "还",
     "p": "hái",
-    "m": "còn, vẫn còn",
+    "m": "vẫn còn, nữa, ngoài ra, trả lại, hoàn lại",
     "cat": "default"
   },
   {
@@ -2702,7 +2702,7 @@
   {
     "w": "只",
     "p": "zhǐ",
-    "m": "chỉ, chỉ có",
+    "m": "chỉ, chỉ có, con (lượng từ cho động vật, tay, chân)",
     "cat": "particle"
   },
   {
@@ -2738,7 +2738,7 @@
   {
     "w": "啊",
     "p": "ā",
-    "m": "à, ơi (trợ từ cảm thán)",
+    "m": "à, ừ (thán từ), ơi (trợ từ cảm thán), a (thán từ)",
     "cat": "particle"
   },
   {
@@ -2798,7 +2798,7 @@
   {
     "w": "叫",
     "p": "jiào",
-    "m": "gọi, kêu, tên là",
+    "m": "tên là, gọi, bảo, khiến, kêu",
     "cat": "verb"
   },
   {
@@ -2846,7 +2846,7 @@
   {
     "w": "站",
     "p": "zhàn",
-    "m": "đứng",
+    "m": "trạm, bến, ga, đứng",
     "cat": "verb"
   },
   {
@@ -2942,7 +2942,7 @@
   {
     "w": "对",
     "p": "duì",
-    "m": "đúng, phải",
+    "m": "đúng, phải, đối với, cặp (lượng từ)",
     "cat": "adjective"
   },
   {
@@ -3026,7 +3026,7 @@
   {
     "w": "开心",
     "p": "kāi xīn",
-    "m": "vui vẻ, vui mừng",
+    "m": "vui lòng, phấn khởi, vui vẻ, vui mừng, sung sướng",
     "cat": "emotion"
   },
   {
@@ -3038,7 +3038,7 @@
   {
     "w": "着急",
     "p": "zháo jí",
-    "m": "lo lắng, nóng lòng",
+    "m": "lo lắng, nóng lòng, sốt ruột",
     "cat": "emotion"
   },
   {
@@ -3392,7 +3392,7 @@
   {
     "w": "过去",
     "p": "guò qù",
-    "m": "quá khứ",
+    "m": "sang đó, đi qua, quá khứ",
     "cat": "time"
   },
   {

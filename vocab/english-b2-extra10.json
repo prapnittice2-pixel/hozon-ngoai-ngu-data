@@ -13,7 +13,7 @@
   },
   {
     "w": "conscientious",
-    "m": "tận tâm chu đáo",
+    "m": "có lương tâm, cẩn thận có trách nhiệm, tận tâm chu đáo",
     "cat": "tính từ",
     "p": "kˌɑːnsɪˈɛnʃəs"
   },
@@ -85,7 +85,7 @@
   },
   {
     "w": "dedicated",
-    "m": "hết lòng",
+    "m": "tận tụy, cống hiến, hết lòng",
     "cat": "tính từ",
     "p": "dˈɛdᵻkˌeɪɾᵻd"
   },
@@ -109,7 +109,7 @@
   },
   {
     "w": "resilient",
-    "m": "kiên cường",
+    "m": "phục hồi, kiên cường, linh hoạt",
     "cat": "tính từ",
     "p": "ɹᵻsˈɪliənt"
   },
@@ -121,7 +121,7 @@
   },
   {
     "w": "adaptable",
-    "m": "dễ thích nghi",
+    "m": "có khả năng thích nghi, linh hoạt",
     "cat": "tính từ",
     "p": "ɐdˈæptəbəl"
   },
@@ -169,7 +169,7 @@
   },
   {
     "w": "innovative",
-    "m": "đổi mới",
+    "m": "sáng tạo, đổi mới, cải tiến",
     "cat": "tính từ",
     "p": "ˈɪnəvˌeɪɾɪv"
   },
@@ -199,7 +199,7 @@
   },
   {
     "w": "shrewd",
-    "m": "tinh ranh khôn khéo",
+    "m": "khôn ngoan, sắc bén, tinh ranh khôn khéo",
     "cat": "tính từ",
     "p": "ʃɹˈuːd"
   },
@@ -325,7 +325,7 @@
   },
   {
     "w": "obstinate",
-    "m": "ngoan cố",
+    "m": "bướng bỉnh, cứng đầu, ngoan cố",
     "cat": "tính từ",
     "p": "ˈɑːbstᵻnət"
   },
@@ -361,7 +361,7 @@
   },
   {
     "w": "rash",
-    "m": "hấp tấp",
+    "m": "phát ban, hấp tấp",
     "cat": "tính từ",
     "p": "ɹˈæʃ"
   },
@@ -415,7 +415,7 @@
   },
   {
     "w": "shy",
-    "m": "e thẹn",
+    "m": "nhút nhát, e thẹn",
     "cat": "tính từ",
     "p": "ʃˈaɪ"
   },
@@ -463,7 +463,7 @@
   },
   {
     "w": "outgoing",
-    "m": "cởi mở năng động",
+    "m": "hướng ngoại; dễ gần, cởi mở năng động",
     "cat": "tính từ",
     "p": "aʊtɡˈoʊɪŋ"
   },
@@ -523,7 +523,7 @@
   },
   {
     "w": "considerate",
-    "m": "chu đáo",
+    "m": "ân cần; quan tâm đến người khác, chu đáo",
     "cat": "tính từ",
     "p": "kənsˈɪdɚɹət"
   },
@@ -703,7 +703,7 @@
   },
   {
     "w": "condescending",
-    "m": "kẻ cả bề trên",
+    "m": "kiêu ngạo, coi thường người khác, kẻ cả bề trên",
     "cat": "tính từ",
     "p": "kˌɑːndᵻsˈɛndɪŋ"
   },
@@ -853,7 +853,7 @@
   },
   {
     "w": "gloomy",
-    "m": "ảm đạm",
+    "m": "u ám, buồn rầu, ảm đạm, bi quan",
     "cat": "tính từ",
     "p": "ɡlˈuːmi"
   },
@@ -1051,7 +1051,7 @@
   },
   {
     "w": "harmony",
-    "m": "sự hòa hợp",
+    "m": "hòa âm, sự hòa hợp",
     "cat": "society",
     "p": "hˈɑːɹməni"
   },
@@ -1093,7 +1093,7 @@
   },
   {
     "w": "integration",
-    "m": "sự hòa nhập",
+    "m": "sự hòa nhập (xã hội), tích hợp, kết hợp, hội nhập",
     "cat": "society",
     "p": "ˌɪntᵻɡɹˈeɪʃən"
   },
@@ -1123,13 +1123,13 @@
   },
   {
     "w": "bias",
-    "m": "thiên kiến",
+    "m": "thiên kiến, thiên vị, sai lệch, thành kiến, định kiến",
     "cat": "society",
     "p": "bˈaɪəs"
   },
   {
     "w": "stereotype",
-    "m": "khuôn mẫu rập khuôn",
+    "m": "định kiến, khuôn mẫu rập khuôn",
     "cat": "society",
     "p": "stˈɛɹɪˌoʊtaɪp"
   },
@@ -1345,7 +1345,7 @@
   },
   {
     "w": "nepotism",
-    "m": "sự thiên vị họ hàng",
+    "m": "thiên vị người thân, gia đình trị, sự thiên vị họ hàng",
     "cat": "society",
     "p": "nˈɛpətˌɪzəm"
   },
@@ -1357,7 +1357,7 @@
   },
   {
     "w": "meritocracy",
-    "m": "chế độ trọng dụng nhân tài",
+    "m": "xã hội trọng tài, chế độ trọng dụng nhân tài",
     "cat": "society",
     "p": "mˌɛɹɪtˈɑːkɹəsi"
   },
@@ -1417,7 +1417,7 @@
   },
   {
     "w": "regression",
-    "m": "sự thụt lùi",
+    "m": "hồi quy, sự thụt lùi",
     "cat": "society",
     "p": "ɹᵻɡɹˈɛʃən"
   },
@@ -1429,7 +1429,7 @@
   },
   {
     "w": "momentum",
-    "m": "đà phát triển",
+    "m": "đà, xung lực",
     "cat": "society",
     "p": "moʊmˈɛntəm"
   },
@@ -1477,7 +1477,7 @@
   },
   {
     "w": "incentive",
-    "m": "động lực khuyến khích",
+    "m": "động lực khuyến khích, ưu đãi, phần thưởng, sự khích lệ",
     "cat": "society",
     "p": "ɪnsˈɛntɪv"
   },
