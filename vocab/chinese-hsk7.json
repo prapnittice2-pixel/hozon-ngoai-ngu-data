@@ -3,36 +3,36 @@
     "w": "质化研究",
     "p": "zhìhuà yánjiū",
     "m": "nghiên cứu định tính",
-    "example": "质化研究，nghiên。",
-    "example_vi": "nghiên cứu định tính."
+    "example": "这项研究采用质化研究方法。",
+    "example_vi": "Nghiên cứu này áp dụng phương pháp nghiên cứu định tính."
   },
   {
     "w": "公共物品",
     "p": "gōnggòng wùpǐn",
     "m": "hàng hóa công cộng",
-    "example": "公共物品，hàng h。",
-    "example_vi": "hàng hóa công cộng."
+    "example": "道路属于公共物品。",
+    "example_vi": "Đường xá thuộc về hàng hóa công cộng."
   },
   {
     "w": "意志力",
     "p": "yì zhì lì",
     "m": "ý chí, nghị lực",
-    "example": "意志力，ý chí,。",
-    "example_vi": "ý chí, nghị lực."
+    "example": "完成这个目标需要很强的意志力。",
+    "example_vi": "Hoàn thành mục tiêu này cần ý chí rất mạnh mẽ."
   },
   {
     "w": "公共产品",
     "p": "gōng gòng chǎn pǐn",
     "m": "hàng hóa công cộng",
-    "example": "公共产品，hàng h。",
-    "example_vi": "hàng hóa công cộng."
+    "example": "路灯是一种公共产品。",
+    "example_vi": "Đèn đường là một loại hàng hóa công cộng."
   },
   {
     "w": "公共利益",
     "p": "gōng gòng lì yì",
     "m": "lợi ích công cộng",
-    "example": "公共利益，lợi íc。",
-    "example_vi": "lợi ích công cộng."
+    "example": "政策要考虑公共利益。",
+    "example_vi": "Chính sách phải xem xét lợi ích công cộng."
   },
   {
     "w": "污名化",
@@ -45,22 +45,22 @@
     "w": "通胀",
     "p": "tōng zhàng",
     "m": "lạm phát",
-    "example": "通胀，lạm ph。",
-    "example_vi": "lạm phát."
+    "example": "今年通胀率有所上升。",
+    "example_vi": "Tỷ lệ lạm phát năm nay đã tăng lên phần nào."
   },
   {
     "w": "通缩",
     "p": "tōng suō",
     "m": "giảm phát",
-    "example": "通缩，giảm p。",
-    "example_vi": "giảm phát."
+    "example": "这个国家出现了通缩现象。",
+    "example_vi": "Quốc gia này đã xuất hiện hiện tượng giảm phát."
   },
   {
     "w": "急救",
     "p": "jí jiù",
     "m": "cấp cứu",
-    "example": "急救，cấp cứ。",
-    "example_vi": "cấp cứu."
+    "example": "他学习了急救知识。",
+    "example_vi": "Anh ấy đã học kiến thức cấp cứu."
   },
   {
     "w": "生物识别",
@@ -87,92 +87,92 @@
     "w": "荒漠化",
     "p": "huāng mò huà",
     "m": "sa mạc hóa",
-    "example": "荒漠化，sa mạc。",
-    "example_vi": "sa mạc hóa."
+    "example": "这个地区面临荒漠化问题。",
+    "example_vi": "Khu vực này đối mặt với vấn đề sa mạc hóa."
   },
   {
     "w": "自然灾害",
     "p": "zì rán zāi hài",
     "m": "thiên tai",
-    "example": "自然灾害，thiên 。",
-    "example_vi": "thiên tai."
+    "example": "这个地区经常发生自然灾害。",
+    "example_vi": "Khu vực này thường xuyên xảy ra thiên tai."
   },
   {
     "w": "营收",
     "p": "yíng shōu",
     "m": "doanh thu",
-    "example": "营收，doanh 。",
-    "example_vi": "doanh thu."
+    "example": "公司今年营收增长了。",
+    "example_vi": "Doanh thu của công ty năm nay đã tăng lên."
   },
   {
     "w": "电子商务",
     "p": "diàn zǐ shāng wù",
     "m": "thương mại điện tử",
-    "example": "电子商务，thương。",
-    "example_vi": "thương mại điện tử."
+    "example": "他从事电子商务行业。",
+    "example_vi": "Anh ấy làm việc trong ngành thương mại điện tử."
   },
   {
     "w": "社会阶层",
     "p": "shè huì jiē céng",
     "m": "tầng lớp xã hội",
-    "example": "社会阶层，tầng l。",
-    "example_vi": "tầng lớp xã hội."
+    "example": "这本书分析了社会阶层。",
+    "example_vi": "Cuốn sách này đã phân tích tầng lớp xã hội."
   },
   {
     "w": "社会公正",
     "p": "shè huì gōng zhèng",
     "m": "công bằng xã hội",
-    "example": "社会公正，công b。",
-    "example_vi": "công bằng xã hội."
+    "example": "我们要维护社会公正。",
+    "example_vi": "Chúng ta phải duy trì công bằng xã hội."
   },
   {
     "w": "自尊",
     "p": "zì zūn",
     "m": "lòng tự trọng",
-    "example": "自尊，lòng t。",
-    "example_vi": "lòng tự trọng."
+    "example": "每个人都需要自尊。",
+    "example_vi": "Mỗi người đều cần lòng tự trọng."
   },
   {
     "w": "初创公司",
     "p": "chū chuàng gōng sī",
     "m": "công ty khởi nghiệp",
-    "example": "初创公司，công t。",
-    "example_vi": "công ty khởi nghiệp."
+    "example": "他加入了一家初创公司。",
+    "example_vi": "Anh ấy đã gia nhập một công ty khởi nghiệp."
   },
   {
     "w": "远程办公",
     "p": "yuǎn chéng bàn gōng",
     "m": "làm việc từ xa",
-    "example": "远程办公，làm vi。",
-    "example_vi": "làm việc từ xa."
+    "example": "公司允许员工远程办公。",
+    "example_vi": "Công ty cho phép nhân viên làm việc từ xa."
   },
   {
     "w": "太极拳",
     "p": "tài jí quán",
     "m": "thái cực quyền",
-    "example": "太极拳，thái c。",
-    "example_vi": "thái cực quyền."
+    "example": "爷爷每天早上打太极拳。",
+    "example_vi": "Ông nội mỗi sáng đều luyện thái cực quyền."
   },
   {
     "w": "反恐",
     "p": "fǎn kǒng",
     "m": "chống khủng bố",
-    "example": "反恐，chống 。",
-    "example_vi": "chống khủng bố."
+    "example": "各国加强了反恐合作。",
+    "example_vi": "Các nước đã tăng cường hợp tác chống khủng bố."
   },
   {
     "w": "教练员",
     "p": "jiào liàn yuán",
     "m": "huấn luyện viên",
-    "example": "教练员，huấn l。",
-    "example_vi": "huấn luyện viên."
+    "example": "他是国家队的教练员。",
+    "example_vi": "Anh ấy là huấn luyện viên của đội tuyển quốc gia."
   },
   {
     "w": "裁判员",
     "p": "cái pàn yuán",
     "m": "trọng tài",
-    "example": "裁判员，trọng 。",
-    "example_vi": "trọng tài."
+    "example": "裁判员宣布了比赛结果。",
+    "example_vi": "Trọng tài đã công bố kết quả trận đấu."
   },
   {
     "w": "焦灼不安",

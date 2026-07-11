@@ -10,22 +10,22 @@
     "w": "浮光掠影",
     "p": "fú guāng lüè yǐng",
     "m": "hời hợt, không đi vào chiều sâu",
-    "example": "浮光掠影，hời hợ。",
-    "example_vi": "hời hợt, không đi vào chiều sâu."
+    "example": "他对这个问题只是浮光掠影地了解。",
+    "example_vi": "Anh ấy chỉ hiểu vấn đề này một cách hời hợt."
   },
   {
     "w": "绳之以法",
     "p": "shéng zhī yǐ fǎ",
     "m": "xử lý bằng pháp luật",
-    "example": "绳之以法，xử lý 。",
-    "example_vi": "xử lý bằng pháp luật."
+    "example": "罪犯最终被绳之以法。",
+    "example_vi": "Tội phạm cuối cùng đã bị xử lý bằng pháp luật."
   },
   {
     "w": "明哲保身",
     "p": "míng zhé bǎo shēn",
     "m": "khôn ngoan bảo toàn bản thân",
-    "example": "明哲保身，khôn n。",
-    "example_vi": "khôn ngoan bảo toàn bản thân."
+    "example": "他选择了明哲保身。",
+    "example_vi": "Anh ấy đã chọn cách khôn ngoan bảo toàn bản thân."
   },
   {
     "w": "沧桑巨变",
@@ -45,22 +45,22 @@
     "w": "立法机构",
     "p": "lì fǎ jī gòu",
     "m": "cơ quan lập pháp",
-    "example": "立法机构，cơ qua。",
-    "example_vi": "cơ quan lập pháp."
+    "example": "这项法案交由立法机构审议。",
+    "example_vi": "Dự luật này được giao cho cơ quan lập pháp xem xét."
   },
   {
     "w": "多元共治",
     "p": "duō yuán gòng zhì",
     "m": "quản trị đa dạng, nhiều chủ thể cùng điều hành",
-    "example": "多元共治，quản t。",
-    "example_vi": "quản trị đa dạng, nhiều chủ thể cùng điều hành."
+    "example": "这个社区实行多元共治模式。",
+    "example_vi": "Cộng đồng này thực hiện mô hình quản trị đa dạng."
   },
   {
     "w": "排他性",
     "p": "pái tā xìng",
     "m": "tính loại trừ, độc quyền",
-    "example": "排他性，tính l。",
-    "example_vi": "tính loại trừ, độc quyền."
+    "example": "这项协议具有排他性。",
+    "example_vi": "Thỏa thuận này mang tính loại trừ."
   },
   {
     "w": "包容性",
@@ -73,22 +73,22 @@
     "w": "可持续性",
     "p": "kě chí xù xìng",
     "m": "tính bền vững",
-    "example": "可持续性，tính b。",
-    "example_vi": "tính bền vững."
+    "example": "公司重视发展的可持续性。",
+    "example_vi": "Công ty coi trọng tính bền vững của sự phát triển."
   },
   {
     "w": "类比",
     "p": "lèi bǐ",
     "m": "loại suy, so sánh tương tự",
-    "example": "类比，loại s。",
-    "example_vi": "loại suy, so sánh tương tự."
+    "example": "他用一个生动的类比解释了这个概念。",
+    "example_vi": "Anh ấy đã dùng một phép so sánh tương tự sinh động để giải thích khái niệm này."
   },
   {
     "w": "定性",
     "p": "dìng xìng",
     "m": "định tính, xác định bản chất",
-    "example": "定性，định t。",
-    "example_vi": "định tính, xác định bản chất."
+    "example": "这起事件被定性为意外。",
+    "example_vi": "Sự kiện này đã được xác định bản chất là tai nạn."
   },
   {
     "w": "定量",
@@ -101,57 +101,57 @@
     "w": "调配",
     "p": "diào pèi",
     "m": "điều phối, phân bổ",
-    "example": "调配，điều p。",
-    "example_vi": "điều phối, phân bổ."
+    "example": "政府调配了救灾物资。",
+    "example_vi": "Chính phủ đã điều phối vật tư cứu trợ thiên tai."
   },
   {
     "w": "激励机制",
     "p": "jī lì jī zhì",
     "m": "cơ chế khuyến khích",
-    "example": "激励机制，cơ chế。",
-    "example_vi": "cơ chế khuyến khích."
+    "example": "公司建立了激励机制。",
+    "example_vi": "Công ty đã thiết lập cơ chế khuyến khích."
   },
   {
     "w": "战略协同",
     "p": "zhàn lüè xié tóng",
     "m": "hiệp đồng chiến lược",
-    "example": "战略协同，hiệp đ。",
-    "example_vi": "hiệp đồng chiến lược."
+    "example": "两家公司实现了战略协同。",
+    "example_vi": "Hai công ty đã thực hiện hiệp đồng chiến lược."
   },
   {
     "w": "标杆",
     "p": "biāo gǎn",
     "m": "chuẩn mực, benchmark",
-    "example": "标杆，chuẩn 。",
-    "example_vi": "chuẩn mực, benchmark."
+    "example": "这家公司是行业标杆。",
+    "example_vi": "Công ty này là chuẩn mực của ngành."
   },
   {
     "w": "迭代创新",
     "p": "dié dài chuàng xīn",
     "m": "đổi mới liên tục theo vòng lặp",
-    "example": "迭代创新，đổi mớ。",
-    "example_vi": "đổi mới liên tục theo vòng lặp."
+    "example": "公司坚持迭代创新。",
+    "example_vi": "Công ty kiên trì đổi mới liên tục theo vòng lặp."
   },
   {
     "w": "人才红利",
     "p": "rén cái hóng lì",
     "m": "lợi tức nhân tài",
-    "example": "人才红利，lợi tứ。",
-    "example_vi": "lợi tức nhân tài."
+    "example": "这个城市享有人才红利。",
+    "example_vi": "Thành phố này được hưởng lợi tức nhân tài."
   },
   {
     "w": "贫富分化",
     "p": "pín fù fēn huà",
     "m": "phân hóa giàu nghèo",
-    "example": "贫富分化，phân h。",
-    "example_vi": "phân hóa giàu nghèo."
+    "example": "这个国家贫富分化加剧。",
+    "example_vi": "Sự phân hóa giàu nghèo của quốc gia này đã trở nên trầm trọng hơn."
   },
   {
     "w": "可行性研究",
     "p": "kě xíng xìng yán jiū",
     "m": "nghiên cứu khả thi",
-    "example": "可行性研究，nghiên。",
-    "example_vi": "nghiên cứu khả thi."
+    "example": "团队完成了可行性研究。",
+    "example_vi": "Nhóm đã hoàn thành nghiên cứu khả thi."
   },
   {
     "w": "语用学",
@@ -164,36 +164,36 @@
     "w": "传世之作",
     "p": "chuán shì zhī zuò",
     "m": "tác phẩm lưu truyền đời đời",
-    "example": "传世之作，tác ph。",
-    "example_vi": "tác phẩm lưu truyền đời đời."
+    "example": "这是一部传世之作。",
+    "example_vi": "Đây là một tác phẩm lưu truyền đời đời."
   },
   {
     "w": "奠基",
     "p": "diàn jī",
     "m": "đặt nền tảng, thành lập",
-    "example": "奠基，đặt nề。",
-    "example_vi": "đặt nền tảng, thành lập."
+    "example": "这项发现为该学科奠基。",
+    "example_vi": "Phát hiện này đã đặt nền tảng cho ngành học đó."
   },
   {
     "w": "肇端",
     "p": "zhào duān",
     "m": "khởi đầu, bắt đầu",
-    "example": "肇端，khởi đ。",
-    "example_vi": "khởi đầu, bắt đầu."
+    "example": "这件事的肇端可以追溯到十年前。",
+    "example_vi": "Khởi đầu của sự việc này có thể truy về mười năm trước."
   },
   {
     "w": "赓续",
     "p": "gēng xù",
     "m": "tiếp tục, nối tiếp",
-    "example": "赓续，tiếp t。",
-    "example_vi": "tiếp tục, nối tiếp."
+    "example": "这项传统得以赓续。",
+    "example_vi": "Truyền thống này đã được tiếp nối."
   },
   {
     "w": "俾使",
     "p": "bǐ shǐ",
     "m": "để cho, nhằm mục đích",
-    "example": "俾使，để cho。",
-    "example_vi": "để cho, nhằm mục đích."
+    "example": "制定这项政策，俾使民众受益。",
+    "example_vi": "Ban hành chính sách này, nhằm để người dân được hưởng lợi."
   },
   {
     "w": "无非",
@@ -206,50 +206,50 @@
     "w": "截然",
     "p": "jié rán",
     "m": "hoàn toàn (khác nhau), rõ ràng",
-    "example": "截然，hoàn t。",
-    "example_vi": "hoàn toàn (khác nhau), rõ ràng."
+    "example": "两种观点截然相反。",
+    "example_vi": "Hai quan điểm hoàn toàn trái ngược nhau."
   },
   {
     "w": "俨然",
     "p": "yǎn rán",
     "m": "y như, rõ ràng là",
-    "example": "俨然，y như,。",
-    "example_vi": "y như, rõ ràng là."
+    "example": "他俨然是这方面的专家。",
+    "example_vi": "Anh ấy y như là chuyên gia trong lĩnh vực này."
   },
   {
     "w": "赫然",
     "p": "hè rán",
     "m": "đột nhiên hiện ra, nổi bật",
-    "example": "赫然，đột nh。",
-    "example_vi": "đột nhiên hiện ra, nổi bật."
+    "example": "他的名字赫然出现在名单上。",
+    "example_vi": "Tên của anh ấy nổi bật xuất hiện trên danh sách."
   },
   {
     "w": "骤然",
     "p": "zhòu rán",
     "m": "đột ngột, bất thình lình",
-    "example": "骤然，đột ng。",
-    "example_vi": "đột ngột, bất thình lình."
+    "example": "天气骤然变冷。",
+    "example_vi": "Thời tiết đột ngột trở lạnh."
   },
   {
     "w": "蓦然",
     "p": "mò rán",
     "m": "thình lình, bỗng nhiên",
-    "example": "蓦然，thình 。",
-    "example_vi": "thình lình, bỗng nhiên."
+    "example": "他蓦然回首，想起了往事。",
+    "example_vi": "Anh ấy bỗng nhiên ngoảnh đầu lại, nhớ về chuyện xưa."
   },
   {
     "w": "悄然",
     "p": "qiǎo rán",
     "m": "lặng lẽ, im lìm",
-    "example": "悄然，lặng l。",
-    "example_vi": "lặng lẽ, im lìm."
+    "example": "她悄然离开了会场。",
+    "example_vi": "Cô ấy đã lặng lẽ rời khỏi hội trường."
   },
   {
     "w": "熟稔",
     "p": "shú rěn",
     "m": "thành thạo, quen thuộc sâu sắc",
-    "example": "熟稔，thành 。",
-    "example_vi": "thành thạo, quen thuộc sâu sắc."
+    "example": "他对这个领域非常熟稔。",
+    "example_vi": "Anh ấy rất thành thạo trong lĩnh vực này."
   },
   {
     "w": "恢宏",
@@ -262,43 +262,43 @@
     "w": "笃实",
     "p": "dǔ shí",
     "m": "thực sự, chân chắc",
-    "example": "笃实，thực s。",
-    "example_vi": "thực sự, chân chắc."
+    "example": "他为人笃实。",
+    "example_vi": "Anh ấy đối nhân xử thế chân thực đáng tin."
   },
   {
     "w": "隽秀",
     "p": "juàn xiù",
     "m": "tú lệ, thanh tú",
-    "example": "隽秀，tú lệ,。",
-    "example_vi": "tú lệ, thanh tú."
+    "example": "她相貌隽秀。",
+    "example_vi": "Diện mạo của cô ấy thanh tú."
   },
   {
     "w": "萧瑟",
     "p": "xiāo sè",
     "m": "hiu hắt, tiêu điều",
-    "example": "萧瑟，hiu hắ。",
-    "example_vi": "hiu hắt, tiêu điều."
+    "example": "秋天的原野一片萧瑟。",
+    "example_vi": "Cánh đồng mùa thu một màu hiu hắt."
   },
   {
     "w": "凛冽",
     "p": "lǐn liè",
     "m": "rét buốt, lạnh lẽo",
-    "example": "凛冽，rét bu。",
-    "example_vi": "rét buốt, lạnh lẽo."
+    "example": "寒风凛冽。",
+    "example_vi": "Gió lạnh rét buốt."
   },
   {
     "w": "峥嵘",
     "p": "zhēng róng",
     "m": "hiểm trở, tráng lệ (núi non/thời kỳ)",
-    "example": "峥嵘，hiểm t。",
-    "example_vi": "hiểm trở, tráng lệ (núi non/thời kỳ)."
+    "example": "这座山峰峥嵘险峻。",
+    "example_vi": "Đỉnh núi này hiểm trở tráng lệ."
   },
   {
     "w": "嶙峋",
     "p": "lín xún",
     "m": "gầy gò (người), gồ ghề (đá)",
-    "example": "嶙峋，gầy gò。",
-    "example_vi": "gầy gò (người), gồ ghề (đá)."
+    "example": "他瘦骨嶙峋。",
+    "example_vi": "Anh ấy gầy gò trơ xương."
   },
   {
     "w": "崔嵬",
@@ -311,8 +311,8 @@
     "w": "苍茫",
     "p": "cāng máng",
     "m": "mênh mông, mờ mịt",
-    "example": "苍茫，mênh m。",
-    "example_vi": "mênh mông, mờ mịt."
+    "example": "远处一片苍茫。",
+    "example_vi": "Nơi xa xăm một màu mênh mông mờ mịt."
   },
   {
     "w": "葱茏",
@@ -325,8 +325,8 @@
     "w": "潺潺",
     "p": "chán chán",
     "m": "róc rách (tiếng nước)",
-    "example": "潺潺，róc rá。",
-    "example_vi": "róc rách (tiếng nước)."
+    "example": "小溪潺潺流淌。",
+    "example_vi": "Con suối chảy róc rách."
   },
   {
     "w": "袅袅",
@@ -346,15 +346,15 @@
     "w": "泠泠",
     "p": "líng líng",
     "m": "trong trẻo (tiếng nước/tiếng nhạc)",
-    "example": "泠泠，trong 。",
-    "example_vi": "trong trẻo (tiếng nước/tiếng nhạc)."
+    "example": "泉水泠泠作响。",
+    "example_vi": "Nước suối vang lên trong trẻo."
   },
   {
     "w": "铮铮",
     "p": "zhēng zhēng",
     "m": "chan chát (tiếng kim loại), khảng khái",
-    "example": "铮铮，chan c。",
-    "example_vi": "chan chát (tiếng kim loại), khảng khái."
+    "example": "他是一位铮铮铁骨的汉子。",
+    "example_vi": "Anh ấy là một người đàn ông có khí phách khảng khái."
   },
   {
     "w": "莽莽",
@@ -374,127 +374,127 @@
     "w": "历历",
     "p": "lì lì",
     "m": "rõ ràng, hiện lên từng cái",
-    "example": "历历，rõ ràn。",
-    "example_vi": "rõ ràng, hiện lên từng cái."
+    "example": "往事历历在目。",
+    "example_vi": "Chuyện xưa hiện lên rõ ràng trước mắt."
   },
   {
     "w": "冉冉",
     "p": "rǎn rǎn",
     "m": "từ từ, chậm rãi",
-    "example": "冉冉，từ từ,。",
-    "example_vi": "từ từ, chậm rãi."
+    "example": "红日冉冉升起。",
+    "example_vi": "Mặt trời đỏ từ từ mọc lên."
   },
   {
     "w": "姗姗",
     "p": "shān shān",
     "m": "chậm chạp, thư thả",
-    "example": "姗姗，chậm c。",
-    "example_vi": "chậm chạp, thư thả."
+    "example": "她姗姗来迟。",
+    "example_vi": "Cô ấy đến muộn một cách chậm chạp."
   },
   {
     "w": "款款",
     "p": "kuǎn kuǎn",
     "m": "từ tốn, thong thả",
-    "example": "款款，từ tốn。",
-    "example_vi": "từ tốn, thong thả."
+    "example": "她款款走来。",
+    "example_vi": "Cô ấy đi đến một cách từ tốn."
   },
   {
     "w": "泠然",
     "p": "líng rán",
     "m": "trong mát, thanh thoát",
-    "example": "泠然，trong 。",
-    "example_vi": "trong mát, thanh thoát."
+    "example": "山间清风泠然。",
+    "example_vi": "Gió mát trên núi trong lành thanh thoát."
   },
   {
     "w": "斐然",
     "p": "fěi rán",
     "m": "có thành tích nổi bật",
-    "example": "斐然，có thà。",
-    "example_vi": "có thành tích nổi bật."
+    "example": "他取得了斐然的成绩。",
+    "example_vi": "Anh ấy đã đạt được thành tích nổi bật."
   },
   {
     "w": "昂然",
     "p": "áng rán",
     "m": "hiên ngang, oai phong",
-    "example": "昂然，hiên n。",
-    "example_vi": "hiên ngang, oai phong."
+    "example": "他昂然挺立。",
+    "example_vi": "Anh ấy đứng thẳng hiên ngang."
   },
   {
     "w": "怡然",
     "p": "yí rán",
     "m": "vui vẻ, thỏa mãn",
-    "example": "怡然，vui vẻ。",
-    "example_vi": "vui vẻ, thỏa mãn."
+    "example": "他怡然自得。",
+    "example_vi": "Anh ấy vui vẻ tự tại."
   },
   {
     "w": "懵然",
     "p": "měng rán",
     "m": "ngơ ngác, mơ hồ",
-    "example": "懵然，ngơ ng。",
-    "example_vi": "ngơ ngác, mơ hồ."
+    "example": "他懵然不知发生了什么。",
+    "example_vi": "Anh ấy ngơ ngác không biết chuyện gì đã xảy ra."
   },
   {
     "w": "潸然",
     "p": "shān rán",
     "m": "nước mắt chảy dài",
-    "example": "潸然，nước m。",
-    "example_vi": "nước mắt chảy dài."
+    "example": "她潸然泪下。",
+    "example_vi": "Cô ấy nước mắt chảy dài."
   },
   {
     "w": "悯然",
     "p": "mǐn rán",
     "m": "thương xót, trắc ẩn",
-    "example": "悯然，thương。",
-    "example_vi": "thương xót, trắc ẩn."
+    "example": "他悯然地看着流浪者。",
+    "example_vi": "Anh ấy nhìn người vô gia cư với ánh mắt thương xót."
   },
   {
     "w": "忧患",
     "p": "yōu huàn",
     "m": "lo âu, khổ nạn",
-    "example": "忧患，lo âu,。",
-    "example_vi": "lo âu, khổ nạn."
+    "example": "我们要有忧患意识。",
+    "example_vi": "Chúng ta phải có ý thức lo âu phòng bị."
   },
   {
     "w": "恬淡",
     "p": "tián dàn",
     "m": "bình thản, thanh thản",
-    "example": "恬淡，bình t。",
-    "example_vi": "bình thản, thanh thản."
+    "example": "他过着恬淡的生活。",
+    "example_vi": "Anh ấy sống một cuộc sống bình thản."
   },
   {
     "w": "矜持",
     "p": "jīn chí",
     "m": "kiêu kỳ, giữ lễ",
-    "example": "矜持，kiêu k。",
-    "example_vi": "kiêu kỳ, giữ lễ."
+    "example": "她显得有些矜持。",
+    "example_vi": "Cô ấy tỏ ra hơi kiêu kỳ giữ lễ."
   },
   {
     "w": "傲岸",
     "p": "ào àn",
     "m": "ngạo mạn, kiêu ngạo",
-    "example": "傲岸，ngạo m。",
-    "example_vi": "ngạo mạn, kiêu ngạo."
+    "example": "他性格傲岸。",
+    "example_vi": "Tính cách của anh ấy ngạo mạn."
   },
   {
     "w": "通才",
     "p": "tōng cái",
     "m": "người đa tài, generalist",
-    "example": "通才，người 。",
-    "example_vi": "người đa tài, generalist."
+    "example": "他是一位难得的通才。",
+    "example_vi": "Anh ấy là một người đa tài hiếm có."
   },
   {
     "w": "专才",
     "p": "zhuān cái",
     "m": "người chuyên sâu, specialist",
-    "example": "专才，người 。",
-    "example_vi": "người chuyên sâu, specialist."
+    "example": "公司需要各领域的专才。",
+    "example_vi": "Công ty cần những người chuyên sâu ở nhiều lĩnh vực."
   },
   {
     "w": "旷世奇才",
     "p": "kuàng shì qí cái",
     "m": "thiên tài hiếm có trong lịch sử",
-    "example": "旷世奇才，thiên 。",
-    "example_vi": "thiên tài hiếm có trong lịch sử."
+    "example": "他被誉为旷世奇才。",
+    "example_vi": "Anh ấy được tôn vinh là thiên tài hiếm có trong lịch sử."
   },
   {
     "w": "饱学之士",
@@ -514,15 +514,15 @@
     "w": "骚人",
     "p": "sāo rén",
     "m": "thi nhân, người có tâm hồn nghệ sĩ",
-    "example": "骚人，thi nh。",
-    "example_vi": "thi nhân, người có tâm hồn nghệ sĩ."
+    "example": "古代骚人墨客常聚于此。",
+    "example_vi": "Các thi nhân văn nhân thời xưa thường tụ họp ở đây."
   },
   {
     "w": "耆宿",
     "p": "qí sù",
     "m": "bậc lão thành uyên bác",
-    "example": "耆宿，bậc lã。",
-    "example_vi": "bậc lão thành uyên bác."
+    "example": "他是学界的耆宿。",
+    "example_vi": "Ông ấy là bậc lão thành uyên bác trong giới học thuật."
   },
   {
     "w": "庶民",
@@ -542,15 +542,15 @@
     "w": "苍生",
     "p": "cāng shēng",
     "m": "sinh linh, người dân",
-    "example": "苍生，sinh l。",
-    "example_vi": "sinh linh, người dân."
+    "example": "他心系苍生。",
+    "example_vi": "Ông ấy lòng luôn hướng về sinh linh trăm họ."
   },
   {
     "w": "遗孀",
     "p": "yí shuāng",
     "m": "góa phụ, vợ góa",
-    "example": "遗孀，góa ph。",
-    "example_vi": "góa phụ, vợ góa."
+    "example": "他的遗孀继承了家业。",
+    "example_vi": "Người vợ góa của ông ấy đã kế thừa cơ nghiệp gia đình."
   },
   {
     "w": "耄耋",
@@ -563,15 +563,15 @@
     "w": "垂暮",
     "p": "chuí mù",
     "m": "tuổi xế chiều, cuối đời",
-    "example": "垂暮，tuổi x。",
-    "example_vi": "tuổi xế chiều, cuối đời."
+    "example": "他已是垂暮之年。",
+    "example_vi": "Ông ấy đã ở tuổi xế chiều."
   },
   {
     "w": "桑榆",
     "p": "sāng yú",
     "m": "buổi hoàng hôn cuộc đời",
-    "example": "桑榆，buổi h。",
-    "example_vi": "buổi hoàng hôn cuộc đời."
+    "example": "人生桑榆，仍要珍惜。",
+    "example_vi": "Đến buổi hoàng hôn cuộc đời vẫn phải biết trân trọng."
   },
   {
     "w": "韶华",
@@ -591,29 +591,29 @@
     "w": "弱冠",
     "p": "ruò guàn",
     "m": "tuổi 20 (nam)",
-    "example": "弱冠，tuổi 2。",
-    "example_vi": "tuổi 20 (nam)."
+    "example": "他弱冠之年便离家闯荡。",
+    "example_vi": "Vào tuổi hai mươi anh ấy đã rời nhà lập nghiệp."
   },
   {
     "w": "不惑",
     "p": "bù huò",
     "m": "tuổi 40, không còn nghi hoặc",
-    "example": "不惑，tuổi 4。",
-    "example_vi": "tuổi 40, không còn nghi hoặc."
+    "example": "他已年届不惑。",
+    "example_vi": "Anh ấy đã đến tuổi bốn mươi không còn nghi hoặc."
   },
   {
     "w": "知命",
     "p": "zhī mìng",
     "m": "tuổi 50, biết mệnh trời",
-    "example": "知命，tuổi 5。",
-    "example_vi": "tuổi 50, biết mệnh trời."
+    "example": "他年过知命，心态平和。",
+    "example_vi": "Anh ấy đã ngoài năm mươi tuổi, tâm thái bình hòa."
   },
   {
     "w": "古稀",
     "p": "gǔ xī",
     "m": "tuổi 70, hiếm có xưa nay",
-    "example": "古稀，tuổi 7。",
-    "example_vi": "tuổi 70, hiếm có xưa nay."
+    "example": "祖父已年过古稀。",
+    "example_vi": "Ông nội đã ngoài bảy mươi tuổi."
   },
   {
     "w": "期颐",
@@ -633,148 +633,148 @@
     "w": "庄严肃穆",
     "p": "zhuāng yán sù mù",
     "m": "trang nghiêm, uy nghiêm",
-    "example": "庄严肃穆，trang 。",
-    "example_vi": "trang nghiêm, uy nghiêm."
+    "example": "典礼现场庄严肃穆。",
+    "example_vi": "Hiện trường buổi lễ trang nghiêm uy nghiêm."
   },
   {
     "w": "肃然起敬",
     "p": "sù rán qǐ jìng",
     "m": "lòng kính phục nổi lên",
-    "example": "肃然起敬，lòng k。",
-    "example_vi": "lòng kính phục nổi lên."
+    "example": "听完他的故事，大家肃然起敬。",
+    "example_vi": "Nghe xong câu chuyện của ông ấy, mọi người đều nảy sinh lòng kính phục."
   },
   {
     "w": "望洋兴叹",
     "p": "wàng yáng xīng tàn",
     "m": "nhìn biển mà than, bất lực",
-    "example": "望洋兴叹，nhìn b。",
-    "example_vi": "nhìn biển mà than, bất lực."
+    "example": "面对巨大的困难，他望洋兴叹。",
+    "example_vi": "Đối mặt với khó khăn to lớn, anh ấy đành bất lực than thở."
   },
   {
     "w": "孤芳自赏",
     "p": "gū fāng zì shǎng",
     "m": "tự ngắm mình, tự mãn",
-    "example": "孤芳自赏，tự ngắ。",
-    "example_vi": "tự ngắm mình, tự mãn."
+    "example": "他总是孤芳自赏。",
+    "example_vi": "Anh ấy luôn tự ngắm mình một cách tự mãn."
   },
   {
     "w": "顾影自怜",
     "p": "gù yǐng zì lián",
     "m": "nhìn bóng mình mà thương mình",
-    "example": "顾影自怜，nhìn b。",
-    "example_vi": "nhìn bóng mình mà thương mình."
+    "example": "她顾影自怜，感慨万千。",
+    "example_vi": "Cô ấy nhìn bóng mình mà thương thân, cảm khái ngổn ngang."
   },
   {
     "w": "勇于担当",
     "p": "yǒng yú dān dāng",
     "m": "dũng cảm đảm nhiệm trách nhiệm",
-    "example": "勇于担当，dũng c。",
-    "example_vi": "dũng cảm đảm nhiệm trách nhiệm."
+    "example": "他勇于担当责任。",
+    "example_vi": "Anh ấy dũng cảm đảm nhiệm trách nhiệm."
   },
   {
     "w": "敢于创新",
     "p": "gǎn yú chuàng xīn",
     "m": "dám đổi mới sáng tạo",
-    "example": "敢于创新，dám đổ。",
-    "example_vi": "dám đổi mới sáng tạo."
+    "example": "公司鼓励员工敢于创新。",
+    "example_vi": "Công ty khuyến khích nhân viên dám đổi mới sáng tạo."
   },
   {
     "w": "爱国情怀",
     "p": "ài guó qíng huái",
     "m": "tình yêu nước",
-    "example": "爱国情怀，tình y。",
-    "example_vi": "tình yêu nước."
+    "example": "这首诗表达了爱国情怀。",
+    "example_vi": "Bài thơ này đã bày tỏ tình yêu nước."
   },
   {
     "w": "民族复兴",
     "p": "mín zú fù xīng",
     "m": "phục hưng dân tộc",
-    "example": "民族复兴，phục h。",
-    "example_vi": "phục hưng dân tộc."
+    "example": "这是实现民族复兴的关键时期。",
+    "example_vi": "Đây là thời kỳ then chốt để thực hiện phục hưng dân tộc."
   },
   {
     "w": "天下大同",
     "p": "tiān xià dà tóng",
     "m": "thế giới đại đồng, mọi người bình đẳng",
-    "example": "天下大同，thế gi。",
-    "example_vi": "thế giới đại đồng, mọi người bình đẳng."
+    "example": "古人追求天下大同的理想。",
+    "example_vi": "Người xưa theo đuổi lý tưởng thế giới đại đồng."
   },
   {
     "w": "民胞物与",
     "p": "mín bāo wù yǔ",
     "m": "xem người như anh em, vật như bạn",
-    "example": "民胞物与，xem ng。",
-    "example_vi": "xem người như anh em, vật như bạn."
+    "example": "这体现了民胞物与的思想。",
+    "example_vi": "Điều này thể hiện tư tưởng xem người như anh em, vật như bạn."
   },
   {
     "w": "依恋理论",
     "p": "yī liàn lǐ lùn",
     "m": "thuyết gắn bó",
-    "example": "依恋理论，thuyết。",
-    "example_vi": "thuyết gắn bó."
+    "example": "心理学家提出了依恋理论。",
+    "example_vi": "Nhà tâm lý học đã đề xuất thuyết gắn bó."
   },
   {
     "w": "条件反射",
     "p": "tiáo jiàn fǎn shè",
     "m": "phản xạ có điều kiện",
-    "example": "条件反射，phản x。",
-    "example_vi": "phản xạ có điều kiện."
+    "example": "这是一种条件反射。",
+    "example_vi": "Đây là một loại phản xạ có điều kiện."
   },
   {
     "w": "自恋",
     "p": "zì liàn",
     "m": "ái kỷ, yêu bản thân thái quá",
-    "example": "自恋，ái kỷ,。",
-    "example_vi": "ái kỷ, yêu bản thân thái quá."
+    "example": "他有些自恋。",
+    "example_vi": "Anh ấy hơi tự yêu bản thân thái quá."
   },
   {
     "w": "群体思维",
     "p": "qún tǐ sī wéi",
     "m": "tư duy bầy đàn",
-    "example": "群体思维，tư duy。",
-    "example_vi": "tư duy bầy đàn."
+    "example": "团队要避免群体思维。",
+    "example_vi": "Đội ngũ phải tránh tư duy bầy đàn."
   },
   {
     "w": "从众效应",
     "p": "cóng zhòng xiào yìng",
     "m": "hiệu ứng a dua đám đông",
-    "example": "从众效应，hiệu ứ。",
-    "example_vi": "hiệu ứng a dua đám đông."
+    "example": "消费者常受从众效应影响。",
+    "example_vi": "Người tiêu dùng thường bị ảnh hưởng bởi hiệu ứng a dua đám đông."
   },
   {
     "w": "晕轮效应",
     "p": "yùn lún xiào yìng",
     "m": "hiệu ứng hào quang",
-    "example": "晕轮效应，hiệu ứ。",
-    "example_vi": "hiệu ứng hào quang."
+    "example": "这是心理学上的晕轮效应。",
+    "example_vi": "Đây là hiệu ứng hào quang trong tâm lý học."
   },
   {
     "w": "心智模式",
     "p": "xīn zhì mó shì",
     "m": "mô hình tư duy",
-    "example": "心智模式，mô hìn。",
-    "example_vi": "mô hình tư duy."
+    "example": "这本书讨论了心智模式。",
+    "example_vi": "Cuốn sách này đã bàn về mô hình tư duy."
   },
   {
     "w": "知觉",
     "p": "zhī jué",
     "m": "tri giác",
-    "example": "知觉，tri gi。",
-    "example_vi": "tri giác."
+    "example": "这门课研究人的知觉。",
+    "example_vi": "Môn học này nghiên cứu tri giác của con người."
   },
   {
     "w": "记忆衰退",
     "p": "jì yì shuāi tuì",
     "m": "suy giảm trí nhớ",
-    "example": "记忆衰退，suy gi。",
-    "example_vi": "suy giảm trí nhớ."
+    "example": "随着年龄增长，记忆衰退是常见现象。",
+    "example_vi": "Cùng với tuổi tác tăng lên, suy giảm trí nhớ là hiện tượng thường gặp."
   },
   {
     "w": "行为主义",
     "p": "xíng wéi zhǔ yì",
     "m": "chủ nghĩa hành vi",
-    "example": "行为主义，chủ ng。",
-    "example_vi": "chủ nghĩa hành vi."
+    "example": "这门课讲授行为主义理论。",
+    "example_vi": "Môn học này giảng dạy lý thuyết chủ nghĩa hành vi."
   },
   {
     "w": "精神分析",
@@ -787,22 +787,22 @@
     "w": "人格障碍",
     "p": "rén gé zhàng ài",
     "m": "rối loạn nhân cách",
-    "example": "人格障碍，rối lo。",
-    "example_vi": "rối loạn nhân cách."
+    "example": "医生诊断他患有人格障碍。",
+    "example_vi": "Bác sĩ chẩn đoán anh ấy mắc chứng rối loạn nhân cách."
   },
   {
     "w": "习得性无助",
     "p": "xí dé xìng wú zhù",
     "m": "bất lực tập nhiễm",
-    "example": "习得性无助，bất lự。",
-    "example_vi": "bất lực tập nhiễm."
+    "example": "他表现出习得性无助。",
+    "example_vi": "Anh ấy đã biểu hiện trạng thái bất lực tập nhiễm."
   },
   {
     "w": "镜像神经元",
     "p": "jìng xiàng shén jīng yuán",
     "m": "nơ-ron gương",
-    "example": "镜像神经元，nơ-ron。",
-    "example_vi": "nơ-ron gương."
+    "example": "研究者发现了镜像神经元。",
+    "example_vi": "Nhà nghiên cứu đã phát hiện ra nơ-ron gương."
   },
   {
     "w": "元认知",
@@ -815,36 +815,36 @@
     "w": "错觉",
     "p": "cuò jué",
     "m": "ảo giác tri giác",
-    "example": "错觉，ảo giá。",
-    "example_vi": "ảo giác tri giác."
+    "example": "这是一种视觉错觉。",
+    "example_vi": "Đây là một loại ảo giác thị giác."
   },
   {
     "w": "幻觉",
     "p": "huàn jué",
     "m": "ảo giác",
-    "example": "幻觉，ảo giá。",
-    "example_vi": "ảo giác."
+    "example": "他出现了幻觉。",
+    "example_vi": "Anh ấy đã xuất hiện ảo giác."
   },
   {
     "w": "妄想",
     "p": "wàng xiǎng",
     "m": "hoang tưởng",
-    "example": "妄想，hoang 。",
-    "example_vi": "hoang tưởng."
+    "example": "他产生了妄想症状。",
+    "example_vi": "Anh ấy đã xuất hiện triệu chứng hoang tưởng."
   },
   {
     "w": "语料库",
     "p": "yǔ liào kù",
     "m": "kho ngữ liệu",
-    "example": "语料库，kho ng。",
-    "example_vi": "kho ngữ liệu."
+    "example": "研究者建立了一个语料库。",
+    "example_vi": "Nhà nghiên cứu đã xây dựng một kho ngữ liệu."
   },
   {
     "w": "音位",
     "p": "yīn wèi",
     "m": "âm vị",
-    "example": "音位，âm vị。",
-    "example_vi": "âm vị."
+    "example": "这门课讲授音位学。",
+    "example_vi": "Môn học này giảng dạy về âm vị học."
   },
   {
     "w": "形态学",
@@ -857,8 +857,8 @@
     "w": "句法",
     "p": "jù fǎ",
     "m": "cú pháp",
-    "example": "句法，cú phá。",
-    "example_vi": "cú pháp."
+    "example": "这个句子的句法结构很复杂。",
+    "example_vi": "Cấu trúc cú pháp của câu này rất phức tạp."
   },
   {
     "w": "语义学",
@@ -878,29 +878,29 @@
     "w": "声调",
     "p": "shēng diào",
     "m": "thanh điệu",
-    "example": "声调，thanh 。",
-    "example_vi": "thanh điệu."
+    "example": "汉语有四个声调。",
+    "example_vi": "Tiếng Trung có bốn thanh điệu."
   },
   {
     "w": "转喻",
     "p": "zhuǎn yù",
     "m": "hoán dụ",
-    "example": "转喻，hoán d。",
-    "example_vi": "hoán dụ."
+    "example": "这句话用了转喻手法。",
+    "example_vi": "Câu này đã sử dụng thủ pháp hoán dụ."
   },
   {
     "w": "双语",
     "p": "shuāng yǔ",
     "m": "song ngữ",
-    "example": "双语，song n。",
-    "example_vi": "song ngữ."
+    "example": "这个孩子是双语环境长大的。",
+    "example_vi": "Đứa trẻ này lớn lên trong môi trường song ngữ."
   },
   {
     "w": "母语习得",
     "p": "mǔ yǔ xí dé",
     "m": "thụ đắc tiếng mẹ đẻ",
-    "example": "母语习得，thụ đắ。",
-    "example_vi": "thụ đắc tiếng mẹ đẻ."
+    "example": "这门课研究母语习得过程。",
+    "example_vi": "Môn học này nghiên cứu quá trình thụ đắc tiếng mẹ đẻ."
   },
   {
     "w": "二语习得",
@@ -913,50 +913,50 @@
     "w": "语法化",
     "p": "yǔ fǎ huà",
     "m": "ngữ pháp hóa",
-    "example": "语法化，ngữ ph。",
-    "example_vi": "ngữ pháp hóa."
+    "example": "这个词经历了语法化过程。",
+    "example_vi": "Từ này đã trải qua quá trình ngữ pháp hóa."
   },
   {
     "w": "词汇量",
     "p": "cí huì liàng",
     "m": "vốn từ vựng",
-    "example": "词汇量，vốn từ。",
-    "example_vi": "vốn từ vựng."
+    "example": "他的词汇量很大。",
+    "example_vi": "Vốn từ vựng của anh ấy rất lớn."
   },
   {
     "w": "语感",
     "p": "yǔ gǎn",
     "m": "ngữ cảm",
-    "example": "语感，ngữ cả。",
-    "example_vi": "ngữ cảm."
+    "example": "她的语感很好。",
+    "example_vi": "Ngữ cảm của cô ấy rất tốt."
   },
   {
     "w": "歧义",
     "p": "qí yì",
     "m": "sự mơ hồ về nghĩa, câu đa nghĩa",
-    "example": "歧义，sự mơ 。",
-    "example_vi": "sự mơ hồ về nghĩa, câu đa nghĩa."
+    "example": "这句话存在歧义。",
+    "example_vi": "Câu này tồn tại sự mơ hồ về nghĩa."
   },
   {
     "w": "同义词",
     "p": "tóng yì cí",
     "m": "từ đồng nghĩa",
-    "example": "同义词，từ đồn。",
-    "example_vi": "từ đồng nghĩa."
+    "example": "这两个词是同义词。",
+    "example_vi": "Hai từ này là từ đồng nghĩa."
   },
   {
     "w": "外来词",
     "p": "wài lái cí",
     "m": "từ ngoại lai",
-    "example": "外来词，từ ngo。",
-    "example_vi": "từ ngoại lai."
+    "example": "这个词是外来词。",
+    "example_vi": "Từ này là từ ngoại lai."
   },
   {
     "w": "借词",
     "p": "jiè cí",
     "m": "từ mượn",
-    "example": "借词，từ mượ。",
-    "example_vi": "từ mượn."
+    "example": "这是从英语借来的借词。",
+    "example_vi": "Đây là từ mượn từ tiếng Anh."
   },
   {
     "w": "语篇",
@@ -990,92 +990,92 @@
     "w": "口译",
     "p": "kǒu yì",
     "m": "phiên dịch (nói)",
-    "example": "口译，phiên 。",
-    "example_vi": "phiên dịch (nói)."
+    "example": "她从事口译工作。",
+    "example_vi": "Cô ấy làm công việc phiên dịch nói."
   },
   {
     "w": "笔译",
     "p": "bǐ yì",
     "m": "biên dịch (viết)",
-    "example": "笔译，biên d。",
-    "example_vi": "biên dịch (viết)."
+    "example": "他擅长笔译。",
+    "example_vi": "Anh ấy giỏi biên dịch viết."
   },
   {
     "w": "音节",
     "p": "yīn jié",
     "m": "âm tiết",
-    "example": "音节，âm tiế。",
-    "example_vi": "âm tiết."
+    "example": "这个词有两个音节。",
+    "example_vi": "Từ này có hai âm tiết."
   },
   {
     "w": "声母",
     "p": "shēng mǔ",
     "m": "phụ âm đầu (thanh mẫu)",
-    "example": "声母，phụ âm。",
-    "example_vi": "phụ âm đầu (thanh mẫu)."
+    "example": "这个字的声母是b。",
+    "example_vi": "Phụ âm đầu của chữ này là b."
   },
   {
     "w": "韵母",
     "p": "yùn mǔ",
     "m": "phần vần (vận mẫu)",
-    "example": "韵母，phần v。",
-    "example_vi": "phần vần (vận mẫu)."
+    "example": "这个字的韵母是an。",
+    "example_vi": "Phần vần của chữ này là an."
   },
   {
     "w": "简化字",
     "p": "jiǎn huà zì",
     "m": "chữ giản thể",
-    "example": "简化字，chữ gi。",
-    "example_vi": "chữ giản thể."
+    "example": "大陆使用简化字。",
+    "example_vi": "Trung Quốc đại lục sử dụng chữ giản thể."
   },
   {
     "w": "繁体字",
     "p": "fán tǐ zì",
     "m": "chữ phồn thể",
-    "example": "繁体字，chữ ph。",
-    "example_vi": "chữ phồn thể."
+    "example": "台湾使用繁体字。",
+    "example_vi": "Đài Loan sử dụng chữ phồn thể."
   },
   {
     "w": "语系",
     "p": "yǔ xì",
     "m": "ngữ hệ",
-    "example": "语系，ngữ hệ。",
-    "example_vi": "ngữ hệ."
+    "example": "汉语属于汉藏语系。",
+    "example_vi": "Tiếng Trung thuộc ngữ hệ Hán-Tạng."
   },
   {
     "w": "濒危语言",
     "p": "bīn wēi yǔ yán",
     "m": "ngôn ngữ nguy cấp sắp biến mất",
-    "example": "濒危语言，ngôn n。",
-    "example_vi": "ngôn ngữ nguy cấp sắp biến mất."
+    "example": "这是一种濒危语言。",
+    "example_vi": "Đây là một ngôn ngữ đang nguy cấp sắp biến mất."
   },
   {
     "w": "标准语",
     "p": "biāo zhǔn yǔ",
     "m": "ngôn ngữ chuẩn",
-    "example": "标准语，ngôn n。",
-    "example_vi": "ngôn ngữ chuẩn."
+    "example": "普通话是中国的标准语。",
+    "example_vi": "Tiếng Phổ thông là ngôn ngữ chuẩn của Trung Quốc."
   },
   {
     "w": "信度",
     "p": "xìn dù",
     "m": "độ tin cậy (thang đo)",
-    "example": "信度，độ tin。",
-    "example_vi": "độ tin cậy (thang đo)."
+    "example": "这份量表的信度较高。",
+    "example_vi": "Độ tin cậy của thang đo này khá cao."
   },
   {
     "w": "效度",
     "p": "xiào dù",
     "m": "độ hiệu lực (thang đo)",
-    "example": "效度，độ hiệ。",
-    "example_vi": "độ hiệu lực (thang đo)."
+    "example": "研究检验了量表的效度。",
+    "example_vi": "Nghiên cứu đã kiểm định độ hiệu lực của thang đo."
   },
   {
     "w": "同行评议",
     "p": "tóng háng píng yì",
     "m": "bình duyệt đồng nghiệp",
-    "example": "同行评议，bình d。",
-    "example_vi": "bình duyệt đồng nghiệp."
+    "example": "这篇论文通过了同行评议。",
+    "example_vi": "Bài luận văn này đã vượt qua bình duyệt đồng nghiệp."
   },
   {
     "w": "抄袭",
@@ -1088,57 +1088,57 @@
     "w": "随机分配",
     "p": "suí jī fēn pèi",
     "m": "phân bổ ngẫu nhiên",
-    "example": "随机分配，phân b。",
-    "example_vi": "phân bổ ngẫu nhiên."
+    "example": "实验采用随机分配的方法。",
+    "example_vi": "Thí nghiệm áp dụng phương pháp phân bổ ngẫu nhiên."
   },
   {
     "w": "开题报告",
     "p": "kāi tí bào gào",
     "m": "báo cáo đề cương nghiên cứu",
-    "example": "开题报告，báo cá。",
-    "example_vi": "báo cáo đề cương nghiên cứu."
+    "example": "他完成了开题报告。",
+    "example_vi": "Anh ấy đã hoàn thành báo cáo đề cương nghiên cứu."
   },
   {
     "w": "课题组",
     "p": "kè tí zǔ",
     "m": "nhóm đề tài nghiên cứu",
-    "example": "课题组，nhóm đ。",
-    "example_vi": "nhóm đề tài nghiên cứu."
+    "example": "他加入了这个课题组。",
+    "example_vi": "Anh ấy đã gia nhập nhóm đề tài nghiên cứu này."
   },
   {
     "w": "伦理审查",
     "p": "lún lǐ shěn chá",
     "m": "thẩm định đạo đức nghiên cứu",
-    "example": "伦理审查，thẩm đ。",
-    "example_vi": "thẩm định đạo đức nghiên cứu."
+    "example": "研究方案通过了伦理审查。",
+    "example_vi": "Đề án nghiên cứu đã vượt qua thẩm định đạo đức."
   },
   {
     "w": "试点",
     "p": "shì diǎn",
     "m": "thí điểm",
-    "example": "试点，thí đi。",
-    "example_vi": "thí điểm."
+    "example": "这项政策先在几个城市试点。",
+    "example_vi": "Chính sách này trước tiên được thí điểm ở vài thành phố."
   },
   {
     "w": "简政放权",
     "p": "jiǎn zhèng fàng quán",
     "m": "tinh giản bộ máy, phân quyền",
-    "example": "简政放权，tinh g。",
-    "example_vi": "tinh giản bộ máy, phân quyền."
+    "example": "政府推行简政放权改革。",
+    "example_vi": "Chính phủ thúc đẩy cải cách tinh giản bộ máy phân quyền."
   },
   {
     "w": "听证会",
     "p": "tīng zhèng huì",
     "m": "phiên điều trần, hội nghị lấy ý kiến",
-    "example": "听证会，phiên 。",
-    "example_vi": "phiên điều trần, hội nghị lấy ý kiến."
+    "example": "政府举行了听证会。",
+    "example_vi": "Chính phủ đã tổ chức phiên điều trần."
   },
   {
     "w": "计划生育",
     "p": "jì huà shēng yù",
     "m": "kế hoạch hóa gia đình",
-    "example": "计划生育，kế hoạ。",
-    "example_vi": "kế hoạch hóa gia đình."
+    "example": "这是计划生育政策。",
+    "example_vi": "Đây là chính sách kế hoạch hóa gia đình."
   },
   {
     "w": "棚户区改造",
@@ -1158,15 +1158,15 @@
     "w": "税收优惠",
     "p": "shuì shōu yōu huì",
     "m": "ưu đãi thuế",
-    "example": "税收优惠，ưu đãi。",
-    "example_vi": "ưu đãi thuế."
+    "example": "公司享受了税收优惠。",
+    "example_vi": "Công ty được hưởng ưu đãi thuế."
   },
   {
     "w": "准入门槛",
     "p": "zhǔn rù mén kǎn",
     "m": "ngưỡng điều kiện gia nhập",
-    "example": "准入门槛，ngưỡng。",
-    "example_vi": "ngưỡng điều kiện gia nhập."
+    "example": "这个行业的准入门槛较高。",
+    "example_vi": "Ngưỡng điều kiện gia nhập của ngành này khá cao."
   },
   {
     "w": "廉租房",
@@ -1179,8 +1179,8 @@
     "w": "医保",
     "p": "yī bǎo",
     "m": "bảo hiểm y tế",
-    "example": "医保，bảo hi。",
-    "example_vi": "bảo hiểm y tế."
+    "example": "他用医保报销了医药费。",
+    "example_vi": "Anh ấy đã dùng bảo hiểm y tế để thanh toán chi phí thuốc men."
   },
   {
     "w": "政策红利",
@@ -1193,15 +1193,15 @@
     "w": "一刀切",
     "p": "yī dāo qiē",
     "m": "áp dụng máy móc đồng loạt",
-    "example": "一刀切，áp dụn。",
-    "example_vi": "áp dụng máy móc đồng loạt."
+    "example": "这项政策不能一刀切。",
+    "example_vi": "Chính sách này không thể áp dụng máy móc đồng loạt."
   },
   {
     "w": "配套措施",
     "p": "pèi tào cuò shī",
     "m": "biện pháp đồng bộ kèm theo",
-    "example": "配套措施，biện p。",
-    "example_vi": "biện pháp đồng bộ kèm theo."
+    "example": "政府出台了配套措施。",
+    "example_vi": "Chính phủ đã ban hành các biện pháp đồng bộ kèm theo."
   },
   {
     "w": "公示",
@@ -1214,8 +1214,8 @@
     "w": "征求意见稿",
     "p": "zhēng qiú yì jiàn gǎo",
     "m": "bản dự thảo lấy ý kiến",
-    "example": "征求意见稿，bản dự。",
-    "example_vi": "bản dự thảo lấy ý kiến."
+    "example": "这份征求意见稿已经公布。",
+    "example_vi": "Bản dự thảo lấy ý kiến này đã được công bố."
   },
   {
     "w": "行政审批",
@@ -1242,36 +1242,36 @@
     "w": "抗原",
     "p": "kàng yuán",
     "m": "kháng nguyên",
-    "example": "抗原，kháng 。",
-    "example_vi": "kháng nguyên."
+    "example": "检测结果显示抗原呈阳性。",
+    "example_vi": "Kết quả xét nghiệm cho thấy kháng nguyên dương tính."
   },
   {
     "w": "确诊",
     "p": "què zhěn",
     "m": "chẩn đoán xác định",
-    "example": "确诊，chẩn đ。",
-    "example_vi": "chẩn đoán xác định."
+    "example": "他被确诊患病。",
+    "example_vi": "Anh ấy đã được chẩn đoán xác định mắc bệnh."
   },
   {
     "w": "误诊",
     "p": "wù zhěn",
     "m": "chẩn đoán nhầm",
-    "example": "误诊，chẩn đ。",
-    "example_vi": "chẩn đoán nhầm."
+    "example": "这起误诊导致了严重后果。",
+    "example_vi": "Vụ chẩn đoán nhầm này đã dẫn đến hậu quả nghiêm trọng."
   },
   {
     "w": "良性肿瘤",
     "p": "liáng xìng zhǒng liú",
     "m": "khối u lành tính",
-    "example": "良性肿瘤，khối u。",
-    "example_vi": "khối u lành tính."
+    "example": "医生确认这是良性肿瘤。",
+    "example_vi": "Bác sĩ xác nhận đây là khối u lành tính."
   },
   {
     "w": "耐药性",
     "p": "nài yào xìng",
     "m": "tính kháng thuốc",
-    "example": "耐药性，tính k。",
-    "example_vi": "tính kháng thuốc."
+    "example": "这种细菌产生了耐药性。",
+    "example_vi": "Loại vi khuẩn này đã sinh ra tính kháng thuốc."
   },
   {
     "w": "康复治疗",
@@ -1284,15 +1284,15 @@
     "w": "心血管疾病",
     "p": "xīn xuè guǎn jí bìng",
     "m": "bệnh tim mạch",
-    "example": "心血管疾病，bệnh t。",
-    "example_vi": "bệnh tim mạch."
+    "example": "他患有心血管疾病。",
+    "example_vi": "Anh ấy mắc bệnh tim mạch."
   },
   {
     "w": "糖尿病",
     "p": "táng niào bìng",
     "m": "bệnh tiểu đường",
-    "example": "糖尿病，bệnh t。",
-    "example_vi": "bệnh tiểu đường."
+    "example": "他被诊断出糖尿病。",
+    "example_vi": "Anh ấy được chẩn đoán mắc bệnh tiểu đường."
   },
   {
     "w": "高血压",
@@ -1305,43 +1305,43 @@
     "w": "中风",
     "p": "zhòng fēng",
     "m": "đột quỵ",
-    "example": "中风，đột qu。",
-    "example_vi": "đột quỵ."
+    "example": "他的父亲中风了。",
+    "example_vi": "Bố của anh ấy bị đột quỵ."
   },
   {
     "w": "潜伏期",
     "p": "qián fú qī",
     "m": "thời kỳ ủ bệnh",
-    "example": "潜伏期，thời k。",
-    "example_vi": "thời kỳ ủ bệnh."
+    "example": "这种病毒有较长的潜伏期。",
+    "example_vi": "Loại virus này có thời kỳ ủ bệnh khá dài."
   },
   {
     "w": "传染源",
     "p": "chuán rǎn yuán",
     "m": "nguồn lây nhiễm",
-    "example": "传染源，nguồn 。",
-    "example_vi": "nguồn lây nhiễm."
+    "example": "医生找到了传染源。",
+    "example_vi": "Bác sĩ đã tìm ra nguồn lây nhiễm."
   },
   {
     "w": "安乐死",
     "p": "ān lè sǐ",
     "m": "an tử",
-    "example": "安乐死，an tử。",
-    "example_vi": "an tử."
+    "example": "这个国家立法允许安乐死。",
+    "example_vi": "Quốc gia này đã lập pháp cho phép an tử."
   },
   {
     "w": "临终关怀",
     "p": "lín zhōng guān huái",
     "m": "chăm sóc cuối đời",
-    "example": "临终关怀，chăm s。",
-    "example_vi": "chăm sóc cuối đời."
+    "example": "这家医院提供临终关怀服务。",
+    "example_vi": "Bệnh viện này cung cấp dịch vụ chăm sóc cuối đời."
   },
   {
     "w": "博士后",
     "p": "bó shì hòu",
     "m": "nghiên cứu sau tiến sĩ",
-    "example": "博士后，nghiên。",
-    "example_vi": "nghiên cứu sau tiến sĩ."
+    "example": "他正在做博士后研究。",
+    "example_vi": "Anh ấy đang làm nghiên cứu sau tiến sĩ."
   },
   {
     "w": "学位论文",
@@ -1361,8 +1361,8 @@
     "w": "造诣",
     "p": "zào yì",
     "m": "trình độ uyên thâm",
-    "example": "造诣，trình 。",
-    "example_vi": "trình độ uyên thâm."
+    "example": "他在书法上造诣很深。",
+    "example_vi": "Anh ấy có trình độ uyên thâm về thư pháp."
   },
   {
     "w": "启蒙",
@@ -1375,8 +1375,8 @@
     "w": "思辨",
     "p": "sī biàn",
     "m": "tư biện, suy xét biện luận",
-    "example": "思辨，tư biệ。",
-    "example_vi": "tư biện, suy xét biện luận."
+    "example": "这本书充满了思辨色彩。",
+    "example_vi": "Cuốn sách này tràn đầy màu sắc tư biện."
   },
   {
     "w": "学说",
@@ -1389,22 +1389,22 @@
     "w": "集大成",
     "p": "jí dà chéng",
     "m": "tập đại thành, tổng hợp tinh hoa",
-    "example": "集大成，tập đạ。",
-    "example_vi": "tập đại thành, tổng hợp tinh hoa."
+    "example": "这部著作集大成于一身。",
+    "example_vi": "Tác phẩm này tổng hợp tinh hoa của nhiều lĩnh vực."
   },
   {
     "w": "考证",
     "p": "kǎo zhèng",
     "m": "khảo chứng",
-    "example": "考证，khảo c。",
-    "example_vi": "khảo chứng."
+    "example": "学者对这段历史进行了考证。",
+    "example_vi": "Học giả đã tiến hành khảo chứng đoạn lịch sử này."
   },
   {
     "w": "译注",
     "p": "yì zhù",
     "m": "dịch và chú giải",
-    "example": "译注，dịch v。",
-    "example_vi": "dịch và chú giải."
+    "example": "这本书附有详细的译注。",
+    "example_vi": "Cuốn sách này đi kèm phần dịch và chú giải chi tiết."
   },
   {
     "w": "杂文",
@@ -1424,15 +1424,15 @@
     "w": "武侠小说",
     "p": "wǔ xiá xiǎo shuō",
     "m": "tiểu thuyết võ hiệp",
-    "example": "武侠小说，tiểu t。",
-    "example_vi": "tiểu thuyết võ hiệp."
+    "example": "他喜欢看武侠小说。",
+    "example_vi": "Anh ấy thích đọc tiểu thuyết võ hiệp."
   },
   {
     "w": "文艺复兴",
     "p": "wén yì fù xīng",
     "m": "thời kỳ Phục Hưng",
-    "example": "文艺复兴，thời k。",
-    "example_vi": "thời kỳ Phục Hưng."
+    "example": "文艺复兴时期涌现出许多艺术家。",
+    "example_vi": "Thời kỳ Phục Hưng đã xuất hiện rất nhiều nghệ sĩ."
   },
   {
     "w": "比兴",
@@ -1459,22 +1459,22 @@
     "w": "原型",
     "p": "yuán xíng",
     "m": "nguyên mẫu, cổ mẫu",
-    "example": "原型，nguyên。",
-    "example_vi": "nguyên mẫu, cổ mẫu."
+    "example": "这个角色的原型是他的祖父。",
+    "example_vi": "Nguyên mẫu của nhân vật này là ông nội của anh ấy."
   },
   {
     "w": "悬念",
     "p": "xuán niàn",
     "m": "nút thắt gây hồi hộp",
-    "example": "悬念，nút th。",
-    "example_vi": "nút thắt gây hồi hộp."
+    "example": "这部电影设置了很多悬念。",
+    "example_vi": "Bộ phim này đã tạo ra rất nhiều nút thắt gây hồi hộp."
   },
   {
     "w": "悲剧性",
     "p": "bēi jù xìng",
     "m": "tính bi kịch",
-    "example": "悲剧性，tính b。",
-    "example_vi": "tính bi kịch."
+    "example": "这个故事带有悲剧性。",
+    "example_vi": "Câu chuyện này mang tính bi kịch."
   },
   {
     "w": "荒诞派",
@@ -1487,8 +1487,8 @@
     "w": "朦胧诗",
     "p": "méng lóng shī",
     "m": "thơ mông lung (TQ thập niên 80)",
-    "example": "朦胧诗，thơ mô。",
-    "example_vi": "thơ mông lung (TQ thập niên 80)."
+    "example": "他研究朦胧诗流派。",
+    "example_vi": "Anh ấy nghiên cứu trường phái thơ mông lung."
   },
   {
     "w": "乡土文学",
@@ -1508,43 +1508,43 @@
     "w": "价值观念",
     "p": "jià zhí guān niàn",
     "m": "quan niệm giá trị",
-    "example": "价值观念，quan n。",
-    "example_vi": "quan niệm giá trị."
+    "example": "每代人的价值观念都不同。",
+    "example_vi": "Quan niệm giá trị của mỗi thế hệ đều khác nhau."
   },
   {
     "w": "世俗化",
     "p": "shì sú huà",
     "m": "thế tục hóa",
-    "example": "世俗化，thế tụ。",
-    "example_vi": "thế tục hóa."
+    "example": "社会正经历世俗化进程。",
+    "example_vi": "Xã hội đang trải qua quá trình thế tục hóa."
   },
   {
     "w": "标题党",
     "p": "biāo tí dǎng",
     "m": "giật tít câu view",
-    "example": "标题党，giật t。",
-    "example_vi": "giật tít câu view."
+    "example": "这篇文章是标题党。",
+    "example_vi": "Bài viết này là kiểu giật tít câu view."
   },
   {
     "w": "人肉搜索",
     "p": "rén ròu sōu suǒ",
     "m": "truy lùng danh tính trên mạng",
-    "example": "人肉搜索，truy l。",
-    "example_vi": "truy lùng danh tính trên mạng."
+    "example": "网友对他进行了人肉搜索。",
+    "example_vi": "Cư dân mạng đã tiến hành truy lùng danh tính anh ta."
   },
   {
     "w": "公关危机",
     "p": "gōng guān wēi jī",
     "m": "khủng hoảng quan hệ công chúng",
-    "example": "公关危机，khủng 。",
-    "example_vi": "khủng hoảng quan hệ công chúng."
+    "example": "公司陷入了公关危机。",
+    "example_vi": "Công ty đã rơi vào khủng hoảng quan hệ công chúng."
   },
   {
     "w": "婚恋观",
     "p": "hūn liàn guān",
     "m": "quan niệm hôn nhân tình yêu",
-    "example": "婚恋观，quan n。",
-    "example_vi": "quan niệm hôn nhân tình yêu."
+    "example": "年轻人的婚恋观在改变。",
+    "example_vi": "Quan niệm hôn nhân tình yêu của giới trẻ đang thay đổi."
   },
   {
     "w": "蚁族",
@@ -1557,36 +1557,36 @@
     "w": "留守儿童",
     "p": "liú shǒu ér tóng",
     "m": "trẻ em ở lại quê khi cha mẹ đi làm xa",
-    "example": "留守儿童，trẻ em。",
-    "example_vi": "trẻ em ở lại quê khi cha mẹ đi làm xa."
+    "example": "这个乡村有很多留守儿童。",
+    "example_vi": "Ngôi làng này có rất nhiều trẻ em ở lại quê."
   },
   {
     "w": "辩护人",
     "p": "biàn hù rén",
     "m": "người bào chữa",
-    "example": "辩护人，người 。",
-    "example_vi": "người bào chữa."
+    "example": "被告聘请了辩护人。",
+    "example_vi": "Bị cáo đã thuê người bào chữa."
   },
   {
     "w": "检察院",
     "p": "jiǎn chá yuàn",
     "m": "viện kiểm sát",
-    "example": "检察院，viện k。",
-    "example_vi": "viện kiểm sát."
+    "example": "检察院提起了公诉。",
+    "example_vi": "Viện kiểm sát đã khởi tố công khai."
   },
   {
     "w": "取保候审",
     "p": "qǔ bǎo hòu shěn",
     "m": "tại ngoại chờ xét xử",
-    "example": "取保候审，tại ng。",
-    "example_vi": "tại ngoại chờ xét xử."
+    "example": "他被批准取保候审。",
+    "example_vi": "Anh ta đã được phê chuẩn tại ngoại chờ xét xử."
   },
   {
     "w": "死缓",
     "p": "sǐ huǎn",
     "m": "tử hình hoãn thi hành án",
-    "example": "死缓，tử hìn。",
-    "example_vi": "tử hình hoãn thi hành án."
+    "example": "法院判处他死缓。",
+    "example_vi": "Tòa án đã tuyên án tử hình hoãn thi hành đối với anh ta."
   },
   {
     "w": "违约",
@@ -1599,8 +1599,8 @@
     "w": "公证",
     "p": "gōng zhèng",
     "m": "công chứng",
-    "example": "公证，công c。",
-    "example_vi": "công chứng."
+    "example": "这份文件需要公证。",
+    "example_vi": "Tài liệu này cần phải công chứng."
   },
   {
     "w": "正当防卫",
@@ -1613,43 +1613,43 @@
     "w": "监护人",
     "p": "jiān hù rén",
     "m": "người giám hộ",
-    "example": "监护人，người 。",
-    "example_vi": "người giám hộ."
+    "example": "孩子的监护人签了字。",
+    "example_vi": "Người giám hộ của đứa trẻ đã ký tên."
   },
   {
     "w": "供给侧改革",
     "p": "gōng jǐ cè gǎi gé",
     "m": "cải cách phía cung",
-    "example": "供给侧改革，cải cá。",
-    "example_vi": "cải cách phía cung."
+    "example": "国家推行供给侧改革。",
+    "example_vi": "Quốc gia thúc đẩy cải cách phía cung."
   },
   {
     "w": "中等收入陷阱",
     "p": "zhōng děng shōu rù xiàn jǐng",
     "m": "bẫy thu nhập trung bình",
-    "example": "中等收入陷阱，bẫy th。",
-    "example_vi": "bẫy thu nhập trung bình."
+    "example": "这个国家面临中等收入陷阱。",
+    "example_vi": "Quốc gia này đối mặt với bẫy thu nhập trung bình."
   },
   {
     "w": "自然选择",
     "p": "zì rán xuǎn zé",
     "m": "chọn lọc tự nhiên",
-    "example": "自然选择，chọn l。",
-    "example_vi": "chọn lọc tự nhiên."
+    "example": "达尔文提出了自然选择理论。",
+    "example_vi": "Darwin đã đề xuất lý thuyết chọn lọc tự nhiên."
   },
   {
     "w": "暗物质",
     "p": "àn wù zhì",
     "m": "vật chất tối",
-    "example": "暗物质，vật ch。",
-    "example_vi": "vật chất tối."
+    "example": "科学家正在研究暗物质。",
+    "example_vi": "Các nhà khoa học đang nghiên cứu vật chất tối."
   },
   {
     "w": "公投",
     "p": "gōng tóu",
     "m": "trưng cầu dân ý",
-    "example": "公投，trưng 。",
-    "example_vi": "trưng cầu dân ý."
+    "example": "这个国家举行了公投。",
+    "example_vi": "Quốc gia này đã tổ chức trưng cầu dân ý."
   },
   {
     "w": "政变",
@@ -1662,36 +1662,36 @@
     "w": "冷战思维",
     "p": "lěng zhàn sī wéi",
     "m": "tư duy chiến tranh lạnh",
-    "example": "冷战思维，tư duy。",
-    "example_vi": "tư duy chiến tranh lạnh."
+    "example": "专家批评了冷战思维。",
+    "example_vi": "Chuyên gia đã phê phán tư duy chiến tranh lạnh."
   },
   {
     "w": "缓和",
     "p": "huǎn hé",
     "m": "hòa hoãn (quan hệ quốc tế)",
-    "example": "缓和，hòa ho。",
-    "example_vi": "hòa hoãn (quan hệ quốc tế)."
+    "example": "两国关系逐渐缓和。",
+    "example_vi": "Quan hệ hai nước dần dần hòa hoãn."
   },
   {
     "w": "结盟",
     "p": "jié méng",
     "m": "kết liên minh",
-    "example": "结盟，kết li。",
-    "example_vi": "kết liên minh."
+    "example": "两国正式结盟。",
+    "example_vi": "Hai nước chính thức kết liên minh."
   },
   {
     "w": "中立",
     "p": "zhōng lì",
     "m": "trung lập",
-    "example": "中立，trung 。",
-    "example_vi": "trung lập."
+    "example": "这个国家宣布保持中立。",
+    "example_vi": "Quốc gia này tuyên bố giữ trung lập."
   },
   {
     "w": "难民潮",
     "p": "nàn mín cháo",
     "m": "làn sóng tị nạn",
-    "example": "难民潮，làn só。",
-    "example_vi": "làn sóng tị nạn."
+    "example": "这场战争引发了难民潮。",
+    "example_vi": "Cuộc chiến này đã gây ra làn sóng tị nạn."
   },
   {
     "w": "分裂主义",
@@ -1704,15 +1704,15 @@
     "w": "官僚主义",
     "p": "guān liáo zhǔ yì",
     "m": "chủ nghĩa quan liêu",
-    "example": "官僚主义，chủ ng。",
-    "example_vi": "chủ nghĩa quan liêu."
+    "example": "政府反对官僚主义作风。",
+    "example_vi": "Chính phủ phản đối tác phong chủ nghĩa quan liêu."
   },
   {
     "w": "任期制",
     "p": "rèn qī zhì",
     "m": "chế độ nhiệm kỳ",
-    "example": "任期制，chế độ。",
-    "example_vi": "chế độ nhiệm kỳ."
+    "example": "这个职位实行任期制。",
+    "example_vi": "Chức vụ này thực hiện chế độ nhiệm kỳ."
   },
   {
     "w": "越俎代庖",
