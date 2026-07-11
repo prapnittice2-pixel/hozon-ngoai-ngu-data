@@ -27,7 +27,9 @@
     "w": "改善",
     "p": "gǎi shàn",
     "m": "cải thiện, cải thiện tình trạng",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他的生活条件改善了很多。",
+    "example_vi": "Điều kiện sống của anh ấy đã được cải thiện rất nhiều."
   },
   {
     "w": "解决",
@@ -39,7 +41,9 @@
     "w": "处理",
     "p": "chǔ lǐ",
     "m": "xử lý, giải quyết",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请尽快处理这件事。",
+    "example_vi": "Xin hãy xử lý việc này càng sớm càng tốt."
   },
   {
     "w": "政府",
@@ -75,7 +79,9 @@
     "w": "消息",
     "p": "xiāo xi",
     "m": "tin tức, thông tin",
-    "cat": "media"
+    "cat": "media",
+    "example": "我听到了一个好消息。",
+    "example_vi": "Tôi đã nghe được một tin tốt."
   },
   {
     "w": "报道",
@@ -87,13 +93,17 @@
     "w": "事件",
     "p": "shì jiàn",
     "m": "sự kiện",
-    "cat": "default"
+    "cat": "default",
+    "example": "这是一个重要的历史事件。",
+    "example_vi": "Đây là một sự kiện lịch sử quan trọng."
   },
   {
     "w": "发生",
     "p": "fā shēng",
     "m": "xảy ra, phát sinh",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "昨天发生了一件奇怪的事。",
+    "example_vi": "Hôm qua đã xảy ra một chuyện kỳ lạ."
   },
   {
     "w": "讨论",
@@ -105,13 +115,17 @@
     "w": "评价",
     "p": "píng jià",
     "m": "đánh giá, nhận xét",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "老师对他的评价很高。",
+    "example_vi": "Đánh giá của thầy giáo về anh ấy rất cao."
   },
   {
     "w": "建议",
     "p": "jiàn yì",
     "m": "đề nghị, gợi ý",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我建议你多休息。",
+    "example_vi": "Tôi đề nghị bạn nghỉ ngơi nhiều hơn."
   },
   {
     "w": "技术",
@@ -135,13 +149,17 @@
     "w": "企业",
     "p": "qǐ yè",
     "m": "doanh nghiệp",
-    "cat": "business"
+    "cat": "business",
+    "example": "这是一家大型企业。",
+    "example_vi": "Đây là một doanh nghiệp lớn."
   },
   {
     "w": "产品",
     "p": "chǎn pǐn",
     "m": "sản phẩm",
-    "cat": "business"
+    "cat": "business",
+    "example": "这个产品质量很好。",
+    "example_vi": "Sản phẩm này chất lượng rất tốt."
   },
   {
     "w": "服务",
@@ -183,7 +201,9 @@
     "w": "标准",
     "p": "biāo zhǔn",
     "m": "tiêu chuẩn",
-    "cat": "default"
+    "cat": "default",
+    "example": "这个产品符合国家标准。",
+    "example_vi": "Sản phẩm này đáp ứng tiêu chuẩn quốc gia."
   },
   {
     "w": "质量",
@@ -195,13 +215,17 @@
     "w": "效果",
     "p": "xiào guǒ",
     "m": "hiệu quả, kết quả",
-    "cat": "default"
+    "cat": "default",
+    "example": "这种方法效果很好。",
+    "example_vi": "Phương pháp này hiệu quả rất tốt."
   },
   {
     "w": "效率",
     "p": "xiào lǜ",
     "m": "hiệu suất",
-    "cat": "default"
+    "cat": "default",
+    "example": "提高工作效率很重要。",
+    "example_vi": "Nâng cao hiệu suất công việc rất quan trọng."
   },
   {
     "w": "目的",
@@ -225,13 +249,17 @@
     "w": "方案",
     "p": "fāng àn",
     "m": "phương án, kế hoạch",
-    "cat": "default"
+    "cat": "default",
+    "example": "我们讨论了几个方案。",
+    "example_vi": "Chúng tôi đã thảo luận vài phương án."
   },
   {
     "w": "措施",
     "p": "cuò shī",
     "m": "biện pháp",
-    "cat": "default"
+    "cat": "default",
+    "example": "政府采取了新措施。",
+    "example_vi": "Chính phủ đã áp dụng biện pháp mới."
   },
   {
     "w": "政策",
@@ -249,7 +277,9 @@
     "w": "规定",
     "p": "guī dìng",
     "m": "quy định",
-    "cat": "law"
+    "cat": "law",
+    "example": "学校有严格的规定。",
+    "example_vi": "Nhà trường có quy định nghiêm ngặt."
   },
   {
     "w": "权利",
@@ -285,13 +315,17 @@
     "w": "过程",
     "p": "guò chéng",
     "m": "quá trình",
-    "cat": "default"
+    "cat": "default",
+    "example": "学习是一个漫长的过程。",
+    "example_vi": "Học tập là một quá trình dài."
   },
   {
     "w": "现象",
     "p": "xiàn xiàng",
     "m": "hiện tượng",
-    "cat": "default"
+    "cat": "default",
+    "example": "这是一个普遍的社会现象。",
+    "example_vi": "Đây là một hiện tượng xã hội phổ biến."
   },
   {
     "w": "问题",
@@ -303,13 +337,17 @@
     "w": "情况",
     "p": "qíng kuàng",
     "m": "tình hình, tình trạng",
-    "cat": "default"
+    "cat": "default",
+    "example": "请介绍一下具体情况。",
+    "example_vi": "Xin hãy giới thiệu tình hình cụ thể."
   },
   {
     "w": "状况",
     "p": "zhuàng kuàng",
     "m": "tình trạng, trạng thái",
-    "cat": "default"
+    "cat": "default",
+    "example": "他的健康状况很好。",
+    "example_vi": "Tình trạng sức khỏe của anh ấy rất tốt."
   },
   {
     "w": "关系",
@@ -345,7 +383,9 @@
     "w": "沟通",
     "p": "gōu tōng",
     "m": "giao tiếp, trao đổi",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "有效沟通很重要。",
+    "example_vi": "Giao tiếp hiệu quả rất quan trọng."
   },
   {
     "w": "表达",
@@ -357,7 +397,9 @@
     "w": "说明",
     "p": "shuō míng",
     "m": "giải thích, thuyết minh",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请你说明一下情况。",
+    "example_vi": "Xin bạn giải thích tình hình."
   },
   {
     "w": "介绍",
@@ -423,7 +465,9 @@
     "w": "确定",
     "p": "què dìng",
     "m": "xác định, chắc chắn",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我们已经确定了时间。",
+    "example_vi": "Chúng tôi đã xác định được thời gian."
   },
   {
     "w": "决定",
@@ -441,13 +485,17 @@
     "w": "判断",
     "p": "pàn duàn",
     "m": "phán đoán, nhận định",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请你判断一下这件事对不对。",
+    "example_vi": "Xin bạn phán đoán xem việc này đúng hay sai."
   },
   {
     "w": "考虑",
     "p": "kǎo lǜ",
     "m": "cân nhắc, xem xét",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我需要考虑一下。",
+    "example_vi": "Tôi cần cân nhắc một chút."
   },
   {
     "w": "注意",
@@ -459,13 +507,17 @@
     "w": "重视",
     "p": "zhòng shì",
     "m": "coi trọng, chú trọng",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "父母很重视孩子的教育。",
+    "example_vi": "Cha mẹ rất coi trọng việc giáo dục con cái."
   },
   {
     "w": "强调",
     "p": "qiáng diào",
     "m": "nhấn mạnh",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "老师强调了这个问题的重要性。",
+    "example_vi": "Thầy giáo đã nhấn mạnh tầm quan trọng của vấn đề này."
   },
   {
     "w": "支持",
@@ -489,13 +541,17 @@
     "w": "拒绝",
     "p": "jù jué",
     "m": "từ chối, cự tuyệt",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他拒绝了我的邀请。",
+    "example_vi": "Anh ấy đã từ chối lời mời của tôi."
   },
   {
     "w": "接受",
     "p": "jiē shòu",
     "m": "chấp nhận, tiếp nhận",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他接受了这份工作。",
+    "example_vi": "Anh ấy đã chấp nhận công việc này."
   },
   {
     "w": "放弃",
@@ -537,19 +593,25 @@
     "w": "实现",
     "p": "shí xiàn",
     "m": "thực hiện, đạt được",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他终于实现了自己的梦想。",
+    "example_vi": "Cuối cùng anh ấy đã thực hiện được ước mơ của mình."
   },
   {
     "w": "达到",
     "p": "dá dào",
     "m": "đạt được, đạt tới",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他达到了自己的目标。",
+    "example_vi": "Anh ấy đã đạt được mục tiêu của mình."
   },
   {
     "w": "超过",
     "p": "chāo guò",
     "m": "vượt qua, hơn",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "这次考试超过了一百人参加。",
+    "example_vi": "Kỳ thi lần này có hơn một trăm người tham gia."
   },
   {
     "w": "增加",
@@ -567,7 +629,9 @@
     "w": "扩大",
     "p": "kuò dà",
     "m": "mở rộng, mở rộng",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "公司决定扩大规模。",
+    "example_vi": "Công ty quyết định mở rộng quy mô."
   },
   {
     "w": "缩小",
@@ -585,25 +649,33 @@
     "w": "减弱",
     "p": "jiǎn ruò",
     "m": "suy giảm, yếu đi",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "台风的力量在减弱。",
+    "example_vi": "Sức mạnh của cơn bão đang suy giảm."
   },
   {
     "w": "建立",
     "p": "jiàn lì",
     "m": "xây dựng, thành lập",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他们建立了良好的关系。",
+    "example_vi": "Họ đã xây dựng mối quan hệ tốt đẹp."
   },
   {
     "w": "形成",
     "p": "xíng chéng",
     "m": "hình thành",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "习惯是慢慢形成的。",
+    "example_vi": "Thói quen được hình thành dần dần."
   },
   {
     "w": "产生",
     "p": "chǎn shēng",
     "m": "tạo ra, phát sinh, nảy sinh, sản sinh",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "这件事产生了很大的影响。",
+    "example_vi": "Việc này đã tạo ra ảnh hưởng lớn."
   },
   {
     "w": "造成",
@@ -621,55 +693,73 @@
     "w": "促进",
     "p": "cù jìn",
     "m": "thúc đẩy, xúc tiến",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "运动可以促进健康。",
+    "example_vi": "Vận động có thể thúc đẩy sức khỏe."
   },
   {
     "w": "推动",
     "p": "tuī dòng",
     "m": "thúc đẩy, đẩy mạnh",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "科技推动了社会发展。",
+    "example_vi": "Khoa học kỹ thuật đã thúc đẩy sự phát triển xã hội."
   },
   {
     "w": "推广",
     "p": "tuī guǎng",
     "m": "phổ biến, quảng bá",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "这项技术正在推广。",
+    "example_vi": "Kỹ thuật này đang được phổ biến."
   },
   {
     "w": "宣传",
     "p": "xuān chuán",
     "m": "tuyên truyền, quảng cáo",
-    "cat": "media"
+    "cat": "media",
+    "example": "学校在宣传新政策。",
+    "example_vi": "Nhà trường đang tuyên truyền chính sách mới."
   },
   {
     "w": "传播",
     "p": "chuán bō",
     "m": "lan truyền, phổ biến",
-    "cat": "media"
+    "cat": "media",
+    "example": "这个消息传播得很快。",
+    "example_vi": "Tin tức này lan truyền rất nhanh."
   },
   {
     "w": "出现",
     "p": "chū xiàn",
     "m": "xuất hiện",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "天空出现了彩虹。",
+    "example_vi": "Trên trời xuất hiện cầu vồng."
   },
   {
     "w": "消失",
     "p": "xiāo shī",
     "m": "biến mất",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他突然消失了。",
+    "example_vi": "Anh ấy đột nhiên biến mất."
   },
   {
     "w": "保持",
     "p": "bǎo chí",
     "m": "duy trì, giữ gìn",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请保持安静。",
+    "example_vi": "Xin hãy giữ yên lặng."
   },
   {
     "w": "维持",
     "p": "wéi chí",
     "m": "duy trì",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他努力维持家庭生活。",
+    "example_vi": "Anh ấy cố gắng duy trì cuộc sống gia đình."
   },
   {
     "w": "改变",
@@ -681,7 +771,9 @@
     "w": "调整",
     "p": "tiáo zhěng",
     "m": "điều chỉnh",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "公司调整了工作时间。",
+    "example_vi": "Công ty đã điều chỉnh giờ làm việc."
   },
   {
     "w": "适应",
@@ -693,19 +785,25 @@
     "w": "应对",
     "p": "yìng duì",
     "m": "đối phó, ứng phó",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我们要学会应对困难。",
+    "example_vi": "Chúng ta phải học cách đối phó với khó khăn."
   },
   {
     "w": "面对",
     "p": "miàn duì",
     "m": "đối mặt",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我们要勇敢面对困难。",
+    "example_vi": "Chúng ta phải dũng cảm đối mặt với khó khăn."
   },
   {
     "w": "克服",
     "p": "kè fú",
     "m": "vượt qua, khắc phục",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他克服了很多困难。",
+    "example_vi": "Anh ấy đã vượt qua rất nhiều khó khăn."
   },
   {
     "w": "避免",
@@ -729,13 +827,17 @@
     "w": "利用",
     "p": "lì yòng",
     "m": "tận dụng, sử dụng",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我们要合理利用时间。",
+    "example_vi": "Chúng ta phải tận dụng thời gian hợp lý."
   },
   {
     "w": "使用",
     "p": "shǐ yòng",
     "m": "sử dụng",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请正确使用这个工具。",
+    "example_vi": "Xin hãy sử dụng công cụ này đúng cách."
   },
   {
     "w": "应用",
@@ -753,7 +855,9 @@
     "w": "执行",
     "p": "zhí xíng",
     "m": "thực hiện, thi hành",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请立刻执行这个计划。",
+    "example_vi": "Xin hãy thực hiện kế hoạch này ngay lập tức."
   },
   {
     "w": "管理",
@@ -765,7 +869,9 @@
     "w": "控制",
     "p": "kòng zhì",
     "m": "kiểm soát",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他很难控制自己的情绪。",
+    "example_vi": "Anh ấy khó kiểm soát cảm xúc của mình."
   },
   {
     "w": "监督",
@@ -783,31 +889,41 @@
     "w": "评估",
     "p": "píng gū",
     "m": "đánh giá, ước tính",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "专家对这个项目进行了评估。",
+    "example_vi": "Các chuyên gia đã đánh giá dự án này."
   },
   {
     "w": "测量",
     "p": "cè liáng",
     "m": "đo lường, đo đạc",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请测量一下这张桌子的长度。",
+    "example_vi": "Xin hãy đo chiều dài của chiếc bàn này."
   },
   {
     "w": "记录",
     "p": "jì lù",
     "m": "ghi chép, ghi lại, kỷ lục",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请记录这次会议的内容。",
+    "example_vi": "Xin hãy ghi chép nội dung cuộc họp này."
   },
   {
     "w": "整理",
     "p": "zhěng lǐ",
     "m": "sắp xếp, chỉnh lý",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请整理一下你的书桌。",
+    "example_vi": "Xin hãy sắp xếp lại bàn học của bạn."
   },
   {
     "w": "分配",
     "p": "fēn pèi",
     "m": "phân phối, phân công",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "老师给我们分配了任务。",
+    "example_vi": "Thầy giáo đã phân công nhiệm vụ cho chúng tôi."
   },
   {
     "w": "安排",
@@ -825,19 +941,25 @@
     "w": "参与",
     "p": "cān yù",
     "m": "tham gia",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "很多人参与了这次活动。",
+    "example_vi": "Rất nhiều người đã tham gia hoạt động lần này."
   },
   {
     "w": "贡献",
     "p": "gòng xiàn",
     "m": "đóng góp, cống hiến",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他为公司做出了很大贡献。",
+    "example_vi": "Anh ấy đã có đóng góp lớn cho công ty."
   },
   {
     "w": "成本",
     "p": "chéng běn",
     "m": "chi phí, giá thành",
-    "cat": "business"
+    "cat": "business",
+    "example": "生产成本上升了。",
+    "example_vi": "Chi phí sản xuất đã tăng lên."
   },
   {
     "w": "利润",
@@ -849,13 +971,17 @@
     "w": "收入",
     "p": "shōu rù",
     "m": "thu nhập, doanh thu",
-    "cat": "money"
+    "cat": "money",
+    "example": "他的收入很高。",
+    "example_vi": "Thu nhập của anh ấy rất cao."
   },
   {
     "w": "支出",
     "p": "zhī chū",
     "m": "chi tiêu, chi phí",
-    "cat": "money"
+    "cat": "money",
+    "example": "这个月的支出比较多。",
+    "example_vi": "Chi tiêu tháng này tương đối nhiều."
   },
   {
     "w": "投资",
@@ -903,31 +1029,41 @@
     "w": "签订",
     "p": "qiān dìng",
     "m": "ký kết",
-    "cat": "business"
+    "cat": "business",
+    "example": "两国签订了贸易协定。",
+    "example_vi": "Hai nước đã ký kết hiệp định thương mại."
   },
   {
     "w": "报价",
     "p": "bào jià",
     "m": "báo giá",
-    "cat": "business"
+    "cat": "business",
+    "example": "请给我一个报价。",
+    "example_vi": "Xin hãy báo giá cho tôi."
   },
   {
     "w": "订单",
     "p": "dìng dān",
     "m": "đơn đặt hàng",
-    "cat": "business"
+    "cat": "business",
+    "example": "我们收到了一个大订单。",
+    "example_vi": "Chúng tôi đã nhận được một đơn đặt hàng lớn."
   },
   {
     "w": "交货",
     "p": "jiāo huò",
     "m": "giao hàng",
-    "cat": "business"
+    "cat": "business",
+    "example": "请按时交货。",
+    "example_vi": "Xin hãy giao hàng đúng hạn."
   },
   {
     "w": "供应",
     "p": "gōng yìng",
     "m": "cung cấp, cung ứng",
-    "cat": "business"
+    "cat": "business",
+    "example": "这个地区水资源供应充足。",
+    "example_vi": "Khu vực này có nguồn cung cấp tài nguyên nước dồi dào."
   },
   {
     "w": "需求",
@@ -939,13 +1075,17 @@
     "w": "供求",
     "p": "gōng qiú",
     "m": "cung cầu",
-    "cat": "business"
+    "cat": "business",
+    "example": "价格由供求关系决定。",
+    "example_vi": "Giá cả được quyết định bởi quan hệ cung cầu."
   },
   {
     "w": "广告",
     "p": "guǎng gào",
     "m": "quảng cáo",
-    "cat": "business"
+    "cat": "business",
+    "example": "电视上有很多广告。",
+    "example_vi": "Trên tivi có rất nhiều quảng cáo."
   },
   {
     "w": "品牌",
@@ -963,7 +1103,9 @@
     "w": "消费者",
     "p": "xiāo fèi zhě",
     "m": "người tiêu dùng",
-    "cat": "business"
+    "cat": "business",
+    "example": "消费者的权益应该受到保护。",
+    "example_vi": "Quyền lợi của người tiêu dùng nên được bảo vệ."
   },
   {
     "w": "生产者",
@@ -975,79 +1117,105 @@
     "w": "经营",
     "p": "jīng yíng",
     "m": "kinh doanh",
-    "cat": "business"
+    "cat": "business",
+    "example": "他经营一家小餐馆。",
+    "example_vi": "Anh ấy kinh doanh một nhà hàng nhỏ."
   },
   {
     "w": "运营",
     "p": "yùn yíng",
     "m": "vận hành, điều hành",
-    "cat": "business"
+    "cat": "business",
+    "example": "他负责公司的日常运营。",
+    "example_vi": "Anh ấy phụ trách vận hành hàng ngày của công ty."
   },
   {
     "w": "战略",
     "p": "zhàn lüè",
     "m": "chiến lược",
-    "cat": "business"
+    "cat": "business",
+    "example": "公司制定了新的发展战略。",
+    "example_vi": "Công ty đã đề ra chiến lược phát triển mới."
   },
   {
     "w": "竞争力",
     "p": "jìng zhēng lì",
     "m": "sức cạnh tranh",
-    "cat": "business"
+    "cat": "business",
+    "example": "这家公司很有竞争力。",
+    "example_vi": "Công ty này rất có sức cạnh tranh."
   },
   {
     "w": "创业",
     "p": "chuàng yè",
     "m": "khởi nghiệp",
-    "cat": "business"
+    "cat": "business",
+    "example": "他决定自己创业。",
+    "example_vi": "Anh ấy quyết định tự mình khởi nghiệp."
   },
   {
     "w": "创业者",
     "p": "chuàng yè zhě",
     "m": "doanh nhân khởi nghiệp",
-    "cat": "business"
+    "cat": "business",
+    "example": "很多年轻创业者都很有活力。",
+    "example_vi": "Rất nhiều doanh nhân khởi nghiệp trẻ đều rất năng động."
   },
   {
     "w": "行业",
     "p": "háng yè",
     "m": "ngành, lĩnh vực",
-    "cat": "business"
+    "cat": "business",
+    "example": "他在互联网行业工作。",
+    "example_vi": "Anh ấy làm việc trong ngành internet."
   },
   {
     "w": "领域",
     "p": "lǐng yù",
     "m": "lĩnh vực, phạm vi",
-    "cat": "default"
+    "cat": "default",
+    "example": "他在这个领域很有经验。",
+    "example_vi": "Anh ấy rất có kinh nghiệm trong lĩnh vực này."
   },
   {
     "w": "范围",
     "p": "fàn wéi",
     "m": "phạm vi, tầm",
-    "cat": "default"
+    "cat": "default",
+    "example": "这超出了我的工作范围。",
+    "example_vi": "Việc này vượt quá phạm vi công việc của tôi."
   },
   {
     "w": "规模",
     "p": "guī mó",
     "m": "quy mô",
-    "cat": "default"
+    "cat": "default",
+    "example": "这家公司的规模很大。",
+    "example_vi": "Quy mô của công ty này rất lớn."
   },
   {
     "w": "层次",
     "p": "céng cì",
     "m": "tầng lớp, cấp độ",
-    "cat": "default"
+    "cat": "default",
+    "example": "这篇文章的层次很清楚。",
+    "example_vi": "Bố cục của bài viết này rất rõ ràng."
   },
   {
     "w": "阶段",
     "p": "jiē duàn",
     "m": "giai đoạn",
-    "cat": "default"
+    "cat": "default",
+    "example": "我们正处在一个重要阶段。",
+    "example_vi": "Chúng tôi đang ở một giai đoạn quan trọng."
   },
   {
     "w": "步骤",
     "p": "bù zhòu",
     "m": "bước, bước đi",
-    "cat": "default"
+    "cat": "default",
+    "example": "请按照步骤操作。",
+    "example_vi": "Xin hãy thao tác theo các bước."
   },
   {
     "w": "程序",
@@ -1059,19 +1227,25 @@
     "w": "制度",
     "p": "zhì dù",
     "m": "chế độ, thể chế",
-    "cat": "politics"
+    "cat": "politics",
+    "example": "这个国家有完善的教育制度。",
+    "example_vi": "Quốc gia này có chế độ giáo dục hoàn thiện."
   },
   {
     "w": "体制",
     "p": "tǐ zhì",
     "m": "thể chế, cơ chế",
-    "cat": "politics"
+    "cat": "politics",
+    "example": "这个国家的政治体制很复杂。",
+    "example_vi": "Thể chế chính trị của quốc gia này rất phức tạp."
   },
   {
     "w": "机构",
     "p": "jī gòu",
     "m": "cơ quan, tổ chức",
-    "cat": "default"
+    "cat": "default",
+    "example": "他在一家研究机构工作。",
+    "example_vi": "Anh ấy làm việc ở một cơ quan nghiên cứu."
   },
   {
     "w": "部门",
@@ -1089,31 +1263,41 @@
     "w": "代表",
     "p": "dài biǎo",
     "m": "đại biểu, đại diện",
-    "cat": "politics"
+    "cat": "politics",
+    "example": "他是公司的代表。",
+    "example_vi": "Anh ấy là đại diện của công ty."
   },
   {
     "w": "领导",
     "p": "lǐng dǎo",
     "m": "lãnh đạo",
-    "cat": "work"
+    "cat": "work",
+    "example": "他是一位好领导。",
+    "example_vi": "Anh ấy là một lãnh đạo tốt."
   },
   {
     "w": "主席",
     "p": "zhǔ xí",
     "m": "chủ tịch",
-    "cat": "politics"
+    "cat": "politics",
+    "example": "他当选为董事会主席。",
+    "example_vi": "Anh ấy được bầu làm chủ tịch hội đồng quản trị."
   },
   {
     "w": "总统",
     "p": "zǒng tǒng",
     "m": "tổng thống",
-    "cat": "politics"
+    "cat": "politics",
+    "example": "总统发表了讲话。",
+    "example_vi": "Tổng thống đã phát biểu."
   },
   {
     "w": "官员",
     "p": "guān yuán",
     "m": "quan chức, cán bộ",
-    "cat": "politics"
+    "cat": "politics",
+    "example": "政府官员参加了会议。",
+    "example_vi": "Quan chức chính phủ đã tham dự cuộc họp."
   },
   {
     "w": "公民",
@@ -1143,7 +1327,9 @@
     "w": "公平",
     "p": "gōng píng",
     "m": "công bằng",
-    "cat": "default"
+    "cat": "default",
+    "example": "比赛应该公平进行。",
+    "example_vi": "Cuộc thi nên được tiến hành công bằng."
   },
   {
     "w": "正义",
@@ -1167,13 +1353,17 @@
     "w": "信任",
     "p": "xìn rèn",
     "m": "tin tưởng",
-    "cat": "default"
+    "cat": "default",
+    "example": "我们之间需要信任。",
+    "example_vi": "Giữa chúng ta cần có sự tin tưởng."
   },
   {
     "w": "尊重",
     "p": "zūn zhòng",
     "m": "tôn trọng",
-    "cat": "default"
+    "cat": "default",
+    "example": "我们应该尊重每个人。",
+    "example_vi": "Chúng ta nên tôn trọng mọi người."
   },
   {
     "w": "谦虚",
@@ -1191,7 +1381,9 @@
     "w": "毅力",
     "p": "yì lì",
     "m": "ý chí, nghị lực",
-    "cat": "default"
+    "cat": "default",
+    "example": "成功需要毅力。",
+    "example_vi": "Thành công cần có nghị lực."
   },
   {
     "w": "精神",
@@ -1203,25 +1395,33 @@
     "w": "心态",
     "p": "xīn tài",
     "m": "tâm thái, thái độ tinh thần",
-    "cat": "emotion"
+    "cat": "emotion",
+    "example": "保持良好的心态很重要。",
+    "example_vi": "Giữ tâm thái tốt rất quan trọng."
   },
   {
     "w": "态度",
     "p": "tài dù",
     "m": "thái độ",
-    "cat": "default"
+    "cat": "default",
+    "example": "他工作的态度很认真。",
+    "example_vi": "Thái độ làm việc của anh ấy rất nghiêm túc."
   },
   {
     "w": "观念",
     "p": "guān niàn",
     "m": "quan niệm, khái niệm",
-    "cat": "default"
+    "cat": "default",
+    "example": "他的观念很传统。",
+    "example_vi": "Quan niệm của anh ấy rất truyền thống."
   },
   {
     "w": "思想",
     "p": "sī xiǎng",
     "m": "tư tưởng, suy nghĩ",
-    "cat": "philosophy"
+    "cat": "philosophy",
+    "example": "他的思想很先进。",
+    "example_vi": "Tư tưởng của anh ấy rất tiên tiến."
   },
   {
     "w": "意识",
@@ -1245,37 +1445,49 @@
     "w": "主张",
     "p": "zhǔ zhāng",
     "m": "chủ trương, đề xuất",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他主张早睡早起。",
+    "example_vi": "Anh ấy chủ trương ngủ sớm dậy sớm."
   },
   {
     "w": "倡导",
     "p": "chàng dǎo",
     "m": "xướng đề, vận động",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我们倡导健康的生活方式。",
+    "example_vi": "Chúng tôi xướng đề lối sống lành mạnh."
   },
   {
     "w": "提倡",
     "p": "tí chàng",
     "m": "đề xướng, khuyến khích",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "学校提倡节约用水。",
+    "example_vi": "Nhà trường đề xướng tiết kiệm nước."
   },
   {
     "w": "鼓励",
     "p": "gǔ lì",
     "m": "khuyến khích, động viên",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "老师鼓励我们多发言。",
+    "example_vi": "Thầy giáo khuyến khích chúng tôi phát biểu nhiều hơn."
   },
   {
     "w": "激励",
     "p": "jī lì",
     "m": "kích thích, thúc đẩy, khích lệ, khen thưởng, động viên",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "老师的话激励了他。",
+    "example_vi": "Lời nói của thầy giáo đã khích lệ anh ấy."
   },
   {
     "w": "启发",
     "p": "qǐ fā",
     "m": "gợi mở, truyền cảm hứng, gợi ý, khai sáng",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "这本书给了我很多启发。",
+    "example_vi": "Cuốn sách này đã cho tôi nhiều gợi mở."
   },
   {
     "w": "培养",
@@ -1287,13 +1499,17 @@
     "w": "教导",
     "p": "jiào dǎo",
     "m": "dạy dỗ, giáo dục",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "父母的教导让他受益终身。",
+    "example_vi": "Sự dạy dỗ của cha mẹ đã giúp ích cho anh ấy suốt đời."
   },
   {
     "w": "指导",
     "p": "zhǐ dǎo",
     "m": "hướng dẫn, chỉ đạo",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "老师给了我很多指导。",
+    "example_vi": "Thầy giáo đã cho tôi nhiều hướng dẫn."
   },
   {
     "w": "帮助",
@@ -1305,37 +1521,49 @@
     "w": "提供",
     "p": "tí gōng",
     "m": "cung cấp, đề xuất",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "学校提供免费午餐。",
+    "example_vi": "Nhà trường cung cấp bữa trưa miễn phí."
   },
   {
     "w": "获得",
     "p": "huò dé",
     "m": "đạt được, thu được",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他获得了第一名。",
+    "example_vi": "Anh ấy đã đạt được vị trí thứ nhất."
   },
   {
     "w": "享受",
     "p": "xiǎng shòu",
     "m": "tận hưởng",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我们要享受生活。",
+    "example_vi": "Chúng ta phải tận hưởng cuộc sống."
   },
   {
     "w": "体验",
     "p": "tǐ yàn",
     "m": "trải nghiệm",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "这是一次难忘的体验。",
+    "example_vi": "Đây là một trải nghiệm khó quên."
   },
   {
     "w": "感受",
     "p": "gǎn shòu",
     "m": "cảm nhận",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请说说你的感受。",
+    "example_vi": "Xin hãy nói về cảm nhận của bạn."
   },
   {
     "w": "体会",
     "p": "tǐ huì",
     "m": "cảm nhận, thấu hiểu",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我深深体会到了父母的辛苦。",
+    "example_vi": "Tôi đã sâu sắc cảm nhận được sự vất vả của cha mẹ."
   },
   {
     "w": "意识到",
@@ -1365,7 +1593,9 @@
     "w": "期望",
     "p": "qī wàng",
     "m": "mong đợi, kỳ vọng",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "父母对我期望很高。",
+    "example_vi": "Cha mẹ mong đợi rất nhiều ở tôi."
   },
   {
     "w": "担心",

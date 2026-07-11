@@ -3,31 +3,41 @@
     "w": "取消关注",
     "p": "qǔxiāo guānzhù",
     "m": "hủy theo dõi, bỏ follow",
-    "cat": "tech"
+    "cat": "tech",
+    "example": "她取消关注了那个账号。",
+    "example_vi": "Cô ấy đã hủy theo dõi tài khoản đó."
   },
   {
     "w": "UP主",
     "p": "UP zhǔ",
     "m": "người tạo nội dung (Bilibili/YouTube)",
-    "cat": "tech"
+    "cat": "tech",
+    "example": "这位UP主发布了新视频。",
+    "example_vi": "Người tạo nội dung này đã đăng video mới."
   },
   {
     "w": "电子支付",
     "p": "diànzǐ zhīfù",
     "m": "thanh toán điện tử",
-    "cat": "tech"
+    "cat": "tech",
+    "example": "现在电子支付很普遍。",
+    "example_vi": "Hiện nay thanh toán điện tử rất phổ biến."
   },
   {
     "w": "微信支付",
     "p": "Wēixìn zhīfù",
     "m": "thanh toán qua WeChat Pay",
-    "cat": "tech"
+    "cat": "tech",
+    "example": "他用微信支付买单。",
+    "example_vi": "Anh ấy dùng WeChat Pay để thanh toán."
   },
   {
     "w": "刷脸",
     "p": "shuā liǎn",
     "m": "quét khuôn mặt, thanh toán qua nhận diện khuôn mặt",
-    "cat": "tech"
+    "cat": "tech",
+    "example": "这个门禁可以刷脸进入。",
+    "example_vi": "Cửa an ninh này có thể quét khuôn mặt để vào."
   },
   {
     "w": "居家办公",
@@ -45,7 +55,9 @@
     "w": "弹性工作",
     "p": "tánxìng gōngzuò",
     "m": "làm việc giờ linh hoạt, không cố định giờ giấc",
-    "cat": "work"
+    "cat": "work",
+    "example": "公司实行弹性工作制度。",
+    "example_vi": "Công ty thực hiện chế độ làm việc giờ linh hoạt."
   },
   {
     "w": "副业",
@@ -57,6 +69,8 @@
     "w": "斜杠青年",
     "p": "xiégàng qīngnián",
     "m": "thế hệ 'slash' — người có nhiều nghề/vai trò cùng lúc",
-    "cat": "society"
+    "cat": "society",
+    "example": "他是一名典型的斜杠青年。",
+    "example_vi": "Anh ấy là một người trẻ đa nghề điển hình."
   }
 ]

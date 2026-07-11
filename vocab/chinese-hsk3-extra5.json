@@ -3,7 +3,9 @@
     "w": "看病",
     "p": "kàn bìng",
     "m": "đi khám bệnh, đến gặp bác sĩ",
-    "cat": "health"
+    "cat": "health",
+    "example": "他今天去医院看病。",
+    "example_vi": "Hôm nay anh ấy đến bệnh viện khám bệnh."
   },
   {
     "w": "杯子",
@@ -15,13 +17,17 @@
     "w": "叉子",
     "p": "chāzi",
     "m": "cái nĩa",
-    "cat": "home"
+    "cat": "home",
+    "example": "请给我一把叉子。",
+    "example_vi": "Xin cho tôi một cái nĩa."
   },
   {
     "w": "剪刀",
     "p": "jiǎndāo",
     "m": "cái kéo",
-    "cat": "home"
+    "cat": "home",
+    "example": "请把剪刀给我。",
+    "example_vi": "Xin đưa cho tôi cái kéo."
   },
   {
     "w": "窗帘",
@@ -45,7 +51,9 @@
     "w": "倒垃圾",
     "p": "dào lājī",
     "m": "đổ rác, mang rác ra ngoài",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "每天晚上他去倒垃圾。",
+    "example_vi": "Mỗi tối anh ấy đi đổ rác."
   },
   {
     "w": "大衣",
@@ -57,7 +65,9 @@
     "w": "夹克",
     "p": "jiākè",
     "m": "áo khoác ngắn, jacket",
-    "cat": "clothing"
+    "cat": "clothing",
+    "example": "他穿着一件黑色夹克。",
+    "example_vi": "Anh ấy mặc một chiếc áo khoác màu đen."
   },
   {
     "w": "背包",
@@ -69,24 +79,32 @@
     "w": "难道",
     "p": "nándào",
     "m": "lẽ nào, chẳng lẽ (câu hỏi tu từ)",
-    "cat": "language"
+    "cat": "language",
+    "example": "难道你不知道吗？",
+    "example_vi": "Lẽ nào bạn không biết sao?"
   },
   {
     "w": "闪电",
     "p": "shǎndiàn",
     "m": "tia sét, chớp",
-    "cat": "nature"
+    "cat": "nature",
+    "example": "天上出现了闪电。",
+    "example_vi": "Trên trời xuất hiện tia sét."
   },
   {
     "w": "雾",
     "p": "wù",
     "m": "sương mù",
-    "cat": "nature"
+    "cat": "nature",
+    "example": "今天早上有雾。",
+    "example_vi": "Sáng nay có sương mù."
   },
   {
     "w": "草坪",
     "p": "cǎopíng",
     "m": "bãi cỏ, thảm cỏ",
-    "cat": "nature"
+    "cat": "nature",
+    "example": "孩子们在草坪上玩。",
+    "example_vi": "Bọn trẻ đang chơi trên bãi cỏ."
   }
 ]

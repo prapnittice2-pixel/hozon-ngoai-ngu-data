@@ -3,31 +3,41 @@
     "w": "并且",
     "p": "bìngqiě",
     "m": "và hơn nữa, đồng thời",
-    "cat": "language"
+    "cat": "language",
+    "example": "他很聪明，并且很努力。",
+    "example_vi": "Anh ấy rất thông minh, và hơn nữa rất chăm chỉ."
   },
   {
     "w": "与其",
     "p": "yǔqí",
     "m": "thay vì, chi bằng",
-    "cat": "language"
+    "cat": "language",
+    "example": "与其抱怨，不如努力改变。",
+    "example_vi": "Thay vì than phiền, chi bằng cố gắng thay đổi."
   },
   {
     "w": "准时",
     "p": "zhǔnshí",
     "m": "đúng giờ, đúng hẹn",
-    "cat": "time"
+    "cat": "time",
+    "example": "请准时到达。",
+    "example_vi": "Xin hãy đến đúng giờ."
   },
   {
     "w": "具有",
     "p": "jùyǒu",
     "m": "có, sở hữu, mang đặc điểm",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "这个方案具有很大的可行性。",
+    "example_vi": "Phương án này có tính khả thi rất lớn."
   },
   {
     "w": "留下",
     "p": "liú xia",
     "m": "ở lại; để lại",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他留下了一封信。",
+    "example_vi": "Anh ấy đã để lại một bức thư."
   },
   {
     "w": "行为",
@@ -39,25 +49,33 @@
     "w": "建设",
     "p": "jiànshè",
     "m": "xây dựng, kiến thiết",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "政府正在建设新的道路。",
+    "example_vi": "Chính phủ đang xây dựng con đường mới."
   },
   {
     "w": "分享",
     "p": "fēnxiǎng",
     "m": "chia sẻ",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他喜欢和朋友分享快乐。",
+    "example_vi": "Anh ấy thích chia sẻ niềm vui với bạn bè."
   },
   {
     "w": "追求",
     "p": "zhuīqiú",
     "m": "theo đuổi, truy cầu",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他一直在追求自己的梦想。",
+    "example_vi": "Anh ấy luôn theo đuổi ước mơ của mình."
   },
   {
     "w": "举例",
     "p": "jǔlì",
     "m": "lấy ví dụ, đưa ra ví dụ",
-    "cat": "language"
+    "cat": "language",
+    "example": "请举例说明。",
+    "example_vi": "Xin hãy lấy ví dụ để giải thích."
   },
   {
     "w": "越来越",

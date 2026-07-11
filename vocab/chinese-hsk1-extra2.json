@@ -15,13 +15,17 @@
     "w": "想要",
     "p": "xiǎng yào",
     "m": "muốn (có/làm gì đó)",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我想要一杯咖啡。",
+    "example_vi": "Tôi muốn một cốc cà phê."
   },
   {
     "w": "站起来",
     "p": "zhàn qǐlái",
     "m": "đứng lên",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请大家站起来。",
+    "example_vi": "Xin mời mọi người đứng lên."
   },
   {
     "w": "坐下",
@@ -45,6 +49,8 @@
     "w": "请问",
     "p": "qǐngwèn",
     "m": "xin hỏi, cho tôi hỏi",
-    "cat": "greeting"
+    "cat": "greeting",
+    "example": "请问，图书馆怎么走？",
+    "example_vi": "Xin hỏi, thư viện đi thế nào?"
   }
 ]

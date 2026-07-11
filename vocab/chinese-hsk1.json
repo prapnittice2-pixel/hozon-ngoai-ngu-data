@@ -39,73 +39,97 @@
     "w": "喂",
     "p": "wèi",
     "m": "a-lô",
-    "cat": "greeting"
+    "cat": "greeting",
+    "example": "喂，你好，请问是王先生吗？",
+    "example_vi": "A-lô, xin chào, xin hỏi có phải là ông Vương không?"
   },
   {
     "w": "我",
     "p": "wǒ",
     "m": "tôi, tao",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "我是学生。",
+    "example_vi": "Tôi là học sinh."
   },
   {
     "w": "你",
     "p": "nǐ",
     "m": "bạn, mày",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "你叫什么名字？",
+    "example_vi": "Bạn tên là gì?"
   },
   {
     "w": "他",
     "p": "tā",
     "m": "anh ấy",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "他是我的朋友。",
+    "example_vi": "Anh ấy là bạn của tôi."
   },
   {
     "w": "她",
     "p": "tā",
     "m": "cô ấy",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "她是我的老师。",
+    "example_vi": "Cô ấy là giáo viên của tôi."
   },
   {
     "w": "它",
     "p": "tā",
     "m": "nó (vật)",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "这是一只猫，它很可爱。",
+    "example_vi": "Đây là một con mèo, nó rất dễ thương."
   },
   {
     "w": "我们",
     "p": "wǒ men",
     "m": "chúng tôi",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "我们是同学。",
+    "example_vi": "Chúng tôi là bạn học."
   },
   {
     "w": "你们",
     "p": "nǐ men",
     "m": "các bạn",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "你们好吗？",
+    "example_vi": "Các bạn khỏe không?"
   },
   {
     "w": "他们",
     "p": "tā men",
     "m": "họ",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "他们在图书馆看书。",
+    "example_vi": "Họ đang đọc sách trong thư viện."
   },
   {
     "w": "这",
     "p": "zhè",
     "m": "cái này",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "这是我的书。",
+    "example_vi": "Đây là sách của tôi."
   },
   {
     "w": "那",
     "p": "nà",
     "m": "cái đó",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "那是你的手机吗？",
+    "example_vi": "Đó có phải điện thoại của bạn không?"
   },
   {
     "w": "哪",
     "p": "nǎ",
     "m": "cái nào",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "你喜欢哪个颜色？",
+    "example_vi": "Bạn thích màu nào?"
   },
   {
     "w": "一",
@@ -171,13 +195,17 @@
     "w": "百",
     "p": "bǎi",
     "m": "trăm",
-    "cat": "number"
+    "cat": "number",
+    "example": "这本书一百页。",
+    "example_vi": "Cuốn sách này có một trăm trang."
   },
   {
     "w": "千",
     "p": "qiān",
     "m": "nghìn",
-    "cat": "number"
+    "cat": "number",
+    "example": "这个城市有一千所学校。",
+    "example_vi": "Thành phố này có một nghìn trường học."
   },
   {
     "w": "万",
@@ -201,7 +229,9 @@
     "w": "几",
     "p": "jǐ",
     "m": "mấy",
-    "cat": "number"
+    "cat": "number",
+    "example": "你家有几个人？",
+    "example_vi": "Nhà bạn có mấy người?"
   },
   {
     "w": "多少",
@@ -285,7 +315,9 @@
     "w": "现在",
     "p": "xiàn zài",
     "m": "bây giờ",
-    "cat": "time"
+    "cat": "time",
+    "example": "现在几点了？",
+    "example_vi": "Bây giờ là mấy giờ rồi?"
   },
   {
     "w": "上午",
@@ -339,19 +371,25 @@
     "w": "时候",
     "p": "shí hou",
     "m": "lúc, khi",
-    "cat": "time"
+    "cat": "time",
+    "example": "你什么时候回家？",
+    "example_vi": "Khi nào bạn về nhà?"
   },
   {
     "w": "中国",
     "p": "zhōng guó",
     "m": "Trung Quốc",
-    "cat": "place"
+    "cat": "place",
+    "example": "我在中国学习汉语。",
+    "example_vi": "Tôi đang học tiếng Trung ở Trung Quốc."
   },
   {
     "w": "北京",
     "p": "běi jīng",
     "m": "Bắc Kinh",
-    "cat": "place"
+    "cat": "place",
+    "example": "北京是中国的首都。",
+    "example_vi": "Bắc Kinh là thủ đô của Trung Quốc."
   },
   {
     "w": "学校",
@@ -387,7 +425,9 @@
     "w": "图书馆",
     "p": "tú shū guǎn",
     "m": "thư viện",
-    "cat": "school"
+    "cat": "school",
+    "example": "我每天去图书馆看书。",
+    "example_vi": "Mỗi ngày tôi đến thư viện đọc sách."
   },
   {
     "w": "吃",
@@ -429,7 +469,9 @@
     "w": "水果",
     "p": "shuǐ guǒ",
     "m": "hoa quả",
-    "cat": "food"
+    "cat": "food",
+    "example": "我喜欢吃水果。",
+    "example_vi": "Tôi thích ăn hoa quả."
   },
   {
     "w": "苹果",
@@ -441,7 +483,9 @@
     "w": "鸡蛋",
     "p": "jī dàn",
     "m": "trứng gà",
-    "cat": "food"
+    "cat": "food",
+    "example": "妈妈煮了两个鸡蛋。",
+    "example_vi": "Mẹ đã luộc hai quả trứng gà."
   },
   {
     "w": "米饭",
@@ -453,19 +497,25 @@
     "w": "猫",
     "p": "māo",
     "m": "con mèo",
-    "cat": "animal"
+    "cat": "animal",
+    "example": "我家有一只猫。",
+    "example_vi": "Nhà tôi có một con mèo."
   },
   {
     "w": "狗",
     "p": "gǒu",
     "m": "con chó",
-    "cat": "animal"
+    "cat": "animal",
+    "example": "那只狗很聪明。",
+    "example_vi": "Con chó đó rất thông minh."
   },
   {
     "w": "鸟",
     "p": "niǎo",
     "m": "con chim",
-    "cat": "animal"
+    "cat": "animal",
+    "example": "树上有很多鸟。",
+    "example_vi": "Trên cây có rất nhiều chim."
   },
   {
     "w": "去",
@@ -483,7 +533,9 @@
     "w": "看",
     "p": "kàn",
     "m": "nhìn, xem",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我喜欢看电影。",
+    "example_vi": "Tôi thích xem phim."
   },
   {
     "w": "买",
@@ -495,7 +547,9 @@
     "w": "做",
     "p": "zuò",
     "m": "làm",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "你在做什么？",
+    "example_vi": "Bạn đang làm gì?"
   },
   {
     "w": "学",
@@ -513,73 +567,97 @@
     "w": "睡觉",
     "p": "shuì jiào",
     "m": "ngủ",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我十点睡觉。",
+    "example_vi": "Tôi ngủ lúc mười giờ."
   },
   {
     "w": "说话",
     "p": "shuō huà",
     "m": "nói chuyện",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请不要大声说话。",
+    "example_vi": "Xin đừng nói chuyện to tiếng."
   },
   {
     "w": "听",
     "p": "tīng",
     "m": "nghe",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我喜欢听音乐。",
+    "example_vi": "Tôi thích nghe nhạc."
   },
   {
     "w": "写",
     "p": "xiě",
     "m": "viết",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他正在写信。",
+    "example_vi": "Anh ấy đang viết thư."
   },
   {
     "w": "读",
     "p": "dú",
     "m": "đọc",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我每天读书。",
+    "example_vi": "Mỗi ngày tôi đọc sách."
   },
   {
     "w": "认识",
     "p": "rèn shi",
     "m": "biết, quen",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我认识那个老师。",
+    "example_vi": "Tôi quen biết thầy giáo đó."
   },
   {
     "w": "知道",
     "p": "zhī dào",
     "m": "biết",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我不知道他的名字。",
+    "example_vi": "Tôi không biết tên anh ấy."
   },
   {
     "w": "喜欢",
     "p": "xǐ huān",
     "m": "thích",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我喜欢喝茶。",
+    "example_vi": "Tôi thích uống trà."
   },
   {
     "w": "想",
     "p": "xiǎng",
     "m": "muốn, nghĩ",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我想去中国旅游。",
+    "example_vi": "Tôi muốn đi du lịch Trung Quốc."
   },
   {
     "w": "叫",
     "p": "jiào",
     "m": "tên là, gọi, bảo, khiến, kêu",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我叫王明。",
+    "example_vi": "Tôi tên là Vương Minh."
   },
   {
     "w": "是",
     "p": "shì",
     "m": "là",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他是医生。",
+    "example_vi": "Anh ấy là bác sĩ."
   },
   {
     "w": "有",
     "p": "yǒu",
     "m": "có",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我有一本新书。",
+    "example_vi": "Tôi có một cuốn sách mới."
   },
   {
     "w": "住",
@@ -591,19 +669,25 @@
     "w": "开",
     "p": "kāi",
     "m": "mở, lái",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请开门。",
+    "example_vi": "Xin hãy mở cửa."
   },
   {
     "w": "进",
     "p": "jìn",
     "m": "vào",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请进。",
+    "example_vi": "Xin mời vào."
   },
   {
     "w": "出",
     "p": "chū",
     "m": "ra, xuất",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他刚出门。",
+    "example_vi": "Anh ấy vừa mới ra khỏi nhà."
   },
   {
     "w": "回",
@@ -615,25 +699,33 @@
     "w": "坐",
     "p": "zuò",
     "m": "ngồi",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "请坐。",
+    "example_vi": "Xin mời ngồi."
   },
   {
     "w": "起",
     "p": "qǐ",
     "m": "dậy, nổi",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他六点起床。",
+    "example_vi": "Anh ấy dậy lúc sáu giờ."
   },
   {
     "w": "走",
     "p": "zǒu",
     "m": "đi bộ",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我们走路去学校。",
+    "example_vi": "Chúng tôi đi bộ đến trường."
   },
   {
     "w": "回来",
     "p": "huí lái",
     "m": "trở về",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "爸爸五点回来。",
+    "example_vi": "Bố về nhà lúc năm giờ."
   },
   {
     "w": "好",
@@ -681,7 +773,9 @@
     "w": "高兴",
     "p": "gāo xìng",
     "m": "vui vẻ",
-    "cat": "emotion"
+    "cat": "emotion",
+    "example": "认识你我很高兴。",
+    "example_vi": "Rất vui được quen biết bạn."
   },
   {
     "w": "漂亮",
@@ -705,25 +799,33 @@
     "w": "新",
     "p": "xīn",
     "m": "mới",
-    "cat": "adjective"
+    "cat": "adjective",
+    "example": "这是我的新手机。",
+    "example_vi": "Đây là điện thoại mới của tôi."
   },
   {
     "w": "对",
     "p": "duì",
     "m": "đúng, phải, đối với, cặp (lượng từ)",
-    "cat": "adjective"
+    "cat": "adjective",
+    "example": "你说得对。",
+    "example_vi": "Bạn nói đúng rồi."
   },
   {
     "w": "快",
     "p": "kuài",
     "m": "nhanh",
-    "cat": "adjective"
+    "cat": "adjective",
+    "example": "请快一点。",
+    "example_vi": "Xin hãy nhanh lên một chút."
   },
   {
     "w": "慢",
     "p": "màn",
     "m": "chậm",
-    "cat": "adjective"
+    "cat": "adjective",
+    "example": "他走得很慢。",
+    "example_vi": "Anh ấy đi rất chậm."
   },
   {
     "w": "飞机",
@@ -759,73 +861,97 @@
     "w": "的",
     "p": "de",
     "m": "của (liên kết)",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "这是他的手机。",
+    "example_vi": "Đây là điện thoại của anh ấy."
   },
   {
     "w": "了",
     "p": "le",
     "m": "rồi (hoàn thành)",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "我吃饭了。",
+    "example_vi": "Tôi đã ăn cơm rồi."
   },
   {
     "w": "吗",
     "p": "ma",
     "m": "à? (câu hỏi)",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "你是学生吗？",
+    "example_vi": "Bạn là học sinh à?"
   },
   {
     "w": "呢",
     "p": "ne",
     "m": "còn ... thì?",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "我很好，你呢？",
+    "example_vi": "Tôi khỏe, còn bạn thì sao?"
   },
   {
     "w": "吧",
     "p": "ba",
     "m": "nhỉ, nhé",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "我们走吧。",
+    "example_vi": "Chúng ta đi thôi nhé."
   },
   {
     "w": "也",
     "p": "yě",
     "m": "cũng",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "我也喜欢音乐。",
+    "example_vi": "Tôi cũng thích âm nhạc."
   },
   {
     "w": "都",
     "p": "dōu",
     "m": "đều, tất cả",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "我们都是学生。",
+    "example_vi": "Chúng tôi đều là học sinh."
   },
   {
     "w": "不",
     "p": "bù",
     "m": "không",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "我不喜欢咖啡。",
+    "example_vi": "Tôi không thích cà phê."
   },
   {
     "w": "没",
     "p": "méi",
     "m": "không có",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "我没有钱。",
+    "example_vi": "Tôi không có tiền."
   },
   {
     "w": "很",
     "p": "hěn",
     "m": "rất",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "今天很热。",
+    "example_vi": "Hôm nay trời rất nóng."
   },
   {
     "w": "太",
     "p": "tài",
     "m": "quá",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "这个太贵了。",
+    "example_vi": "Cái này quá đắt rồi."
   },
   {
     "w": "非常",
     "p": "fēi cháng",
     "m": "rất, vô cùng",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "这个电影非常好看。",
+    "example_vi": "Bộ phim này rất hay."
   },
   {
     "w": "一些",
@@ -837,19 +963,25 @@
     "w": "什么",
     "p": "shén me",
     "m": "cái gì",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "你想吃什么？",
+    "example_vi": "Bạn muốn ăn gì?"
   },
   {
     "w": "怎么",
     "p": "zěn me",
     "m": "như thế nào",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "这个字怎么读？",
+    "example_vi": "Chữ này đọc như thế nào?"
   },
   {
     "w": "怎么样",
     "p": "zěn me yàng",
     "m": "ra sao",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "今天天气怎么样？",
+    "example_vi": "Hôm nay thời tiết ra sao?"
   },
   {
     "w": "哪里",
@@ -861,13 +993,17 @@
     "w": "谁",
     "p": "shéi",
     "m": "ai",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "他是谁？",
+    "example_vi": "Anh ấy là ai?"
   },
   {
     "w": "为什么",
     "p": "wèi shén me",
     "m": "tại sao",
-    "cat": "pronoun"
+    "cat": "pronoun",
+    "example": "你为什么不吃饭？",
+    "example_vi": "Tại sao bạn không ăn cơm?"
   },
   {
     "w": "最",
@@ -879,37 +1015,49 @@
     "w": "再",
     "p": "zài",
     "m": "lại, thêm",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "请再说一遍。",
+    "example_vi": "Xin nói lại một lần nữa."
   },
   {
     "w": "就",
     "p": "jiù",
     "m": "thì, liền",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "我马上就来。",
+    "example_vi": "Tôi sẽ đến ngay."
   },
   {
     "w": "还",
     "p": "hái",
     "m": "vẫn còn, nữa, ngoài ra, trả lại, hoàn lại",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "他还没来。",
+    "example_vi": "Anh ấy vẫn chưa đến."
   },
   {
     "w": "只",
     "p": "zhǐ",
     "m": "chỉ, chỉ có, con (lượng từ cho động vật, tay, chân)",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "我只有一个妹妹。",
+    "example_vi": "Tôi chỉ có một em gái."
   },
   {
     "w": "先生",
     "p": "xiān sheng",
     "m": "ông, thầy",
-    "cat": "culture"
+    "cat": "culture",
+    "example": "王先生是我的老师。",
+    "example_vi": "Ông Vương là thầy giáo của tôi."
   },
   {
     "w": "小姐",
     "p": "xiǎo jiě",
     "m": "cô",
-    "cat": "culture"
+    "cat": "culture",
+    "example": "李小姐在哪儿工作？",
+    "example_vi": "Cô Lý làm việc ở đâu?"
   },
   {
     "w": "医生",
@@ -939,7 +1087,9 @@
     "w": "块",
     "p": "kuài",
     "m": "đồng (tiền tệ), cục, miếng",
-    "cat": "money"
+    "cat": "money",
+    "example": "这个苹果三块钱。",
+    "example_vi": "Quả táo này ba đồng."
   },
   {
     "w": "本",
@@ -951,61 +1101,81 @@
     "w": "个",
     "p": "gè",
     "m": "cái (lượng từ)",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "我要一个苹果。",
+    "example_vi": "Tôi muốn một quả táo."
   },
   {
     "w": "杯",
     "p": "bēi",
     "m": "cốc, ly",
-    "cat": "home"
+    "cat": "home",
+    "example": "请给我一杯水。",
+    "example_vi": "Xin cho tôi một cốc nước."
   },
   {
     "w": "岁",
     "p": "suì",
     "m": "tuổi",
-    "cat": "number"
+    "cat": "number",
+    "example": "我今年二十岁。",
+    "example_vi": "Năm nay tôi hai mươi tuổi."
   },
   {
     "w": "次",
     "p": "cì",
     "m": "lần",
-    "cat": "number"
+    "cat": "number",
+    "example": "我去过中国两次。",
+    "example_vi": "Tôi đã đến Trung Quốc hai lần."
   },
   {
     "w": "下",
     "p": "xià",
     "m": "dưới",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "书在桌子下面。",
+    "example_vi": "Sách ở dưới bàn."
   },
   {
     "w": "上",
     "p": "shàng",
     "m": "trên",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "书在桌子上面。",
+    "example_vi": "Sách ở trên bàn."
   },
   {
     "w": "里",
     "p": "lǐ",
     "m": "trong",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "钱在包里。",
+    "example_vi": "Tiền ở trong túi."
   },
   {
     "w": "外",
     "p": "wài",
     "m": "ngoài",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "孩子们在外面玩。",
+    "example_vi": "Bọn trẻ đang chơi ở ngoài."
   },
   {
     "w": "前",
     "p": "qián",
     "m": "trước",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "医院在学校前面。",
+    "example_vi": "Bệnh viện ở phía trước trường học."
   },
   {
     "w": "后",
     "p": "hòu",
     "m": "sau",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "公园在图书馆后面。",
+    "example_vi": "Công viên ở phía sau thư viện."
   },
   {
     "w": "左",
@@ -1023,30 +1193,40 @@
     "w": "中",
     "p": "zhōng",
     "m": "giữa",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "他站在中间。",
+    "example_vi": "Anh ấy đứng ở giữa."
   },
   {
     "w": "东",
     "p": "dōng",
     "m": "đông",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "太阳从东边升起。",
+    "example_vi": "Mặt trời mọc từ phía đông."
   },
   {
     "w": "西",
     "p": "xī",
     "m": "tây",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "太阳从西边落下。",
+    "example_vi": "Mặt trời lặn ở phía tây."
   },
   {
     "w": "南",
     "p": "nán",
     "m": "nam",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "越南在中国的南边。",
+    "example_vi": "Việt Nam ở phía nam Trung Quốc."
   },
   {
     "w": "北",
     "p": "běi",
     "m": "bắc",
-    "cat": "particle"
+    "cat": "particle",
+    "example": "北京在中国的北边。",
+    "example_vi": "Bắc Kinh ở phía bắc Trung Quốc."
   }
 ]

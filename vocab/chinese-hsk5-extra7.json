@@ -3,13 +3,17 @@
     "w": "私信",
     "p": "sīxìn",
     "m": "tin nhắn riêng tư, nhắn tin trực tiếp (DM)",
-    "cat": "tech"
+    "cat": "tech",
+    "example": "她给我发了一条私信。",
+    "example_vi": "Cô ấy đã gửi cho tôi một tin nhắn riêng tư."
   },
   {
     "w": "评论区",
     "p": "pínglùn qū",
     "m": "khu vực bình luận, mục comment",
-    "cat": "tech"
+    "cat": "tech",
+    "example": "很多网友在评论区留言。",
+    "example_vi": "Rất nhiều cư dân mạng để lại bình luận ở khu vực bình luận."
   },
   {
     "w": "作息时间",
@@ -21,6 +25,8 @@
     "w": "电动车",
     "p": "diàndòng chē",
     "m": "xe điện, xe chạy bằng điện",
-    "cat": "tech"
+    "cat": "tech",
+    "example": "他买了一辆电动车。",
+    "example_vi": "Anh ấy đã mua một chiếc xe điện."
   }
 ]

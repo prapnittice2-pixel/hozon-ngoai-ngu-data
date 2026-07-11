@@ -21,24 +21,32 @@
     "w": "平均",
     "p": "píngjūn",
     "m": "trung bình, bình quân",
-    "cat": "noun"
+    "cat": "noun",
+    "example": "这个班的平均成绩很好。",
+    "example_vi": "Thành tích trung bình của lớp này rất tốt."
   },
   {
     "w": "结合",
     "p": "jiéhé",
     "m": "kết hợp, gắn kết",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "理论要和实践结合。",
+    "example_vi": "Lý thuyết phải kết hợp với thực hành."
   },
   {
     "w": "老实说",
     "p": "lǎoshíshuō",
     "m": "nói thật ra, thành thật mà nói",
-    "cat": "default"
+    "cat": "default",
+    "example": "老实说，我不太喜欢这个电影。",
+    "example_vi": "Nói thật ra, tôi không thích bộ phim này lắm."
   },
   {
     "w": "尝试",
     "p": "chángshì",
     "m": "thử, nỗ lực thử nghiệm",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他尝试了很多次都失败了。",
+    "example_vi": "Anh ấy đã thử nhiều lần đều thất bại."
   }
 ]

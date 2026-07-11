@@ -21,19 +21,25 @@
     "w": "研究生",
     "p": "yánjiūshēng",
     "m": "nghiên cứu sinh, học viên cao học",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "她是一名研究生。",
+    "example_vi": "Cô ấy là một nghiên cứu sinh."
   },
   {
     "w": "博士",
     "p": "bóshì",
     "m": "tiến sĩ",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "他是经济学博士。",
+    "example_vi": "Anh ấy là tiến sĩ kinh tế học."
   },
   {
     "w": "硕士",
     "p": "shuòshì",
     "m": "thạc sĩ",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "她正在读硕士。",
+    "example_vi": "Cô ấy đang học thạc sĩ."
   },
   {
     "w": "论文",
@@ -63,7 +69,9 @@
     "w": "分析",
     "p": "fēnxī",
     "m": "phân tích",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "请分析一下这个问题。",
+    "example_vi": "Xin hãy phân tích vấn đề này."
   },
   {
     "w": "结论",
@@ -75,7 +83,9 @@
     "w": "理论",
     "p": "lǐlùn",
     "m": "lý thuyết",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "这个理论很有意思。",
+    "example_vi": "Lý thuyết này rất thú vị."
   },
   {
     "w": "观点",
@@ -99,13 +109,17 @@
     "w": "资料",
     "p": "zīliào",
     "m": "tài liệu",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "请给我一些相关资料。",
+    "example_vi": "Xin cho tôi một số tài liệu liên quan."
   },
   {
     "w": "参考",
     "p": "cānkǎo",
     "m": "tham khảo",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "这本书可以作为参考。",
+    "example_vi": "Cuốn sách này có thể dùng để tham khảo."
   },
   {
     "w": "引用",
@@ -123,13 +137,17 @@
     "w": "调查",
     "p": "diàochá",
     "m": "điều tra, khảo sát",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "警察正在调查这个案子。",
+    "example_vi": "Cảnh sát đang điều tra vụ án này."
   },
   {
     "w": "统计",
     "p": "tǒngjì",
     "m": "thống kê",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "这是最新的统计数据。",
+    "example_vi": "Đây là số liệu thống kê mới nhất."
   },
   {
     "w": "结果",
@@ -153,13 +171,17 @@
     "w": "价值",
     "p": "jiàzhí",
     "m": "giá trị",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "这幅画很有价值。",
+    "example_vi": "Bức tranh này rất có giá trị."
   },
   {
     "w": "贡献",
     "p": "gòngxiàn",
     "m": "đóng góp, cống hiến",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "他为公司做出了很大贡献。",
+    "example_vi": "Anh ấy đã có đóng góp lớn cho công ty."
   },
   {
     "w": "创新",
@@ -183,7 +205,9 @@
     "w": "改善",
     "p": "gǎishàn",
     "m": "cải thiện",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "他的生活条件改善了很多。",
+    "example_vi": "Điều kiện sống của anh ấy đã được cải thiện rất nhiều."
   },
   {
     "w": "提高",
@@ -201,7 +225,9 @@
     "w": "标准",
     "p": "biāozhǔn",
     "m": "tiêu chuẩn",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "这个产品符合国家标准。",
+    "example_vi": "Sản phẩm này đáp ứng tiêu chuẩn quốc gia."
   },
   {
     "w": "质量",
@@ -213,13 +239,17 @@
     "w": "效果",
     "p": "xiàoguǒ",
     "m": "hiệu quả, tác dụng",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "这种方法效果很好。",
+    "example_vi": "Phương pháp này hiệu quả rất tốt."
   },
   {
     "w": "效率",
     "p": "xiàolǜ",
     "m": "hiệu suất",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "提高工作效率很重要。",
+    "example_vi": "Nâng cao hiệu suất công việc rất quan trọng."
   },
   {
     "w": "成功",
@@ -267,7 +297,9 @@
     "w": "天才",
     "p": "tiāncái",
     "m": "thiên tài",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "莫扎特是音乐天才。",
+    "example_vi": "Mozart là một thiên tài âm nhạc."
   },
   {
     "w": "努力",
@@ -285,7 +317,9 @@
     "w": "专心",
     "p": "zhuānxīn",
     "m": "chuyên tâm, tập trung",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "请专心听课。",
+    "example_vi": "Xin hãy chuyên tâm nghe giảng."
   },
   {
     "w": "认真",
@@ -315,7 +349,9 @@
     "w": "定义",
     "p": "dìngyì",
     "m": "định nghĩa",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "请给这个词下一个定义。",
+    "example_vi": "Xin hãy đưa ra định nghĩa cho từ này."
   },
   {
     "w": "概念",
@@ -327,7 +363,9 @@
     "w": "原理",
     "p": "yuánlǐ",
     "m": "nguyên lý",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "这台机器的原理很简单。",
+    "example_vi": "Nguyên lý của chiếc máy này rất đơn giản."
   },
   {
     "w": "公式",
@@ -339,19 +377,25 @@
     "w": "模型",
     "p": "móxíng",
     "m": "mô hình",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "他做了一个飞机模型。",
+    "example_vi": "Anh ấy đã làm một mô hình máy bay."
   },
   {
     "w": "框架",
     "p": "kuàngjià",
     "m": "khung, cấu trúc, khuôn khổ, sườn",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "这篇论文的框架很清晰。",
+    "example_vi": "Khung cấu trúc của bài luận văn này rất rõ ràng."
   },
   {
     "w": "文献",
     "p": "wénxiàn",
     "m": "tài liệu tham khảo",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "写论文需要查阅很多文献。",
+    "example_vi": "Viết luận văn cần tra cứu rất nhiều tài liệu tham khảo."
   },
   {
     "w": "摘要",
@@ -381,7 +425,9 @@
     "w": "现代",
     "p": "xiàndài",
     "m": "hiện đại",
-    "cat": "society"
+    "cat": "society",
+    "example": "这是一座现代化的城市。",
+    "example_vi": "Đây là một thành phố hiện đại."
   },
   {
     "w": "变化",
@@ -405,13 +451,17 @@
     "w": "全球",
     "p": "quánqiú",
     "m": "toàn cầu",
-    "cat": "society"
+    "cat": "society",
+    "example": "这个问题受到全球关注。",
+    "example_vi": "Vấn đề này nhận được sự quan tâm toàn cầu."
   },
   {
     "w": "国际",
     "p": "guójì",
     "m": "quốc tế",
-    "cat": "society"
+    "cat": "society",
+    "example": "这是一个国际会议。",
+    "example_vi": "Đây là một hội nghị quốc tế."
   },
   {
     "w": "合作",
@@ -435,7 +485,9 @@
     "w": "尊重",
     "p": "zūnzhòng",
     "m": "tôn trọng",
-    "cat": "society"
+    "cat": "society",
+    "example": "我们应该尊重每个人。",
+    "example_vi": "Chúng ta nên tôn trọng mọi người."
   },
   {
     "w": "包容",
@@ -447,7 +499,9 @@
     "w": "多元",
     "p": "duōyuán",
     "m": "đa nguyên, đa dạng",
-    "cat": "society"
+    "cat": "society",
+    "example": "这是一个多元文化的社会。",
+    "example_vi": "Đây là một xã hội đa văn hóa."
   },
   {
     "w": "平等",
@@ -459,7 +513,9 @@
     "w": "公平",
     "p": "gōngpíng",
     "m": "công bằng",
-    "cat": "society"
+    "cat": "society",
+    "example": "比赛应该公平进行。",
+    "example_vi": "Cuộc thi nên được tiến hành công bằng."
   },
   {
     "w": "正义",
@@ -495,7 +551,9 @@
     "w": "规定",
     "p": "guīdìng",
     "m": "quy định",
-    "cat": "society"
+    "cat": "society",
+    "example": "学校有严格的规定。",
+    "example_vi": "Nhà trường có quy định nghiêm ngặt."
   },
   {
     "w": "规则",
@@ -507,7 +565,9 @@
     "w": "制度",
     "p": "zhìdù",
     "m": "chế độ, thể chế",
-    "cat": "society"
+    "cat": "society",
+    "example": "这个国家有完善的教育制度。",
+    "example_vi": "Quốc gia này có chế độ giáo dục hoàn thiện."
   },
   {
     "w": "政策",
@@ -543,7 +603,9 @@
     "w": "独立",
     "p": "dúlì",
     "m": "độc lập",
-    "cat": "society"
+    "cat": "society",
+    "example": "他很早就学会了独立生活。",
+    "example_vi": "Anh ấy đã học cách sống độc lập từ rất sớm."
   },
   {
     "w": "和平",
@@ -579,13 +641,17 @@
     "w": "宗教",
     "p": "zōngjiào",
     "m": "tôn giáo",
-    "cat": "society"
+    "cat": "society",
+    "example": "世界上有很多不同的宗教。",
+    "example_vi": "Trên thế giới có rất nhiều tôn giáo khác nhau."
   },
   {
     "w": "信仰",
     "p": "xìnyǎng",
     "m": "tín ngưỡng, niềm tin",
-    "cat": "society"
+    "cat": "society",
+    "example": "每个人都有自己的信仰。",
+    "example_vi": "Mỗi người đều có tín ngưỡng riêng của mình."
   },
   {
     "w": "习惯",
@@ -603,7 +669,9 @@
     "w": "礼仪",
     "p": "lǐyí",
     "m": "lễ nghi, phép lịch sự",
-    "cat": "society"
+    "cat": "society",
+    "example": "这个国家的传统礼仪很复杂。",
+    "example_vi": "Lễ nghi truyền thống của quốc gia này rất phức tạp."
   },
   {
     "w": "道德",
@@ -615,37 +683,49 @@
     "w": "品德",
     "p": "pǐndé",
     "m": "phẩm đức",
-    "cat": "society"
+    "cat": "society",
+    "example": "他品德高尚。",
+    "example_vi": "Anh ấy có phẩm đức cao quý."
   },
   {
     "w": "性格",
     "p": "xìnggé",
     "m": "tính cách",
-    "cat": "society"
+    "cat": "society",
+    "example": "她的性格很开朗。",
+    "example_vi": "Tính cách của cô ấy rất vui vẻ, cởi mở."
   },
   {
     "w": "个性",
     "p": "gèxìng",
     "m": "cá tính",
-    "cat": "society"
+    "cat": "society",
+    "example": "他是一个很有个性的人。",
+    "example_vi": "Anh ấy là một người rất có cá tính."
   },
   {
     "w": "特点",
     "p": "tèdiǎn",
     "m": "đặc điểm",
-    "cat": "society"
+    "cat": "society",
+    "example": "这个地方有什么特点？",
+    "example_vi": "Nơi này có đặc điểm gì?"
   },
   {
     "w": "特色",
     "p": "tèsè",
     "m": "đặc sắc, nét đặc trưng",
-    "cat": "society"
+    "cat": "society",
+    "example": "这道菜很有地方特色。",
+    "example_vi": "Món ăn này rất có nét đặc trưng địa phương."
   },
   {
     "w": "阶层",
     "p": "jiēcéng",
     "m": "tầng lớp xã hội",
-    "cat": "society"
+    "cat": "society",
+    "example": "社会阶层的差距很大。",
+    "example_vi": "Khoảng cách giữa các tầng lớp xã hội rất lớn."
   },
   {
     "w": "社区",
@@ -657,13 +737,17 @@
     "w": "移民",
     "p": "yímín",
     "m": "di dân, người nhập cư",
-    "cat": "society"
+    "cat": "society",
+    "example": "很多人移民到国外。",
+    "example_vi": "Rất nhiều người di cư ra nước ngoài."
   },
   {
     "w": "融合",
     "p": "rónghé",
     "m": "hòa nhập, hợp nhất, kết hợp, dung hợp, hội nhập",
-    "cat": "society"
+    "cat": "society",
+    "example": "不同文化在这里融合。",
+    "example_vi": "Các nền văn hóa khác nhau hòa nhập tại đây."
   },
   {
     "w": "矛盾",
@@ -675,25 +759,33 @@
     "w": "冲突",
     "p": "chōngtū",
     "m": "xung đột",
-    "cat": "society"
+    "cat": "society",
+    "example": "他们之间发生了冲突。",
+    "example_vi": "Giữa họ đã xảy ra xung đột."
   },
   {
     "w": "争议",
     "p": "zhēngyì",
     "m": "tranh luận, tranh cãi",
-    "cat": "society"
+    "cat": "society",
+    "example": "这个话题引起了很大争议。",
+    "example_vi": "Chủ đề này đã gây ra tranh cãi lớn."
   },
   {
     "w": "舆论",
     "p": "yúlùn",
     "m": "dư luận",
-    "cat": "society"
+    "cat": "society",
+    "example": "这件事引起了社会舆论的关注。",
+    "example_vi": "Việc này đã thu hút sự chú ý của dư luận xã hội."
   },
   {
     "w": "媒体",
     "p": "méitǐ",
     "m": "truyền thông, báo chí",
-    "cat": "society"
+    "cat": "society",
+    "example": "很多媒体报道了这个新闻。",
+    "example_vi": "Rất nhiều phương tiện truyền thông đã đưa tin về việc này."
   },
   {
     "w": "新闻",
@@ -711,13 +803,17 @@
     "w": "公众",
     "p": "gōngzhòng",
     "m": "công chúng",
-    "cat": "society"
+    "cat": "society",
+    "example": "这个消息公众都知道了。",
+    "example_vi": "Tin tức này công chúng đều đã biết."
   },
   {
     "w": "影响力",
     "p": "yǐngxiǎnglì",
     "m": "tầm ảnh hưởng",
-    "cat": "society"
+    "cat": "society",
+    "example": "他在这个领域很有影响力。",
+    "example_vi": "Anh ấy rất có tầm ảnh hưởng trong lĩnh vực này."
   },
   {
     "w": "心理",
@@ -741,7 +837,9 @@
     "w": "感受",
     "p": "gǎnshòu",
     "m": "cảm nhận",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "请说说你的感受。",
+    "example_vi": "Xin hãy nói về cảm nhận của bạn."
   },
   {
     "w": "心情",
@@ -753,49 +851,65 @@
     "w": "态度",
     "p": "tàidu",
     "m": "thái độ",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他工作的态度很认真。",
+    "example_vi": "Thái độ làm việc của anh ấy rất nghiêm túc."
   },
   {
     "w": "脾气",
     "p": "píqì",
     "m": "tính khí, tính nết",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他的脾气很好。",
+    "example_vi": "Tính khí của anh ấy rất tốt."
   },
   {
     "w": "想法",
     "p": "xiǎngfǎ",
     "m": "suy nghĩ, ý tưởng",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "你对这件事有什么想法？",
+    "example_vi": "Bạn có suy nghĩ gì về chuyện này?"
   },
   {
     "w": "意见",
     "p": "yìjiàn",
     "m": "ý kiến",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "请提出你的意见。",
+    "example_vi": "Xin hãy nêu ý kiến của bạn."
   },
   {
     "w": "看法",
     "p": "kànfǎ",
     "m": "cách nhìn, quan điểm",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "大家对这个问题的看法不同。",
+    "example_vi": "Mọi người có cách nhìn khác nhau về vấn đề này."
   },
   {
     "w": "判断",
     "p": "pànduàn",
     "m": "phán đoán, đánh giá",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "请你判断一下这件事对不对。",
+    "example_vi": "Xin bạn phán đoán xem việc này đúng hay sai."
   },
   {
     "w": "同情",
     "p": "tóngqíng",
     "m": "đồng cảm, thương xót",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "我很同情他的遭遇。",
+    "example_vi": "Tôi rất đồng cảm với hoàn cảnh của anh ấy."
   },
   {
     "w": "宽容",
     "p": "kuānróng",
     "m": "khoan dung",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "我们应该学会宽容别人。",
+    "example_vi": "Chúng ta nên học cách khoan dung với người khác."
   },
   {
     "w": "耐心",
@@ -807,7 +921,9 @@
     "w": "坚强",
     "p": "jiānqiáng",
     "m": "kiên cường",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "她是一个很坚强的女孩。",
+    "example_vi": "Cô ấy là một cô gái rất kiên cường."
   },
   {
     "w": "勇气",
@@ -819,49 +935,65 @@
     "w": "信心",
     "p": "xìnxīn",
     "m": "niềm tin, sự tự tin",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他对未来充满信心。",
+    "example_vi": "Anh ấy tràn đầy niềm tin vào tương lai."
   },
   {
     "w": "毅力",
     "p": "yìlì",
     "m": "ý chí, nghị lực",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "成功需要毅力。",
+    "example_vi": "Thành công cần có nghị lực."
   },
   {
     "w": "意志",
     "p": "yìzhì",
     "m": "ý chí",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他有坚强的意志。",
+    "example_vi": "Anh ấy có ý chí kiên cường."
   },
   {
     "w": "动力",
     "p": "dònglì",
     "m": "động lực",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "家人是我努力工作的动力。",
+    "example_vi": "Gia đình là động lực để tôi cố gắng làm việc."
   },
   {
     "w": "积极",
     "p": "jījí",
     "m": "tích cực",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他工作态度很积极。",
+    "example_vi": "Thái độ làm việc của anh ấy rất tích cực."
   },
   {
     "w": "消极",
     "p": "xiāojí",
     "m": "tiêu cực",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "不要用消极的态度对待生活。",
+    "example_vi": "Đừng dùng thái độ tiêu cực để đối mặt với cuộc sống."
   },
   {
     "w": "乐观",
     "p": "lèguān",
     "m": "lạc quan",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "她对生活很乐观。",
+    "example_vi": "Cô ấy rất lạc quan về cuộc sống."
   },
   {
     "w": "悲观",
     "p": "bēiguān",
     "m": "bi quan",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "不要总是这么悲观。",
+    "example_vi": "Đừng lúc nào cũng bi quan như vậy."
   },
   {
     "w": "自信",
@@ -873,7 +1005,9 @@
     "w": "自卑",
     "p": "zìbēi",
     "m": "tự ti, mặc cảm",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他因为个子矮而感到自卑。",
+    "example_vi": "Anh ấy cảm thấy tự ti vì thấp bé."
   },
   {
     "w": "骄傲",
@@ -903,7 +1037,9 @@
     "w": "责任感",
     "p": "zérèngǎn",
     "m": "tinh thần trách nhiệm",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他是一个很有责任感的人。",
+    "example_vi": "Anh ấy là một người rất có tinh thần trách nhiệm."
   },
   {
     "w": "正直",
@@ -915,7 +1051,9 @@
     "w": "善良",
     "p": "shànliáng",
     "m": "lương thiện, tốt bụng",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "她是一个善良的人。",
+    "example_vi": "Cô ấy là một người lương thiện."
   },
   {
     "w": "聪明",
@@ -927,37 +1065,49 @@
     "w": "智慧",
     "p": "zhìhuì",
     "m": "trí tuệ, sự khôn ngoan",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "这是老人的智慧结晶。",
+    "example_vi": "Đây là kết tinh trí tuệ của người già."
   },
   {
     "w": "敏感",
     "p": "mǐngǎn",
     "m": "nhạy cảm",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "这是一个敏感话题。",
+    "example_vi": "Đây là một chủ đề nhạy cảm."
   },
   {
     "w": "细心",
     "p": "xìxīn",
     "m": "cẩn thận, tỉ mỉ",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "她做事很细心。",
+    "example_vi": "Cô ấy làm việc rất tỉ mỉ."
   },
   {
     "w": "粗心",
     "p": "cūxīn",
     "m": "bất cẩn, cẩu thả",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他做题太粗心了。",
+    "example_vi": "Anh ấy làm bài quá bất cẩn."
   },
   {
     "w": "大方",
     "p": "dàfāng",
     "m": "rộng rãi, hào phóng",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他花钱很大方。",
+    "example_vi": "Anh ấy tiêu tiền rất hào phóng."
   },
   {
     "w": "小气",
     "p": "xiǎoqì",
     "m": "keo kiệt, bủn xỉn",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他对朋友很小气。",
+    "example_vi": "Anh ấy rất keo kiệt với bạn bè."
   },
   {
     "w": "热情",
@@ -969,13 +1119,17 @@
     "w": "冷淡",
     "p": "lěngdàn",
     "m": "lạnh lùng, thờ ơ",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他对我态度很冷淡。",
+    "example_vi": "Thái độ của anh ấy với tôi rất lạnh lùng."
   },
   {
     "w": "友善",
     "p": "yǒushàn",
     "m": "thân thiện",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "邻居对我们很友善。",
+    "example_vi": "Hàng xóm rất thân thiện với chúng tôi."
   },
   {
     "w": "礼貌",
@@ -999,7 +1153,9 @@
     "w": "挫折",
     "p": "cuòzhé",
     "m": "thất bại, trở ngại",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他经历了很多挫折。",
+    "example_vi": "Anh ấy đã trải qua nhiều trở ngại."
   },
   {
     "w": "幸福",
@@ -1011,7 +1167,9 @@
     "w": "满足",
     "p": "mǎnzú",
     "m": "hài lòng, thỏa mãn",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他对现状很满足。",
+    "example_vi": "Anh ấy rất hài lòng với tình trạng hiện tại."
   },
   {
     "w": "失望",
@@ -1035,7 +1193,9 @@
     "w": "商品",
     "p": "shāngpǐn",
     "m": "hàng hóa",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "超市里的商品很丰富。",
+    "example_vi": "Hàng hóa trong siêu thị rất phong phú."
   },
   {
     "w": "价格",
@@ -1053,7 +1213,9 @@
     "w": "进口",
     "p": "jìnkǒu",
     "m": "nhập khẩu",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这些水果是进口的。",
+    "example_vi": "Những trái cây này là hàng nhập khẩu."
   },
   {
     "w": "出口",
@@ -1077,7 +1239,9 @@
     "w": "亏损",
     "p": "kuīsǔn",
     "m": "thua lỗ, thâm hụt",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "公司今年出现了亏损。",
+    "example_vi": "Công ty năm nay bị thua lỗ."
   },
   {
     "w": "竞争",
@@ -1089,7 +1253,9 @@
     "w": "企业",
     "p": "qǐyè",
     "m": "doanh nghiệp",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这是一家大型企业。",
+    "example_vi": "Đây là một doanh nghiệp lớn."
   },
   {
     "w": "公司",
@@ -1101,7 +1267,9 @@
     "w": "股票",
     "p": "gǔpiào",
     "m": "cổ phiếu",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他买了一些股票。",
+    "example_vi": "Anh ấy đã mua một ít cổ phiếu."
   },
   {
     "w": "银行",
@@ -1113,7 +1281,9 @@
     "w": "贷款",
     "p": "dàikuǎn",
     "m": "cho vay, khoản vay, vay vốn, vay tiền",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他向银行贷款买房。",
+    "example_vi": "Anh ấy vay tiền ngân hàng để mua nhà."
   },
   {
     "w": "利率",
@@ -1131,13 +1301,17 @@
     "w": "收入",
     "p": "shōurù",
     "m": "thu nhập",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他的收入很高。",
+    "example_vi": "Thu nhập của anh ấy rất cao."
   },
   {
     "w": "支出",
     "p": "zhīchū",
     "m": "chi tiêu",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这个月的支出比较多。",
+    "example_vi": "Chi tiêu tháng này tương đối nhiều."
   },
   {
     "w": "预算",
@@ -1149,13 +1323,17 @@
     "w": "成本",
     "p": "chéngběn",
     "m": "chi phí, giá thành",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "生产成本上升了。",
+    "example_vi": "Chi phí sản xuất đã tăng lên."
   },
   {
     "w": "费用",
     "p": "fèiyòng",
     "m": "chi phí, phí tổn",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这次旅行的费用不高。",
+    "example_vi": "Chi phí chuyến du lịch lần này không cao."
   },
   {
     "w": "资金",
@@ -1167,31 +1345,41 @@
     "w": "资源",
     "p": "zīyuán",
     "m": "tài nguyên",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "我们要合理利用资源。",
+    "example_vi": "Chúng ta phải sử dụng tài nguyên một cách hợp lý."
   },
   {
     "w": "财富",
     "p": "cáifù",
     "m": "của cải, tài sản",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "健康比财富更重要。",
+    "example_vi": "Sức khỏe quan trọng hơn của cải."
   },
   {
     "w": "贫困",
     "p": "pínkùn",
     "m": "nghèo khó",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "政府在帮助贫困地区。",
+    "example_vi": "Chính phủ đang giúp đỡ các vùng nghèo khó."
   },
   {
     "w": "就业",
     "p": "jiùyè",
     "m": "việc làm, tìm việc",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "找到就业机会不容易。",
+    "example_vi": "Tìm được cơ hội việc làm không dễ dàng."
   },
   {
     "w": "失业",
     "p": "shīyè",
     "m": "thất nghiệp",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他失业半年了。",
+    "example_vi": "Anh ấy đã thất nghiệp nửa năm rồi."
   },
   {
     "w": "工资",
@@ -1203,31 +1391,41 @@
     "w": "薪水",
     "p": "xīnshuǐ",
     "m": "tiền lương",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这份工作的薪水不错。",
+    "example_vi": "Tiền lương của công việc này khá tốt."
   },
   {
     "w": "奖金",
     "p": "jiǎngjīn",
     "m": "tiền thưởng",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他获得了一笔奖金。",
+    "example_vi": "Anh ấy đã nhận được một khoản tiền thưởng."
   },
   {
     "w": "消费",
     "p": "xiāofèi",
     "m": "tiêu dùng, chi tiêu",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "年轻人的消费观念在改变。",
+    "example_vi": "Quan niệm tiêu dùng của giới trẻ đang thay đổi."
   },
   {
     "w": "生产",
     "p": "shēngchǎn",
     "m": "sản xuất",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这家工厂生产汽车。",
+    "example_vi": "Nhà máy này sản xuất ô tô."
   },
   {
     "w": "供应",
     "p": "gōngyìng",
     "m": "cung cấp, cung ứng",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这个地区水资源供应充足。",
+    "example_vi": "Khu vực này có nguồn cung cấp tài nguyên nước dồi dào."
   },
   {
     "w": "需求",
@@ -1245,13 +1443,17 @@
     "w": "广告",
     "p": "guǎnggào",
     "m": "quảng cáo",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "电视上有很多广告。",
+    "example_vi": "Trên tivi có rất nhiều quảng cáo."
   },
   {
     "w": "营销",
     "p": "yíngxiāo",
     "m": "tiếp thị, marketing",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这家公司的营销策略很成功。",
+    "example_vi": "Chiến lược tiếp thị của công ty này rất thành công."
   },
   {
     "w": "销售",
@@ -1281,7 +1483,9 @@
     "w": "协议",
     "p": "xiéyì",
     "m": "thỏa thuận, hiệp định",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "双方签订了协议。",
+    "example_vi": "Hai bên đã ký kết thỏa thuận."
   },
   {
     "w": "谈判",
@@ -1293,31 +1497,41 @@
     "w": "交易",
     "p": "jiāoyì",
     "m": "giao dịch, buôn bán",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这笔交易很顺利。",
+    "example_vi": "Giao dịch này rất suôn sẻ."
   },
   {
     "w": "签订",
     "p": "qiāndìng",
     "m": "ký kết",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "两国签订了贸易协定。",
+    "example_vi": "Hai nước đã ký kết hiệp định thương mại."
   },
   {
     "w": "合法",
     "p": "héfǎ",
     "m": "hợp pháp",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这样做是合法的。",
+    "example_vi": "Làm như vậy là hợp pháp."
   },
   {
     "w": "违法",
     "p": "wéifǎ",
     "m": "vi phạm pháp luật",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "闯红灯是违法的。",
+    "example_vi": "Vượt đèn đỏ là vi phạm pháp luật."
   },
   {
     "w": "经营",
     "p": "jīngyíng",
     "m": "kinh doanh, quản lý",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他经营一家小餐馆。",
+    "example_vi": "Anh ấy kinh doanh một nhà hàng nhỏ."
   },
   {
     "w": "管理",
@@ -1329,31 +1543,41 @@
     "w": "战略",
     "p": "zhànlüè",
     "m": "chiến lược",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "公司制定了新的发展战略。",
+    "example_vi": "Công ty đã đề ra chiến lược phát triển mới."
   },
   {
     "w": "产业",
     "p": "chǎnyè",
     "m": "ngành công nghiệp",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "旅游产业发展很快。",
+    "example_vi": "Ngành du lịch phát triển rất nhanh."
   },
   {
     "w": "行业",
     "p": "hángyè",
     "m": "ngành nghề, lĩnh vực",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他在互联网行业工作。",
+    "example_vi": "Anh ấy làm việc trong ngành internet."
   },
   {
     "w": "利益",
     "p": "lìyì",
     "m": "lợi ích",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他为了自己的利益而努力。",
+    "example_vi": "Anh ấy cố gắng vì lợi ích của bản thân."
   },
   {
     "w": "风险",
     "p": "fēngxiǎn",
     "m": "rủi ro",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "投资有一定风险。",
+    "example_vi": "Đầu tư có rủi ro nhất định."
   },
   {
     "w": "机会",
@@ -1413,7 +1637,9 @@
     "w": "互联网",
     "p": "hùliánwǎng",
     "m": "internet",
-    "cat": "science"
+    "cat": "science",
+    "example": "互联网改变了我们的生活。",
+    "example_vi": "Internet đã thay đổi cuộc sống của chúng ta."
   },
   {
     "w": "手机",
@@ -1443,7 +1669,9 @@
     "w": "系统",
     "p": "xìtǒng",
     "m": "hệ thống",
-    "cat": "science"
+    "cat": "science",
+    "example": "这个系统运行得很稳定。",
+    "example_vi": "Hệ thống này vận hành rất ổn định."
   },
   {
     "w": "平台",
@@ -1467,19 +1695,25 @@
     "w": "电子",
     "p": "diànzǐ",
     "m": "điện tử",
-    "cat": "science"
+    "cat": "science",
+    "example": "他喜欢玩电子游戏。",
+    "example_vi": "Anh ấy thích chơi trò chơi điện tử."
   },
   {
     "w": "通信",
     "p": "tōngxìn",
     "m": "thông tin liên lạc",
-    "cat": "science"
+    "cat": "science",
+    "example": "现代通信技术非常发达。",
+    "example_vi": "Kỹ thuật thông tin liên lạc hiện đại vô cùng phát triển."
   },
   {
     "w": "卫星",
     "p": "wèixīng",
     "m": "vệ tinh",
-    "cat": "science"
+    "cat": "science",
+    "example": "这是一颗人造卫星。",
+    "example_vi": "Đây là một vệ tinh nhân tạo."
   },
   {
     "w": "航天",
@@ -1533,13 +1767,17 @@
     "w": "物种",
     "p": "wùzhǒng",
     "m": "loài, chủng loại",
-    "cat": "science"
+    "cat": "science",
+    "example": "这是一种濒危物种。",
+    "example_vi": "Đây là một loài đang có nguy cơ tuyệt chủng."
   },
   {
     "w": "细胞",
     "p": "xìbāo",
     "m": "tế bào",
-    "cat": "science"
+    "cat": "science",
+    "example": "人体由许多细胞组成。",
+    "example_vi": "Cơ thể con người được cấu tạo từ rất nhiều tế bào."
   },
   {
     "w": "基因",
@@ -1551,13 +1789,17 @@
     "w": "遗传",
     "p": "yíchuán",
     "m": "di truyền",
-    "cat": "science"
+    "cat": "science",
+    "example": "这种病会遗传。",
+    "example_vi": "Loại bệnh này có thể di truyền."
   },
   {
     "w": "进化",
     "p": "jìnhuà",
     "m": "tiến hóa",
-    "cat": "science"
+    "cat": "science",
+    "example": "生物在不断进化。",
+    "example_vi": "Sinh vật không ngừng tiến hóa."
   },
   {
     "w": "医学",
@@ -1575,7 +1817,9 @@
     "w": "药物",
     "p": "yàowù",
     "m": "thuốc, dược phẩm",
-    "cat": "science"
+    "cat": "science",
+    "example": "这种药物副作用很小。",
+    "example_vi": "Loại thuốc này có tác dụng phụ rất ít."
   },
   {
     "w": "手术",
@@ -1593,7 +1837,9 @@
     "w": "疫苗",
     "p": "yìmiáo",
     "m": "vắc-xin, vaccine",
-    "cat": "science"
+    "cat": "science",
+    "example": "孩子需要按时打疫苗。",
+    "example_vi": "Trẻ em cần tiêm vắc-xin đúng thời hạn."
   },
   {
     "w": "气候",
@@ -1605,7 +1851,9 @@
     "w": "全球变暖",
     "p": "quánqiú biànnuǎn",
     "m": "nóng lên toàn cầu",
-    "cat": "science"
+    "cat": "science",
+    "example": "全球变暖是一个严重的问题。",
+    "example_vi": "Nóng lên toàn cầu là một vấn đề nghiêm trọng."
   },
   {
     "w": "温室效应",
@@ -1617,7 +1865,9 @@
     "w": "可再生",
     "p": "kě zàishēng",
     "m": "có thể tái tạo",
-    "cat": "science"
+    "cat": "science",
+    "example": "太阳能是一种可再生能源。",
+    "example_vi": "Năng lượng mặt trời là một nguồn năng lượng có thể tái tạo."
   },
   {
     "w": "低碳",
@@ -1635,7 +1885,9 @@
     "w": "物理",
     "p": "wùlǐ",
     "m": "vật lý",
-    "cat": "science"
+    "cat": "science",
+    "example": "他对物理很感兴趣。",
+    "example_vi": "Anh ấy rất hứng thú với môn vật lý."
   },
   {
     "w": "化学",
@@ -1659,7 +1911,9 @@
     "w": "工程",
     "p": "gōngchéng",
     "m": "kỹ thuật, công trình",
-    "cat": "science"
+    "cat": "science",
+    "example": "这是一个大型工程。",
+    "example_vi": "Đây là một công trình lớn."
   },
   {
     "w": "建筑",
@@ -1671,31 +1925,41 @@
     "w": "材料",
     "p": "cáiliào",
     "m": "vật liệu",
-    "cat": "science"
+    "cat": "science",
+    "example": "这个产品用的是环保材料。",
+    "example_vi": "Sản phẩm này sử dụng vật liệu thân thiện với môi trường."
   },
   {
     "w": "机器",
     "p": "jīqì",
     "m": "máy móc",
-    "cat": "science"
+    "cat": "science",
+    "example": "工厂里有很多机器。",
+    "example_vi": "Trong nhà máy có rất nhiều máy móc."
   },
   {
     "w": "机械",
     "p": "jīxiè",
     "m": "cơ khí, máy móc",
-    "cat": "science"
+    "cat": "science",
+    "example": "他学的是机械专业。",
+    "example_vi": "Anh ấy học chuyên ngành cơ khí."
   },
   {
     "w": "自动",
     "p": "zìdòng",
     "m": "tự động",
-    "cat": "science"
+    "cat": "science",
+    "example": "这扇门是自动的。",
+    "example_vi": "Cánh cửa này tự động."
   },
   {
     "w": "智能",
     "p": "zhìnéng",
     "m": "thông minh, AI",
-    "cat": "science"
+    "cat": "science",
+    "example": "现在很多手机都很智能。",
+    "example_vi": "Hiện nay rất nhiều điện thoại đều rất thông minh."
   },
   {
     "w": "人工智能",
@@ -1707,19 +1971,25 @@
     "w": "算法",
     "p": "suànfǎ",
     "m": "thuật toán",
-    "cat": "science"
+    "cat": "science",
+    "example": "这个算法很有效率。",
+    "example_vi": "Thuật toán này rất hiệu quả."
   },
   {
     "w": "数据库",
     "p": "shùjùkù",
     "m": "cơ sở dữ liệu",
-    "cat": "science"
+    "cat": "science",
+    "example": "所有信息都存在数据库里。",
+    "example_vi": "Mọi thông tin đều được lưu trong cơ sở dữ liệu."
   },
   {
     "w": "云计算",
     "p": "yún jìsuàn",
     "m": "điện toán đám mây",
-    "cat": "science"
+    "cat": "science",
+    "example": "很多公司使用云计算技术。",
+    "example_vi": "Rất nhiều công ty sử dụng công nghệ điện toán đám mây."
   },
   {
     "w": "区块链",
@@ -1731,7 +2001,9 @@
     "w": "虚拟现实",
     "p": "xūnǐ xiànshí",
     "m": "thực tế ảo, VR",
-    "cat": "science"
+    "cat": "science",
+    "example": "虚拟现实技术越来越先进。",
+    "example_vi": "Công nghệ thực tế ảo ngày càng tiên tiến."
   },
   {
     "w": "纳米",
@@ -1761,19 +2033,25 @@
     "w": "无论如何",
     "p": "wúlùn rúhé",
     "m": "dù thế nào đi nữa",
-    "cat": "language"
+    "cat": "language",
+    "example": "无论如何，我都会支持你。",
+    "example_vi": "Dù thế nào đi nữa, tôi cũng sẽ ủng hộ bạn."
   },
   {
     "w": "尽力",
     "p": "jìnlì",
     "m": "hết sức cố gắng",
-    "cat": "language"
+    "cat": "language",
+    "example": "我会尽力帮助你。",
+    "example_vi": "Tôi sẽ hết sức cố gắng giúp đỡ bạn."
   },
   {
     "w": "总体来看",
     "p": "zǒngtǐ lái kàn",
     "m": "nhìn chung mà xét",
-    "cat": "language"
+    "cat": "language",
+    "example": "总体来看，今年的成绩不错。",
+    "example_vi": "Nhìn chung mà xét, thành tích năm nay khá tốt."
   },
   {
     "w": "总的来说",
@@ -1791,19 +2069,25 @@
     "w": "相反",
     "p": "xiāngfǎn",
     "m": "ngược lại",
-    "cat": "language"
+    "cat": "language",
+    "example": "他的意见和我相反。",
+    "example_vi": "Ý kiến của anh ấy ngược lại với tôi."
   },
   {
     "w": "反而",
     "p": "fǎn'ér",
     "m": "ngược lại, trái lại",
-    "cat": "language"
+    "cat": "language",
+    "example": "他不但没生气，反而笑了。",
+    "example_vi": "Anh ấy không những không tức giận, ngược lại còn cười."
   },
   {
     "w": "而是",
     "p": "érshì",
     "m": "mà là, mà thay vào đó",
-    "cat": "language"
+    "cat": "language",
+    "example": "这不是他的错，而是我的错。",
+    "example_vi": "Đây không phải lỗi của anh ấy, mà là lỗi của tôi."
   },
   {
     "w": "而且",
@@ -1815,25 +2099,33 @@
     "w": "也就是说",
     "p": "yě jiù shì shuō",
     "m": "tức là, nghĩa là",
-    "cat": "language"
+    "cat": "language",
+    "example": "他没来，也就是说他生病了。",
+    "example_vi": "Anh ấy không đến, tức là anh ấy bị ốm."
   },
   {
     "w": "换句话说",
     "p": "huàn jù huà shuō",
     "m": "nói cách khác",
-    "cat": "language"
+    "cat": "language",
+    "example": "换句话说，这个计划行不通。",
+    "example_vi": "Nói cách khác, kế hoạch này không khả thi."
   },
   {
     "w": "为此",
     "p": "wèicǐ",
     "m": "vì vậy, vì điều này",
-    "cat": "language"
+    "cat": "language",
+    "example": "他很努力，为此他取得了好成绩。",
+    "example_vi": "Anh ấy rất cố gắng, vì vậy đã đạt được thành tích tốt."
   },
   {
     "w": "对此",
     "p": "duìcǐ",
     "m": "về điều này, đối với điều này",
-    "cat": "language"
+    "cat": "language",
+    "example": "对此，我没有意见。",
+    "example_vi": "Về điều này, tôi không có ý kiến gì."
   },
   {
     "w": "因此",
@@ -1845,7 +2137,9 @@
     "w": "从而",
     "p": "cóng'ér",
     "m": "từ đó, do đó, nhờ đó, bởi vậy",
-    "cat": "language"
+    "cat": "language",
+    "example": "他努力学习，从而提高了成绩。",
+    "example_vi": "Anh ấy học tập chăm chỉ, từ đó nâng cao được thành tích."
   },
   {
     "w": "以便",
@@ -1863,7 +2157,9 @@
     "w": "尽快",
     "p": "jǐnkuài",
     "m": "càng sớm càng tốt",
-    "cat": "language"
+    "cat": "language",
+    "example": "请尽快回复我。",
+    "example_vi": "Xin hãy trả lời tôi càng sớm càng tốt."
   },
   {
     "w": "逐渐",
@@ -1875,13 +2171,17 @@
     "w": "不断",
     "p": "bùduàn",
     "m": "liên tục, không ngừng",
-    "cat": "language"
+    "cat": "language",
+    "example": "他不断努力学习。",
+    "example_vi": "Anh ấy không ngừng cố gắng học tập."
   },
   {
     "w": "持续",
     "p": "chíxù",
     "m": "liên tục, duy trì",
-    "cat": "language"
+    "cat": "language",
+    "example": "这场雨持续了三天。",
+    "example_vi": "Trận mưa này kéo dài liên tục ba ngày."
   },
   {
     "w": "随着",
@@ -1911,37 +2211,49 @@
     "w": "借助",
     "p": "jièzhù",
     "m": "nhờ vào, dựa vào, nhờ sự trợ giúp",
-    "cat": "language"
+    "cat": "language",
+    "example": "他借助字典学习新单词。",
+    "example_vi": "Anh ấy học từ mới nhờ vào từ điển."
   },
   {
     "w": "依靠",
     "p": "yīkào",
     "m": "dựa vào, phụ thuộc vào",
-    "cat": "language"
+    "cat": "language",
+    "example": "他依靠自己的努力成功了。",
+    "example_vi": "Anh ấy đã thành công nhờ dựa vào nỗ lực của bản thân."
   },
   {
     "w": "针对",
     "p": "zhēnduì",
     "m": "nhắm vào, hướng đến",
-    "cat": "language"
+    "cat": "language",
+    "example": "这个政策是针对年轻人的。",
+    "example_vi": "Chính sách này nhắm vào giới trẻ."
   },
   {
     "w": "面对",
     "p": "miànduì",
     "m": "đối mặt với",
-    "cat": "language"
+    "cat": "language",
+    "example": "我们要勇敢面对困难。",
+    "example_vi": "Chúng ta phải dũng cảm đối mặt với khó khăn."
   },
   {
     "w": "相比",
     "p": "xiāngbǐ",
     "m": "so sánh, so với",
-    "cat": "language"
+    "cat": "language",
+    "example": "跟去年相比，今年更热。",
+    "example_vi": "So với năm ngoái, năm nay nóng hơn."
   },
   {
     "w": "相比较",
     "p": "xiāng bǐjiào",
     "m": "so sánh với nhau",
-    "cat": "language"
+    "cat": "language",
+    "example": "两种方法可以相比较。",
+    "example_vi": "Hai phương pháp này có thể so sánh với nhau."
   },
   {
     "w": "相同",
@@ -1959,31 +2271,41 @@
     "w": "分别",
     "p": "fēnbié",
     "m": "lần lượt, riêng biệt, chia tay",
-    "cat": "language"
+    "cat": "language",
+    "example": "我们在车站分别了。",
+    "example_vi": "Chúng tôi đã chia tay nhau ở nhà ga."
   },
   {
     "w": "各自",
     "p": "gèzì",
     "m": "mỗi người, riêng mình, riêng từng người, mỗi bên, tự mình",
-    "cat": "language"
+    "cat": "language",
+    "example": "大家各自回家了。",
+    "example_vi": "Mọi người đều tự về nhà riêng của mình."
   },
   {
     "w": "彼此",
     "p": "bǐcǐ",
     "m": "nhau, lẫn nhau",
-    "cat": "language"
+    "cat": "language",
+    "example": "我们要彼此信任。",
+    "example_vi": "Chúng ta phải tin tưởng lẫn nhau."
   },
   {
     "w": "相互",
     "p": "xiānghù",
     "m": "lẫn nhau, qua lại",
-    "cat": "language"
+    "cat": "language",
+    "example": "同学之间要相互帮助。",
+    "example_vi": "Bạn học nên giúp đỡ lẫn nhau."
   },
   {
     "w": "共同",
     "p": "gòngtóng",
     "m": "cùng nhau, chung",
-    "cat": "language"
+    "cat": "language",
+    "example": "这是我们共同的目标。",
+    "example_vi": "Đây là mục tiêu chung của chúng ta."
   },
   {
     "w": "一起",
@@ -1995,7 +2317,9 @@
     "w": "同时",
     "p": "tóngshí",
     "m": "đồng thời",
-    "cat": "language"
+    "cat": "language",
+    "example": "他一边工作，同时一边学习。",
+    "example_vi": "Anh ấy vừa làm việc, đồng thời vừa học tập."
   },
   {
     "w": "另外",
@@ -2019,13 +2343,17 @@
     "w": "最终",
     "p": "zuìzhōng",
     "m": "cuối cùng, rốt cuộc",
-    "cat": "language"
+    "cat": "language",
+    "example": "他最终成功了。",
+    "example_vi": "Cuối cùng anh ấy đã thành công."
   },
   {
     "w": "整体",
     "p": "zhěngtǐ",
     "m": "tổng thể, toàn bộ",
-    "cat": "language"
+    "cat": "language",
+    "example": "从整体上看，情况不错。",
+    "example_vi": "Nhìn tổng thể, tình hình khá tốt."
   },
   {
     "w": "局部",
@@ -2037,7 +2365,9 @@
     "w": "整个",
     "p": "zhěnggè",
     "m": "toàn bộ, cả",
-    "cat": "language"
+    "cat": "language",
+    "example": "整个城市都亮起了灯。",
+    "example_vi": "Toàn bộ thành phố đều sáng đèn."
   },
   {
     "w": "所有",
@@ -2073,7 +2403,9 @@
     "w": "多种",
     "p": "duōzhǒng",
     "m": "nhiều loại",
-    "cat": "language"
+    "cat": "language",
+    "example": "这里有多种水果。",
+    "example_vi": "Ở đây có nhiều loại trái cây."
   },
   {
     "w": "单一",
@@ -2085,7 +2417,9 @@
     "w": "唯一",
     "p": "wéiyī",
     "m": "duy nhất",
-    "cat": "language"
+    "cat": "language",
+    "example": "他是我唯一的朋友。",
+    "example_vi": "Anh ấy là người bạn duy nhất của tôi."
   },
   {
     "w": "主要",
@@ -2103,19 +2437,25 @@
     "w": "基本",
     "p": "jīběn",
     "m": "cơ bản",
-    "cat": "language"
+    "cat": "language",
+    "example": "这是基本常识。",
+    "example_vi": "Đây là kiến thức cơ bản."
   },
   {
     "w": "核心",
     "p": "héxīn",
     "m": "cốt lõi, trung tâm",
-    "cat": "language"
+    "cat": "language",
+    "example": "这是问题的核心。",
+    "example_vi": "Đây là cốt lõi của vấn đề."
   },
   {
     "w": "关键",
     "p": "guānjiàn",
     "m": "then chốt, quan trọng",
-    "cat": "language"
+    "cat": "language",
+    "example": "努力是成功的关键。",
+    "example_vi": "Nỗ lực là chìa khóa then chốt của thành công."
   },
   {
     "w": "重要",
@@ -2139,7 +2479,9 @@
     "w": "也许",
     "p": "yěxǔ",
     "m": "có lẽ, có thể",
-    "cat": "language"
+    "cat": "language",
+    "example": "他也许不知道这件事。",
+    "example_vi": "Có lẽ anh ấy không biết chuyện này."
   },
   {
     "w": "大概",
@@ -2163,7 +2505,9 @@
     "w": "建议",
     "p": "jiànyì",
     "m": "đề nghị, gợi ý",
-    "cat": "language"
+    "cat": "language",
+    "example": "我建议你多休息。",
+    "example_vi": "Tôi đề nghị bạn nghỉ ngơi nhiều hơn."
   },
   {
     "w": "要求",
@@ -2181,7 +2525,9 @@
     "w": "说明",
     "p": "shuōmíng",
     "m": "giải thích, chứng tỏ",
-    "cat": "language"
+    "cat": "language",
+    "example": "请你说明一下情况。",
+    "example_vi": "Xin bạn giải thích tình hình."
   },
   {
     "w": "解释",
@@ -2193,13 +2539,17 @@
     "w": "强调",
     "p": "qiángdiào",
     "m": "nhấn mạnh",
-    "cat": "language"
+    "cat": "language",
+    "example": "老师强调了这个问题的重要性。",
+    "example_vi": "Thầy giáo đã nhấn mạnh tầm quan trọng của vấn đề này."
   },
   {
     "w": "指出",
     "p": "zhǐchū",
     "m": "chỉ ra, vạch ra",
-    "cat": "language"
+    "cat": "language",
+    "example": "他指出了我的错误。",
+    "example_vi": "Anh ấy đã chỉ ra sai lầm của tôi."
   },
   {
     "w": "认为",
@@ -2211,7 +2561,9 @@
     "w": "主张",
     "p": "zhǔzhāng",
     "m": "chủ trương, đề xuất",
-    "cat": "language"
+    "cat": "language",
+    "example": "他主张早睡早起。",
+    "example_vi": "Anh ấy chủ trương ngủ sớm dậy sớm."
   },
   {
     "w": "反对",
@@ -2229,43 +2581,57 @@
     "w": "证实",
     "p": "zhèngshí",
     "m": "xác nhận, chứng thực",
-    "cat": "language"
+    "cat": "language",
+    "example": "这个消息已经被证实了。",
+    "example_vi": "Tin tức này đã được xác nhận."
   },
   {
     "w": "否认",
     "p": "fǒurèn",
     "m": "phủ nhận, bác bỏ",
-    "cat": "language"
+    "cat": "language",
+    "example": "他否认了这件事。",
+    "example_vi": "Anh ấy đã phủ nhận việc này."
   },
   {
     "w": "承认",
     "p": "chéngrèn",
     "m": "thừa nhận",
-    "cat": "language"
+    "cat": "language",
+    "example": "他承认了自己的错误。",
+    "example_vi": "Anh ấy đã thừa nhận sai lầm của mình."
   },
   {
     "w": "表明",
     "p": "biǎomíng",
     "m": "chứng tỏ, cho thấy rõ",
-    "cat": "language"
+    "cat": "language",
+    "example": "这个结果表明他很努力。",
+    "example_vi": "Kết quả này chứng tỏ anh ấy rất cố gắng."
   },
   {
     "w": "涉及",
     "p": "shèjí",
     "m": "liên quan đến, đề cập đến",
-    "cat": "language"
+    "cat": "language",
+    "example": "这个问题涉及很多方面。",
+    "example_vi": "Vấn đề này liên quan đến nhiều mặt."
   },
   {
     "w": "体现",
     "p": "tǐxiàn",
     "m": "thể hiện, phản ánh",
-    "cat": "language"
+    "cat": "language",
+    "example": "这体现了他的能力。",
+    "example_vi": "Điều này thể hiện năng lực của anh ấy."
   },
   {
     "w": "反映",
     "p": "fǎnyìng",
     "m": "phản ánh",
-    "cat": "language"
+    "cat": "language",
+    "example": "这个数据反映了真实情况。",
+    "example_vi": "Số liệu này phản ánh tình hình thực tế."
   },
   {
     "w": "导致",
@@ -2283,25 +2649,33 @@
     "w": "促进",
     "p": "cùjìn",
     "m": "thúc đẩy, xúc tiến",
-    "cat": "language"
+    "cat": "language",
+    "example": "运动可以促进健康。",
+    "example_vi": "Vận động có thể thúc đẩy sức khỏe."
   },
   {
     "w": "推动",
     "p": "tuīdòng",
     "m": "thúc đẩy, đẩy mạnh",
-    "cat": "language"
+    "cat": "language",
+    "example": "科技推动了社会发展。",
+    "example_vi": "Khoa học kỹ thuật đã thúc đẩy sự phát triển xã hội."
   },
   {
     "w": "实现",
     "p": "shíxiàn",
     "m": "thực hiện, đạt được",
-    "cat": "language"
+    "cat": "language",
+    "example": "他终于实现了自己的梦想。",
+    "example_vi": "Cuối cùng anh ấy đã thực hiện được ước mơ của mình."
   },
   {
     "w": "达到",
     "p": "dádào",
     "m": "đạt đến, đạt được",
-    "cat": "language"
+    "cat": "language",
+    "example": "他达到了自己的目标。",
+    "example_vi": "Anh ấy đã đạt được mục tiêu của mình."
   },
   {
     "w": "完成",
@@ -2319,55 +2693,73 @@
     "w": "处理",
     "p": "chǔlǐ",
     "m": "xử lý, giải quyết",
-    "cat": "language"
+    "cat": "language",
+    "example": "请尽快处理这件事。",
+    "example_vi": "Xin hãy xử lý việc này càng sớm càng tốt."
   },
   {
     "w": "面临",
     "p": "miànlín",
     "m": "đối mặt với, đứng trước",
-    "cat": "language"
+    "cat": "language",
+    "example": "公司正面临巨大挑战。",
+    "example_vi": "Công ty đang đối mặt với thách thức to lớn."
   },
   {
     "w": "存在",
     "p": "cúnzài",
     "m": "tồn tại",
-    "cat": "language"
+    "cat": "language",
+    "example": "这个问题一直存在。",
+    "example_vi": "Vấn đề này luôn tồn tại."
   },
   {
     "w": "提供",
     "p": "tígōng",
     "m": "cung cấp, đưa ra",
-    "cat": "language"
+    "cat": "language",
+    "example": "学校提供免费午餐。",
+    "example_vi": "Nhà trường cung cấp bữa trưa miễn phí."
   },
   {
     "w": "获得",
     "p": "huòdé",
     "m": "đạt được, có được",
-    "cat": "language"
+    "cat": "language",
+    "example": "他获得了第一名。",
+    "example_vi": "Anh ấy đã đạt được vị trí thứ nhất."
   },
   {
     "w": "产生",
     "p": "chǎnshēng",
     "m": "tạo ra, phát sinh, nảy sinh, sản sinh",
-    "cat": "language"
+    "cat": "language",
+    "example": "这件事产生了很大的影响。",
+    "example_vi": "Việc này đã tạo ra ảnh hưởng lớn."
   },
   {
     "w": "形成",
     "p": "xíngchéng",
     "m": "hình thành",
-    "cat": "language"
+    "cat": "language",
+    "example": "习惯是慢慢形成的。",
+    "example_vi": "Thói quen được hình thành dần dần."
   },
   {
     "w": "建立",
     "p": "jiànlì",
     "m": "xây dựng, thành lập",
-    "cat": "language"
+    "cat": "language",
+    "example": "他们建立了良好的关系。",
+    "example_vi": "Họ đã xây dựng mối quan hệ tốt đẹp."
   },
   {
     "w": "确保",
     "p": "quèbǎo",
     "m": "đảm bảo, chắc chắn",
-    "cat": "language"
+    "cat": "language",
+    "example": "请确保信息的准确性。",
+    "example_vi": "Xin hãy đảm bảo tính chính xác của thông tin."
   },
   {
     "w": "专业",
@@ -2385,7 +2777,9 @@
     "w": "考核",
     "p": "kǎohé",
     "m": "kiểm tra, đánh giá",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "公司每年都进行员工考核。",
+    "example_vi": "Công ty mỗi năm đều tiến hành đánh giá nhân viên."
   },
   {
     "w": "成绩",
@@ -2409,7 +2803,9 @@
     "w": "导师",
     "p": "dǎoshī",
     "m": "giáo viên hướng dẫn",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "他的导师是一位著名教授。",
+    "example_vi": "Giáo viên hướng dẫn của anh ấy là một giáo sư nổi tiếng."
   },
   {
     "w": "讲座",
@@ -2433,13 +2829,17 @@
     "w": "录取",
     "p": "lùqǔ",
     "m": "tuyển nhận, trúng tuyển",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "他被这所大学录取了。",
+    "example_vi": "Anh ấy đã được trường đại học này tuyển nhận."
   },
   {
     "w": "培训",
     "p": "péixùn",
     "m": "đào tạo, huấn luyện",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "公司为新员工提供培训。",
+    "example_vi": "Công ty cung cấp đào tạo cho nhân viên mới."
   },
   {
     "w": "讨论",
@@ -2457,13 +2857,17 @@
     "w": "总结",
     "p": "zǒngjié",
     "m": "tổng kết, tóm tắt",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "请总结一下这次会议的内容。",
+    "example_vi": "Xin hãy tổng kết nội dung cuộc họp lần này."
   },
   {
     "w": "评价",
     "p": "píngjià",
     "m": "đánh giá, nhận xét",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "老师对他的评价很高。",
+    "example_vi": "Đánh giá của thầy giáo về anh ấy rất cao."
   },
   {
     "w": "归纳",
@@ -2475,7 +2879,9 @@
     "w": "演讲",
     "p": "yǎnjiǎng",
     "m": "diễn thuyết",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "他在台上发表演讲。",
+    "example_vi": "Anh ấy đã phát biểu diễn thuyết trên sân khấu."
   },
   {
     "w": "提问",
@@ -2487,7 +2893,9 @@
     "w": "解答",
     "p": "jiědá",
     "m": "giải đáp",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "老师帮我解答了这个问题。",
+    "example_vi": "Thầy giáo đã giúp tôi giải đáp vấn đề này."
   },
   {
     "w": "民族",
@@ -2529,7 +2937,9 @@
     "w": "庆典",
     "p": "qìngdiǎn",
     "m": "lễ kỷ niệm, lễ mừng",
-    "cat": "society"
+    "cat": "society",
+    "example": "学校举行了盛大的庆典。",
+    "example_vi": "Nhà trường đã tổ chức lễ kỷ niệm long trọng."
   },
   {
     "w": "仪式",
@@ -2547,85 +2957,113 @@
     "w": "慈善",
     "p": "císhàn",
     "m": "từ thiện",
-    "cat": "society"
+    "cat": "society",
+    "example": "他经常参加慈善活动。",
+    "example_vi": "Anh ấy thường xuyên tham gia hoạt động từ thiện."
   },
   {
     "w": "志愿者",
     "p": "zhìyuànzhě",
     "m": "tình nguyện viên",
-    "cat": "society"
+    "cat": "society",
+    "example": "很多志愿者来帮忙。",
+    "example_vi": "Rất nhiều tình nguyện viên đến giúp đỡ."
   },
   {
     "w": "公益",
     "p": "gōngyì",
     "m": "lợi ích công cộng",
-    "cat": "society"
+    "cat": "society",
+    "example": "他积极参加公益活动。",
+    "example_vi": "Anh ấy tích cực tham gia hoạt động vì lợi ích công cộng."
   },
   {
     "w": "弱势群体",
     "p": "ruòshì qúntǐ",
     "m": "nhóm yếu thế",
-    "cat": "society"
+    "cat": "society",
+    "example": "我们应该关注弱势群体。",
+    "example_vi": "Chúng ta nên quan tâm đến nhóm yếu thế."
   },
   {
     "w": "歧视",
     "p": "qíshì",
     "m": "phân biệt đối xử",
-    "cat": "society"
+    "cat": "society",
+    "example": "我们反对任何形式的歧视。",
+    "example_vi": "Chúng tôi phản đối mọi hình thức phân biệt đối xử."
   },
   {
     "w": "偏见",
     "p": "piānjiàn",
     "m": "thành kiến",
-    "cat": "society"
+    "cat": "society",
+    "example": "我们应该消除偏见。",
+    "example_vi": "Chúng ta nên xóa bỏ thành kiến."
   },
   {
     "w": "多样性",
     "p": "duōyàngxìng",
     "m": "sự đa dạng",
-    "cat": "society"
+    "cat": "society",
+    "example": "生物多样性很重要。",
+    "example_vi": "Sự đa dạng sinh học rất quan trọng."
   },
   {
     "w": "全球化",
     "p": "quánqiúhuà",
     "m": "toàn cầu hóa",
-    "cat": "society"
+    "cat": "society",
+    "example": "全球化影响着每个国家。",
+    "example_vi": "Toàn cầu hóa ảnh hưởng đến mỗi quốc gia."
   },
   {
     "w": "城镇化",
     "p": "chéngzhènhuà",
     "m": "đô thị hóa",
-    "cat": "society"
+    "cat": "society",
+    "example": "城镇化进程加快了。",
+    "example_vi": "Quá trình đô thị hóa đã tăng tốc."
   },
   {
     "w": "社会化",
     "p": "shèhuìhuà",
     "m": "xã hội hóa",
-    "cat": "society"
+    "cat": "society",
+    "example": "教育的社会化程度越来越高。",
+    "example_vi": "Mức độ xã hội hóa giáo dục ngày càng cao."
   },
   {
     "w": "现代化",
     "p": "xiàndàihuà",
     "m": "hiện đại hóa",
-    "cat": "society"
+    "cat": "society",
+    "example": "这个国家正在实现现代化。",
+    "example_vi": "Quốc gia này đang thực hiện hiện đại hóa."
   },
   {
     "w": "情绪",
     "p": "qíngxù",
     "m": "cảm xúc, khí sắc",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他今天情绪不好。",
+    "example_vi": "Hôm nay tâm trạng anh ấy không tốt."
   },
   {
     "w": "烦恼",
     "p": "fánnǎo",
     "m": "phiền muộn, lo lắng, phiền não, bực bội",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他最近有很多烦恼。",
+    "example_vi": "Gần đây anh ấy có nhiều phiền muộn."
   },
   {
     "w": "抑郁",
     "p": "yìyù",
     "m": "trầm cảm, u uất",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他患有轻度抑郁症。",
+    "example_vi": "Anh ấy mắc chứng trầm cảm nhẹ."
   },
   {
     "w": "紧张",
@@ -2643,37 +3081,49 @@
     "w": "平静",
     "p": "píngjìng",
     "m": "bình tĩnh, yên tĩnh",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "湖面很平静。",
+    "example_vi": "Mặt hồ rất yên tĩnh."
   },
   {
     "w": "冷静",
     "p": "lěngjìng",
     "m": "bình tĩnh, điềm tĩnh",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "遇到问题要冷静。",
+    "example_vi": "Gặp vấn đề phải bình tĩnh."
   },
   {
     "w": "愉快",
     "p": "yúkuài",
     "m": "vui vẻ, thích thú",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "祝你旅途愉快。",
+    "example_vi": "Chúc bạn chuyến đi vui vẻ."
   },
   {
     "w": "愤怒",
     "p": "fènnù",
     "m": "tức giận, phẫn nộ",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他愤怒地离开了。",
+    "example_vi": "Anh ấy đã rời đi trong phẫn nộ."
   },
   {
     "w": "嫉妒",
     "p": "jídù",
     "m": "ghen tị, đố kỵ",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "她很嫉妒姐姐的成功。",
+    "example_vi": "Cô ấy rất ghen tị với thành công của chị gái."
   },
   {
     "w": "羡慕",
     "p": "xiànmù",
     "m": "ngưỡng mộ, thèm muốn",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "我很羡慕你的生活。",
+    "example_vi": "Tôi rất ngưỡng mộ cuộc sống của bạn."
   },
   {
     "w": "后悔",
@@ -2691,7 +3141,9 @@
     "w": "恐惧",
     "p": "kǒngjù",
     "m": "sợ hãi, kinh hoàng",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他对黑暗感到恐惧。",
+    "example_vi": "Anh ấy cảm thấy sợ hãi bóng tối."
   },
   {
     "w": "惊讶",
@@ -2703,25 +3155,33 @@
     "w": "感激",
     "p": "gǎnjī",
     "m": "biết ơn, cảm kích",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "我非常感激你的帮助。",
+    "example_vi": "Tôi vô cùng biết ơn sự giúp đỡ của bạn."
   },
   {
     "w": "安慰",
     "p": "ānwèi",
     "m": "an ủi, vỗ về",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "朋友安慰了她。",
+    "example_vi": "Bạn bè đã an ủi cô ấy."
   },
   {
     "w": "鼓励",
     "p": "gǔlì",
     "m": "khuyến khích, động viên",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "老师鼓励我们多发言。",
+    "example_vi": "Thầy giáo khuyến khích chúng tôi phát biểu nhiều hơn."
   },
   {
     "w": "支撑",
     "p": "zhīchēng",
     "m": "chống đỡ, hỗ trợ",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "这根柱子支撑着屋顶。",
+    "example_vi": "Cây cột này chống đỡ mái nhà."
   },
   {
     "w": "适应",
@@ -2745,109 +3205,145 @@
     "w": "通货紧缩",
     "p": "tōnghuò jǐnsuō",
     "m": "giảm phát",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "经济学家担心通货紧缩。",
+    "example_vi": "Các nhà kinh tế học lo ngại về giảm phát."
   },
   {
     "w": "汇率",
     "p": "huìlǜ",
     "m": "tỷ giá hối đoái",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "最近汇率变化很大。",
+    "example_vi": "Gần đây tỷ giá hối đoái thay đổi rất nhiều."
   },
   {
     "w": "外汇",
     "p": "wàihuì",
     "m": "ngoại hối",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他在银行从事外汇交易。",
+    "example_vi": "Anh ấy làm giao dịch ngoại hối ở ngân hàng."
   },
   {
     "w": "债务",
     "p": "zhàiwù",
     "m": "nợ, khoản nợ",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "公司背负着巨额债务。",
+    "example_vi": "Công ty đang gánh khoản nợ khổng lồ."
   },
   {
     "w": "债券",
     "p": "zhàiquàn",
     "m": "trái phiếu",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他投资了国家债券。",
+    "example_vi": "Anh ấy đã đầu tư vào trái phiếu chính phủ."
   },
   {
     "w": "基金",
     "p": "jījīn",
     "m": "quỹ đầu tư",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他把钱投资到基金里。",
+    "example_vi": "Anh ấy đã đầu tư tiền vào quỹ đầu tư."
   },
   {
     "w": "保险",
     "p": "bǎoxiǎn",
     "m": "bảo hiểm",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他买了健康保险。",
+    "example_vi": "Anh ấy đã mua bảo hiểm sức khỏe."
   },
   {
     "w": "合并",
     "p": "hébìng",
     "m": "hợp nhất, sáp nhập",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "两家公司决定合并。",
+    "example_vi": "Hai công ty quyết định sáp nhập."
   },
   {
     "w": "收购",
     "p": "shōugòu",
     "m": "mua lại, thâu tóm",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这家大公司收购了一家小公司。",
+    "example_vi": "Công ty lớn này đã mua lại một công ty nhỏ."
   },
   {
     "w": "上市",
     "p": "shàngshì",
     "m": "niêm yết, lên sàn",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这家公司明年准备上市。",
+    "example_vi": "Công ty này dự định niêm yết vào năm sau."
   },
   {
     "w": "融资",
     "p": "róngzī",
     "m": "huy động vốn",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这家创业公司正在融资。",
+    "example_vi": "Công ty khởi nghiệp này đang huy động vốn."
   },
   {
     "w": "利润率",
     "p": "lìrùnlǜ",
     "m": "tỷ suất lợi nhuận",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这个行业的利润率很高。",
+    "example_vi": "Tỷ suất lợi nhuận của ngành này rất cao."
   },
   {
     "w": "市场份额",
     "p": "shìchǎng fèn'é",
     "m": "thị phần",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这家公司的市场份额在增长。",
+    "example_vi": "Thị phần của công ty này đang tăng trưởng."
   },
   {
     "w": "垄断",
     "p": "lǒngduàn",
     "m": "độc quyền",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这家公司在市场上处于垄断地位。",
+    "example_vi": "Công ty này ở vị trí độc quyền trên thị trường."
   },
   {
     "w": "供应链",
     "p": "gōngyìngliàn",
     "m": "chuỗi cung ứng",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "疫情影响了全球供应链。",
+    "example_vi": "Dịch bệnh đã ảnh hưởng đến chuỗi cung ứng toàn cầu."
   },
   {
     "w": "物流",
     "p": "wùliú",
     "m": "hậu cần, logistics, vận chuyển",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这家公司专门做物流服务。",
+    "example_vi": "Công ty này chuyên làm dịch vụ logistics."
   },
   {
     "w": "零售",
     "p": "língshòu",
     "m": "bán lẻ",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他在零售行业工作。",
+    "example_vi": "Anh ấy làm việc trong ngành bán lẻ."
   },
   {
     "w": "批发",
     "p": "pīfā",
     "m": "bán buôn, bán sỉ",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这里的价格是批发价。",
+    "example_vi": "Giá ở đây là giá bán buôn."
   },
   {
     "w": "人工智能",
@@ -2877,25 +3373,33 @@
     "w": "物联网",
     "p": "wùliánwǎng",
     "m": "internet vạn vật",
-    "cat": "science"
+    "cat": "science",
+    "example": "物联网技术改变了我们的生活。",
+    "example_vi": "Công nghệ internet vạn vật đã thay đổi cuộc sống của chúng ta."
   },
   {
     "w": "5G",
     "p": "wǔ G",
     "m": "mạng 5G",
-    "cat": "science"
+    "cat": "science",
+    "example": "现在很多手机支持5G网络。",
+    "example_vi": "Hiện nay rất nhiều điện thoại hỗ trợ mạng 5G."
   },
   {
     "w": "芯片",
     "p": "xīnpiàn",
     "m": "chip, vi mạch",
-    "cat": "science"
+    "cat": "science",
+    "example": "这台电脑用的是最新的芯片。",
+    "example_vi": "Máy tính này dùng chip mới nhất."
   },
   {
     "w": "半导体",
     "p": "bàndǎotǐ",
     "m": "bán dẫn",
-    "cat": "science"
+    "cat": "science",
+    "example": "这家公司生产半导体产品。",
+    "example_vi": "Công ty này sản xuất sản phẩm bán dẫn."
   },
   {
     "w": "量子",
@@ -2907,43 +3411,57 @@
     "w": "激光",
     "p": "jīguāng",
     "m": "tia laser",
-    "cat": "science"
+    "cat": "science",
+    "example": "医生用激光治疗眼睛。",
+    "example_vi": "Bác sĩ dùng tia laser để điều trị mắt."
   },
   {
     "w": "超导",
     "p": "chāodǎo",
     "m": "siêu dẫn",
-    "cat": "science"
+    "cat": "science",
+    "example": "科学家正在研究超导材料。",
+    "example_vi": "Các nhà khoa học đang nghiên cứu vật liệu siêu dẫn."
   },
   {
     "w": "原子",
     "p": "yuánzǐ",
     "m": "nguyên tử",
-    "cat": "science"
+    "cat": "science",
+    "example": "物质是由原子组成的。",
+    "example_vi": "Vật chất được cấu tạo từ nguyên tử."
   },
   {
     "w": "分子",
     "p": "fēnzǐ",
     "m": "phân tử",
-    "cat": "science"
+    "cat": "science",
+    "example": "水分子由氢和氧组成。",
+    "example_vi": "Phân tử nước được cấu tạo từ hydro và oxy."
   },
   {
     "w": "质子",
     "p": "zhìzǐ",
     "m": "proton",
-    "cat": "science"
+    "cat": "science",
+    "example": "原子核由质子和中子组成。",
+    "example_vi": "Hạt nhân nguyên tử được cấu tạo từ proton và neutron."
   },
   {
     "w": "中子",
     "p": "zhōngzǐ",
     "m": "neutron",
-    "cat": "science"
+    "cat": "science",
+    "example": "中子不带电荷。",
+    "example_vi": "Neutron không mang điện tích."
   },
   {
     "w": "电子显微镜",
     "p": "diànzǐ xiǎnwēijìng",
     "m": "kính hiển vi điện tử",
-    "cat": "science"
+    "cat": "science",
+    "example": "科学家用电子显微镜观察细胞。",
+    "example_vi": "Các nhà khoa học dùng kính hiển vi điện tử để quan sát tế bào."
   },
   {
     "w": "基因组",
@@ -2955,49 +3473,65 @@
     "w": "克隆",
     "p": "kèlóng",
     "m": "nhân bản vô tính, clone",
-    "cat": "science"
+    "cat": "science",
+    "example": "科学家成功克隆了一只羊。",
+    "example_vi": "Các nhà khoa học đã nhân bản vô tính thành công một con cừu."
   },
   {
     "w": "干细胞",
     "p": "gàn xìbāo",
     "m": "tế bào gốc",
-    "cat": "science"
+    "cat": "science",
+    "example": "干细胞研究有很大的医学价值。",
+    "example_vi": "Nghiên cứu tế bào gốc có giá trị y học rất lớn."
   },
   {
     "w": "抗体",
     "p": "kàngtǐ",
     "m": "kháng thể",
-    "cat": "science"
+    "cat": "science",
+    "example": "疫苗可以帮助身体产生抗体。",
+    "example_vi": "Vắc-xin có thể giúp cơ thể sinh ra kháng thể."
   },
   {
     "w": "此外",
     "p": "cǐwài",
     "m": "ngoài ra, bên cạnh đó",
-    "cat": "language"
+    "cat": "language",
+    "example": "此外，我们还需要准备一些材料。",
+    "example_vi": "Ngoài ra, chúng ta còn cần chuẩn bị một số tài liệu."
   },
   {
     "w": "况且",
     "p": "kuàngqiě",
     "m": "hơn nữa, vả lại",
-    "cat": "language"
+    "cat": "language",
+    "example": "这个方案不错，况且价格也合理。",
+    "example_vi": "Phương án này khá tốt, hơn nữa giá cả cũng hợp lý."
   },
   {
     "w": "不仅如此",
     "p": "bùjǐn rúcǐ",
     "m": "không chỉ như vậy",
-    "cat": "language"
+    "cat": "language",
+    "example": "他很聪明，不仅如此，他还很努力。",
+    "example_vi": "Anh ấy rất thông minh, không chỉ như vậy, anh ấy còn rất chăm chỉ."
   },
   {
     "w": "与此同时",
     "p": "yǔ cǐ tóngshí",
     "m": "đồng thời với đó, cùng lúc đó",
-    "cat": "language"
+    "cat": "language",
+    "example": "他在学习，与此同时也在工作。",
+    "example_vi": "Anh ấy vừa học, đồng thời với đó cũng vừa làm việc."
   },
   {
     "w": "就此而言",
     "p": "jiù cǐ ér yán",
     "m": "về điều này mà nói",
-    "cat": "language"
+    "cat": "language",
+    "example": "就此而言，这个计划是可行的。",
+    "example_vi": "Về điều này mà nói, kế hoạch này là khả thi."
   },
   {
     "w": "在某种程度上",
@@ -3009,19 +3543,25 @@
     "w": "从长远来看",
     "p": "cóng chángyuǎn lái kàn",
     "m": "xét về lâu dài",
-    "cat": "language"
+    "cat": "language",
+    "example": "从长远来看，这项投资是值得的。",
+    "example_vi": "Xét về lâu dài, khoản đầu tư này là đáng giá."
   },
   {
     "w": "毫无疑问",
     "p": "háowú yíwèn",
     "m": "không nghi ngờ gì, chắc chắn",
-    "cat": "language"
+    "cat": "language",
+    "example": "毫无疑问，他是最优秀的学生。",
+    "example_vi": "Không nghi ngờ gì, anh ấy là học sinh xuất sắc nhất."
   },
   {
     "w": "显而易见",
     "p": "xiǎn ér yì jiàn",
     "m": "rõ ràng, hiển nhiên",
-    "cat": "language"
+    "cat": "language",
+    "example": "显而易见，这个方法更有效。",
+    "example_vi": "Rõ ràng là, phương pháp này hiệu quả hơn."
   },
   {
     "w": "不可否认",
@@ -3033,13 +3573,17 @@
     "w": "由此可见",
     "p": "yóucǐ kě jiàn",
     "m": "qua đó có thể thấy",
-    "cat": "language"
+    "cat": "language",
+    "example": "由此可见，努力是很重要的。",
+    "example_vi": "Qua đó có thể thấy, nỗ lực rất quan trọng."
   },
   {
     "w": "就总体而言",
     "p": "jiù zǒngtǐ ér yán",
     "m": "xét về tổng thể",
-    "cat": "language"
+    "cat": "language",
+    "example": "就总体而言，这次活动很成功。",
+    "example_vi": "Xét về tổng thể, hoạt động lần này rất thành công."
   },
   {
     "w": "正是因为",
@@ -3051,13 +3595,17 @@
     "w": "尽管如此",
     "p": "jǐnguǎn rúcǐ",
     "m": "mặc dù vậy, tuy nhiên",
-    "cat": "language"
+    "cat": "language",
+    "example": "天气很冷，尽管如此，他还是坚持跑步。",
+    "example_vi": "Trời rất lạnh, mặc dù vậy, anh ấy vẫn kiên trì chạy bộ."
   },
   {
     "w": "然而",
     "p": "rán'ér",
     "m": "tuy nhiên, nhưng mà",
-    "cat": "language"
+    "cat": "language",
+    "example": "他很努力，然而结果并不理想。",
+    "example_vi": "Anh ấy rất cố gắng, tuy nhiên kết quả không như ý."
   },
   {
     "w": "不过",
@@ -3075,13 +3623,17 @@
     "w": "况且",
     "p": "kuàngqiě",
     "m": "hơn nữa, vả chăng",
-    "cat": "language"
+    "cat": "language",
+    "example": "这个方案不错，况且价格也合理。",
+    "example_vi": "Phương án này khá tốt, hơn nữa giá cả cũng hợp lý."
   },
   {
     "w": "甚至",
     "p": "shènzhì",
     "m": "thậm chí",
-    "cat": "language"
+    "cat": "language",
+    "example": "他忙得甚至没有时间吃饭。",
+    "example_vi": "Anh ấy bận đến mức thậm chí không có thời gian ăn cơm."
   },
   {
     "w": "何况",
@@ -3093,13 +3645,17 @@
     "w": "恰恰",
     "p": "qiàqià",
     "m": "đúng lúc, vừa vặn",
-    "cat": "language"
+    "cat": "language",
+    "example": "他来的时候恰恰是我要走的时候。",
+    "example_vi": "Anh ấy đến đúng lúc tôi chuẩn bị đi."
   },
   {
     "w": "恰好",
     "p": "qiàhǎo",
     "m": "vừa hay, đúng lúc",
-    "cat": "language"
+    "cat": "language",
+    "example": "我到的时候恰好下雨了。",
+    "example_vi": "Khi tôi đến thì vừa hay trời mưa."
   },
   {
     "w": "几乎",
@@ -3135,7 +3691,9 @@
     "w": "始终",
     "p": "shǐzhōng",
     "m": "từ đầu đến cuối, luôn luôn",
-    "cat": "language"
+    "cat": "language",
+    "example": "他始终相信自己会成功。",
+    "example_vi": "Anh ấy luôn luôn tin rằng mình sẽ thành công."
   },
   {
     "w": "一直",
@@ -3147,7 +3705,9 @@
     "w": "始终如一",
     "p": "shǐzhōng rúyī",
     "m": "nhất quán từ đầu đến cuối",
-    "cat": "language"
+    "cat": "language",
+    "example": "他对朋友始终如一。",
+    "example_vi": "Anh ấy luôn nhất quán với bạn bè."
   },
   {
     "w": "历史",
@@ -3159,19 +3719,25 @@
     "w": "古代",
     "p": "gǔdài",
     "m": "cổ đại, thời xưa",
-    "cat": "society"
+    "cat": "society",
+    "example": "这是古代的文物。",
+    "example_vi": "Đây là cổ vật thời cổ đại."
   },
   {
     "w": "近代",
     "p": "jìndài",
     "m": "cận đại",
-    "cat": "society"
+    "cat": "society",
+    "example": "这是近代历史的重要事件。",
+    "example_vi": "Đây là sự kiện quan trọng của lịch sử cận đại."
   },
   {
     "w": "当代",
     "p": "dāngdài",
     "m": "đương đại, hiện nay",
-    "cat": "society"
+    "cat": "society",
+    "example": "他是当代著名的作家。",
+    "example_vi": "Anh ấy là nhà văn đương đại nổi tiếng."
   },
   {
     "w": "当今",
@@ -3183,7 +3749,9 @@
     "w": "影视",
     "p": "yǐngshì",
     "m": "phim ảnh và truyền hình",
-    "cat": "society"
+    "cat": "society",
+    "example": "他从事影视行业工作。",
+    "example_vi": "Anh ấy làm việc trong ngành phim ảnh và truyền hình."
   },
   {
     "w": "文学",
@@ -3231,7 +3799,9 @@
     "w": "建筑设计",
     "p": "jiànzhù shèjì",
     "m": "thiết kế kiến trúc",
-    "cat": "society"
+    "cat": "society",
+    "example": "他学的是建筑设计专业。",
+    "example_vi": "Anh ấy học chuyên ngành thiết kế kiến trúc."
   },
   {
     "w": "非物质文化遗产",
@@ -3243,79 +3813,105 @@
     "w": "勤奋",
     "p": "qínfèn",
     "m": "chăm chỉ, cần cù",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他学习很勤奋。",
+    "example_vi": "Anh ấy học tập rất chăm chỉ."
   },
   {
     "w": "懒惰",
     "p": "lǎnduò",
     "m": "lười biếng",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "懒惰不会带来成功。",
+    "example_vi": "Lười biếng sẽ không mang lại thành công."
   },
   {
     "w": "固执",
     "p": "gùzhí",
     "m": "cứng đầu, bướng bỉnh, cố chấp",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他很固执，不听别人的意见。",
+    "example_vi": "Anh ấy rất cố chấp, không nghe ý kiến người khác."
   },
   {
     "w": "灵活",
     "p": "línghuó",
     "m": "linh hoạt",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他做事很灵活。",
+    "example_vi": "Anh ấy làm việc rất linh hoạt."
   },
   {
     "w": "理智",
     "p": "lǐzhì",
     "m": "lý trí, sáng suốt",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "遇到问题要保持理智。",
+    "example_vi": "Gặp vấn đề phải giữ lý trí."
   },
   {
     "w": "感性",
     "p": "gǎnxìng",
     "m": "cảm tính",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "她是一个很感性的人。",
+    "example_vi": "Cô ấy là một người rất cảm tính."
   },
   {
     "w": "理性",
     "p": "lǐxìng",
     "m": "lý tính, lý trí",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "我们要理性思考问题。",
+    "example_vi": "Chúng ta phải suy nghĩ vấn đề một cách lý tính."
   },
   {
     "w": "执着",
     "p": "zhízhuó",
     "m": "kiên định, khắng khít, kiên trì bám đuổi",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他对梦想很执着。",
+    "example_vi": "Anh ấy rất kiên định với ước mơ của mình."
   },
   {
     "w": "开朗",
     "p": "kāilǎng",
     "m": "vui vẻ, cởi mở",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "她性格很开朗。",
+    "example_vi": "Tính cách của cô ấy rất cởi mở vui vẻ."
   },
   {
     "w": "内向",
     "p": "nèixiàng",
     "m": "hướng nội",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他性格比较内向。",
+    "example_vi": "Tính cách của anh ấy tương đối hướng nội."
   },
   {
     "w": "外向",
     "p": "wàixiàng",
     "m": "hướng ngoại",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "她性格很外向。",
+    "example_vi": "Tính cách của cô ấy rất hướng ngoại."
   },
   {
     "w": "自律",
     "p": "zìlǜ",
     "m": "tự kỷ luật",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他是一个很自律的人。",
+    "example_vi": "Anh ấy là một người rất tự kỷ luật."
   },
   {
     "w": "自制",
     "p": "zìzhì",
     "m": "tự kiểm soát",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他很有自制力。",
+    "example_vi": "Anh ấy rất có khả năng tự kiểm soát."
   },
   {
     "w": "成熟",
@@ -3327,19 +3923,25 @@
     "w": "人格",
     "p": "réngé",
     "m": "nhân cách",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他有高尚的人格。",
+    "example_vi": "Anh ấy có nhân cách cao thượng."
   },
   {
     "w": "观察",
     "p": "guānchá",
     "m": "quan sát",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "请仔细观察这幅画。",
+    "example_vi": "Xin hãy quan sát kỹ bức tranh này."
   },
   {
     "w": "探索",
     "p": "tànsuǒ",
     "m": "thám hiểm, khám phá",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "科学家一直在探索宇宙的奥秘。",
+    "example_vi": "Các nhà khoa học luôn khám phá những bí ẩn của vũ trụ."
   },
   {
     "w": "发现",
@@ -3363,7 +3965,9 @@
     "w": "解析",
     "p": "jiěxī",
     "m": "giải tích, phân tích sâu",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "老师给我们解析了这道题。",
+    "example_vi": "Thầy giáo đã phân tích sâu bài này cho chúng tôi."
   },
   {
     "w": "推断",
@@ -3375,19 +3979,25 @@
     "w": "推理",
     "p": "tuīlǐ",
     "m": "suy lý, lập luận",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "他擅长逻辑推理。",
+    "example_vi": "Anh ấy giỏi suy luận logic."
   },
   {
     "w": "评估",
     "p": "pínggū",
     "m": "đánh giá, ước tính",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "专家对这个项目进行了评估。",
+    "example_vi": "Các chuyên gia đã đánh giá dự án này."
   },
   {
     "w": "综合",
     "p": "zōnghé",
     "m": "tổng hợp",
-    "cat": "academic"
+    "cat": "academic",
+    "example": "这是一份综合报告。",
+    "example_vi": "Đây là một báo cáo tổng hợp."
   },
   {
     "w": "人口",
@@ -3405,37 +4015,49 @@
     "w": "生育率",
     "p": "shēngyùlǜ",
     "m": "tỷ lệ sinh",
-    "cat": "society"
+    "cat": "society",
+    "example": "这个国家的生育率在下降。",
+    "example_vi": "Tỷ lệ sinh của quốc gia này đang giảm."
   },
   {
     "w": "城乡",
     "p": "chéngxiāng",
     "m": "thành thị và nông thôn",
-    "cat": "society"
+    "cat": "society",
+    "example": "城乡差距在缩小。",
+    "example_vi": "Khoảng cách giữa thành thị và nông thôn đang thu hẹp."
   },
   {
     "w": "基础设施",
     "p": "jīchǔ shèshī",
     "m": "cơ sở hạ tầng",
-    "cat": "society"
+    "cat": "society",
+    "example": "这个城市的基础设施很完善。",
+    "example_vi": "Cơ sở hạ tầng của thành phố này rất hoàn thiện."
   },
   {
     "w": "宏观",
     "p": "hóngguān",
     "m": "vĩ mô",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "他研究宏观经济学。",
+    "example_vi": "Anh ấy nghiên cứu kinh tế học vĩ mô."
   },
   {
     "w": "微观",
     "p": "wēiguān",
     "m": "vi mô",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这是从微观角度分析的。",
+    "example_vi": "Đây là phân tích từ góc độ vi mô."
   },
   {
     "w": "产值",
     "p": "chǎnzhí",
     "m": "giá trị sản xuất",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "这家工厂的年产值很高。",
+    "example_vi": "Giá trị sản xuất hàng năm của nhà máy này rất cao."
   },
   {
     "w": "增长率",
@@ -3447,19 +4069,25 @@
     "w": "可持续发展",
     "p": "kě chíxù fāzhǎn",
     "m": "phát triển bền vững",
-    "cat": "economics"
+    "cat": "economics",
+    "example": "我们要重视可持续发展。",
+    "example_vi": "Chúng ta phải coi trọng phát triển bền vững."
   },
   {
     "w": "航空",
     "p": "hángkōng",
     "m": "hàng không",
-    "cat": "science"
+    "cat": "science",
+    "example": "他在航空公司工作。",
+    "example_vi": "Anh ấy làm việc ở hãng hàng không."
   },
   {
     "w": "宇宙",
     "p": "yǔzhòu",
     "m": "vũ trụ",
-    "cat": "science"
+    "cat": "science",
+    "example": "宇宙非常广阔。",
+    "example_vi": "Vũ trụ vô cùng rộng lớn."
   },
   {
     "w": "黑洞",
@@ -3477,25 +4105,33 @@
     "w": "地震",
     "p": "dìzhèn",
     "m": "động đất",
-    "cat": "science"
+    "cat": "science",
+    "example": "昨天晚上发生了地震。",
+    "example_vi": "Tối qua đã xảy ra động đất."
   },
   {
     "w": "陆续",
     "p": "lùxù",
     "m": "lần lượt, dần dần",
-    "cat": "language"
+    "cat": "language",
+    "example": "学生们陆续到了教室。",
+    "example_vi": "Học sinh lần lượt đến lớp học."
   },
   {
     "w": "相继",
     "p": "xiāngjì",
     "m": "tiếp nối nhau",
-    "cat": "language"
+    "cat": "language",
+    "example": "很多国家相继采取了措施。",
+    "example_vi": "Nhiều quốc gia đã tiếp nối nhau áp dụng biện pháp."
   },
   {
     "w": "紧接着",
     "p": "jǐn jiēzhe",
     "m": "tiếp ngay sau đó",
-    "cat": "language"
+    "cat": "language",
+    "example": "他说完，紧接着就离开了。",
+    "example_vi": "Anh ấy nói xong, tiếp ngay sau đó liền rời đi."
   },
   {
     "w": "首先",
@@ -3507,49 +4143,65 @@
     "w": "进而",
     "p": "jìn'ér",
     "m": "tiếp đó, hơn nữa, tiếp theo, từ đó tiến lên, tiến thêm, rồi",
-    "cat": "language"
+    "cat": "language",
+    "example": "他先了解情况，进而制定计划。",
+    "example_vi": "Anh ấy trước tiên tìm hiểu tình hình, tiếp đó lập kế hoạch."
   },
   {
     "w": "反过来",
     "p": "fǎn guòlái",
     "m": "ngược lại, đảo lại",
-    "cat": "language"
+    "cat": "language",
+    "example": "反过来想，这也是一个机会。",
+    "example_vi": "Nghĩ ngược lại, đây cũng là một cơ hội."
   },
   {
     "w": "有所",
     "p": "yǒusuǒ",
     "m": "có phần, có đôi chút",
-    "cat": "language"
+    "cat": "language",
+    "example": "他的成绩有所提高。",
+    "example_vi": "Thành tích của anh ấy có phần được cải thiện."
   },
   {
     "w": "有待",
     "p": "yǒudài",
     "m": "còn chờ, còn cần",
-    "cat": "language"
+    "cat": "language",
+    "example": "这个问题有待解决。",
+    "example_vi": "Vấn đề này còn chờ giải quyết."
   },
   {
     "w": "有助于",
     "p": "yǒu zhùyú",
     "m": "có ích cho, giúp ích cho",
-    "cat": "language"
+    "cat": "language",
+    "example": "运动有助于健康。",
+    "example_vi": "Vận động có ích cho sức khỏe."
   },
   {
     "w": "不利于",
     "p": "bùlìyú",
     "m": "không có lợi cho",
-    "cat": "language"
+    "cat": "language",
+    "example": "熬夜不利于健康。",
+    "example_vi": "Thức khuya không có lợi cho sức khỏe."
   },
   {
     "w": "有利于",
     "p": "yǒulìyú",
     "m": "có lợi cho",
-    "cat": "language"
+    "cat": "language",
+    "example": "这个政策有利于经济发展。",
+    "example_vi": "Chính sách này có lợi cho phát triển kinh tế."
   },
   {
     "w": "取决于",
     "p": "qǔjuéyú",
     "m": "phụ thuộc vào",
-    "cat": "language"
+    "cat": "language",
+    "example": "成功与否取决于你的努力。",
+    "example_vi": "Thành công hay không phụ thuộc vào nỗ lực của bạn."
   },
   {
     "w": "基于",
@@ -3561,42 +4213,56 @@
     "w": "出于",
     "p": "chūyú",
     "m": "xuất phát từ, do",
-    "cat": "language"
+    "cat": "language",
+    "example": "他出于好意才这样说。",
+    "example_vi": "Anh ấy nói như vậy xuất phát từ thiện ý."
   },
   {
     "w": "有别于",
     "p": "yǒu biéyú",
     "m": "khác với, phân biệt với",
-    "cat": "language"
+    "cat": "language",
+    "example": "这种方法有别于传统方法。",
+    "example_vi": "Phương pháp này khác với phương pháp truyền thống."
   },
   {
     "w": "有利",
     "p": "yǒulì",
     "m": "có lợi, thuận lợi",
-    "cat": "language"
+    "cat": "language",
+    "example": "这对我们很有利。",
+    "example_vi": "Điều này rất có lợi cho chúng ta."
   },
   {
     "w": "无益",
     "p": "wúyì",
     "m": "vô ích, không có lợi",
-    "cat": "language"
+    "cat": "language",
+    "example": "抱怨无益于解决问题。",
+    "example_vi": "Than phiền vô ích cho việc giải quyết vấn đề."
   },
   {
     "w": "显著",
     "p": "xiǎnzhù",
     "m": "rõ rệt, đáng kể, đáng chú ý, rõ ràng, nổi bật",
-    "cat": "language"
+    "cat": "language",
+    "example": "这项政策取得了显著效果。",
+    "example_vi": "Chính sách này đã đạt được hiệu quả rõ rệt."
   },
   {
     "w": "明显",
     "p": "míngxiǎn",
     "m": "rõ ràng, hiển nhiên",
-    "cat": "language"
+    "cat": "language",
+    "example": "他的进步很明显。",
+    "example_vi": "Sự tiến bộ của anh ấy rất rõ ràng."
   },
   {
     "w": "突出",
     "p": "tūchū",
     "m": "nổi bật, xuất sắc",
-    "cat": "language"
+    "cat": "language",
+    "example": "他的表现很突出。",
+    "example_vi": "Thể hiện của anh ấy rất nổi bật."
   }
 ]

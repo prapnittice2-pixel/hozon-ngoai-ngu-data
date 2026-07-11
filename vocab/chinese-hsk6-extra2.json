@@ -3,25 +3,33 @@
     "w": "全局",
     "p": "quánjú",
     "m": "toàn cục, đại cục, tổng thể",
-    "cat": "politics"
+    "cat": "politics",
+    "example": "我们要从全局考虑问题。",
+    "example_vi": "Chúng ta phải xem xét vấn đề từ toàn cục."
   },
   {
     "w": "践行",
     "p": "jiànxíng",
     "m": "thực hành, thực hiện trong thực tế",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我们要践行绿色生活理念。",
+    "example_vi": "Chúng ta phải thực hành lý niệm sống xanh."
   },
   {
     "w": "构筑",
     "p": "gòuzhù",
     "m": "xây dựng, kiến tạo (nền tảng)",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "公司构筑了完整的产业链。",
+    "example_vi": "Công ty đã xây dựng chuỗi ngành hoàn chỉnh."
   },
   {
     "w": "夯实",
     "p": "hāngshí",
     "m": "củng cố vững chắc, đặt nền móng",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我们要夯实基础知识。",
+    "example_vi": "Chúng ta phải củng cố vững chắc kiến thức cơ bản."
   },
   {
     "w": "彰显",
@@ -39,13 +47,17 @@
     "w": "引领",
     "p": "yǐnlǐng",
     "m": "dẫn dắt, định hướng, lãnh đạo",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "这家公司引领行业潮流。",
+    "example_vi": "Công ty này dẫn dắt trào lưu của ngành."
   },
   {
     "w": "合力",
     "p": "hélì",
     "m": "hợp sức, cùng sức, hội tụ sức mạnh",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "大家合力完成了任务。",
+    "example_vi": "Mọi người đã hợp sức hoàn thành nhiệm vụ."
   },
   {
     "w": "攻坚",
@@ -57,7 +69,9 @@
     "w": "跨越",
     "p": "kuàyuè",
     "m": "vượt qua, bứt phá, vượt ngưỡng",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "公司实现了跨越式发展。",
+    "example_vi": "Công ty đã thực hiện sự phát triển vượt bậc."
   },
   {
     "w": "腾飞",
@@ -69,31 +83,41 @@
     "w": "振兴",
     "p": "zhènxīng",
     "m": "phục hưng, chấn hưng, vực dậy",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "政府推动乡村振兴。",
+    "example_vi": "Chính phủ thúc đẩy chấn hưng nông thôn."
   },
   {
     "w": "坚定",
     "p": "jiāndìng",
     "m": "kiên định, vững chắc, quyết tâm",
-    "cat": "adjective"
+    "cat": "adjective",
+    "example": "他坚定地支持这个决定。",
+    "example_vi": "Anh ấy kiên định ủng hộ quyết định này."
   },
   {
     "w": "瞻前顾后",
     "p": "zhān qián gù hòu",
     "m": "lưỡng lự, do dự kỹ càng trước sau",
-    "cat": "idiom"
+    "cat": "idiom",
+    "example": "做事不要瞻前顾后。",
+    "example_vi": "Làm việc đừng nên do dự lưỡng lự."
   },
   {
     "w": "齐心协力",
     "p": "qí xīn xié lì",
     "m": "đồng tâm hiệp lực, cùng nhau nỗ lực",
-    "cat": "idiom"
+    "cat": "idiom",
+    "example": "大家齐心协力完成了项目。",
+    "example_vi": "Mọi người đã đồng tâm hiệp lực hoàn thành dự án."
   },
   {
     "w": "稳步推进",
     "p": "wěn bù tuī jìn",
     "m": "thúc đẩy từng bước ổn định, tiến triển vững chắc",
-    "cat": "politics"
+    "cat": "politics",
+    "example": "项目正在稳步推进。",
+    "example_vi": "Dự án đang được thúc đẩy từng bước ổn định."
   },
   {
     "w": "高质量发展",
@@ -105,7 +129,9 @@
     "w": "创新驱动",
     "p": "chuàngxīn qūdòng",
     "m": "thúc đẩy đổi mới sáng tạo",
-    "cat": "politics"
+    "cat": "politics",
+    "example": "公司实施创新驱动战略。",
+    "example_vi": "Công ty thực hiện chiến lược thúc đẩy bằng đổi mới sáng tạo."
   },
   {
     "w": "科技引领",

@@ -15,7 +15,9 @@
     "w": "硬件",
     "p": "yìng jiàn",
     "m": "phần cứng",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "这台电脑的硬件配置很高。",
+    "example_vi": "Cấu hình phần cứng của máy tính này rất cao."
   },
   {
     "w": "网络",
@@ -75,7 +77,9 @@
     "w": "智能手机",
     "p": "zhì néng shǒu jī",
     "m": "điện thoại thông minh",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "他换了一部新的智能手机。",
+    "example_vi": "Anh ấy đã đổi một chiếc điện thoại thông minh mới."
   },
   {
     "w": "互联网",
@@ -87,19 +91,25 @@
     "w": "编程",
     "p": "biān chéng",
     "m": "lập trình",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "他正在学习编程。",
+    "example_vi": "Anh ấy đang học lập trình."
   },
   {
     "w": "加密",
     "p": "jiā mì",
     "m": "mã hóa",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "这份文件已经加密。",
+    "example_vi": "Tài liệu này đã được mã hóa."
   },
   {
     "w": "服务器",
     "p": "fú wù qì",
     "m": "máy chủ",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "服务器出故障了。",
+    "example_vi": "Máy chủ đã bị trục trặc."
   },
   {
     "w": "数据库",
@@ -111,13 +121,17 @@
     "w": "界面",
     "p": "jiè miàn",
     "m": "giao diện",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "这个软件的界面很友好。",
+    "example_vi": "Giao diện của phần mềm này rất thân thiện."
   },
   {
     "w": "应用程序",
     "p": "yìng yòng chéng xù",
     "m": "ứng dụng",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "手机上安装了很多应用程序。",
+    "example_vi": "Điện thoại đã cài đặt rất nhiều ứng dụng."
   },
   {
     "w": "带宽",
@@ -141,7 +155,9 @@
     "w": "更新",
     "p": "gēng xīn",
     "m": "cập nhật",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "系统需要更新。",
+    "example_vi": "Hệ thống cần được cập nhật."
   },
   {
     "w": "下载",
@@ -159,19 +175,25 @@
     "w": "搜索引擎",
     "p": "sōu suǒ yǐn qíng",
     "m": "công cụ tìm kiếm",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "他用搜索引擎查资料。",
+    "example_vi": "Anh ấy dùng công cụ tìm kiếm để tra tài liệu."
   },
   {
     "w": "自动化",
     "p": "zì dòng huà",
     "m": "tự động hóa",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "工厂实现了生产自动化。",
+    "example_vi": "Nhà máy đã thực hiện tự động hóa sản xuất."
   },
   {
     "w": "机器人",
     "p": "jī qì rén",
     "m": "robot",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "这个机器人可以做家务。",
+    "example_vi": "Robot này có thể làm việc nhà."
   },
   {
     "w": "芯片",
@@ -237,13 +259,17 @@
     "w": "资产",
     "p": "zī chǎn",
     "m": "tài sản",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "他的资产超过一百万。",
+    "example_vi": "Tài sản của anh ấy vượt quá một triệu."
   },
   {
     "w": "负债",
     "p": "fù zhài",
     "m": "nợ, khoản nợ",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "公司的负债很高。",
+    "example_vi": "Nợ phải trả của công ty rất cao."
   },
   {
     "w": "预算",
@@ -261,7 +287,9 @@
     "w": "营业额",
     "p": "yíng yè é",
     "m": "doanh thu",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这家店的营业额提高了。",
+    "example_vi": "Doanh thu của cửa hàng này đã tăng lên."
   },
   {
     "w": "收购",
@@ -273,7 +301,9 @@
     "w": "兼并",
     "p": "jiān bìng",
     "m": "sáp nhập",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这两家公司实现了兼并。",
+    "example_vi": "Hai công ty này đã thực hiện sáp nhập."
   },
   {
     "w": "融资",
@@ -321,7 +351,9 @@
     "w": "签约",
     "p": "qiān yuē",
     "m": "ký hợp đồng",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "双方正式签约。",
+    "example_vi": "Hai bên chính thức ký hợp đồng."
   },
   {
     "w": "谈判",
@@ -375,19 +407,25 @@
     "w": "缴税",
     "p": "jiǎo shuì",
     "m": "nộp thuế",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "公民有依法缴税的义务。",
+    "example_vi": "Công dân có nghĩa vụ nộp thuế theo pháp luật."
   },
   {
     "w": "关税",
     "p": "guān shuì",
     "m": "thuế quan",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "政府提高了进口关税。",
+    "example_vi": "Chính phủ đã tăng thuế quan nhập khẩu."
   },
   {
     "w": "补贴",
     "p": "bǔ tiē",
     "m": "trợ cấp",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "政府给农民提供补贴。",
+    "example_vi": "Chính phủ cung cấp trợ cấp cho nông dân."
   },
   {
     "w": "贷款",
@@ -399,7 +437,9 @@
     "w": "存款",
     "p": "cún kuǎn",
     "m": "tiền gửi, tiết kiệm",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "他每月都有一笔存款。",
+    "example_vi": "Mỗi tháng anh ấy đều có một khoản tiền gửi."
   },
   {
     "w": "理财",
@@ -423,7 +463,9 @@
     "w": "期货",
     "p": "qī huò",
     "m": "hợp đồng tương lai",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "他在做期货交易。",
+    "example_vi": "Anh ấy đang giao dịch hợp đồng tương lai."
   },
   {
     "w": "外汇",
@@ -441,7 +483,9 @@
     "w": "账户",
     "p": "zhàng hù",
     "m": "tài khoản",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "请把钱转到这个账户。",
+    "example_vi": "Xin hãy chuyển tiền vào tài khoản này."
   },
   {
     "w": "转账",
@@ -453,7 +497,9 @@
     "w": "结算",
     "p": "jié suàn",
     "m": "thanh toán, quyết toán",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "公司每月进行结算。",
+    "example_vi": "Công ty tiến hành thanh toán hàng tháng."
   },
   {
     "w": "亏损",
@@ -465,13 +511,17 @@
     "w": "盈余",
     "p": "yíng yú",
     "m": "thặng dư, thừa",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "公司今年有盈余。",
+    "example_vi": "Công ty năm nay có thặng dư."
   },
   {
     "w": "分红",
     "p": "fēn hóng",
     "m": "chia cổ tức",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "公司今年要分红。",
+    "example_vi": "Công ty năm nay sẽ chia cổ tức."
   },
   {
     "w": "健康",
@@ -483,13 +533,17 @@
     "w": "病毒",
     "p": "bìng dú",
     "m": "virus, vi-rút",
-    "cat": "sức khỏe"
+    "cat": "sức khỏe",
+    "example": "这种病毒传播很快。",
+    "example_vi": "Loại virus này lây lan rất nhanh."
   },
   {
     "w": "细菌",
     "p": "xì jūn",
     "m": "vi khuẩn",
-    "cat": "sức khỏe"
+    "cat": "sức khỏe",
+    "example": "要注意防止细菌感染。",
+    "example_vi": "Cần chú ý phòng ngừa nhiễm vi khuẩn."
   },
   {
     "w": "免疫",
@@ -513,7 +567,9 @@
     "w": "症状",
     "p": "zhèng zhuàng",
     "m": "triệu chứng",
-    "cat": "sức khỏe"
+    "cat": "sức khỏe",
+    "example": "他出现了发烧的症状。",
+    "example_vi": "Anh ấy xuất hiện triệu chứng sốt."
   },
   {
     "w": "诊断",
@@ -543,13 +599,17 @@
     "w": "副作用",
     "p": "fù zuò yòng",
     "m": "tác dụng phụ",
-    "cat": "sức khỏe"
+    "cat": "sức khỏe",
+    "example": "这种药有一些副作用。",
+    "example_vi": "Loại thuốc này có một số tác dụng phụ."
   },
   {
     "w": "康复",
     "p": "kāng fù",
     "m": "phục hồi sức khỏe",
-    "cat": "sức khỏe"
+    "cat": "sức khỏe",
+    "example": "祝你早日康复。",
+    "example_vi": "Chúc bạn sớm phục hồi sức khỏe."
   },
   {
     "w": "预防",
@@ -567,25 +627,33 @@
     "w": "代谢",
     "p": "dài xiè",
     "m": "trao đổi chất",
-    "cat": "sức khỏe"
+    "cat": "sức khỏe",
+    "example": "运动可以促进新陈代谢。",
+    "example_vi": "Vận động có thể thúc đẩy trao đổi chất."
   },
   {
     "w": "血压",
     "p": "xuè yā",
     "m": "huyết áp",
-    "cat": "sức khỏe"
+    "cat": "sức khỏe",
+    "example": "他最近血压偏高。",
+    "example_vi": "Gần đây huyết áp của anh ấy hơi cao."
   },
   {
     "w": "心率",
     "p": "xīn lǜ",
     "m": "nhịp tim",
-    "cat": "sức khỏe"
+    "cat": "sức khỏe",
+    "example": "运动后心率会加快。",
+    "example_vi": "Sau khi vận động nhịp tim sẽ nhanh hơn."
   },
   {
     "w": "器官",
     "p": "qì guān",
     "m": "cơ quan (nội tạng)",
-    "cat": "cơ thể"
+    "cat": "cơ thể",
+    "example": "心脏是重要的器官。",
+    "example_vi": "Tim là một cơ quan quan trọng."
   },
   {
     "w": "细胞",
@@ -609,19 +677,25 @@
     "w": "慢性病",
     "p": "màn xìng bìng",
     "m": "bệnh mãn tính",
-    "cat": "sức khỏe"
+    "cat": "sức khỏe",
+    "example": "他患有慢性病。",
+    "example_vi": "Anh ấy mắc bệnh mãn tính."
   },
   {
     "w": "传染病",
     "p": "chuán rǎn bìng",
     "m": "bệnh truyền nhiễm",
-    "cat": "sức khỏe"
+    "cat": "sức khỏe",
+    "example": "这是一种传染病。",
+    "example_vi": "Đây là một loại bệnh truyền nhiễm."
   },
   {
     "w": "精神健康",
     "p": "jīng shén jiàn kāng",
     "m": "sức khỏe tâm thần",
-    "cat": "sức khỏe"
+    "cat": "sức khỏe",
+    "example": "我们要重视精神健康。",
+    "example_vi": "Chúng ta phải coi trọng sức khỏe tâm thần."
   },
   {
     "w": "饮食",
@@ -639,13 +713,17 @@
     "w": "竞技",
     "p": "jìng jì",
     "m": "thi đấu thể thao",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "这是一项竞技运动。",
+    "example_vi": "Đây là một môn thể thao thi đấu."
   },
   {
     "w": "奥运会",
     "p": "ào yùn huì",
     "m": "Thế vận hội Olympic",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "她参加了奥运会比赛。",
+    "example_vi": "Cô ấy đã tham gia thi đấu Thế vận hội Olympic."
   },
   {
     "w": "冠军",
@@ -657,25 +735,33 @@
     "w": "亚军",
     "p": "yà jūn",
     "m": "á quân",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "他获得了本次比赛的亚军。",
+    "example_vi": "Anh ấy đã giành ngôi á quân trong cuộc thi lần này."
   },
   {
     "w": "运动员",
     "p": "yùn dòng yuán",
     "m": "vận động viên",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "她是一名优秀的运动员。",
+    "example_vi": "Cô ấy là một vận động viên xuất sắc."
   },
   {
     "w": "教练",
     "p": "jiào liàn",
     "m": "huấn luyện viên",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "他是国家队的教练。",
+    "example_vi": "Anh ấy là huấn luyện viên của đội tuyển quốc gia."
   },
   {
     "w": "裁判",
     "p": "cái pàn",
     "m": "trọng tài",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "裁判宣布了比赛结果。",
+    "example_vi": "Trọng tài đã công bố kết quả trận đấu."
   },
   {
     "w": "记录",
@@ -687,7 +773,9 @@
     "w": "田径",
     "p": "tián jìng",
     "m": "điền kinh",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "他擅长田径运动。",
+    "example_vi": "Anh ấy giỏi môn điền kinh."
   },
   {
     "w": "游泳",
@@ -699,37 +787,49 @@
     "w": "射击",
     "p": "shè jī",
     "m": "bắn súng",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "她是一名射击运动员。",
+    "example_vi": "Cô ấy là một vận động viên bắn súng."
   },
   {
     "w": "体操",
     "p": "tǐ cāo",
     "m": "thể dục dụng cụ",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "她从小练习体操。",
+    "example_vi": "Cô ấy tập thể dục dụng cụ từ nhỏ."
   },
   {
     "w": "摔跤",
     "p": "shuāi jiāo",
     "m": "đấu vật",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "他学习摔跤已经三年了。",
+    "example_vi": "Anh ấy học đấu vật đã ba năm rồi."
   },
   {
     "w": "举重",
     "p": "jǔ zhòng",
     "m": "cử tạ",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "他是一名举重运动员。",
+    "example_vi": "Anh ấy là một vận động viên cử tạ."
   },
   {
     "w": "马拉松",
     "p": "mǎ lā sōng",
     "m": "marathon",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "他跑完了全程马拉松。",
+    "example_vi": "Anh ấy đã chạy hết toàn bộ marathon."
   },
   {
     "w": "跆拳道",
     "p": "tái quán dào",
     "m": "taekwondo",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "她在学跆拳道。",
+    "example_vi": "Cô ấy đang học taekwondo."
   },
   {
     "w": "武术",
@@ -741,7 +841,9 @@
     "w": "排球",
     "p": "pái qiú",
     "m": "bóng chuyền",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "他们在打排球。",
+    "example_vi": "Họ đang chơi bóng chuyền."
   },
   {
     "w": "羽毛球",
@@ -765,25 +867,33 @@
     "w": "高尔夫",
     "p": "gāo ěr fū",
     "m": "golf",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "他周末喜欢打高尔夫。",
+    "example_vi": "Cuối tuần anh ấy thích chơi golf."
   },
   {
     "w": "滑雪",
     "p": "huá xuě",
     "m": "trượt tuyết",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "冬天他们常去滑雪。",
+    "example_vi": "Mùa đông họ thường đi trượt tuyết."
   },
   {
     "w": "骑马",
     "p": "qí mǎ",
     "m": "cưỡi ngựa",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "她第一次骑马。",
+    "example_vi": "Đây là lần đầu tiên cô ấy cưỡi ngựa."
   },
   {
     "w": "赛车",
     "p": "sài chē",
     "m": "đua xe",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "他喜欢看赛车比赛。",
+    "example_vi": "Anh ấy thích xem đua xe."
   },
   {
     "w": "职业",
@@ -795,13 +905,17 @@
     "w": "半决赛",
     "p": "bàn jué sài",
     "m": "bán kết",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "我们队进入了半决赛。",
+    "example_vi": "Đội chúng tôi đã vào bán kết."
   },
   {
     "w": "决赛",
     "p": "jué sài",
     "m": "chung kết",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "他们成功进入决赛。",
+    "example_vi": "Họ đã thành công vào chung kết."
   },
   {
     "w": "晋级",
@@ -825,7 +939,9 @@
     "w": "教材",
     "p": "jiào cái",
     "m": "tài liệu giảng dạy, giáo trình",
-    "cat": "học tập"
+    "cat": "học tập",
+    "example": "这本书是我们的教材。",
+    "example_vi": "Cuốn sách này là giáo trình của chúng tôi."
   },
   {
     "w": "毕业",
@@ -867,7 +983,9 @@
     "w": "招生",
     "p": "zhāo shēng",
     "m": "tuyển sinh",
-    "cat": "học tập"
+    "cat": "học tập",
+    "example": "学校正在招生。",
+    "example_vi": "Nhà trường đang tuyển sinh."
   },
   {
     "w": "考试",
@@ -879,7 +997,9 @@
     "w": "评分",
     "p": "píng fēn",
     "m": "chấm điểm",
-    "cat": "học tập"
+    "cat": "học tập",
+    "example": "老师给作文评分。",
+    "example_vi": "Thầy giáo chấm điểm bài văn."
   },
   {
     "w": "学分",
@@ -891,7 +1011,9 @@
     "w": "实习",
     "p": "shí xí",
     "m": "thực tập",
-    "cat": "học tập"
+    "cat": "học tập",
+    "example": "他在一家公司实习。",
+    "example_vi": "Anh ấy đang thực tập ở một công ty."
   },
   {
     "w": "培训",
@@ -987,7 +1109,9 @@
     "w": "原则",
     "p": "yuán zé",
     "m": "nguyên tắc",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "他做事有自己的原则。",
+    "example_vi": "Anh ấy làm việc có nguyên tắc riêng của mình."
   },
   {
     "w": "理论",
@@ -1077,13 +1201,17 @@
     "w": "概率",
     "p": "gài lǜ",
     "m": "xác suất",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "下雨的概率很高。",
+    "example_vi": "Xác suất mưa rất cao."
   },
   {
     "w": "矩阵",
     "p": "jǔ zhèn",
     "m": "ma trận",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这是一道矩阵计算题。",
+    "example_vi": "Đây là một bài toán tính ma trận."
   },
   {
     "w": "函数",
@@ -1095,7 +1223,9 @@
     "w": "微积分",
     "p": "wēi jī fēn",
     "m": "vi tích phân",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "他在学习微积分。",
+    "example_vi": "Anh ấy đang học vi tích phân."
   },
   {
     "w": "促进",
@@ -1125,19 +1255,25 @@
     "w": "协调",
     "p": "xié tiáo",
     "m": "phối hợp, điều hòa, điều phối, hài hòa",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "各部门需要相互协调。",
+    "example_vi": "Các phòng ban cần phối hợp lẫn nhau."
   },
   {
     "w": "整合",
     "p": "zhěng hé",
     "m": "tích hợp, hợp nhất",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "公司整合了各部门的资源。",
+    "example_vi": "Công ty đã tích hợp nguồn lực từ các phòng ban."
   },
   {
     "w": "优化",
     "p": "yōu huà",
     "m": "tối ưu hóa",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "我们要优化工作流程。",
+    "example_vi": "Chúng ta phải tối ưu hóa quy trình làm việc."
   },
   {
     "w": "评估",
@@ -1149,25 +1285,33 @@
     "w": "监测",
     "p": "jiān cè",
     "m": "giám sát, theo dõi",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "我们需要监测空气质量。",
+    "example_vi": "Chúng ta cần giám sát chất lượng không khí."
   },
   {
     "w": "调控",
     "p": "diào kòng",
     "m": "điều tiết, kiểm soát",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "政府对房价进行调控。",
+    "example_vi": "Chính phủ tiến hành điều tiết giá nhà."
   },
   {
     "w": "制定",
     "p": "zhì dìng",
     "m": "đề ra, xây dựng (kế hoạch)",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "公司制定了新规定。",
+    "example_vi": "Công ty đã đề ra quy định mới."
   },
   {
     "w": "确立",
     "p": "què lì",
     "m": "xác lập, thiết lập",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "公司确立了发展目标。",
+    "example_vi": "Công ty đã xác lập mục tiêu phát triển."
   },
   {
     "w": "建立",
@@ -1179,13 +1323,17 @@
     "w": "取消",
     "p": "qǔ xiāo",
     "m": "hủy bỏ",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "这次会议已经取消了。",
+    "example_vi": "Cuộc họp lần này đã bị hủy bỏ."
   },
   {
     "w": "撤销",
     "p": "chè xiāo",
     "m": "thu hồi, bãi bỏ",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "这个决定已经被撤销了。",
+    "example_vi": "Quyết định này đã bị thu hồi."
   },
   {
     "w": "阐述",
@@ -1197,7 +1345,9 @@
     "w": "揭示",
     "p": "jiē shì",
     "m": "tiết lộ, làm rõ",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "这份报告揭示了一个严重的问题。",
+    "example_vi": "Báo cáo này phơi bày một vấn đề nghiêm trọng."
   },
   {
     "w": "探索",
@@ -1215,7 +1365,9 @@
     "w": "研发",
     "p": "yán fā",
     "m": "nghiên cứu và phát triển (R&D)",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "公司投入大量资金研发新产品。",
+    "example_vi": "Công ty đầu tư nhiều vốn để nghiên cứu phát triển sản phẩm mới."
   },
   {
     "w": "应对",
@@ -1251,25 +1403,33 @@
     "w": "缩减",
     "p": "suō jiǎn",
     "m": "thu hẹp, cắt giảm",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "公司决定缩减开支。",
+    "example_vi": "Công ty quyết định cắt giảm chi tiêu."
   },
   {
     "w": "激活",
     "p": "jī huó",
     "m": "kích hoạt",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "请激活你的账户。",
+    "example_vi": "Xin hãy kích hoạt tài khoản của bạn."
   },
   {
     "w": "抑制",
     "p": "yì zhì",
     "m": "ức chế, kìm hãm",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "这种药可以抑制病情发展。",
+    "example_vi": "Loại thuốc này có thể ức chế sự phát triển của bệnh."
   },
   {
     "w": "刺激",
     "p": "cì jī",
     "m": "kích thích",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "这个消息刺激了股市。",
+    "example_vi": "Tin tức này đã kích thích thị trường chứng khoán."
   },
   {
     "w": "吸引",
@@ -1299,13 +1459,17 @@
     "w": "简洁",
     "p": "jiǎn jié",
     "m": "ngắn gọn, súc tích",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "他的表达很简洁。",
+    "example_vi": "Cách diễn đạt của anh ấy rất ngắn gọn."
   },
   {
     "w": "严谨",
     "p": "yán jǐn",
     "m": "nghiêm túc, chặt chẽ",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "他做事很严谨。",
+    "example_vi": "Anh ấy làm việc rất nghiêm túc chặt chẽ."
   },
   {
     "w": "灵活",
@@ -1323,7 +1487,9 @@
     "w": "动态",
     "p": "dòng tài",
     "m": "động thái, tình hình, năng động, biến động",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "请及时了解最新动态。",
+    "example_vi": "Xin hãy kịp thời nắm bắt động thái mới nhất."
   },
   {
     "w": "可持续",
@@ -1335,7 +1501,9 @@
     "w": "创造性",
     "p": "chuàng zào xìng",
     "m": "sáng tạo, có tính sáng tạo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这个设计很有创造性。",
+    "example_vi": "Thiết kế này rất có tính sáng tạo."
   },
   {
     "w": "批判性",
@@ -1347,13 +1515,17 @@
     "w": "全面",
     "p": "quán miàn",
     "m": "toàn diện",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "我们要全面了解情况。",
+    "example_vi": "Chúng ta phải hiểu tình hình một cách toàn diện."
   },
   {
     "w": "系统性",
     "p": "xì tǒng xìng",
     "m": "có tính hệ thống",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这个问题需要系统性的解决方案。",
+    "example_vi": "Vấn đề này cần giải pháp mang tính hệ thống."
   },
   {
     "w": "专业",
@@ -1371,25 +1543,33 @@
     "w": "主观",
     "p": "zhǔ guān",
     "m": "chủ quan",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这只是他的主观看法。",
+    "example_vi": "Đây chỉ là cách nhìn chủ quan của anh ấy."
   },
   {
     "w": "抽象",
     "p": "chōu xiàng",
     "m": "trừu tượng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这个概念比较抽象。",
+    "example_vi": "Khái niệm này tương đối trừu tượng."
   },
   {
     "w": "具体",
     "p": "jù tǐ",
     "m": "cụ thể",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "请给出一个具体的例子。",
+    "example_vi": "Xin hãy đưa ra một ví dụ cụ thể."
   },
   {
     "w": "潜在",
     "p": "qián zài",
     "m": "tiềm ẩn, tiềm tàng",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这存在潜在的风险。",
+    "example_vi": "Điều này tồn tại rủi ro tiềm ẩn."
   },
   {
     "w": "显著",
@@ -1401,43 +1581,57 @@
     "w": "微妙",
     "p": "wēi miào",
     "m": "tinh tế, khéo léo",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "两人关系有些微妙。",
+    "example_vi": "Quan hệ giữa hai người hơi tinh tế."
   },
   {
     "w": "深刻",
     "p": "shēn kè",
     "m": "sâu sắc",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这部电影给我留下了深刻的印象。",
+    "example_vi": "Bộ phim này đã để lại cho tôi ấn tượng sâu sắc."
   },
   {
     "w": "广泛",
     "p": "guǎng fàn",
     "m": "rộng rãi, phổ biến",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这项技术应用广泛。",
+    "example_vi": "Công nghệ này được ứng dụng rộng rãi."
   },
   {
     "w": "局限",
     "p": "jú xiàn",
     "m": "hạn chế",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这个方法有一定的局限性。",
+    "example_vi": "Phương pháp này có tính hạn chế nhất định."
   },
   {
     "w": "合理",
     "p": "hé lǐ",
     "m": "hợp lý",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这个价格很合理。",
+    "example_vi": "Mức giá này rất hợp lý."
   },
   {
     "w": "有效",
     "p": "yǒu xiào",
     "m": "có hiệu quả",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这种方法很有效。",
+    "example_vi": "Phương pháp này rất có hiệu quả."
   },
   {
     "w": "无效",
     "p": "wú xiào",
     "m": "vô hiệu, không hiệu quả",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这份合同已经无效。",
+    "example_vi": "Hợp đồng này đã vô hiệu."
   },
   {
     "w": "积极",
@@ -1455,7 +1649,9 @@
     "w": "主动",
     "p": "zhǔ dòng",
     "m": "chủ động",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "他主动帮助别人。",
+    "example_vi": "Anh ấy chủ động giúp đỡ người khác."
   },
   {
     "w": "关键",
@@ -1479,37 +1675,49 @@
     "w": "先进",
     "p": "xiān jìn",
     "m": "tiên tiến",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这是一项先进技术。",
+    "example_vi": "Đây là một công nghệ tiên tiến."
   },
   {
     "w": "落后",
     "p": "luò hòu",
     "m": "lạc hậu",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这个地区经济比较落后。",
+    "example_vi": "Kinh tế khu vực này khá lạc hậu."
   },
   {
     "w": "战略性",
     "p": "zhàn lüè xìng",
     "m": "có tính chiến lược",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这是一个战略性决策。",
+    "example_vi": "Đây là một quyết sách có tính chiến lược."
   },
   {
     "w": "创新性",
     "p": "chuàng xīn xìng",
     "m": "có tính đổi mới",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这项研究具有很强的创新性。",
+    "example_vi": "Nghiên cứu này có tính đổi mới rất mạnh."
   },
   {
     "w": "可行",
     "p": "kě xíng",
     "m": "khả thi",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这个方案是可行的。",
+    "example_vi": "Phương án này là khả thi."
   },
   {
     "w": "不可逆",
     "p": "bù kě nì",
     "m": "không thể đảo ngược",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这种损伤是不可逆的。",
+    "example_vi": "Loại tổn thương này là không thể đảo ngược."
   },
   {
     "w": "相互",
@@ -1527,7 +1735,9 @@
     "w": "迅速",
     "p": "xùn sù",
     "m": "nhanh chóng",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "example": "公司发展迅速。",
+    "example_vi": "Công ty phát triển nhanh chóng."
   },
   {
     "w": "持续",
@@ -1545,25 +1755,33 @@
     "w": "基本上",
     "p": "jī běn shàng",
     "m": "về cơ bản",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "example": "这个项目基本上完成了。",
+    "example_vi": "Dự án này về cơ bản đã hoàn thành."
   },
   {
     "w": "总体上",
     "p": "zǒng tǐ shàng",
     "m": "nhìn chung, tổng thể",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "example": "总体上，效果不错。",
+    "example_vi": "Nhìn chung, hiệu quả khá tốt."
   },
   {
     "w": "相应",
     "p": "xiāng yìng",
     "m": "tương ứng",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "example": "公司采取了相应的措施。",
+    "example_vi": "Công ty đã áp dụng các biện pháp tương ứng."
   },
   {
     "w": "充分",
     "p": "chōng fèn",
     "m": "đầy đủ, hoàn toàn",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "example": "我们要做好充分的准备。",
+    "example_vi": "Chúng ta phải chuẩn bị đầy đủ."
   },
   {
     "w": "有意识",
@@ -1575,25 +1793,33 @@
     "w": "客观上",
     "p": "kè guān shàng",
     "m": "về mặt khách quan",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "example": "客观上，这项政策促进了发展。",
+    "example_vi": "Về mặt khách quan, chính sách này đã thúc đẩy phát triển."
   },
   {
     "w": "主观上",
     "p": "zhǔ guān shàng",
     "m": "về mặt chủ quan",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "example": "主观上，他并不想伤害别人。",
+    "example_vi": "Về mặt chủ quan, anh ấy không hề muốn làm tổn thương người khác."
   },
   {
     "w": "理论上",
     "p": "lǐ lùn shàng",
     "m": "về mặt lý thuyết",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "example": "理论上，这个方法应该有效。",
+    "example_vi": "Về mặt lý thuyết, phương pháp này nên có hiệu quả."
   },
   {
     "w": "实际上",
     "p": "shí jì shàng",
     "m": "trên thực tế",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "example": "实际上，他并不知道这件事。",
+    "example_vi": "Thực tế, anh ấy không hề biết chuyện này."
   },
   {
     "w": "从而",
@@ -1611,7 +1837,9 @@
     "w": "尤其",
     "p": "yóu qí",
     "m": "đặc biệt là",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "example": "我喜欢水果，尤其是苹果。",
+    "example_vi": "Tôi thích trái cây, đặc biệt là táo."
   },
   {
     "w": "分别",
@@ -1629,7 +1857,9 @@
     "w": "法规",
     "p": "fǎ guī",
     "m": "quy định pháp luật",
-    "cat": "chính trị"
+    "cat": "chính trị",
+    "example": "公司要遵守相关法规。",
+    "example_vi": "Công ty phải tuân thủ các quy định pháp luật liên quan."
   },
   {
     "w": "监管",
@@ -1725,13 +1955,17 @@
     "w": "城市化",
     "p": "chéng shì huà",
     "m": "đô thị hóa",
-    "cat": "xã hội"
+    "cat": "xã hội",
+    "example": "这个国家城市化进程很快。",
+    "example_vi": "Quá trình đô thị hóa của nước này diễn ra rất nhanh."
   },
   {
     "w": "贫富差距",
     "p": "pín fù chā jù",
     "m": "khoảng cách giàu nghèo",
-    "cat": "xã hội"
+    "cat": "xã hội",
+    "example": "贫富差距在不断扩大。",
+    "example_vi": "Khoảng cách giàu nghèo đang không ngừng nới rộng."
   },
   {
     "w": "福利",
@@ -1803,7 +2037,9 @@
     "w": "失业率",
     "p": "shī yè lǜ",
     "m": "tỷ lệ thất nghiệp",
-    "cat": "xã hội"
+    "cat": "xã hội",
+    "example": "这个国家的失业率在上升。",
+    "example_vi": "Tỷ lệ thất nghiệp của quốc gia này đang tăng lên."
   },
   {
     "w": "移民",
@@ -1815,7 +2051,9 @@
     "w": "难民",
     "p": "nán mín",
     "m": "người tị nạn",
-    "cat": "xã hội"
+    "cat": "xã hội",
+    "example": "这个组织在帮助难民。",
+    "example_vi": "Tổ chức này đang giúp đỡ người tị nạn."
   },
   {
     "w": "老龄化",
@@ -1875,7 +2113,9 @@
     "w": "多元化",
     "p": "duō yuán huà",
     "m": "đa dạng hóa",
-    "cat": "xã hội"
+    "cat": "xã hội",
+    "example": "公司业务实现了多元化。",
+    "example_vi": "Nghiệp vụ công ty đã thực hiện đa dạng hóa."
   },
   {
     "w": "包容",
@@ -1893,37 +2133,49 @@
     "w": "孵化器",
     "p": "fū huà qì",
     "m": "vườn ươm khởi nghiệp",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这家孵化器扶持了很多创业公司。",
+    "example_vi": "Vườn ươm khởi nghiệp này đã hỗ trợ rất nhiều công ty khởi nghiệp."
   },
   {
     "w": "风险投资",
     "p": "fēng xiǎn tóu zī",
     "m": "đầu tư mạo hiểm (VC)",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这家初创公司获得了风险投资。",
+    "example_vi": "Công ty khởi nghiệp này đã nhận được đầu tư mạo hiểm."
   },
   {
     "w": "独角兽",
     "p": "dú jiǎo shòu",
     "m": "kỳ lân (startup trị giá tỷ đô)",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这家公司已经成为独角兽企业。",
+    "example_vi": "Công ty này đã trở thành doanh nghiệp kỳ lân."
   },
   {
     "w": "估值",
     "p": "gū zhí",
     "m": "định giá",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这家公司的估值达到十亿美元。",
+    "example_vi": "Định giá của công ty này đạt một tỷ đô la."
   },
   {
     "w": "融资轮",
     "p": "róng zī lún",
     "m": "vòng gọi vốn",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "公司完成了新一轮融资轮。",
+    "example_vi": "Công ty đã hoàn thành vòng gọi vốn mới."
   },
   {
     "w": "商业模式",
     "p": "shāng yè mó shì",
     "m": "mô hình kinh doanh",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "他们创造了一种新的商业模式。",
+    "example_vi": "Họ đã tạo ra một mô hình kinh doanh mới."
   },
   {
     "w": "核心竞争力",
@@ -1935,13 +2187,17 @@
     "w": "差异化",
     "p": "chā yì huà",
     "m": "khác biệt hóa",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "公司采取了差异化战略。",
+    "example_vi": "Công ty đã áp dụng chiến lược khác biệt hóa."
   },
   {
     "w": "规模化",
     "p": "guī mó huà",
     "m": "mở rộng quy mô",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "公司正在推进规模化生产。",
+    "example_vi": "Công ty đang thúc đẩy sản xuất mở rộng quy mô."
   },
   {
     "w": "市场份额",
@@ -1983,7 +2239,9 @@
     "w": "电商",
     "p": "diàn shāng",
     "m": "thương mại điện tử",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "他从事电商行业。",
+    "example_vi": "Anh ấy làm việc trong ngành thương mại điện tử."
   },
   {
     "w": "物流",
@@ -1995,43 +2253,57 @@
     "w": "库存",
     "p": "kù cún",
     "m": "hàng tồn kho",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "仓库里的库存不多了。",
+    "example_vi": "Hàng tồn kho trong kho không còn nhiều."
   },
   {
     "w": "质量管理",
     "p": "zhì liàng guǎn lǐ",
     "m": "quản lý chất lượng",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "公司重视质量管理。",
+    "example_vi": "Công ty coi trọng quản lý chất lượng."
   },
   {
     "w": "项目管理",
     "p": "xiàng mù guǎn lǐ",
     "m": "quản lý dự án",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "他负责这个项目管理工作。",
+    "example_vi": "Anh ấy phụ trách công việc quản lý dự án này."
   },
   {
     "w": "知识产权",
     "p": "zhī shí chǎn quán",
     "m": "sở hữu trí tuệ",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "我们要保护知识产权。",
+    "example_vi": "Chúng ta phải bảo vệ quyền sở hữu trí tuệ."
   },
   {
     "w": "专利",
     "p": "zhuān lì",
     "m": "bằng sáng chế, patent",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "公司申请了这项专利。",
+    "example_vi": "Công ty đã đăng ký bằng sáng chế này."
   },
   {
     "w": "商标",
     "p": "shāng biāo",
     "m": "nhãn hiệu thương mại",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这个商标很有名。",
+    "example_vi": "Nhãn hiệu thương mại này rất nổi tiếng."
   },
   {
     "w": "版权",
     "p": "bǎn quán",
     "m": "bản quyền",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这部作品受版权保护。",
+    "example_vi": "Tác phẩm này được bảo hộ bản quyền."
   },
   {
     "w": "产业",
@@ -2043,13 +2315,17 @@
     "w": "制造业",
     "p": "zhì zào yè",
     "m": "ngành chế tạo",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这个国家制造业发达。",
+    "example_vi": "Ngành chế tạo của nước này phát triển."
   },
   {
     "w": "服务业",
     "p": "fú wù yè",
     "m": "ngành dịch vụ",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "服务业创造了很多就业机会。",
+    "example_vi": "Ngành dịch vụ đã tạo ra nhiều cơ hội việc làm."
   },
   {
     "w": "能源",
@@ -2073,13 +2349,17 @@
     "w": "平台经济",
     "p": "píng tái jīng jì",
     "m": "kinh tế nền tảng",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "平台经济发展迅速。",
+    "example_vi": "Kinh tế nền tảng phát triển nhanh chóng."
   },
   {
     "w": "共享经济",
     "p": "gòng xiǎng jīng jì",
     "m": "kinh tế chia sẻ",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "共享单车是共享经济的代表。",
+    "example_vi": "Xe đạp chia sẻ là đại diện của kinh tế chia sẻ."
   },
   {
     "w": "绿色经济",
@@ -2127,7 +2407,9 @@
     "w": "贸易顺差",
     "p": "mào yì shùn chā",
     "m": "thặng dư thương mại",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这个国家有很大的贸易顺差。",
+    "example_vi": "Quốc gia này có thặng dư thương mại rất lớn."
   },
   {
     "w": "开放",
@@ -2145,19 +2427,25 @@
     "w": "透明",
     "p": "tòu míng",
     "m": "minh bạch, trong suốt",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "政府的决策过程应该透明。",
+    "example_vi": "Quá trình ra quyết định của chính phủ nên minh bạch."
   },
   {
     "w": "腐败",
     "p": "fǔ bài",
     "m": "tham nhũng, thối nát",
-    "cat": "xã hội"
+    "cat": "xã hội",
+    "example": "政府正在打击腐败。",
+    "example_vi": "Chính phủ đang đấu tranh chống tham nhũng."
   },
   {
     "w": "廉洁",
     "p": "lián jié",
     "m": "liêm khiết",
-    "cat": "xã hội"
+    "cat": "xã hội",
+    "example": "官员应该廉洁自律。",
+    "example_vi": "Quan chức nên liêm khiết và tự kỷ luật."
   },
   {
     "w": "监督",
@@ -2169,19 +2457,25 @@
     "w": "问责",
     "p": "wèn zé",
     "m": "quy trách nhiệm",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "我们要建立问责机制。",
+    "example_vi": "Chúng ta phải xây dựng cơ chế truy cứu trách nhiệm."
   },
   {
     "w": "审计",
     "p": "shěn jì",
     "m": "kiểm toán",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "公司每年都要接受审计。",
+    "example_vi": "Công ty hàng năm đều phải chịu kiểm toán."
   },
   {
     "w": "合规",
     "p": "hé guī",
     "m": "tuân thủ quy định",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "公司业务要合规经营。",
+    "example_vi": "Hoạt động kinh doanh của công ty phải tuân thủ quy định."
   },
   {
     "w": "风险",
@@ -2193,37 +2487,49 @@
     "w": "管控",
     "p": "guǎn kòng",
     "m": "kiểm soát, quản lý",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "公司加强了风险管控。",
+    "example_vi": "Công ty đã tăng cường kiểm soát rủi ro."
   },
   {
     "w": "权衡",
     "p": "quán héng",
     "m": "cân nhắc, so sánh",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "他在权衡利弊。",
+    "example_vi": "Anh ấy đang cân nhắc lợi hại."
   },
   {
     "w": "博弈",
     "p": "bó yì",
     "m": "đấu tranh, trò chơi chiến lược, đấu trí, cuộc chơi",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "这是一场复杂的博弈。",
+    "example_vi": "Đây là một cuộc đấu trí phức tạp."
   },
   {
     "w": "竞标",
     "p": "jìng biāo",
     "m": "đấu thầu",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "多家公司参与了这次竞标。",
+    "example_vi": "Nhiều công ty đã tham gia đấu thầu lần này."
   },
   {
     "w": "招标",
     "p": "zhāo biāo",
     "m": "mời thầu",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "政府发布了招标公告。",
+    "example_vi": "Chính phủ đã công bố thông báo mời thầu."
   },
   {
     "w": "中标",
     "p": "zhòng biāo",
     "m": "trúng thầu",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "这家公司成功中标。",
+    "example_vi": "Công ty này đã trúng thầu thành công."
   },
   {
     "w": "垄断",
@@ -2235,37 +2541,49 @@
     "w": "反垄断",
     "p": "fǎn lǒng duàn",
     "m": "chống độc quyền",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "政府加强了反垄断监管。",
+    "example_vi": "Chính phủ đã tăng cường giám sát chống độc quyền."
   },
   {
     "w": "并购",
     "p": "bìng gòu",
     "m": "mua bán và sáp nhập (M&A)",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "两家公司完成了并购。",
+    "example_vi": "Hai công ty đã hoàn tất việc sáp nhập và mua lại."
   },
   {
     "w": "分拆",
     "p": "fēn chāi",
     "m": "tách ra, phân tách",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "公司决定分拆业务。",
+    "example_vi": "Công ty quyết định tách nghiệp vụ ra."
   },
   {
     "w": "破产",
     "p": "pò chǎn",
     "m": "phá sản",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这家公司宣布破产了。",
+    "example_vi": "Công ty này đã tuyên bố phá sản."
   },
   {
     "w": "重组",
     "p": "chóng zǔ",
     "m": "tái cơ cấu",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "公司正在进行内部重组。",
+    "example_vi": "Công ty đang tiến hành tái cơ cấu nội bộ."
   },
   {
     "w": "债务重组",
     "p": "zhài wù chóng zǔ",
     "m": "tái cơ cấu nợ",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "公司正在进行债务重组。",
+    "example_vi": "Công ty đang tiến hành tái cơ cấu nợ."
   },
   {
     "w": "不良资产",
@@ -2277,25 +2595,33 @@
     "w": "清算",
     "p": "qīng suàn",
     "m": "thanh lý, quyết toán",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "公司正在进行资产清算。",
+    "example_vi": "Công ty đang tiến hành thanh lý tài sản."
   },
   {
     "w": "资本",
     "p": "zī běn",
     "m": "vốn, tư bản",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "公司需要更多资本运营。",
+    "example_vi": "Công ty cần thêm vốn để vận hành."
   },
   {
     "w": "流动性",
     "p": "liú dòng xìng",
     "m": "tính thanh khoản",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "市场的流动性很好。",
+    "example_vi": "Tính thanh khoản của thị trường rất tốt."
   },
   {
     "w": "偿债",
     "p": "cháng zhài",
     "m": "trả nợ",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "公司正在努力偿债。",
+    "example_vi": "Công ty đang nỗ lực trả nợ."
   },
   {
     "w": "财富",
@@ -2313,31 +2639,41 @@
     "w": "资产负债表",
     "p": "zī chǎn fù zhài biǎo",
     "m": "bảng cân đối kế toán",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "请查看公司的资产负债表。",
+    "example_vi": "Xin xem bảng cân đối kế toán của công ty."
   },
   {
     "w": "损益表",
     "p": "sǔn yì biǎo",
     "m": "báo cáo lợi nhuận và lỗ",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "损益表显示公司盈利。",
+    "example_vi": "Báo cáo lãi lỗ cho thấy công ty có lợi nhuận."
   },
   {
     "w": "现金流",
     "p": "xiàn jīn liú",
     "m": "dòng tiền",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "公司的现金流很稳定。",
+    "example_vi": "Dòng tiền của công ty rất ổn định."
   },
   {
     "w": "折旧",
     "p": "zhé jiù",
     "m": "khấu hao",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "这台设备已经折旧了一半。",
+    "example_vi": "Thiết bị này đã khấu hao được một nửa."
   },
   {
     "w": "摊销",
     "p": "tān xiāo",
     "m": "phân bổ chi phí",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "这笔费用将分年摊销。",
+    "example_vi": "Khoản chi phí này sẽ được phân bổ theo từng năm."
   },
   {
     "w": "增值税",
@@ -2349,19 +2685,25 @@
     "w": "所得税",
     "p": "suǒ dé shuì",
     "m": "thuế thu nhập",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "他每月要缴纳所得税。",
+    "example_vi": "Hàng tháng anh ấy phải nộp thuế thu nhập."
   },
   {
     "w": "印花税",
     "p": "yìn huā shuì",
     "m": "thuế tem",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "购房需要缴纳印花税。",
+    "example_vi": "Mua nhà cần phải nộp thuế tem."
   },
   {
     "w": "量化宽松",
     "p": "liàng huà kuān sōng",
     "m": "nới lỏng định lượng (QE)",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "央行实行了量化宽松政策。",
+    "example_vi": "Ngân hàng trung ương đã thực hiện chính sách nới lỏng định lượng."
   },
   {
     "w": "货币政策",
@@ -2379,13 +2721,17 @@
     "w": "中央银行",
     "p": "zhōng yāng yín háng",
     "m": "ngân hàng trung ương",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "中央银行调整了利率。",
+    "example_vi": "Ngân hàng trung ương đã điều chỉnh lãi suất."
   },
   {
     "w": "通货",
     "p": "tōng huò",
     "m": "tiền tệ lưu thông",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "市场上通货流通量增加了。",
+    "example_vi": "Lượng tiền tệ lưu thông trên thị trường đã tăng lên."
   },
   {
     "w": "杠杆",
@@ -2397,25 +2743,33 @@
     "w": "衍生品",
     "p": "yǎn shēng pǐn",
     "m": "sản phẩm phái sinh",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "金融衍生品的风险很高。",
+    "example_vi": "Rủi ro của sản phẩm phái sinh tài chính rất cao."
   },
   {
     "w": "套利",
     "p": "tào lì",
     "m": "kinh doanh chênh lệch giá",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "他利用价格差进行套利。",
+    "example_vi": "Anh ấy tận dụng chênh lệch giá để kinh doanh chênh lệch giá."
   },
   {
     "w": "对冲",
     "p": "duì chōng",
     "m": "phòng ngừa rủi ro (hedging)",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "投资者用对冲来降低风险。",
+    "example_vi": "Nhà đầu tư dùng biện pháp bảo hiểm rủi ro để giảm thiểu rủi ro."
   },
   {
     "w": "做空",
     "p": "zuò kōng",
     "m": "bán khống",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "有投资者选择做空这只股票。",
+    "example_vi": "Có nhà đầu tư chọn bán khống cổ phiếu này."
   },
   {
     "w": "做多",
@@ -2439,7 +2793,9 @@
     "w": "泡沫",
     "p": "pào mò",
     "m": "bong bóng (kinh tế)",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "专家担心房地产泡沫。",
+    "example_vi": "Chuyên gia lo ngại về bong bóng bất động sản."
   },
   {
     "w": "崩盘",
@@ -2451,61 +2807,81 @@
     "w": "反弹",
     "p": "fǎn dàn",
     "m": "phục hồi, bật lại",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "股市今天出现反弹。",
+    "example_vi": "Thị trường chứng khoán hôm nay xuất hiện phục hồi."
   },
   {
     "w": "套现",
     "p": "tào xiàn",
     "m": "rút tiền mặt, hiện thực hóa lợi nhuận",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "他卖掉股票套现。",
+    "example_vi": "Anh ấy bán cổ phiếu để rút tiền mặt."
   },
   {
     "w": "锁定",
     "p": "suǒ dìng",
     "m": "khóa, cố định",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "这笔利率已经锁定。",
+    "example_vi": "Mức lãi suất này đã được khóa cố định."
   },
   {
     "w": "剥离",
     "p": "bō lí",
     "m": "tách tài sản, loại bỏ",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "公司剥离了亏损业务。",
+    "example_vi": "Công ty đã tách bỏ mảng kinh doanh thua lỗ."
   },
   {
     "w": "质押",
     "p": "zhì yā",
     "m": "thế chấp, cầm cố",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "他用股票进行质押贷款。",
+    "example_vi": "Anh ấy dùng cổ phiếu để cầm cố vay vốn."
   },
   {
     "w": "担保",
     "p": "dān bǎo",
     "m": "bảo lãnh",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "银行要求提供担保。",
+    "example_vi": "Ngân hàng yêu cầu cung cấp bảo đảm."
   },
   {
     "w": "信用评级",
     "p": "xìn yòng píng jí",
     "m": "đánh giá tín dụng",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "这家公司的信用评级很高。",
+    "example_vi": "Đánh giá tín dụng của công ty này rất cao."
   },
   {
     "w": "信贷",
     "p": "xìn dài",
     "m": "tín dụng",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "银行收紧了信贷政策。",
+    "example_vi": "Ngân hàng đã thắt chặt chính sách tín dụng."
   },
   {
     "w": "征信",
     "p": "zhēng xìn",
     "m": "kiểm tra tín dụng",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "银行会查看你的征信记录。",
+    "example_vi": "Ngân hàng sẽ kiểm tra hồ sơ tín dụng của bạn."
   },
   {
     "w": "网贷",
     "p": "wǎng dài",
     "m": "vay trực tuyến, cho vay ngang hàng P2P",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "他通过网贷平台借钱。",
+    "example_vi": "Anh ấy vay tiền qua nền tảng vay trực tuyến."
   },
   {
     "w": "数字货币",
@@ -2517,31 +2893,41 @@
     "w": "加密货币",
     "p": "jiā mì huò bì",
     "m": "tiền mã hóa (cryptocurrency)",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "他投资了加密货币。",
+    "example_vi": "Anh ấy đã đầu tư vào tiền mã hóa."
   },
   {
     "w": "挖矿",
     "p": "wā kuàng",
     "m": "đào coin",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "他用电脑挖矿。",
+    "example_vi": "Anh ấy dùng máy tính để đào coin."
   },
   {
     "w": "去中心化",
     "p": "qù zhōng xīn huà",
     "m": "phi tập trung hóa",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "这是一个去中心化的系统。",
+    "example_vi": "Đây là một hệ thống phi tập trung hóa."
   },
   {
     "w": "智能合约",
     "p": "zhì néng hé yuē",
     "m": "hợp đồng thông minh",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "这个平台使用智能合约。",
+    "example_vi": "Nền tảng này sử dụng hợp đồng thông minh."
   },
   {
     "w": "元宇宙",
     "p": "yuán yǔ zhòu",
     "m": "metaverse, vũ trụ ảo",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "很多公司投资元宇宙项目。",
+    "example_vi": "Nhiều công ty đầu tư vào dự án vũ trụ ảo."
   },
   {
     "w": "数字孪生",
@@ -2559,7 +2945,9 @@
     "w": "边缘计算",
     "p": "biān yuán jì suàn",
     "m": "điện toán biên",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "这项技术采用了边缘计算。",
+    "example_vi": "Công nghệ này áp dụng điện toán biên."
   },
   {
     "w": "5G",
@@ -2577,7 +2965,9 @@
     "w": "自动驾驶",
     "p": "zì dòng jià shǐ",
     "m": "tự lái xe, lái xe tự động",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "这辆车支持自动驾驶功能。",
+    "example_vi": "Chiếc xe này hỗ trợ chức năng lái xe tự động."
   },
   {
     "w": "新能源",
@@ -2613,61 +3003,81 @@
     "w": "纳米技术",
     "p": "nà mǐ jì shù",
     "m": "công nghệ nano",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "纳米技术应用广泛。",
+    "example_vi": "Công nghệ nano được ứng dụng rộng rãi."
   },
   {
     "w": "量子计算",
     "p": "liàng zǐ jì suàn",
     "m": "máy tính lượng tử",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "量子计算是未来的发展方向。",
+    "example_vi": "Tính toán lượng tử là hướng phát triển của tương lai."
   },
   {
     "w": "网络安全",
     "p": "wǎng luò ān quán",
     "m": "an ninh mạng",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "公司很重视网络安全。",
+    "example_vi": "Công ty rất coi trọng an ninh mạng."
   },
   {
     "w": "隐私保护",
     "p": "yǐn sī bǎo hù",
     "m": "bảo vệ quyền riêng tư",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "这项法律加强了隐私保护。",
+    "example_vi": "Luật này đã tăng cường bảo vệ quyền riêng tư."
   },
   {
     "w": "数据隐私",
     "p": "shù jù yǐn sī",
     "m": "quyền riêng tư dữ liệu",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "用户很关心数据隐私问题。",
+    "example_vi": "Người dùng rất quan tâm đến vấn đề quyền riêng tư dữ liệu."
   },
   {
     "w": "黑客",
     "p": "hēi kè",
     "m": "hacker, tin tặc",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "网站遭到了黑客攻击。",
+    "example_vi": "Trang web đã bị hacker tấn công."
   },
   {
     "w": "网络攻击",
     "p": "wǎng luò gōng jī",
     "m": "tấn công mạng",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "公司遭遇了一次网络攻击。",
+    "example_vi": "Công ty đã gặp phải một cuộc tấn công mạng."
   },
   {
     "w": "防火墙",
     "p": "fáng huǒ qiáng",
     "m": "tường lửa",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "公司安装了防火墙。",
+    "example_vi": "Công ty đã lắp đặt tường lửa."
   },
   {
     "w": "备份",
     "p": "bèi fèn",
     "m": "sao lưu dữ liệu",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "请定期备份数据。",
+    "example_vi": "Xin hãy sao lưu dữ liệu định kỳ."
   },
   {
     "w": "协作",
     "p": "xié zuò",
     "m": "hợp tác, cộng tác",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "两个部门加强了协作。",
+    "example_vi": "Hai bộ phận đã tăng cường hợp tác."
   },
   {
     "w": "沟通",
@@ -2679,7 +3089,9 @@
     "w": "汇报",
     "p": "huì bào",
     "m": "báo cáo",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "他向经理汇报了工作进展。",
+    "example_vi": "Anh ấy đã báo cáo tiến độ công việc cho giám đốc."
   },
   {
     "w": "表达",
@@ -2691,7 +3103,9 @@
     "w": "陈述",
     "p": "chén shù",
     "m": "trình bày, tuyên bố",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "请陈述你的观点。",
+    "example_vi": "Xin hãy trình bày quan điểm của bạn."
   },
   {
     "w": "辩论",
@@ -2709,19 +3123,25 @@
     "w": "批判",
     "p": "pī pàn",
     "m": "phê phán, chỉ trích",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "他批判了这种不良现象。",
+    "example_vi": "Anh ấy đã phê phán hiện tượng xấu này."
   },
   {
     "w": "质疑",
     "p": "zhì yí",
     "m": "đặt câu hỏi, nghi ngờ",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "有人质疑这个结果的准确性。",
+    "example_vi": "Có người nghi ngờ tính chính xác của kết quả này."
   },
   {
     "w": "反驳",
     "p": "fǎn bó",
     "m": "phản bác",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "他反驳了老师的观点。",
+    "example_vi": "Anh ấy đã phản bác quan điểm của thầy giáo."
   },
   {
     "w": "接受",
@@ -2739,7 +3159,9 @@
     "w": "妥协",
     "p": "tuǒ xié",
     "m": "thỏa hiệp",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "双方最终达成了妥协。",
+    "example_vi": "Hai bên cuối cùng đã đạt được thỏa hiệp."
   },
   {
     "w": "坚持",
@@ -2757,7 +3179,9 @@
     "w": "克制",
     "p": "kè zhì",
     "m": "kiềm chế, tự kiềm chế",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "他努力克制自己的情绪。",
+    "example_vi": "Anh ấy cố gắng kiềm chế cảm xúc của mình."
   },
   {
     "w": "激励",
@@ -2805,7 +3229,9 @@
     "w": "达成",
     "p": "dá chéng",
     "m": "đạt được, đi đến",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "双方达成了协议。",
+    "example_vi": "Hai bên đã đạt được thỏa thuận."
   },
   {
     "w": "完成",
@@ -2817,67 +3243,89 @@
     "w": "推进",
     "p": "tuī jìn",
     "m": "thúc đẩy, tiến hành",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "公司正在推进这个项目。",
+    "example_vi": "Công ty đang thúc đẩy dự án này."
   },
   {
     "w": "拓展",
     "p": "tuò zhǎn",
     "m": "mở rộng, phát triển",
-    "cat": "hành動"
+    "cat": "hành動",
+    "example": "公司在拓展新的市场。",
+    "example_vi": "Công ty đang mở rộng thị trường mới."
   },
   {
     "w": "深化",
     "p": "shēn huà",
     "m": "đào sâu, làm sâu sắc thêm, nâng cao, đi sâu",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "我们要深化对这个问题的理解。",
+    "example_vi": "Chúng ta phải đào sâu sự hiểu biết về vấn đề này."
   },
   {
     "w": "完善",
     "p": "wán shàn",
     "m": "hoàn thiện",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "这个制度还需要完善。",
+    "example_vi": "Chế độ này vẫn cần được hoàn thiện."
   },
   {
     "w": "改进",
     "p": "gǎi jìn",
     "m": "cải tiến",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "我们需要改进这个流程。",
+    "example_vi": "Chúng ta cần cải tiến quy trình này."
   },
   {
     "w": "革新",
     "p": "gé xīn",
     "m": "đổi mới, cải cách",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "公司进行了一次技术革新。",
+    "example_vi": "Công ty đã tiến hành một cuộc đổi mới công nghệ."
   },
   {
     "w": "颠覆",
     "p": "diān fù",
     "m": "lật đổ, phá vỡ",
-    "cat": "hành動"
+    "cat": "hành動",
+    "example": "这项技术颠覆了传统行业。",
+    "example_vi": "Công nghệ này đã làm đảo lộn ngành truyền thống."
   },
   {
     "w": "重塑",
     "p": "chóng sù",
     "m": "định hình lại",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "这次改革重塑了公司形象。",
+    "example_vi": "Cuộc cải cách lần này đã định hình lại hình ảnh công ty."
   },
   {
     "w": "转型",
     "p": "zhuǎn xíng",
     "m": "chuyển đổi",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "公司正在向数字化转型。",
+    "example_vi": "Công ty đang chuyển đổi sang số hóa."
   },
   {
     "w": "升级",
     "p": "shēng jí",
     "m": "nâng cấp",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "系统已经升级了。",
+    "example_vi": "Hệ thống đã được nâng cấp."
   },
   {
     "w": "降级",
     "p": "jiàng jí",
     "m": "hạ cấp",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "他的职位被降级了。",
+    "example_vi": "Chức vụ của anh ấy đã bị hạ cấp."
   },
   {
     "w": "调整",
@@ -2889,19 +3337,25 @@
     "w": "把握",
     "p": "bǎ wò",
     "m": "nắm bắt, nắm chắc, sự chắc chắn",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "他很有把握完成任务。",
+    "example_vi": "Anh ấy rất chắc chắn sẽ hoàn thành nhiệm vụ."
   },
   {
     "w": "掌握",
     "p": "zhǎng wò",
     "m": "nắm vững",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "他已经掌握了这门技术。",
+    "example_vi": "Anh ấy đã nắm vững kỹ thuật này."
   },
   {
     "w": "运用",
     "p": "yùn yòng",
     "m": "vận dụng, áp dụng",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "他善于运用所学知识。",
+    "example_vi": "Anh ấy giỏi vận dụng kiến thức đã học."
   },
   {
     "w": "利用",
@@ -2913,7 +3367,9 @@
     "w": "依托",
     "p": "yī tuō",
     "m": "dựa vào, nương tựa",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "这个项目依托当地资源发展。",
+    "example_vi": "Dự án này phát triển dựa vào nguồn lực địa phương."
   },
   {
     "w": "依据",
@@ -2925,7 +3381,9 @@
     "w": "依赖",
     "p": "yī lài",
     "m": "phụ thuộc, dựa dẫm",
-    "cat": "hành動"
+    "cat": "hành動",
+    "example": "孩子不应该过度依赖父母。",
+    "example_vi": "Trẻ em không nên quá phụ thuộc vào cha mẹ."
   },
   {
     "w": "独立",
@@ -2937,7 +3395,9 @@
     "w": "自主",
     "p": "zì zhǔ",
     "m": "tự chủ",
-    "cat": "tính从"
+    "cat": "tính从",
+    "example": "公司拥有自主研发能力。",
+    "example_vi": "Công ty có khả năng tự chủ nghiên cứu phát triển."
   },
   {
     "w": "自律",
@@ -2949,19 +3409,25 @@
     "w": "纪律",
     "p": "jì lǜ",
     "m": "kỷ luật",
-    "cat": "học tập"
+    "cat": "học tập",
+    "example": "军队非常重视纪律。",
+    "example_vi": "Quân đội rất coi trọng kỷ luật."
   },
   {
     "w": "规律",
     "p": "guī lǜ",
     "m": "quy luật",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "自然界有它自己的规律。",
+    "example_vi": "Tự nhiên có quy luật riêng của nó."
   },
   {
     "w": "规范",
     "p": "guī fàn",
     "m": "tiêu chuẩn, chuẩn mực",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "请按照规范操作。",
+    "example_vi": "Xin hãy thao tác theo đúng quy chuẩn."
   },
   {
     "w": "标准",
@@ -2973,7 +3439,9 @@
     "w": "衡量",
     "p": "héng liàng",
     "m": "đo lường, đánh giá",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "我们要衡量这个方案的利弊。",
+    "example_vi": "Chúng ta phải đánh giá lợi hại của phương án này."
   },
   {
     "w": "比较",
@@ -2985,13 +3453,17 @@
     "w": "对比",
     "p": "duì bǐ",
     "m": "đối chiếu, tương phản",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "请对比一下这两个方案。",
+    "example_vi": "Xin hãy đối chiếu hai phương án này."
   },
   {
     "w": "区分",
     "p": "qū fēn",
     "m": "phân biệt",
-    "cat": "hành動"
+    "cat": "hành動",
+    "example": "请区分这两个概念。",
+    "example_vi": "Xin hãy phân biệt hai khái niệm này."
   },
   {
     "w": "区别",
@@ -3003,7 +3475,9 @@
     "w": "差异",
     "p": "chā yì",
     "m": "sự khác biệt, chênh lệch",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "两种文化存在明显差异。",
+    "example_vi": "Hai nền văn hóa có sự khác biệt rõ rệt."
   },
   {
     "w": "联系",
@@ -3015,7 +3489,9 @@
     "w": "关联",
     "p": "guān lián",
     "m": "tương quan, liên kết",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这两件事有一定的关联。",
+    "example_vi": "Hai việc này có sự liên quan nhất định."
   },
   {
     "w": "影响",
@@ -3027,7 +3503,9 @@
     "w": "因素",
     "p": "yīn sù",
     "m": "nhân tố",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "天气是影响出行的重要因素。",
+    "example_vi": "Thời tiết là nhân tố quan trọng ảnh hưởng đến việc đi lại."
   },
   {
     "w": "变量",
@@ -3069,7 +3547,9 @@
     "w": "前提",
     "p": "qián tí",
     "m": "tiền đề, điều kiện tiên quyết",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这是我们合作的前提。",
+    "example_vi": "Đây là tiền đề hợp tác của chúng ta."
   },
   {
     "w": "条件",
@@ -3081,13 +3561,17 @@
     "w": "限制",
     "p": "xiàn zhì",
     "m": "hạn chế, giới hạn",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这里对车速有限制。",
+    "example_vi": "Ở đây có hạn chế về tốc độ xe."
   },
   {
     "w": "约束",
     "p": "yuē shù",
     "m": "ràng buộc",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "规则约束着每个人的行为。",
+    "example_vi": "Quy tắc ràng buộc hành vi của mỗi người."
   },
   {
     "w": "框架",
@@ -3099,25 +3583,33 @@
     "w": "体系",
     "p": "tǐ xì",
     "m": "hệ thống, thể chế",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这是一个完整的知识体系。",
+    "example_vi": "Đây là một hệ thống kiến thức hoàn chỉnh."
   },
   {
     "w": "机制",
     "p": "jī zhì",
     "m": "cơ chế",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这是一种自我调节机制。",
+    "example_vi": "Đây là một cơ chế tự điều chỉnh."
   },
   {
     "w": "流程",
     "p": "liú chéng",
     "m": "quy trình",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "请按照流程办理手续。",
+    "example_vi": "Xin hãy làm thủ tục theo đúng quy trình."
   },
   {
     "w": "周期",
     "p": "zhōu qī",
     "m": "chu kỳ",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这个产品的更新周期是一年。",
+    "example_vi": "Chu kỳ cập nhật của sản phẩm này là một năm."
   },
   {
     "w": "阶段",
@@ -3129,25 +3621,33 @@
     "w": "趋势",
     "p": "qū shì",
     "m": "xu hướng",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这是未来发展的趋势。",
+    "example_vi": "Đây là xu hướng phát triển trong tương lai."
   },
   {
     "w": "模式",
     "p": "mú shì",
     "m": "mô thức, mô hình",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这是一种新的经营模式。",
+    "example_vi": "Đây là một mô hình kinh doanh mới."
   },
   {
     "w": "规律性",
     "p": "guī lǜ xìng",
     "m": "tính quy luật",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这种现象具有规律性。",
+    "example_vi": "Hiện tượng này mang tính quy luật."
   },
   {
     "w": "可靠性",
     "p": "kě kào xìng",
     "m": "độ tin cậy",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这个测试的可靠性很高。",
+    "example_vi": "Độ tin cậy của bài kiểm tra này rất cao."
   },
   {
     "w": "准确性",
@@ -3159,7 +3659,9 @@
     "w": "有效性",
     "p": "yǒu xiào xìng",
     "m": "hiệu quả, tính hợp lệ",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这种方法的有效性有待验证。",
+    "example_vi": "Hiệu quả của phương pháp này cần được kiểm chứng."
   },
   {
     "w": "科学性",
@@ -3171,13 +3673,17 @@
     "w": "合理性",
     "p": "hé lǐ xìng",
     "m": "tính hợp lý",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这个方案的合理性受到质疑。",
+    "example_vi": "Tính hợp lý của phương án này bị nghi ngờ."
   },
   {
     "w": "必要性",
     "p": "bì yào xìng",
     "m": "tính cần thiết",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "我们要认识到改革的必要性。",
+    "example_vi": "Chúng ta phải nhận thức được sự cần thiết của cải cách."
   },
   {
     "w": "可能性",
@@ -3195,25 +3701,33 @@
     "w": "代表性",
     "p": "dài biǎo xìng",
     "m": "tính đại diện",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这个样本缺乏代表性。",
+    "example_vi": "Mẫu này thiếu tính đại diện."
   },
   {
     "w": "普遍性",
     "p": "pǔ biàn xìng",
     "m": "tính phổ biến",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这个现象具有普遍性。",
+    "example_vi": "Hiện tượng này mang tính phổ biến."
   },
   {
     "w": "特殊性",
     "p": "tè shū xìng",
     "m": "tính đặc thù",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "每个国家都有自己的特殊性。",
+    "example_vi": "Mỗi quốc gia đều có tính đặc thù riêng."
   },
   {
     "w": "复杂性",
     "p": "fù zá xìng",
     "m": "tính phức tạp",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这个问题的复杂性超出了我们的预期。",
+    "example_vi": "Tính phức tạp của vấn đề này vượt quá dự đoán của chúng tôi."
   },
   {
     "w": "多样性",
@@ -3225,31 +3739,41 @@
     "w": "独特性",
     "p": "dú tè xìng",
     "m": "tính độc đáo",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这个作品具有独特性。",
+    "example_vi": "Tác phẩm này mang tính độc đáo."
   },
   {
     "w": "重要性",
     "p": "zhòng yào xìng",
     "m": "tầm quan trọng",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "他强调了教育的重要性。",
+    "example_vi": "Anh ấy đã nhấn mạnh tầm quan trọng của giáo dục."
   },
   {
     "w": "必然性",
     "p": "bì rán xìng",
     "m": "tính tất yếu",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "事情的发生具有必然性。",
+    "example_vi": "Sự việc xảy ra mang tính tất yếu."
   },
   {
     "w": "偶然性",
     "p": "ǒu rán xìng",
     "m": "tính ngẫu nhiên",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这次成功带有一定偶然性。",
+    "example_vi": "Thành công lần này mang một chút tính ngẫu nhiên."
   },
   {
     "w": "相关性",
     "p": "xiāng guān xìng",
     "m": "tính tương quan",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这两个变量之间存在相关性。",
+    "example_vi": "Hai biến số này có tính tương quan với nhau."
   },
   {
     "w": "矛盾",
@@ -3261,13 +3785,17 @@
     "w": "统一",
     "p": "tǒng yī",
     "m": "thống nhất",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "我们需要统一意见。",
+    "example_vi": "Chúng ta cần thống nhất ý kiến."
   },
   {
     "w": "对立",
     "p": "duì lì",
     "m": "đối lập",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "两种观点存在对立。",
+    "example_vi": "Hai quan điểm này tồn tại sự đối lập."
   },
   {
     "w": "辩证",
@@ -3285,7 +3813,9 @@
     "w": "反思",
     "p": "fǎn sī",
     "m": "phản tư, suy ngẫm lại",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "我们应该反思自己的错误。",
+    "example_vi": "Chúng ta nên suy ngẫm lại sai lầm của mình."
   },
   {
     "w": "总结",
@@ -3297,19 +3827,25 @@
     "w": "展望",
     "p": "zhǎn wàng",
     "m": "triển vọng, nhìn về tương lai",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "我们对未来充满展望。",
+    "example_vi": "Chúng tôi tràn đầy triển vọng về tương lai."
   },
   {
     "w": "预测",
     "p": "yù cè",
     "m": "dự đoán, dự báo",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "专家预测明年经济会增长。",
+    "example_vi": "Chuyên gia dự đoán kinh tế năm sau sẽ tăng trưởng."
   },
   {
     "w": "预见",
     "p": "yù jiàn",
     "m": "tiên liệu, nhìn trước",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "没人能预见这个结果。",
+    "example_vi": "Không ai có thể tiên liệu được kết quả này."
   },
   {
     "w": "评价",
@@ -3321,19 +3857,25 @@
     "w": "审视",
     "p": "shěn shì",
     "m": "xem xét kỹ lưỡng",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "我们需要重新审视这个问题。",
+    "example_vi": "Chúng ta cần xem xét lại vấn đề này."
   },
   {
     "w": "视角",
     "p": "shì jiǎo",
     "m": "góc nhìn, quan điểm",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "他从不同视角分析了这个问题。",
+    "example_vi": "Anh ấy đã phân tích vấn đề này từ góc nhìn khác nhau."
   },
   {
     "w": "维度",
     "p": "wéi dù",
     "m": "chiều, góc độ, khía cạnh",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "我们要从多个维度分析问题。",
+    "example_vi": "Chúng ta phải phân tích vấn đề từ nhiều khía cạnh."
   },
   {
     "w": "层次",
@@ -3345,13 +3887,17 @@
     "w": "深度",
     "p": "shēn dù",
     "m": "chiều sâu",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这篇文章分析得很有深度。",
+    "example_vi": "Bài viết này phân tích rất có chiều sâu."
   },
   {
     "w": "广度",
     "p": "guǎng dù",
     "m": "chiều rộng",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这项研究涉及的广度很大。",
+    "example_vi": "Nghiên cứu này liên quan đến chiều rộng rất lớn."
   },
   {
     "w": "精度",
@@ -3369,55 +3915,73 @@
     "w": "力度",
     "p": "lì dù",
     "m": "cường độ, mức độ",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "政府加大了改革力度。",
+    "example_vi": "Chính phủ đã tăng cường độ cải cách."
   },
   {
     "w": "幅度",
     "p": "fú dù",
     "m": "biên độ, mức độ",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "价格波动的幅度很大。",
+    "example_vi": "Biên độ dao động giá cả rất lớn."
   },
   {
     "w": "程度",
     "p": "chéng dù",
     "m": "mức độ",
-    "cat": "trạng từ"
+    "cat": "trạng từ",
+    "example": "他的汉语已经达到了很高的程度。",
+    "example_vi": "Tiếng Trung của anh ấy đã đạt đến mức độ rất cao."
   },
   {
     "w": "限度",
     "p": "xiàn dù",
     "m": "giới hạn",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "任何事情都有限度。",
+    "example_vi": "Mọi việc đều có giới hạn."
   },
   {
     "w": "额度",
     "p": "é dù",
     "m": "hạn mức, quota",
-    "cat": "tiền bạc"
+    "cat": "tiền bạc",
+    "example": "这张信用卡的额度不高。",
+    "example_vi": "Hạn mức của thẻ tín dụng này không cao."
   },
   {
     "w": "比例",
     "p": "bǐ lì",
     "m": "tỷ lệ",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这份配方的比例很重要。",
+    "example_vi": "Tỷ lệ của công thức này rất quan trọng."
   },
   {
     "w": "比率",
     "p": "bǐ lǜ",
     "m": "tỷ suất",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "男女比率大致平衡。",
+    "example_vi": "Tỷ lệ nam nữ tương đối cân bằng."
   },
   {
     "w": "总量",
     "p": "zǒng liàng",
     "m": "tổng lượng",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "今年的产量总量增加了。",
+    "example_vi": "Tổng lượng sản xuất năm nay đã tăng lên."
   },
   {
     "w": "均值",
     "p": "jūn zhí",
     "m": "giá trị trung bình",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这组数据的均值是八十。",
+    "example_vi": "Giá trị trung bình của nhóm dữ liệu này là tám mươi."
   },
   {
     "w": "中位数",
@@ -3429,13 +3993,17 @@
     "w": "方差",
     "p": "fāng chā",
     "m": "phương sai",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这组数据的方差很大。",
+    "example_vi": "Phương sai của nhóm số liệu này rất lớn."
   },
   {
     "w": "标准差",
     "p": "biāo zhǔn chā",
     "m": "độ lệch chuẩn",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "请计算这些数据的标准差。",
+    "example_vi": "Xin hãy tính độ lệch chuẩn của số liệu này."
   },
   {
     "w": "相关系数",
@@ -3447,43 +4015,57 @@
     "w": "回归分析",
     "p": "huí guī fēn xī",
     "m": "phân tích hồi quy",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "他使用回归分析研究这个问题。",
+    "example_vi": "Anh ấy dùng phân tích hồi quy để nghiên cứu vấn đề này."
   },
   {
     "w": "抽样",
     "p": "chōu yàng",
     "m": "lấy mẫu",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "研究者采用随机抽样方法。",
+    "example_vi": "Nhà nghiên cứu áp dụng phương pháp lấy mẫu ngẫu nhiên."
   },
   {
     "w": "样本",
     "p": "yàng běn",
     "m": "mẫu nghiên cứu, mẫu thí nghiệm",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这项研究的样本量很大。",
+    "example_vi": "Kích thước mẫu nghiên cứu của đề tài này rất lớn."
   },
   {
     "w": "总体",
     "p": "zǒng tǐ",
     "m": "tổng thể",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "总体来说，结果令人满意。",
+    "example_vi": "Nhìn tổng thể, kết quả khiến người ta hài lòng."
   },
   {
     "w": "调查问卷",
     "p": "diào chá wèn juàn",
     "m": "bảng câu hỏi khảo sát",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "请填写这份调查问卷。",
+    "example_vi": "Xin hãy điền vào bảng câu hỏi khảo sát này."
   },
   {
     "w": "访谈",
     "p": "fǎng tán",
     "m": "phỏng vấn",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "记者对他进行了一次访谈。",
+    "example_vi": "Nhà báo đã tiến hành một cuộc phỏng vấn với anh ấy."
   },
   {
     "w": "观察法",
     "p": "guān chá fǎ",
     "m": "phương pháp quan sát",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这项研究采用了观察法。",
+    "example_vi": "Nghiên cứu này đã sử dụng phương pháp quan sát."
   },
   {
     "w": "案例分析",
@@ -3495,31 +4077,41 @@
     "w": "田野调查",
     "p": "tián yě diào chá",
     "m": "khảo sát thực địa",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "研究人员进行了田野调查。",
+    "example_vi": "Các nhà nghiên cứu đã tiến hành khảo sát thực địa."
   },
   {
     "w": "系统分析",
     "p": "xì tǒng fēn xī",
     "m": "phân tích hệ thống",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "他对问题进行了系统分析。",
+    "example_vi": "Anh ấy đã tiến hành phân tích hệ thống vấn đề."
   },
   {
     "w": "批判性思维",
     "p": "pī pàn xìng sī wéi",
     "m": "tư duy phản biện",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "学生应该培养批判性思维。",
+    "example_vi": "Học sinh nên rèn luyện tư duy phê phán."
   },
   {
     "w": "创新思维",
     "p": "chuàng xīn sī wéi",
     "m": "tư duy sáng tạo",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "公司鼓励员工创新思维。",
+    "example_vi": "Công ty khuyến khích nhân viên tư duy sáng tạo."
   },
   {
     "w": "系统思维",
     "p": "xì tǒng sī wéi",
     "m": "tư duy hệ thống",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "解决这个问题需要系统思维。",
+    "example_vi": "Giải quyết vấn đề này cần tư duy hệ thống."
   },
   {
     "w": "逻辑",
@@ -3543,13 +4135,17 @@
     "w": "决策",
     "p": "jué cè",
     "m": "ra quyết định",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "领导要做出正确的决策。",
+    "example_vi": "Lãnh đạo phải đưa ra quyết định đúng đắn."
   },
   {
     "w": "优先",
     "p": "yōu xiān",
     "m": "ưu tiên",
-    "cat": "hành动"
+    "cat": "hành动",
+    "example": "这个项目要优先处理。",
+    "example_vi": "Dự án này phải được ưu tiên xử lý."
   },
   {
     "w": "权重",
@@ -3561,49 +4157,65 @@
     "w": "综合评价",
     "p": "zōng hé píng jià",
     "m": "đánh giá tổng hợp",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "老师给出了综合评价。",
+    "example_vi": "Thầy giáo đã đưa ra đánh giá tổng hợp."
   },
   {
     "w": "量化分析",
     "p": "liàng huà fēn xī",
     "m": "phân tích định lượng",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "他们对数据进行了量化分析。",
+    "example_vi": "Họ đã tiến hành phân tích định lượng dữ liệu."
   },
   {
     "w": "定性分析",
     "p": "dìng xìng fēn xī",
     "m": "phân tích định tính",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这项研究以定性分析为主。",
+    "example_vi": "Nghiên cứu này chủ yếu dựa vào phân tích định tính."
   },
   {
     "w": "比较研究",
     "p": "bǐ jiào yán jiū",
     "m": "nghiên cứu so sánh",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "他做了一项比较研究。",
+    "example_vi": "Anh ấy đã thực hiện một nghiên cứu so sánh."
   },
   {
     "w": "跨学科",
     "p": "kuà xué kē",
     "m": "liên ngành",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这是一个跨学科的研究项目。",
+    "example_vi": "Đây là một dự án nghiên cứu liên ngành."
   },
   {
     "w": "研究方法",
     "p": "yán jiū fāng fǎ",
     "m": "phương pháp nghiên cứu",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "他介绍了自己的研究方法。",
+    "example_vi": "Anh ấy đã giới thiệu phương pháp nghiên cứu của mình."
   },
   {
     "w": "研究设计",
     "p": "yán jiū shè jì",
     "m": "thiết kế nghiên cứu",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这项研究设计很严谨。",
+    "example_vi": "Thiết kế nghiên cứu này rất chặt chẽ."
   },
   {
     "w": "研究结果",
     "p": "yán jiū jié guǒ",
     "m": "kết quả nghiên cứu",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "研究结果已经公布了。",
+    "example_vi": "Kết quả nghiên cứu đã được công bố."
   },
   {
     "w": "讨论",
@@ -3615,7 +4227,9 @@
     "w": "深入探讨",
     "p": "shēn rù tàn tǎo",
     "m": "nghiên cứu sâu",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "我们需要深入探讨这个问题。",
+    "example_vi": "Chúng ta cần nghiên cứu sâu vấn đề này."
   },
   {
     "w": "文化",
@@ -3639,7 +4253,9 @@
     "w": "节庆",
     "p": "jié qìng",
     "m": "lễ hội",
-    "cat": "văn hóa"
+    "cat": "văn hóa",
+    "example": "春节是重要的节庆。",
+    "example_vi": "Tết Nguyên đán là một lễ hội quan trọng."
   },
   {
     "w": "民族",
@@ -3675,7 +4291,9 @@
     "w": "弘扬",
     "p": "hóng yáng",
     "m": "phát huy, tôn vinh",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "我们要弘扬传统文化。",
+    "example_vi": "Chúng ta phải phát huy văn hóa truyền thống."
   },
   {
     "w": "融合",
@@ -3699,7 +4317,9 @@
     "w": "创造力",
     "p": "chuàng zào lì",
     "m": "sức sáng tạo",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "这个孩子很有创造力。",
+    "example_vi": "Đứa trẻ này rất có sức sáng tạo."
   },
   {
     "w": "领导力",
@@ -3717,85 +4337,113 @@
     "w": "凝聚力",
     "p": "níng jù lì",
     "m": "sức đoàn kết, lực kết dính",
-    "cat": "xã hội"
+    "cat": "xã hội",
+    "example": "这个团队很有凝聚力。",
+    "example_vi": "Đội ngũ này rất có sức gắn kết."
   },
   {
     "w": "向心力",
     "p": "xiàng xīn lì",
     "m": "lực tập trung, sức hút",
-    "cat": "xã hội"
+    "cat": "xã hội",
+    "example": "这个团队很有向心力。",
+    "example_vi": "Đội ngũ này có sức hút gắn kết mạnh mẽ."
   },
   {
     "w": "推动力",
     "p": "tuī dòng lì",
     "m": "động lực thúc đẩy",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "科技是社会发展的推动力。",
+    "example_vi": "Khoa học công nghệ là động lực thúc đẩy phát triển xã hội."
   },
   {
     "w": "阻力",
     "p": "zǔ lì",
     "m": "sức cản trở, lực cản",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "改革过程中遇到不少阻力。",
+    "example_vi": "Trong quá trình cải cách gặp không ít lực cản."
   },
   {
     "w": "驱动力",
     "p": "qū dòng lì",
     "m": "động lực",
-    "cat": "học thuật"
+    "cat": "học thuật",
+    "example": "兴趣是学习的驱动力。",
+    "example_vi": "Hứng thú là động lực của việc học tập."
   },
   {
     "w": "持久力",
     "p": "chí jiǔ lì",
     "m": "sức bền",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "长跑需要很强的持久力。",
+    "example_vi": "Chạy đường dài cần sức bền rất tốt."
   },
   {
     "w": "爆发力",
     "p": "bào fā lì",
     "m": "sức bùng phát",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "短跑运动员需要爆发力。",
+    "example_vi": "Vận động viên chạy nước rút cần sức bùng phát."
   },
   {
     "w": "协调性",
     "p": "xié tiáo xìng",
     "m": "tính phối hợp",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "这项运动锻炼身体的协调性。",
+    "example_vi": "Môn thể thao này rèn luyện tính phối hợp của cơ thể."
   },
   {
     "w": "灵敏性",
     "p": "líng mǐn xìng",
     "m": "tính nhạy bén",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "这个设备的灵敏性很高。",
+    "example_vi": "Tính nhạy bén của thiết bị này rất cao."
   },
   {
     "w": "柔韧性",
     "p": "róu rèn xìng",
     "m": "tính linh hoạt, dẻo dai",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "瑜伽可以提高身体的柔韧性。",
+    "example_vi": "Yoga có thể nâng cao tính dẻo dai của cơ thể."
   },
   {
     "w": "耐力",
     "p": "nài lì",
     "m": "sức bền, sự chịu đựng",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "游泳能增强耐力。",
+    "example_vi": "Bơi lội có thể tăng cường sức bền."
   },
   {
     "w": "体能",
     "p": "tǐ néng",
     "m": "thể lực",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "运动员需要良好的体能。",
+    "example_vi": "Vận động viên cần thể lực tốt."
   },
   {
     "w": "反应速度",
     "p": "fǎn yìng sù dù",
     "m": "tốc độ phản xạ",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "他的反应速度很快。",
+    "example_vi": "Tốc độ phản xạ của anh ấy rất nhanh."
   },
   {
     "w": "训练强度",
     "p": "xùn liàn qiáng dù",
     "m": "cường độ luyện tập",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "教练提高了训练强度。",
+    "example_vi": "Huấn luyện viên đã tăng cường độ luyện tập."
   },
   {
     "w": "比赛",
@@ -3807,85 +4455,113 @@
     "w": "淘汰",
     "p": "táo tài",
     "m": "bị loại",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "这支队伍在初赛就被淘汰了。",
+    "example_vi": "Đội này đã bị loại ngay từ vòng đấu sơ khảo."
   },
   {
     "w": "积分",
     "p": "jī fēn",
     "m": "điểm tích lũy",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "他们队目前排名第一，积分领先。",
+    "example_vi": "Đội của họ hiện xếp hạng nhất, dẫn đầu về điểm tích lũy."
   },
   {
     "w": "排名",
     "p": "pái míng",
     "m": "xếp hạng",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "她在比赛中排名第三。",
+    "example_vi": "Cô ấy xếp hạng thứ ba trong cuộc thi."
   },
   {
     "w": "联赛",
     "p": "lián sài",
     "m": "giải đấu liên tiếp",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "这支球队参加了本赛季的联赛。",
+    "example_vi": "Đội bóng này đã tham gia giải đấu mùa này."
   },
   {
     "w": "世界杯",
     "p": "shì jiè bēi",
     "m": "World Cup, Cúp thế giới",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "世界杯每四年举办一次。",
+    "example_vi": "World Cup được tổ chức bốn năm một lần."
   },
   {
     "w": "赞助",
     "p": "zàn zhù",
     "m": "tài trợ",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这家公司赞助了这次比赛。",
+    "example_vi": "Công ty này đã tài trợ cho cuộc thi lần này."
   },
   {
     "w": "赛事",
     "p": "sài shì",
     "m": "sự kiện thi đấu",
-    "cat": "thể thao"
+    "cat": "thể thao",
+    "example": "这项赛事吸引了很多观众。",
+    "example_vi": "Sự kiện thi đấu này đã thu hút rất nhiều khán giả."
   },
   {
     "w": "转播",
     "p": "zhuǎn bō",
     "m": "phát sóng, truyền hình",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "电视台转播了这场比赛。",
+    "example_vi": "Đài truyền hình đã phát sóng trực tiếp trận đấu này."
   },
   {
     "w": "直播",
     "p": "zhí bō",
     "m": "phát trực tiếp",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "她正在直播做饭。",
+    "example_vi": "Cô ấy đang phát sóng trực tiếp nấu ăn."
   },
   {
     "w": "播客",
     "p": "bō kè",
     "m": "podcast",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "他喜欢听英语播客。",
+    "example_vi": "Anh ấy thích nghe podcast tiếng Anh."
   },
   {
     "w": "短视频",
     "p": "duǎn shì pín",
     "m": "video ngắn",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "现在很多人喜欢看短视频。",
+    "example_vi": "Hiện nay nhiều người thích xem video ngắn."
   },
   {
     "w": "内容创作",
     "p": "nèi róng chuàng zuò",
     "m": "tạo nội dung",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "她从事内容创作工作。",
+    "example_vi": "Cô ấy làm công việc sáng tạo nội dung."
   },
   {
     "w": "算法推荐",
     "p": "suàn fǎ tuī jiàn",
     "m": "đề xuất theo thuật toán",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "这个应用根据算法推荐内容。",
+    "example_vi": "Ứng dụng này gợi ý nội dung dựa theo thuật toán."
   },
   {
     "w": "信息茧房",
     "p": "xìn xī jiǎn fáng",
     "m": "buồng vang thông tin",
-    "cat": "xã hội"
+    "cat": "xã hội",
+    "example": "算法推荐可能造成信息茧房效应。",
+    "example_vi": "Gợi ý thuật toán có thể tạo ra hiệu ứng bong bóng thông tin."
   },
   {
     "w": "舆论",
@@ -3921,61 +4597,81 @@
     "w": "自媒体",
     "p": "zì méi tǐ",
     "m": "tự truyền thông, media cá nhân, mạng xã hội tự xuất bản",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "他经营一个自媒体账号。",
+    "example_vi": "Anh ấy điều hành một tài khoản tự truyền thông."
   },
   {
     "w": "流量",
     "p": "liú liàng",
     "m": "lưu lượng truy cập",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "这个视频的流量很高。",
+    "example_vi": "Lưu lượng truy cập của video này rất cao."
   },
   {
     "w": "曝光率",
     "p": "pù guāng lǜ",
     "m": "tỷ lệ hiển thị",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这个品牌的曝光率提高了。",
+    "example_vi": "Tỷ lệ hiển thị của thương hiệu này đã tăng lên."
   },
   {
     "w": "转化率",
     "p": "zhuǎn huà lǜ",
     "m": "tỷ lệ chuyển đổi",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "这次广告的转化率很高。",
+    "example_vi": "Tỷ lệ chuyển đổi của quảng cáo lần này rất cao."
   },
   {
     "w": "用户体验",
     "p": "yòng hù tǐ yàn",
     "m": "trải nghiệm người dùng (UX)",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "公司很重视用户体验。",
+    "example_vi": "Công ty rất coi trọng trải nghiệm người dùng."
   },
   {
     "w": "界面设计",
     "p": "jiè miàn shè jì",
     "m": "thiết kế giao diện (UI)",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "她负责这款软件的界面设计。",
+    "example_vi": "Cô ấy phụ trách thiết kế giao diện của phần mềm này."
   },
   {
     "w": "产品设计",
     "p": "chǎn pǐn shè jì",
     "m": "thiết kế sản phẩm",
-    "cat": "kinh doanh"
+    "cat": "kinh doanh",
+    "example": "他是一名产品设计师。",
+    "example_vi": "Anh ấy là một nhà thiết kế sản phẩm."
   },
   {
     "w": "迭代",
     "p": "dié dài",
     "m": "lặp lại, cải tiến dần",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "这款产品经过多次迭代。",
+    "example_vi": "Sản phẩm này đã trải qua nhiều lần cải tiến dần."
   },
   {
     "w": "敏捷开发",
     "p": "mǐn jié kāi fā",
     "m": "phát triển Agile",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "团队采用了敏捷开发模式。",
+    "example_vi": "Nhóm đã áp dụng mô hình phát triển Agile."
   },
   {
     "w": "测试",
     "p": "cè shì",
     "m": "kiểm thử",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "新产品正在进行测试。",
+    "example_vi": "Sản phẩm mới đang được kiểm thử."
   },
   {
     "w": "部署",
@@ -3987,18 +4683,24 @@
     "w": "维护",
     "p": "wéi hù",
     "m": "bảo trì",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "我们要维护公共设施。",
+    "example_vi": "Chúng ta phải bảo trì các thiết bị công cộng."
   },
   {
     "w": "故障",
     "p": "gù zhàng",
     "m": "sự cố, lỗi",
-    "cat": "công nghệ"
+    "cat": "công nghệ",
+    "example": "设备出现了故障。",
+    "example_vi": "Thiết bị đã xuất hiện sự cố."
   },
   {
     "w": "修复",
     "p": "xiū fù",
     "m": "sửa chữa, khắc phục lỗi",
-    "cat": "hành động"
+    "cat": "hành động",
+    "example": "技术人员正在修复系统。",
+    "example_vi": "Kỹ thuật viên đang sửa chữa hệ thống."
   }
 ]

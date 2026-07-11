@@ -15,13 +15,17 @@
     "w": "固体废物",
     "p": "gùtǐ fèiwù",
     "m": "chất thải rắn, rác thải rắn",
-    "cat": "environment"
+    "cat": "environment",
+    "example": "工厂产生了大量固体废物。",
+    "example_vi": "Nhà máy đã tạo ra một lượng lớn chất thải rắn."
   },
   {
     "w": "价值取向",
     "p": "jiàzhí qǔxiàng",
     "m": "định hướng giá trị, quan điểm giá trị của con người",
-    "cat": "society"
+    "cat": "society",
+    "example": "这本书反映了作者的价值取向。",
+    "example_vi": "Cuốn sách này phản ánh định hướng giá trị của tác giả."
   },
   {
     "w": "资源循环",
@@ -33,37 +37,49 @@
     "w": "专利申请",
     "p": "zhuānlì shēnqǐng",
     "m": "nộp đơn xin cấp bằng sáng chế",
-    "cat": "work"
+    "cat": "work",
+    "example": "公司提交了专利申请。",
+    "example_vi": "Công ty đã nộp đơn xin cấp bằng sáng chế."
   },
   {
     "w": "情感支持",
     "p": "qínggǎn zhīchí",
     "m": "hỗ trợ về mặt cảm xúc, động viên tinh thần",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "朋友给了她情感支持。",
+    "example_vi": "Bạn bè đã cho cô ấy sự hỗ trợ về mặt cảm xúc."
   },
   {
     "w": "网络伦理",
     "p": "wǎngluò lúnlǐ",
     "m": "đạo đức mạng, quy tắc ứng xử trên internet",
-    "cat": "tech"
+    "cat": "tech",
+    "example": "这门课讨论网络伦理问题。",
+    "example_vi": "Môn học này thảo luận về vấn đề đạo đức mạng."
   },
   {
     "w": "创业创新",
     "p": "chuàngyè chuàngxīn",
     "m": "khởi nghiệp và đổi mới sáng tạo",
-    "cat": "work"
+    "cat": "work",
+    "example": "政府鼓励创业创新。",
+    "example_vi": "Chính phủ khuyến khích khởi nghiệp và đổi mới sáng tạo."
   },
   {
     "w": "技术壁垒",
     "p": "jìshù bìlěi",
     "m": "rào cản kỹ thuật, hàng rào kỹ thuật thương mại",
-    "cat": "economy"
+    "cat": "economy",
+    "example": "这个行业存在技术壁垒。",
+    "example_vi": "Ngành này tồn tại rào cản kỹ thuật."
   },
   {
     "w": "立法程序",
     "p": "lìfǎ chéngxù",
     "m": "quy trình lập pháp, thủ tục làm luật",
-    "cat": "society"
+    "cat": "society",
+    "example": "这项法案完成了立法程序。",
+    "example_vi": "Dự luật này đã hoàn thành quy trình lập pháp."
   },
   {
     "w": "行政监督",
@@ -75,37 +91,49 @@
     "w": "国际交流",
     "p": "guójì jiāoliú",
     "m": "giao lưu quốc tế, trao đổi giữa các quốc gia",
-    "cat": "society"
+    "cat": "society",
+    "example": "学校鼓励学生参加国际交流。",
+    "example_vi": "Nhà trường khuyến khích học sinh tham gia giao lưu quốc tế."
   },
   {
     "w": "爱国主义",
     "p": "àiguó zhǔyì",
     "m": "chủ nghĩa yêu nước",
-    "cat": "society"
+    "cat": "society",
+    "example": "这部电影弘扬了爱国主义精神。",
+    "example_vi": "Bộ phim này đã phát huy tinh thần chủ nghĩa yêu nước."
   },
   {
     "w": "职业规划",
     "p": "zhíyè guīhuà",
     "m": "kế hoạch nghề nghiệp, định hướng sự nghiệp",
-    "cat": "work"
+    "cat": "work",
+    "example": "他制定了自己的职业规划。",
+    "example_vi": "Anh ấy đã lập kế hoạch nghề nghiệp cho bản thân."
   },
   {
     "w": "个人成长",
     "p": "gèrén chéngzhǎng",
     "m": "sự phát triển cá nhân, trưởng thành về nhân cách",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "这段经历促进了他的个人成长。",
+    "example_vi": "Trải nghiệm này đã thúc đẩy sự phát triển cá nhân của anh ấy."
   },
   {
     "w": "自我管理",
     "p": "zìwǒ guǎnlǐ",
     "m": "tự quản lý bản thân, tự điều tiết",
-    "cat": "psychology"
+    "cat": "psychology",
+    "example": "他很擅长自我管理。",
+    "example_vi": "Anh ấy rất giỏi tự quản lý bản thân."
   },
   {
     "w": "地震预警",
     "p": "dìzhèn yùjǐng",
     "m": "cảnh báo động đất sớm",
-    "cat": "environment"
+    "cat": "environment",
+    "example": "这个系统可以提供地震预警。",
+    "example_vi": "Hệ thống này có thể cung cấp cảnh báo động đất sớm."
   },
   {
     "w": "历史传承",
@@ -123,13 +151,17 @@
     "w": "媒体监督",
     "p": "méitǐ jiāndū",
     "m": "giám sát của truyền thông, báo chí giám sát xã hội",
-    "cat": "society"
+    "cat": "society",
+    "example": "媒体监督在社会中起重要作用。",
+    "example_vi": "Giám sát của truyền thông đóng vai trò quan trọng trong xã hội."
   },
   {
     "w": "教育改革",
     "p": "jiàoyù gǎigé",
     "m": "cải cách giáo dục",
-    "cat": "education"
+    "cat": "education",
+    "example": "政府推行了教育改革。",
+    "example_vi": "Chính phủ đã thúc đẩy cải cách giáo dục."
   },
   {
     "w": "公民素养",
@@ -141,37 +173,49 @@
     "w": "公益慈善",
     "p": "gōngyì císhàn",
     "m": "hoạt động từ thiện và phúc lợi công cộng",
-    "cat": "society"
+    "cat": "society",
+    "example": "他积极参与公益慈善活动。",
+    "example_vi": "Anh ấy tích cực tham gia hoạt động từ thiện công ích."
   },
   {
     "w": "体育强国",
     "p": "tǐyù qiángguó",
     "m": "cường quốc thể thao, quốc gia mạnh về thể thao",
-    "cat": "sports"
+    "cat": "sports",
+    "example": "国家致力于建设体育强国。",
+    "example_vi": "Đất nước nỗ lực xây dựng cường quốc thể thao."
   },
   {
     "w": "全民健身",
     "p": "quánmín jiànshēn",
     "m": "toàn dân tập thể dục, phong trào rèn luyện sức khỏe",
-    "cat": "sports"
+    "cat": "sports",
+    "example": "政府推广全民健身运动。",
+    "example_vi": "Chính phủ thúc đẩy phong trào toàn dân tập thể dục."
   },
   {
     "w": "运动精神",
     "p": "yùndòng jīngshén",
     "m": "tinh thần thể thao, đạo đức thể thao",
-    "cat": "sports"
+    "cat": "sports",
+    "example": "他展现出了良好的运动精神。",
+    "example_vi": "Anh ấy đã thể hiện tinh thần thể thao tốt đẹp."
   },
   {
     "w": "养老保险",
     "p": "yǎnglǎo bǎoxiǎn",
     "m": "bảo hiểm hưu trí, bảo hiểm dưỡng lão",
-    "cat": "society"
+    "cat": "society",
+    "example": "公司为员工购买了养老保险。",
+    "example_vi": "Công ty đã mua bảo hiểm hưu trí cho nhân viên."
   },
   {
     "w": "失业保险",
     "p": "shīyè bǎoxiǎn",
     "m": "bảo hiểm thất nghiệp",
-    "cat": "society"
+    "cat": "society",
+    "example": "他领取了失业保险金。",
+    "example_vi": "Anh ấy đã nhận tiền bảo hiểm thất nghiệp."
   },
   {
     "w": "生育保险",
@@ -183,19 +227,25 @@
     "w": "食品溯源",
     "p": "shípǐn sùyuán",
     "m": "truy xuất nguồn gốc thực phẩm",
-    "cat": "food"
+    "cat": "food",
+    "example": "这个平台提供食品溯源服务。",
+    "example_vi": "Nền tảng này cung cấp dịch vụ truy xuất nguồn gốc thực phẩm."
   },
   {
     "w": "农业现代化",
     "p": "nóngyè xiàndàihuà",
     "m": "hiện đại hóa nông nghiệp",
-    "cat": "economy"
+    "cat": "economy",
+    "example": "政府推动农业现代化。",
+    "example_vi": "Chính phủ thúc đẩy hiện đại hóa nông nghiệp."
   },
   {
     "w": "品牌建设",
     "p": "pǐnpái jiànshè",
     "m": "xây dựng thương hiệu",
-    "cat": "economy"
+    "cat": "economy",
+    "example": "公司重视品牌建设。",
+    "example_vi": "Công ty coi trọng việc xây dựng thương hiệu."
   },
   {
     "w": "能源结构",
@@ -219,13 +269,17 @@
     "w": "批判思维",
     "p": "pīpàn sīwéi",
     "m": "tư duy phản biện, tư duy phê phán",
-    "cat": "education"
+    "cat": "education",
+    "example": "学校培养学生的批判思维。",
+    "example_vi": "Nhà trường bồi dưỡng tư duy phản biện cho học sinh."
   },
   {
     "w": "大局观",
     "p": "dàjú guān",
     "m": "tầm nhìn tổng thể, nhìn nhận từ góc độ toàn cục",
-    "cat": "society"
+    "cat": "society",
+    "example": "这位领导很有大局观。",
+    "example_vi": "Vị lãnh đạo này rất có tầm nhìn tổng thể."
   },
   {
     "w": "改革开放",
@@ -243,7 +297,9 @@
     "w": "互联互通",
     "p": "hùlián hùtōng",
     "m": "kết nối và liên thông, hạ tầng liên kết các quốc gia",
-    "cat": "economy"
+    "cat": "economy",
+    "example": "两地实现了互联互通。",
+    "example_vi": "Hai nơi đã thực hiện kết nối liên thông."
   },
   {
     "w": "生命周期",
@@ -255,13 +311,17 @@
     "w": "成果转化",
     "p": "chéngguǒ zhuǎnhuà",
     "m": "chuyển hóa thành quả nghiên cứu thành sản phẩm",
-    "cat": "tech"
+    "cat": "tech",
+    "example": "学校推动科研成果转化。",
+    "example_vi": "Nhà trường thúc đẩy chuyển hóa thành quả nghiên cứu khoa học."
   },
   {
     "w": "协同创新",
     "p": "xiétóng chuàngxīn",
     "m": "đổi mới sáng tạo cộng tác, cùng nhau sáng tạo",
-    "cat": "work"
+    "cat": "work",
+    "example": "企业和高校开展协同创新。",
+    "example_vi": "Doanh nghiệp và trường đại học triển khai đổi mới sáng tạo cộng tác."
   },
   {
     "w": "数字包容",
@@ -273,7 +333,9 @@
     "w": "社会稳定",
     "p": "shèhuì wěndìng",
     "m": "ổn định xã hội",
-    "cat": "society"
+    "cat": "society",
+    "example": "政府致力于维护社会稳定。",
+    "example_vi": "Chính phủ nỗ lực duy trì ổn định xã hội."
   },
   {
     "w": "经济转型",
@@ -285,7 +347,9 @@
     "w": "结构调整",
     "p": "jiégòu tiáozhěng",
     "m": "điều chỉnh cơ cấu kinh tế",
-    "cat": "economy"
+    "cat": "economy",
+    "example": "公司进行了结构调整。",
+    "example_vi": "Công ty đã tiến hành điều chỉnh cơ cấu."
   },
   {
     "w": "法治政府",
@@ -297,7 +361,9 @@
     "w": "权力监督",
     "p": "quánlì jiāndū",
     "m": "giám sát quyền lực, kiểm soát và cân bằng quyền lực",
-    "cat": "society"
+    "cat": "society",
+    "example": "制度设计要加强权力监督。",
+    "example_vi": "Thiết kế thể chế phải tăng cường giám sát quyền lực."
   },
   {
     "w": "扶贫攻坚",

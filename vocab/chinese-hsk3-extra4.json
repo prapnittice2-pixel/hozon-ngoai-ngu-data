@@ -3,43 +3,57 @@
     "w": "捡",
     "p": "jiǎn",
     "m": "nhặt lên, lượm",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他捡到了一个钱包。",
+    "example_vi": "Anh ấy đã nhặt được một cái ví."
   },
   {
     "w": "爬",
     "p": "pá",
     "m": "bò, leo, trèo",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "小孩子在地上爬。",
+    "example_vi": "Đứa trẻ đang bò trên mặt đất."
   },
   {
     "w": "洗",
     "p": "xǐ",
     "m": "rửa, giặt",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "我在洗衣服。",
+    "example_vi": "Tôi đang giặt quần áo."
   },
   {
     "w": "踢",
     "p": "tī",
     "m": "đá (bóng)",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "他踢了一脚球。",
+    "example_vi": "Anh ấy đã đá một quả bóng."
   },
   {
     "w": "佩服",
     "p": "pèifú",
     "m": "khâm phục, ngưỡng mộ",
-    "cat": "cảm xúc"
+    "cat": "cảm xúc",
+    "example": "我很佩服他的勇气。",
+    "example_vi": "Tôi rất khâm phục lòng dũng cảm của anh ấy."
   },
   {
     "w": "还没",
     "p": "hái méi",
     "m": "vẫn chưa",
-    "cat": "language"
+    "cat": "language",
+    "example": "他还没吃饭。",
+    "example_vi": "Anh ấy vẫn chưa ăn cơm."
   },
   {
     "w": "逛街",
     "p": "guàngjiē",
     "m": "đi dạo phố, mua sắm dạo",
-    "cat": "verb"
+    "cat": "verb",
+    "example": "周末我们去逛街吧。",
+    "example_vi": "Cuối tuần chúng ta đi dạo phố nhé."
   },
   {
     "w": "工厂",
@@ -51,7 +65,9 @@
     "w": "停车场",
     "p": "tíngchēchǎng",
     "m": "bãi đỗ xe",
-    "cat": "place"
+    "cat": "place",
+    "example": "停车场在大楼后面。",
+    "example_vi": "Bãi đỗ xe ở phía sau tòa nhà."
   },
   {
     "w": "百货商店",
@@ -81,37 +97,49 @@
     "w": "邮递员",
     "p": "yóudìyuán",
     "m": "người đưa thư, nhân viên bưu điện",
-    "cat": "nghề nghiệp"
+    "cat": "nghề nghiệp",
+    "example": "邮递员每天送信。",
+    "example_vi": "Người đưa thư mỗi ngày phát thư."
   },
   {
     "w": "消防员",
     "p": "xiāofángyuán",
     "m": "lính cứu hỏa",
-    "cat": "nghề nghiệp"
+    "cat": "nghề nghiệp",
+    "example": "消防员很勇敢。",
+    "example_vi": "Lính cứu hỏa rất dũng cảm."
   },
   {
     "w": "飞行员",
     "p": "fēixíngyuán",
     "m": "phi công",
-    "cat": "nghề nghiệp"
+    "cat": "nghề nghiệp",
+    "example": "他的梦想是成为飞行员。",
+    "example_vi": "Ước mơ của anh ấy là trở thành phi công."
   },
   {
     "w": "工人",
     "p": "gōngrén",
     "m": "công nhân, thợ",
-    "cat": "nghề nghiệp"
+    "cat": "nghề nghiệp",
+    "example": "工人们在工厂工作。",
+    "example_vi": "Công nhân làm việc trong nhà máy."
   },
   {
     "w": "农民",
     "p": "nóngmín",
     "m": "nông dân",
-    "cat": "nghề nghiệp"
+    "cat": "nghề nghiệp",
+    "example": "农民在田里种地。",
+    "example_vi": "Nông dân trồng trọt ngoài đồng."
   },
   {
     "w": "腰",
     "p": "yāo",
     "m": "eo, lưng dưới",
-    "cat": "cơ thể"
+    "cat": "cơ thể",
+    "example": "他的腰很疼。",
+    "example_vi": "Eo lưng của anh ấy rất đau."
   },
   {
     "w": "手掌",
@@ -123,43 +151,57 @@
     "w": "手腕",
     "p": "shǒuwàn",
     "m": "cổ tay",
-    "cat": "cơ thể"
+    "cat": "cơ thể",
+    "example": "她的手腕很细。",
+    "example_vi": "Cổ tay của cô ấy rất thon."
   },
   {
     "w": "膝盖",
     "p": "xīgài",
     "m": "đầu gối",
-    "cat": "cơ thể"
+    "cat": "cơ thể",
+    "example": "他的膝盖受伤了。",
+    "example_vi": "Đầu gối của anh ấy bị thương."
   },
   {
     "w": "梨",
     "p": "lí",
     "m": "quả lê",
-    "cat": "food"
+    "cat": "food",
+    "example": "这个梨很甜。",
+    "example_vi": "Quả lê này rất ngọt."
   },
   {
     "w": "桃",
     "p": "táo",
     "m": "quả đào",
-    "cat": "food"
+    "cat": "food",
+    "example": "桃花开了。",
+    "example_vi": "Hoa đào đã nở."
   },
   {
     "w": "蛋",
     "p": "dàn",
     "m": "trứng",
-    "cat": "food"
+    "cat": "food",
+    "example": "早餐我喜欢吃一个蛋。",
+    "example_vi": "Bữa sáng tôi thích ăn một quả trứng."
   },
   {
     "w": "粥",
     "p": "zhōu",
     "m": "cháo",
-    "cat": "food"
+    "cat": "food",
+    "example": "我早上喝了一碗粥。",
+    "example_vi": "Sáng nay tôi đã ăn một bát cháo."
   },
   {
     "w": "冰淇淋",
     "p": "bīngqílín",
     "m": "kem lạnh",
-    "cat": "food"
+    "cat": "food",
+    "example": "孩子们喜欢吃冰淇淋。",
+    "example_vi": "Bọn trẻ thích ăn kem lạnh."
   },
   {
     "w": "绿茶",
@@ -171,25 +213,33 @@
     "w": "折扣",
     "p": "zhékòu",
     "m": "giảm giá, chiết khấu",
-    "cat": "shopping"
+    "cat": "shopping",
+    "example": "这件衣服打八折。",
+    "example_vi": "Chiếc áo này giảm giá hai mươi phần trăm."
   },
   {
     "w": "木头",
     "p": "mùtou",
     "m": "gỗ, khúc gỗ",
-    "cat": "material"
+    "cat": "material",
+    "example": "这把椅子是木头做的。",
+    "example_vi": "Chiếc ghế này được làm bằng gỗ."
   },
   {
     "w": "石头",
     "p": "shítou",
     "m": "đá, hòn đá",
-    "cat": "material"
+    "cat": "material",
+    "example": "路上有一块大石头。",
+    "example_vi": "Trên đường có một hòn đá lớn."
   },
   {
     "w": "铁",
     "p": "tiě",
     "m": "sắt",
-    "cat": "material"
+    "cat": "material",
+    "example": "这个桥是用铁做的。",
+    "example_vi": "Cây cầu này được làm bằng sắt."
   },
   {
     "w": "金",
@@ -201,55 +251,73 @@
     "w": "银",
     "p": "yín",
     "m": "bạc",
-    "cat": "material"
+    "cat": "material",
+    "example": "她戴着一条银项链。",
+    "example_vi": "Cô ấy đeo một chiếc vòng cổ bằng bạc."
   },
   {
     "w": "塑料",
     "p": "sùliào",
     "m": "nhựa, chất dẻo",
-    "cat": "material"
+    "cat": "material",
+    "example": "这个杯子是塑料做的。",
+    "example_vi": "Chiếc cốc này được làm bằng nhựa."
   },
   {
     "w": "玻璃",
     "p": "bōlí",
     "m": "kính, thủy tinh",
-    "cat": "material"
+    "cat": "material",
+    "example": "窗户是玻璃做的。",
+    "example_vi": "Cửa sổ được làm bằng kính."
   },
   {
     "w": "河流",
     "p": "héliú",
     "m": "sông, dòng chảy",
-    "cat": "nature"
+    "cat": "nature",
+    "example": "这条河流很长。",
+    "example_vi": "Con sông này rất dài."
   },
   {
     "w": "树叶",
     "p": "shùyè",
     "m": "lá cây",
-    "cat": "nature"
+    "cat": "nature",
+    "example": "秋天树叶都黄了。",
+    "example_vi": "Mùa thu lá cây đều vàng cả."
   },
   {
     "w": "根",
     "p": "gēn",
     "m": "rễ, gốc",
-    "cat": "nature"
+    "cat": "nature",
+    "example": "树的根很深。",
+    "example_vi": "Rễ cây rất sâu."
   },
   {
     "w": "种子",
     "p": "zhǒngzi",
     "m": "hạt giống",
-    "cat": "nature"
+    "cat": "nature",
+    "example": "农民在地里种下种子。",
+    "example_vi": "Nông dân gieo hạt giống xuống ruộng."
   },
   {
     "w": "沙子",
     "p": "shāzi",
     "m": "cát",
-    "cat": "nature"
+    "cat": "nature",
+    "example": "海边有很多沙子。",
+    "example_vi": "Ở bờ biển có rất nhiều cát."
   },
   {
     "w": "岸",
     "p": "àn",
     "m": "bờ (sông, biển)",
-    "cat": "nature"
+    "cat": "nature",
+    "example": "船靠岸了。",
+    "example_vi": "Con thuyền đã cập bờ."
   },
   {
     "w": "池塘",
@@ -267,7 +335,9 @@
     "w": "枕头",
     "p": "zhěntou",
     "m": "cái gối",
-    "cat": "home"
+    "cat": "home",
+    "example": "这个枕头很软。",
+    "example_vi": "Cái gối này rất mềm."
   },
   {
     "w": "被子",
@@ -279,43 +349,57 @@
     "w": "梳子",
     "p": "shūzi",
     "m": "lược chải tóc",
-    "cat": "home"
+    "cat": "home",
+    "example": "请把梳子给我。",
+    "example_vi": "Xin đưa cho tôi cái lược."
   },
   {
     "w": "盆",
     "p": "pén",
     "m": "chậu, thau",
-    "cat": "home"
+    "cat": "home",
+    "example": "妈妈在花盆里种花。",
+    "example_vi": "Mẹ trồng hoa trong chậu hoa."
   },
   {
     "w": "桶",
     "p": "tǒng",
     "m": "thùng, xô",
-    "cat": "home"
+    "cat": "home",
+    "example": "请拿一个桶来装水。",
+    "example_vi": "Xin lấy một cái thùng để đựng nước."
   },
   {
     "w": "领带",
     "p": "lǐngdài",
     "m": "cà vạt",
-    "cat": "clothing"
+    "cat": "clothing",
+    "example": "他打着一条红色领带。",
+    "example_vi": "Anh ấy thắt một chiếc cà vạt màu đỏ."
   },
   {
     "w": "戒指",
     "p": "jièzhi",
     "m": "nhẫn",
-    "cat": "clothing"
+    "cat": "clothing",
+    "example": "她戴着一枚戒指。",
+    "example_vi": "Cô ấy đeo một chiếc nhẫn."
   },
   {
     "w": "耳环",
     "p": "ěrhuán",
     "m": "hoa tai, khuyên tai",
-    "cat": "clothing"
+    "cat": "clothing",
+    "example": "她戴着一对耳环。",
+    "example_vi": "Cô ấy đeo một đôi hoa tai."
   },
   {
     "w": "猴子",
     "p": "hóuzi",
     "m": "con khỉ",
-    "cat": "động vật"
+    "cat": "động vật",
+    "example": "动物园里有很多猴子。",
+    "example_vi": "Trong vườn thú có rất nhiều khỉ."
   },
   {
     "w": "节假日",
@@ -333,12 +417,16 @@
     "w": "假期",
     "p": "jiàqī",
     "m": "kỳ nghỉ, kỳ nghỉ phép",
-    "cat": "time"
+    "cat": "time",
+    "example": "暑假是一个长假期。",
+    "example_vi": "Kỳ nghỉ hè là một kỳ nghỉ dài."
   },
   {
     "w": "臭",
     "p": "chòu",
     "m": "hôi, thối",
-    "cat": "tính từ"
+    "cat": "tính từ",
+    "example": "这个垃圾桶很臭。",
+    "example_vi": "Thùng rác này rất hôi."
   }
 ]
